@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-sean-kirkpatrick-debunk-ufo/
 nav_short_title: Supporters
 title: Why Sceptics Think Kirkpatrick Was Needed
-title_full: Why Sceptics Think Kirkpatrick Was Needed | Kirkpatrick
+title_full: Why Sceptics Think Kirkpatrick Was Needed
 display_title_short: Supporters
 display_title: Supporters
 heading_title: Why Sceptics Think Kirkpatrick Was Needed
@@ -289,7 +289,7 @@ next_link:
   permalink: /transparency/
   short_title: Transparency
   heading_title: Can The Public Trust A Classified Review?
-date: '2026-06-09 02:57:38 '
+date: '2026-06-11 21:04:09 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overvi
 
 ## Introduction
 
-Supporters of [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }}) do not usually present him as the person who “solved” UAP. Their stronger argument is narrower: he was a necessary corrective in a debate where unresolved sightings, classified-program rumours, second-hand testimony and media repetition can easily harden into claims of proof. As the first director of the Pentagon’s All-domain Anomaly Resolution Office, or AARO, Kirkpatrick became the public face of a sceptical but still investigative approach: take UAP reports seriously as air-safety, intelligence and sensor problems, but do not treat “unidentified” as a synonym for extraterrestrial. In his April 2023 Senate testimony, he said AARO had found no credible evidence of extraterrestrial activity, off-world technology or objects defying known physics, while also saying stronger scientific data would be assessed if it emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf</span><span class="citation-popover-snippet">Armed Services Committee Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf</span></span></span>
-
+Supporters of Sean Kirkpatrick do not usually present him as the person who “solved” UAP. Their stronger argument is narrower: he was a necessary corrective in a debate where unresolved sightings, classified-program rumours, second-hand testimony and media repetition can easily harden into claims of proof. As the first director of the Pentagon’s All-domain Anomaly Resolution Office, or AARO, Kirkpatrick became the public face of a sceptical but still investigative approach: take UAP reports seriously as air-safety, intelligence and sensor problems, but do not treat “unidentified” as a synonym for extraterrestrial. In his April 2023 Senate testimony, he said AARO had found no credible evidence of extraterrestrial activity, off-world technology or objects defying known physics, while also saying stronger scientific data would be assessed if it emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf</span><span class="citation-popover-snippet">Armed Services Committee Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overview.webp" | relative_url }}" alt="Overview image for Supporters" loading="eager" decoding="sync" fetchpriority="high">
 That is why some sceptical and evidence-first readers think Kirkpatrick was needed. He gave institutional weight to a question that often gets lost in UAP discourse: not “could aliens exist?”, but “what has actually been verified, by whom, with what chain of evidence?”
@@ -314,7 +313,6 @@ For Kirkpatrick’s supporters, this matters because it offers a non-mocking exp
 
 This is the part of Kirkpatrick’s position that appealed most to readers tired of the “someone told someone” pattern. It did not require calling every witness a liar. It allowed for misinterpretation, incomplete access, memory distortion, classified-context confusion, and the tendency of communities to reinforce their own narratives. Acting AARO director Tim Phillips made that point explicitly when he said AARO believed most individuals repeated the claims without malice or an effort to mislead the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-1-dark.svg" | relative_url }}" alt="Supporters illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official scepticism appealed
 
@@ -325,7 +323,6 @@ That approach fit the broader direction of serious UAP work after 2021. The Offi
 This wider context made Kirkpatrick useful to supporters because his argument was not merely “trust the Pentagon”. It aligned with a more basic scientific caution: poor data can preserve mystery without implying a non-human answer. A blurry video, a fragmentary radar track, or a pilot’s honest visual impression may be important enough to investigate, but still too weak to support claims about recovered craft, alien bodies or hidden physics.
 
 A concrete example is AARO’s treatment of resolved cases. Later AARO reporting under Kirkpatrick’s successors continued the same pattern: hundreds of cases remained under review, but resolved cases pointed to prosaic objects such as balloons, birds, drones, satellites and aircraft, with no resolved case indicating extraterrestrial beings, activity or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span> Supporters see this as vindication of Kirkpatrick’s basic caution. The existence of unresolved cases does not mean the alien hypothesis has gained evidence; it may simply mean that the data are incomplete.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uYignoEW_0s" title="Pentagon&#x27;s UFO chief separates science from fiction | Nightline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s UFO chief separates science from fiction | Nightline</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 149.2K &middot; Uploaded: August 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uYignoEW_0s">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +338,6 @@ The same logic explains why some readers welcomed AARO’s focus on named claims
 
 For supporters, that is exactly the kind of corrective UAP discourse needs: not a blanket sneer at believers, but a demand that each claim survive contact with records, named programmes, dates, physical materials and accountable denials.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-2-dark.svg" | relative_url }}" alt="Supporters illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest supporter argument is procedural, not emotional
 
@@ -355,7 +351,6 @@ Third, institutional secrecy can explain confusion without proving aliens. AARO�
 
 This procedural defence also explains why Kirkpatrick’s supporters often compare his role to a filter rather than a debunker. A filter does not decide in advance that nothing unusual can exist. It separates stronger claims from weaker ones, first-hand claims from hearsay, physical evidence from stories, and unresolved observations from narratives that have already outrun the data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zxx40F1uv4Y" title="House Committee Hearing on Restoring Public Trust Through UAP Transparency, Whistleblower Protection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zxx40F1uv4Y" target="_blank" rel="noopener noreferrer">House Committee Hearing on Restoring Public Trust Through UAP Transparency, Whistleblower Protection</a></p><p class="youtube-embed-meta">Channel: NTD &middot; Views: 2.1K &middot; Uploaded: September 2025 &middot; Length: 2 hours 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zxx40F1uv4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zxx40F1uv4Y">Open on YouTube</a></p></div></div></div>
 
 ## Where the supporter argument can overreach
@@ -367,7 +362,6 @@ Critics also argue that the historical report contained errors and showed uneven
 There is also a tone problem. Kirkpatrick’s sharper public comments about “true believers”, conspiracy thinking and a core group of interconnected advocates may have helped sceptical readers make sense of the social dynamics, but they also hardened distrust among people who already suspected the Pentagon of managing the narrative. The Guardian reported Kirkpatrick’s view that conspiracy-minded figures in or around government were driving unnecessary UFO-related spending, while also noting the hostility and threats he faced from some UFO enthusiasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> His supporters may see that as evidence of why a corrective was needed; critics may see it as evidence that he was too dismissive of witnesses and disclosure advocates.
 
 The careful position sits between those extremes. Kirkpatrick’s scepticism is strongest when it rests on AARO’s specific checks, lack of empirical evidence, and the circular-reporting mechanism. It is weaker when it sounds like a cultural judgement on everyone who remains unconvinced. A reader can value him as a corrective without treating every sceptical flourish as equally well supported.
-
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-3-dark.svg" | relative_url }}" alt="Supporters illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Kirkpatrick changed in the credibility debate
@@ -384,91 +378,47 @@ The supporters’ case for Sean Kirkpatrick is strongest when framed modestly. H
 
 For readers who want serious UAP investigation without alien-first assumptions, Kirkpatrick’s value lies in his insistence on chain of custody, empirical evidence, named-programme checks, sensor quality and peer-reviewable analysis. His critics are right to press for [transparency]({{ 'transparency/' | relative_url }}) and to scrutinise AARO’s errors or omissions. His supporters are right that without someone applying that kind of pressure to the evidence, UAP credibility debates can become a loop in which rumour is mistaken for confirmation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KdDNhMIW-HY" title="Kirkpatrick&#x27;s SENATE Testimony on UFO AARO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KdDNhMIW-HY" target="_blank" rel="noopener noreferrer">Kirkpatrick&#x27;s SENATE Testimony on UFO AARO</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 400 &middot; Uploaded: July 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KdDNhMIW-HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KdDNhMIW-HY">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Sceptics Think Kirkpatrick Was Needed. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Sceptics Think Kirkpatrick Was Needed, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Examines government investigations and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly addresses evidence, belief and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
-        <p class="fr-book-desc">Useful for understanding claims, rumours and information loops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for how secret programs generate speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -505,15 +455,15 @@ For readers who want serious UAP investigation without alien-first assumptions, 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +471,15 @@ For readers who want serious UAP investigation without alien-first assumptions, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +487,15 @@ For readers who want serious UAP investigation without alien-first assumptions, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +503,15 @@ For readers who want serious UAP investigation without alien-first assumptions, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +519,7 @@ For readers who want serious UAP investigation without alien-first assumptions, 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books" data-ebay-reference="supporters-0a40e4-why-sceptics-think-kirkpatrick-was-needed-sean-kirkpatrick-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sceptics-think-kirkpatrick-was-needed-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-sceptics-think-kirkpatrick-was-needed-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,220 +735,220 @@ For readers who want serious UAP investigation without alien-first assumptions, 
 1. <a id="endnote-1"></a>
    Source: armed-services.senate.gov  
    Title: Armed Services Committee Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf  
-   Link: [https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf](https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf)  
+   Link: <a href="https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/imo/media/doc/23-31_04-19-2023.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 9. <a id="endnote-9"></a>
    Source: armed-services.senate.gov  
-   Link: [https://www.armed-services.senate.gov/download/transcript-4-19-2023](https://www.armed-services.senate.gov/download/transcript-4-19-2023)  
+   Link: <a href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript-4-19-2023</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/](https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Tag/260628/anomalous-phenomena/](https://www.war.gov/News/Tag/260628/anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/Tag/260628/anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/260628/anomalous-phenomena/</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: pentagon press secretary air force maj gen pat ryder holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702062/pentagon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/</a>  
 
 16. <a id="endnote-16"></a>
    Source: comptroller.war.gov  
    Title: 42a NIST SP 800 53 to FISCAM Mapping.xlsx  
-   Link: [https://comptroller.war.gov/Portals/45/documents/fiar/workproducts/42a_NIST_SP-800-53_to_FISCAM_Mapping.xlsx](https://comptroller.war.gov/Portals/45/documents/fiar/workproducts/42a_NIST_SP-800-53_to_FISCAM_Mapping.xlsx)  
+   Link: <a href="https://comptroller.war.gov/Portals/45/documents/fiar/workproducts/42a_NIST_SP-800-53_to_FISCAM_Mapping.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.war.gov/Portals/45/documents/fiar/workproducts/42a_NIST_SP-800-53_to_FISCAM_Mapping.xlsx</a>  
 
 17. <a id="endnote-17"></a>
    Source: comptroller.war.gov  
    Title: RDTE Vol3 OSD RDTE PB20 Justification Book  
-   Link: [https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf](https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf)  
+   Link: <a href="https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: comptroller.war.gov  
    Title: PB 2026 RDTE VOL 5.xml  
-   Link: [https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/PB_2026_RDTE_VOL_5.xml](https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/PB_2026_RDTE_VOL_5.xml)  
+   Link: <a href="https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/PB_2026_RDTE_VOL_5.xml" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/PB_2026_RDTE_VOL_5.xml</a>  
 
 19. <a id="endnote-19"></a>
    Source: comptroller.war.gov  
-   Link: [https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2008/budget_justification/pdfs/03_RDT_and_E/Vol_1_DARPA/DARPA.pdf](https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2008/budget_justification/pdfs/03_RDT_and_E/Vol_1_DARPA/DARPA.pdf)  
+   Link: <a href="https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2008/budget_justification/pdfs/03_RDT_and_E/Vol_1_DARPA/DARPA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2008/budget_justification/pdfs/03_RDT_and_E/Vol_1_DARPA/DARPA.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: comptroller.war.gov  
    Title: RDTE Vol3 OSD RDTE PB21 Justification Book  
-   Link: [https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2021/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB21_Justification_Book.pdf](https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2021/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB21_Justification_Book.pdf)  
+   Link: <a href="https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2021/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB21_Justification_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.war.gov/Portals/45/Documents/defbudget/fy2021/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB21_Justification_Book.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
 28. <a id="endnote-28"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S. Government's UFO Hunter  
-   Link: [https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/](https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/)  
+   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
 
 30. <a id="endnote-30"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media](https://www.vanityfair.com/news/2023/06/ufo-report-media)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
 31. <a id="endnote-31"></a>
    Source: thedebrief.org  
    Title: The Debrief AARO's Historical Report: A Tale of Factual Errors and Old  
-   Link: [https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/](https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/)  
+   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
 
 32. <a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
 
 33. <a id="endnote-33"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick&#x27;s investigation unearthed a mix of fringe science, conspiracy theories, and shadowy government projects involving figures lik...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/author/sean-kirkpatrick/](https://www.scientificamerican.com/author/sean-kirkpatrick/)  
+   Link: <a href="https://www.scientificamerican.com/author/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/sean-kirkpatrick/</a>  
 
 35. <a id="endnote-35"></a>
    Source: scientificamerican.com  
    Title: the governments former ufo hunter has a lot to say  
-   Link: [https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/](https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/)  
+   Link: <a href="https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/</a>  
 
 36. <a id="endnote-36"></a>
    Source: scientificamerican.com  
    Title: we need to investigate ufos but without the distraction of conspiracy  
-   Link: [https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/](https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/)  
+   Link: <a href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/</a>  
 
 37. <a id="endnote-37"></a>
    Source: theguardian.com  
    Title: ufologists sean kirkpatrick pentagon report uaps  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Pentagon's UFO chief separates science from fiction | Nightline  
-   Link: [https://www.youtube.com/watch?v=uYignoEW_0s](https://www.youtube.com/watch?v=uYignoEW_0s)  
+   Link: <a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uYignoEW_0s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=VyK46wdMJkQ](https://www.youtube.com/watch?v=VyK46wdMJkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/](https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/](https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/)  
+   Link: <a href="https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/</a>  
 
 45. <a id="endnote-45"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/](https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/</a>  
 
 46. <a id="endnote-46"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gvsc5d/heres_what_tim_phillips_from_aaro_has_to_say/](https://www.reddit.com/r/UFOs/comments/1gvsc5d/heres_what_tim_phillips_from_aaro_has_to_say/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gvsc5d/heres_what_tim_phillips_from_aaro_has_to_say/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gvsc5d/heres_what_tim_phillips_from_aaro_has_to_say/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /core-claims/
 nav_short_title: Paper trail
 title: Where would the reverse engineering trail be?
-title_full: Where would the reverse engineering trail be? | Core Claims
+title_full: Where would the reverse engineering trail be?
 display_title_short: Paper trail
 display_title: Paper trail
 heading_title: Where would the reverse engineering trail be?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did David Grusch Actually Claim? | Grusch
+parent_title: What Did David Grusch Actually Claim?
 parent_permalink: /core-claims/
 parent_nav_short_title: Core Claims
 parent_heading_title: What Did David Grusch Actually Claim?
@@ -253,7 +253,7 @@ next_link:
   permalink: /witness-chain/
   short_title: Witness chain
   heading_title: How strong is Grusch's witness chain?
-date: '2026-06-09 02:52:38 '
+date: '2026-06-11 21:01:26 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s most consequential allegation is not simply that unusual objects have been observed in restricted airspace. He claims that parts of the US government and associated contractors have operated a long-running crash-retrieval and reverse-engineering effort involving craft of allegedly non-human origin. If such a programme exists, it would not be a purely secret story told by witnesses. It would also be an industrial, financial and bureaucratic activity that leaves traces.
-
+David Grusch’s most consequential allegation is not simply that unusual objects have been observed in restricted airspace. He claims that parts of the US government and associated contractors have operated a long-running crash-retrieval and reverse-engineering effort involving craft of allegedly non-human origin. If such a programme exists, it would not be a purely secret story told by witnesses. It would also be an industrial, financial and bureaucratic activity that leaves traces.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1-dark.svg" | relative_url }}" alt="Paper trail illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters when assessing credibility. A hidden engineering programme requires people, facilities, contracts, security authorisations, material handling procedures, budget mechanisms and [oversight]({{ 'oversight/' | relative_url }}) arrangements. Even if the underlying technology remained classified, the surrounding machinery would normally generate records. The question is therefore not only whether Grusch is telling the truth, but what kinds of evidence would logically exist if his account were accurate. His allegation becomes testable because reverse engineering is difficult to conceal completely over decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — A former intelligence official turned whistleblower has given Congress and the Intelligence C...</span></span></span>
@@ -275,7 +274,6 @@ A recovered object cannot be studied without creating an organisational footprin
 Grusch told Congress that he was informed of a “multi-decade UAP crash retrieval and reverse-engineering program” and that he was denied access to it. He also alleged that information had been withheld from lawful oversight channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 If that allegation is true, investigators would expect to find traces in several categories:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,7 +288,7 @@ If that allegation is true, investigators would expect to find traces in several
 
 The key point is that reverse engineering is not merely possession. It is an ongoing technical process. Every attempt to identify materials, reproduce components, understand propulsion systems or analyse manufacturing methods normally generates paperwork and data.
 
-This is one reason the claim attracts congressional interest. A hidden retrieval programme would imply not only extraordinary technology but also a sustained administrative structure capable of preserving secrecy across decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DefenseScoopSenate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Buried in the Senate&#x27;s approved text of the Int...</span></span></span>
+This is one reason the claim attracts congressional interest. A hidden retrieval programme would imply not only extraordinary technology but also a sustained administrative structure capable of preserving secrecy across decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">Senate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Buried in the Senate&#x27;s approved text of the Int...</span></span></span>
 
 ## Contracts, facilities and access lists
 
@@ -300,13 +298,11 @@ In public interviews and reporting surrounding his disclosures, Grusch has sugge
 
 If a reverse-engineering effort were housed partly within private industry, investigators would look for several kinds of evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ9OIZybHJg" title="David Grusch: I Was Told Of &#x27;Multi-Decade UAP Crash Retrieval And Reverse Engineering Program&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ9OIZybHJg" target="_blank" rel="noopener noreferrer">David Grusch: I Was Told Of &#x27;Multi-Decade UAP Crash Retrieval And Reverse Engineering Program&#x27;</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 79.1K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ9OIZybHJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ9OIZybHJg">Open on YouTube</a></p></div></div></div>
 
 ### Contractor relationships
 
 Highly classified aerospace work is often performed by major defence firms under restricted contracts. Even when programme details remain secret, there are usually signs of activity:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -322,15 +318,13 @@ This does not mean every secret aerospace programme is evidence of non-human tec
 
 The debate became visible in legislation. The proposed UAP Disclosure Act included language asserting federal eminent-domain authority over “recovered technologies of unknown origin” and biological evidence of non-human intelligence held by private entities. That wording attracted attention because it implicitly contemplated the possibility that contractors, not just government agencies, might possess relevant material. Senate Democratic Leadership <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insidegovernmentcontracts.com">[Inside Government Contracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insidegovernmentcontracts.com</span><span class="citation-popover-snippet">Implications of the Unidentified Anomalous Phenomena...9 Jan 2024 — First, that amendment mandated that the Federal Government exercise...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d19SvuDkIbY" title="Former intelligence officer: US authorities covering up information about extraterrestrial objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d19SvuDkIbY" target="_blank" rel="noopener noreferrer">Former intelligence officer: US authorities covering up information about extraterrestrial objects</a></p><p class="youtube-embed-meta">Channel: DW News &middot; Views: 51.9K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d19SvuDkIbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d19SvuDkIbY">Open on YouTube</a></p></div></div></div>
 
 ### Facilities and laboratories
 
-A genuine reverse-engineering programme would require physical locations capable of handling [unusual materials]({{ 'material-claims/' | relative_url }}).
+A genuine reverse-engineering programme would require physical locations capable of handling unusual materials.
 
 Possible indicators would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,7 +337,6 @@ Possible indicators would include:
 </div>
 
 None of these facilities would by themselves prove Grusch’s claims. National-security projects routinely use such infrastructure. The evidential value would come from documentation connecting specific facilities to specific recovered objects and named personnel.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-2-dark.svg" | relative_url }}" alt="Paper trail illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Access rosters
@@ -382,7 +375,6 @@ Long-running classified programmes require legal authorities, compartment struct
 
 These questions are less dramatic than discussions about extraterrestrials, but they are precisely the questions investigators would use to determine whether a hidden programme existed.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-3-dark.svg" | relative_url }}" alt="Paper trail illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What an audit could rule out
 
@@ -393,7 +385,6 @@ A major difficulty for supporters is that secrecy itself can explain both the pr
 An effective audit would therefore look for positive indicators rather than merely gaps.
 
 Findings that would weaken the claim include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -408,7 +399,6 @@ Findings that would weaken the claim include:
 This issue emerged in official responses. The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has repeatedly stated that it found no verifiable evidence supporting claims that government programmes possess or reverse-engineer extraterrestrial technology. Critics of AARO argue that it lacked access to all relevant compartments, while supporters view its findings as evidence that the alleged programme has not been substantiated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
 
 A notable example of this tension appeared in reporting on investigations into purported exotic materials. Some samples promoted as potentially anomalous were later assessed as having ordinary terrestrial explanations. Such cases do not disprove every future claim, but they illustrate how a paper trail can sometimes lead to mundane outcomes rather than revolutionary discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateJune 22, 2025 — In 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims o...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nofeMMRGuyI" title="&#x27;Non-human biologics&#x27; recovered by US government, says UFO whistleblower David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer">&#x27;Non-human biologics&#x27; recovered by US government, says UFO whistleblower David Grusch</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 328.3K &middot; Uploaded: July 2023 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nofeMMRGuyI">Open on YouTube</a></p></div></div></div>
 
@@ -432,16 +422,16 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Covers government, military and investigative claims that closely overlap with crash-retrieval and reverse-engineering allegations.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -449,16 +439,16 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMzZEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025">Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A...</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By James L. Ryave</p>
         
-        <p class="fr-book-desc">Explores alleged secret programs, whistleblower accounts and institutional concealment themes similar to Grusch&#x27;s claims.</p>
+        <p class="fr-book-desc">﻿This nonfiction book contains the most important information available about the current body of knowledge regarding Unidentified Anomal...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -466,16 +456,16 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Directory+International+by+David+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Directory International on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jY5TAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Directory International" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=UFO+Directory+International+by+David+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Directory International">UFO Directory International</a>
         </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+        <p class="fr-book-author">By David Blevins</p>
         
-        <p class="fr-book-desc">Examines how aerospace, intelligence and technology narratives intersect with modern UFO claims.</p>
+        <p class="fr-book-desc">Unidentified Flying Objects are said to have been photographed and filmed in every country in the world, and witnessed by people from man...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Directory+International+by+David+Blevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -483,16 +473,16 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N1rxAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Donald Howard Menzel, Ernest Henry Taves</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating long-running government and investigative UFO claims.</p>
+        <p class="fr-book-desc">Drawing on government sources as well as on other reports of UFO sightings, this illustrated book provides accurate and documented inform...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -500,7 +490,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non+Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+2025&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unidentified Anomalous Phenomena &amp; Non Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 2025</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Directory+International&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Directory International</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -537,15 +527,15 @@ The answer does not require proving extraterrestrial life. It requires demonstra
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="https://i.ebayimg.com/images/g/8IUAAeSwdYJp8Q5a/s-l225.jpg" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +543,15 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +559,15 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="https://i.ebayimg.com/images/g/Zw8AAeSwGYJp5h~Q/s-l225.jpg" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +575,15 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP"><img src="https://i.ebayimg.com/images/g/Ds4AAeSwKOdp7K11/s-l225.jpg" alt="Listing image for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,7 +591,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-trail-where-would-the-reverse-engineering-trail-be-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-reverse-engineering-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-reverse-engineering-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -817,177 +807,177 @@ The answer does not require proving extraterrestrial life. It requires demonstra
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-[hearing](https://time.com/6298287/congress-ufo-[hearing)  
+   Link: <a href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-[hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/](https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoopSenate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Buried in the Senate&#x27;s approved text of the Int...</p></details>
+   Link: <a href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Buried in the Senate&#x27;s approved text of the Int...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: defensescoop.com  
    Title: government records associated with reports of unidentified anomalous  
-   Link: [https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/](https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoopSenators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
+   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — Government shall exercise eminent domain over any and. 23 all recovered technol...</p></details>
    Published: May 2023  
 
 6. <a id="endnote-6"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: time.com  
-   Link: [https://time.com/6298958/ufos-congressional-hearing-what-to-know/](https://time.com/6298958/ufos-congressional-hearing-what-to-know/)  
+   Link: <a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2024 — The 2024 National Defense Authorization Act (Public Law 118-31, Sections 1841-1843) requires NARA to establish the &#x27;&#x27;Uniden...</p></details>
    Published: May 8, 2024  
 
 10. <a id="endnote-10"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Air Force allegedly used disinformation against a...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO whistleblower says U.S. recovered nonhuman "[biologics](&#123;&#123; 'biologics/' | relative_url &#125;&#125;)" from crash sites  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=d19SvuDkIbY](https://www.youtube.com/watch?v=d19SvuDkIbY)  
+   Link: <a href="https://www.youtube.com/watch?v=d19SvuDkIbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d19SvuDkIbY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — A former intelligence official turned whistleblower has given Congress and the Intelligence C...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: insidegovernmentcontracts.com  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of the Unidentified Anomalous Phenomena...9 Jan 2024 — First, that amendment mandated that the Federal Government exercise...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Asked an Elite Defense Lab to InvestigateJune 22, 2025 — In 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims o...</p></details>
    Published: June 22, 2025  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: what if we've been lied to about UFOs?  
-   Link: [https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress](https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Alien life14 Jan 2024 — It also proposed that: “The federal government shall exercise &#x27;eminent domain&#x27; over any and all recovered techn...</p></details>
+   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien life14 Jan 2024 — It also proposed that: “The federal government shall exercise &#x27;eminent domain&#x27; over any and all recovered techn...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — US government employees have been injured by UFOs and the US...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/a-well-regulated-uap-industry-why-the-uap-registration-act-is-a-better-path-to-disclosure/](https://thedebrief.org/a-well-regulated-uap-industry-why-the-uap-registration-act-is-a-better-path-to-disclosure/)  
+   Link: <a href="https://thedebrief.org/a-well-regulated-uap-industry-why-the-uap-registration-act-is-a-better-path-to-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/a-well-regulated-uap-industry-why-the-uap-registration-act-is-a-better-path-to-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;The UAP Registration Act&#x27; is a Better Path to DisclosureApr 27, 2025 — The UAP Registration Act anticipates this scenario by creatin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedebrief.org  
    Title: Regulation vs  
-   Link: [https://thedebrief.org/regulation-v-eminent-domain-an-alternate-approach-to-the-unidentified-anomalous-phenomena-disclosure-act-of-2023/](https://thedebrief.org/regulation-v-eminent-domain-an-alternate-approach-to-the-unidentified-anomalous-phenomena-disclosure-act-of-2023/)  
+   Link: <a href="https://thedebrief.org/regulation-v-eminent-domain-an-alternate-approach-to-the-unidentified-anomalous-phenomena-disclosure-act-of-2023/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/regulation-v-eminent-domain-an-alternate-approach-to-the-unidentified-anomalous-phenomena-disclosure-act-of-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eminent Domain: An Alternate Approach to &#x27;...Eminent Domain: An Alternate Approach to &#x27;The Unidentified Anomalous Phenomena Disclosure A...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript](https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[House Hearing](&amp;#123;&amp;#123; &#x27;house-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uniden...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: nyujlpp.org  
-   Link: [https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf](https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf)  
+   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UAP DISCLOSURE ACTby A Yang — &#x27;Technologies of unknown origin&#x27; are defined as materials or vehicles associated with UAP or “incorpora...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing](https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing)  
+   Link: <a href="https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) Disclosure as...PDF | The topic of “Unidentified Anomalous Phenomena” (UAP) has risen to increasi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: David Grusch, a decorated U.S. military combat veteran and Pentagon intelligence  
-   Link: [https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims](https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims)  
+   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — UFO whistleblower tells Congress the US government is hiding...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/countdown-begins-aerospace-companies-face-disclosure-dilemma-dorr](https://www.linkedin.com/pulse/countdown-begins-aerospace-companies-face-disclosure-dilemma-dorr)  
+   Link: <a href="https://www.linkedin.com/pulse/countdown-begins-aerospace-companies-face-disclosure-dilemma-dorr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/countdown-begins-aerospace-companies-face-disclosure-dilemma-dorr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9wHyoEOyT6Q](https://www.youtube.com/watch?v=9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftDuring a congressional hearing on July 26, 2023, David Grusch a... UFO whistleblower: &#x27;Non-h...</p></details>
    Published: July 26, 2023  
 
 29. <a id="endnote-29"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered [retaliation](&amp;#123;&amp;#123; &#x27;retaliation/&#x27; | relative_url &amp;#125;&amp;#125;) after making ext...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: abc11.com  
    Title: ufo hearing uap david grusch whistleblower claims  
-   Link: [https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/](https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/)  
+   Link: <a href="https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims: Congressional UAP hearing...Jul 26, 2023 — A former intelligence community official testified on an alleged co...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: abc7.com  
    Title: ufo hearing uap david grusch whistleblower claims  
-   Link: [https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/](https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/)  
+   Link: <a href="https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims: Congressional UAP hearing...26 Jul 2023 — A former intelligence community official testified on an alleged cov...</p></details>

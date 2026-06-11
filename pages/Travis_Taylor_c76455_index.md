@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-index/
 description: Focused pages that expand on How Credible Is Travis Taylor on UAPs?.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Travis_Taylor_c76455
 parent_title: How Credible Is Travis Taylor on UAPs?

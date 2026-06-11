@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sensor-data/
 nav_short_title: Western Case
 title: How Data Reconstruction Changed a UAP Case
-title_full: How Data Reconstruction Changed a UAP Case | Sensor Data
+title_full: How Data Reconstruction Changed a UAP Case
 display_title_short: Western Case
 display_title: Western Case
 heading_title: How Data Reconstruction Changed a UAP Case
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Better Sensors Change UAP Claims | Kirkpatrick
+parent_title: Why Better Sensors Change UAP Claims
 parent_permalink: /sensor-data/
 parent_nav_short_title: Sensor Data
 parent_heading_title: Why Better Sensors Change UAP Claims
@@ -247,7 +247,7 @@ prev_link:
   permalink: /proof-standard/
   short_title: Proof Standard
   heading_title: When Does a UAP Sighting Become Strong Evidence?
-date: '2026-06-09 02:58:16 '
+date: '2026-06-11 21:04:37 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1.webp
@@ -256,53 +256,48 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_wester
 
 ## Introduction
 
-One of the clearest examples of [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s approach to UAP investigation is the so-called Western U.S. Objects case. Rather than treating an unusual infrared video as self-contained evidence, the All-domain Anomaly Resolution Office (AARO) combined the footage with radar information, aircraft tracking records and flight-path reconstruction. The result was a markedly different interpretation from what many viewers initially assumed. According to AARO, objects that appeared mysterious in infrared imagery were most likely distant commercial airliners travelling along established routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</span></span></span>
-
+One of the clearest examples of Sean Kirkpatrick’s approach to UAP investigation is the so-called Western U.S. Objects case. Rather than treating an unusual infrared video as self-contained evidence, the All-domain Anomaly Resolution Office (AARO) combined the footage with radar information, aircraft tracking records and flight-path reconstruction. The result was a markedly different interpretation from what many viewers initially assumed. According to AARO, objects that appeared mysterious in infrared imagery were most likely distant commercial airliners travelling along established routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1-dark.svg" | relative_url }}" alt="Western Case illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding Kirkpatrick’s credibility and scepticism, this case matters because it demonstrates the analytical standard he repeatedly advocated: a UAP report should be evaluated through correlated datasets rather than through video imagery alone. The case became a practical illustration of how additional information can change the apparent meaning of a UAP encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+For understanding Kirkpatrick’s credibility and scepticism, this case matters because it demonstrates the analytical standard he repeatedly advocated: a UAP report should be evaluated through correlated datasets rather than through video imagery alone. The case became a practical illustration of how additional information can change the apparent meaning of a UAP encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## What the Infrared Video Appeared to Show
 
-The footage was recorded in 2021 from a military range in the western United States and later presented publicly by Kirkpatrick during a NASA UAP study meeting in May 2023. The infrared video showed three bright objects moving through the field of view. Viewed in isolation, the objects appeared unusual enough to be classified initially as unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The footage was recorded in 2021 from a military range in the western United States and later presented publicly by Kirkpatrick during a NASA UAP study meeting in May 2023. The infrared video showed three bright objects moving through the field of view. Viewed in isolation, the objects appeared unusual enough to be classified initially as unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Several characteristics contributed to that impression:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The objects appeared as isolated luminous points.
 * Their spacing seemed unusual.
 * The footage did not immediately reveal their true distance.
-* The infrared sensor provided limited visual context compared with ordinary daylight imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+* The infrared sensor provided limited visual context compared with ordinary daylight imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 </div>
 
-For many observers, the clip resembled numerous UAP videos in which distant objects appear to move in unexpected ways. The key problem, however, was that apparent motion and apparent size could not be reliably determined from the video alone. Without accurate range information, analysts could not immediately tell whether the objects were nearby unknown craft or distant conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</span></span></span>
-
+For many observers, the clip resembled numerous UAP videos in which distant objects appear to move in unexpected ways. The key problem, however, was that apparent motion and apparent size could not be reliably determined from the video alone. Without accurate range information, analysts could not immediately tell whether the objects were nearby unknown craft or distant conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2XR__9m7Vc" title="Just Released MILITARY VIDEO of THREE UAP&#x27;s in the Western U.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2XR__9m7Vc" target="_blank" rel="noopener noreferrer">Just Released MILITARY VIDEO of THREE UAP&#x27;s in the Western U.S.</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: June 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2XR__9m7Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2XR__9m7Vc">Open on YouTube</a></p></div></div></div>
 
 ## Matching the Objects to Flight Tracks
 
-AARO's investigation did not stop with the video. Analysts examined the full-motion recording rather than a short excerpt and compared the observations with commercial flight data and radar information covering the same area and time period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+AARO's investigation did not stop with the video. Analysts examined the full-motion recording rather than a short excerpt and compared the observations with commercial flight data and radar information covering the same area and time period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-According to AARO's published case resolution, the decisive step was reconstructing the geometry of the event. Analysts determined that the objects were substantially farther away than the original observers had estimated. Once that greater distance was incorporated into the analysis, the positions of the infrared targets aligned with known commercial aircraft operating on established air corridors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+According to AARO's published case resolution, the decisive step was reconstructing the geometry of the event. Analysts determined that the objects were substantially farther away than the original observers had estimated. Once that greater distance was incorporated into the analysis, the positions of the infrared targets aligned with known commercial aircraft operating on established air corridors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span> ultimately assessed that:
-
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span> ultimately assessed that:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The three objects corresponded to separate commercial aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAROs Videos: The US Government cannot identify</span><span class="citation-popover-snippet">RedditAAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</span><span class="citation-popover-meta">Published: September 2, 2023</span></span></span>
+* The three objects corresponded to separate commercial aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAROs Videos: The US Government cannot identify</span><span class="citation-popover-snippet">AAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</span><span class="citation-popover-meta">Published: September 2, 2023</span></span></span>
 * The aircraft were travelling on normal flight routes.
 * Some were as much as 300 nautical miles from the observing sensor.
-* Radar tracks and flight records matched the observed positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+* Radar tracks and flight records matched the observed positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 </div>
 
-The office stated that the objects appeared only as small infrared dots because of their extreme distance from the sensor. What initially looked unusual became much less extraordinary once the wider data picture was assembled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
-
+The office stated that the objects appeared only as small infrared dots because of their extreme distance from the sensor. What initially looked unusual became much less extraordinary once the wider data picture was assembled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-2-dark.svg" | relative_url }}" alt="Western Case illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Data Reconstruction Changed the Interpretation
@@ -315,27 +310,25 @@ In the Western U.S. Objects case, reconstruction altered several assumptions:
 
 ### Distance Was Misjudged
 
-The original appearance of the objects encouraged a closer-range interpretation. AARO's analysis concluded that the objects were significantly farther away than observers initially believed. Once the distance estimate changed, their apparent behaviour became consistent with ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+The original appearance of the objects encouraged a closer-range interpretation. AARO's analysis concluded that the objects were significantly farther away than observers initially believed. Once the distance estimate changed, their apparent behaviour became consistent with ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k4ksiPgNI44" title="Breaking: U.S. Government AARO Unveils 3 Stunning UFOs Traveling Together - Airplanes?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k4ksiPgNI44" target="_blank" rel="noopener noreferrer">Breaking: U.S. Government AARO Unveils 3 Stunning UFOs Traveling Together - Airplanes?</a></p><p class="youtube-embed-meta">Channel: Brandon Beyond &middot; Views: 141 &middot; Uploaded: September 2023 &middot; Length: 4 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k4ksiPgNI44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k4ksiPgNI44">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKKpLHtR6xw" title="Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKKpLHtR6xw" target="_blank" rel="noopener noreferrer">Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: Vintage Horror Cinema &middot; Views: 46 &middot; Uploaded: November 2024 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKKpLHtR6xw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKKpLHtR6xw">Open on YouTube</a></p></div></div></div>
 
 ### Sensor Effects Became Important
 
-AARO reported that apparent changes in object shape were attributable to sensor vibration and autofocus behaviour rather than transformations of the objects themselves. What appeared visually significant in the video could therefore be explained by characteristics of the imaging system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+AARO reported that apparent changes in object shape were attributable to sensor vibration and autofocus behaviour rather than transformations of the objects themselves. What appeared visually significant in the video could therefore be explained by characteristics of the imaging system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 ### Multiple Datasets Produced a Coherent Explanation
 
-The strongest element in AARO's case was not any single piece of evidence. Instead, infrared imagery, radar information and commercial flight records all pointed toward the same conclusion. Kirkpatrick has frequently described this type of convergence as far more persuasive than witness testimony or imagery viewed in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+The strongest element in AARO's case was not any single piece of evidence. Instead, infrared imagery, radar information and commercial flight records all pointed toward the same conclusion. Kirkpatrick has frequently described this type of convergence as far more persuasive than witness testimony or imagery viewed in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 ## Why Supporters and Critics View the Case Differently
 
-[Supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick's methodology often cite the Western U.S. Objects case as a model example of scientific UAP investigation. From this perspective, the case demonstrates that apparently anomalous observations can sometimes be resolved when investigators obtain additional contextual data. The alignment between infrared observations and known aircraft tracks is viewed as strong evidence that the original mystery resulted from incomplete information rather than exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+[Supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick's methodology often cite the Western U.S. Objects case as a model example of scientific UAP investigation. From this perspective, the case demonstrates that apparently anomalous observations can sometimes be resolved when investigators obtain additional contextual data. The alignment between infrared observations and known aircraft tracks is viewed as strong evidence that the original mystery resulted from incomplete information rather than exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-Critics raise different concerns. Some argue that the public has not been given every underlying dataset used in the reconstruction. Others contend that government explanations should be independently verifiable whenever possible. In parts of the UFO community, scepticism remains regarding whether the flight-track correlations fully explain all aspects of the footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAROs Videos: The US Government cannot identify</span><span class="citation-popover-snippet">RedditAAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</span><span class="citation-popover-meta">Published: September 2, 2023</span></span></span>
+Critics raise different concerns. Some argue that the public has not been given every underlying dataset used in the reconstruction. Others contend that government explanations should be independently verifiable whenever possible. In parts of the UFO community, scepticism remains regarding whether the flight-track correlations fully explain all aspects of the footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAROs Videos: The US Government cannot identify</span><span class="citation-popover-snippet">AAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</span><span class="citation-popover-meta">Published: September 2, 2023</span></span></span>
 
-However, the public record shows that AARO did not simply dismiss the video. Instead, the office produced a documented analytical pathway linking the infrared observations to identified aircraft traffic. Whether one accepts the conclusion or not, the explanation was based on data correlation rather than assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
-
+However, the public record shows that AARO did not simply dismiss the video. Instead, the office produced a documented analytical pathway linking the infrared observations to identified aircraft traffic. Whether one accepts the conclusion or not, the explanation was based on data correlation rather than assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-3-dark.svg" | relative_url }}" alt="Western Case illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lessons for Future UAP Investigations
@@ -343,7 +336,6 @@ However, the public record shows that AARO did not simply dismiss the video. Ins
 The Western U.S. Objects case helps explain why Kirkpatrick consistently pushed for higher-quality sensor standards and more complete reporting procedures.
 
 Several lessons emerge from the investigation:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -355,93 +347,49 @@ Several lessons emerge from the investigation:
 
 </div>
 
-Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S. Objects case is significant because it provides a concrete example of his investigative philosophy in action. Rather than arguing that unusual reports should be ignored, he argued that they should be reconstructed using every available source of data. In this instance, that reconstruction transformed a publicly presented UAP video into what AARO assessed was a case of distant commercial aircraft viewed under conditions that obscured their true identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S. Objects case is significant because it provides a concrete example of his investigative philosophy in action. Rather than arguing that unusual reports should be ignored, he argued that they should be reconstructed using every available source of data. In this instance, that reconstruction transformed a publicly presented UAP video into what AARO assessed was a case of distant commercial aircraft viewed under conditions that obscured their true identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKKpLHtR6xw" title="Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKKpLHtR6xw" target="_blank" rel="noopener noreferrer">Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: Vintage Horror Cinema &middot; Views: 46 &middot; Uploaded: November 2024 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKKpLHtR6xw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKKpLHtR6xw">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mdu2EB3dY6Y" title="Declassified UFO Video: &quot;Western U.S. Objects&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mdu2EB3dY6Y" target="_blank" rel="noopener noreferrer">Declassified UFO Video: &quot;Western U.S. Objects&quot;</a></p><p class="youtube-embed-meta">Channel: 𝙳𝙴𝙲𝙻𝙰𝚂𝚂𝙸𝙵𝙸𝙴𝙳 &middot; Views: 71 &middot; Uploaded: October 2023 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mdu2EB3dY6Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mdu2EB3dY6Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Data Reconstruction Changed a UAP Case. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Data Reconstruction Changed a UAP Case, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Strong fit for reconstruction and re-analysis of UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Contains examples of re-evaluated sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports the theme that better evidence can change conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
-        <p class="fr-book-desc">Explains why additional datasets improve reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -478,15 +426,15 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734"><img src="https://i.ebayimg.com/images/g/HgoAAOSw6lRi6~Aj/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +442,15 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370"><img src="https://i.ebayimg.com/images/g/5f8AAeSw-8pp78Gr/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #4, Whiteout Fold Out Poster #W1370</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +458,15 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/spoAAeSwe1Np2SNR/s-l225.jpg" alt="Listing image for Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +474,15 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C2YAAeSwY81pZjBD/s-l225.jpg" alt="Listing image for Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Aviation Flight Radar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +490,7 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="western-case-how-data-reconstruction-changed-a-uap-case-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-data-reconstruction-changed-a-uap-case-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-data-reconstruction-changed-a-uap-case-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,104 +705,104 @@ Within the broader assessment of Sean Kirkpatrick's credibility, the Western U.S
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryWestern U.S. Objects, UAP Video: Western U.S. Objects, Analysis of the full motion video, combined with commercial flight...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROCase Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/videoid/885190/](https://www.war.gov/Multimedia/videoid/885190/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885190/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</p></details>
    Published: May 2023  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: AAROs Videos: The US Government cannot identify  
-   Link: [https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/](https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...September 2, 2023 — Analysis of the full motion video, combined with commercial...</p></details>
    Published: September 2, 2023  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Declassified UFO Video: "Western U.S. Objects"  
-   Link: [http://www.youtube.com/watch?v=Mdu2EB3dY6Y](http://www.youtube.com/watch?v=Mdu2EB3dY6Y)  
+   Link: <a href="http://www.youtube.com/watch?v=Mdu2EB3dY6Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Mdu2EB3dY6Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Western U.S. Objects  
-   Link: [http://www.youtube.com/watch?v=LKKpLHtR6xw](http://www.youtube.com/watch?v=LKKpLHtR6xw)  
+   Link: <a href="http://www.youtube.com/watch?v=LKKpLHtR6xw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=LKKpLHtR6xw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Footage: Western U.S. Objects 1 — Military Range IR (2021) | DVIDS 885190...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous](https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous)  
+   Link: <a href="https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsNewly released UFO video broken down &#x27;frame by...24 Apr 2023 — Two videos of reported UFO sightings shown during last week&#x27;s Sen...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: 7atc.army.mil  
-   Link: [https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&dvpmoduleid=4969&videoid=885190](https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&dvpmoduleid=4969&videoid=885190)  
+   Link: <a href="https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&amp;dvpmoduleid=4969&amp;videoid=885190" target="_blank" rel="noopener noreferrer nofollow">https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&amp;dvpmoduleid=4969&amp;videoid=885190</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the full motion video, combined with commercial flight data in the region, led AARO to assess that the objects were three separate...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: chadgarland.com  
-   Link: [https://www.chadgarland.com/pentagon-official-explains-recent-ufos-were-probably-just-far-away-commercial-airliners/](https://www.chadgarland.com/pentagon-official-explains-recent-ufos-were-probably-just-far-away-commercial-airliners/)  
+   Link: <a href="https://www.chadgarland.com/pentagon-official-explains-recent-ufos-were-probably-just-far-away-commercial-airliners/" target="_blank" rel="noopener noreferrer nofollow">https://www.chadgarland.com/pentagon-official-explains-recent-ufos-were-probably-just-far-away-commercial-airliners/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>frared video in 2021 from a military range “in the western United States” according to a caption on the Pentagon&#x27;s...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: among the new files was footage from an infrared sensor operated by the us coast  
-   Link: [https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/](https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/)  
+   Link: <a href="https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-new-files-was-footage-from-an-infrared-sensor-operated-by-the-us-coast/1290168619986535/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Among the new files was footage from an infrared sensor...As you well know, the videos originally released in 2017, show unidentified fl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO director Sean Kirkpatrick presented fresh statistics on the Pentagon&#x27;s UAP findi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Breaking: U.S. Government AARO Unveils 3 Stunning UFOs Traveling Together  
-   Link: [http://www.youtube.com/watch?v=k4ksiPgNI44](http://www.youtube.com/watch?v=k4ksiPgNI44)  
+   Link: <a href="http://www.youtube.com/watch?v=k4ksiPgNI44" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=k4ksiPgNI44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Western U.S. Objects&quot; NASA AARO Sean Kirkpatrick Western U.S. Objects - Declassified Footage of Unidentified Anomalous Phenomena Vintage...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: esd.whs.mil  
    Title: 20230418 AARO Congressional Open Hearing final 2.0  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/20230418_AARO_Congressional_Open_Hearing_final_2.0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department of Defense &amp; the UAP Mission17 Apr 2023 —... likely resolved as commercial airliner and video-compression artifact, respec...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rev.com  
    Title: [senate hearing](&#123;&#123; 'senate-hearing/' | relative_url &#125;&#125;) on unidentified aerial phenomena  
-   Link: [https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena](https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial Phenomena23 Jan 2026 — The Senate holds a hearing on unidentified aerial phenomena, better kno...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: A recently released video from a U.S  
-   Link: [https://www.facebook.com/WSFA12/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1426879646151261/](https://www.facebook.com/WSFA12/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1426879646151261/)  
+   Link: <a href="https://www.facebook.com/WSFA12/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1426879646151261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSFA12/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1426879646151261/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military platform...Journalist and well‑known UFO researcher Jeremy Corbell has released a striking piece of footage reportedly captured...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: A recently released video from a U.S  
-   Link: [https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/](https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/)  
+   Link: <a href="https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSMVTV/posts/a-recently-released-video-from-a-us-military-platform-appears-to-show-a-strangel/1469309271892212/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military platform...A strange and unexplained event was captured by passengers aboard a commercial flight, showing an unidentified objec...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=UMnZYliwuCg](http://www.youtube.com/watch?v=UMnZYliwuCg)  
+   Link: <a href="http://www.youtube.com/watch?v=UMnZYliwuCg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UMnZYliwuCg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking: U.S. Government AARO Unveils 3 Stunning UFOs Traveling Together - Airplanes?...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /timeline/
 nav_short_title: Proof gap
 title: What the first Lazar story still could not prove
-title_full: What the first Lazar story still could not prove | Timeline
+title_full: What the first Lazar story still could not prove
 display_title_short: Proof gap
 display_title: Proof gap
 heading_title: What the first Lazar story still could not prove
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Lazar Became The Area 51 Whistleblower | Lazar
+parent_title: How Lazar Became The Area 51 Whistleblower
 parent_permalink: /timeline/
 parent_nav_short_title: Timeline
 parent_heading_title: How Lazar Became The Area 51 Whistleblower
@@ -247,7 +247,7 @@ prev_link:
   permalink: /klas-reveal/
   short_title: KLAS reveal
   heading_title: When Dennis became Bob Lazar on TV
-date: '2026-06-09 02:52:20 '
+date: '2026-06-11 21:01:12 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_
 
 ## Introduction
 
-The first [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }}) broadcasts in 1989 established the core version of the story that still dominates discussion today: a secret facility called S-4 near Area 51, recovered non-human craft, reverse-engineering work, and a claimed insider role. What often gets lost in later retellings is that the broadcasts themselves were evidence only that Lazar made those claims at that time. They were not independent proof that the claims were true.
-
+The first Bob Lazar broadcasts in 1989 established the core version of the story that still dominates discussion today: a secret facility called S-4 near Area 51, recovered non-human craft, reverse-engineering work, and a claimed insider role. What often gets lost in later retellings is that the broadcasts themselves were evidence only that Lazar made those claims at that time. They were not independent proof that the claims were true.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1-dark.svg" | relative_url }}" alt="Proof gap illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction became increasingly important as journalists, researchers and sceptics tried to verify the story. Some peripheral details gained partial support, including evidence that Lazar had some connection to Los Alamos-related work and that highly secret testing activity existed in Nevada. Yet the central claims — that he worked on alien craft at S-4 and held the scientific credentials he described — remained unproven. The gap between what the broadcasts documented and what later investigation could verify sits at the centre of the Lazar credibility debate. YouTube <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
@@ -272,7 +271,7 @@ In the original KLAS-TV reporting, first under the pseudonym "Dennis" and later 
 * The facility allegedly housed multiple recovered flying saucers.
 * His assignment was to help reverse-engineer [propulsion]({{ 'propulsion/' | relative_url }}) technology.
 * The craft supposedly used a fuel source involving [element 115]({{ 'element-115/' | relative_url }}).
-* The project operated under extreme compartmentalisation and secrecy. YouTube <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Area Interview With Bob Lazar</span><span class="citation-popover-snippet">PDF | GravityThe document is an interview transcript between George Knapp and Bob Lazar from 1989. In the interview, Lazar describes work...</span></span></span> From a credibility perspective, the broadcasts matter because they show that these core claims were present from the beginning. Supporters often point to the relative consistency of Lazar's narrative over time. Critics generally agree that the broad outline has remained similar, but argue that consistency alone does not establish truth if the underlying claims cannot be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+* The project operated under extreme compartmentalisation and secrecy. YouTube <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">UFO Area Interview With Bob Lazar</span><span class="citation-popover-snippet">PDF &#124; GravityThe document is an interview transcript between George Knapp and Bob Lazar from 1989. In the interview, Lazar describes work...</span></span></span> From a credibility perspective, the broadcasts matter because they show that these core claims were present from the beginning. Supporters often point to the relative consistency of Lazar's narrative over time. Critics generally agree that the broad outline has remained similar, but argue that consistency alone does not establish truth if the underlying claims cannot be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 The broadcasts therefore serve as a timestamp. They demonstrate what Lazar was claiming in 1989. They do not, by themselves, demonstrate that he actually held the position he described.
 
@@ -286,7 +285,6 @@ However, later investigations produced a narrower conclusion. Critics noted that
 
 The same pattern appears elsewhere in the case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z1L3CQS8Odg" title="Ancient Aliens: Whistleblower Speaks Out on AREA 51 &amp; UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z1L3CQS8Odg" target="_blank" rel="noopener noreferrer">Ancient Aliens: Whistleblower Speaks Out on AREA 51 &amp; UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 266.8K &middot; Uploaded: October 2023 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z1L3CQS8Odg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z1L3CQS8Odg">Open on YouTube</a></p></div></div></div>
 
 ### What gained partial support
@@ -296,12 +294,11 @@ Several details surrounding Lazar's story became harder to dismiss outright over
 * Area 51 itself was real, despite years of official secrecy.
 * Extensive classified aerospace testing unquestionably occurred in the region.
 * Lazar's name appears in some Los Alamos-related records.
-* He was publicly discussing element 115 years before scientists formally synthesised an element with that atomic number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heyusa.com/nl/area-51-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heyusa.com">[HeyUSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heyusa.com</span><span class="citation-popover-title">area 51 bob lazar</span><span class="citation-popover-snippet">HeyUSAArea 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+* He was publicly discussing element 115 years before scientists formally synthesised an element with that atomic number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heyusa.com/nl/area-51-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heyusa.com">[HeyUSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heyusa.com</span><span class="citation-popover-title">area 51 bob lazar</span><span class="citation-popover-snippet">Area 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 ### What remained unverified
 
 The central claims never acquired comparable documentation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,13 +311,12 @@ The central claims never acquired comparable documentation:
 
 This distinction is crucial. Peripheral corroboration can strengthen confidence that parts of a witness's biography are genuine. It does not automatically validate the most extraordinary part of the story.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-2-dark.svg" | relative_url }}" alt="Proof gap illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Area 51's reality did not verify S-4
 
 One of the most common misunderstandings in public discussions is the assumption that later confirmation of Area 51 somehow confirmed Lazar's broader claims.
 
-The logic seems intuitive. For years, the US government publicly avoided discussing Area 51. Later, the facility's existence became widely acknowledged and officially documented. To many supporters, that looked like a major vindication because Lazar had helped draw public attention to the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heyusa.com/nl/area-51-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heyusa.com">[HeyUSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heyusa.com</span><span class="citation-popover-title">area 51 bob lazar</span><span class="citation-popover-snippet">HeyUSAArea 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</span></span></span>
+The logic seems intuitive. For years, the US government publicly avoided discussing Area 51. Later, the facility's existence became widely acknowledged and officially documented. To many supporters, that looked like a major vindication because Lazar had helped draw public attention to the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heyusa.com/nl/area-51-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heyusa.com">[HeyUSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heyusa.com</span><span class="citation-popover-title">area 51 bob lazar</span><span class="citation-popover-snippet">Area 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</span></span></span>
 
 But from an evidential standpoint, these are different questions.
 
@@ -332,7 +328,6 @@ Supporters counter that the government's long secrecy regarding Area 51 shows wh
 
 That difference between possibility and verification remains one of the defining tensions in the Lazar story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2GRjgBVw9Pk" title="I-Team: A look back at 1989 Bob Lazar interview; it started new UFO conversations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2GRjgBVw9Pk" target="_blank" rel="noopener noreferrer">I-Team: A look back at 1989 Bob Lazar interview; it started new UFO conversations</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 1.2M &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2GRjgBVw9Pk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2GRjgBVw9Pk">Open on YouTube</a></p></div></div></div>
 
 ## The education problem and the proof gap
@@ -343,7 +338,6 @@ Lazar publicly claimed advanced studies at the Massachusetts Institute of Techno
 
 The dispute matters because Lazar's original broadcasts did not merely describe unusual observations. They presented him as a technically qualified insider recruited for advanced scientific work. If that educational foundation cannot be verified, critics argue that the central employment claim becomes harder to accept.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hi2pqTsiPtE" title="UFO Whistleblower Bob Lazar Explains Why He Decided to Speak Out in 1989" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hi2pqTsiPtE" target="_blank" rel="noopener noreferrer">UFO Whistleblower Bob Lazar Explains Why He Decided to Speak Out in 1989</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 153.5K &middot; Uploaded: January 2019 &middot; Length: 1 minute 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hi2pqTsiPtE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hi2pqTsiPtE">Open on YouTube</a></p></div></div></div>
 
 ## What the first story still could not prove
@@ -353,7 +347,6 @@ More than three decades later, the original broadcasts remain historically signi
 Yet the strongest conclusion that can be drawn from those broadcasts is narrower than many supporters or critics sometimes suggest.
 
 The broadcasts established that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,90 +364,47 @@ The broadcasts established that:
 
 That unresolved divide between a documented claim and a documented proof remains the central verification gap in the Lazar case. The broadcasts fixed the story in public memory. Later investigations showed that some surrounding details could be partially checked. But the key proposition — that Lazar personally worked on recovered non-human technology at S-4 — remains unverified by publicly available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[2skeptic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">23 Apr 2026 — And he is now back in the spotlight because a new documentary, S4: The Bob Lazar Story, directed by Luigi Vendittelli, was...</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-3-dark.svg" | relative_url }}" alt="Proof gap illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What the first Lazar story still could not prove. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What the first Lazar story still could not prove, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Readers can compare Lazar&#x27;s version with the evidential issues discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Addresses the distinction between testimony and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Explores how stories gain traction despite limited verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Examines belief, evidence and modern UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -491,15 +441,15 @@ That unresolved divide between a documented claim and a documented proof remains
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +457,15 @@ That unresolved divide between a documented claim and a documented proof remains
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +473,15 @@ That unresolved divide between a documented claim and a documented proof remains
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +489,15 @@ That unresolved divide between a documented claim and a documented proof remains
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +505,7 @@ That unresolved divide between a documented claim and a documented proof remains
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="proof-gap-what-the-first-lazar-story-still-could-not-prove-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-the-first-lazar-story-still-could-not-prove-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,170 +720,170 @@ That unresolved divide between a documented claim and a documented proof remains
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2GRjgBVw9Pk](https://www.youtube.com/watch?v=2GRjgBVw9Pk)  
+   Link: <a href="https://www.youtube.com/watch?v=2GRjgBVw9Pk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2GRjgBVw9Pk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I-Team: A look back at 1989 Bob Lazar interviewThirty years ago, on May 15, KLAS-TV&#x27;s 5 p.m. newscast aired a live interview with...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: UFO Area Interview With Bob Lazar  
-   Link: [https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar](https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar)  
+   Link: <a href="https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/175632442/UFO-Area-Interview-With-Bob-Lazar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | GravityThe document is an interview transcript between George Knapp and Bob Lazar from 1989. In the interview, Lazar describes work...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: heyusa.com  
    Title: area 51 bob lazar  
-   Link: [https://www.heyusa.com/nl/area-51-bob-lazar/](https://www.heyusa.com/nl/area-51-bob-lazar/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HeyUSAArea 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</p></details>
+   Link: <a href="https://www.heyusa.com/nl/area-51-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.heyusa.com/nl/area-51-bob-lazar/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 en het bizarre verhaal van Bob Lazar15 Jun 2021 — In augustus 2013 bevestigde de Amerikaanse overheid officieel het bestaan...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/](https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>at Northridge, and Pierce Junior College in the San Fernando Valley, California.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/](https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from MIT, a master in electronics from Caltech...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — And he is now back in the spotlight because a new documentary, S4: The Bob Lazar Story, directed by Luigi Vendittelli, was...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BoJmd2MIpOk](https://www.youtube.com/watch?v=BoJmd2MIpOk)  
+   Link: <a href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BoJmd2MIpOk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then8 News Now compiles conversations with Bob Lazar and the events since his first in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RLary48c81Q](https://www.youtube.com/watch?v=RLary48c81Q)  
+   Link: <a href="https://www.youtube.com/watch?v=RLary48c81Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLary48c81Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51: The Original Mystery | Mystery WireGeorge Knapp and Ron Futrell explore the origins of the Area 51 myth, the impact of Bob Lazar...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GP916VVnXug](https://www.youtube.com/watch?v=GP916VVnXug)  
+   Link: <a href="https://www.youtube.com/watch?v=GP916VVnXug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GP916VVnXug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO legend Bob Lazar in 1989Bob Lazar met our news unit in front of the home of John Lear put on a microphone then sent shockwaves throug...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=z1L3CQS8Odg](https://www.youtube.com/watch?v=z1L3CQS8Odg)  
+   Link: <a href="https://www.youtube.com/watch?v=z1L3CQS8Odg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z1L3CQS8Odg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>isode 2, &quot;Extraterrestrial Informants...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/area51/comments/13o4rru/why_do_people_claim_s4_isnt_real_when_a_blackbird/](https://www.reddit.com/r/area51/comments/13o4rru/why_do_people_claim_s4_isnt_real_when_a_blackbird/)  
+   Link: <a href="https://www.reddit.com/r/area51/comments/13o4rru/why_do_people_claim_s4_isnt_real_when_a_blackbird/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/13o4rru/why_do_people_claim_s4_isnt_real_when_a_blackbird/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bus took scientists and other workers to a place called S4...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: Where is the original Bob Lazar “Dennis” interview?  
-   Link: [https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/](https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoThe one where he&#x27;s blacked out. I can find a KLAS report done after the fact where they allude to the video with clips and mention i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: About Bob Lazar's education  
-   Link: [https://www.reddit.com/r/ufo/comments/ic2h3c/about_bob_lazars_education_can_anyone_explain_this/](https://www.reddit.com/r/ufo/comments/ic2h3c/about_bob_lazars_education_can_anyone_explain_this/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/ic2h3c/about_bob_lazars_education_can_anyone_explain_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ic2h3c/about_bob_lazars_education_can_anyone_explain_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can anyone explain this?54 votes, 191 comments. I always liked the UFO/Aliens subject and when I saw the Joe Rogan&#x27;s podcast with Lazar a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/](https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ir mind over the score lol. For me personally I put Bob Lazar...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: very rare 1989 radio interview with bob lazar  
-   Link: [https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/?tl=nl](https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/?tl=nl)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/?tl=nl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/?tl=nl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bobs huwelijksakte uit 1980 vermeldt hem...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5aiag1li9XI](https://www.youtube.com/watch?v=5aiag1li9XI)  
+   Link: <a href="https://www.youtube.com/watch?v=5aiag1li9XI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5aiag1li9XI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Bob Lazar Explains Why He Decided to Speak Out in 1989...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hi2pqTsiPtE](https://www.youtube.com/watch?v=hi2pqTsiPtE)  
+   Link: <a href="https://www.youtube.com/watch?v=hi2pqTsiPtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hi2pqTsiPtE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51: The Original Mystery | Mystery Wire...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Alien Fuel at Area 51: Bob Lazar's Shocking Claims | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=NoecOE2RKdk](https://www.youtube.com/watch?v=NoecOE2RKdk)  
+   Link: <a href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoecOE2RKdk</a>  
 
 20. <a id="endnote-20"></a>
    Source: knpr.org  
    Title: out there  
-   Link: [https://knpr.org/magazine-desert-companion/2014-11-01/out-there](https://knpr.org/magazine-desert-companion/2014-11-01/out-there)  
+   Link: <a href="https://knpr.org/magazine-desert-companion/2014-11-01/out-there" target="_blank" rel="noopener noreferrer nofollow">https://knpr.org/magazine-desert-companion/2014-11-01/out-there</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Public MediaOut there1 Nov 2014 — Twenty-five years ago this month, the author opened the door on Area 51. The story could hardly...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterBob Lazar claimed to have worked in the S-4 section of Area 51. On that top-secret Nevada research base, he claimed to...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did you go to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/the-lazar-development-did-bob-lazar-borrow-s-4-details-from-1976-scifi-novel.13962/](https://www.metabunk.org/threads/the-lazar-development-did-bob-lazar-borrow-s-4-details-from-1976-scifi-novel.13962/)  
+   Link: <a href="https://www.metabunk.org/threads/the-lazar-development-did-bob-lazar-borrow-s-4-details-from-1976-scifi-novel.13962/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-lazar-development-did-bob-lazar-borrow-s-4-details-from-1976-scifi-novel.13962/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Bob Lazar Borrow S-4 Details from 1976 SciFi Novel?26 Jan 2025 — It does however feature several details that appear to resemble elem...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: in 1989 bob lazar came forward with a remarkable story the us government had hir  
-   Link: [https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/](https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/)  
+   Link: <a href="https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1989, Bob Lazar came forward with a remarkable storyI am so suspect of naysayers about UFO&#x27;s and alien space craft. To me, all I can t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: forbes.com  
    Title: new s4 film explores lazar story of alien spacecraft at area 51  
-   Link: [https://www.forbes.com/sites/jimclash/2026/04/06/new-s4-film-explores-lazar-story-of-alien-spacecraft-at-area-51/](https://www.forbes.com/sites/jimclash/2026/04/06/new-s4-film-explores-lazar-story-of-alien-spacecraft-at-area-51/)  
+   Link: <a href="https://www.forbes.com/sites/jimclash/2026/04/06/new-s4-film-explores-lazar-story-of-alien-spacecraft-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jimclash/2026/04/06/new-s4-film-explores-lazar-story-of-alien-spacecraft-at-area-51/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar, The Man Who Says He Touched Alien Tech, Is...6 Apr 2026 — Bob Lazar is a self-proclaimed physicist whose claims to inside kno...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gaia.com  
    Title: scientists claim of ufo fuel source verified decades later  
-   Link: [https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later](https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later)  
+   Link: <a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later9 Jun 2022 — In 1989 Bob Lazar claimed that Element 115 powered antimatter gen...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skillnation.in  
    Title: The Education and Background of Bob Lazar  
-   Link: [https://skillnation.in/posts/bob-lazar-education/](https://skillnation.in/posts/bob-lazar-education/)  
+   Link: <a href="https://skillnation.in/posts/bob-lazar-education/" target="_blank" rel="noopener noreferrer nofollow">https://skillnation.in/posts/bob-lazar-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skill NationRobert Scott Lazar, an American conspiracy theorist, has become a prominent figure in discussions surrounding Area 51 and ext...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/ross-coulthart-answers-questions-about-why-bob-lazar-has-never-testified-to-cong/923205223419829/](https://www.facebook.com/NewsNationNow/posts/ross-coulthart-answers-questions-about-why-bob-lazar-has-never-testified-to-cong/923205223419829/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-answers-questions-about-why-bob-lazar-has-never-testified-to-cong/923205223419829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-answers-questions-about-why-bob-lazar-has-never-testified-to-cong/923205223419829/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ess. Watch this full episode of &quot;Reality Check&quot;: [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/](https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He never changed his story. I believe him.|Lazar never liked...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOJBEA_jiI2/?hl=en](https://www.instagram.com/reel/DOJBEA_jiI2/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DOJBEA_jiI2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJBEA_jiI2/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ships, UFOs, and keeps them in a secret warehouse.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/](https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 27, 2018 | Openminds.tv. 0 reactions.Read more...</p></details>
-   Published: November 27, 2018  
+   Published: November 27, 2018

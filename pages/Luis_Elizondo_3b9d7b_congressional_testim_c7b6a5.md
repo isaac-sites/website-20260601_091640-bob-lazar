@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-luis-elizondo/
 nav_short_title: Congress
 title: What Did Elizondo Tell Congress?
-title_full: What Did Elizondo Tell Congress? | Elizondo
+title_full: What Did Elizondo Tell Congress?
 display_title_short: Congress
 display_title: Congress
 heading_title: What Did Elizondo Tell Congress?
@@ -289,7 +289,7 @@ next_link:
   permalink: /craft-claims/
   short_title: Craft Claims
   heading_title: Where Is the Evidence for Recovered Craft?
-date: '2026-06-09 02:53:57 '
+date: '2026-06-11 21:02:05 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-overview-
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s November 2024 congressional testimony mattered because it moved his UAP claims from podcasts, books and media interviews into a formal oversight setting. He did not provide public physical proof of non-human technology. What he did do was tell the House Oversight Committee, in writing and under questioning, that UAP are real, that advanced technologies are monitoring sensitive military sites, that the United States has possessed UAP technologies, and that secrecy has kept Congress and the public from proper accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
-
+Luis Elizondo’s November 2024 congressional testimony mattered because it moved his UAP claims from podcasts, books and media interviews into a formal oversight setting. He did not provide public physical proof of non-human technology. What he did do was tell the House Oversight Committee, in writing and under questioning, that UAP are real, that advanced technologies are monitoring sensitive military sites, that the United States has possessed UAP technologies, and that secrecy has kept Congress and the public from proper accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-overview.webp" | relative_url }}" alt="Overview image for Congress" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is central to judging his credibility. Congressional testimony does not make a claim true. It does, however, raise the cost of making vague allegations and gives lawmakers a reason to ask whether classified programmes, contractor relationships, whistleblower protections and public records systems are working as they should. In Elizondo’s case, the oversight stakes are therefore not only “are the most dramatic claims proven?” but also “has Congress been given enough access to find out?”
@@ -308,12 +307,11 @@ That distinction is central to judging his credibility. Congressional testimony 
 
 Elizondo’s written statement to the House Committee on Oversight and Accountability was short, direct and framed around governance. He told the joint hearing on “Unidentified Anomalous Phenomena: Exposing the Truth” that “UAP are real”, that advanced technologies “not made by our Government – or any other government” were monitoring sensitive military installations globally, and that the United States and some adversaries possessed UAP technologies. He described this as a “multi-decade, secretive arms race” hidden from elected representatives and oversight bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
 
-Those claims sit at the high end of the evidential burden. They are not merely claims that pilots saw unusual objects, or that official reporting channels were poor. They imply three much larger propositions: that some UAP are technological, that the technology is not conventionally attributable, and that parts of the US government or contractor ecosystem have kept material knowledge away from normal democratic scrutiny. The hearing record shows that Elizondo was willing to repeat versions of these claims in open questioning, including saying “yes” when asked whether the government had conducted secret UAP crash retrieval programmes and whether they were designed to identify and reverse-engineer alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+Those claims sit at the high end of the evidential burden. They are not merely claims that pilots saw unusual objects, or that official reporting channels were poor. They imply three much larger propositions: that some UAP are technological, that the technology is not conventionally attributable, and that parts of the US government or contractor ecosystem have kept material knowledge away from normal democratic scrutiny. The hearing record shows that Elizondo was willing to repeat versions of these claims in open questioning, including saying “yes” when asked whether the government had conducted secret UAP crash retrieval programmes and whether they were designed to identify and reverse-engineer alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
 The most governance-specific part of his written testimony was his argument that America’s response depends on “a watchful Congress”, “a responsive Executive Branch” and “an informed public”. He said certain UAP programmes had operated without those three elements, and accused a small group within government of suppression, intimidation, harassment and efforts to destroy credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
 
 That framing is important because it makes Elizondo’s testimony more than a UFO claim. He was effectively asking Congress to treat the subject as an oversight failure involving secrecy, whistleblower safety, budget accountability and possible misuse of classification. The credibility of that case depends less on whether he sounds confident, and more on whether investigators can trace his claims to documents, witnesses, programme names, funding lines and recoverable records.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-1-dark.svg" | relative_url }}" alt="Congress illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Oversight And Secrecy Are Central To His Case
@@ -328,14 +326,13 @@ The same point cuts both ways. If Elizondo is right, the proper test is not a te
 
 ## What He Said Under Questioning
 
-The open hearing made clear how much of Elizondo’s public case still depends on claims he says cannot be fully explored in public. When Representative Nancy Mace asked whether he was “read into” secret UAP crash retrieval programmes, he said that would require a closed session and that he had signed documentation restricting his ability to discuss crash retrievals. Yet he then answered “yes” when asked whether the government had conducted secret crash retrieval programmes, and “yes” again when asked whether they were designed to identify and reverse-engineer alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+The open hearing made clear how much of Elizondo’s public case still depends on claims he says cannot be fully explored in public. When Representative Nancy Mace asked whether he was “read into” secret UAP crash retrieval programmes, he said that would require a closed session and that he had signed documentation restricting his ability to discuss crash retrievals. Yet he then answered “yes” when asked whether the government had conducted secret crash retrieval programmes, and “yes” again when asked whether they were designed to identify and reverse-engineer alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
-He also said he had seen US government documentation concerning individuals injured in UAP incidents. That claim is potentially significant because it points to records that, in principle, could be checked by investigators. But in the public hearing, the documents themselves were not produced for public verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+He also said he had seen US government documentation concerning individuals injured in UAP incidents. That claim is potentially significant because it points to records that, in principle, could be checked by investigators. But in the public hearing, the documents themselves were not produced for public verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
-Later questioning pushed the issue further. Asked whether, in a secure facility, he could provide or obtain access to visuals, material or biologics that would convince a sceptical lawmaker of non-human origins, Elizondo replied that the decision would belong to “gatekeepers” still in government. He said he was aware of reporting that biologics had been recovered, but also clarified that his focus had been on the physical and military-equity aspects of the phenomenon, not medical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+Later questioning pushed the issue further. Asked whether, in a secure facility, he could provide or obtain access to visuals, material or biologics that would convince a sceptical lawmaker of non-human origins, Elizondo replied that the decision would belong to “gatekeepers” still in government. He said he was aware of reporting that biologics had been recovered, but also clarified that his focus had been on the physical and military-equity aspects of the phenomenon, not medical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
 That exchange is crucial for credibility assessment. Elizondo did not present himself as the person holding the decisive evidence. He presented himself as someone who says he knows enough to direct Congress towards where evidence may be held. Supporters see this as exactly what a constrained whistleblower would do. Sceptics see it as a familiar pattern in which extraordinary claims remain just out of public reach.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fvz6FW0sIow" title="UAP Witness Statements | November 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fvz6FW0sIow" target="_blank" rel="noopener noreferrer">UAP Witness Statements | November 2024</a></p><p class="youtube-embed-meta">Channel: IFLScience &middot; Views: 10.5K &middot; Uploaded: November 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fvz6FW0sIow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fvz6FW0sIow">Open on YouTube</a></p></div></div></div>
 
@@ -345,14 +342,13 @@ Elizondo’s testimony gives Congress several possible oversight routes, each wi
 
 First, there is the **classification question**: whether national-security secrecy is being used properly to protect sources and methods, or improperly to shield programmes from democratic scrutiny. Elizondo explicitly argued that excessive secrecy and “stove-piping” had produced institutional failure, comparing the need for information-sharing to lessons learned after 9/11. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
 
-Second, there is the **contractor question**. If UAP materials or data were ever held by private defence contractors, Congress would need to know whether public money, special access programmes or government-furnished information were involved. Elizondo repeatedly moved some contractor-related answers into the category of closed-session discussion, which makes oversight dependent on committees with the right clearances and jurisdiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+Second, there is the **contractor question**. If UAP materials or data were ever held by private defence contractors, Congress would need to know whether public money, special access programmes or government-furnished information were involved. Elizondo repeatedly moved some contractor-related answers into the category of closed-session discussion, which makes oversight dependent on committees with the right clearances and jurisdiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
 Third, there is the **whistleblower question**. Elizondo alleged retaliation, threats to careers and security clearances, and a culture of intimidation. His proposed solution was not simply more public hearings, but protected channels that allow witnesses to come forward without fear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">House Oversight Committee...</span></span></span>
 
 Fourth, there is the **records question**. Congress has already pushed towards centralised records through the National Archives UAP collection. That matters because one of the easiest ways for a classified controversy to remain unresolved is for records to be scattered across agencies, contractors, legacy programmes and inconsistent naming conventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Taken together, these stakes explain why Elizondo’s testimony resonated even with people who do not accept his most dramatic claims. A government can fail at oversight even when the underlying mystery turns out to be less exotic than alleged. Conversely, a genuine extraordinary discovery would be politically explosive if it had been hidden from Congress for decades.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-2-dark.svg" | relative_url }}" alt="Congress illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Testimony Differs From Public Proof
@@ -361,9 +357,9 @@ The main weakness of Elizondo’s congressional appearance is simple: the public
 
 That is not a minor caveat. In a public credibility assessment, testimony is evidence of what a witness claims, not proof that the claimed events occurred. A witness may be sincere but mistaken. A witness may accurately report what others told him, while the underlying sources are wrong. Classified restrictions may genuinely block disclosure, but they also prevent outside verification.
 
-Elizondo’s own wording sometimes shows this distinction. On alleged biologics, he said he was aware of reporting and that some supposed biological samples were collected before his time. He also said discussion of bodies was “anecdotally” present when he was at the Pentagon. That is materially different from saying he personally inspected non-human remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+Elizondo’s own wording sometimes shows this distinction. On alleged biologics, he said he was aware of reporting and that some supposed biological samples were collected before his time. He also said discussion of bodies was “anecdotally” present when he was at the Pentagon. That is materially different from saying he personally inspected non-human remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
-The same applies to hidden material or crash retrieval claims. In open session, he made firm assertions, but when asked about access, ownership or specifics, he repeatedly pointed to closed sessions, government gatekeepers or restrictions from pre-publication review. That may be understandable in a classified context. It also means the public evidential chain remains incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
+The same applies to hidden material or crash retrieval claims. In open session, he made firm assertions, but when asked about access, ownership or specifics, he repeatedly pointed to closed sessions, government gatekeepers or restrictions from pre-publication review. That may be understandable in a classified context. It also means the public evidential chain remains incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg57440</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</span></span></span>
 
 ## The Pentagon’s Counterweight
 
@@ -375,7 +371,6 @@ This is the strongest official challenge to Elizondo’s position. It does not p
 
 The oversight problem, then, becomes partly institutional. Elizondo and like-minded witnesses argue that AARO or earlier Pentagon structures have failed, withheld information or lacked access. AARO argues that it was granted access, checked claims and found no empirical support for the reverse-engineering story. Congress is left to decide whether to trust the Pentagon’s internal review, expand independent access, or pursue both tracks at once.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CHdnmqIW9k4" title="House Hearing on Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer">House Hearing on Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: The Union Herald &middot; Views: 108 &middot; Uploaded: November 2024 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CHdnmqIW9k4">Open on YouTube</a></p></div></div></div>
 
 ## What Later UAP Reporting Adds
@@ -386,8 +381,7 @@ That later reporting supports a narrower version of the UAP problem: there are m
 
 The Senate also held a November 2024 hearing on AARO’s activities, with AARO director Jon Kosloski testifying that unidentified objects near national-security sites must be treated seriously and investigated with scientific rigour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Statement for the Record Dr. Jon Kosloski, Director,</span><span class="citation-popover-snippet">Statement for the Record Dr. Jon Kosloski, Director,</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
 
-For Elizondo, this creates a mixed credibility picture. He benefits from the fact that Congress, the Pentagon and the intelligence community now formally treat UAP as a legitimate reporting and airspace-security issue. He is weakened where his claims go beyond that institutional baseline into [recovered technology]({{ 'proof-gap-eced37/' | relative_url }}), non-human origins and hidden programmes that remain unproven in public and are denied by AARO.
-
+For Elizondo, this creates a mixed credibility picture. He benefits from the fact that Congress, the Pentagon and the intelligence community now formally treat UAP as a legitimate reporting and airspace-security issue. He is weakened where his claims go beyond that institutional baseline into recovered technology, non-human origins and hidden programmes that remain unproven in public and are denied by AARO.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u64qdq251rE" title="SASC Hearing on AARO &amp; UAPs — Dr. Jon Kosloski Testimony (November 19, 2024) | Congressional Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u64qdq251rE" target="_blank" rel="noopener noreferrer">SASC Hearing on AARO &amp; UAPs — Dr. Jon Kosloski Testimony (November 19, 2024) | Congressional Video</a></p><p class="youtube-embed-meta">Channel: Lies Above &middot; Views: 34 &middot; Uploaded: April 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u64qdq251rE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u64qdq251rE">Open on YouTube</a></p></div></div></div>
 
@@ -400,7 +394,6 @@ Before such hearings, the [public debate]({{ 'public-debate/' | relative_url }})
 That is a useful distinction. If Elizondo’s claims are true, the remedy is aggressive oversight: subpoenaed documents, protected witnesses, classified briefings, contractor scrutiny and records declassification. If they are false or overstated, the remedy is still better oversight, because the public needs to know how extraordinary claims gained traction among former officials, military witnesses, journalists and lawmakers.
 
 His testimony therefore strengthens his status as an important UAP figure, but not as a proven source of final truth. It shows he is willing to make consequential claims in a formal setting and to frame them as failures of democratic accountability. It does not, by itself, demonstrate that the United States possesses non-human technology.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-3-dark.svg" | relative_url }}" alt="Congress illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility Takeaway
@@ -423,16 +416,16 @@ That leaves his credibility in a middle position. He is not merely a media perso
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Provides the background and claims underlying his congressional testimony.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,16 +433,16 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Explains the institutional and governmental history behind hearings and oversight.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -457,16 +450,16 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Examines whistleblowers, secrecy and congressional interest.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -474,16 +467,16 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Provides historical context for claims presented to lawmakers.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -491,7 +484,7 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -528,15 +521,15 @@ That leaves his credibility in a middle position. He is not merely a media perso
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +537,15 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +553,15 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +569,15 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,7 +585,7 @@ That leaves his credibility in a middle position. He is not merely a media perso
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="congress-what-did-elizondo-tell-congress-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-tell-congress-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-elizondo-tell-congress-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -808,181 +801,181 @@ That leaves his credibility in a middle position. He is not merely a media perso
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight Committee...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg57440  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm](https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GovInfo - UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</p></details>
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    Published: April 22, 2024  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    Published: February 15, 2024  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: rg 615  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
    Published: June 1, 2024  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Statement for the Record Dr. Jon Kosloski, Director,  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
    Published: November 20, 2024  
 
 12. <a id="endnote-12"></a>
    Source: armed-services.senate.gov  
-   Link: [https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office](https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office)  
+   Link: <a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office</a>  
    Published: November 19, 2024  
 
 13. <a id="endnote-13"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
    Published: November 13, 2024  
 
 14. <a id="endnote-14"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/committee/calendar/ByEvent.aspx?EventID=117721](https://docs.house.gov/committee/calendar/ByEvent.aspx?EventID=117721)  
+   Link: <a href="https://docs.house.gov/committee/calendar/ByEvent.aspx?EventID=117721" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/committee/calendar/ByEvent.aspx?EventID=117721</a>  
 
 15. <a id="endnote-15"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/](https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/)  
+   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/</a>  
 
 16. <a id="endnote-16"></a>
    Source: burlison.house.gov  
    Title: burlison presses mitre answers uap records ffrdc accountability and compliance  
-   Link: [https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance](https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance)  
+   Link: <a href="https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance</a>  
 
 17. <a id="endnote-17"></a>
    Source: rules.house.gov  
    Title: hr 8070  
-   Link: [https://rules.house.gov/bill/118/hr-8070](https://rules.house.gov/bill/118/hr-8070)  
+   Link: <a href="https://rules.house.gov/bill/118/hr-8070" target="_blank" rel="noopener noreferrer nofollow">https://rules.house.gov/bill/118/hr-8070</a>  
 
 18. <a id="endnote-18"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
    Published: May 2023  
 
 19. <a id="endnote-19"></a>
    Source: young.senate.gov  
-   Link: [https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/](https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/)  
+   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
 
 20. <a id="endnote-20"></a>
    Source: armed-services.senate.gov  
    Title: 11 19 24 sub transcript  
-   Link: [https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript](https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript)  
+   Link: <a href="https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    Published: November 14, 2024  
 
 25. <a id="endnote-25"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
    Published: November 14, 2024  
 
 27. <a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-03351-4](https://www.nature.com/articles/s41599-024-03351-4)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-03351-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03351-4</a>  
 
 29. <a id="endnote-29"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1](https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1)  
+   Link: <a href="https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1</a>  
 
 30. <a id="endnote-30"></a>
    Source: defensescoop.com  
    Title: uap aaro jon kosloski testify senate armed services subcommittee  
-   Link: [https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/](https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/)  
+   Link: <a href="https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/</a>  
 
 31. <a id="endnote-31"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 32. <a id="endnote-32"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024](https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024)  
+   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/](https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/)  
+   Link: <a href="https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senschumer/posts/it-is-an-outrage-the-house-didnt-work-with-us-on-our-uap-proposal-for-a-review-b/932661361551801/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
    Title: new to maximize transparency the national archives has released new records rel  
-   Link: [https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/](https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
 
 36. <a id="endnote-36"></a>
    Source: insidegovernmentcontracts.com  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
 
 37. <a id="endnote-37"></a>
    Source: legion.org  
    Title: uap are real congress pushes quest for transparency on ufos  
-   Link: [https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos](https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos)  
+   Link: <a href="https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos</a>

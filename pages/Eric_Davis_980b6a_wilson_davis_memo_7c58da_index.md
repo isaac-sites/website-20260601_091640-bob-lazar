@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-wilson-davis-memo/
 description: Focused pages that expand on Wilson Memo.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Eric_Davis_980b6a_wilson_davis_memo_7c58da
-parent_title: Wilson Memo | How Credible Is Eric Davis?
+parent_title: Wilson Memo
 parent_nav_short_title: Wilson Memo
 parent_permalink: /wilson-memo/
 ---

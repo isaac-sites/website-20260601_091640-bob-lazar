@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /degrees/
 nav_short_title: Professor trail
 title: The professor names that raised doubts
-title_full: The professor names that raised doubts | Degrees
+title_full: The professor names that raised doubts
 display_title_short: Professor trail
 display_title: Professor trail
 heading_title: The professor names that raised doubts
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Degree Claims Matter | Lazar
+parent_title: Why The Degree Claims Matter
 parent_permalink: /degrees/
 parent_nav_short_title: Degrees
 parent_heading_title: Why The Degree Claims Matter
@@ -247,7 +247,7 @@ prev_link:
   permalink: /mit-records/
   short_title: MIT records
   heading_title: Why the missing MIT record matters
-date: '2026-06-09 02:52:03 '
+date: '2026-06-11 21:00:57 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name
 
 ## Introduction
 
-One of the most damaging challenges to [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s claimed education history does not come from missing paperwork alone. It comes from the names he gave when asked about his academic past. When people claim [degrees]({{ 'degrees/' | relative_url }}) from institutions such as MIT or Caltech, investigators often look for ordinary corroboration: professors, supervisors, classmates, departments and courses. In Lazar’s case, critics argue that the professor names he supplied appear to point away from MIT and Caltech rather than toward them. That distinction matters because it shifts the debate from missing records to positive contradictory evidence.
-
+One of the most damaging challenges to Bob Lazar’s claimed education history does not come from missing paperwork alone. It comes from the names he gave when asked about his academic past. When people claim [degrees]({{ 'degrees/' | relative_url }}) from institutions such as MIT or Caltech, investigators often look for ordinary corroboration: professors, supervisors, classmates, departments and courses. In Lazar’s case, critics argue that the professor names he supplied appear to point away from MIT and Caltech rather than toward them. That distinction matters because it shifts the debate from missing records to positive contradictory evidence.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1-dark.svg" | relative_url }}" alt="Professor trail illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For sceptics, the professor trail is significant because it suggests not merely an absence of proof, but the possibility that memories, names and educational experiences originated from different schools altogether. Supporters of Lazar generally respond that records may have been altered, memories can blur over decades, and that identifying a familiar teacher does not necessarily disprove attendance elsewhere. The dispute therefore centres on whether these names reflect normal memory errors or deeper contradictions in Lazar’s [timeline]({{ 'timeline/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
@@ -266,10 +265,9 @@ For sceptics, the professor trail is significant because it suggests not merely 
 
 In disputes over educational credentials, named professors are often treated as independent anchors. Universities generate administrative records, but people also leave social traces. Former students can usually identify lecturers, research supervisors, teaching assistants, classmates or particular courses.
 
-This is especially relevant in Lazar’s case because his claimed qualifications are not ordinary undergraduate studies at local institutions. He has publicly associated himself with advanced technical education at two of the most prestigious scientific universities in the United States: the Massachusetts Institute of Technology and the California Institute of Technology. Those claims are central to the broader argument that he possessed the expertise needed for the work he later said he performed at the alleged S-4 facility near Area 51. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">OtherHandLazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>
+This is especially relevant in Lazar’s case because his claimed qualifications are not ordinary undergraduate studies at local institutions. He has publicly associated himself with advanced technical education at two of the most prestigious scientific universities in the United States: the Massachusetts Institute of Technology and the California Institute of Technology. Those claims are central to the broader argument that he possessed the expertise needed for the work he later said he performed at the alleged S-4 facility near Area 51. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>
 
-Investigators such as nuclear physicist Stanton Friedman therefore focused not only on transcripts and registrar records but also on personal academic details. Their reasoning was straightforward: if official records were somehow unavailable, professors and classmates could still provide corroboration. Instead, critics argue that the names Lazar supplied created new problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumStanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span>
-
+Investigators such as nuclear physicist Stanton Friedman therefore focused not only on transcripts and registrar records but also on personal academic details. Their reasoning was straightforward: if official records were somehow unavailable, professors and classmates could still provide corroboration. Instead, critics argue that the names Lazar supplied created new problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OujfMyIWt5c" title="Bob Lazar Story EXPOSED By Physicist! Answers To All Questions (UFO Lore Deep Dive)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OujfMyIWt5c" target="_blank" rel="noopener noreferrer">Bob Lazar Story EXPOSED By Physicist! Answers To All Questions (UFO Lore Deep Dive)</a></p><p class="youtube-embed-meta">Channel: TheSneezingMonkey &middot; Views: 42.7K &middot; Uploaded: September 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OujfMyIWt5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OujfMyIWt5c">Open on YouTube</a></p></div></div></div>
 
@@ -277,11 +275,11 @@ Investigators such as nuclear physicist Stanton Friedman therefore focused not o
 
 The most frequently cited example involves William Duxler.
 
-According to accounts collected by Friedman and later repeated by multiple sceptical researchers, Lazar named William Duxler as one of the professors associated with his claimed scientific education. The problem, critics argue, is that Duxler was not a professor at MIT or Caltech. Investigators traced him to Pierce College in California, a community college that Lazar himself acknowledged attending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> OtherHand This became one of the strongest pieces of counter-evidence because it did not rely on institutional record searches alone. Instead <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">OtherHandLazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>, it appeared to connect Lazar directly to a documented educational environment different from the elite universities he claimed to have attended.
+According to accounts collected by Friedman and later repeated by multiple sceptical researchers, Lazar named William Duxler as one of the professors associated with his claimed scientific education. The problem, critics argue, is that Duxler was not a professor at MIT or Caltech. Investigators traced him to Pierce College in California, a community college that Lazar himself acknowledged attending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> OtherHand This became one of the strongest pieces of counter-evidence because it did not rely on institutional record searches alone. Instead <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>, it appeared to connect Lazar directly to a documented educational environment different from the elite universities he claimed to have attended.
 
-Friedman repeatedly highlighted the point in his critiques. His argument was not merely that Duxler existed, but that the identification suggested Lazar was recalling instructors from Pierce College while describing an educational history centred on MIT and Caltech. Critics viewed that as evidence that the underlying academic narrative had been reconstructed around genuine community-college experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumStanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
+Friedman repeatedly highlighted the point in his critiques. His argument was not merely that Duxler existed, but that the identification suggested Lazar was recalling instructors from Pierce College while describing an educational history centred on MIT and Caltech. Critics viewed that as evidence that the underlying academic narrative had been reconstructed around genuine community-college experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
 
-The issue became more damaging because Pierce College attendance itself is not particularly controversial. Multiple investigations have reported that Lazar attended courses there in the late 1970s. The dispute is over whether that attendance formed part of a conventional educational path later transformed into claims about graduate work at elite institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditBob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">serious researching bob lazars education record</span><span class="citation-popover-snippet">Reddit[Serious] Researching Bob Lazar&#x27;s education record, some...Between 1976 and 1978 Lazar attended Los Angeles Pierce College. Lazar...</span></span></span>
+The issue became more damaging because Pierce College attendance itself is not particularly controversial. Multiple investigations have reported that Lazar attended courses there in the late 1970s. The dispute is over whether that attendance formed part of a conventional educational path later transformed into claims about graduate work at elite institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Bob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">serious researching bob lazars education record</span><span class="citation-popover-snippet">Reddit[Serious] Researching Bob Lazar&#x27;s education record, some...Between 1976 and 1978 Lazar attended Los Angeles Pierce College. Lazar...</span></span></span>
 
 Critics often summarise the contradiction this way:
 
@@ -289,7 +287,6 @@ Critics often summarise the contradiction this way:
 * Investigators found evidence of attendance at Pierce College.
 * A professor Lazar reportedly identified was associated with Pierce rather than either elite institution.
 * No equivalent trail of identifiable MIT or Caltech faculty emerged publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gbppr.net">[GBPPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gbppr.net</span><span class="citation-popover-snippet">Investigation of Bob Lazar&#x27;s M.I.T. ClaimsAdmitting that his memory for such things is poor, Bob replies with some dates and the names of...</span></span></span> That chain of reasoning remains one of the most frequently cited sceptical arguments against his educational claims.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-2-dark.svg" | relative_url }}" alt="Professor trail illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Treat the Duxler Identification as Stronger Than Missing Records
@@ -303,10 +300,9 @@ From a sceptical perspective, there is a major distinction between:
 * “We cannot find proof that someone attended MIT.”
 * “The professor they identified appears to have taught them somewhere else.”
 
-The second claim is potentially more damaging because it introduces an alternative explanation. Rather than asking why [MIT records]({{ 'mit-records/' | relative_url }}) are unavailable, critics argue that the available evidence points toward a different educational history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumStanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
+The second claim is potentially more damaging because it introduces an alternative explanation. Rather than asking why [MIT records]({{ 'mit-records/' | relative_url }}) are unavailable, critics argue that the available evidence points toward a different educational history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
 
 This is why the professor-name issue remains prominent decades after the original controversy. It is not merely a bureaucratic dispute about archived files. It is a dispute about whether Lazar's own recollections align with the institutions he claimed to attend.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBdUg1h9XLU" title="Stanton Friedman claims Bob Lazar is a fake." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer">Stanton Friedman claims Bob Lazar is a fake.</a></p><p class="youtube-embed-meta">Channel: masjosh &middot; Views: 174.5K &middot; Uploaded: January 2011 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBdUg1h9XLU">Open on YouTube</a></p></div></div></div>
 
@@ -316,10 +312,9 @@ Supporters of Lazar often counter that human memory is imperfect, especially whe
 
 That argument has some intuitive force. People frequently forget exact course numbers, graduation dates and even the names of instructors. A mistaken recollection, by itself, does not prove deception.
 
-However, critics argue that the Duxler issue goes beyond an ordinary memory lapse. Their position is that confusing one professor with another is different from identifying a teacher whose documented professional association was with an entirely different institution. In their view, the question is not whether Lazar remembered every academic detail perfectly, but why the names that surfaced appear connected to Pierce College rather than to the graduate programmes he claimed formed the core of his scientific credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> Reddit This distinction explains why sceptical investigators often frame the problem as a timeline contradiction rather than a simple memory error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditBob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</span></span></span>
+However, critics argue that the Duxler issue goes beyond an ordinary memory lapse. Their position is that confusing one professor with another is different from identifying a teacher whose documented professional association was with an entirely different institution. In their view, the question is not whether Lazar remembered every academic detail perfectly, but why the names that surfaced appear connected to Pierce College rather than to the graduate programmes he claimed formed the core of his scientific credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> Reddit This distinction explains why sceptical investigators often frame the problem as a timeline contradiction rather than a simple memory error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Bob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</span></span></span>
 
 A memory error might look like:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +328,6 @@ A timeline contradiction, by contrast, arises when a recalled detail appears to 
 
 Whether readers find that distinction convincing often depends on how much weight they place on personal recollections versus institutional records.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-3-dark.svg" | relative_url }}" alt="Professor trail illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Wider Credibility Impact
 
@@ -341,93 +335,49 @@ The professor-name controversy matters because Lazar’s educational claims are 
 
 If the professor trail pointed clearly toward MIT and Caltech, it would not prove his Area 51 claims. It would simply strengthen the argument that he possessed the academic background he described. Instead, critics argue that the available names point in the opposite direction, raising questions about whether the educational foundation of the story is reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: v-j-enterprises.com">[VJ Enterprises]</a><span class="citation-popover" role="note"><span class="citation-popover-source">v-j-enterprises.com</span><span class="citation-popover-snippet">Stanton T. Friedman / My Take On Bob LazarEdward Teller photo courtesy of MultiEducator, Inc. The Bob Lazar Fraud December 1997. By Stant...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
 
-Supporters continue to argue that missing records and disputed memories cannot fully settle the issue. Yet even among observers who remain open to some parts of Lazar’s broader narrative, the William Duxler episode is often regarded as one of the most difficult educational inconsistencies to explain away. It is one of the few areas where investigators claim to have found not merely a lack of corroboration, but evidence suggesting a different academic path altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumStanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
-
+Supporters continue to argue that missing records and disputed memories cannot fully settle the issue. Yet even among observers who remain open to some parts of Lazar’s broader narrative, the William Duxler episode is often regarded as one of the most difficult educational inconsistencies to explain away. It is one of the few areas where investigators claim to have found not merely a lack of corroboration, but evidence suggesting a different academic path altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</span><span class="citation-popover-meta">Published: December 1997</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WUYhCmfE1a0" title="Robert Bigelow Tells Bob Lazar Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WUYhCmfE1a0" target="_blank" rel="noopener noreferrer">Robert Bigelow Tells Bob Lazar Stories</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 6.1M &middot; Uploaded: February 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WUYhCmfE1a0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WUYhCmfE1a0">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The professor names that raised doubts. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The professor names that raised doubts, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Directly presents Lazar&#x27;s own account, including disputed background and credential narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for secrecy, government projects, and claims linked to Lazar.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explores evidence, memory, and critical evaluation of controversial stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracies Uncovered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11544199-M.jpg" alt="Cover for Conspiracies Uncovered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracies Uncovered">Conspiracies Uncovered</a>
-        </h4>
-        <p class="fr-book-author">By Lee Dr Mellor</p>
-        
-        <p class="fr-book-desc">First published 2021.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -464,15 +414,15 @@ Supporters continue to argue that missing records and disputed memories cannot f
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +430,15 @@ Supporters continue to argue that missing records and disputed memories cannot f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="{{ '/assets/images/marketplace-covers/32eaf37ac580c4bfbed4.jpg' | relative_url }}" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +446,15 @@ Supporters continue to argue that missing records and disputed memories cannot f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="{{ '/assets/images/marketplace-covers/cfb582b2b2b6021467bd.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +462,15 @@ Supporters continue to argue that missing records and disputed memories cannot f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="{{ '/assets/images/marketplace-covers/e10bcd19dc0cef39ab27.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,7 +478,7 @@ Supporters continue to argue that missing records and disputed memories cannot f
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="professor-trail-the-professor-names-that-raised-doubts-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-professor-names-that-raised-doubts-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="the-professor-names-that-raised-doubts-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -744,105 +694,105 @@ Supporters continue to argue that missing records and disputed memories cannot f
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 2. <a id="endnote-2"></a>
    Source: gbppr.net  
-   Link: [https://www.gbppr.net/lazar/lazar-mit.html](https://www.gbppr.net/lazar/lazar-mit.html)  
+   Link: <a href="https://www.gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gbppr.net/lazar/lazar-mit.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of Bob Lazar&#x27;s M.I.T. ClaimsAdmitting that his memory for such things is poor, Bob replies with some dates and the names of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OtherHandLazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</p></details>
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
-   Link: [https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879](https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumStanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</p></details>
+   Link: <a href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/](https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</p></details>
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s accusations about his education being &quot;erased...Lazar had claimed to have attended MIT, Caltech, California State Univ...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Title: serious researching [bob lazars](&#123;&#123; 'did-bob-lazars-story-hold-up/' | relative_url &#125;&#125;) education record  
-   Link: [https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/](https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/)  
+   Title: serious researching bob lazars education record  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hfs4kh/serious_researching_bob_lazars_education_record/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit[Serious] Researching Bob Lazar&#x27;s education record, some...Between 1976 and 1978 Lazar attended Los Angeles Pierce College. Lazar...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: believing bob lazar part one educational  
-   Link: [https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/](https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Believing Bob Lazar - Part One - Educational BackgroundAugust 1976 - Graduates High School: · 1976: Claims to have attended Los Angeles P...</p></details>
    Published: August 1976  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/](https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from MIT, a master in electronics from Caltech...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: Stanton Friedman on UFO frauds: Bob Lazar and Philip J  
-   Link: [https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/](https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Scott Lazar, supposedly a nuclear physicist with a masters in physics from MIT, a master Electronics from Caltech who supposedly w...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/okf3fv/this_is_why_i_doubt_bob_lazar/](https://www.reddit.com/r/HighStrangeness/comments/okf3fv/this_is_why_i_doubt_bob_lazar/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/okf3fv/this_is_why_i_doubt_bob_lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/okf3fv/this_is_why_i_doubt_bob_lazar/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sem9ee/its_very_unlikely_that_bob_lazar_went_to_mit_and/](https://www.reddit.com/r/UFOs/comments/1sem9ee/its_very_unlikely_that_bob_lazar_went_to_mit_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sem9ee/its_very_unlikely_that_bob_lazar_went_to_mit_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sem9ee/its_very_unlikely_that_bob_lazar_went_to_mit_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s very unlikely that Bob Lazar went to MIT and several...In 2022, John Jarmer a physicist who claims to have worked with Bob Lazar at...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1r8eu07/do_you_believe_bob_lazar/](https://www.reddit.com/r/aliens/comments/1r8eu07/do_you_believe_bob_lazar/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1r8eu07/do_you_believe_bob_lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1r8eu07/do_you_believe_bob_lazar/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: very rare 1989 radio interview with bob lazar  
-   Link: [https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/](https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(includes...74 votes, 57 comments. Credit due to somebody I&#x27;ve lost track of, but inform yourself: Edit: found it! If you believe Bob, y...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: physicist stanton friedman debates jeremy corbell  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/](https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on...104 votes, 91 comments. In this clip from 2015, Stanton Friedman and Jeremy Corbell debate Bob Lazar&#x27;s claims of having back-engine...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/](https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ee. He sells these guys as MIT professors these days can...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: otherhand.org  
    Title: the lazar timeline  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robert Lazar TimelineAs Assembled from Public Records and Statements Version 1.30, January, 1997 Originally released July, 1994 by To...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: v-j-enterprises.com  
-   Link: [https://www.v-j-enterprises.com/sflazar.html](https://www.v-j-enterprises.com/sflazar.html)  
+   Link: <a href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v-j-enterprises.com/sflazar.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman / My Take On Bob LazarEdward Teller photo courtesy of MultiEducator, Inc. The Bob Lazar Fraud December 1997. By Stant...</p></details>
    Published: December 1997  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Bob Lazar Fraud  
-   Link: [https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/](https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bob Lazar Fraud - The Black Vault Case Files17 Jan 2024 — The following was written by Stanton Friedman in December 1997 and updated...</p></details>
    Published: December 1997  
 
 19. <a id="endnote-19"></a>
    Source: ufoevidence.org  
    Title: Stanton T  
-   Link: [https://www.ufoevidence.org/documents/doc61.htm](https://www.ufoevidence.org/documents/doc61.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc61.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc61.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman / My Take On Bob LazarHe was a &quot;Scientist&quot; for Los Alamos National Laboratory, and obtained a job back-engineering UFOs at a ver...</p></details>
 
 ### Additional References
@@ -850,54 +800,54 @@ Supporters continue to argue that missing records and disputed memories cannot f
 20. <a id="endnote-20"></a>
    Source: knpr.org  
    Title: a new film focuses on bob lazars area 51 story but is it for real  
-   Link: [https://knpr.org/show/knprs-state-of-nevada/2018-12-13/a-new-film-focuses-on-bob-lazars-area-51-story-but-is-it-for-real](https://knpr.org/show/knprs-state-of-nevada/2018-12-13/a-new-film-focuses-on-bob-lazars-area-51-story-but-is-it-for-real)  
+   Link: <a href="https://knpr.org/show/knprs-state-of-nevada/2018-12-13/a-new-film-focuses-on-bob-lazars-area-51-story-but-is-it-for-real" target="_blank" rel="noopener noreferrer nofollow">https://knpr.org/show/knprs-state-of-nevada/2018-12-13/a-new-film-focuses-on-bob-lazars-area-51-story-but-is-it-for-real</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Public MediaA New Film Focuses On Bob Lazar&#x27;s Area 51 Story, But Is It...13 Dec 2018 — Stanton Friedman dug in and found out he d...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592455039552584/](https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592455039552584/)  
+   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592455039552584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592455039552584/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>couldn&#x27;t answer basic physics questions plus Bob failed in school...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: news24.com  
    Title: debunking ufo expert bob lazar part 1 20120824  
-   Link: [https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824](https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824)  
+   Link: <a href="https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO &#x27;Expert&#x27; Bob Lazar | Part 124 Aug 2012 — Specifically, his job was to reverse engineer the propulsion systems of hand-me-do...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skillnation.in  
    Title: The Education and Background of Bob Lazar  
-   Link: [https://skillnation.in/posts/bob-lazar-education/](https://skillnation.in/posts/bob-lazar-education/)  
+   Link: <a href="https://skillnation.in/posts/bob-lazar-education/" target="_blank" rel="noopener noreferrer nofollow">https://skillnation.in/posts/bob-lazar-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skill NationRobert Scott Lazar, an American conspiracy theorist, has become a prominent figure in discussions surrounding Area 51 and ext...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nevadacurrent.com  
    Title: Later, he came forward under his own name and with no disguise.Read more  
-   Link: [https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/](https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/)  
+   Link: <a href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, the Pentagon, and the enigma of Bob Lazar1 Jun 2021 — At first, Lazar spoke only in silhouette, and used the pseudonym “Dennis”...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientnexus/posts/1905844749794352/](https://www.facebook.com/groups/ancientnexus/posts/1905844749794352/)  
+   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/1905844749794352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/1905844749794352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n&#x27;t have the same components same metallurgy same...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnexplainedMysteriousUniverse/photos/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592445532886868/](https://www.facebook.com/UnexplainedMysteriousUniverse/photos/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592445532886868/)  
+   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/photos/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592445532886868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/photos/this-nuclear-physicist-said-bob-lazar-was-a-fraud-who-lied-about-his-education-a/1592445532886868/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion and UFO-related claims. Stanton Friedman said that in the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1976988768478674991](https://x.com/grok/status/1976988768478674991)  
+   Link: <a href="https://x.com/grok/status/1976988768478674991" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1976988768478674991</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims of MS degrees from MIT and Caltech lack records and...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sci.news  
    Title: science ununpentium [element 115](&#123;&#123; 'element-115/' | relative_url &#125;&#125;) 01340  
-   Link: [https://www.sci.news/physics/science-ununpentium-element-115-01340.html](https://www.sci.news/physics/science-ununpentium-element-115-01340.html)  
+   Link: <a href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/physics/science-ununpentium-element-115-01340.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ununpentium: Scientists Confirm Existence of Element 115Aug 28, 2013 — An international team of physicists has found new evidence for the...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: x.com  
-   Link: [https://x.com/michaelshermer/status/1752823985950339192](https://x.com/michaelshermer/status/1752823985950339192)  
+   Link: <a href="https://x.com/michaelshermer/status/1752823985950339192" target="_blank" rel="noopener noreferrer nofollow">https://x.com/michaelshermer/status/1752823985950339192</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gist Stan Friedman, whom I respected a lot.Read more...</p></details>

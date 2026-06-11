@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-access-vs-proof/
 description: Focused pages that expand on Access vs Proof.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Hal_Puthoff_b03689_access_vs_proof_66469d
-parent_title: Access vs Proof | How Credible Is Hal Puthoff?
+parent_title: Access vs Proof
 parent_nav_short_title: Access vs Proof
 parent_permalink: /access-vs-proof/
 ---

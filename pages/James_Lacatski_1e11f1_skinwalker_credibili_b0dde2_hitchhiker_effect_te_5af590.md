@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /skinwalker/
 nav_short_title: Hitchhiker effect
 title: Does the hitchhiker effect help or hurt?
-title_full: Does the hitchhiker effect help or hurt? | Skinwalker
+title_full: Does the hitchhiker effect help or hurt?
 display_title_short: Hitchhiker effect
 display_title: Hitchhiker effect
 heading_title: Does the hitchhiker effect help or hurt?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Skinwalker Ranch Help Or Hurt Him? | Lacatski
+parent_title: Does Skinwalker Ranch Help Or Hurt Him?
 parent_permalink: /skinwalker/
 parent_nav_short_title: Skinwalker
 parent_heading_title: Does Skinwalker Ranch Help Or Hurt Him?
@@ -253,7 +253,7 @@ next_link:
   permalink: /ranch-sighting/
   short_title: Ranch sighting
   heading_title: How strong is Lacatski's ranch sighting?
-date: '2026-06-09 02:57:11 '
+date: '2026-06-11 21:03:58 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhik
 
 ## Introduction
 
-The hitchhiker effect is one of the most controversial claims associated with Skinwalker Ranch and one of the strongest tests of [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s credibility. The claim is simple but extraordinary: people who investigated or visited the ranch allegedly experienced unusual events after they left, and in some accounts those events also affected family members, colleagues, or neighbours. Reports have included apparitions, shadow figures, electronic disturbances, strange lights, poltergeist-like activity, and feelings of being watched. Supporters argue that the repeated appearance of similar stories across different witnesses suggests a genuine phenomenon. Sceptics counter that the claim rests almost entirely on anecdotal testimony, lacks controlled investigation, and is unusually vulnerable to psychological and social influences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
-
+The hitchhiker effect is one of the most controversial claims associated with Skinwalker Ranch and one of the strongest tests of James Lacatski’s credibility. The claim is simple but extraordinary: people who investigated or visited the ranch allegedly experienced unusual events after they left, and in some accounts those events also affected family members, colleagues, or neighbours. Reports have included apparitions, shadow figures, electronic disturbances, strange lights, poltergeist-like activity, and feelings of being watched. Supporters argue that the repeated appearance of similar stories across different witnesses suggests a genuine phenomenon. Sceptics counter that the claim rests almost entirely on anecdotal testimony, lacks controlled investigation, and is unusually vulnerable to psychological and social influences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Axelrod Family&#x27;s Paranormal Encounter &#124; PDF &#124; InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1-dark.svg" | relative_url }}" alt="Hitchhiker effect illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers assessing Lacatski, the hitchhiker effect matters because it sits at the point where his credibility is tested most severely. A claim about an unexplained object or aerial event can at least be compared with radar data, photographs, or other witnesses. A claim that a phenomenon follows people home is much harder to verify independently.
@@ -272,18 +271,17 @@ For readers assessing Lacatski, the hitchhiker effect matters because it sits at
 
 The answer depends largely on how much weight one gives to witness testimony.
 
-Lacatski and his co-authors, particularly Colm Kelleher, have presented the hitchhiker effect as a recurring pattern observed during Skinwalker Ranch investigations and later during work connected to the Advanced Aerospace Weapon System Applications Program (AAWSAP). In their account, the phenomenon was not an isolated curiosity but a recurring feature reported by investigators and military personnel connected to the ranch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hitchhiker Phenomenon: r/ufo</span><span class="citation-popover-snippet">RedditThe Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — I&#x27;m sure many of you will have read Skinwalkers at the Pentagon written by Jame...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span>
+Lacatski and his co-authors, particularly Colm Kelleher, have presented the hitchhiker effect as a recurring pattern observed during Skinwalker Ranch investigations and later during work connected to the Advanced Aerospace Weapon System Applications Program (AAWSAP). In their account, the phenomenon was not an isolated curiosity but a recurring feature reported by investigators and military personnel connected to the ranch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hitchhiker Phenomenon: r/ufo</span><span class="citation-popover-snippet">The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — I&#x27;m sure many of you will have read Skinwalkers at the Pentagon written by Jame...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span>
 
 However, the very nature of the claim creates a credibility problem. Unlike a physical trace, a recovered object, or an instrument reading, the hitchhiker effect relies heavily on personal experiences reported after the fact. The chain of evidence often becomes indirect: one person reports an event, then reports that relatives also experienced unusual events, and those accounts are later collected into a narrative. Independent verification is usually absent.
 
 As a result, the hitchhiker effect simultaneously functions as a supporter's strongest argument for a broader phenomenon and a sceptic's strongest argument that Skinwalker narratives have moved beyond what can be reliably tested.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GrHqTZaMiR8" title="Haunted By Aliens? The Hitchhiker Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer">Haunted By Aliens? The Hitchhiker Effect</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Get Haunted &middot; Views: 4.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GrHqTZaMiR8">Open on YouTube</a></p></div></div></div>
 
 ## What the hitchhiker effect claim means
 
-According to accounts published by Kelleher, Lacatski, and other Skinwalker-associated researchers, the effect describes an apparent transfer of anomalous experiences from the ranch to individuals who have spent time there. The claim is not merely that visitors remember strange things they saw on the property. Rather, it proposes that the phenomenon itself somehow continues after the visit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
+According to accounts published by Kelleher, Lacatski, and other Skinwalker-associated researchers, the effect describes an apparent transfer of anomalous experiences from the ranch to individuals who have spent time there. The claim is not merely that visitors remember strange things they saw on the property. Rather, it proposes that the phenomenon itself somehow continues after the visit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Axelrod Family&#x27;s Paranormal Encounter &#124; PDF &#124; InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
 
 Reported experiences have included:
 
@@ -291,12 +289,11 @@ Reported experiences have included:
 * Unusual lights or glowing objects.
 * Electronic malfunctions.
 * Poltergeist-style disturbances.
-* Reports that family members experienced similar events despite never visiting the ranch themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalplayer.com/podcasts/episodes/7DrxB4S/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalplayer.com">[Global Player]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalplayer.com</span><span class="citation-popover-title">7Drx B4S</span><span class="citation-popover-snippet">The Hitchhiker EffectMar 1, 2026 — Based on accounts detailed in Hunt for the Skinwalker and Skinwalkers at the Pentagon, families descri...</span></span></span>
+* Reports that family members experienced similar events despite never visiting the ranch themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Axelrod Family&#x27;s Paranormal Encounter &#124; PDF &#124; InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalplayer.com/podcasts/episodes/7DrxB4S/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalplayer.com">[Global Player]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalplayer.com</span><span class="citation-popover-title">7Drx B4S</span><span class="citation-popover-snippet">The Hitchhiker EffectMar 1, 2026 — Based on accounts detailed in Hunt for the Skinwalker and Skinwalkers at the Pentagon, families descri...</span></span></span>
 
 The importance of the claim within the Skinwalker narrative is that it suggests the phenomenon is not tied to a particular location. If true, it would imply that whatever investigators encountered was capable of affecting people directly rather than merely appearing in a specific geographical area.
 
 That implication is one reason the claim became so prominent in later Skinwalker literature. It expands the story from a local mystery into a much broader theory about consciousness, perception, and anomalous experiences.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Tsg0X4onCo" title="Skinwalker Ranch: Judgment Day (Pt 5) Camping Alone, Jay Stratton, UAPTF, UFOs | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Tsg0X4onCo" target="_blank" rel="noopener noreferrer">Skinwalker Ranch: Judgment Day (Pt 5) Camping Alone, Jay Stratton, UAPTF, UFOs | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 745.1K &middot; Uploaded: April 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Tsg0X4onCo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Tsg0X4onCo">Open on YouTube</a></p></div></div></div>
 
@@ -306,14 +303,13 @@ Supporters argue that the hitchhiker effect deserves attention because similar r
 
 From the believer perspective, several points are presented as noteworthy:
 
-**Multiple witnesses reported similar themes.** Accounts often describe shadow figures, unusual lights, feelings of presence, and disturbances occurring after exposure to ranch-related investigations. Supporters argue that recurring motifs across independent reports may indicate a common underlying cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
+**Multiple witnesses reported similar themes.** Accounts often describe shadow figures, unusual lights, feelings of presence, and disturbances occurring after exposure to ranch-related investigations. Supporters argue that recurring motifs across independent reports may indicate a common underlying cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Axelrod Family&#x27;s Paranormal Encounter &#124; PDF &#124; InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
 
-**Some reports involved entire households.** Advocates contend that family involvement makes simple misperception less convincing because multiple people allegedly reported unusual experiences within the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
+**Some reports involved entire households.** Advocates contend that family involvement makes simple misperception less convincing because multiple people allegedly reported unusual experiences within the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Axelrod Family&#x27;s Paranormal Encounter &#124; PDF &#124; InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</span></span></span>
 
 **The pattern predates recent television publicity.** Proponents note that claims about the hitchhiker effect appeared in accounts connected to earlier investigations, before Skinwalker Ranch became widely known through television programmes and modern social media discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">skinwalkers at the pentagon paranormal podcast 730</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — COLM KELLEHER: Yes, what became known as the hitchhiker effect really b...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 For supporters, these recurring narratives are not proof but are considered sufficiently unusual to warrant investigation rather than dismissal.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-2-dark.svg" | relative_url }}" alt="Hitchhiker effect illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics demand stronger controls
@@ -331,7 +327,6 @@ Most hitchhiker-effect reports were collected retrospectively. Investigators typ
 People who spend time investigating reputedly paranormal locations may become highly attentive to unusual events. Ordinary experiences that would normally be ignored can acquire significance when interpreted through a paranormal framework. Psychologists refer to related mechanisms as expectation effects, confirmation bias, and selective attention.
 
 The hitchhiker claim is particularly vulnerable to these influences because many reported experiences are subjective rather than instrumentally recorded.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NY47osjbirI" title="Revisiting the Ranch’s Wildest Events | The Secret of Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NY47osjbirI" target="_blank" rel="noopener noreferrer">Revisiting the Ranch’s Wildest Events | The Secret of Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 226.2K &middot; Uploaded: May 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NY47osjbirI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NY47osjbirI">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +348,6 @@ On the other hand, the hitchhiker effect illustrates the central challenge facin
 
 That distinction is crucial. The available evidence supports the claim that people associated with Skinwalker Ranch reported hitchhiker experiences. It does not independently establish that a transmissible paranormal force was responsible for those reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">skinwalkers at the pentagon paranormal podcast 730</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — COLM KELLEHER: Yes, what became known as the hitchhiker effect really b...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/togszr/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">er Effect. youtu.be. Open. Archived post.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-3-dark.svg" | relative_url }}" alt="Hitchhiker effect illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility test in one question
 
@@ -364,86 +358,44 @@ Supporters view the consistency of the reports as evidence that something real m
 For James Lacatski, that leaves the hitchhiker effect as one of the most consequential unresolved issues in the Skinwalker Ranch story: a claim intriguing enough to sustain debate, but not yet supported by the kind of independently verifiable evidence that would transform it from a reported experience into an established fact.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Does the hitchhiker effect help or hurt?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Does the hitchhiker effect help or hurt?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
-        <p class="fr-book-desc">Introduces many of the ranch experiences later linked to hitchhiker claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides a counterpoint on evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Contains the best-known public presentation of the phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open New Insights on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New Insights">New Insights</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski</p>
-        
-        <p class="fr-book-desc">Continues discussion of paranormal and biological implications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -480,15 +432,15 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +448,15 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +464,15 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +480,15 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +496,7 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="hitchhiker-effect-does-the-hitchhiker-effect-help-or-hurt-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="does-the-hitchhiker-effect-help-or-hurt-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -759,170 +711,170 @@ For James Lacatski, that leaves the hitchhiker effect as one of the most consequ
 
 1. <a id="endnote-1"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/654704250/colmkelleher-edgescience-1](https://www.scribd.com/document/654704250/colmkelleher-edgescience-1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdAxelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</p></details>
+   Link: <a href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/654704250/colmkelleher-edgescience-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Axelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: jimharold.com  
    Title: skinwalkers at the pentagon paranormal podcast 730  
-   Link: [https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/](https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/)  
+   Link: <a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — COLM KELLEHER: Yes, what became known as the hitchhiker effect really b...</p></details>
    Published: May 2022  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: The Hitchhiker Phenomenon: r/ufo  
-   Link: [https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/](https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — I&#x27;m sure many of you will have read Skinwalkers at the Pentagon written by Jame...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — I&#x27;m sure many of you will have read Skinwalkers at the Pentagon written by Jame...</p></details>
    Published: January 13, 2022  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/](https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/togszr/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/](https://www.reddit.com/r/skinwalkerranch/comments/togszr/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/togszr/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/togszr/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>er Effect. youtu.be. Open. Archived post.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/](https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>d disturbing events that happen at home after someone has a paranormal experience...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/](https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>? It has been mentioned in the book by Colm Kelleher and George...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/18bklh9/wtf_are_the_skinwalker_ranch_hitchhiker_effects/](https://www.reddit.com/r/skinwalkerranch/comments/18bklh9/wtf_are_the_skinwalker_ranch_hitchhiker_effects/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18bklh9/wtf_are_the_skinwalker_ranch_hitchhiker_effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18bklh9/wtf_are_the_skinwalker_ranch_hitchhiker_effects/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WTF are the Skinwalker Ranch “Hitchhiker Effects?” How...The Skinwalker Ranch hitchhiker effect describes paranormal and electronic dist...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/18ars9x/is_there_a_reason_to_fear_the_hitchhiker_effect/](https://www.reddit.com/r/skinwalkerranch/comments/18ars9x/is_there_a_reason_to_fear_the_hitchhiker_effect/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18ars9x/is_there_a_reason_to_fear_the_hitchhiker_effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18ars9x/is_there_a_reason_to_fear_the_hitchhiker_effect/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dtrip which includes SWR...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/](https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>re advanced than ours; besides the portal itself, they...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/](https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/)  
+   Link: <a href="https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/](https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e a video of 3 red orbs causing death and injuries to animals...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: new interview skinwalker ranch lead investigator  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/](https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm...... Colm Kelleher on Skinwalker Ranch, Evidence for UFOs, and the Hitchhiker Effect... Skinwalkers At The Pentagon, the Hitchhik...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: Sean Kirkpatrick, former head of the Pentagon's UFO office  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/](https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the paranormal activity on skinwalker ranch. There&#x27;s a... Ranch, Investigation by AAWSAP are relevant as ever to UFO Disclosure...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: James Lacatski  
-   Link: [https://www.youtube.com/watch?v=S08b9_gUv7k](https://www.youtube.com/watch?v=S08b9_gUv7k)  
+   Link: <a href="https://www.youtube.com/watch?v=S08b9_gUv7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S08b9_gUv7k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Colm Kelleher &amp; Lacatski: The Skinwalker Hitchhiker Effect and Inside AAWSAP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: globalplayer.com  
    Title: 7Drx B4S  
-   Link: [https://www.globalplayer.com/podcasts/episodes/7DrxB4S/](https://www.globalplayer.com/podcasts/episodes/7DrxB4S/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/episodes/7DrxB4S/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/episodes/7DrxB4S/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hitchhiker EffectMar 1, 2026 — Based on accounts detailed in Hunt for the Skinwalker and Skinwalkers at the Pentagon, families descri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddMixed in between these discussions is reporting of the more vaporous parano...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker RanchSkinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), [a] located so...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Full Story | Documentary&quot;I-Team: Skinwalker Ranch and the &#x27;hitchhiker effect&#x27;.&quot; 8NewsNow, 2022... &quot;George Knapp Λ Colm Kelleher: Ski...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/science-vs-myth/strange-creatures/skinwalker.htm](https://science.howstuffworks.com/science-vs-myth/strange-creatures/skinwalker.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/skinwalker.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/skinwalker.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Originating from Navajo (Diné) folklore, a skinwalker is a malevolent witch capable of transforming into, possessing or disguising...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a](https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ptic goes to Skinwalker and takes home a hitchhiker and has...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained](https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained)  
+   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and Government UFO ResearchThe answer lies in plausible threat assessment. AAWSAP didn&#x27;t need to prove that Skinwalker R...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/a9fb0445-4fe1-4c2c-8627-1b720b6270eb/episodes/10831146-fe30-4a31-adf2-a73b38b55065/theories-of-everything-with-curt-jaimungal-george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence-for-ufos-and-the-hitchhiker-effect](https://music.amazon.com/es-co/podcasts/a9fb0445-4fe1-4c2c-8627-1b720b6270eb/episodes/10831146-fe30-4a31-adf2-a73b38b55065/theories-of-everything-with-curt-jaimungal-george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence-for-ufos-and-the-hitchhiker-effect)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/a9fb0445-4fe1-4c2c-8627-1b720b6270eb/episodes/10831146-fe30-4a31-adf2-a73b38b55065/theories-of-everything-with-curt-jaimungal-george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence-for-ufos-and-the-hitchhiker-effect" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/a9fb0445-4fe1-4c2c-8627-1b720b6270eb/episodes/10831146-fe30-4a31-adf2-a73b38b55065/theories-of-everything-with-curt-jaimungal-george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence-for-ufos-and-the-hitchhiker-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knapp Λ Colm Kelleher on Skinwalker Ranch...2 Mar 2022 — George Knapp and Colm Kelleher explore fresh revelations from Skinwalker Ranch...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranch. The AAWSAP research team found that even close encounters with UFOs in locations unrelated to...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GrHqTZaMiR8](https://www.youtube.com/watch?v=GrHqTZaMiR8)  
+   Link: <a href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GrHqTZaMiR8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted By Aliens? The Hitchhiker EffectWelcome to Episode 213: The Hitchhiker Effect! When billionaire Robert Bigelow purchased Skinwalk...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40janetkatherineapplebysmith/alien-activity-and-the-hitchhiker-effect-97ba2c280b94](https://medium.com/%40janetkatherineapplebysmith/alien-activity-and-the-hitchhiker-effect-97ba2c280b94)  
+   Link: <a href="https://medium.com/%40janetkatherineapplebysmith/alien-activity-and-the-hitchhiker-effect-97ba2c280b94" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40janetkatherineapplebysmith/alien-activity-and-the-hitchhiker-effect-97ba2c280b94</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor describes the scope and intentions of the investigation at Skinwalker...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brobible.com  
    Title: declassified documents investigation paranormal activity utah  
-   Link: [https://brobible.com/culture/article/declassified-documents-investigation-paranormal-activity-utah/](https://brobible.com/culture/article/declassified-documents-investigation-paranormal-activity-utah/)  
+   Link: <a href="https://brobible.com/culture/article/declassified-documents-investigation-paranormal-activity-utah/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/declassified-documents-investigation-paranormal-activity-utah/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Documents Detail Investigation Of Paranormal...11 Mar 2024 — Among the paranormal activity that has been reported at Skinwa...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: experiencer-studies.com  
-   Link: [https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article](https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article)  
+   Link: <a href="https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch to corroborate and evaluate earlier reports of anomalous...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: denofgeek.com  
    Title: the secret of skinwalker ranch season 2 hitchhiker  
-   Link: [https://www.denofgeek.com/tv/the-secret-of-skinwalker-ranch-season-2-hitchhiker/](https://www.denofgeek.com/tv/the-secret-of-skinwalker-ranch-season-2-hitchhiker/)  
+   Link: <a href="https://www.denofgeek.com/tv/the-secret-of-skinwalker-ranch-season-2-hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/tv/the-secret-of-skinwalker-ranch-season-2-hitchhiker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why The Secrets of Skinwalker Ranch Don&#x27;t Stay on...25 May 2021 — The titular ranch allegedly experiences paranormal activity regularly...</p></details>
    Published: May 2021  
 
 31. <a id="endnote-31"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: [https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation](https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation)  
+   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Skinwalker Ranch Became a Hotbed of Paranormal...17 Jan 2020 — Reports persist of UFOs, crop circles, cattle mutilation—and shapeshi...</p></details>

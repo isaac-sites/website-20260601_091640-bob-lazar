@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Documents
 title: What Do The Public Records Really Prove?
-title_full: What Do The Public Records Really Prove? | Kelleher
+title_full: What Do The Public Records Really Prove?
 display_title_short: Documents
 display_title: Documents
 heading_title: What Do The Public Records Really Prove?
@@ -289,7 +289,7 @@ next_link:
   permalink: /hitchhikers/
   short_title: Hitchhikers
   heading_title: What Is The Hitchhiker Effect Claim?
-date: '2026-06-09 03:05:35 '
+date: '2026-06-11 21:07:37 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f-overview-social
 
 ## Introduction
 
-Public records prove that [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }}) was close to a real, government-funded UAP-adjacent programme, but they do not prove the strongest paranormal or extraordinary claims associated with his later public work. The best evidence trail runs through DIA contract documents, FOIA releases, AARO’s historical review, and third-party archives of released records. Together, they verify that Bigelow Aerospace Advanced Space Studies, or BAASS, held DIA contract HHM402-08-C-0072, that the work was officially framed around advanced aerospace threats and unconventional technologies, and that Kelleher had a contractor-side management role. They also show the limits: many names are redacted, many claimed case files remain unavailable, and the released records mainly confirm programme existence, deliverables and bureaucratic status rather than the truth of dramatic UAP, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) or “hitchhiker” claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
-
+Public records prove that Colm Kelleher was close to a real, government-funded UAP-adjacent programme, but they do not prove the strongest paranormal or extraordinary claims associated with his later public work. The best evidence trail runs through DIA contract documents, FOIA releases, AARO’s historical review, and third-party archives of released records. Together, they verify that Bigelow Aerospace Advanced Space Studies, or BAASS, held DIA contract HHM402-08-C-0072, that the work was officially framed around advanced aerospace threats and unconventional technologies, and that Kelleher had a contractor-side management role. They also show the limits: many names are redacted, many claimed case files remain unavailable, and the released records mainly confirm programme existence, [deliverables]({{ 'deliverables/' | relative_url }}) and bureaucratic status rather than the truth of dramatic UAP, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) or “hitchhiker” claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-overview.webp" | relative_url }}" alt="Overview image for Documents" loading="eager" decoding="sync" fetchpriority="high">
 ## What the DIA documents actually establish
@@ -310,7 +309,7 @@ That matters because it separates a verified institutional fact from a broader i
 
 The released slides also show that the contract sat in a deliberately unusual technical frame. One DIA page says Bigelow Aerospace won a contract to study technical areas with an “emphasis on unconventional technologies”; another lists topics including invisibility cloaking, wormholes, antigravity, warp drives, biological field effects and advanced propulsion. These are not ordinary aerospace procurement themes, but neither are they proof that any anomalous object or non-human technology was recovered or analysed. They show a research portfolio that mixed speculative aerospace theory, frontier physics, materials science and human-effects topics under a defence-intelligence umbrella. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-For Kelleher, this cuts both ways. It strengthens the claim that he was not merely commenting from outside the system: he was connected to a real contractor apparatus around a real DIA-funded programme. But it also narrows what the public record can honestly carry. Contract slides can confirm status, funding, [deliverables]({{ 'deliverables/' | relative_url }}) and subject headings. They cannot by themselves validate the underlying case reports, alleged biological effects, ranch phenomena, or claims that hidden legacy programmes existed.
+For Kelleher, this cuts both ways. It strengthens the claim that he was not merely commenting from outside the system: he was connected to a real contractor apparatus around a real DIA-funded programme. But it also narrows what the public record can honestly carry. Contract slides can confirm status, funding, deliverables and subject headings. They cannot by themselves validate the underlying case reports, alleged biological effects, ranch phenomena, or claims that hidden legacy programmes existed.
 
 ## The contract-status trail is stronger than the anomaly trail
 
@@ -322,14 +321,12 @@ The same packet undercuts the idea that the first-year deliverables were judged 
 
 That is one of the most important public-document tensions in the Kelleher evidence trail. Supporters can point to the fact that senior political figures sought high-level protection for the programme and that the work involved unusual aerospace subjects. Sceptics can point to the internal assessment that the available deliverables did not justify a restricted SAP. A balanced reading is that the programme was real, unusual and taken seriously enough to generate internal classification [debate]({{ 'debate-020cbc/' | relative_url }}), but the released record does not show that its first-year output forced official confirmation of extraordinary discoveries.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-1-dark.svg" | relative_url }}" alt="Documents illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## FOIA releases confirm a programme, not a full case file
 
 FOIA has changed the public understanding of Kelleher’s world because it moved AAWSAP/BAASS from rumour into documentable history. The Black Vault’s AAWSAP archive, based on DIA releases, collects contract-related documents, solicitation material, briefing slides, and released Defense Intelligence Reference Documents, or DIRDs. It notes that some requests concerned the overall programme and others concerned specific documents linked to *Skinwalkers at the Pentagon*, the book co-authored by James Lacatski, George Knapp and Colm Kelleher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The FOIA trail is useful because it gives readers a way to distinguish levels of evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,12 +340,11 @@ The released DIRD material is a good example. The Black Vault reports that DIA r
 
 The difference matters. A speculative report on warp drives or biological field effects may be relevant to how AAWSAP framed possible future aerospace threats. It does not automatically establish that a particular UAP case involved advanced non-human technology, or that [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch phenomena were independently verified under controlled conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QpJebYW_vb4" title="Garry Nolan: Aliens | The Case They’re Already Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer">Garry Nolan: Aliens | The Case They’re Already Here</a></p><p class="youtube-embed-meta">Channel: Robinson Erhardt &middot; Views: 1.5M &middot; Uploaded: March 2025 &middot; Length: 3 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QpJebYW_vb4">Open on YouTube</a></p></div></div></div>
 
 ## Kelleher’s verified role sits on the contractor side
 
-Public biographical sources align with the document trail in placing Kelleher on the contractor-side execution of the programme. Rice University’s Archives of the Impossible profile says that Kelleher led the National Institute for Discovery Science team at Skinwalker Ranch from 1996 to 2004, later worked in biotechnology, and in 2008 became deputy administrator of BAASS, where he led day-to-day operations in executing the AAWSAP contract with DIA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
+Public biographical sources align with the document trail in placing Kelleher on the contractor-side execution of the programme. Rice University’s Archives of the Impossible profile says that Kelleher led the National Institute for Discovery Science team at Skinwalker Ranch from 1996 to 2004, later worked in biotechnology, and in 2008 became deputy administrator of BAASS, where he led day-to-day operations in executing the AAWSAP contract with DIA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 That gives his public claims more weight than those of a detached commentator. Kelleher was not simply interpreting documents from the outside years later; he is presented by a university archive profile as someone involved in the operational running of the contractor effort. It also makes the evidential boundary more important. A contractor-side manager may have seen internal reports, witness files and programme material not available to the public. But unless that material is released in a form that allows independent checking, the public cannot treat it as confirmed evidence merely because the person describing it had proximity.
 
@@ -361,7 +357,6 @@ One reason the evidence trail feels confusing is that “AATIP” and “AAWSAP�
 For readers assessing Kelleher, this is not a minor naming quibble. If a public personality says they worked on “the Pentagon UFO programme”, the records may support that only after translation through contract names, nicknames, office references and later media usage. The documents support a DIA-managed AAWSAP contract awarded to BAASS. They do not make every later public use of “AATIP” equally precise.
 
 AARO’s 2024 historical report adds another layer. It says AARO reviewed official government efforts, classified and unclassified archives, and interviews, and it frames its work as an attempt to assess UAP claims using empirical evidence rather than belief or media repetition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-4 "Endnote 4") Its executive summary says AARO found no evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed that any UAP sighting represented extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-4 "Endnote 4") That conclusion does not erase the AAWSAP contract record. It does mean that, from AARO’s official review perspective, the existence of AAWSAP/BAASS does not equal confirmation of non-human technology.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-2-dark.svg" | relative_url }}" alt="Documents illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the SAP request shows about secrecy claims
@@ -376,9 +371,6 @@ The second mistake is to assume that, because SAP protection was not recommended
 
 The SAP packet also notes counterintelligence concerns involving Bigelow Aerospace’s parent company, while saying those concerns did not appear directly related to AAWSAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span> That is another example of why the records must be read narrowly. The line is relevant to institutional risk and oversight; it is not, by itself, evidence against Kelleher’s personal credibility or evidence for the anomalous claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hFDxu0uho2M" title="Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer">Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 240.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hFDxu0uho2M">Open on YouTube</a></p></div></div></div>
-
 ## Where public records stop short
 
 The biggest gap in the evidence trail is not whether AAWSAP existed. It did. The gap is whether the public can inspect the underlying case data behind the most memorable claims connected to Kelleher’s public reputation.
@@ -389,26 +381,24 @@ That matters especially for claims involving biological effects, Skinwalker Ranc
 
 AARO’s own framing reinforces this distinction. Its report says it cannot rely on interviewee accounts alone where extraordinary claims are involved, and that any final assessment must be accompanied by provable facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-4 "Endnote 4") That is a useful standard for Kelleher too: proximity and testimony matter, but they do not substitute for independently checkable evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-dark.svg" | relative_url }}" alt="Documents illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters and sceptics read the same files
 
-Supporters of Kelleher can make a fair argument from the record. They can say the documents show a real DIA-funded programme, a real BAASS contract, positive internal status reports, unusual research topics, and a contractor structure in which Kelleher had a documented operational role. They can also argue that redactions, missing records and classification boundaries mean the public record may not contain the strongest material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
+Supporters of Kelleher can make a fair argument from the record. They can say the documents show a real DIA-funded programme, a real BAASS contract, positive internal status reports, unusual research topics, and a contractor structure in which Kelleher had a documented operational role. They can also argue that redactions, missing records and classification boundaries mean the public record may not contain the strongest material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 Sceptics can make an equally evidence-based argument. They can say the released documents mainly show a speculative research contract, not proof of anomalous craft or paranormal phenomena. They can point to the internal recommendation against SAP protection, the description of FY09 deliverables as academic and basic scientific research, and AARO’s later conclusion that it found no evidence confirming extraterrestrial technology in any government investigation or review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The fairest reading is that the public documents strengthen Kelleher’s credibility on access and role, but not automatically on interpretation. They show he was close to a real programme. They do not compel the reader to accept every claim made in books, interviews or later UAP discourse.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-dark.svg" | relative_url }}" alt="Documents illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the records really prove
 
-The public record proves three core things. First, BAASS performed under a DIA contract connected to advanced aerospace threat research, and DIA documents describe the contractor’s early performance in positive terms. Second, Kelleher’s public institutional profile places him in a senior contractor-side role in BAASS during AAWSAP execution. Third, FOIA releases have made a significant body of contract and technical-study material publicly available, while leaving important gaps in raw case evidence and programme interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
+The public record proves three core things. First, BAASS performed under a DIA contract connected to advanced aerospace threat research, and DIA documents describe the contractor’s early performance in positive terms. Second, Kelleher’s public institutional profile places him in a senior contractor-side role in BAASS during AAWSAP execution. Third, FOIA releases have made a significant body of contract and technical-study material publicly available, while leaving important gaps in raw case evidence and programme interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 The same record does not prove that Skinwalker Ranch phenomena were objectively established, that UAP cases studied by BAASS involved non-human technology, or that dramatic biological and paranormal claims have been independently validated. Those claims may remain part of Kelleher’s public narrative, but their evidential status is weaker than the contract trail.
 
 For a reader assessing Colm Kelleher’s credibility, the practical takeaway is simple: treat his documented programme proximity as real, and treat his strongest anomalous claims as still dependent on evidence that is either private, redacted, unreleased, second-hand or disputed. That is not a dismissal. It is the distinction the documents themselves require.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hFDxu0uho2M" title="Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer">Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 240.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hFDxu0uho2M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -527,15 +517,15 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +533,15 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +549,15 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +565,15 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +581,7 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="documents-what-do-the-public-records-really-prove-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-public-records-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-the-public-records-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -807,166 +797,166 @@ For a reader assessing Colm Kelleher’s credibility, the practical takeaway is 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 2. <a id="endnote-2"></a>
    Source: impossiblearchives.rice.edu  
    Title: Title of Site | Rice University Colm A. Kelleher  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
 
 14. <a id="endnote-14"></a>
    Source: foia.gov  
-   Link: [https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&type=component](https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&type=component)  
+   Link: <a href="https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component</a>  
 
 15. <a id="endnote-15"></a>
    Source: news.rice.edu  
    Title: archives impossible conference explores cultivation impossibility  
-   Link: [https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility](https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility)  
+   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: dow uap d38 range fouler debrief middle east may 2020  
-   Link: [https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf](https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf</a>  
    Published: may 2020  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 18. <a id="endnote-18"></a>
    Source: locationsunknown.org  
    Title: Locations Unknown Defense Intelligence Reference Documents (DRIDs)On  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf](https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/](https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/</a>  
 
 24. <a id="endnote-24"></a>
    Source: documents.theblackvault.com  
    Title: dia aatip reports  
-   Link: [https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf](https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: [https://www.intownmag.com/2025/03/archives-of-the-impossible/](https://www.intownmag.com/2025/03/archives-of-the-impossible/)  
+   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
    Title: Colm Kelleher  
-   Link: [https://www.linkedin.com/in/colm-kelleher-834a05112](https://www.linkedin.com/in/colm-kelleher-834a05112)  
+   Link: <a href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colm-kelleher-834a05112</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Anomalous Health Incidents: A Scientific Look at Havana Syndrome and More  
-   Link: [https://www.youtube.com/watch?v=A2dY_pMhD-4](https://www.youtube.com/watch?v=A2dY_pMhD-4)  
+   Link: <a href="https://www.youtube.com/watch?v=A2dY_pMhD-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2dY_pMhD-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining UAP [Human Effects](&amp;#123;&amp;#123; &#x27;human-effects/&#x27; | relative_url &amp;#125;&amp;#125;) and Evidence Standards...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Examining UAP Human Effects and Evidence Standards  
-   Link: [https://www.youtube.com/watch?v=z0S78lY-7Z0](https://www.youtube.com/watch?v=z0S78lY-7Z0)  
+   Link: <a href="https://www.youtube.com/watch?v=z0S78lY-7Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z0S78lY-7Z0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sol Foundation Initiative for UAP Research &amp; Policy: Garry Nolan Opening Remarks...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Garry Nolan: Aliens | The Case They're Already Here  
-   Link: [https://www.youtube.com/watch?v=QpJebYW_vb4](https://www.youtube.com/watch?v=QpJebYW_vb4)  
+   Link: <a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpJebYW_vb4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Health Incidents: A Scientific Look at Havana Syndrome and More...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/](https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 35. <a id="endnote-35"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
 
 36. <a id="endnote-36"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>

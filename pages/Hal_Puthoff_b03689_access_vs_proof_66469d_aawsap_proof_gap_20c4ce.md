@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /access-vs-proof/
 nav_short_title: AAWSAP Gap
 title: Did AAWSAP prove anything alien?
-title_full: Did AAWSAP prove anything alien? | Access vs Proof
+title_full: Did AAWSAP prove anything alien?
 display_title_short: AAWSAP Gap
 display_title: AAWSAP Gap
 heading_title: Did AAWSAP prove anything alien?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Insider Access Prove His UFO Claims? | Puthoff
+parent_title: Does Insider Access Prove His UFO Claims?
 parent_permalink: /access-vs-proof/
 parent_nav_short_title: Access vs Proof
 parent_heading_title: Does Insider Access Prove His UFO Claims?
@@ -247,7 +247,7 @@ next_link:
   permalink: /hearsay-risk/
   short_title: Hearsay Risk
   heading_title: What happens when insiders say they were told?
-date: '2026-06-09 03:01:21 '
+date: '2026-06-11 21:06:19 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap
 ## Introduction
 
 The Advanced Aerospace Weapon System Applications Program (AAWSAP) is one of the strongest pieces of evidence that people such as [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) operated inside a real, government-funded UAP-related environment rather than entirely on the fringe. The programme existed, received Pentagon funding, involved defence contractors, and generated extensive reports on unusual aerospace and related phenomena. What it did not publicly produce was verified proof that the United States possessed recovered alien craft or non-human technology.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That gap sits at the centre of the credibility debate around Puthoff. Supporters argue that AAWSAP gave researchers access to classified conversations, witnesses and technical leads that outsiders never saw. Sceptics counter that years of access, funding and official involvement still failed to generate publicly verifiable evidence for the programme's most dramatic implications. The distinction between government access and proof is therefore crucial when assessing Puthoff's standing in modern UAP debates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
@@ -282,7 +281,6 @@ That does not prove the programme found nothing unusual. It does show that the p
 
 The available contract records also emphasise research products, technical studies and analytical work. They do not publicly reveal a chain of custody for extraterrestrial materials or a confirmed exploitation programme involving recovered craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YnV4NkNA9s8" title="Former AATIP director on forthcoming report on unidentified aerial phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YnV4NkNA9s8" target="_blank" rel="noopener noreferrer">Former AATIP director on forthcoming report on unidentified aerial phenomena</a></p><p class="youtube-embed-meta">Channel: Washington Post Live &middot; Views: 2.0K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YnV4NkNA9s8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YnV4NkNA9s8">Open on YouTube</a></p></div></div></div>
 
 ## Why access is not the same as proof
@@ -299,7 +297,6 @@ The missing element is independent evidence. For an alien-recovery claim to move
 
 This is where the credibility debate around Puthoff often becomes blurred. Some commentators treat his proximity to classified environments as indirect proof that extraordinary claims are true. Others dismiss all such claims because no public proof has emerged. The evidence supports a narrower position: AAWSAP gave him proximity to government-linked investigations, but proximity alone does not establish the reality of recovered non-human technology.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later Pentagon reviews widened the proof gap
 
@@ -307,14 +304,13 @@ The gap became more visible after the creation of the All-domain Anomaly Resolut
 
 AARO's 2024 historical review examined decades of U.S. government UAP activity, including programmes such as AAWSAP and AATIP. Its conclusion was direct: investigators found no empirical evidence that any official U.S. government investigation had confirmed extraterrestrial technology, hidden alien artefacts or secret reverse-engineering programmes involving non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</span></span></span>
 
-The report further stated that AARO had found no evidence supporting claims that government agencies or private companies possessed off-world technology, and said many reverse-engineering allegations could not be substantiated. In some instances, investigators concluded that stories had grown around misunderstood classified programmes or ordinary materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology.Read more</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The report further stated that AARO had found no evidence supporting claims that government agencies or private companies possessed off-world technology, and said many reverse-engineering allegations could not be substantiated. In some instances, investigators concluded that stories had grown around misunderstood classified programmes or ordinary materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For sceptics, this significantly weakens the inference that AAWSAP's existence points towards hidden alien recovery operations. Their argument is straightforward: if a modern Pentagon office reviewed historical claims and still found no evidence of extraterrestrial technology, then government access has not translated into demonstrable proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
 
 Supporters respond that AARO may not have received full access to all compartments, that some witnesses dispute its conclusions, and that classified evidence could remain unavailable to the public. Former officials associated with UAP disclosure efforts have openly challenged AARO's findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/technology/science/space/former-pentagon-ufo-investigator-makes-claims-of-nonhuman-craft-biological-implants-in-memoir/news-story/f88d6535e1f3a58cce77390fed7d75ba" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Non-human&#x27;: Image exposes worrying theory</span><span class="citation-popover-snippet">In his memoir, &quot;Imminent,&quot; Elizondo asserts that a secret government program possesses advanced off-world technology. He recounts handlin...</span></span></span>
 
 The result is not a resolved debate but a widening evidential divide between claims of insider knowledge and publicly demonstrated proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WK85CQiqHSk" title="CIA Physicist WARNS: &quot;They Live Secretly Among Us&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer">CIA Physicist WARNS: &quot;They Live Secretly Among Us&quot;</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO Clips &middot; Views: 219.0K &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WK85CQiqHSk">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +334,6 @@ The same AAWSAP history produces two very different interpretations.
 
 Both sides agree on one point that is often lost in public discussion: AAWSAP itself is not the disputed fact. The dispute concerns what AAWSAP's existence implies.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for assessing Hal Puthoff
 
@@ -348,9 +343,7 @@ At the same time, AAWSAP does not provide public proof for the strongest claims 
 
 The key credibility question therefore remains unresolved rather than answered. Puthoff's documented government-linked access is real. The evidential bridge from that access to proven extraterrestrial technology has not been publicly established. That gap is not a minor detail in the story of AAWSAP; it is the central issue that continues to divide supporters, sceptics and investigators.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YuuIZhP3xFI" title="Co-founder Dr. Hal Puthoff is at the forefront of propulsion research." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YuuIZhP3xFI" target="_blank" rel="noopener noreferrer">Co-founder Dr. Hal Puthoff is at the forefront of propulsion research.</a></p><p class="youtube-embed-meta">Channel: To The Stars* &middot; Views: 34.6K &middot; Uploaded: November 2017 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YuuIZhP3xFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YuuIZhP3xFI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,15 +462,15 @@ The key credibility question therefore remains unresolved rather than answered. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +478,15 @@ The key credibility question therefore remains unresolved rather than answered. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +494,15 @@ The key credibility question therefore remains unresolved rather than answered. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +510,15 @@ The key credibility question therefore remains unresolved rather than answered. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +526,7 @@ The key credibility question therefore remains unresolved rather than answered. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-did-aawsap-prove-anything-alien-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aawsap-prove-anything-alien-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-aawsap-prove-anything-alien-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,150 +742,150 @@ The key credibility question therefore remains unresolved rather than answered. 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoReid agrees that the ranch deserves attention and inserts a line into the DoD budg...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office&quot;Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report&quot;. Space.com...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology.Read more  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.com.au  
    Title: 'Non-human': Image exposes worrying theory  
-   Link: [https://www.news.com.au/technology/science/space/former-pentagon-ufo-investigator-makes-claims-of-nonhuman-craft-biological-implants-in-memoir/news-story/f88d6535e1f3a58cce77390fed7d75ba](https://www.news.com.au/technology/science/space/former-pentagon-ufo-investigator-makes-claims-of-nonhuman-craft-biological-implants-in-memoir/news-story/f88d6535e1f3a58cce77390fed7d75ba)  
+   Link: <a href="https://www.news.com.au/technology/science/space/former-pentagon-ufo-investigator-makes-claims-of-nonhuman-craft-biological-implants-in-memoir/news-story/f88d6535e1f3a58cce77390fed7d75ba" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/former-pentagon-ufo-investigator-makes-claims-of-nonhuman-craft-biological-implants-in-memoir/news-story/f88d6535e1f3a58cce77390fed7d75ba</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In his memoir, &quot;Imminent,&quot; Elizondo asserts that a secret government program possesses advanced off-world technology. He recounts handlin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 —... Material Recovered from a UAP Crash Denied on the Re...</p></details>
    Published: May 2024  
 
 12. <a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/164 May 2024 — No evidence of extraterrestrial origin of UFO/UAP were...</p></details>
    Published: May 2024  
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial...&quot;AARO has found no verifiable evidence that any UAP sighting has represented extrat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...April 8, 2022 — 17 Nov 2009 — The program manager and his...</p></details>
    Published: April 8, 2022  
 
 16. <a id="endnote-16"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Performance by Bigelow Aerospace Advanced. Space Studies (BAASS) has been excellent and they are in full compliance with aerospace.Read...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/975055935/DR-Reid-Mtg-Nov09](https://www.scribd.com/document/975055935/DR-Reid-Mtg-Nov09)  
+   Link: <a href="https://www.scribd.com/document/975055935/DR-Reid-Mtg-Nov09" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/975055935/DR-Reid-Mtg-Nov09</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DIA Review of AATIP SAP Request | PDFDIA concluded that the current and expected deliverables do not justify the establishment of a restr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government Covert UFO ProgramAlthough a program that received around $22 million in taxpayer funding indeed existed as desc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/questions-pentagon-ufo-report](https://www.wired.com/story/questions-pentagon-ufo-report)  
+   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era](https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era)  
+   Link: <a href="https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Agency: Defense Intelligence Agency (DIA). Contracted Entity: Bigelow Aerospace Advanced Space Studies (BAASS). Overview: AAWSAP was the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: newly leaked documents show that the department of defense funded a study concer  
-   Link: [https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/](https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/)  
+   Link: <a href="https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2017, The New York Times revealed the existence...In 2008, AAWSAP sent out their request, and Bigelow Aerospace Advanced Space Studie...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — It consists of Senator Harry Reid&#x27;s Request to Put The Advanced Aerosp...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: [https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/](https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/)  
+   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nasawatch.com  
    Title: bigelow aerospace had a secret dod ufo study contract update  
-   Link: [https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/](https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/)  
+   Link: <a href="https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/" target="_blank" rel="noopener noreferrer nofollow">https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow Aerospace Had a Secret DoD UFO Study Contract...19 Dec 2017 — The Pentagon has officially confirmed that there was, in fact, a $...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents](https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cret or rarely seen accounts of UAP sightings received more than a billion hits...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: The AARO report is more devastating than it appears  
-   Link: [https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/](https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufo... alien however this report does not convince me that the phenomenon does not exist.... r/space - Pentagon has &#x27;no credible evide...</p></details>

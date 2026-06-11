@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: Erased Records
 title: Could Lazar's Records Have Been Erased?
-title_full: Could Lazar's Records Have Been Erased? | Lazar
+title_full: Could Lazar's Records Have Been Erased?
 display_title_short: Erased Records
 display_title: Erased Records
 heading_title: Could Lazar's Records Have Been Erased?
@@ -289,7 +289,7 @@ next_link:
   permalink: /los-alamos/
   short_title: Los Alamos
   heading_title: What Does Los Alamos Really Prove?
-date: '2026-06-09 02:51:46 '
+date: '2026-06-11 21:00:41 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview-soci
 
 ## Introduction
 
-[Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s “erased records” allegation is one of the most important defensive pillars of his story. He says that after he went public about alleged work on non-human craft near Area 51, records of his education and employment were removed or denied, making him look like an unreliable witness. The claim matters because it could explain why key documents are missing — but it also creates a demanding evidential burden. To accept it, a reader has to believe not only that Lazar worked in a secret programme, but that a cover-up reached civilian universities, contractor records, hospital or identity records, and ordinary institutional memory.
-
+Bob Lazar’s “erased records” allegation is one of the most important defensive pillars of his story. He says that after he went public about alleged work on non-human craft near Area 51, records of his education and employment were removed or denied, making him look like an unreliable witness. The claim matters because it could explain why key documents are missing — but it also creates a demanding evidential burden. To accept it, a reader has to believe not only that Lazar worked in a secret programme, but that a cover-up reached civilian universities, contractor records, hospital or identity records, and ordinary institutional memory.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview.webp" | relative_url }}" alt="Overview image for Erased Records" loading="eager" decoding="sync" fetchpriority="high">
 The fair assessment is cautious and sceptical. There is evidence that Lazar had some connection to the Los Alamos environment, including a phone-book listing and journalism that described him as a physicist, but that does not prove his claimed S-4 role, MIT and Caltech [degrees]({{ 'degrees/' | relative_url }}), or a successful records-erasure campaign. The more systems Lazar says were erased, the more independent traces should normally remain.
@@ -318,20 +317,18 @@ The strongest pro-Lazar version of the argument is not that every record vanishe
 
 The sceptical response is that the Los Alamos evidence supports a narrower conclusion: Lazar may have had a contractor-linked technical presence around Los Alamos, but that is not the same as being a Los Alamos physicist, a Navy-backed S-4 reverse-engineering scientist, or an MIT and Caltech graduate.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-1-dark.svg" | relative_url }}" alt="Erased Records illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would be hard to erase
 
 The difficulty with the erased-records allegation is that modern institutional life produces redundant traces. A person’s education and work history is not usually held in one fragile database. It is spread across registrars, transcripts, class lists, degree certifications, payroll systems, tax records, security forms, colleagues, supervisors, yearbooks, thesis catalogues, professional memberships, correspondence, and personal copies.
 
-US education privacy law also assumes that schools maintain many kinds of education records. The US Department of Education describes education records as records directly related to a student and maintained by a school or a party acting for it, including grades, transcripts, class lists, course schedules and other files, in formats ranging from paper to electronic media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentprivacy.ed.gov/faq/what-education-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentprivacy.ed.gov">[Protecting Student Privacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentprivacy.ed.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIT’s own registrar describes the office as steward of academic records and provider of documents for current students, former students and alumni to certify credentials and verify time at MIT. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-title">Registrar Transcripts &amp; Records | MIT Registrar</span><span class="citation-popover-snippet">Registrar Transcripts &amp; Records | MIT Registrar</span></span></span>
+US education privacy law also assumes that schools maintain many kinds of education records. The US Department of Education describes education records as records directly related to a student and maintained by a school or a party acting for it, including grades, transcripts, class lists, course schedules and other files, in formats ranging from paper to electronic media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentprivacy.ed.gov/faq/what-education-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentprivacy.ed.gov">[Protecting Student Privacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentprivacy.ed.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIT’s own registrar describes the office as steward of academic records and provider of documents for current students, former students and alumni to certify credentials and verify time at MIT. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-title">Registrar Transcripts &amp; Records &#124; MIT Registrar</span><span class="citation-popover-snippet">Registrar Transcripts &amp; Records &#124; MIT Registrar</span></span></span>
 
 That does not make erasure impossible. Records can be lost, misfiled, protected by privacy rules, destroyed under retention policies, or held by contractors rather than a headline institution. Classified work can also obscure job titles, project names and chains of command. But Lazar’s claim is unusually broad because it involves civilian academic credentials as well as classified-adjacent employment. A secret programme could plausibly hide a project code name or deny access to a facility; it is much harder to quietly remove every independent trace of graduate study at elite universities without classmates, thesis records, professors, diplomas, correspondence or alumni documentation surfacing over decades.
 
-Federal records rules also cut against the idea that official records can simply be destroyed at will. The US National Archives says federal records must be covered by approved records schedules, and agencies must not destroy records unless an approved schedule authorises it; unscheduled records must be treated as permanent until scheduled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/scheduling/sch-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Scheduling Records | National Archives</span><span class="citation-popover-snippet">National Archives Scheduling Records | National Archives</span></span></span> That does not prove that all relevant Lazar records should still exist, especially if he was working through a contractor or informal channel, but it raises the bar for a claim of deliberate, cross-institutional disappearance.
+Federal records rules also cut against the idea that official records can simply be destroyed at will. The US National Archives says federal records must be covered by approved records schedules, and agencies must not destroy records unless an approved schedule authorises it; unscheduled records must be treated as permanent until scheduled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/scheduling/sch-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Scheduling Records &#124; National Archives</span><span class="citation-popover-snippet">National Archives Scheduling Records &#124; National Archives</span></span></span> That does not prove that all relevant Lazar records should still exist, especially if he was working through a contractor or informal channel, but it raises the bar for a claim of deliberate, cross-institutional disappearance.
 
 The most credible “missing records” explanation is therefore limited: contractor records, visitor records, or low-level technical assignments might be incomplete, hard to access, or held under names that do not match public expectations. The least credible version is the sweeping one: that a government operation erased MIT, Caltech, employment, and associated civilian traces so completely that only Lazar’s own account and a few ambiguous surrounding documents remain.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hD7uPnXQDSo" title="The UFO Reporter Part 1: The Files of George Knapp | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hD7uPnXQDSo" target="_blank" rel="noopener noreferrer">The UFO Reporter Part 1: The Files of George Knapp | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 4.9M &middot; Uploaded: October 2023 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hD7uPnXQDSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hD7uPnXQDSo">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +342,6 @@ Sceptics read the same evidence differently. Friedman argued that the phone-book
 
 This is the core interpretive split. Supporters ask: why would Los Alamos deny someone who appears in its orbit? Sceptics ask: why inflate a contractor-linked technical presence into a physicist role and then into a hidden S-4 appointment? Both questions are fair. The available record supports the first question more strongly than it supports Lazar’s full answer to it.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-2-dark.svg" | relative_url }}" alt="Erased Records illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Retaliation claims beyond records
 
@@ -356,7 +352,6 @@ The best-known later example is the raid on [United Nuclear]({{ 'united-nuclear/
 The Black Vault, which obtained and analysed Laingsburg Police Department material, likewise reported that the search related to a homicide investigation involving poison and to records and poisons Lazar’s company sold. The site also noted details that could seem heavy-handed or intelligence-like, but did not establish that the raid was really about UFO material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">documents on 2017 bob lazar united nuclear raid laingsburg police department</span><span class="citation-popover-snippet">documents on 2017 bob lazar united nuclear raid laingsburg police department</span></span></span>
 
 This pattern is important for assessing the erased-records claim. Some events around Lazar really are odd, confusing or easy to frame as intimidation. But “odd” is not the same as proven retaliation. Where documents exist, they sometimes point to mundane explanations that are less dramatic than the Lazar-centred interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBdUg1h9XLU" title="Stanton Friedman claims Bob Lazar is a fake." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer">Stanton Friedman claims Bob Lazar is a fake.</a></p><p class="youtube-embed-meta">Channel: masjosh &middot; Views: 174.5K &middot; Uploaded: January 2011 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBdUg1h9XLU">Open on YouTube</a></p></div></div></div>
 
@@ -378,7 +373,6 @@ Recent sceptical commentary continues to frame Lazar’s story as unusually depe
 
 There is also a wider official context. AARO, the US office tasked with reviewing historical UAP claims, reported in 2024 that it found no empirical evidence that the US government or private companies have been reverse-engineering extraterrestrial technology. That finding does not specifically disprove every Lazar anecdote, but it does mean his central premise has not been corroborated by the current official historical review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-3-dark.svg" | relative_url }}" alt="Erased Records illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility test
 
@@ -387,7 +381,6 @@ The erased-records claim should not be dismissed merely because government secre
 But credibility depends on scale and corroboration. A narrow [records gap]({{ 'records-gap/' | relative_url }}) around a contractor assignment is plausible. A broad erasure campaign reaching elite university records, employment records, personal identity records, and ordinary human witnesses is a much larger claim. The larger version requires stronger evidence than has been publicly produced.
 
 A practical way to judge the allegation is to separate three levels:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -399,91 +392,47 @@ A practical way to judge the allegation is to separate three levels:
 
 That distinction keeps the real anomaly in view without letting it carry more weight than it can bear. The Los Alamos dispute raises questions about institutional record-keeping and denial. It does not, by itself, validate Lazar’s claimed education, his alleged S-4 role, or the existence of a retaliation programme designed to erase his past.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2qjFU7B_RM" title="Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2qjFU7B_RM" target="_blank" rel="noopener noreferrer">Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us!</a></p><p class="youtube-embed-meta">Channel: Ultra Mystic &middot; Views: 1.3K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2qjFU7B_RM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2qjFU7B_RM">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could Lazar&#x27;s Records Have Been Erased?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could Lazar&#x27;s Records Have Been Erased?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Presents his claims about missing education and employment records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Examines secrecy, classified work, and government narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful framework for evaluating claims of missing evidence and cover-ups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracies Uncovered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11544199-M.jpg" alt="Cover for Conspiracies Uncovered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracies Uncovered">Conspiracies Uncovered</a>
-        </h4>
-        <p class="fr-book-author">By Lee Dr Mellor</p>
-        
-        <p class="fr-book-desc">First published 2021.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracies+Uncovered+Lee+Dr+Mellor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -520,11 +469,27 @@ That distinction keeps the real anomaly in view without letting it carry more we
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
@@ -552,11 +517,11 @@ That distinction keeps the real anomaly in view without letting it carry more we
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-have-been-erased-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-have-been-erased-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
@@ -783,143 +748,143 @@ That distinction keeps the real anomaly in view without letting it carry more we
 
 1. <a id="endnote-1"></a>
    Source: medium.com  
-   Link: [https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879](https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879)  
+   Link: <a href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879</a>  
 
 2. <a id="endnote-2"></a>
    Source: podcasts.happyscribe.com  
-   Link: [https://podcasts.happyscribe.com/the-joe-rogan-experience/1510-george-knapp-jeremy-corbell](https://podcasts.happyscribe.com/the-joe-rogan-experience/1510-george-knapp-jeremy-corbell)  
+   Link: <a href="https://podcasts.happyscribe.com/the-joe-rogan-experience/1510-george-knapp-jeremy-corbell" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/the-joe-rogan-experience/1510-george-knapp-jeremy-corbell</a>  
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/](https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/)  
+   Link: <a href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/</a>  
 
 4. <a id="endnote-4"></a>
    Source: registrar.mit.edu  
    Title: Registrar Transcripts & Records | MIT Registrar  
-   Link: [https://registrar.mit.edu/transcripts-records](https://registrar.mit.edu/transcripts-records)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Scheduling Records | National Archives  
-   Link: [https://www.archives.gov/records-mgmt/scheduling/sch-records](https://www.archives.gov/records-mgmt/scheduling/sch-records)  
+   Link: <a href="https://www.archives.gov/records-mgmt/scheduling/sch-records" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/scheduling/sch-records</a>  
 
 6. <a id="endnote-6"></a>
    Source: skeptic.com  
    Title: The Strange Case of Bob Lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: grs05 6  
-   Link: [https://www.archives.gov/files/records-mgmt/grs/grs05-6.pdf](https://www.archives.gov/files/records-mgmt/grs/grs05-6.pdf)  
+   Link: <a href="https://www.archives.gov/files/records-mgmt/grs/grs05-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/records-mgmt/grs/grs05-6.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: records schedule  
-   Link: [https://www.archives.gov/about/records-schedule](https://www.archives.gov/about/records-schedule)  
+   Link: <a href="https://www.archives.gov/about/records-schedule" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/about/records-schedule</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: wikis.mit.edu  
-   Link: [https://wikis.mit.edu/confluence/plugins/viewsource/viewpagesrc.action?pageId=280435217](https://wikis.mit.edu/confluence/plugins/viewsource/viewpagesrc.action?pageId=280435217)  
+   Link: <a href="https://wikis.mit.edu/confluence/plugins/viewsource/viewpagesrc.action?pageId=280435217" target="_blank" rel="noopener noreferrer nofollow">https://wikis.mit.edu/confluence/plugins/viewsource/viewpagesrc.action?pageId=280435217</a>  
 
 11. <a id="endnote-11"></a>
    Source: registrar.mit.edu  
-   Link: [https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts](https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts</a>  
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f](https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f)  
+   Link: <a href="https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f</a>  
 
 13. <a id="endnote-13"></a>
    Source: studentprivacy.ed.gov  
-   Link: [https://studentprivacy.ed.gov/faq/what-education-record](https://studentprivacy.ed.gov/faq/what-education-record)  
+   Link: <a href="https://studentprivacy.ed.gov/faq/what-education-record" target="_blank" rel="noopener noreferrer nofollow">https://studentprivacy.ed.gov/faq/what-education-record</a>  
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
-   Title: documents on 2017 bob lazar [united nuclear raid](&#123;&#123; 'united-nuclear/' | relative_url &#125;&#125;) laingsburg police department  
-   Link: [https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/](https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/)  
+   Title: documents on 2017 bob lazar united nuclear raid laingsburg police department  
+   Link: <a href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
 16. <a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 18. <a id="endnote-18"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf](https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: nev.fandom.com  
    Title: Bob Lazar  
-   Link: [https://nev.fandom.com/wiki/Bob_Lazar](https://nev.fandom.com/wiki/Bob_Lazar)  
+   Link: <a href="https://nev.fandom.com/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://nev.fandom.com/wiki/Bob_Lazar</a>  
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
    Title: Area 51  
-   Link: [https://www.britannica.com/place/Area-51](https://www.britannica.com/place/Area-51)  
+   Link: <a href="https://www.britannica.com/place/Area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Area-51</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us!  
-   Link: [https://www.youtube.com/watch?v=_2qjFU7B_RM](https://www.youtube.com/watch?v=_2qjFU7B_RM)  
+   Link: <a href="https://www.youtube.com/watch?v=_2qjFU7B_RM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_2qjFU7B_RM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Reporter Part 1: The Files of George Knapp | NewsNation Prime...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BoJmd2MIpOk](https://www.youtube.com/watch?v=BoJmd2MIpOk)  
+   Link: <a href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BoJmd2MIpOk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The UFO Reporter Part 1: The Files of George Knapp | News Nation Prime  
-   Link: [https://www.youtube.com/watch?v=hD7uPnXQDSo](https://www.youtube.com/watch?v=hD7uPnXQDSo)  
+   Link: <a href="https://www.youtube.com/watch?v=hD7uPnXQDSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hD7uPnXQDSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Success Of &#x27;S4: The Bob Lazar Story&#x27; | Mystery Wire...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/](https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sszfpu/bob_lazars_missing_mit_years_where_are_all_the/](https://www.reddit.com/r/UFOs/comments/1sszfpu/bob_lazars_missing_mit_years_where_are_all_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sszfpu/bob_lazars_missing_mit_years_where_are_all_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sszfpu/bob_lazars_missing_mit_years_where_are_all_the/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/](https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
 
 28. <a id="endnote-28"></a>
    Source: dailygrail.com  
-   Link: [https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/](https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/)  
+   Link: <a href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/</a>  
 
 29. <a id="endnote-29"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/guides/bob-lazar-area-51](https://www.nowdeclassified.com/guides/bob-lazar-area-51)  
+   Link: <a href="https://www.nowdeclassified.com/guides/bob-lazar-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/guides/bob-lazar-area-51</a>  
 
 30. <a id="endnote-30"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/m/bob_lazar_area_51_and_flying_saucers](https://www.rottentomatoes.com/m/bob_lazar_area_51_and_flying_saucers)  
+   Link: <a href="https://www.rottentomatoes.com/m/bob_lazar_area_51_and_flying_saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/bob_lazar_area_51_and_flying_saucers</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/chrissteinofficial/posts/heres-a-thing-a-few-months-ago-i-got-a-call-out-of-the-blue-from-a-researcher-wh/746651623491580/](https://www.facebook.com/chrissteinofficial/posts/heres-a-thing-a-few-months-ago-i-got-a-call-out-of-the-blue-from-a-researcher-wh/746651623491580/)  
+   Link: <a href="https://www.facebook.com/chrissteinofficial/posts/heres-a-thing-a-few-months-ago-i-got-a-call-out-of-the-blue-from-a-researcher-wh/746651623491580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chrissteinofficial/posts/heres-a-thing-a-few-months-ago-i-got-a-call-out-of-the-blue-from-a-researcher-wh/746651623491580/</a>

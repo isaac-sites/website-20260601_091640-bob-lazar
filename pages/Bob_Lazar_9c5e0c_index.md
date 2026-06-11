@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-index/
 description: Focused pages that expand on Did Bob Lazar's Story Hold Up?.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c
 parent_title: Did Bob Lazar's Story Hold Up?

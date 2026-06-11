@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credibility-split/
 nav_short_title: Testable claims
 title: Can failed proof still help credibility?
-title_full: Can failed proof still help credibility? | Credibility Split
+title_full: Can failed proof still help credibility?
 display_title_short: Testable claims
 display_title: Testable claims
 heading_title: Can failed proof still help credibility?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why People Disagree About Puthoff | Puthoff
+parent_title: Why People Disagree About Puthoff
 parent_permalink: /credibility-split/
 parent_nav_short_title: Credibility Split
 parent_heading_title: Why People Disagree About Puthoff
@@ -247,7 +247,7 @@ prev_link:
   permalink: /geller-test/
   short_title: Geller test
   heading_title: Did Uri Geller damage Puthoff's credibility?
-date: '2026-06-09 03:01:26 '
+date: '2026-06-11 21:06:24 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_su
 ## Introduction
 
 One reason [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) retains support even among people who do not accept his strongest UFO-related implications is that some of the claims around him moved beyond stories and into laboratory testing. The results did not establish an extraterrestrial origin, nor did they produce a widely accepted scientific breakthrough. Yet for supporters, the fact that physical samples could be examined, measured and debated changed the conversation from pure testimony to something at least partially testable.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-1-dark.svg" | relative_url }}" alt="Testable claims illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates an important credibility distinction. A failed or inconclusive test does not automatically validate a claim. But neither does it always destroy credibility if the original claim was framed as a question rather than a proven conclusion. Much of the debate around Puthoff's involvement with alleged UAP materials sits inside that gap between investigation and validation. The materials became a test case for how supporters and sceptics evaluate evidence differently.
@@ -274,19 +273,17 @@ One of the most discussed samples was a layered magnesium-zinc-bismuth material 
 
 For supporters, this looked stronger than a simple anecdote. The sample could be examined regardless of whether its claimed history was true. That distinction mattered because it offered a route towards falsification. If the material displayed impossible properties, the case would become stronger. If it turned out to be conventional, the claim could be narrowed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0keK7VBIuWA" title="Hal Puthoff explains to TTSA &amp; VIEWERS how he determines if MATERIAL is of ALIEN NATURE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0keK7VBIuWA" target="_blank" rel="noopener noreferrer">Hal Puthoff explains to TTSA &amp; VIEWERS how he determines if MATERIAL is of ALIEN NATURE</a></p><p class="youtube-embed-meta">Channel: dbeaty2 &middot; Views: 4.3K &middot; Uploaded: September 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0keK7VBIuWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0keK7VBIuWA">Open on YouTube</a></p></div></div></div>
 
 ## How laboratory testing changed the discussion
 
 The most important development for credibility was not the discovery of exotic properties. It was that testing actually happened.
 
-Public discussions around the material eventually involved laboratory analysis, including work associated with Oak Ridge National Laboratory and further commentary from Puthoff and physicist Eric Davis. The resulting assessments concluded that the material was manufactured and unusual in structure, but did not establish any proof of extraterrestrial, [ultraterrestrial]({{ 'ultraterrestrials/' | relative_url }}) or otherwise exotic origin. TTSA itself acknowledged this point in public summaries of the findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*researchIn 2018, To The Stars launched the ADAM Research Project, an academic study focused on exotic materials for technolo...</span></span></span>
+Public discussions around the material eventually involved laboratory analysis, including work associated with Oak Ridge National Laboratory and further commentary from Puthoff and physicist Eric Davis. The resulting assessments concluded that the material was manufactured and unusual in structure, but did not establish any proof of extraterrestrial, ultraterrestrial or otherwise exotic origin. TTSA itself acknowledged this point in public summaries of the findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*researchIn 2018, To The Stars launched the ADAM Research Project, an academic study focused on exotic materials for technolo...</span></span></span>
 
 That outcome mattered because it shifted the claim.
 
 Earlier UFO-related narratives sometimes implied that unusual materials might themselves become evidence of non-human technology. After testing, the stronger versions of that claim became harder to sustain publicly. The discussion moved towards narrower questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +307,6 @@ The strongest version of a claim may fail, yet supporters continue to see value 
 The original public interest came largely from the possibility that the samples represented something extraordinary. When testing failed to demonstrate that, many supporters shifted emphasis rather than abandoning the subject entirely.
 
 The revised argument typically runs as follows:
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-2-dark.svg" | relative_url }}" alt="Testable claims illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -341,7 +337,6 @@ Former AARO director Sean Kirkpatrick has criticised what he describes as recurr
 
 From this sceptical perspective, the key question is not whether testing occurred but whether the testing produced the extraordinary evidence that had been implied. They argue that it did not.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iQOibpIDx-4" title="Eric Weinstein Debates CIA UFO Expert Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iQOibpIDx-4" target="_blank" rel="noopener noreferrer">Eric Weinstein Debates CIA UFO Expert Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 2.2M &middot; Uploaded: February 2022 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iQOibpIDx-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iQOibpIDx-4">Open on YouTube</a></p></div></div></div>
 
 ## The difference between investigation and validation
@@ -358,7 +353,6 @@ Sceptics tend to judge him by the second standard. They focus on whether years o
 
 That difference explains why the same episode can strengthen credibility for one audience and weaken it for another.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-3-dark.svg" | relative_url }}" alt="Testable claims illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_materials_supporter_67d5f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the materials episode ultimately says about credibility
 
@@ -368,9 +362,7 @@ Yet the episode also did not end as a straightforward debunking. Real samples we
 
 The result is a credibility outcome that mirrors the wider Hal Puthoff debate. The materials story neither vindicates nor destroys his reputation. Instead, it reinforces a pattern visible throughout his career: he often operates in areas where investigation is real, evidence is partial, conclusions remain disputed, and the strongest claims stay ahead of what the available data can conclusively prove.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q72TK4Fpze0" title="Hal Puthoff Presentation 06/08/2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q72TK4Fpze0" target="_blank" rel="noopener noreferrer">Hal Puthoff Presentation 06/08/2018</a></p><p class="youtube-embed-meta">Channel: Mystery Wire &middot; Views: 22.3K &middot; Uploaded: June 2020 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q72TK4Fpze0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q72TK4Fpze0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -489,15 +481,15 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="https://i.ebayimg.com/images/g/gycAAeSwP8ZpQXfY/s-l225.jpg" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +497,15 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SIXTEEN 12 UFO SHADO INTERCEPTOR WITH LAUNCH CRATER DISPLAY BRAND NEW"><img src="https://i.ebayimg.com/images/g/RT8AAOSw5jNgT8xJ/s-l225.jpg" alt="Listing image for SIXTEEN 12 UFO SHADO INTERCEPTOR WITH LAUNCH CRATER DISPLAY BRAND NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">SIXTEEN 12 UFO SHADO INTERCEPTOR WITH LAUNCH CRATER DISPLAY BRAND NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Octagonal-Shaped UFO 2009 Indonesia ARV Alien Reproduction Vehicle Model"><img src="https://i.ebayimg.com/images/g/82sAAOSwlSdmgytF/s-l225.jpg" alt="Listing image for Octagonal-Shaped UFO 2009 Indonesia ARV Alien Reproduction Vehicle Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Octagonal-Shaped UFO 2009 Indonesia ARV Alien Reproduction Vehicle Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +529,15 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift"><img src="https://i.ebayimg.com/images/g/zOQAAeSwW5RpqV92/s-l225.jpg" alt="Listing image for Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,7 +545,7 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="testable-claims-can-failed-proof-still-help-credibility-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-failed-proof-still-help-credibility-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="can-failed-proof-still-help-credibility-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,99 +761,99 @@ The result is a credibility outcome that mirrors the wider Hal Puthoff debate. T
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: [https://en.wikipedia.org/wiki/To_The_Stars_Inc](https://en.wikipedia.org/wiki/To_The_Stars_Inc)  
+   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
    Title: sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399  
-   Link: [https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/](https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/)  
+   Link: <a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTSA, while AARO released the Oak Ridge Laboratories analysis of the same piece, and it demolishes Puthoff&#x27;s claims. So it&#x27;s really Putho...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tothestars.media  
-   Link: [https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb](https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb)  
+   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOop7o-4pAbL9YynWyC4k45l4h4V7bkLxhAHmR4-7ErUf44td4ULb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars*researchIn 2018, To The Stars launched the ADAM Research Project, an academic study focused on exotic materials for technolo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials](https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials)  
+   Link: <a href="https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITO&quot;To the Stars&quot; Downgrades Debris from &quot;Extraterrestrial...21 Sept 2018 — One artifact on loan to TTSA for analysis is a Ma...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tothestars.media  
    Title: To The Stars*TTS* Analysis on ORNL Report  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoprY_j9ie-IDkE9kZfTvQBXstUu4XgrRXeLpIRCVQTZOli6xtbu](https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoprY_j9ie-IDkE9kZfTvQBXstUu4XgrRXeLpIRCVQTZOli6xtbu)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoprY_j9ie-IDkE9kZfTvQBXstUu4XgrRXeLpIRCVQTZOli6xtbu" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoprY_j9ie-IDkE9kZfTvQBXstUu4XgrRXeLpIRCVQTZOli6xtbu</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2025 — The Puthoff/Davis analysis and the ORNL analysis answer most of the fundamental questions about the structure of the...</p></details>
    Published: February 28, 2025  
 
 6. <a id="endnote-6"></a>
    Source: tothestars.media  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqLCEMJsjVCniKQiJm2vEcPB20YdMR-WH4lmkYRxYq3Mqamua5x](https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqLCEMJsjVCniKQiJm2vEcPB20YdMR-WH4lmkYRxYq3Mqamua5x)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqLCEMJsjVCniKQiJm2vEcPB20YdMR-WH4lmkYRxYq3Mqamua5x" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqLCEMJsjVCniKQiJm2vEcPB20YdMR-WH4lmkYRxYq3Mqamua5x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTS* Analysis on ORNL ReportThe Puthoff/Davis analysis and the ORNL analysis answer most of the fundamental questions about the structure...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tothestars.media  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorErBVvPEyLunAaFhFxhBuBI7LPEETDR4dtdDBWdNOcIQxKUHER](https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorErBVvPEyLunAaFhFxhBuBI7LPEETDR4dtdDBWdNOcIQxKUHER)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorErBVvPEyLunAaFhFxhBuBI7LPEETDR4dtdDBWdNOcIQxKUHER" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorErBVvPEyLunAaFhFxhBuBI7LPEETDR4dtdDBWdNOcIQxKUHER</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTS* Analysis on ORNL ReportHal Puthoff and Dr. Eric Davis&#x27;s analysis was completed and submitted to... UFOs Are Real. UFOs Are Real. UF...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/](https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/)  
+   Link: <a href="https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>f metamaterials that are reported to have come from an advanced aerospace vehicle...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: jasoncolavito.com  
    Title: hal puthoff discusses metamaterials flying saucers and more in west virginia  
-   Link: [https://www.jasoncolavito.com/blog/hal-puthoff-discusses-metamaterials-flying-saucers-and-more-in-west-virginia](https://www.jasoncolavito.com/blog/hal-puthoff-discusses-metamaterials-flying-saucers-and-more-in-west-virginia)  
+   Link: <a href="https://www.jasoncolavito.com/blog/hal-puthoff-discusses-metamaterials-flying-saucers-and-more-in-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/hal-puthoff-discusses-metamaterials-flying-saucers-and-more-in-west-virginia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff Discusses Metamaterials, Flying Saucers, and...11 Feb 2020 — In TTSA&#x27;s public-facing statements, they talk about using metam...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/](https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TTSA and Project Serpo Connection: r/ufoRichard Doty got all his info on the Bi/Mg metamaterials from Hal Puthoff himself. Read abou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/keysofenoch/posts/10156702475196769/](https://www.facebook.com/groups/keysofenoch/posts/10156702475196769/)  
+   Link: <a href="https://www.facebook.com/groups/keysofenoch/posts/10156702475196769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/keysofenoch/posts/10156702475196769/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Army and TTSa collaborate on UFO researchAGENDA EXPOSED Part 7 by UFO Sentinnels: HOW ELON MUSK STOLE CRASHED UFO TECHNOLOGY from ALIE...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-luis-elizondo-and-chris-swecker-a-former-fbi-special-agent-joi/985864197153931/](https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-luis-elizondo-and-chris-swecker-a-former-fbi-special-agent-joi/985864197153931/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-luis-elizondo-and-chris-swecker-a-former-fbi-special-agent-joi/985864197153931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-luis-elizondo-and-chris-swecker-a-former-fbi-special-agent-joi/985864197153931/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower Luis Elizondo and Chris Swecker...He discussed the controversial &quot;alloy&quot; or &quot;meta material&quot; in the possession of Rober...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/arts-parts-metamaterials](https://www.envisioning.com/research/xenotech/arts-parts-metamaterials)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/arts-parts-metamaterials" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/arts-parts-metamaterials</a>  
 
 14. <a id="endnote-14"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/](https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/)  
+   Link: <a href="https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge&#x27;s UFO Research Group Signs Contract With...21 Oct 2019 — The group, called To the Stars Academy, just signed an agreement wi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims](https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims)  
+   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — Elizondo, Puthoff, and other members of TTSA have made additional claims...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: londonlovesbusiness.com  
-   Link: [https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/](https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/)  
+   Link: <a href="https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA-linked researcher claims US recovered UFOs with...17 May 2026 — Explore the shocking claims of alien life in recovered UFOs and t...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0keK7VBIuWA](https://www.youtube.com/watch?v=0keK7VBIuWA)  
+   Link: <a href="https://www.youtube.com/watch?v=0keK7VBIuWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0keK7VBIuWA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff explains to TTSA &amp; VIEWERS how he...TTS Academy&#x27;s ADAM Research Project, an acronym... Hal Puthoff explains to TTSA &amp; VIEWE...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mqldQHXofgE](https://www.youtube.com/watch?v=mqldQHXofgE)  
+   Link: <a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqldQHXofgE</a>  
 
 19. <a id="endnote-19"></a>
    Source: github.com  
-   Link: [https://github.com/richgel999/uap_resources](https://github.com/richgel999/uap_resources)  
+   Link: <a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>richgel999/uap_resources: Key OSINT UAP Related...Hal Puthoff Presentation &amp; Q&amp;A - he mentions C/R or the phrase &quot;Crash...</p></details>

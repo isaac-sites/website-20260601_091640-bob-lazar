@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claim-types/
 nav_short_title: Orb group
 title: Did the orb working group prove anything?
-title_full: Did the orb working group prove anything? | Claim Types
+title_full: Did the orb working group prove anything?
 display_title_short: Orb group
 display_title: Orb group
 heading_title: Did the orb working group prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Which Ramirez Claims Are Strongest? | Ramirez
+parent_title: Which Ramirez Claims Are Strongest?
 parent_permalink: /claim-types/
 parent_nav_short_title: Claim Types
 parent_heading_title: Which Ramirez Claims Are Strongest?
@@ -253,7 +253,7 @@ next_link:
   permalink: /radar-claims/
   short_title: Radar claims
   heading_title: How strong are Ramirez's radar anomaly claims?
-date: '2026-06-09 02:59:03 '
+date: '2026-06-11 21:04:57 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1.webp
@@ -262,18 +262,16 @@ image: /assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_h
 
 ## Introduction
 
-One of the more difficult parts of assessing [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s credibility is not his personal background but the way some of his UFO-related claims are transmitted. The alleged “orb working group” story is a useful example. Ramirez has described discussions, reviews and internal interest around luminous orb phenomena, sometimes implying that people inside the intelligence community took such reports seriously. The problem is not that intelligence agencies would never examine unusual reports. The problem is that the public evidence for the specific orb-group narrative largely rests on second-hand accounts, recollections of conversations, unnamed sources and interpretations of what official interest might have meant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Retired CIA officer John Ramirez on “The Phenomena”</span><span class="citation-popover-snippet">RedditRetired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — 301 votes, 100 comments. John Ramirez is a retired GS-15 r...</span><span class="citation-popover-meta">Published: August 16, 2024</span></span></span>
-
+One of the more difficult parts of assessing John Ramirez’s credibility is not his personal background but the way some of his UFO-related claims are transmitted. The alleged “orb working group” story is a useful example. Ramirez has described discussions, reviews and internal interest around luminous orb phenomena, sometimes implying that people inside the intelligence community took such reports seriously. The problem is not that intelligence agencies would never examine unusual reports. The problem is that the public evidence for the specific orb-group narrative largely rests on second-hand accounts, recollections of conversations, unnamed sources and interpretations of what official interest might have meant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Retired CIA officer John Ramirez on “The Phenomena”</span><span class="citation-popover-snippet">Retired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — 301 votes, 100 comments. John Ramirez is a retired GS-15 r...</span><span class="citation-popover-meta">Published: August 16, 2024</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1-dark.svg" | relative_url }}" alt="Orb group illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to separate evidence from implication, the key question is not whether orb reports exist. They do. The question is whether the alleged working-group story demonstrates anything beyond informal discussion and internal curiosity. On the currently available public record, the answer remains uncertain.
 
 ## What Ramirez says he heard or glimpsed
 
-Ramirez has repeatedly discussed orb-like phenomena as part of a broader UAP picture that includes lights, energy forms, non-human intelligences and other anomalous experiences. In interviews and public appearances, he has suggested that elements within government or intelligence circles examined such reports and that conversations occurred around these subjects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Interviewers never challenge CIA guys Like John Ramirez</span><span class="citation-popover-snippet">RedditInterviewers never challenge CIA guys Like John Ramirez...June 2, 2023 — r/UFOs - The connections between Monica Reza and &quot;The UFO...</span><span class="citation-popover-meta">Published: June 2, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=tcPKD1dRzFg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube John Ramirez</span><span class="citation-popover-snippet">John Ramirez - That UFO PodcastRetired CIA officer, John Ramirez has made a big impact in a short time in the UFO community with s...</span></span></span>
+Ramirez has repeatedly discussed orb-like phenomena as part of a broader UAP picture that includes lights, energy forms, non-human intelligences and other anomalous experiences. In interviews and public appearances, he has suggested that elements within government or intelligence circles examined such reports and that conversations occurred around these subjects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Interviewers never challenge CIA guys Like John Ramirez</span><span class="citation-popover-snippet">Interviewers never challenge CIA guys Like John Ramirez...June 2, 2023 — r/UFOs - The connections between Monica Reza and &quot;The UFO...</span><span class="citation-popover-meta">Published: June 2, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=tcPKD1dRzFg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube John Ramirez</span><span class="citation-popover-snippet">John Ramirez - That UFO PodcastRetired CIA officer, John Ramirez has made a big impact in a short time in the UFO community with s...</span></span></span>
 
 The important credibility distinction is that the orb-group story is usually not presented as a documented programme supported by released records. Instead, it tends to appear through a chain of statements such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,7 +288,6 @@ In public UFO discussions, Ramirez often occupies an unusual middle ground. He d
 
 As a result, the reader is often being asked to evaluate a report about a report rather than a first-hand observation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXerKPm2-p4" title="Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer">Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 34.2K &middot; Uploaded: February 2022 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXerKPm2-p4">Open on YouTube</a></p></div></div></div>
 
 ## Why CIA review is not CIA endorsement
@@ -300,7 +297,6 @@ One recurring misunderstanding in UFO debates is the assumption that agency atte
 Intelligence organisations investigate many things that later prove mistaken, exaggerated or unresolved. They review foreign technology, sensor anomalies, rumours, psychological operations, public reports and potential security threats. The fact that analysts discuss a subject does not establish that the subject is genuine.
 
 That distinction matters for the orb narrative. Even if a CIA officer, contractor or analyst reviewed reports involving luminous spheres, several different explanations remain possible:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,7 +320,6 @@ The public evidence currently available does not show an official CIA statement 
 The orb-group story is best understood as a chain with multiple links. Each link may be plausible on its own. The difficulty is that uncertainty accumulates as the chain grows.
 
 A simplified version looks like this:
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-2-dark.svg" | relative_url }}" alt="Orb group illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -351,7 +346,6 @@ This pattern appears in a number of Ramirez discussions. Critics argue that many
 
 Both points can be true simultaneously. A conversation may have happened, yet still fail to establish the extraordinary conclusion later attached to it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-b97V-Wkw0" title="John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer">John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 30.7K &middot; Uploaded: December 2021 &middot; Length: 1 hour 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-b97V-Wkw0">Open on YouTube</a></p></div></div></div>
 
 ## The missing pieces that would strengthen the claim
@@ -359,7 +353,6 @@ Both points can be true simultaneously. A conversation may have happened, yet st
 The orb working-group story remains difficult to verify because several forms of corroboration are absent from the public record.
 
 Among the missing elements are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +369,6 @@ None of these absences prove the story is false. However, they limit how much we
 
 This is a common problem in UFO credibility debates. A claim may sound detailed, technical and institutionally connected while still remaining evidentially weak because the supporting material cannot be examined independently.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-3-dark.svg" | relative_url }}" alt="Orb group illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the orb-group story says about Ramirez's wider credibility
 
@@ -386,93 +378,49 @@ His verified intelligence background gives listeners a reason to pay attention. 
 
 For credibility assessment purposes, the orb narrative fits best into the category of second-hand insider reporting rather than documented disclosure. It is stronger than a random internet rumour because it comes from someone with a genuine intelligence background. It is weaker than a documented whistleblower claim because the public cannot inspect the underlying evidence.
 
-That leaves the story in a middle category: intriguing, impossible to rule out completely, but not independently substantiated. The orb-group narrative therefore demonstrates a broader lesson about Ramirez’s UFO claims. The most significant weakness is often not an obvious contradiction. It is the gap between hearing that something was discussed inside government and proving what, if anything, that discussion actually established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAugust 6, 2023 — 771 votes, 643 comments. Why do these aliens always let everyone know their big plans? Yo bro we are attacking 07/...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...Share your videos with friends, family, and the world...</span></span></span>
-
+That leaves the story in a middle category: intriguing, impossible to rule out completely, but not independently substantiated. The orb-group narrative therefore demonstrates a broader lesson about Ramirez’s UFO claims. The most significant weakness is often not an obvious contradiction. It is the gap between hearing that something was discussed inside government and proving what, if anything, that discussion actually established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">August 6, 2023 — 771 votes, 643 comments. Why do these aliens always let everyone know their big plans? Yo bro we are attacking 07/...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...Share your videos with friends, family, and the world...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1d7Mmss5TVI" title="12-07-21 John Ramirez, CIA Retired, UFOs/UAPs, Encounters and More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer">12-07-21 John Ramirez, CIA Retired, UFOs/UAPs, Encounters and More!</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 120.9K &middot; Uploaded: December 2021 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1d7Mmss5TVI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did the orb working group prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did the orb working group prove anything?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Provides historical context for unusual sighting narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a more evidence-focused comparison point.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
-        
-        <p class="fr-book-desc">Examines interpretations of unusual aerial and entity reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/207639-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">First published 1988. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -485,7 +433,7 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -509,15 +457,15 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chrome LED Orb Pendant Light"><img src="https://i.ebayimg.com/images/g/vsYAAeSweRNpMtPY/s-l225.jpg" alt="Listing image for Chrome LED Orb Pendant Light" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer">Chrome LED Orb Pendant Light</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orb light">Search <span data-ebay-domain-label>eBay.co.uk</span>: orb light</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +473,15 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Glass Globe Table Lamp E14 Modern Bedside Ambient Light 20cm"><img src="https://i.ebayimg.com/images/g/snkAAeSw6sFqIfaU/s-l225.jpg" alt="Listing image for White Glass Globe Table Lamp E14 Modern Bedside Ambient Light 20cm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer">White Glass Globe Table Lamp E14 Modern Bedside Ambient Light 20cm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orb light">Search <span data-ebay-domain-label>eBay.co.uk</span>: orb light</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +489,15 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Traditional Opal Glass Globe IP44 Bathroom Ceiling Light Fitting by Happy Hom..."><img src="https://i.ebayimg.com/images/g/~oYAAeSwpDhprzDG/s-l225.jpg" alt="Listing image for Traditional Opal Glass Globe IP44 Bathroom Ceiling Light Fitting by Happy Hom..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer">Traditional Opal Glass Globe IP44 Bathroom Ceiling Light Fitting by Happy Hom...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orb light">Search <span data-ebay-domain-label>eBay.co.uk</span>: orb light</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +505,15 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Industrial Dimmable LED Filament Light Bulbs Glass Candle Globe E14 E27 B15 B22"><img src="https://i.ebayimg.com/images/g/KQcAAOSwrVRbXx4H/s-l225.jpg" alt="Listing image for Industrial Dimmable LED Filament Light Bulbs Glass Candle Globe E14 E27 B15 B22" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer">Industrial Dimmable LED Filament Light Bulbs Glass Candle Globe E14 E27 B15 B22</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for orb light">Search <span data-ebay-domain-label>eBay.co.uk</span>: orb light</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +521,7 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="orb-group-did-the-orb-working-group-prove-anything-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=orb+light&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-orb-working-group-prove-anything-orb-light&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orb light" data-ebay-reference="did-the-orb-working-group-prove-anything-orb-light" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -789,186 +737,186 @@ That leaves the story in a middle category: intriguing, impossible to rule out c
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: Retired CIA officer John Ramirez on “The Phenomena”  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRetired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — 301 votes, 100 comments. John Ramirez is a retired GS-15 r...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — 301 votes, 100 comments. John Ramirez is a retired GS-15 r...</p></details>
    Published: August 16, 2024  
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
    Title: You Tube John Ramirez  
-   Link: [https://www.youtube.com/watch?v=tcPKD1dRzFg](https://www.youtube.com/watch?v=tcPKD1dRzFg)  
+   Link: <a href="https://www.youtube.com/watch?v=tcPKD1dRzFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tcPKD1dRzFg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez - That UFO PodcastRetired CIA officer, John Ramirez has made a big impact in a short time in the UFO community with s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Interviewers never challenge CIA guys Like John Ramirez  
-   Link: [https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/](https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditInterviewers never challenge CIA guys Like John Ramirez...June 2, 2023 — r/UFOs - The connections between Monica Reza and &quot;The UFO...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13y8os7/interviewers_never_challenge_cia_guys_like_john/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interviewers never challenge CIA guys Like John Ramirez...June 2, 2023 — r/UFOs - The connections between Monica Reza and &quot;The UFO...</p></details>
    Published: June 2, 2023  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/](https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez16 votes, 112 comments. And r/ufo trusts the CIA and anyone who claims to have ever worked for them now?...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Retired CIA Officer John Ramirez on the Agency, Orbs  
-   Link: [https://www.reddit.com/r/UFOs/comments/skuc76/retired_cia_officer_john_ramirez_on_the_agency/](https://www.reddit.com/r/UFOs/comments/skuc76/retired_cia_officer_john_ramirez_on_the_agency/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/skuc76/retired_cia_officer_john_ramirez_on_the_agency/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/skuc76/retired_cia_officer_john_ramirez_on_the_agency/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One thing I&#x27;ve noticed about Ramirez is that he is cool and level-headed in explaining his professional experience...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/](https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez talking about 2027: r/aliens - RedditSeptember 19, 2024 — John Ramirez was asked about 2027 on an episode of That UFO...</p></details>
    Published: September 19, 2024  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAugust 6, 2023 — 771 votes, 643 comments. Why do these aliens always let everyone know their big plans? Yo bro we are attacking 07/...</p></details>
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2023 — 771 votes, 643 comments. Why do these aliens always let everyone know their big plans? Yo bro we are attacking 07/...</p></details>
    Published: August 6, 2023  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lg4sq9/the_stripper_doesnt_love_you_and_intelligence/](https://www.reddit.com/r/UFOs/comments/1lg4sq9/the_stripper_doesnt_love_you_and_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lg4sq9/the_stripper_doesnt_love_you_and_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lg4sq9/the_stripper_doesnt_love_you_and_intelligence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ast (formerly The UFO Rabbit Hole). I&#x27;m not someone who courts...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/](https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n campaign to make the topic of aliens look ridiculous.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: john ramirez excia officer on a podcast  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Credibility of John Ramirez&#x27;s claims. Predictions about aliens in 2027. Insights...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensEx-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Coming In 2027... A Cal...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v6wGLH1uSOo](https://www.youtube.com/watch?v=v6wGLH1uSOo)  
+   Link: <a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6wGLH1uSOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...Share your videos with friends, family, and the world...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.youtube.com/watch?v=nS_Insp7i_Y](https://www.youtube.com/watch?v=nS_Insp7i_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42 · Comments.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1d7Mmss5TVI](https://www.youtube.com/watch?v=1d7Mmss5TVI)  
+   Link: <a href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1d7Mmss5TVI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>out &#x27;modern human origins&#x27;, his personal thoughts on...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=eXerKPm2-p4](http://www.youtube.com/watch?v=eXerKPm2-p4)  
+   Link: <a href="http://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=eXerKPm2-p4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=cQfySY_2BLc](http://www.youtube.com/watch?v=cQfySY_2BLc)  
+   Link: <a href="http://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cQfySY_2BLc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: John Ramirez | CIA Officers Experiences with 'The Phenomenon'  
-   Link: [http://www.youtube.com/watch?v=F-b97V-Wkw0](http://www.youtube.com/watch?v=F-b97V-Wkw0)  
+   Link: <a href="http://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F-b97V-Wkw0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez on UFOS and Aliens: Warns something big is coming in 2027...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=gFY36YvVQcg](http://www.youtube.com/watch?v=gFY36YvVQcg)  
+   Link: <a href="http://www.youtube.com/watch?v=gFY36YvVQcg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gFY36YvVQcg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 011 | 2.24.23 | Guest John Ramirez...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Episode 011 | 2.24.23 | Guest John Ramirez  
-   Link: [http://www.youtube.com/watch?v=Vnf5n7QqOH4](http://www.youtube.com/watch?v=Vnf5n7QqOH4)  
+   Link: <a href="http://www.youtube.com/watch?v=Vnf5n7QqOH4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Vnf5n7QqOH4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA orb working group Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More Inside The...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtu.be  
    Title: Revealing Interview!  
-   Link: [https://youtu.be/nJiS7p98x-E?si=YrVbmPNyjZ_75cBm&t=1718](https://youtu.be/nJiS7p98x-E?si=YrVbmPNyjZ_75cBm&t=1718)  
+   Link: <a href="https://youtu.be/nJiS7p98x-E?si=YrVbmPNyjZ_75cBm&amp;t=1718" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/nJiS7p98x-E?si=YrVbmPNyjZ_75cBm&amp;t=1718</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Mr. John Ramirez On17 Dec 2021 — Revealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP. 3...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtu.be  
    Title: 8ZHWc Mndj KI  
-   Link: [https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi](https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi)  
+   Link: <a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets. 31K...Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: magica.com  
-   Link: [https://magica.com/youtube-summarizer/john-ramirez-on-uap-data-collection-insights-from-a-retired-cia-officer-cQfySY_2BLc](https://magica.com/youtube-summarizer/john-ramirez-on-uap-data-collection-insights-from-a-retired-cia-officer-cQfySY_2BLc)  
+   Link: <a href="https://magica.com/youtube-summarizer/john-ramirez-on-uap-data-collection-insights-from-a-retired-cia-officer-cQfySY_2BLc" target="_blank" rel="noopener noreferrer nofollow">https://magica.com/youtube-summarizer/john-ramirez-on-uap-data-collection-insights-from-a-retired-cia-officer-cQfySY_2BLc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation can easily circulate within the UFO community. Historical Context and Speculation. Throughout the presentation, Ramirez de...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ndl.ethernet.edu.et  
    Title: ethernet.edu.et Observant States Acknowledgements vii. List of Contributors ix  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/18301/1/56.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/18301/1/56.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/18301/1/56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/18301/1/56.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StatesAcknowledgements vii. List of Contributors ix. Introduction Envisioning Geopolitics. 1. Fraser MacDonald, Rachel Hughes and Klaus D...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: imdb.com  
    Title: Find ratings and reviews for the newest movie and TV shows  
-   Link: [https://www.imdb.com/title/tt37000193/](https://www.imdb.com/title/tt37000193/)  
+   Link: <a href="https://www.imdb.com/title/tt37000193/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt37000193/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells All - IMDbIMDb is the world&#x27;s most popular and authoritative source for movie, TV...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: grunge.com  
    Title: government alien document disclosure is a prelude  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens - GrungeAugust 14, 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the...</p></details>
    Published: August 14, 2023  
 
 28. <a id="endnote-28"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersIn this and coming episodes, Ramirez reveals his direct contact experiences with extrater...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RockawayPrimetimeReporting/posts/breaking-the-mystery-of-the-missing-scientists-linked-to-top-secret-nasa-researc/1582421883887870/](https://www.facebook.com/RockawayPrimetimeReporting/posts/breaking-the-mystery-of-the-missing-scientists-linked-to-top-secret-nasa-researc/1582421883887870/)  
+   Link: <a href="https://www.facebook.com/RockawayPrimetimeReporting/posts/breaking-the-mystery-of-the-missing-scientists-linked-to-top-secret-nasa-researc/1582421883887870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RockawayPrimetimeReporting/posts/breaking-the-mystery-of-the-missing-scientists-linked-to-top-secret-nasa-researc/1582421883887870/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>esearch It sounds like the plot for an episode of The X-Files: at...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: podchaser.com  
    Title: 484 retired cia directorate jo 110687934  
-   Link: [https://www.podchaser.com/podcasts/podcast-ufo-137490/episodes/484-retired-cia-directorate-jo-110687934](https://www.podchaser.com/podcasts/podcast-ufo-137490/episodes/484-retired-cia-directorate-jo-110687934)  
+   Link: <a href="https://www.podchaser.com/podcasts/podcast-ufo-137490/episodes/484-retired-cia-directorate-jo-110687934" target="_blank" rel="noopener noreferrer nofollow">https://www.podchaser.com/podcasts/podcast-ufo-137490/episodes/484-retired-cia-directorate-jo-110687934</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Directorate, John Ramirez by Podcast UFO7 Dec 2021 — 484. Retired CIA Directorate, John Ramirez from Podcast UFO on Podchaser...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: theothertopic.substack.com  
    Title: the many experiences of john ramirez  
-   Link: [https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez](https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez)  
+   Link: <a href="https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez" target="_blank" rel="noopener noreferrer nofollow">https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many Experiences of John Ramirez - The Other TopicJohn Ramirez is a United States Navy veteran and retired CIA Officer who claims to have...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/261986012225/posts/10163908437567226/](https://www.facebook.com/groups/261986012225/posts/10163908437567226/)  
+   Link: <a href="https://www.facebook.com/groups/261986012225/posts/10163908437567226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/261986012225/posts/10163908437567226/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>issing scientists. These are just...Read more...</p></details>

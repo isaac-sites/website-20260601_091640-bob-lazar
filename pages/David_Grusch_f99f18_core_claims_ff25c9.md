@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-david-grusch/
 nav_short_title: Core Claims
 title: What Did David Grusch Actually Claim?
-title_full: What Did David Grusch Actually Claim? | Grusch
+title_full: What Did David Grusch Actually Claim?
 display_title_short: Core Claims
 display_title: Core Claims
 heading_title: What Did David Grusch Actually Claim?
@@ -289,7 +289,7 @@ next_link:
   permalink: /hearing/
   short_title: Hearing
   heading_title: Why the 2023 Hearing Changed the Story
-date: '2026-06-09 02:52:27 '
+date: '2026-06-11 21:01:18 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview.webp
@@ -298,13 +298,12 @@ image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview-social.jpg
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s central claim is not that unusual objects have occasionally appeared in the sky. It is much stronger: he alleges that the US government, working through hidden official and contractor channels, has recovered intact or partly intact craft of “non-human” origin and has tried to exploit or reverse-engineer them outside proper congressional [oversight]({{ 'oversight/' | relative_url }}). In public, however, Grusch has not produced the craft, bodies, lab records, named custodians, procurement trails or declassified documents that would prove the allegation. His case therefore sits in a difficult middle ground: serious enough to have drawn congressional attention and whistleblower procedures, but not publicly evidenced enough to establish the extraordinary claim. His credibility turns on that distinction. A crash-retrieval claim requires physical, documentary and witness evidence of a far higher standard than ordinary UAP sighting testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
-
+David Grusch’s central claim is not that unusual objects have occasionally appeared in the sky. It is much stronger: he alleges that the US government, working through hidden official and contractor channels, has recovered intact or partly intact craft of “non-human” origin and has tried to exploit or reverse-engineer them outside proper congressional [oversight]({{ 'oversight/' | relative_url }}). In public, however, Grusch has not produced the craft, bodies, lab records, named custodians, procurement trails or declassified documents that would prove the allegation. His case therefore sits in a difficult middle ground: serious enough to have drawn congressional attention and whistleblower procedures, but not publicly evidenced enough to establish the extraordinary claim. His credibility turns on that distinction. A crash-retrieval claim requires physical, documentary and witness evidence of a far higher standard than ordinary UAP sighting testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview.webp" | relative_url }}" alt="Overview image for Core Claims" loading="eager" decoding="sync" fetchpriority="high">
 ## The claim is about hidden recovery programmes, not just strange sightings
 
-The most important thing to understand about Grusch is the category of claim he is making. Many modern UAP discussions concern pilot reports, radar returns, sensor anomalies, balloons, drones, military test systems or objects that remain unidentified because the data is poor. Grusch’s allegation goes well beyond that. In his July 2023 House Oversight opening statement, he said he was asked in 2019 to identify Special Access Programs and Controlled Access Programs relevant to the UAP Task Force mission, and that he was later informed of a “multi-decade UAP crash retrieval and [reverse engineering]({{ 'paper-trail/' | relative_url }}) program” to which he was denied access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
+The most important thing to understand about Grusch is the category of claim he is making. Many modern UAP discussions concern pilot reports, radar returns, sensor anomalies, balloons, drones, military test systems or objects that remain unidentified because the data is poor. Grusch’s allegation goes well beyond that. In his July 2023 House Oversight opening statement, he said he was asked in 2019 to identify Special Access Programs and Controlled Access Programs relevant to the UAP Task Force mission, and that he was later informed of a “multi-decade UAP crash retrieval and reverse engineering program” to which he was denied access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
 
 That is why his claim matters even to readers who are sceptical of UFO stories. If true, it would not merely mean that the US government has unexplained videos or sensor tracks. It would mean there are physical objects, chain-of-[custody records]({{ 'custody-records/' | relative_url }}), budgets, facilities, contractors, security compartments, legal authorisations, biological samples and people who have handled or studied the material. A hidden crash-retrieval programme is a bureaucratic and industrial claim as much as a UFO claim.
 
@@ -316,8 +315,7 @@ The first major public article presenting Grusch’s allegations, published by T
 
 That wording is deliberately expansive. It could include extraterrestrial, interdimensional or otherwise unknown origins, but it does not by itself prove any of them. For evidence purposes, the important question is simpler: can the claimed object be shown, by materials analysis, engineering examination and documented provenance, to be beyond known human manufacture?
 
-For a public proof standard, “non-human craft” would require more than testimony that someone in a compartment said so. At minimum, it would require:
-
+For a [public proof]({{ 'public-proof/' | relative_url }}) standard, “non-human craft” would require more than testimony that someone in a compartment said so. At minimum, it would require:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -330,7 +328,6 @@ For a public proof standard, “non-human craft” would require more than testi
 </div>
 
 Without that, “non-human” remains an attribution claim, not a demonstrated conclusion. It may be sincerely reported, but it is not publicly established.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-1-dark.svg" | relative_url }}" alt="Core Claims illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reverse engineering is the mechanism that makes the claim testable
@@ -347,14 +344,13 @@ That distinction is essential. A whistleblower process can make a complaint proc
 
 ## “Non-human biologics” raised the evidential stakes
 
-The phrase that travelled furthest from the [July 2023 hearing]({{ 'house-hearing/' | relative_url }}) was “non-human biologics”. Asked whether bodies of pilots had been recovered from crashed craft, Grusch answered that “biologics” came with some recoveries, and when pressed whether they were human or non-human, he said non-human. Contemporary reporting noted that he attributed this to people with direct knowledge of the alleged programme, not to his own first-hand handling of the material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span><span class="citation-popover-snippet">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span></span></span>
+The phrase that travelled furthest from the July 2023 [hearing]({{ 'hearing/' | relative_url }}) was “non-human [biologics]({{ 'biologics/' | relative_url }})”. Asked whether bodies of pilots had been recovered from crashed craft, Grusch answered that “biologics” came with some recoveries, and when pressed whether they were human or non-human, he said non-human. Contemporary reporting noted that he attributed this to people with direct knowledge of the alleged programme, not to his own first-hand handling of the material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span><span class="citation-popover-snippet">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span></span></span>
 
 The phrase is powerful because it implies something far beyond debris. If there are biological remains connected to a recovered craft, the evidence should be scientifically rich. There would be tissue handling records, preservation methods, contamination controls, pathology reports, genetic or biochemical studies, secure storage, personnel with relevant training, and probably medical, legal and biosecurity documentation.
 
-But the wording is also ambiguous. “Biologics” is not a plain public category like “body”, “tissue sample” or “genome sequence”. It could refer to remains, biological material, contamination, or something described to Grusch in classified or second-hand terms. The ambiguity matters because extraordinary biological claims are vulnerable to misunderstanding if repeated through layers of classified hearsay.
+But the wording is also ambiguous. “Biologics” is not a plain public category like “body”, “tissue sample” or “genome sequence”. It could refer to remains, biological material, contamination, or something described to Grusch in classified or second-hand terms. The ambiguity matters because extraordinary biological claims are vulnerable to misunderstanding if repeated through layers of classified [hearsay]({{ 'hearsay/' | relative_url }}).
 
 A serious public test would require independent biological evidence: samples with provenance, contamination controls, genetic or molecular analysis, expert review by relevant life-science specialists, and enough disclosure for other scientists to evaluate whether the material is truly non-human in the extraordinary sense being implied. Until that happens, the “biologics” claim remains one of the most consequential but least publicly substantiated parts of Grusch’s account.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
 
@@ -362,7 +358,7 @@ A serious public test would require independent biological evidence: samples wit
 
 Grusch’s defenders often point to his background, his intelligence roles, his apparent familiarity with classified processes, and the fact that he testified under oath. Those are relevant. They make him a more serious source than a casual UFO commentator. They do not, however, convert second-hand reporting into proof of recovered non-human craft.
 
-The key public limitation is that Grusch has not said he personally saw a non-human craft or personally examined non-human biological material. He has instead described an investigation based on interviews with people he considered credible, some of whom he says had direct knowledge. TIME reported that he told lawmakers he believed the US government possessed UAP based on interviews with 40 witnesses over four years, while also saying he was denied access to the alleged programme itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The key public limitation is that Grusch has not said he personally saw a non-human craft or personally examined non-human biological material. He has instead described an investigation based on interviews with people he considered credible, some of whom he says had direct knowledge. TIME reported that he told lawmakers he believed the US government possessed UAP based on interviews with 40 witnesses over four years, while also saying he was denied access to the alleged programme itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That structure creates two possible readings. The supportive reading is that Grusch acted like an intelligence investigator: he collected protected testimony, followed lawful channels and avoided public disclosure of classified details. The sceptical reading is that the public has only an appeal to unnamed authorities, with no physical evidence and no exposed chain of custody.
 
@@ -373,7 +369,6 @@ Both readings can be partly true. Grusch may have received serious claims throug
 A reader does not need a perfect standard of proof to see what is missing. If the claim is a hidden recovery and reverse-engineering programme, then public proof would not depend on one dramatic television reveal. It would likely emerge through converging lines of evidence.
 
 The most convincing public case would include a recoverable object or sample, authenticated programme records, named first-hand witnesses, budgetary or contracting evidence, and independent technical review. In practical terms, that means:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -389,7 +384,6 @@ The most convincing public case would include a recoverable object or sample, au
 The proposed UAP Disclosure Act implicitly recognised this evidential problem. Its draft language contemplated recovered technologies of unknown origin and biological evidence of non-human intelligence, even stating that such material, should it exist, should be made available for review and disclosure determinations. It also proposed that a review board assess whether material constituted technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership BAG23A78</span><span class="citation-popover-snippet">Democratic Leadership BAG23A78</span></span></span>
 
 That legislative language is not proof that such material exists. It is proof that some senators were willing to build a legal mechanism for finding out whether it exists.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-2-dark.svg" | relative_url }}" alt="Core Claims illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official rebuttal is broad, but not the same as public disproof of every private allegation
@@ -412,7 +406,6 @@ That standard matters for Grusch because his claim is not satisfied by showing t
 
 In other words, UAP uncertainty is not the same as non-human craft evidence. The former is a data problem; the latter is a physical custody and proof problem.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eoo5zcwkmv8" title="UFO Whistleblower David Grusch: There Have Been Injuries Related To UAP Reverse-Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eoo5zcwkmv8" target="_blank" rel="noopener noreferrer">UFO Whistleblower David Grusch: There Have Been Injuries Related To UAP Reverse-Engineering</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 45.7K &middot; Uploaded: July 2023 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eoo5zcwkmv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eoo5zcwkmv8">Open on YouTube</a></p></div></div></div>
 
 ## The best supporter argument
@@ -423,7 +416,6 @@ Supporters can reasonably say that classified evidence may not be publicly avail
 
 The supporter case is strongest when it focuses on oversight: Congress should be able to determine whether programmes have been misreported, hidden, misfunded or improperly placed beyond statutory review. That remains a legitimate question even if the final answer turns out to be misidentification, mythology inside classified circles, or confusion around conventional special access programmes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3dtA9w5ldHw" title="Whistleblower reveals UAP retrieval program; object caught on video | NewsNation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3dtA9w5ldHw" target="_blank" rel="noopener noreferrer">Whistleblower reveals UAP retrieval program; object caught on video | NewsNation</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 2.8M &middot; Uploaded: January 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3dtA9w5ldHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3dtA9w5ldHw">Open on YouTube</a></p></div></div></div>
 
 ## The best sceptical argument
@@ -433,7 +425,6 @@ The strongest sceptical argument is that the core public evidence has not advanc
 Sceptics also have a plausible social explanation. UAP communities inside and around government can recycle stories through trusted networks, especially when secrecy prevents ordinary checking. AARO’s “circular reporting” criticism directly targets that possibility. The more the same small group of people repeat variants of the same crash-retrieval narrative, the easier it is for the story to feel corroborated without becoming independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-17 "Endnote 17")
 
 The sceptical case is also strengthened by the mismatch between the alleged scale and the public trace. A multi-decade programme involving recovered craft, bodies, reverse engineering, contractors and concealed funding would be difficult to keep entirely free of verifiable leaks, documents or physical evidence. Not impossible, but difficult enough that the evidential burden remains high.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-3-dark.svg" | relative_url }}" alt="Core Claims illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_core_claims_ff25c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility bottom line
@@ -454,16 +445,16 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Directly overlaps with modern disclosure and hidden-programme claims.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -471,16 +462,16 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Provides broad context for Grusch&#x27;s core allegations.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -488,16 +479,16 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Explores crash-retrieval and secrecy narratives.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -505,16 +496,16 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMzZEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+          <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2, 1980 - 2025">Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A...</a>
         </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        <p class="fr-book-author">By James L. Ryave</p>
         
-        <p class="fr-book-desc">Covers government investigations connected to extraordinary claims.</p>
+        <p class="fr-book-desc">﻿This nonfiction book contains the most important information available about the current body of knowledge regarding Unidentified Anomal...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -522,7 +513,7 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -559,15 +550,15 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +566,15 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +582,31 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,7 +614,7 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-david-grusch-actually-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-david-grusch-actually-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -823,158 +830,158 @@ The most careful assessment is therefore split. Grusch is credible as a witness 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-[hearing](https://time.com/6298287/congress-ufo-[hearing)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
 3. <a id="endnote-3"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership BAG23A78  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: amendments-rules.house.gov  
    Title: GARCRO 115 xml240529153551283  
-   Link: [https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf](https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf)  
+   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: burlison.house.gov  
    Title: UAP Select Subcommittee 03.12  
-   Link: [https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/UAP%20Select%20Subcommittee%2003.12.pdf](https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/UAP%20Select%20Subcommittee%2003.12.pdf)  
+   Link: <a href="https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/UAP%20Select%20Subcommittee%2003.12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/UAP%20Select%20Subcommittee%2003.12.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-03351-4](https://www.nature.com/articles/s41599-024-03351-4)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-03351-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03351-4</a>  
 
 14. <a id="endnote-14"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/](https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/)  
+   Link: <a href="https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/</a>  
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian UFO hearings: whistleblower David Grusch says 'non  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
 
 17. <a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 18. <a id="endnote-18"></a>
    Source: c-span.org  
-   Link: [https://www.c-span.org/person/david-grusch/137615/](https://www.c-span.org/person/david-grusch/137615/)  
+   Link: <a href="https://www.c-span.org/person/david-grusch/137615/" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/person/david-grusch/137615/</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: whistleblower ufo alien tech spacecraft  
-   Link: [https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)  
+   Link: <a href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft</a>  
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
 
 22. <a id="endnote-22"></a>
    Source: rev.com  
    Title: [house hearing](&#123;&#123; 'house-hearing/' | relative_url &#125;&#125;) on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
 
 23. <a id="endnote-23"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/](https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/)  
+   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
 
 24. <a id="endnote-24"></a>
    Source: dni.gov  
    Title: June 2023  
-   Link: [https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf](https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf</a>  
    Published: June 2023  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=nofeMMRGuyI](http://www.youtube.com/watch?v=nofeMMRGuyI)  
+   Link: <a href="http://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nofeMMRGuyI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch crash retrieval reverse engineering program claims David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=eoo5zcwkmv8](http://www.youtube.com/watch?v=eoo5zcwkmv8)  
+   Link: <a href="http://www.youtube.com/watch?v=eoo5zcwkmv8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=eoo5zcwkmv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; recovered by US government, says UFO whistleblower David Grusch...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=RBAISwCZ2v0](http://www.youtube.com/watch?v=RBAISwCZ2v0)  
+   Link: <a href="http://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=3dtA9w5ldHw](http://www.youtube.com/watch?v=3dtA9w5ldHw)  
+   Link: <a href="http://www.youtube.com/watch?v=3dtA9w5ldHw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3dtA9w5ldHw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower David Grusch: There Have Been Injuries Related To UAP Reverse-Engineering...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: [http://www.youtube.com/watch?v=lcrCMLVk614](http://www.youtube.com/watch?v=lcrCMLVk614)  
+   Link: <a href="http://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lcrCMLVk614</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower reveals UAP retrieval program; object caught on video | NewsNation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/](https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/)  
+   Link: <a href="https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/](https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/852968363/23-F-0922-4](https://www.scribd.com/document/852968363/23-F-0922-4)  
+   Link: <a href="https://www.scribd.com/document/852968363/23-F-0922-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852968363/23-F-0922-4</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/](https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
 
 34. <a id="endnote-34"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-human-effects/
 description: Focused pages that expand on Human Effects.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Colm_Kelleher_d782e9_human_effects_214063
-parent_title: Human Effects | How Credible Is Colm Kelleher?
+parent_title: Human Effects
 parent_nav_short_title: Human Effects
 parent_permalink: /human-effects/
 ---

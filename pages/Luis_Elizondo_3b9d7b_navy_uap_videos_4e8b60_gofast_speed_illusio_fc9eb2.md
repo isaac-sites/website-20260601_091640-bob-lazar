@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /navy-videos/
 nav_short_title: Go Fast
 title: Did Go Fast Really Show Something Racing?
-title_full: Did Go Fast Really Show Something Racing? | Navy Videos
+title_full: Did Go Fast Really Show Something Racing?
 display_title_short: Go Fast
 display_title: Go Fast
 heading_title: Did Go Fast Really Show Something Racing?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did the Navy Videos Actually Show? | Elizondo
+parent_title: What Did the Navy Videos Actually Show?
 parent_permalink: /navy-videos/
 parent_nav_short_title: Navy Videos
 parent_heading_title: What Did the Navy Videos Actually Show?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /gimbal-flir/
   short_title: Gimbal FLIR
   heading_title: Why Gimbal and FLIR Still Divide Viewers
-date: '2026-06-09 02:54:09 '
+date: '2026-06-11 21:02:15 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_i
 
 ## Introduction
 
-The GoFast video became one of the most influential pieces of footage in the modern UAP debate because it seemed to show a mysterious object racing just above the ocean at extraordinary speed while Navy aviators reacted in real time. Alongside FLIR and Gimbal, it helped turn [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})'s claims about serious military encounters into a mainstream political and media story. Yet GoFast also became one of the clearest examples of a recurring problem in UAP analysis: a genuine military video can look far more dramatic than the underlying data ultimately supports.
-
+The GoFast video became one of the most influential pieces of footage in the modern UAP debate because it seemed to show a mysterious object racing just above the ocean at extraordinary speed while Navy aviators reacted in real time. Alongside FLIR and Gimbal, it helped turn Luis Elizondo's claims about serious military encounters into a mainstream political and media story. Yet GoFast also became one of the clearest examples of a recurring problem in UAP analysis: a genuine military video can look far more dramatic than the underlying data ultimately supports.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central dispute is not whether the footage is authentic. The Pentagon acknowledged it as genuine Navy footage. The question is whether the object itself was performing extraordinary manoeuvres, or whether the impression of extreme speed was created by perspective, sensor limitations and motion parallax. Later technical analysis, including work by sceptical investigators and the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), substantially narrowed the strongest claims that were initially attached to the clip. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+The central dispute is not whether the footage is authentic. The Pentagon acknowledged it as genuine Navy footage. The question is whether the object itself was performing extraordinary manoeuvres, or whether the impression of extreme speed was created by perspective, sensor limitations and motion parallax. Later technical analysis, including work by sceptical investigators and the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), substantially narrowed the strongest claims that were initially attached to the clip. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 ## What the clip appeared to show
 
@@ -272,7 +271,6 @@ A key reason the footage looked so striking was the visual relationship between 
 
 The problem is that a two-dimensional video does not automatically reveal an object's true distance, altitude or velocity. Without reliable range information, viewers can easily misjudge what they are seeing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
 ## Why the object looked faster than it may have been
@@ -281,10 +279,9 @@ The major technical issue in the GoFast debate is motion parallax.
 
 Motion parallax occurs when an observer moves rapidly while tracking an object at a different distance. Nearby and distant objects appear to move across the background at different rates. In everyday life, the effect is obvious when looking out of a train window: nearby trees seem to race past while distant hills barely move.
 
-In the GoFast case, the Navy aircraft itself was travelling at high speed. If the tracked object was much farther away and higher than casual viewers assumed, the object's apparent movement against the ocean background could create the illusion of exceptional velocity even if the object was actually moving relatively slowly. AARO later described the apparent speed as a parallax effect caused by the viewing geometry and the fighter jet's own motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">The faster the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+In the GoFast case, the Navy aircraft itself was travelling at high speed. If the tracked object was much farther away and higher than casual viewers assumed, the object's apparent movement against the ocean background could create the illusion of exceptional velocity even if the object was actually moving relatively slowly. AARO later described the apparent speed as a parallax effect caused by the viewing geometry and the fighter jet's own motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">The faster the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 This explanation was not introduced by AARO for the first time. Years earlier, independent sceptical analysts, particularly Mick West, argued that the footage could be understood through geometry and range calculations derived from the information visible on the display itself. Their conclusion was that the object's speed was likely far lower than many UFO enthusiasts claimed. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural spee...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> The importance of the debate is that it shifted attention from the emotional impact of the footage to the measurable information embedded within it. Instead of asking whether the object looked fast, analysts began asking whether the available numbers actually supported that impression.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AARO narrowed the speed claim
@@ -299,21 +296,19 @@ AARO's public summary was blunt. It assessed with high confidence that the objec
 
 One important limitation remains. AARO argued that it could explain the apparent speed, but it did not definitively identify the object itself. The analysis narrowed what the footage could prove without fully resolving what was being observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">The faster the...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Why some supporters remain unconvinced
 
 Not everyone accepted the parallax explanation as a complete resolution.
 
-Supporters of the UAP interpretation often argue that analysts are working from incomplete information. Public viewers do not possess all military sensor data, radar tracks or contextual information that may have existed during the original encounter. Some contend that conclusions based largely on publicly released footage risk oversimplifying a more complex event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">For those who don&#x27;t know, the Gimbal and Go Fast videos</span><span class="citation-popover-snippet">RedditFor those who don&#x27;t know, the Gimbal and GoFast videos...March 15, 2024 — I watched Sean Kirkpatrick recently parrot the same lazy...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
+Supporters of the UAP interpretation often argue that analysts are working from incomplete information. Public viewers do not possess all military sensor data, radar tracks or contextual information that may have existed during the original encounter. Some contend that conclusions based largely on publicly released footage risk oversimplifying a more complex event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">For those who don&#x27;t know, the Gimbal and Go Fast videos</span><span class="citation-popover-snippet">For those who don&#x27;t know, the Gimbal and GoFast videos...March 15, 2024 — I watched Sean Kirkpatrick recently parrot the same lazy...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
 
 Others point out that uncertainty about the object's identity remains. Showing that an object was slower than originally believed is not the same thing as positively identifying it. From this perspective, AARO may have weakened claims of extraordinary performance without fully explaining the encounter.
 
 There is also a broader cultural factor. For many people interested in UAPs, GoFast is evaluated alongside witness testimony, radar reports and other military encounters rather than as an isolated video. Critics of the sceptical interpretation often argue that focusing exclusively on the footage ignores the larger operational context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">g on wind conditions, with AARO asserting that it was “...Read more...</span></span></span>
 
 Even so, the specific claim that the video demonstrates an object racing across the ocean at extraordinary speed has become much harder to defend than it was when the footage first entered [public debate]({{ 'public-debate/' | relative_url }}).
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Elizondo's video argument
@@ -328,9 +323,7 @@ This creates a more nuanced picture of Elizondo's strongest public evidence. The
 
 GoFast therefore became a useful test case in the broader debate over the [Navy videos]({{ 'navy-videos/' | relative_url }}). It showed how authentic military footage can generate a powerful impression of mystery while later technical analysis significantly narrows what can responsibly be inferred from the imagery. In credibility terms, that does not make the encounter meaningless. It does mean that the gap between "unidentified" and "extraordinary" is larger than many early presentations of the footage implied.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -339,21 +332,21 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did GoFast Really Show Something Racing?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">Books and field guides related to Did Go Fast Really Show Something Racing?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Discusses the Navy videos central to the speed debate.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -361,16 +354,16 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Encourages examination of evidence rather than assumptions.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -378,16 +371,16 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Explores how extraordinary interpretations arise from limited data.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,16 +388,16 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Useful for distinguishing observation from conclusion.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,7 +405,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -449,15 +442,15 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fabbri Diecast Model Aircraft 1:100 McDonnell Douglas F4 Phantom US Navy"><img src="https://i.ebayimg.com/images/g/cRsAAeSwSptqFrZM/s-l225.jpg" alt="Listing image for Fabbri Diecast Model Aircraft 1:100 McDonnell Douglas F4 Phantom US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Fabbri Diecast Model Aircraft 1:100 McDonnell Douglas F4 Phantom US Navy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +458,15 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aircraft Model Kit 8 Versions Plane Helicopter Russia War Fighter Jets WW2 Gifts"><img src="https://i.ebayimg.com/images/g/3R4AAOSwa0RnIeVK/s-l225.jpg" alt="Listing image for Aircraft Model Kit 8 Versions Plane Helicopter Russia War Fighter Jets WW2 Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Aircraft Model Kit 8 Versions Plane Helicopter Russia War Fighter Jets WW2 Gifts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +474,15 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Handmade Wood WWII Model 1:72 Aircraft Grumman Avenger TBF Royal Navy"><img src="https://i.ebayimg.com/images/g/EhkAAeSwHjxqGv15/s-l225.jpg" alt="Listing image for Vintage Handmade Wood WWII Model 1:72 Aircraft Grumman Avenger TBF Royal Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Handmade Wood WWII Model 1:72 Aircraft Grumman Avenger TBF Royal Navy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +490,15 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amercom Diecast Model Aircraft 1:72 Grumman F6F Hellcat US Navy Hamilton McWorte"><img src="https://i.ebayimg.com/images/g/GQ8AAeSwzmBp54Ls/s-l225.jpg" alt="Listing image for Amercom Diecast Model Aircraft 1:72 Grumman F6F Hellcat US Navy Hamilton McWorte" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Amercom Diecast Model Aircraft 1:72 Grumman F6F Hellcat US Navy Hamilton McWorte</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +506,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="gofast-did-gofast-really-show-something-racing-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-gofast-really-show-something-racing-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="did-gofast-really-show-something-racing-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,134 +722,134 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The faster the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This accents...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural spee...</p></details>
    Published: May 2020  
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: pentagon releases aaro report on go fast video analysis  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/](https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...Feb 10, 2025 — “The object&#x27;s apparent high speed is attributable to motion parallax...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: For those who don't know, the Gimbal and Go Fast videos  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFor those who don&#x27;t know, the Gimbal and GoFast videos...March 15, 2024 — I watched Sean Kirkpatrick recently parrot the same lazy...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...March 15, 2024 — I watched Sean Kirkpatrick recently parrot the same lazy...</p></details>
    Published: March 15, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>g on wind conditions, with AARO asserting that it was “...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>er. And so we&#x27;ve written a detailed paper on parallax...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/](https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufotransparency.com  
    Title: An Intelligence Community pixel analysis estimated  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final](https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...The apparent speed was attributed to motion parallax induc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475](https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475)  
+   Link: <a href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman shows never-before-seen video at military UFO...The new video is similar to a 2015 video that came to be known as the &quot;Go Fa...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNRG7pJAsNm/](https://www.instagram.com/reel/DNRG7pJAsNm/)  
+   Link: <a href="https://www.instagram.com/reel/DNRG7pJAsNm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...There&#x27;s nothing, but with the parallax, we can assess that the object is mo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=diPXow8zgc8](https://www.youtube.com/watch?v=diPXow8zgc8)  
+   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videosNASA and the US government have turned to math and science publicly to help show how se...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: unexplained-mysteries.com  
    Title: 384429 aaro publishes new analysis of famous go fast us navy ufo video  
-   Link: [https://www.unexplained-mysteries.com/forum/topic/384429-aaro-publishes-new-analysis-of-famous-go-fast-us-navy-ufo-video/](https://www.unexplained-mysteries.com/forum/topic/384429-aaro-publishes-new-analysis-of-famous-go-fast-us-navy-ufo-video/)  
+   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/384429-aaro-publishes-new-analysis-of-famous-go-fast-us-navy-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/384429-aaro-publishes-new-analysis-of-famous-go-fast-us-navy-ufo-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO publishes new analysis of famous &#x27;Go Fast&#x27; US Navy...12 Feb 2025 — &quot;The object&#x27;s apparent high speed is attributable to motion para...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. Navy videos Gimbal and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy UAP Declassified: An Objective Look at the U.S  
-   Link: [https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/](https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s...23 Sept 2025 — The object&#x27;s apparent high speed was an optical illusion known as motion parallax, where an object at a di...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: 700wlw.iheart.com  
    Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: [https://700wlw.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/](https://700wlw.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/)  
+   Link: <a href="https://700wlw.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://700wlw.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases | 700WLWNov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: wbznewsradio.iheart.com  
    Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: [https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/](https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/)  
+   Link: <a href="https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO CasesNov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved one of its...</p></details>

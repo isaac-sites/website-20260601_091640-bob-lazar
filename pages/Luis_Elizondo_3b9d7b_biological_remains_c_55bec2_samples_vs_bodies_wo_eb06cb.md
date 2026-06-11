@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /biological-claims/
 nav_short_title: Samples wording
 title: Did Elizondo really claim alien bodies?
-title_full: Did Elizondo really claim alien bodies? | Biological Claims
+title_full: Did Elizondo really claim alien bodies?
 display_title_short: Samples wording
 display_title: Samples wording
 heading_title: Did Elizondo really claim alien bodies?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Biological Claims Need Caution | Elizondo
+parent_title: Why the Biological Claims Need Caution
 parent_permalink: /biological-claims/
 parent_nav_short_title: Biological Claims
 parent_heading_title: Why the Biological Claims Need Caution
@@ -247,7 +247,7 @@ prev_link:
   permalink: /roswell-claim/
   short_title: Roswell claim
   heading_title: Why Roswell makes the bodies claim harder
-date: '2026-06-09 02:54:26 '
+date: '2026-06-11 21:02:30 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-1.webp
@@ -256,26 +256,24 @@ image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_v
 
 ## Introduction
 
-Did [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}) actually claim that the United States possesses alien bodies? The answer depends heavily on which of his statements a reader focuses on. In some interviews and media appearances, Elizondo has referred to recovered “biological specimens” or “biological samples”. In his 2024 memoir *Imminent* and related coverage, he also discussed alleged non-human remains linked to crash-retrieval stories, including Roswell. The difference is not a minor semantic detail. It changes the scale of the claim, the evidence required to support it, and the way his credibility is assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that a U...</span></span></span> For critics and supporters alike, the key issue is that “biological samples” and “alien bodies” are not equivalent claims. One can refer to fragments, tissue, laboratory material, or second-hand reports. The other implies the recovery of intact or recognisably complete non-human organisms. Elizondo has at times appeared careful to preserve that distinction, even while discussing some of the most dramatic allegations in modern UFO disclosure culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
-
+Did Luis Elizondo actually claim that the United States possesses alien bodies? The answer depends heavily on which of his statements a reader focuses on. In some interviews and media appearances, Elizondo has referred to recovered “biological specimens” or “biological samples”. In his 2024 memoir *Imminent* and related coverage, he also discussed alleged non-human remains linked to crash-retrieval stories, including Roswell. The difference is not a minor semantic detail. It changes the scale of the claim, the evidence required to support it, and the way his credibility is assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that a U...</span></span></span> For critics and supporters alike, the key issue is that “biological samples” and “alien bodies” are not equivalent claims. One can refer to fragments, tissue, laboratory material, or second-hand reports. The other implies the recovery of intact or recognisably complete non-human organisms. Elizondo has at times appeared careful to preserve that distinction, even while discussing some of the most dramatic allegations in modern UFO disclosure culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-1-dark.svg" | relative_url }}" alt="Samples wording illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Elizondo Actually Said
 
 The strongest public claims associated with Elizondo emerged during promotion of *Imminent* in 2024. Media coverage summarised his position as saying that the US government had recovered non-human technology and biological material from crashed objects. PEOPLE magazine reported that he claimed the government had retrieved “non-human” technology and specimens from crash sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs</span><span class="citation-popover-snippet">September 21, 2024 — 21 Sept 2024 — Louis Elizondo tells PEOPLE that the US government has retrieved “non-human” technology and specimens...</span><span class="citation-popover-meta">Published: September 21, 2024</span></span></span>
 
-However, in interviews discussing the subject, Elizondo often avoided the straightforward phrase “alien bodies”. Instead, he used terms such as “biological specimens”, “[biological remains]({{ 'biological-claims/' | relative_url }})”, or “biological samples”. That wording became especially noticeable when interviewers pushed for clarification about whether actual bodies had been recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</span></span></span>
+However, in interviews discussing the subject, Elizondo often avoided the straightforward phrase “alien bodies”. Instead, he used terms such as “biological specimens”, “biological remains”, or “biological samples”. That wording became especially noticeable when interviewers pushed for clarification about whether actual bodies had been recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</span></span></span>
 
-His congressional testimony in 2026 showed the same pattern. When questioned about alleged biological recoveries, Elizondo did not present first-hand knowledge of recovered creatures. Instead, he described the matter as something discussed within Pentagon circles and noted that the alleged collection of biological samples occurred before his time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
+His congressional testimony in 2026 showed the same pattern. When questioned about alleged biological recoveries, Elizondo did not present first-hand knowledge of recovered creatures. Instead, he described the matter as something discussed within Pentagon circles and noted that the alleged collection of biological samples occurred before his time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
 
-That distinction is important because it narrows what he is personally claiming to know. Rather than saying, “I saw alien bodies,” he is generally presenting himself as someone who became aware of reports, discussions, or alleged programmes involving biological material. Publicly available evidence does not show him producing biological specimens, laboratory reports, photographs, or chain-of-custody documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
+That distinction is important because it narrows what he is personally claiming to know. Rather than saying, “I saw alien bodies,” he is generally presenting himself as someone who became aware of reports, discussions, or alleged programmes involving biological material. Publicly available evidence does not show him producing biological specimens, laboratory reports, photographs, or chain-of-custody documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
 
 ## Why Samples and Bodies Are Different Claims
 
 The wording matters because each version requires a different evidential burden.
 
 A claim about recovered alien bodies implies several specific things:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -287,7 +285,6 @@ A claim about recovered alien bodies implies several specific things:
 </div>
 
 By contrast, a claim about biological samples can be much broader:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +300,6 @@ A biological sample can also be contaminated, degraded, misidentified, or imposs
 
 This is why Elizondo's choice of language attracts attention. If the claim is only that unusual biological material exists somewhere within classified programmes, the public is being asked to accept something less specific than the popular image of preserved extraterrestrial corpses stored in government facilities. Yet media coverage and online discussion often jump directly to the stronger interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs</span><span class="citation-popover-snippet">September 21, 2024 — 21 Sept 2024 — Louis Elizondo tells PEOPLE that the US government has retrieved “non-human” technology and specimens...</span><span class="citation-popover-meta">Published: September 21, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=lZMEl8ak2PY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Ex-Pentagon official: US has recovered nonhuman bones...Former Pentagon insider Luis Elizondo says the Department of Defense has a space...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZMEl8ak2PY" title="Ex-Pentagon official: US has recovered nonhuman bones | Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZMEl8ak2PY" target="_blank" rel="noopener noreferrer">Ex-Pentagon official: US has recovered nonhuman bones | Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 139.3K &middot; Uploaded: August 2024 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZMEl8ak2PY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZMEl8ak2PY">Open on YouTube</a></p></div></div></div>
 
 ## The Roswell Problem
@@ -312,7 +308,7 @@ The distinction becomes even more significant when Roswell enters the discussion
 
 Coverage of *Imminent* reported that Elizondo wrote that four non-human bodies were recovered from the 1947 Roswell incident. Several reports repeated that claim, presenting it as part of a wider alleged crash-retrieval history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that a U...</span></span></span> BroBible But here another credibility question appears: is Elizondo reporting something he personally verified <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible Ex-Pentagon UFO Investigator Says New Files Contradict</span><span class="citation-popover-snippet">Ex-Pentagon UFO Investigator Says New Files Contradict...May 21, 2026 — Four deceased nonhuman bodies were in fact recovered from the 19...</span><span class="citation-popover-meta">Published: May 21, 2026</span></span></span>, or repeating information he says he learned from classified channels and other insiders?
 
-Publicly available reporting points far more strongly toward the second interpretation. The Roswell event occurred decades before Elizondo's government career. Any knowledge he possesses about it would necessarily come from documents, briefings, testimony from others, or alleged programme access rather than direct observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
+Publicly available reporting points far more strongly toward the second interpretation. The Roswell event occurred decades before Elizondo's government career. Any knowledge he possesses about it would necessarily come from documents, briefings, testimony from others, or alleged programme access rather than direct observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
 
 That means the claim has at least two separate evidential hurdles:
 
@@ -320,7 +316,6 @@ That means the claim has at least two separate evidential hurdles:
 2. Whether the information provided to Elizondo was itself accurate.
 
 Those are not the same question. Even if Elizondo sincerely believes what he was told, the public still lacks independently verifiable proof that the alleged bodies existed. Critics argue that this is precisely where crash-retrieval narratives become weakest: the chain of evidence often stops at insider testimony rather than publicly examinable material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that a U...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</span></span></span>
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-2-dark.svg" | relative_url }}" alt="Samples wording illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Careful Wording Protects a Claim
@@ -330,7 +325,6 @@ One reason the samples-versus-bodies distinction matters is that careful wording
 If a public figure says, “The government has alien bodies,” that statement can eventually be tested against physical evidence. If bodies are never produced, the claim remains exposed.
 
 If the wording shifts to “biological samples” or “biological specimens,” the statement becomes more flexible. It can encompass a wider range of possibilities:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -342,10 +336,9 @@ If the wording shifts to “biological samples” or “biological specimens,”
 
 </div>
 
-Supporters see this as precision. They argue that careful language reflects intelligence and national-security experience, where overstatement can be misleading. In that interpretation, Elizondo is trying to describe only what he believes can be responsibly stated in public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
+Supporters see this as precision. They argue that careful language reflects intelligence and national-security experience, where overstatement can be misleading. In that interpretation, Elizondo is trying to describe only what he believes can be responsibly stated in public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span>
 
 Sceptics see the same wording differently. They argue that broad terms such as “biological specimens” can create dramatic public impressions while avoiding a concrete claim that can be decisively tested. From this perspective, the language preserves ambiguity rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Startling claims made at UFO hearing in Congress, but lack</span><span class="citation-popover-snippet">The GuardianStartling claims made at UFO hearing in Congress, but lack...November 14, 2024 — Nov 13, 2024 — Ex-defense department offici...</span><span class="citation-popover-meta">Published: November 14, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybkUPaOqu6c" title="Luis Elizondo discusses new book &quot;Imminent&quot; and the Pentagon&#x27;s UAP investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybkUPaOqu6c" target="_blank" rel="noopener noreferrer">Luis Elizondo discusses new book &quot;Imminent&quot; and the Pentagon&#x27;s UAP investigations</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 219.8K &middot; Uploaded: August 2024 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybkUPaOqu6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybkUPaOqu6c">Open on YouTube</a></p></div></div></div>
 
@@ -361,14 +354,13 @@ Elizondo has said he handled unusual materials that government scientists consid
 
 **Claims presented as institutional knowledge**
 
-He has repeatedly asserted that crash-retrieval programmes exist and that [recovered technology]({{ 'proof-gap-eced37/' | relative_url }}) and biological material have been collected over decades. These are claims about what he says he learned through official channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</span></span></span>
+He has repeatedly asserted that crash-retrieval programmes exist and that recovered technology and biological material have been collected over decades. These are claims about what he says he learned through official channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</span></span></span>
 
 **Claims presented as historical reports**
 
-Roswell body-recovery stories and older alleged biological recoveries fall into a third category. These events predate his involvement and are necessarily based on information passed to him by others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</span></span></span>
+Roswell body-recovery stories and older alleged biological recoveries fall into a third category. These events predate his involvement and are necessarily based on information passed to him by others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</span></span></span>
 
 The closer a claim moves from direct observation toward inherited institutional narrative, the more dependent it becomes on trust in unseen sources.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-3-dark.svg" | relative_url }}" alt="Samples wording illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Wording Matters for Credibility
@@ -377,11 +369,9 @@ For readers trying to judge Elizondo's reliability, the most important takeaway 
 
 A common misunderstanding is to treat every reference to biological material as equivalent to a confirmed statement that intact alien bodies exist in government storage. That is stronger than much of Elizondo's actual public wording. At the same time, some media summaries and headlines have understandably led audiences toward that interpretation because discussions of Roswell, non-human remains, and biological specimens naturally evoke the image of recovered extraterrestrial corpses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">New York PostEx-Pentagon official Luis Elizondo alleges US recovered...Aug 23, 2024 — A former Pentagon official alleged that the US gov...</span></span></span>
 
-The credibility question therefore turns on precision. Elizondo's strongest biological allegations remain extraordinary, but they are often framed through terms such as specimens, samples, remains, or recovered biological material rather than through repeated, direct claims that he personally knows intact alien bodies are stored by the US government. Until independently verifiable physical evidence emerges, that distinction remains one of the most important mechanisms for understanding what he is actually asking the public to believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</span></span></span>
-
+The credibility question therefore turns on precision. Elizondo's strongest biological allegations remain extraordinary, but they are often framed through terms such as specimens, samples, remains, or recovered biological material rather than through repeated, direct claims that he personally knows intact alien bodies are stored by the US government. Until independently verifiable physical evidence emerges, that distinction remains one of the most important mechanisms for understanding what he is actually asking the public to believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g7-vKn-Qqbg" title="Former Pentagon insider shares details on UFOs in new book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer">Former Pentagon insider shares details on UFOs in new book</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 85.4K &middot; Uploaded: August 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g7-vKn-Qqbg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -395,16 +385,16 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L7etDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ufos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos">Ufos</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By A. R. Roberts</p>
         
-        <p class="fr-book-desc">Provides context for assessing evidence standards in UAP debates.</p>
+        <p class="fr-book-desc">UFOs: What Is the Government Really Covering Up? is not just another book about the 1947 Roswell crash. Ingeniously, Roberts takes a step...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,16 +402,16 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Contains the wording and claims readers are trying to evaluate.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -429,16 +419,16 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Discusses alleged recovered materials and insider testimony.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -446,16 +436,16 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Captured!: The Betty and Barney Hill UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-d5EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Captured!: The Betty and Barney Hill UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!: The Betty and Barney Hill UFO Experience">Captured!: The Betty and Barney Hill UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
         
-        <p class="fr-book-desc">Helps readers judge the significance of careful wording and proof claims.</p>
+        <p class="fr-book-desc">Today, 46 years after the UFO abduction of Betty and Barney Hill, more and more people are convinced that UFOs are real and their existen...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -463,7 +453,7 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -500,15 +490,15 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/AxkAAeSwmzVqKsXc/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +506,15 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for vintage 1992 Kenner Scorpion Alien action figure"><img src="https://i.ebayimg.com/images/g/wUcAAeSwBVZqKoro/s-l225.jpg" alt="Listing image for vintage 1992 Kenner Scorpion Alien action figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer">vintage 1992 Kenner Scorpion Alien action figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +522,15 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure"><img src="https://i.ebayimg.com/images/g/UU0AAeSwcYdonBc-/s-l225.jpg" alt="Listing image for NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Hadleys Hope Carter J.Burke Xenomorph Warrior 2 Pack 7&quot; Action Figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +538,15 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set"><img src="https://i.ebayimg.com/images/g/txgAAeSwahtok4oy/s-l225.jpg" alt="Listing image for Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +554,7 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="samples-wording-did-elizondo-really-claim-alien-bodies-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-elizondo-really-claim-alien-bodies-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="did-elizondo-really-claim-alien-bodies-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -780,156 +770,156 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
 1. <a id="endnote-1"></a>
    Source: people.com  
    Title: Ex-Pentagon Official Discusses Government's Hunt for UFOs  
-   Link: [https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746](https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746)  
+   Link: <a href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 21, 2024 — 21 Sept 2024 — Louis Elizondo tells PEOPLE that the US government has retrieved “non-human” technology and specimens...</p></details>
    Published: September 21, 2024  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that a U...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RevHouse Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</p></details>
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on Unidentified Anomalous PhenomenaJan 23, 2026 — The problem is the supposed collection of these biological samples occ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lZMEl8ak2PY](https://www.youtube.com/watch?v=lZMEl8ak2PY)  
+   Link: <a href="https://www.youtube.com/watch?v=lZMEl8ak2PY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lZMEl8ak2PY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon official: US has recovered nonhuman bones...Former Pentagon insider Luis Elizondo says the Department of Defense has a space...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: brobible.com  
    Title: Bro Bible Ex-Pentagon UFO Investigator Says New Files Contradict  
-   Link: [https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/](https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/)  
+   Link: <a href="https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon UFO Investigator Says New Files Contradict...May 21, 2026 — Four deceased nonhuman bodies were in fact recovered from the 19...</p></details>
    Published: May 21, 2026  
 
 6. <a id="endnote-6"></a>
    Source: people.com  
-   Link: [https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935](https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935)  
+   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uFRAvDOPZP0](https://www.youtube.com/watch?v=uFRAvDOPZP0)  
+   Link: <a href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFRAvDOPZP0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert: “We Have Proof They Exist,” with Luis ElizondoIt&#x27;s not about &quot;believing&quot; but about having the awareness of the fact that we a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: the-sun.com  
    Title: I was Pentagon UFO chief  
-   Link: [https://www.the-sun.com/news/12396052/pentagons-ufo-chief-alien-tech/](https://www.the-sun.com/news/12396052/pentagons-ufo-chief-alien-tech/)  
+   Link: <a href="https://www.the-sun.com/news/12396052/pentagons-ufo-chief-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/12396052/pentagons-ufo-chief-alien-tech/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I know &#x27;non-human&#x27; bodies have...Sep 7, 2024 — He claims to have been told categorically the infamous Roswell incident in New Mexico in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ybkUPaOqu6c](https://www.youtube.com/watch?v=ybkUPaOqu6c)  
+   Link: <a href="https://www.youtube.com/watch?v=ybkUPaOqu6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybkUPaOqu6c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official: The U.S Isn&#x27;t Telling The Truth! Top-Secret UFO Encounters Finally Uncovered...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZkNVSju99HY](https://www.youtube.com/watch?v=ZkNVSju99HY)  
+   Link: <a href="https://www.youtube.com/watch?v=ZkNVSju99HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZkNVSju99HY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert: “We Have Proof They Exist,” with Luis Elizondo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Former Pentagon insider shares details on UFOs in new book  
-   Link: [https://www.youtube.com/watch?v=g7-vKn-Qqbg](https://www.youtube.com/watch?v=g7-vKn-Qqbg)  
+   Link: <a href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g7-vKn-Qqbg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Luis Elizondo  
-   Link: [https://www.youtube.com/watch?v=9gLPtRwXgCM](https://www.youtube.com/watch?v=9gLPtRwXgCM)  
+   Link: <a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gLPtRwXgCM</a>  
 
 13. <a id="endnote-13"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc](https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc)  
+   Link: <a href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thesun.co.uk  
    Title: The Sun I was the Pentagon's UFO chief  
-   Link: [https://www.thesun.co.uk/news/30312774/pentagons-ufo-chief-alien-tech/](https://www.thesun.co.uk/news/30312774/pentagons-ufo-chief-alien-tech/)  
+   Link: <a href="https://www.thesun.co.uk/news/30312774/pentagons-ufo-chief-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/30312774/pentagons-ufo-chief-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In his new book, &quot;Imminent: Inside the Pentagon&#x27;s Hunt for UFOs,&quot; he states that four &quot;non-human&quot; bodies were recovered from the infamous...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: The Guardian Startling claims made at UFO hearing in [Congress](&#123;&#123; 'congress/' | relative_url &#125;&#125;), but lack  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianStartling claims made at UFO hearing in Congress, but lack...November 14, 2024 — Nov 13, 2024 — Ex-defense department offici...</p></details>
    Published: November 14, 2024  
 
 16. <a id="endnote-16"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/](https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/)  
+   Link: <a href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostEx-Pentagon official Luis Elizondo alleges US recovered...Aug 23, 2024 — A former Pentagon official alleged that the US gov...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: Luis Elizondo  
-   Link: [https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/](https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/)  
+   Link: <a href="https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Pentagon&#x27;s Hunt for UFOsLuis claims two crafts crashed, one escaped, and non-human bodies were recovered. The silence from jou...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: goodreads.com  
-   Link: [https://goodreads.com/book/show/210963085](https://goodreads.com/book/show/210963085)  
+   Link: <a href="https://goodreads.com/book/show/210963085" target="_blank" rel="noopener noreferrer nofollow">https://goodreads.com/book/show/210963085</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Imminent: Inside the Pentagon&#x27;s Hunt for UFOsAug 20, 2024 — Elizondo was informed by Dr. Hal Puthoff that Roswell was indeed a crash of t...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/](https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/)  
+   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LUIS ELIZONDO: ROSWELL UFO CRASH “ABSOLUTELY...Luis claims two crafts crashed, one escaped, and non-human bodies were recovered. The sil...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXfx3MEgc0L/](https://www.instagram.com/reel/DXfx3MEgc0L/)  
+   Link: <a href="https://www.instagram.com/reel/DXfx3MEgc0L/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXfx3MEgc0L/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNation on Instagram: &quot;UFO insider Luis Elizondo says...UFO insider Luis Elizondo says the so-called list of U.S. scientists who have...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hindustantimes.com  
-   Link: [https://www.hindustantimes.com/world-news/us-news/expentagon-ufo-chief-claims-non-human-bodies-found-on-earth-i-ve-handled-alien-tech-101725842725235.html](https://www.hindustantimes.com/world-news/us-news/expentagon-ufo-chief-claims-non-human-bodies-found-on-earth-i-ve-handled-alien-tech-101725842725235.html)  
+   Link: <a href="https://www.hindustantimes.com/world-news/us-news/expentagon-ufo-chief-claims-non-human-bodies-found-on-earth-i-ve-handled-alien-tech-101725842725235.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/expentagon-ufo-chief-claims-non-human-bodies-found-on-earth-i-ve-handled-alien-tech-101725842725235.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon UFO chief claims &#x27;non-human&#x27; bodies found...9 Sept 2024 — Luis Elizondo revealed that the government is aware of non-human d...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/inside-the-pentagons-hunt-for-ufo-s-imminent-by-luis-elizondo-30792360aca3](https://medium.com/predict/inside-the-pentagons-hunt-for-ufo-s-imminent-by-luis-elizondo-30792360aca3)  
+   Link: <a href="https://medium.com/predict/inside-the-pentagons-hunt-for-ufo-s-imminent-by-luis-elizondo-30792360aca3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/inside-the-pentagons-hunt-for-ufo-s-imminent-by-luis-elizondo-30792360aca3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IMMINENT BY LUIS ELIZONDO | by Felicity Harley | PredictThey may believe that revealing themselves could lead to war or destruction, and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/](https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>has recovered nonhuman biological specimens and advanced spacecraft. He told NewsNation&#x27;s Ross Coulthart that...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ndtv.com  
    Title: ex pentagon official claims us recovered non human specimens report 6517187  
-   Link: [https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187](https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187)  
+   Link: <a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official Claims US Recovered Non-Human...Sep 8, 2024 — Mr Elizondo claims that one of the recovered spacecraft is from the i...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — rumored they were human experiments for biological and nuclear medicine res...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: skeptic.com  
    Title: the aliens are here again a review of the age of disclosure  
-   Link: [https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/](https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/)  
+   Link: <a href="https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens are Here (Again)! A Review of The Age...Nov 23, 2025 — Michael Shermer reviews The Age of Disclosure (2025) by Dan Farah, Exe...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/](https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tractor and being blocked by the Air Force, Hal Puthoff&#x27;s idea on...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: metabunk.org  
-   Title: errors in [luis elizondos](&#123;&#123; 'how-credible-is-luis-elizondo/' | relative_url &#125;&#125;) ufo book imminent.13613  
-   Link: [https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/](https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/)  
+   Title: errors in luis elizondos ufo book imminent.13613  
+   Link: <a href="https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Errors in Luis Elizondo&#x27;s UFO Book &quot;Imminent&quot;Aug 23, 2024 — Luis Elizondo&#x27;s book &quot;Imminent - Inside the Pentagon&#x27;s Hunt for UFOs&quot; contain...</p></details>

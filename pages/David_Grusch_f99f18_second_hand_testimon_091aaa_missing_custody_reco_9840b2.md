@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hearsay/
 nav_short_title: Custody Records
 title: Where Would The Paper Trail Be?
-title_full: Where Would The Paper Trail Be? | Hearsay
+title_full: Where Would The Paper Trail Be?
 display_title_short: Custody Records
 display_title: Custody Records
 heading_title: Where Would The Paper Trail Be?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why First Hand Evidence Matters Here | Grusch
+parent_title: Why First Hand Evidence Matters Here
 parent_permalink: /hearsay/
 parent_nav_short_title: Hearsay
 parent_heading_title: Why First Hand Evidence Matters Here
@@ -253,7 +253,7 @@ next_link:
   permalink: /public-proof/
   short_title: Public Proof
   heading_title: Why Classified Evidence Cannot Settle Public Doubt
-date: '2026-06-09 02:53:36 '
+date: '2026-06-11 21:01:54 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_cu
 
 ## Introduction
 
-The strongest version of [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s allegation is not that unusual objects were seen, but that physical craft were recovered, stored, studied and hidden inside long-running programmes. That kind of claim should, in principle, generate a substantial [paper trail]({{ 'paper-trail/' | relative_url }}). Aircraft accidents, intelligence recoveries, weapons exploitation projects and highly classified special-access programmes all leave administrative traces, even when most details remain secret.
-
+The strongest version of David Grusch’s allegation is not that unusual objects were seen, but that physical craft were recovered, stored, studied and hidden inside long-running programmes. That kind of claim should, in principle, generate a substantial [paper trail]({{ 'paper-trail/' | relative_url }}). Aircraft accidents, intelligence recoveries, weapons exploitation projects and highly classified special-access programmes all leave administrative traces, even when most details remain secret.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-1-dark.svg" | relative_url }}" alt="Custody Records illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is where one of the central evidential problems appears. In public, Grusch has described being told about alleged crash-retrieval and reverse-engineering activities by people he regarded as credible insiders. He has not publicly produced the custody records that would normally allow outside investigators to verify whether recovered materials actually moved through government or contractor systems. The missing links are not simply photographs or dramatic disclosures. They are the routine records that would normally accompany any real object moving from a recovery site into storage, analysis and long-term control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">RevHouse UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
+This is where one of the central evidential problems appears. In public, Grusch has described being told about alleged crash-retrieval and reverse-engineering activities by people he regarded as credible insiders. He has not publicly produced the custody records that would normally allow outside investigators to verify whether recovered materials actually moved through government or contractor systems. The missing links are not simply photographs or dramatic disclosures. They are the routine records that would normally accompany any real object moving from a recovery site into storage, analysis and long-term control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
 
 ## Where Would the Paper Trail Be?
 
@@ -289,7 +288,7 @@ This is why chain-of-custody questions matter so much in the Grusch case. The al
 
 ## Which Links Are Missing From Grusch's Public Account?
 
-Grusch has repeatedly stated that he learned of alleged crash-retrieval programmes through interviews, briefings and testimony from other officials. Publicly available accounts do not provide the underlying custody documentation that would allow independent verification of those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">RevHouse UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
+Grusch has repeatedly stated that he learned of alleged crash-retrieval programmes through interviews, briefings and testimony from other officials. Publicly available accounts do not provide the underlying custody documentation that would allow independent verification of those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
 
 Several key links remain absent from the public record.
 
@@ -297,9 +296,7 @@ Several key links remain absent from the public record.
 
 The public has not been shown a documented sequence identifying:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvmZUI7llHQ" title="House committee holds UFO hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer">House committee holds UFO hearing</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.1M &middot; Uploaded: July 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvmZUI7llHQ">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -326,11 +323,10 @@ Grusch's public claims imply that technical examination occurred somewhere. Yet 
 
 Supporters often argue that such records would remain classified. Critics respond that classification explains non-disclosure but does not itself establish that the records exist.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-2-dark.svg" | relative_url }}" alt="Custody Records illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Contractor transfer records
 
-One recurring element in crash-retrieval narratives is the allegation that materials were transferred to defence contractors for exploitation or [reverse engineering]({{ 'paper-trail/' | relative_url }}). Grusch has suggested that contractor involvement forms part of the story. Yet no public chain-of-custody documentation has demonstrated the transfer of a recovered non-human vehicle from government control into contractor possession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...Jun 5, 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cl...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
+One recurring element in crash-retrieval narratives is the allegation that materials were transferred to defence contractors for exploitation or reverse engineering. Grusch has suggested that contractor involvement forms part of the story. Yet no public chain-of-custody documentation has demonstrated the transfer of a recovered non-human vehicle from government control into contractor possession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...Jun 5, 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cl...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
 
 ## Why Missing Records Matter More Than Missing Photographs
 
@@ -339,7 +335,6 @@ Popular discussion often focuses on whether there are photographs of alien craft
 Photographs can be ambiguous. A transfer log, laboratory intake record or classified inventory entry is harder to explain away if independently authenticated.
 
 A genuine recovery programme would ideally create overlapping forms of evidence:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -354,8 +349,7 @@ A genuine recovery programme would ideally create overlapping forms of evidence:
 
 Each category can support or challenge the others. When only testimony is publicly available, investigators cannot cross-check whether different witnesses are describing the same object, the same programme or even the same event.
 
-This is particularly relevant because Grusch's account relies heavily on interviews with people who allegedly had direct knowledge. If the supporting records remain inaccessible, the public cannot determine whether those witnesses are independently corroborating a real programme or repeating information circulating within a closed community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">RevHouse UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
-
+This is particularly relevant because Grusch's account relies heavily on interviews with people who allegedly had direct knowledge. If the supporting records remain inaccessible, the public cannot determine whether those witnesses are independently corroborating a real programme or repeating information circulating within a closed community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q3BpTZXmDns" title="UAP Whistleblower David Grusch on “Non-human” Biologics &amp; Craft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer">UAP Whistleblower David Grusch on “Non-human” Biologics &amp; Craft</a></p><p class="youtube-embed-meta">Channel: Judicial Watch &middot; Views: 44.4K &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q3BpTZXmDns">Open on YouTube</a></p></div></div></div>
 
@@ -366,7 +360,6 @@ Supporters of Grusch often make an important distinction. They argue that Congre
 That argument is plausible in principle. Classified programmes routinely restrict access to sensitive records. A whistleblower complaint can therefore be serious even when supporting evidence remains hidden from the public.
 
 However, the distinction creates two separate questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -385,14 +378,12 @@ For sceptics, this is one of the most important counterpoints to Grusch's allega
 
 Supporters counter that AARO may not have gained access to every compartmented programme, may have relied on incomplete cooperation, or may have interpreted evidence differently from whistleblowers. Those arguments remain difficult to evaluate publicly because the underlying classified records are not available for independent review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-3-dark.svg" | relative_url }}" alt="Custody Records illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_missing_custody_reco_9840b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Records Would Most Quickly Change the Debate?
 
 The debate would become far more testable if even one alleged recovery could be linked to a verifiable documentary chain.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -407,11 +398,9 @@ Examples include:
 
 None of these would automatically prove a non-human origin. A recovered object could ultimately turn out to be foreign technology, a misunderstood programme or an incorrectly identified material. But such records would at least establish that a physical object moved through a documented recovery and analysis process.
 
-That is the key evidential gap. The public controversy around Grusch often centres on extraordinary conclusions, yet the missing element is more mundane: records showing who possessed what, when, where and under whose authority. Until a verifiable custody trail emerges, the alleged recovered craft remain claims about [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}) rather than publicly demonstrated physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">RevHouse UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...Jun 5, 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cl...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
-
+That is the key evidential gap. The public controversy around Grusch often centres on extraordinary conclusions, yet the missing element is more mundane: records showing who possessed what, when, where and under whose authority. Until a verifiable custody trail emerges, the alleged recovered craft remain claims about physical evidence rather than publicly demonstrated physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...Jun 5, 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cl...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xv0IoOQpLBU" title="Key moments from congressional hearing on UAPs, aka UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xv0IoOQpLBU" target="_blank" rel="noopener noreferrer">Key moments from congressional hearing on UAPs, aka UFOs</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 106.0K &middot; Uploaded: November 2024 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xv0IoOQpLBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xv0IoOQpLBU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -425,16 +414,16 @@ That is the key evidential gap. The public controversy around Grusch often centr
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book: Top Secret UFO Files: The Untold Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xz6vuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book: Top Secret UFO Files: The Untold Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By John Scott Chace</p>
         
-        <p class="fr-book-desc">Touches on logistics, classified programs and the evidential trails they leave behind.</p>
+        <p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -442,16 +431,16 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Covers historical government investigations and evidentiary questions.</p>
+        <p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -459,16 +448,16 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Could UFO&#x27;s be real? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3966518-M.jpg" alt="Cover for Could UFO&#x27;s be real?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
         </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+        <p class="fr-book-author">By Larry Koss</p>
         
-        <p class="fr-book-desc">Illustrates how real classified aerospace programs generate documentation and bureaucracy.</p>
+        <p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -476,16 +465,16 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Almanac of Alien Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RXX5BGt7QjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Almanac of Alien Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almanac of Alien Encounters">Almanac of Alien Encounters</a>
         </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+        <p class="fr-book-author">By Eric Elfman</p>
         
-        <p class="fr-book-desc">Focuses on records, investigations and documentary traces.</p>
+        <p class="fr-book-desc">A historical overview of alien encounters, from Archbishop Agobard of Lyons&#x27;s ninth-century encounter with the occupants of a &quot;cloudship&quot;...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -493,7 +482,7 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: Top Secret UFO Files: The Untold Truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Could UFO&#x27;s be real?</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -530,15 +519,15 @@ That is the key evidential gap. The public controversy around Grusch often centr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for APEXi &quot;WHERE POWER BEGINS&quot; 100% Cotton Red Memorabilia Cap Japan Buckle"><img src="{{ '/assets/images/marketplace-covers/6b9e6ed88e2ac7632ce6.jpg' | relative_url }}" alt="Listing image for APEXi &quot;WHERE POWER BEGINS&quot; 100% Cotton Red Memorabilia Cap Japan Buckle" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="https://i.ebayimg.com/images/g/XdMAAeSwI0hpurgs/s-l225.jpg" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">APEXi &quot;WHERE POWER BEGINS&quot; 100% Cotton Red Memorabilia Cap Japan Buckle</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for where memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: where memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +535,15 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,WEEKEND SYDNEY , WHERE TO GO AND WHAT TO DO BOOKLET ,1978"><img src="{{ '/assets/images/marketplace-covers/f0338c8b028634d351d3.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,WEEKEND SYDNEY , WHERE TO GO AND WHAT TO DO BOOKLET ,1978" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="https://i.ebayimg.com/images/g/9zgAAeSw9O9purBw/s-l225.jpg" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,WEEKEND SYDNEY , WHERE TO GO AND WHAT TO DO BOOKLET ,1978</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for where memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: where memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +551,15 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Westlife Where We Are Tour 2010 Programme Concert Memorabilia"><img src="{{ '/assets/images/marketplace-covers/1271ca464182acc51d52.jpg' | relative_url }}" alt="Listing image for Westlife Where We Are Tour 2010 Programme Concert Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Westlife Where We Are Tour 2010 Programme Concert Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for where memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: where memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +567,15 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gene - Where Are They Now - Newsletter. 1990s Music. Fan Club Memorabilia"><img src="{{ '/assets/images/marketplace-covers/bfcaf94b4f09b4cef82c.jpg' | relative_url }}" alt="Listing image for Gene - Where Are They Now - Newsletter. 1990s Music. Fan Club Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Gene - Where Are They Now - Newsletter. 1990s Music. Fan Club Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for where memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: where memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,7 +583,7 @@ That is the key evidential gap. The public controversy around Grusch often centr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=where+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="where memorabilia -book -books -dvd" data-ebay-reference="custody-records-where-would-the-paper-trail-be-david-grusch-where-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-the-paper-trail-be-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="where-would-the-paper-trail-be-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,94 +799,94 @@ That is the key evidential gap. The public controversy around Grusch often centr
 1. <a id="endnote-1"></a>
    Source: rev.com  
    Title: house uap whistleblower [hearing](&#123;&#123; 'hearing/' | relative_url &#125;&#125;)  
-   Link: [https://www.rev.com/transcripts/house-uap-whistleblower-hearing](https://www.rev.com/transcripts/house-uap-whistleblower-hearing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RevHouse UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</p></details>
+   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>House UAP Whistleblower HearingAfter David Grusch testified under oath in the summer of 2023 and provided historic disclosure, I was t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...Jun 5, 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cl...</p></details>
    Published: July 2021  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/The](https://en.wikipedia.org/wiki/The)  
+   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...Jul 28, 2023 — A former military intelligence officer-turned-whistleblower told H...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;...Former military intelligence officer-turned-whistleblower David Grusch told House law...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: space.com  
    Title: us hiding evidence alien intelligence ufo whistleblower claims  
-   Link: [https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims](https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims)  
+   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — In the witness testimony that followed the opening statements, Grusch c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: ufo alien vehicles us whistleblower evidence where is proof  
-   Link: [https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof](https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A whistleblower claims the US has alien vehicles. But...9 Jun 2023 — The government whistleblower who made the extraordinary claims has...</p></details>

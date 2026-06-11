@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Debate
 title: Why Supporters And Sceptics Disagree On Kelleher
-title_full: Why Supporters And Sceptics Disagree On Kelleher | Kelleher
+title_full: Why Supporters And Sceptics Disagree On Kelleher
 display_title_short: Debate
 display_title: Debate
 heading_title: Why Supporters And Sceptics Disagree On Kelleher
@@ -289,7 +289,7 @@ next_link:
   permalink: /documents/
   short_title: Documents
   heading_title: What Do The Public Records Really Prove?
-date: '2026-06-09 03:06:14 '
+date: '2026-06-11 21:07:42 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-overview-s
 
 ## Introduction
 
-The dispute over [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s evidence is not a simple split between “believers” and “debunkers”. Supporters argue that Kelleher had unusual institutional access, scientific training and direct involvement in contractor-side UAP investigations, including AAWSAP/BAASS and earlier [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) work. Sceptics answer that access is not the same as proof: much of the public case still depends on private files, witness testimony, unreleased reports, paranormal framing and claims that cannot be independently checked. That is why Kelleher remains a serious but contested figure in UAP credibility debates: his résumé is stronger than many UFO personalities, while the public evidence behind the most dramatic claims remains much weaker than his supporters often imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://share.libbyapp.com/title/9494565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.libbyapp.com">[title]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.libbyapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> of Site | Rice University <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
-
+The dispute over Colm Kelleher’s evidence is not a simple split between “believers” and “debunkers”. Supporters argue that Kelleher had unusual institutional access, scientific training and direct involvement in contractor-side UAP investigations, including AAWSAP/BAASS and earlier [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) work. Sceptics answer that access is not the same as proof: much of the public case still depends on [private files]({{ 'private-files/' | relative_url }}), witness testimony, unreleased reports, paranormal framing and claims that cannot be independently checked. That is why Kelleher remains a serious but contested figure in UAP credibility debates: his résumé is stronger than many UFO personalities, while the public evidence behind the most dramatic claims remains much weaker than his supporters often imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://share.libbyapp.com/title/9494565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.libbyapp.com">[title]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.libbyapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> of Site | Rice University <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-overview.webp" | relative_url }}" alt="Overview image for Debate" loading="eager" decoding="sync" fetchpriority="high">
 ## The strongest supporter arguments
@@ -314,7 +313,6 @@ The third supportive point is that Kelleher’s approach did not rely only on co
 
 This is where supporters and sceptics part company most sharply. Supporters treat the oddness of the material as the very reason it deserved investigation; sceptics treat the same oddness as a warning sign that the evidential threshold should be much higher. Kelleher’s credibility, therefore, depends not only on whether he had access to records, but on whether the records were collected, controlled and interpreted in ways that could survive independent scrutiny.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-1-dark.svg" | relative_url }}" alt="Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics object to the evidence
 
@@ -328,11 +326,7 @@ A further sceptical concern is circularity. Kelleher, Robert Bigelow, NIDS, BAAS
 
 There is also a framing problem. Kelleher’s strongest institutional evidence sits beside claims involving poltergeist-like events, anomalous animals, biological effects and hitchhiker phenomena. For supporters, that makes him unusually open-minded. For sceptics, it makes the evidential package unstable: ordinary UAP questions become entangled with paranormal claims that are harder to test, easier to sensationalise and more vulnerable to witness contamination, folklore and retrospective embellishment.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-dark.svg" | relative_url }}" alt="Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-dark.svg" | relative_url }}" alt="Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where both sides have a point
 
 The fairest reading is that supporters are right about access and sceptics are right about proof. Kelleher’s role in NIDS and BAASS gives him a stronger basis for speaking about what those organisations collected than someone relying on internet lore or second-hand UFO culture. The DIA contract material also confirms that BAASS produced substantial work under a real government contract. Those facts should not be dismissed as fantasy or mere entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://share.libbyapp.com/title/9494565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.libbyapp.com">[title]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.libbyapp.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> of Site | Rice University
@@ -343,22 +337,14 @@ The most defensible supporter case is therefore modest: Kelleher had real access
 
 The most defensible sceptical case is also modest: the available public evidence does not currently justify firm conclusions about exotic technology, non-human agency or paranormal effects. The least defensible sceptical case is the blanket dismissal that nothing in Kelleher’s work can matter because some of it is strange, privately held or associated with paranormal claims. Serious criticism should separate weak evidential claims from verifiable institutional history.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-dark.svg" | relative_url }}" alt="Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-dark.svg" | relative_url }}" alt="Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A balanced credibility verdict
 
 Kelleher’s evidence is credible enough to justify attention, but not strong enough to justify certainty. His supporter appeal rests on an unusually concrete combination: scientific [background]({{ 'background-ef59e9/' | relative_url }}), programme-management role, field-investigation history, and a documented DIA-funded contractor environment. His weakness is that the public cannot inspect enough of the underlying data to test the most consequential claims.
 
-A useful credibility scale would put Kelleher’s evidence into three tiers. The strongest tier is institutional: his BAASS and AAWSAP involvement, the existence of DIA contract activity, and the delivery of reports. The middle tier is investigative: databases, case collections, historical UAP comparisons and biological-effect claims that may be interesting but require more public documentation. The weakest tier is paranormal interpretation: [hitchhiker effects]({{ 'hitchhikers/' | relative_url }}), ranch entities, portals and other claims that remain highly dependent on testimony, private files and contested interpretation.
+A useful credibility scale would put Kelleher’s evidence into three tiers. The strongest tier is institutional: his BAASS and AAWSAP involvement, the existence of DIA contract activity, and the delivery of reports. The middle tier is investigative: databases, case collections, historical UAP comparisons and biological-effect claims that may be interesting but require more public documentation. The weakest tier is paranormal interpretation: hitchhiker effects, ranch entities, portals and other claims that remain highly dependent on testimony, private files and contested interpretation.
 
 The practical verdict is therefore mixed. Kelleher should not be treated as a casual UFO storyteller, because his access and roles were real. He should also not be treated as having publicly proven the extraordinary conclusions associated with his work. The central disagreement is not whether he was near serious institutions; it is whether the evidence that emerged from that world can carry the paranormal and exotic-technology weight now placed on it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7rM1gbWfnoU" title="The REAL Secret UFO Program | Advanced Aerospace Weapons Systems Application Program (AAWSAP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7rM1gbWfnoU" target="_blank" rel="noopener noreferrer">The REAL Secret UFO Program | Advanced Aerospace Weapons Systems Application Program (AAWSAP)</a></p><p class="youtube-embed-meta">Channel: Nice People</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7rM1gbWfnoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7rM1gbWfnoU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +463,15 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychedelic Research Volunteer UFO Aliens Retro Vintage Unisex T-shirt"><img src="{{ '/assets/images/marketplace-covers/87a58ef5696e19604a5d.jpg' | relative_url }}" alt="Listing image for Psychedelic Research Volunteer UFO Aliens Retro Vintage Unisex T-shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer">Psychedelic Research Volunteer UFO Aliens Retro Vintage Unisex T-shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo research shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo research shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +479,15 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT UFO RESEARCH T-SHIRT aliens extraterrestrial conspiracy"><img src="{{ '/assets/images/marketplace-covers/e620b9df3f9ec3ef668b.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT UFO RESEARCH T-SHIRT aliens extraterrestrial conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT UFO RESEARCH T-SHIRT aliens extraterrestrial conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo research shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo research shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +495,15 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/0c4468a671233dd91863.jpg' | relative_url }}" alt="Listing image for ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO PROJECT BLUE BOOK CLASSIFIED RESEARCH T-SHIRT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo research shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo research shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +511,15 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT AREA 51 RESEARCH T-SHIRT ufo extraterrestrial conspiracy"><img src="{{ '/assets/images/marketplace-covers/a8402387934c953ef498.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT AREA 51 RESEARCH T-SHIRT ufo extraterrestrial conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT AREA 51 RESEARCH T-SHIRT ufo extraterrestrial conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo research shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo research shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +527,7 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+research+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo research shirt" data-ebay-reference="debate-020cbc-why-supporters-and-sceptics-disagree-on-kelleher-colm-kelleher-ufo-research-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-supporters-and-sceptics-disagree-on-kelleher-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,129 +743,129 @@ The practical verdict is therefore mixed. Kelleher should not be treated as a ca
 1. <a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
    Title: Title of Site | Rice University Colm A. Kelleher  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/</a>  
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 4. <a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/[Documents](https://www.dia.mil/Portals/110/[Documents)  
+   Link: <a href="https://www.dia.mil/Portals/110/[Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/[Documents</a>  
 
 9. <a id="endnote-9"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: [https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html](https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html)  
+   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 12. <a id="endnote-12"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 13. <a id="endnote-13"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857](https://journalofscientificexploration.org/index.php/jse/article/view/2857)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 16. <a id="endnote-16"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1920313655478136977](https://x.com/grok/status/1920313655478136977)  
+   Link: <a href="https://x.com/grok/status/1920313655478136977" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1920313655478136977</a>  
 
 17. <a id="endnote-17"></a>
    Source: share.libbyapp.com  
-   Link: [https://share.libbyapp.com/title/9494565](https://share.libbyapp.com/title/9494565)  
+   Link: <a href="https://share.libbyapp.com/title/9494565" target="_blank" rel="noopener noreferrer nofollow">https://share.libbyapp.com/title/9494565</a>  
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a](https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/skinwalkers-at-the-pentagon-69637a90c23a</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Science, Secrecy, and the UAP Phenomenon: An Analytical View  
-   Link: [https://www.youtube.com/watch?v=W55-B33-s_g](https://www.youtube.com/watch?v=W55-B33-s_g)  
+   Link: <a href="https://www.youtube.com/watch?v=W55-B33-s_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W55-B33-s_g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the AAWSAP Legacy and Public Credibility...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Critically Assessing Skinwalker Ranch Claims  
-   Link: [https://www.youtube.com/watch?v=1uR1QyZ-T-s](https://www.youtube.com/watch?v=1uR1QyZ-T-s)  
+   Link: <a href="https://www.youtube.com/watch?v=1uR1QyZ-T-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1uR1QyZ-T-s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science, Secrecy, and the UAP Phenomenon: An Analytical View...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Debate over UAP Evidence: Colm Kelleher and AAWSAP  
-   Link: [https://www.youtube.com/watch?v=wX-yM9FqV2Q](https://www.youtube.com/watch?v=wX-yM9FqV2Q)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-yM9FqV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-yM9FqV2Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skepticism and the UAP Disclosure Narrative...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/](https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/)  
+   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/](https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-is-operating-a-secret-ufo-retrie/556356576771364/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/](https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/</a>  
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/979637042/Contract-Status-24Aug090001](https://www.scribd.com/document/979637042/Contract-Status-24Aug090001)  
+   Link: <a href="https://www.scribd.com/document/979637042/Contract-Status-24Aug090001" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/979637042/Contract-Status-24Aug090001</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/](https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/](https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/)  
+   Link: <a href="https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/</a>  
 
 28. <a id="endnote-28"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>

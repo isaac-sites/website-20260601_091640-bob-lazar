@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-role/
 nav_short_title: BAASS Role
 title: How much authority did Kelleher really have?
-title_full: How much authority did Kelleher really have? | AAWSAP Role
+title_full: How much authority did Kelleher really have?
 display_title_short: BAASS Role
 display_title: BAASS Role
 heading_title: How much authority did Kelleher really have?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Kelleher Actually Do For AAWSAP? | Kelleher
+parent_title: What Did Kelleher Actually Do For AAWSAP?
 parent_permalink: /aawsap-role/
 parent_nav_short_title: AAWSAP Role
 parent_heading_title: What Did Kelleher Actually Do For AAWSAP?
@@ -247,7 +247,7 @@ next_link:
   permalink: /deliverables/
   short_title: Deliverables
   heading_title: What did BAASS actually deliver to DIA?
-date: '2026-06-09 03:08:05 '
+date: '2026-06-11 21:07:59 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1.webp
@@ -256,24 +256,20 @@ image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baa
 
 ## Introduction
 
-[Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s reputation as a UFO insider rests heavily on his role inside Bigelow Aerospace Advanced Space Studies (BAASS), the company that carried out work for the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications Program (AAWSAP). That role was real and senior. [Public records]({{ 'documents/' | relative_url }}) show that Kelleher was BAASS deputy administrator and helped run the contractor side of the programme. What the records do not show is that he held Pentagon decision-making authority, controlled DIA policy, or spoke for the US government as a whole. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
-
+Colm Kelleher’s reputation as a UFO insider rests heavily on his role inside Bigelow Aerospace Advanced Space Studies (BAASS), the company that carried out work for the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications Program (AAWSAP). That role was real and senior. Public records show that Kelleher was BAASS deputy administrator and helped run the contractor side of the programme. What the records do not show is that he held Pentagon decision-making authority, controlled DIA policy, or spoke for the US government as a whole. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1-dark.svg" | relative_url }}" alt="BAASS Role illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding that distinction is important when assessing Kelleher’s credibility. His position gave him access to programme personnel, investigations and internal reporting that most outsiders never saw. At the same time, his authority existed inside a private contractor hired by the government rather than inside the government chain of command itself. The [debate]({{ 'debate-020cbc/' | relative_url }}) around Kelleher often turns on that difference.
 
 ## What BAASS deputy administrator actually meant
 
-The clearest public description of Kelleher’s position comes from Rice University’s Archives of the Impossible project. Its biography states that in 2008 he became deputy administrator of BAASS and “led the day-to-day operations” involved in executing the AAWSAP contract with the DIA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+The clearest public description of Kelleher’s position comes from Rice University’s Archives of the Impossible project. Its biography states that in 2008 he became deputy administrator of BAASS and “led the day-to-day operations” involved in executing the AAWSAP contract with the DIA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
-That wording points to operational leadership rather than governmental authority. The available evidence suggests that Kelleher was involved in managing programme activity, coordinating personnel, overseeing research tasks and helping deliver contract work. It does not indicate that he held a formal Pentagon office, exercised intelligence-community command authority or had the power to establish official US government positions on UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+That wording points to operational leadership rather than governmental authority. The available evidence suggests that Kelleher was involved in managing programme activity, coordinating personnel, overseeing research tasks and helping deliver contract work. It does not indicate that he held a formal Pentagon office, exercised intelligence-community command authority or had the power to establish official US government positions on UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 This matters because public discussion often compresses several different roles into a single category of “Pentagon insider”. AAWSAP involved government officials, intelligence personnel, contractors, consultants and researchers. Kelleher belonged to the contractor side of that structure.
 
 Even some accounts sympathetic to AAWSAP distinguish between government programme management and contractor execution. Public discussions surrounding the programme generally identify DIA official James Lacatski as a central government figure while describing Kelleher as a key BAASS operator responsible for major parts of programme implementation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gj0FKqp7fTM" title="Archives of the Impossible conference | Third plenary session, March 4, 2022: Whitley Strieber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gj0FKqp7fTM" target="_blank" rel="noopener noreferrer">Archives of the Impossible conference | Third plenary session, March 4, 2022: Whitley Strieber</a></p><p class="youtube-embed-meta">Channel: Rice Humanities and Arts &middot; Views: 30.3K &middot; Uploaded: March 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gj0FKqp7fTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gj0FKqp7fTM">Open on YouTube</a></p></div></div></div>
 
 ## Contractor execution versus government control
 
@@ -296,7 +292,6 @@ DIA briefing material released through FOIA reflects this relationship. The docu
 
 For Kelleher, that means his authority was substantial within BAASS but derivative of a government contract framework.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-2-dark.svg" | relative_url }}" alt="BAASS Role illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AAWSAP's UFO work complicates the picture
 
@@ -314,14 +309,13 @@ Critics draw a different conclusion. They note that AARO described these activit
 
 The distinction does not eliminate Kelleher’s access to information, but it does affect how much institutional weight should be attached to claims emerging from that environment.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gj0FKqp7fTM" title="Archives of the Impossible conference | Third plenary session, March 4, 2022: Whitley Strieber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gj0FKqp7fTM" target="_blank" rel="noopener noreferrer">Archives of the Impossible conference | Third plenary session, March 4, 2022: Whitley Strieber</a></p><p class="youtube-embed-meta">Channel: Rice Humanities and Arts &middot; Views: 30.3K &middot; Uploaded: March 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gj0FKqp7fTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gj0FKqp7fTM">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-dark.svg" | relative_url }}" alt="BAASS Role illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the distinction matters for credibility
 
-Kelleher is often treated as a stronger source than ordinary UFO commentators because his involvement can be independently verified. His BAASS role is documented by institutional biographies, government contracting records and programme-related materials released through FOIA. He was genuinely inside a government-funded project connected to later UAP controversies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA.... Advanced Aerospace Weapon System Appl...</span></span></span>
+Kelleher is often treated as a stronger source than ordinary UFO commentators because his involvement can be independently verified. His BAASS role is documented by institutional biographies, government contracting records and programme-related materials released through FOIA. He was genuinely inside a government-funded project connected to later UAP controversies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA.... Advanced Aerospace Weapon System Appl...</span></span></span>
 
 That gives his testimony value in several areas:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -338,9 +332,7 @@ This is one reason the debate around Kelleher remains unresolved. Supporters see
 
 The most evidence-based assessment is that Kelleher occupied a significant operational position inside BAASS and had unusually close visibility into AAWSAP-related activity. That status makes him more than an outside commentator. It does not, by itself, make him a Pentagon decision-maker or transform every claim associated with BAASS into an official US government finding.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-dark.svg" | relative_url }}" alt="BAASS Role illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -459,15 +451,15 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -475,15 +467,15 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/7e41c81d7e4333fac25a.jpg' | relative_url }}" alt="Listing image for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +483,15 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +499,15 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,7 +515,7 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="baass-role-how-much-authority-did-kelleher-really-have-colm-kelleher-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-authority-did-kelleher-really-have-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-authority-did-kelleher-really-have-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -738,139 +730,139 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
 
 1. <a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Performance by Bigelow Aerospace Advanced. Space Studies (BAASS) has been excellent and they are in full compliance with...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237625/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237625/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237625/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237625/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications...8 May 2009 — Technical approaches being implemented by contra...</p></details>
    Published: May 2009  
 
 5. <a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — statement of work, the selected private sector organi...</p></details>
    Published: March 9, 2024  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf17 Feb 2026 — Records pertaining to the attached link regarding an unknown object sighted UFO... UFOs: Past, Present, and Future. Da...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records on Un...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: impossiblearchives.rice.edu  
    Title: transnationalism transdisciplinarity transcendence  
-   Link: [https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence](https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence)  
+   Link: <a href="https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu2023 Archives of the Impossible Conference - Rice University30 speakers who set out to demystify the paranormal through their res...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.rice.edu  
    Title: archives impossible conference explores cultivation impossibility  
-   Link: [https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility](https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility)  
+   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu&#x27;Archives of the Impossible&#x27; conference explores the cultivation...18 May 2023 — Speakers and panelists included renowned resear...</p></details>
    Published: May 2023  
 
 10. <a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA.... Advanced Aerospace Weapon System Appl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: SOW Aerospace  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PLACE OF PERFORMANCE: The work under this contract shall be...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Note: This page currently has all known AAWSAP/AATIP documents release...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: [https://www.intownmag.com/2025/03/archives-of-the-impossible/](https://www.intownmag.com/2025/03/archives-of-the-impossible/)  
+   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University, home of Archives of the Impossible... Colm Kelleher uttered at the last Impossible...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: artsandsciences.syracuse.edu  
    Title: colm kelleher  
-   Link: [https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/](https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/)  
+   Link: <a href="https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/" target="_blank" rel="noopener noreferrer nofollow">https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KelleherBiography. Colm Kelleher is a biophysicist who applies tools and concepts from materials science and soft-matter physics to under...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Weapon System Applications ProgramAn official government contracting resource for small businesses. Find your local AP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...The document appears to be part of the Defense Intelligence Agency&#x27;s Advanced Aerospa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/](https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US government&#x27;s now-defunct Advanced Aerospace Threat...The contract was known as the Advanced Aerospace Weapons System Applications Pro...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/chriskmellon/posts/788590732156987/](https://www.facebook.com/groups/chriskmellon/posts/788590732156987/)  
+   Link: <a href="https://www.facebook.com/groups/chriskmellon/posts/788590732156987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chriskmellon/posts/788590732156987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of deception had been uncovered which is causing a blurring of the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — What evidence did you expect, given that the USG has neither UFOs nor UFO programs?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The meeting gathered 40 participants from government...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Today&#x27;s UAP are yesterday&#x27;s UFOs and yesteryear&#x27;s flying saucers. Not only that, but the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Kelleher. Rice Humanities and Arts•13K  
-   Link: [https://www.youtube.com/watch?v=Gj0FKqp7fTM](https://www.youtube.com/watch?v=Gj0FKqp7fTM)  
+   Link: <a href="https://www.youtube.com/watch?v=Gj0FKqp7fTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gj0FKqp7fTM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Third plenary session...Go to channel Rice Humanities and Arts &amp;middot; Archives of the Impossib...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS and AAWSAP told him the Atomic Energy...Read more...</p></details>

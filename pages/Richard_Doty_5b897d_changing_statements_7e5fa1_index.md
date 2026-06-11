@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-changing/
 description: Focused pages that expand on Statements.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Richard_Doty_5b897d_changing_statements_7e5fa1
-parent_title: Statements | Was Richard Doty an Insider or Disinformer?
+parent_title: Statements
 parent_nav_short_title: Statements
 parent_permalink: /statements/
 ---

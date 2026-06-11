@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /access-vs-proof/
 nav_short_title: Materials Test
 title: When testing UFO material proves less
-title_full: When testing UFO material proves less | Access vs Proof
+title_full: When testing UFO material proves less
 display_title_short: Materials Test
 display_title: Materials Test
 heading_title: When testing UFO material proves less
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Insider Access Prove His UFO Claims? | Puthoff
+parent_title: Does Insider Access Prove His UFO Claims?
 parent_permalink: /access-vs-proof/
 parent_nav_short_title: Access vs Proof
 parent_heading_title: Does Insider Access Prove His UFO Claims?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /hearsay-risk/
   short_title: Hearsay Risk
   heading_title: What happens when insiders say they were told?
-date: '2026-06-09 03:01:25 '
+date: '2026-06-11 21:06:22 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_t
 ## Introduction
 
 The most tangible part of Hal Puthoff’s modern UFO credibility case is not a witness account or a leaked document. It is the claim that unusual physical materials exist and deserve scientific investigation. Through To The Stars Academy (TTSA), Puthoff became associated with efforts to analyse alleged UFO-related fragments, particularly layered [metal samples]({{ 'metal-sample/' | relative_url }}) described as possible “[metamaterials]({{ 'metamaterials/' | relative_url }})”. For supporters, these samples offered a route beyond stories and into laboratory evidence. For sceptics, they highlighted a recurring problem in UFO research: testing an unusual object is not the same as proving an extraordinary origin.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-1-dark.svg" | relative_url }}" alt="Materials Test illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The [TTSA materials]({{ 'ttsa-materials/' | relative_url }}) story matters because it sits directly between government access and scientific proof. It shows how defence interest, laboratory analysis and media attention can create an impression of validation even when the underlying question — whether a material came from non-human technology — remains unresolved.
@@ -278,7 +277,6 @@ That is where the testing trap begins.
 
 Government scientists agreeing to analyse a sample is not the same thing as government scientists confirming extraordinary claims about that sample. Research interest and scientific validation are separate stages.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MzrnJtNbwZE" title="The ADAM Research Project Begins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer">The ADAM Research Project Begins</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 72.2K &middot; Uploaded: August 2018 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MzrnJtNbwZE">Open on YouTube</a></p></div></div></div>
 
 ### What the Army agreement actually showed
@@ -291,7 +289,6 @@ The Army's interest centred on determining whether any potentially useful techno
 
 This distinction is crucial for evaluating Puthoff's credibility. His supporters often point to official engagement as evidence that his claims deserve attention. Critics counter that scientific institutions routinely test unusual claims without endorsing them. A sample can be interesting enough to examine while ultimately turning out to have a conventional explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/038bbzXoIO8" title="Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer">Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion &middot; Views: 343 &middot; Uploaded: April 2025 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=038bbzXoIO8">Open on YouTube</a></p></div></div></div>
 
 ## What later public assessments said
@@ -300,12 +297,11 @@ The strongest challenge to the UFO-material narrative emerged when more detailed
 
 By 2024, material associated with long-running UFO metamaterial claims had undergone modern analysis involving government-linked review and laboratory examination. The resulting assessments did not support a non-terrestrial origin. According to the published findings, the material's composition and structure were consistent with terrestrial manufacture, even if some aspects remained unusual or historically uncommon. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</span></span></span>
 
-One of the most widely repeated earlier claims concerned the possibility that thin bismuth layers could function as advanced terahertz waveguides. Later analysis found no evidence that the sample possessed the pure single-crystal structure required for that proposed function. Investigators concluded that the observed material did not demonstrate the extraordinary technological characteristics often associated with it in UFO discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro releases lab report on alleged alien metamaterial.13548</span><span class="citation-popover-snippet">MetabunkAARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</span></span></span>
+One of the most widely repeated earlier claims concerned the possibility that thin bismuth layers could function as advanced terahertz waveguides. Later analysis found no evidence that the sample possessed the pure single-crystal structure required for that proposed function. Investigators concluded that the observed material did not demonstrate the extraordinary technological characteristics often associated with it in UFO discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro releases lab report on alleged alien metamaterial.13548</span><span class="citation-popover-snippet">AARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</span></span></span>
 
 Importantly, the reports did not necessarily answer every historical question about the sample. Analysts noted that the precise origin, purpose and chain of custody remained unclear. But uncertainty about origin is not evidence of extraterrestrial manufacture. The key result was narrower: testing failed to confirm the extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AAR O&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — It&#x27;s up to the people who claim extraterrestrials / alien craft / extra dimensional b...</span></span></span>
 
 This outcome illustrates a broader pattern in UFO investigations. A material can survive the first stage of scrutiny — being unusual enough to warrant testing — while failing the second stage, which is demonstrating properties that require a non-human explanation.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-2-dark.svg" | relative_url }}" alt="Materials Test illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The gap between "unusual" and "alien"
@@ -313,7 +309,6 @@ This outcome illustrates a broader pattern in UFO investigations. A material can
 A recurring problem in UFO material claims is that the evidential burden rises sharply at each stage.
 
 A sample may be:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,7 +324,6 @@ None of those factors alone establish a non-human origin.
 The TTSA material debate often became blurred because supporters and critics were discussing different questions. Supporters asked whether the material deserved investigation. Critics asked whether the material proved alien technology. A sample can satisfy the first question while failing the second.
 
 That distinction is also reflected in broader government reviews. The Pentagon's All-domain Anomaly Resolution Office, or AARO, reported that it had found no verified evidence that examined materials represented extraterrestrial technology and no evidence supporting claims of successful reverse engineering of non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[3U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span> Department of War 3AARO
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f1LylzKZC-U" title="Art&#x27;s Parts 1: UFO Crash Recovery Material Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f1LylzKZC-U" target="_blank" rel="noopener noreferrer">Art&#x27;s Parts 1: UFO Crash Recovery Material Analysis</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion &middot; Views: 1.4K &middot; Uploaded: April 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f1LylzKZC-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f1LylzKZC-U">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +341,6 @@ This creates a credibility problem that laboratory testing alone cannot solve.
 
 Even if a sample displays unusual characteristics, researchers still need to know:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Where it originated.
@@ -361,8 +354,7 @@ Without that chain, a positive test result can only establish unusual properties
 
 For Puthoff, this is where the strongest and weakest parts of his reputation meet. His background gives him access to networks of investigators, contractors and intelligence-linked figures who can obtain unusual claims and unusual objects. That access is real and documented. But access does not remove the need for rigorous provenance. The TTSA materials story demonstrates that institutional interest, classified connections and laboratory testing can all coexist without producing proof of non-human technology.
 
-In that sense, the materials episode neither fully vindicates nor fully discredits Puthoff. It shows why he remains influential in UAP discussions: he is often close to the claims that attract official attention. It also shows why critics remain unconvinced: the transition from intriguing material to verified extraordinary evidence has not been publicly demonstrated. The testing generated data, but the chain of custody and the interpretation of that data remained the central unresolved issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro releases lab report on alleged alien metamaterial.13548</span><span class="citation-popover-snippet">MetabunkAARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</span></span></span>
-
+In that sense, the materials episode neither fully vindicates nor fully discredits Puthoff. It shows why he remains influential in UAP discussions: he is often close to the claims that attract official attention. It also shows why critics remain unconvinced: the transition from intriguing material to verified extraordinary evidence has not been publicly demonstrated. The testing generated data, but the chain of custody and the interpretation of that data remained the central unresolved issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro releases lab report on alleged alien metamaterial.13548</span><span class="citation-popover-snippet">AARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-3-dark.svg" | relative_url }}" alt="Materials Test illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_ttsa_materials_testi_31509d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -483,15 +475,15 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWA 18210 Diogenite Meteorite 22.3 g Large Display Specimen - Orthopyroxene rich"><img src="https://i.ebayimg.com/images/g/h2oAAeSwf8FqE3Rg/s-l225.jpg" alt="Listing image for NWA 18210 Diogenite Meteorite 22.3 g Large Display Specimen - Orthopyroxene rich" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">NWA 18210 Diogenite Meteorite 22.3 g Large Display Specimen - Orthopyroxene rich</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +491,15 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Meteorite Specimen 3g Authentic Space Rock in Protective Display Case"><img src="https://i.ebayimg.com/images/g/qVYAAeSwsr5pw3Hl/s-l225.jpg" alt="Listing image for Genuine Meteorite Specimen 3g Authentic Space Rock in Protective Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">Genuine Meteorite Specimen 3g Authentic Space Rock in Protective Display Case</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +507,15 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo Del Cielo Meteorite 30.86g In Specimen Display Case"><img src="https://i.ebayimg.com/images/g/EcwAAeSwlTJpoKwX/s-l225.jpg" alt="Listing image for Campo Del Cielo Meteorite 30.86g In Specimen Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo Del Cielo Meteorite 30.86g In Specimen Display Case</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +523,15 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Canyon Diablo Meteorite Specimen In Display Case"><img src="https://i.ebayimg.com/images/g/bcQAAeSwVXRpCqT9/s-l225.jpg" alt="Listing image for Vintage Canyon Diablo Meteorite Specimen In Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">Vintage Canyon Diablo Meteorite Specimen In Display Case</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite display specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite display specimen</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +539,7 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books -dvd" data-ebay-reference="materials-test-when-testing-ufo-material-proves-less-hal-puthoff-ufo-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+display+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-testing-ufo-material-proves-less-meteorite-display-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display specimen" data-ebay-reference="when-testing-ufo-material-proves-less-meteorite-display-specimen" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,129 +755,129 @@ In that sense, the materials episode neither fully vindicates nor fully discredi
 1. <a id="endnote-1"></a>
    Source: metabunk.org  
    Title: aaro releases lab report on alleged alien metamaterial.13548  
-   Link: [https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/](https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — Although the origin, chain of custody, and ultimate purpose o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: people.com  
-   Link: [https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655](https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655)  
+   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — It&#x27;s up to the people who claim extraterrestrials / alien craft / extra dimensional b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tothestars.media  
    Title: To The Stars*Material of Interest: Magnesium-Zinc-Bismuth  
-   Link: [https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOopNb4CFPCtdy8cEvizbxsFnYgMP-zMXsQ8t3koVlBDritBa9_Yt](https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOopNb4CFPCtdy8cEvizbxsFnYgMP-zMXsQ8t3koVlBDritBa9_Yt)  
+   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOopNb4CFPCtdy8cEvizbxsFnYgMP-zMXsQ8t3koVlBDritBa9_Yt" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOopNb4CFPCtdy8cEvizbxsFnYgMP-zMXsQ8t3koVlBDritBa9_Yt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</p></details>
    Published: September 28, 2018  
 
 8. <a id="endnote-8"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims](https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims)  
+   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company](https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company)  
+   Link: <a href="https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneWhat We Know About The Army Teaming Up With Rockstar...18 Oct 2019 — The Army says it will be exploring &quot;novel materials&quot; an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: popularmechanics.com  
-   Link: [https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/](https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/)  
+   Link: <a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: to the stars academy of arts and science has acquired multiple pieces of metamat  
-   Link: [https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/](https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/)  
+   Link: <a href="https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/holofractographic/posts/to-the-stars-academy-of-arts-and-science-has-acquired-multiple-pieces-of-metamat/2610094432335087/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Science has acquired...In October 2019, Tom DeLonge&#x27;s company, To The Stars Academy of Arts &amp; Science (...</p></details>
    Published: October 2019  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/](https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Sciences). More...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: badufos.blogspot.com  
    Title: Read more  
-   Link: [https://badufos.blogspot.com/2019/10/to-stars-seeking-government-grants-to.html](https://badufos.blogspot.com/2019/10/to-stars-seeking-government-grants-to.html)  
+   Link: <a href="https://badufos.blogspot.com/2019/10/to-stars-seeking-government-grants-to.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2019/10/to-stars-seeking-government-grants-to.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;To The Stars&quot; Seeking Government Grants to Warp Space...17 Oct 2019 — 17, 2019 — To The Stars Academy of Arts &amp; Science (TTSA) announce...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: sec.gov  
-   Link: [https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm](https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>securities and exchange commissionHal Puthoff and Dr. Eric Davis, our own scientists, to meet with the laboratory to discuss the results...</p></details>
+   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>urities and exchange commissionHal Puthoff and Dr. Eric Davis, our own scientists, to meet with the laboratory to discuss the results...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/](https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/)  
+   Link: <a href="https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge&#x27;s UFO Research Group Signs Contract With...21 Oct 2019 — The group, called To the Stars Academy, just signed an agreement wi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — pentagonsflawed-ufo-report-demands-congressional-action/; Marik von...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newspaceeconomy.ca  
    Title: how should we interpret reports of government held alien technology  
-   Link: [https://newspaceeconomy.ca/2025/11/09/how-should-we-interpret-reports-of-government-held-alien-technology/](https://newspaceeconomy.ca/2025/11/09/how-should-we-interpret-reports-of-government-held-alien-technology/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/11/09/how-should-we-interpret-reports-of-government-held-alien-technology/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/09/how-should-we-interpret-reports-of-government-held-alien-technology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial materials have existed in the past or exist currently.... The Hynek UFO Report: The Authoritative Account of the Projec...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103](https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103)  
+   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>recovery of material from 1952 UFO incident.... I Used an LLM to Analyze 140,000...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial orig...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AARO report points out that UAP sightings and beliefs that UFOs represent alien...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: The AARO report is more devastating than it appears  
-   Link: [https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/](https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ba646n/the_aaro_report_is_more_devastating_than_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufo... alien however this report does not convince me that the phenomenon does not exist.... No Evidence of Extraterrestrials&quot; in. 0:3...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: [https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/](https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/)  
+   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 11, 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and ha...</p></details>

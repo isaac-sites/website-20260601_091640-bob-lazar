@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: Propulsion
 title: How Specific Was The Craft Claim?
-title_full: How Specific Was The Craft Claim? | Lazar
+title_full: How Specific Was The Craft Claim?
 display_title_short: Propulsion
 display_title: Propulsion
 heading_title: How Specific Was The Craft Claim?
@@ -289,7 +289,7 @@ next_link:
   permalink: /s-4-claim/
   short_title: S 4 Claim
   heading_title: Was S 4 More Than A Story?
-date: '2026-06-09 02:51:44 '
+date: '2026-06-11 21:00:40 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview.webp
@@ -298,36 +298,33 @@ image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview-soci
 
 ## Introduction
 
-Bob Lazar’s reverse-engineered craft story is unusually specific: he says he was not merely told that UFOs existed, but was hired to help understand the propulsion system of a recovered non-human craft at a hidden site he called S-4, near Area 51. In his account, the US programme had nine disc-shaped vehicles, one of which he called the “Sport Model”, and the key technical mystery was a compact gravity-based propulsion system powered by a stable form of [element 115]({{ 'element-115/' | relative_url }}). The claim matters because its specificity gives supporters something concrete to point to, while also giving sceptics clear points to test. The result is stark: Lazar’s mechanism is detailed enough to be memorable, but the core hardware, workplace records, physical samples and scientific predictions needed to substantiate it have not been publicly produced. Modern official [UAP reviews]({{ 'uap-reviews/' | relative_url }}) have also reported no empirical evidence that the US government or private companies have reverse-engineered extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
-
+Bob Lazar’s reverse-engineered craft story is unusually specific: he says he was not merely told that UFOs existed, but was hired to help understand the propulsion system of a recovered non-human craft at a hidden site he called S-4, near Area 51. In his account, the US programme had nine disc-shaped vehicles, one of which he called the “Sport Model”, and the key technical mystery was a compact gravity-based propulsion system powered by a stable form of [element 115]({{ 'element-115/' | relative_url }}). The claim matters because its specificity gives supporters something concrete to point to, while also giving sceptics clear points to test. The result is stark: Lazar’s mechanism is detailed enough to be memorable, but the core hardware, workplace records, physical samples and scientific predictions needed to substantiate it have not been publicly produced. Modern official [UAP reviews]({{ 'uap-reviews/' | relative_url }}) have also reported no empirical evidence that the US government or private companies have reverse-engineered extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview.webp" | relative_url }}" alt="Overview image for Propulsion" loading="eager" decoding="sync" fetchpriority="high">
 ## The nine-craft and Sport Model story
 
-Lazar’s craft claim has always centred on a hidden reverse-engineering setting rather than an ordinary sighting. In the 1989 KLAS-TV story as later summarised by HowStuffWorks, Lazar said he worked in an S-4 section associated with the Nevada Test Site and had read about an “anti-gravity reactor” before seeing nine flying discs described as extraterrestrial in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Bob Lazar, UFO Hoaxster | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Bob Lazar, UFO Hoaxster | How Stuff Works</span></span></span>
+Lazar’s craft claim has always centred on a hidden reverse-engineering setting rather than an ordinary sighting. In the 1989 KLAS-TV story as later summarised by HowStuffWorks, Lazar said he worked in an S-4 section associated with the Nevada Test Site and had read about an “anti-gravity reactor” before seeing nine flying discs described as extraterrestrial in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Bob Lazar, UFO Hoaxster &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Bob Lazar, UFO Hoaxster &#124; How Stuff Works</span></span></span>
 
-The most developed version of that story appears in Lazar’s 1991 video account, often circulated as *The Lazar Tape and Excerpts from the Government Bible*. In that account, he says he had partial views of nine discs at S-4, but describes one in particular because he claimed to have seen two of its three interior levels and to have watched it operate in flight. He called this craft the “[Sport Model]({{ 'sport-model/' | relative_url }})”, describing it as roughly 16 feet tall and 40 feet across, with a metallic exterior resembling unpolished stainless steel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+The most developed version of that story appears in Lazar’s 1991 video account, often circulated as *The Lazar Tape and Excerpts from the Government Bible*. In that account, he says he had partial views of nine discs at S-4, but describes one in particular because he claimed to have seen two of its three interior levels and to have watched it operate in flight. He called this craft the “[Sport Model]({{ 'sport-model/' | relative_url }})”, describing it as roughly 16 feet tall and 40 feet across, with a metallic exterior resembling unpolished stainless steel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
-That level of detail is important for credibility assessment. A vague story about “alien craft” is hard to test; Lazar’s version makes claims about layout, dimensions, components, fuel, work assignment and operating behaviour. He says the lower level contained three [gravity amplifiers]({{ 'gravity-drive/' | relative_url }}) and amplifier guides, while the reactor sat above them on the middle level. He also claims the middle level included control consoles, small seats and an interior archway that became transparent when the craft was energised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+That level of detail is important for credibility assessment. A vague story about “alien craft” is hard to test; Lazar’s version makes claims about layout, dimensions, components, fuel, work assignment and operating behaviour. He says the lower level contained three gravity amplifiers and amplifier guides, while the reactor sat above them on the middle level. He also claims the middle level included control consoles, small seats and an interior archway that became transparent when the craft was energised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 The difficulty is that none of those craft-specific details has been independently verified in a way that would satisfy ordinary evidential standards. The existence of Area 51 and Groom Lake as a real classified aviation environment is well supported: the National Security Archive’s 2013 release of a CIA history noted newly declassified references to Area 51 and Groom Lake, including a map, in the context of U-2 and OXCART reconnaissance programmes. But that supports the reality of a secret aircraft-testing setting, not the existence of Lazar’s S-4 hangars, nine discs or Sport Model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span>
 
 For supporters, the setting still matters. Lazar placed his story in a real ecosystem of secrecy, restricted airspace and experimental aviation, where outsiders could not easily check what was happening. For sceptics, that same secrecy can make the story unfalsifiable: almost any missing record can be explained as classification or erasure, while the available declassified record points to advanced human aerospace work rather than recovered non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-1-dark.svg" | relative_url }}" alt="Propulsion illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gravity propulsion in Lazar’s account
 
-Lazar’s propulsion story has three linked parts: a power source, a gravity-generating effect and a flight-control system. He says the craft used a reactor fuelled by element 115. In his explanation, element 115 was bombarded with protons, became element 116, then decayed and released antimatter. That antimatter, he said, annihilated with matter to produce heat, which was converted into electrical energy by a highly efficient thermoelectric system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+Lazar’s propulsion story has three linked parts: a power source, a gravity-generating effect and a flight-control system. He says the craft used a reactor fuelled by element 115. In his explanation, element 115 was bombarded with protons, became element 116, then decayed and released antimatter. That antimatter, he said, annihilated with matter to produce heat, which was converted into electrical energy by a highly efficient thermoelectric system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
-He then links this power system to gravity. In the 1991 account, Lazar says the element 115 fuel was both the source of a “gravity A wave” and the target bombarded in the reactor. The craft’s three gravity amplifiers supposedly amplified and focused that wave, enabling the vehicle to distort space-time and move without conventional propulsion. In plain terms, Lazar is not describing a jet, rocket, ion drive or known aerospace technology; he is describing a machine that allegedly creates or manipulates gravity as a field effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+He then links this power system to gravity. In the 1991 account, Lazar says the element 115 fuel was both the source of a “gravity A wave” and the target bombarded in the reactor. The craft’s three gravity amplifiers supposedly amplified and focused that wave, enabling the vehicle to distort space-time and move without conventional propulsion. In plain terms, Lazar is not describing a jet, rocket, ion drive or known aerospace technology; he is describing a machine that allegedly creates or manipulates gravity as a field effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
-That is why the story became so durable in UFO culture. It offers a mechanism for the familiar claim that some UFOs accelerate, hover or change direction in ways that seem beyond ordinary aircraft. Instead of saying simply “aliens have better engines”, Lazar offers a specific explanation: the craft does not push against air or expel propellant, but changes its relationship to gravity and space-time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+That is why the story became so durable in UFO culture. It offers a mechanism for the familiar claim that some UFOs accelerate, hover or change direction in ways that seem beyond ordinary aircraft. Instead of saying simply “aliens have better engines”, Lazar offers a specific explanation: the craft does not push against air or expel propellant, but changes its relationship to gravity and space-time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 The problem is that the mechanism does not connect cleanly to established public science. Antimatter exists, and matter-antimatter annihilation can release enormous energy, but Lazar’s chain from element 115 to element 116 to controlled antimatter production, then to compact gravity amplification, is not supported by open experimental evidence. NASA’s 2023 UAP independent study report made a broader but relevant point: there is no conclusive peer-reviewed evidence suggesting an extraterrestrial origin for UAP, and eyewitness reports alone are usually not reproducible or information-rich enough to determine a phenomenon’s origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not prove Lazar’s account false in a strict logical sense. A classified programme, by definition, might not be visible in open literature. But it does mean the public evidence burden is unmet. A working gravity propulsion system would require more than a witness narrative: it would need traceable hardware, measurements, repeatable demonstrations, engineering documentation or credible institutional records connecting Lazar to the claimed programme.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5aiag1li9XI" title="Bob Lazar’s Explosive Area 51 Revelations: Did America Hide Aliens? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5aiag1li9XI" target="_blank" rel="noopener noreferrer">Bob Lazar’s Explosive Area 51 Revelations: Did America Hide Aliens? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 10.0K &middot; Uploaded: August 2025 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5aiag1li9XI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5aiag1li9XI">Open on YouTube</a></p></div></div></div>
 
@@ -335,19 +332,18 @@ This does not prove Lazar’s account false in a strict logical sense. A classif
 
 Element 115 is often treated by Lazar’s supporters as his strongest technical point because he spoke about it before it was officially named moscovium. That argument needs careful handling. In 2016, the International Union of Pure and Applied Chemistry approved the name moscovium, symbol Mc, for element 115, after the discovery claims for elements 113, 115, 117 and 118 had been accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iupac.org">[IUPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iupac.org</span><span class="citation-popover-title">Announces the Names of the Elements 113, 115, 117, and 118</span><span class="citation-popover-snippet">Announces the Names of the Elements 113, 115, 117, and 118</span></span></span>
 
-But predicting that an element with atomic number 115 could exist was not the same as predicting Lazar’s claimed fuel. Elements are ordered by proton number, so a future element 115 was a natural expectation in nuclear chemistry long before it was synthesised and named. The real Lazar-specific claim was stronger: that there was a stable isotope of element 115, available in usable quantity, with properties that could power a compact gravity-drive reactor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+But predicting that an element with atomic number 115 could exist was not the same as predicting Lazar’s claimed fuel. Elements are ordered by proton number, so a future element 115 was a natural expectation in nuclear chemistry long before it was synthesised and named. The real Lazar-specific claim was stronger: that there was a stable isotope of element 115, available in usable quantity, with properties that could power a compact gravity-drive reactor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 Publicly known moscovium does not match that claim. It is a synthetic superheavy element produced atom by atom in nuclear experiments, not a stable engineering material available by the hundreds of pounds. The broader scientific search for an “island of stability” does allow for the possibility that some superheavy isotopes may live longer than nearby nuclei, and Lawrence Livermore National Laboratory describes the island of stability as a predicted region where special neutron and proton numbers could give superheavy elements increased stability. However, “increased stability” in this context does not automatically mean a stable, machinable, long-lived fuel suitable for a spacecraft reactor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.llnl.gov/article/36246/setting-sail-toward-island-stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[Lawrence Livermore National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This distinction is central. Lazar’s statement was not merely “science will one day make element 115”. It was that he had handled or observed a stable material with extraordinary gravitational and reactor properties. In his 1991 explanation, he even described element 115 being machined into triangular pieces and inserted into the reactor, and said 223 grams could last 20 to 30 years, while also acknowledging he had not personally tested that full-duration claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+This distinction is central. Lazar’s statement was not merely “science will one day make element 115”. It was that he had handled or observed a stable material with extraordinary gravitational and reactor properties. In his 1991 explanation, he even described element 115 being machined into triangular pieces and inserted into the reactor, and said 223 grams could last 20 to 30 years, while also acknowledging he had not personally tested that full-duration claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 For a reader assessing credibility, element 115 cuts both ways. It gives Lazar’s story a memorable technical hook and a point of apparent foresight. But once the claim is stated precisely, the public evidence gap becomes larger, not smaller: no stable isotope sample has been produced, no independent laboratory analysis has been published, and no documented chain of custody exists for any alleged piece of the fuel.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-2-dark.svg" | relative_url }}" alt="Propulsion illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reverse engineering is the most important word in the claim
 
-Lazar’s story depends on the idea of a reverse-engineering programme: taking finished hardware apart to understand how it works. In the 1991 account, he explicitly frames his job in those terms, saying the goal was to determine whether the technology could be duplicated with Earth materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+Lazar’s story depends on the idea of a reverse-engineering programme: taking finished hardware apart to understand how it works. In the 1991 account, he explicitly frames his job in those terms, saying the goal was to determine whether the technology could be duplicated with Earth materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 That framing gives the story a different shape from a simple crash-retrieval rumour. Lazar is not mainly claiming to have recovered a craft, negotiated with aliens or run a broad disclosure effort. He presents himself as a narrowly placed technical worker brought into one compartment of a much larger project. That makes the story more plausible to some listeners because real classified programmes often are compartmented, and workers may know only their small part.
 
@@ -357,7 +353,6 @@ AARO’s 2024 historical record report is directly relevant here. It says the of
 
 AARO’s report is not a personalised adjudication of every detail Lazar has ever claimed, and sceptics of the office argue that a government review may not satisfy those who already suspect a deep cover-up. Still, as public evidence, it weighs against the broad reverse-engineering narrative into which Lazar’s story fits. It is especially relevant because Lazar’s claim is not only that a craft existed, but that an organised US programme studied its propulsion system.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoecOE2RKdk" title="Alien Fuel at Area 51: Bob Lazar’s Shocking Claims | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer">Alien Fuel at Area 51: Bob Lazar’s Shocking Claims | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 10.0K &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoecOE2RKdk">Open on YouTube</a></p></div></div></div>
 
 ## What would count as strong evidence?
@@ -365,7 +360,6 @@ AARO’s report is not a personalised adjudication of every detail Lazar has eve
 The evidence needed for Lazar’s propulsion claim is not mysterious. Because his account is technical, the best evidence would be technical and traceable. A clear public test would not require proving every part of UFO history; it would require substantiating the mechanism he described.
 
 The strongest forms of evidence would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,11 +373,10 @@ The strongest forms of evidence would include:
 
 At present, the public case falls far short of that threshold. The most persuasive supporting material tends to concern the plausibility of the setting — Area 51’s real secrecy, Lazar’s claimed Los Alamos connection, and his long consistency in retelling the broad story — rather than direct proof of the Sport Model or its propulsion system. The strongest contrary material is the absence of independently verified hardware, the mismatch between known moscovium and Lazar’s stable-fuel claim, and official findings that have not found empirical evidence for alien-technology reverse engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iupac.org">[IUPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iupac.org</span><span class="citation-popover-title">Announces the Names of the Elements 113, 115, 117, and 118</span><span class="citation-popover-snippet">Announces the Names of the Elements 113, 115, 117, and 118</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-3-dark.svg" | relative_url }}" alt="Propulsion illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fairest credibility reading
 
-The craft and propulsion story is the most concrete part of [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s public identity, and also the most vulnerable to evidence-based scrutiny. It is concrete because Lazar did not stop at saying “I saw something strange”; he described nine craft, a particular Sport Model, a reactor, gravity amplifiers, element 115 fuel, antimatter production and a reverse-engineering assignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</span></span></span>
+The craft and propulsion story is the most concrete part of Bob Lazar’s public identity, and also the most vulnerable to evidence-based scrutiny. It is concrete because Lazar did not stop at saying “I saw something strange”; he described nine craft, a particular Sport Model, a reactor, gravity amplifiers, element 115 fuel, antimatter production and a reverse-engineering assignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary &#124; Sozai...</span></span></span>
 
 It is vulnerable because specific technical claims invite specific verification. Public science has since recognised element 115 as moscovium, but not in the stable, useful form Lazar described. Publicly available official UAP reviews have not confirmed recovered extraterrestrial craft or reverse-engineering programmes. The declassified history of Area 51 supports the reality of a secret aerospace environment, but not Lazar’s claimed non-human hardware programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iupac.org">[IUPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iupac.org</span><span class="citation-popover-title">Announces the Names of the Elements 113, 115, 117, and 118</span><span class="citation-popover-snippet">Announces the Names of the Elements 113, 115, 117, and 118</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
@@ -391,91 +384,47 @@ A balanced assessment should therefore avoid two common mistakes. The first is t
 
 The best current judgement is that Lazar’s propulsion narrative remains an influential, unusually specific and culturally important claim, but not a demonstrated account of real non-human technology. Its evidential status is best described as unverified and contradicted in important ways by the absence of public physical proof, by the known behaviour of moscovium, and by modern official reviews that report no empirical support for extraterrestrial reverse-engineering claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BoJmd2MIpOk" title="UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer">UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 924.5K &middot; Uploaded: April 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BoJmd2MIpOk">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Specific Was The Craft Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Specific Was The Craft Claim?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains Lazar&#x27;s descriptions of the craft, Sport Model and propulsion system.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for secret aerospace programs and testing culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
-        
-        <p class="fr-book-desc">Examines speculative technologies often compared with UFO propulsion claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides broader investigative context for extraordinary craft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -512,15 +461,15 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="https://i.ebayimg.com/images/g/XdMAAeSwI0hpurgs/s-l225.jpg" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +477,15 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="https://i.ebayimg.com/images/g/-wcAAOSwiNpnGi53/s-l225.jpg" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +493,15 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="{{ '/assets/images/marketplace-covers/32eaf37ac580c4bfbed4.jpg' | relative_url }}" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +509,15 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="{{ '/assets/images/marketplace-covers/e10bcd19dc0cef39ab27.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +525,7 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="propulsion-how-specific-was-the-craft-claim-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-specific-was-the-craft-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-specific-was-the-craft-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -792,141 +741,141 @@ The best current judgement is that Lazar’s propulsion narrative remains an inf
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Bob Lazar, UFO Hoaxster | How Stuff Works  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: iupac.org  
    Title: Announces the Names of the Elements 113, 115, 117, and 118  
-   Link: [https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/)  
+   Link: <a href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.howstuffworks.com  
    Title: element 115  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/element-115.htm](https://science.howstuffworks.com/space/aliens-ufos/element-115.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/science/doe-explainssuperheavy-elements](https://www.energy.gov/science/doe-explainssuperheavy-elements)  
+   Link: <a href="https://www.energy.gov/science/doe-explainssuperheavy-elements" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/science/doe-explainssuperheavy-elements</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: sozai.app  
    Title: lazar tape government bible 1991  
-   Link: [https://sozai.app/transcript/lazar-tape-government-bible-1991/](https://sozai.app/transcript/lazar-tape-government-bible-1991/)  
+   Link: <a href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow">https://sozai.app/transcript/lazar-tape-government-bible-1991/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soz AI Note TakerThe Lazar Tape... and Excerpts from the Government Bible, 1991 — Transcript &amp; Summary | Sozai...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 11. <a id="endnote-11"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: llnl.gov  
-   Link: [https://www.llnl.gov/article/36246/setting-sail-toward-island-stability](https://www.llnl.gov/article/36246/setting-sail-toward-island-stability)  
+   Link: <a href="https://www.llnl.gov/article/36246/setting-sail-toward-island-stability" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/article/36246/setting-sail-toward-island-stability</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://simple.wikipedia.org/wiki/Moscovium](https://simple.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://simple.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Moscovium</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moscovium](https://en.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Island of stability  
-   Link: [https://en.wikipedia.org/wiki/Island_of_stability](https://en.wikipedia.org/wiki/Island_of_stability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Island_of_stability</a>  
 
 17. <a id="endnote-17"></a>
    Source: iupac.cnr.it  
-   Link: [https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118](https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118)  
+   Link: <a href="https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118" target="_blank" rel="noopener noreferrer nofollow">https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118</a>  
 
 18. <a id="endnote-18"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
-   Link: [https://pubchem.ncbi.nlm.nih.gov/element/Moscovium](https://pubchem.ncbi.nlm.nih.gov/element/Moscovium)  
+   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
 
 19. <a id="endnote-19"></a>
    Source: periodic-table.rsc.org  
-   Link: [https://periodic-table.rsc.org/element/115/moscovium](https://periodic-table.rsc.org/element/115/moscovium)  
+   Link: <a href="https://periodic-table.rsc.org/element/115/moscovium" target="_blank" rel="noopener noreferrer nofollow">https://periodic-table.rsc.org/element/115/moscovium</a>  
 
 20. <a id="endnote-20"></a>
    Source: particle-nuclear.lu.se  
    Title: superheavy elements  
-   Link: [https://www.particle-nuclear.lu.se/experimental-particle-and-nuclear-physics/nuclear-structure/superheavy-elements](https://www.particle-nuclear.lu.se/experimental-particle-and-nuclear-physics/nuclear-structure/superheavy-elements)  
+   Link: <a href="https://www.particle-nuclear.lu.se/experimental-particle-and-nuclear-physics/nuclear-structure/superheavy-elements" target="_blank" rel="noopener noreferrer nofollow">https://www.particle-nuclear.lu.se/experimental-particle-and-nuclear-physics/nuclear-structure/superheavy-elements</a>  
 
 21. <a id="endnote-21"></a>
    Source: villanovachemistry.wordpress.com  
-   Link: [https://villanovachemistry.wordpress.com/moscovium/](https://villanovachemistry.wordpress.com/moscovium/)  
+   Link: <a href="https://villanovachemistry.wordpress.com/moscovium/" target="_blank" rel="noopener noreferrer nofollow">https://villanovachemistry.wordpress.com/moscovium/</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mgGO_O8k2nE](https://www.youtube.com/watch?v=mgGO_O8k2nE)  
+   Link: <a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5aiag1li9XI](https://www.youtube.com/watch?v=5aiag1li9XI)  
+   Link: <a href="https://www.youtube.com/watch?v=5aiag1li9XI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5aiag1li9XI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Fuel at Area 51: Bob Lazar&#x27;s Shocking Claims | WION Podcast...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BoJmd2MIpOk](https://www.youtube.com/watch?v=BoJmd2MIpOk)  
+   Link: <a href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BoJmd2MIpOk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s Explosive Area 51 Revelations: Did America Hide Aliens? | WION Podcast...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Alien Fuel at Area 51: Bob Lazar's Shocking Claims | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=NoecOE2RKdk](https://www.youtube.com/watch?v=NoecOE2RKdk)  
+   Link: <a href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoecOE2RKdk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report](https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report)  
+   Link: <a href="https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/](https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/</a>  
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba](https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba)  
+   Link: <a href="https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/](https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/</a>  
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac](https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac)  
+   Link: <a href="https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac</a>

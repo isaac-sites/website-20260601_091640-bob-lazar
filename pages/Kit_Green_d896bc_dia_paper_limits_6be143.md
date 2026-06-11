@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-kit-greens-uap-story/
 nav_short_title: DIA Paper
 title: What Does Green's DIA Paper Actually Prove?
-title_full: What Does Green's DIA Paper Actually Prove? | Green
+title_full: What Does Green's DIA Paper Actually Prove?
 display_title_short: DIA Paper
 display_title: DIA Paper
 heading_title: What Does Green's DIA Paper Actually Prove?
@@ -289,7 +289,7 @@ next_link:
   permalink: /injury-claims/
   short_title: Injury Claims
   heading_title: Did UAP Encounters Really Injure People?
-date: '2026-06-09 03:00:12 '
+date: '2026-06-11 21:05:32 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview-social.j
 
 ## Introduction
 
-[Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s DIA-linked injury paper proves something narrower, but still important, than many headlines suggest. It proves that a real Defense Intelligence Reference Document, later released through official DIA channels, treated alleged UAP-related human injuries as a subject for medical and biophysical analysis. It also supports the claim that Green’s UAP role was not merely rumour: his own public comments and the document’s content place him in the “human effects” side of [AAWSAP]({{ 'aawsap/' | relative_url }})-era research. What it does not prove is that UAP caused those injuries, that the emitters were non-human, or that the cases had a clean public chain of custody. Green himself later stressed that the injuries he assessed could be explained by known terrestrial means and did not amount to evidence of extraterrestrial or non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
-
+Kit Green’s DIA-linked injury paper proves something narrower, but still important, than many headlines suggest. It proves that a real Defense Intelligence Reference Document, later released through official DIA channels, treated alleged UAP-related human injuries as a subject for medical and biophysical analysis. It also supports the claim that Green’s UAP role was not merely rumour: his own public comments and the document’s content place him in the “human effects” side of [AAWSAP]({{ 'aawsap/' | relative_url }})-era research. What it does not prove is that UAP caused those injuries, that the emitters were non-human, or that the cases had a clean public chain of custody. Green himself later stressed that the injuries he assessed could be explained by known terrestrial means and did not amount to evidence of extraterrestrial or non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview.webp" | relative_url }}" alt="Overview image for DIA Paper" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is central to Green’s credibility. The paper is one of the strongest public anchors for his involvement in government-adjacent UAP medical research, because it is not just an anecdote or a podcast claim. Yet it is also a clear example of the limit of documentary evidence in this field: an official-looking document can be real while still relying on incomplete case histories, unpublished medical material, disputed programme context and hypotheses that outrun the public evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
@@ -312,10 +311,9 @@ In plain English, the paper asks a medical-intelligence question: if a person st
 
 The opening case example is not presented as an alien encounter. It describes three “fit and active” antenna engineers who reportedly experienced an anomalous aerospace-related event and then developed signs such as skin redness, fever, pain, headaches, numbness, diarrhoea, loss of hair, insomnia, anxiety, photophobia and eye inflammation. The paper says later investigation suggested accidental exposure to broad-band radiofrequency, non-ionising electromagnetic radiation and microwave energies, centred at about 785 MHz. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-That matters because it reveals the paper’s actual logic. Green was not simply collecting colourful UFO stories; the method was to compare reported symptoms against known injury pathways. The paper repeatedly leans on recognised mechanisms such as heating, burns, specific absorption rate, [microwave exposure]({{ 'microwaves/' | relative_url }}), neurological effects, sensory effects and possible directed-energy analogues. Public health and safety sources support the basic premise that sufficiently intense radiofrequency or microwave exposure can heat tissue and cause burns; the World Health Organization says the main effect of radiofrequency energy is tissue heating, and the FDA similarly warns that high microwave exposure can heat body tissue and cause painful burns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">radiation electromagnetic fields</span><span class="citation-popover-snippet">radiation electromagnetic fields</span></span></span>
+That matters because it reveals the paper’s actual logic. Green was not simply collecting colourful UFO stories; the method was to compare reported symptoms against known injury pathways. The paper repeatedly leans on recognised mechanisms such as heating, burns, specific absorption rate, microwave exposure, neurological effects, sensory effects and possible directed-energy analogues. Public health and safety sources support the basic premise that sufficiently intense radiofrequency or microwave exposure can heat tissue and cause burns; the World Health Organization says the main effect of radiofrequency energy is tissue heating, and the FDA similarly warns that high microwave exposure can heat body tissue and cause painful burns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">radiation electromagnetic fields</span><span class="citation-popover-snippet">radiation electromagnetic fields</span></span></span>
 
 The more controversial part is the leap from “these mechanisms can injure people” to “some anomalous aerospace events may be inferred through injury patterns”. The document says historical cases and acquired medical data support a hypothesis that some advanced systems may already be deployed and not fully understood by the United States. It lists possible effects including heating and burn injuries, ionising and non-ionising radiation effects, neurological effects, neuromuscular effects, sensory effects and neuropsychiatric or neuroendocrine effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-1-dark.svg" | relative_url }}" alt="DIA Paper illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this is real evidence for Green’s UAP role
@@ -327,7 +325,6 @@ Popular Mechanics later reported that it spoke with Green about the paper. Green
 This is one of the strongest public links between Green and UAP research because it has three overlapping anchors: a released DIA document, Green’s own later description of the work, and independent reporting that places the paper within the wider AAWSAP/AATIP document set. The Black Vault’s archive of the released DIRD material lists “Anomalous Acute and Subacute Field Effects on Human Biological Tissues” as officially released and places it among the technical reports associated with the programme; it also gives Green’s biographical context under the author information for that item. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For credibility assessment, that is a meaningful upgrade over hearsay. It shows that Green was not merely a name floating through UFO folklore. He was a technically qualified physician and intelligence veteran whose medical expertise was used, at least contractually, in a UAP-adjacent programme environment. The evidence is strongest on that institutional point: Green really did occupy a role at the junction of medicine, intelligence analysis and anomalous-aerospace claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tvUfdN2fyww" title="UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer">UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 102.9K &middot; Uploaded: April 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tvUfdN2fyww">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +344,6 @@ The public version leaves several major gaps.
 
 This is the central evidential limit: the paper is excellent evidence that Green analysed alleged injuries in a government-funded UAP-adjacent setting, but weak public evidence for the underlying extraordinary cause.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-2-dark.svg" | relative_url }}" alt="DIA Paper illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters and sceptics read the same document
 
@@ -361,7 +357,6 @@ That context does not make Green’s paper false. It does, however, lowers the e
 
 A fair reading sits between those positions. The paper should not be dismissed as fake or irrelevant; it is a real document that clarifies a real part of Green’s role. But it also should not be inflated into a Pentagon admission that UFOs caused radiation burns, brain damage or alien-contact injuries. The most defensible conclusion is narrower: Green was asked to apply forensic medical reasoning to alleged UAP exposure cases, and the public record preserves some of that reasoning while withholding or lacking the case-level evidence needed to test it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OqLLBiq8ppk" title="Skinwalkers at the Pentagon with Dr. Colm Kelleher (Episode 129)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OqLLBiq8ppk" target="_blank" rel="noopener noreferrer">Skinwalkers at the Pentagon with Dr. Colm Kelleher (Episode 129)</a></p><p class="youtube-embed-meta">Channel: Through A Glass Darkly &middot; Views: 4.6K &middot; Uploaded: January 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OqLLBiq8ppk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OqLLBiq8ppk">Open on YouTube</a></p></div></div></div>
 
 ## The strongest and weakest parts of the paper
@@ -374,7 +369,6 @@ The weakest part is case verification. Public readers cannot see the full medica
 
 Another weakness is category drift. The document moves between real-world exposure hazards, alleged UAP close encounters, historical anomalous-event catalogues and possible future aerospace weapons systems. That may be normal in threat-assessment speculation, but it can confuse readers about what has been observed, what is inferred, what is hypothetical and what is merely included for completeness. When a table places burns and eye injuries near claims such as time loss or ESP development, the evidential quality of the dataset becomes uneven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-3-dark.svg" | relative_url }}" alt="DIA Paper illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What it means for Green’s credibility
 
@@ -384,9 +378,7 @@ At the same time, the paper narrows rather than expands what can be claimed for 
 
 The best credibility assessment is therefore mixed but not dismissive. The DIA-linked injury paper is a serious public anchor for Green’s involvement in UAP-related medical research. It is also a cautionary example of how far a real document can be stretched by believers, journalists and online discussion. Its value is evidential, not conclusive: it proves Green’s role and the existence of a medical-intelligence line of inquiry, while leaving the decisive questions of causation, source identity and case verification unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9G6HDuLwYWY" title="Rare Multi-Subreddit AMA with Leslie Kean, Dr. Garry Nolan, Dr. Hal Puthoff, and Dr. Jim Segala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9G6HDuLwYWY" target="_blank" rel="noopener noreferrer">Rare Multi-Subreddit AMA with Leslie Kean, Dr. Garry Nolan, Dr. Hal Puthoff, and Dr. Jim Segala</a></p><p class="youtube-embed-meta">Channel: The Anomalous Coalition &middot; Views: 128.1K &middot; Uploaded: January 2025 &middot; Length: 2 hours 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9G6HDuLwYWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9G6HDuLwYWY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -505,15 +497,15 @@ The best credibility assessment is therefore mixed but not dismissive. The DIA-l
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ The best credibility assessment is therefore mixed but not dismissive. The DIA-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +529,31 @@ The best credibility assessment is therefore mixed but not dismissive. The DIA-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,7 +561,7 @@ The best credibility assessment is therefore mixed but not dismissive. The DIA-l
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-green-s-dia-paper-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-green-s-dia-paper-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -769,163 +777,163 @@ The best credibility assessment is therefore mixed but not dismissive. The DIA-l
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: who.int  
    Title: radiation electromagnetic fields  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields](https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields</a>  
 
 4. <a id="endnote-4"></a>
    Source: fda.gov  
    Title: microwave ovens  
-   Link: [https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens](https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens)  
+   Link: <a href="https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens</a>  
 
 5. <a id="endnote-5"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/medical-devices/safety-communications/potential-risks-certain-uses-radiofrequency-rf-microneedling-fda-safety-communication](https://www.fda.gov/medical-devices/safety-communications/potential-risks-certain-uses-radiofrequency-rf-microneedling-fda-safety-communication)  
+   Link: <a href="https://www.fda.gov/medical-devices/safety-communications/potential-risks-certain-uses-radiofrequency-rf-microneedling-fda-safety-communication" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/safety-communications/potential-risks-certain-uses-radiofrequency-rf-microneedling-fda-safety-communication</a>  
 
 9. <a id="endnote-9"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/electromagnetic-fields](https://www.who.int/health-topics/electromagnetic-fields)  
+   Link: <a href="https://www.who.int/health-topics/electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/electromagnetic-fields</a>  
 
 10. <a id="endnote-10"></a>
    Source: who.int  
-   Link: [https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/emf](https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/emf)  
+   Link: <a href="https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/emf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/emf</a>  
 
 11. <a id="endnote-11"></a>
    Source: today.wayne.edu  
    Title: chinese academy of sciences apppoints dr green as professor 25373  
-   Link: [https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373](https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373)  
+   Link: <a href="https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373" target="_blank" rel="noopener noreferrer nofollow">https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
 
 15. <a id="endnote-15"></a>
    Source: foia.gov  
-   Link: [https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&type=component](https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&type=component)  
+   Link: <a href="https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Anomalous Acute and Subacute Field Effects on Human Biological Tissues  
-   Link: [http://www.youtube.com/watch?v=sUkzQFtd1cw](http://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="http://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL Secret UFO Program | Advanced Aerospace Weapons Systems Application Program (AAWSAP)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Are UFOs Real?  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: theblackvault.com  
    Title: the 1976 iran incident  
-   Link: [https://www.theblackvault.com/casefiles/the-1976-iran-incident/](https://www.theblackvault.com/casefiles/the-1976-iran-incident/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-1976-iran-incident/</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 13 DIRD Warp Drive Dark energy and the Manipulation of Extra Dimensions  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 25. <a id="endnote-25"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=9G6HDuLwYWY](http://www.youtube.com/watch?v=9G6HDuLwYWY)  
+   Link: <a href="http://www.youtube.com/watch?v=9G6HDuLwYWY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9G6HDuLwYWY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute and Subacute Field Effects on Human Biological Tissues&quot; Part 4: #Declassified #Pentagon Report: Man Claims He Was Target...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO & Paranormal Connections + The AAWSAP Legacy: WEAPONIZED: EPISODE #12  
-   Link: [http://www.youtube.com/watch?v=tvUfdN2fyww](http://www.youtube.com/watch?v=tvUfdN2fyww)  
+   Link: <a href="http://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tvUfdN2fyww</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Multi-Subreddit AMA with Leslie Kean, Dr. Garry Nolan, Dr. Hal Puthoff, and Dr. Jim Segala...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=7rM1gbWfnoU](http://www.youtube.com/watch?v=7rM1gbWfnoU)  
+   Link: <a href="http://www.youtube.com/watch?v=7rM1gbWfnoU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7rM1gbWfnoU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the Pentagon with Dr. Colm Kelleher (Episode 129)...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Skinwalkers at the Pentagon with Dr. Colm Kelleher (Episode 129)  
-   Link: [http://www.youtube.com/watch?v=OqLLBiq8ppk](http://www.youtube.com/watch?v=OqLLBiq8ppk)  
+   Link: <a href="http://www.youtube.com/watch?v=OqLLBiq8ppk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OqLLBiq8ppk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &amp; Paranormal Connections + The AAWSAP Legacy: WEAPONIZED: EPISODE #12...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 31. <a id="endnote-31"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/niosh/hhe/reports/pdfs/2011-0097-3200.pdf](https://www.cdc.gov/niosh/hhe/reports/pdfs/2011-0097-3200.pdf)  
+   Link: <a href="https://www.cdc.gov/niosh/hhe/reports/pdfs/2011-0097-3200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/hhe/reports/pdfs/2011-0097-3200.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/niosh/hhe/reports/pdfs/80-219-775.pdf](https://www.cdc.gov/niosh/hhe/reports/pdfs/80-219-775.pdf)  
+   Link: <a href="https://www.cdc.gov/niosh/hhe/reports/pdfs/80-219-775.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/hhe/reports/pdfs/80-219-775.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393873629_Health_and_safety_practices_and_policies_concerning_human_exposure_to_RFmicrowave_radiation](https://www.researchgate.net/publication/393873629_Health_and_safety_practices_and_policies_concerning_human_exposure_to_RFmicrowave_radiation)  
+   Link: <a href="https://www.researchgate.net/publication/393873629_Health_and_safety_practices_and_policies_concerning_human_exposure_to_RFmicrowave_radiation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393873629_Health_and_safety_practices_and_policies_concerning_human_exposure_to_RFmicrowave_radiation</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WBTWNews13/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159745644652902/](https://www.facebook.com/WBTWNews13/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159745644652902/)  
+   Link: <a href="https://www.facebook.com/WBTWNews13/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159745644652902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WBTWNews13/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159745644652902/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>

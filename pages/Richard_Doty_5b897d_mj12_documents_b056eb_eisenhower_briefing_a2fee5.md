@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /mj-12/
 nav_short_title: Eisenhower Papers
 title: How Reliable Are the Eisenhower MJ 12 Briefing Papers?
-title_full: How Reliable Are the Eisenhower MJ 12 Briefing Papers? | MJ 12
+title_full: How Reliable Are the Eisenhower MJ 12 Briefing Papers?
 display_title_short: Eisenhower Papers
 display_title: Eisenhower Papers
 heading_title: How Reliable Are the Eisenhower MJ 12 Briefing Papers?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Are the MJ 12 Documents So Disputed? | Doty
+parent_title: Why Are the MJ 12 Documents So Disputed?
 parent_permalink: /mj-12/
 parent_nav_short_title: MJ 12
 parent_heading_title: Why Are the MJ 12 Documents So Disputed?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /doty-influence/
   short_title: Doty Influence
   heading_title: How Richard Doty Shaped MJ 12 Beliefs Among Researchers
-date: '2026-06-09 02:54:52 '
+date: '2026-06-11 21:02:51 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_brief
 
 The alleged MJ-12 Eisenhower briefing paper is often presented as the strongest document in the Majestic-12 archive because it appears to provide a detailed, official briefing prepared for President-elect Dwight Eisenhower in November 1952. Yet its credibility depends less on what the document says than on whether anyone can establish where it came from, who possessed it before publication, and whether it can be traced into genuine government records.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1-dark.svg" | relative_url }}" alt="Eisenhower Papers illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-On that question, the evidence is weak. The document entered public circulation through an anonymous delivery rather than a documented archival release. Subsequent reviews by the FBI, the Air Force, the National Archives, and presidential library staff failed to locate an authenticated government record matching the briefing paper. Critics identified a series of provenance, formatting, signature, and timeline problems, while [supporters]({{ 'supporters/' | relative_url }}) argued that some details were obscure enough to suggest insider knowledge. The chain-of-custody issue remains central because without a verifiable path from a government archive to the public domain, authenticity becomes extremely difficult to demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">FBIMajestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
+On that question, the evidence is weak. The document entered public circulation through an anonymous delivery rather than a documented archival release. Subsequent reviews by the FBI, the Air Force, the National Archives, and presidential library staff failed to locate an authenticated government record matching the briefing paper. Critics identified a series of provenance, formatting, signature, and timeline problems, while [supporters]({{ 'supporters/' | relative_url }}) argued that some details were obscure enough to suggest insider knowledge. The chain-of-custody issue remains central because without a verifiable path from a government archive to the public domain, authenticity becomes extremely difficult to demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
 
 ## How the Eisenhower Briefing Paper Entered the Public Record
 
@@ -280,7 +279,6 @@ A genuine classified document can contain surprising information, but authentici
 
 The Eisenhower briefing paper lacks several elements normally expected in authenticated presidential-era records:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * No original document has been produced publicly.
@@ -293,16 +291,15 @@ The Eisenhower briefing paper lacks several elements normally expected in authen
 
 For supporters of MJ-12, secrecy itself is often offered as an explanation for these gaps. Critics respond that secrecy may explain missing records but does not solve the problem that the document's provenance remains unverified.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4VHdP_DdAUs" title="Ross Coulthart asks: Did JFK know about UFOs? | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer">Ross Coulthart asks: Did JFK know about UFOs? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 503.8K &middot; Uploaded: August 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4VHdP_DdAUs">Open on YouTube</a></p></div></div></div>
 
 ## What the FBI and Air Force Found
 
 Federal agencies examined the MJ-12 material after it became widely known in the late 1980s.
 
-The FBI opened files on the matter partly because documents marked as highly classified had entered circulation. Investigators sought to determine whether the material represented a genuine security breach or a fabricated document set. The resulting FBI records show that the Bureau consulted the Air Force Office of Special Investigations. According to those records, AFOSI advised that no such committee had been authorised or established and characterised the documents as bogus. The FBI ultimately adopted the same assessment in its file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">FBIMajestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
+The FBI opened files on the matter partly because documents marked as highly classified had entered circulation. Investigators sought to determine whether the material represented a genuine security breach or a fabricated document set. The resulting FBI records show that the Bureau consulted the Air Force Office of Special Investigations. According to those records, AFOSI advised that no such committee had been authorised or established and characterised the documents as bogus. The FBI ultimately adopted the same assessment in its file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
 
-Importantly, this was not a formal proof that every statement within the briefing paper was false. Rather, it reflected the government's inability to verify the documents as authentic records and its conclusion that the papers should not be treated as genuine classified government documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">FBIMajestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
+Importantly, this was not a formal proof that every statement within the briefing paper was false. Rather, it reflected the government's inability to verify the documents as authentic records and its conclusion that the papers should not be treated as genuine classified government documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
 
 For chain-of-custody analysis, the significance is straightforward: investigators searching for institutional confirmation found none.
 
@@ -315,7 +312,6 @@ According to archival [statements]({{ 'statements/' | relative_url }}), searches
 Supporters frequently point to the so-called Cutler–Twining memorandum discovered in National Archives holdings as evidence that MJ-12 references existed in government files. However, even that document became part of the controversy rather than a resolution of it. Questions arose regarding filing procedures, contextual records, and whether the memo had been inserted into archival collections after its purported creation. The document's existence in an archive did not establish the authenticity of the Eisenhower briefing paper itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 The broader archival result remained negative: despite extensive searches, no authenticated archival trail connecting the Eisenhower briefing document to presidential records was found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — The National Archives has received numerous inquiries conce...</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-2-dark.svg" | relative_url }}" alt="Eisenhower Papers illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Format and Signature Problems
@@ -336,17 +332,15 @@ Researchers examining the related Cutler–Twining memo noted that Robert Cutler
 
 Timeline issues do not automatically prove forgery. Records can be misdated, drafts can be prepared in advance, and administrative practices can be misunderstood. Nevertheless, when chronology problems appear alongside missing provenance and absent archival confirmation, they become part of a cumulative case against authenticity rather than isolated anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Mystery of Majestic 12</span><span class="citation-popover-snippet">Discovery UK14 May 2024 — Several government departments refuted their authenticity, the FBI declaring them “completely bogus.” The Natio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zq0Ae3eO5Lw" title="Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw" target="_blank" rel="noopener noreferrer">Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 767.2K &middot; Uploaded: September 2018 &middot; Length: 4 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Assessing Richard Doty
 
-The Eisenhower briefing paper is relevant to [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})'s credibility not because he is known to have created it, but because MJ-12 emerged within the same broader environment of UFO intelligence claims, anonymous documents, and alleged disinformation operations that surrounded figures such as Doty, Bill Moore, and Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) during the 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+The Eisenhower briefing paper is relevant to Richard Doty's credibility not because he is known to have created it, but because MJ-12 emerged within the same broader environment of UFO intelligence claims, anonymous documents, and alleged disinformation operations that surrounded figures such as Doty, Bill Moore, and Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) during the 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 No publicly available evidence demonstrates that Doty authored the Eisenhower briefing paper. However, the document's anonymous origin and disputed custody history mirror broader concerns about information channels associated with intelligence-linked UFO narratives from that period. The inability to establish who introduced the document into circulation, why it appeared when it did, and whether it originated inside or outside government institutions leaves substantial room for competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 For credibility analysis, the key point is that the Eisenhower briefing paper does not independently validate claims made by Doty or other UFO insiders. Because its provenance remains unresolved and official reviews failed to authenticate it, the document functions as disputed evidence rather than corroboration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
@@ -362,94 +356,51 @@ The most durable facts are these:
 * No authenticated original has been publicly produced.
 * Federal agencies did not authenticate the material.
 * National Archives searches failed to locate supporting archival records for the briefing paper itself.
-* Researchers identified multiple formatting, signature, and timeline concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Mystery of Majestic 12</span><span class="citation-popover-snippet">Discovery UK14 May 2024 — Several government departments refuted their authenticity, the FBI declaring them “completely bogus.” The Natio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">FBIMajestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — The National Archives has received numerous inquiries conce...</span></span></span>
+* Researchers identified multiple formatting, signature, and timeline concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Mystery of Majestic 12</span><span class="citation-popover-snippet">Discovery UK14 May 2024 — Several government departments refuted their authenticity, the FBI declaring them “completely bogus.” The Natio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — The National Archives has received numerous inquiries conce...</span></span></span>
 
 As a result, the Eisenhower briefing paper remains one of the most famous documents in UFO history but also one of the clearest examples of how a missing chain of custody can prevent a document from achieving historical credibility, regardless of how compelling its contents may appear.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-3-dark.svg" | relative_url }}" alt="Eisenhower Papers illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Reliable Are the Eisenhower MJ 12 Briefing Papers?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Reliable Are the Eisenhower MJ 12 Briefing Papers?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Addresses intelligence narratives and contested UFO documents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Useful for evaluating anonymous-source documents and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
-        </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
-        
-        <p class="fr-book-desc">Provides historical context for how disputed material circulated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard M. Dolan</p>
-        
-        <p class="fr-book-desc">Covers historical government-UFO narratives relevant to MJ-12.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,15 +437,15 @@ As a result, the Eisenhower briefing paper remains one of the most famous docume
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,31 +453,15 @@ As a result, the Eisenhower briefing paper remains one of the most famous docume
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,7 +469,7 @@ As a result, the Eisenhower briefing paper remains one of the most famous docume
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-reliable-are-the-eisenhower-mj-12-briefing-papers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,89 +685,89 @@ As a result, the Eisenhower briefing paper remains one of the most famous docume
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://en.wikipedia.org/wiki/Majestic_12](https://en.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
 2. <a id="endnote-2"></a>
    Source: vault.fbi.gov  
    Title: Majestic 12  
-   Link: [https://vault.fbi.gov/Majestic%2012](https://vault.fbi.gov/Majestic%2012)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBIMajestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</p></details>
+   Link: <a href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Majestic%2012</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — The National Archives has received numerous inquiries conce...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Maji  
-   Link: [https://archive.org/stream/majiall337/Maji%20all_djvu.txt](https://archive.org/stream/majiall337/Maji%20all_djvu.txt)  
+   Link: <a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12 and the United States Government&#x27;s UFO Cover-Up (Marlowe and Co., 2005 [1996]. For discussion of the Eisenhower Briefing Docu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Mystery of Majestic 12  
-   Link: [https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/](https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK14 May 2024 — Several government departments refuted their authenticity, the FBI declaring them “completely bogus.” The Natio...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/154832.pdf](https://www.gao.gov/assets/154832.pdf)  
+   Link: <a href="https://www.gao.gov/assets/154832.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/154832.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Comments on Majestic 12 Material]I&#x27;?:. We also asked the archivists at the HarryS. Truman and. Dwight D. Eisenhower libraries for theirv...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: eyeofthepsychic.com  
-   Link: [https://www.eyeofthepsychic.com/majestic12/](https://www.eyeofthepsychic.com/majestic12/)  
+   Link: <a href="https://www.eyeofthepsychic.com/majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/majestic12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12: Majestic, or Incredulous?When it was developed, the film turned out to be photos of eight pages from a November 8, 1952 Briefing D...</p></details>
    Published: November 8, 1952  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rjk5ms/reddit_user_umajesticjehovah_has_proven_that_the/](https://www.reddit.com/r/UFOs/comments/1rjk5ms/reddit_user_umajesticjehovah_has_proven_that_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rjk5ms/reddit_user_umajesticjehovah_has_proven_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rjk5ms/reddit_user_umajesticjehovah_has_proven_that_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit User u/MAJESTICJEHOVAH has proven that the MJ...Whoever originally &quot;leaked&quot; the MJ-12 documents to Jaime Shandera (the film instr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pod.wave.co  
    Title: Upon developing, he and UFO researcher Bill Moore found 8 “top secret”  
-   Link: [https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1](https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1)  
+   Link: <a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wave.co610: Majestic 12 | Secret Documents Expose UFO Cover-Up...6 Sept 2025 — In 1984, film producer Jamie Shandere received an anonymo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qpmov3/the_days_the_dci_slipped_the_cia_diary_entries/](https://www.reddit.com/r/UFOs/comments/1qpmov3/the_days_the_dci_slipped_the_cia_diary_entries/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qpmov3/the_days_the_dci_slipped_the_cia_diary_entries/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qpmov3/the_days_the_dci_slipped_the_cia_diary_entries/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Diary Entries that Prove MJ-12&#x27;s Creation: r/UFOsOn September 23, 1947, Hillenkoetter&#x27;s diary captures a directive so specific i...</p></details>
    Published: September 23, 1947  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/this-week-on-reality-check-ross-coulthart-geoff-cruickshank-and-jed-davis-discus/973691921704492/](https://www.facebook.com/NewsNationNow/posts/this-week-on-reality-check-ross-coulthart-geoff-cruickshank-and-jed-davis-discus/973691921704492/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/this-week-on-reality-check-ross-coulthart-geoff-cruickshank-and-jed-davis-discus/973691921704492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/this-week-on-reality-check-ross-coulthart-geoff-cruickshank-and-jed-davis-discus/973691921704492/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce supporting MJ-12&#x27;s existence emerged. The forged papers...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/](https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elligence community created best fake documents ever. MV203.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Final-Report-Operation-Majestic-12/dp/1976368294](https://www.amazon.com/Final-Report-Operation-Majestic-12/dp/1976368294)  
+   Link: <a href="https://www.amazon.com/Final-Report-Operation-Majestic-12/dp/1976368294" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Final-Report-Operation-Majestic-12/dp/1976368294</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>demic papers, which informed his future book on the topic. It should...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1t0usd7/new_research_suggests_original_majestic_12_mj12/](https://www.reddit.com/r/ufo/comments/1t0usd7/new_research_suggests_original_majestic_12_mj12/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t0usd7/new_research_suggests_original_majestic_12_mj12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t0usd7/new_research_suggests_original_majestic_12_mj12/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oax, but considering they still get thrown around on News...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Zq0Ae3eO5Lw](https://www.youtube.com/watch?v=Zq0Ae3eO5Lw)  
+   Link: <a href="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq0Ae3eO5Lw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>

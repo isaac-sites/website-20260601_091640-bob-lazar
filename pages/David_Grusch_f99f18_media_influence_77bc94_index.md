@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-media-influence/
 description: Focused pages that expand on Influence.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: David_Grusch_f99f18_media_influence_77bc94
-parent_title: Influence | How Credible Is David Grusch?
+parent_title: Influence
 parent_nav_short_title: Influence
 parent_permalink: /influence/
 ---

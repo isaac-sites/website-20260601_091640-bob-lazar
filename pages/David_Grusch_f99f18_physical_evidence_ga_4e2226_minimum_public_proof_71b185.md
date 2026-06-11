@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /proof-gap-7e7572/
 nav_short_title: Proof Package
 title: What public proof would change the debate?
-title_full: What public proof would change the debate? | Proof Gap
+title_full: What public proof would change the debate?
 display_title_short: Proof Package
 display_title: Proof Package
 heading_title: What public proof would change the debate?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Is the Public Evidence? | Grusch
+parent_title: Where Is the Public Evidence?
 parent_permalink: /proof-gap-7e7572/
 parent_nav_short_title: Proof Gap
 parent_heading_title: Where Is the Public Evidence?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /photo-proof/
   short_title: Photo Proof
   heading_title: Would a UFO photo actually prove Grusch right?
-date: '2026-06-09 02:53:23 '
+date: '2026-06-11 21:01:47 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1.webp
@@ -256,13 +256,12 @@ image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_pu
 
 ## Introduction
 
-The argument around [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }}) is no longer mainly about whether he held real intelligence and UAP-related positions. Much of that [background]({{ 'background/' | relative_url }}) is publicly documented. The sharper question is what kind of public evidence would move the discussion beyond testimony and competing institutional claims.
-
+The argument around David Grusch is no longer mainly about whether he held real intelligence and UAP-related positions. Much of that [background]({{ 'background/' | relative_url }}) is publicly documented. The sharper question is what kind of public evidence would move the discussion beyond testimony and competing institutional claims.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1-dark.svg" | relative_url }}" alt="Proof Package illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Grusch says he was told by current and former officials about a hidden crash-retrieval and reverse-engineering programme involving non-human technology. He has also said that he provided classified information to inspectors general and congressional investigators. Yet the central dispute remains unchanged: outsiders cannot inspect the evidence he says exists. Supporters argue that the strongest material is trapped behind classification barriers. Sceptics argue that extraordinary claims require a public evidential package, not just reports of classified briefings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cla...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
 
-For a claim as large as recovered non-human technology, the minimum proof threshold is higher than a witness statement or even [sworn testimony]({{ 'sworn-testimony/' | relative_url }}). A usable public record would need identifiable [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}), documented provenance, named custodians and independently checkable technical analysis. Without those elements, the debate remains largely about trust in institutions and witnesses rather than inspection of evidence itself.
+For a claim as large as recovered non-human technology, the minimum proof threshold is higher than a witness statement or even [sworn testimony]({{ 'sworn-testimony/' | relative_url }}). A usable public record would need identifiable physical evidence, documented provenance, named custodians and independently checkable technical analysis. Without those elements, the debate remains largely about trust in institutions and witnesses rather than inspection of evidence itself.
 
 ## The four parts of a usable public record
 
@@ -284,7 +283,6 @@ Even a genuinely unusual material means little without provenance.
 
 A chain of custody would need to show:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Where the object was allegedly recovered.
@@ -299,7 +297,6 @@ A chain of custody would need to show:
 This is the bridge between a story and a verifiable artefact. Without it, critics can reasonably argue that a sample may be misidentified, contaminated, incorrectly attributed or detached from its claimed origin.
 
 In legal, intelligence and scientific settings, provenance often matters as much as the object itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +314,6 @@ A public record would also require documentation explaining why the object is co
 
 Such a file might include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Materials analysis.
@@ -334,14 +330,12 @@ The key test is whether outside specialists can review the same material and rea
 
 A technical file does not need to prove extraterrestrial origin. It only needs to establish that something exists which cannot easily be explained through known terrestrial programmes or conventional misidentification.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-2-dark.svg" | relative_url }}" alt="Proof Package illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a photograph alone would not resolve the dispute
 
 Many public discussions assume that a dramatic image would end the argument. History suggests otherwise.
 
 Photographs can be altered, stripped of context, miscaptioned or misinterpreted. Even authentic images often fail to answer the most important questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,7 +350,6 @@ A photograph becomes powerful only when attached to a broader evidential framewo
 
 This is one reason why even supporters of Grusch often argue that the most important issue is access to classified records rather than release of isolated images. A photograph without provenance would probably generate another cycle of debate rather than broad consensus.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kwsWAQ9sJZE" title="Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer">Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)</a></p><p class="youtube-embed-meta">Channel: Yes Theory &middot; Views: 1.5M &middot; Uploaded: October 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kwsWAQ9sJZE">Open on YouTube</a></p></div></div></div>
 
 ## How redaction could protect secrets while proving custody
@@ -368,7 +361,6 @@ That objection has some force. Governments routinely protect classified informat
 However, classification and public proof are not necessarily incompatible.
 
 A partially redacted disclosure could theoretically establish provenance without revealing sensitive operational details. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +375,6 @@ This is common in national security [oversight]({{ 'oversight/' | relative_url }
 
 The practical question is not whether every secret can be revealed. It is whether enough information can be released to demonstrate that a claimed object, programme or recovery event actually existed.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-3-dark.svg" | relative_url }}" alt="Proof Package illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sworn testimony is not the same as public proof
 
@@ -395,10 +386,9 @@ Yet testimony and proof remain different categories.
 
 A witness statement can establish that a claim was made sincerely. It does not automatically establish that the underlying claim is true. Courts, scientific investigations and intelligence reviews all distinguish between witness accounts and independently verifiable evidence.
 
-Grusch's own public statements have often reflected this distinction. His congressional testimony largely described information he said he received from other people rather than physical evidence he personally brought into public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThis is the written &quot;opening statement&quot; submitted by David...25 Jul 2023 — But as I stand here under oath now, I am speaking to th...</span></span></span>
+Grusch's own public statements have often reflected this distinction. His congressional testimony largely described information he said he received from other people rather than physical evidence he personally brought into public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is the written &quot;opening statement&quot; submitted by David...25 Jul 2023 — But as I stand here under oath now, I am speaking to th...</span></span></span>
 
 That leaves the public in an unusual position: asked to evaluate allegations about evidence that remains inaccessible.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y0Sjv30bCio" title="Key moments at House UFO transparency hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer">Key moments at House UFO transparency hearing</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.2M &middot; Uploaded: September 2025 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y0Sjv30bCio">Open on YouTube</a></p></div></div></div>
 
@@ -407,7 +397,6 @@ That leaves the public in an unusual position: asked to evaluate allegations abo
 The debate is often framed as a binary choice between believing Grusch and dismissing him. In reality, the credibility question is more incremental.
 
 Several developments would significantly alter the evidential landscape:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,7 +420,7 @@ What it does not contain is the minimum proof package that would allow independe
 
 No publicly available sample has been subjected to transparent, replicable analysis tied to a documented recovery history. No public chain of custody has been released. No responsible institution has publicly acknowledged holding such material. No authenticated technical dossier has been made available for independent review.
 
-Meanwhile, official reviews from the Pentagon's All-domain Anomaly Resolution Office have publicly stated that they found no verifiable evidence that the US government or contractors possessed extraterrestrial technology or operated confirmed reverse-engineering programmes involving non-human craft. Those conclusions remain contested by Grusch's supporters, but they underline the evidential gap rather than resolving it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
+Meanwhile, official reviews from the Pentagon's All-domain Anomaly Resolution Office have publicly stated that they found no verifiable evidence that the US government or contractors possessed extraterrestrial technology or operated confirmed reverse-engineering programmes involving non-human craft. Those conclusions remain contested by Grusch's supporters, but they underline the evidential gap rather than resolving it. [U.S. Department of War+2U.S. Department of War]
 
 That gap explains why the argument continues. The issue is not simply whether evidence exists somewhere in classified channels. It is whether enough of that evidence can be transformed into a public record that independent experts, journalists, scientists and ordinary readers can inspect for themselves. Until that happens, the case remains centred on testimony about evidence rather than evidence that can be publicly tested.
 
@@ -447,16 +436,16 @@ That gap explains why the argument continues. The issue is not simply whether ev
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On This Day In UFO History... on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2705818-M.jpg" alt="Cover for On This Day In UFO History..." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On This Day In UFO History...">On This Day In UFO History...</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Dave Blevins</p>
         
-        <p class="fr-book-desc">Presents evidence claims and official testimony that readers can evaluate.</p>
+        <p class="fr-book-desc">First published 1999.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -464,16 +453,16 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Directly addresses standards of proof, verification and scientific scrutiny.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -481,16 +470,16 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open THE NEW JERSEY ENIGMA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tnA7EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for THE NEW JERSEY ENIGMA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="THE NEW JERSEY ENIGMA">THE NEW JERSEY ENIGMA</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Ignotus</p>
         
-        <p class="fr-book-desc">Discusses what evidence might exist and why it remains disputed.</p>
+        <p class="fr-book-desc">The New Jersey Enigma: Decoding the UFO Drone Phenomenon takes readers on a gripping journey into one of the most puzzling events of our...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -498,16 +487,16 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2000 UFO, Alien and Extraterrestrial Government Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3035749-M.jpg" alt="Cover for 2000 UFO, Alien and Extraterrestrial Government Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+          <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2000 UFO, Alien and Extraterrestrial Government Files">2000 UFO, Alien and Extraterrestrial Government Files</a>
         </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on how claims gain momentum without conclusive proof.</p>
+        <p class="fr-book-author">By United States</p>
+        
+        <p class="fr-book-desc">First published 2000.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -515,7 +504,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On This Day In UFO History...</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">THE NEW JERSEY ENIGMA</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -552,15 +541,15 @@ That gap explains why the argument continues. The issue is not simply whether ev
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +557,15 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +573,31 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +605,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-public-proof-would-change-the-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-public-proof-would-change-the-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -815,118 +820,118 @@ That gap explains why the argument continues. The issue is not simply whether ev
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/](https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis is the written &quot;opening statement&quot; submitted by David...25 Jul 2023 — But as I stand here under oath now, I am speaking to th...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/159i257/congress_update_this_is_the_written_opening/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the written &quot;opening statement&quot; submitted by David...25 Jul 2023 — But as I stand here under oath now, I am speaking to th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-[hearing](https://time.com/6298287/congress-ufo-[hearing)  
+   Link: <a href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-[hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Intelligence Officials Say U.S  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/141cxbi/intelligence_officials_say_us_has_retrieved_craft/](https://www.reddit.com/r/HighStrangeness/comments/141cxbi/intelligence_officials_say_us_has_retrieved_craft/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/141cxbi/intelligence_officials_say_us_has_retrieved_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/141cxbi/intelligence_officials_say_us_has_retrieved_craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...I&#x27;m wondering if this was the article that was supposed to run in the Washington Post. Perhaps they ended...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/141z5x6/analysis_of_latest_ufo_claims_david_grusch_and/](https://www.reddit.com/r/skeptic/comments/141z5x6/analysis_of_latest_ufo_claims_david_grusch_and/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/141z5x6/analysis_of_latest_ufo_claims_david_grusch_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/141z5x6/analysis_of_latest_ufo_claims_david_grusch_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of latest UFO claims (David Grusch and The Debrief)Beginning in 2022, Grusch provided Congress with hours of recorded classified...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: David Grusch testified before US Congress: Yes, US govt  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/](https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>has Alien Crafts, he knows their location &amp; Non-Human Intelligence has Harmed Human &quot;...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/](https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>any reported UAP sighting has represented extraterrestrial...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cla...</p></details>
    Published: July 2021  
 
 11. <a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/](https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/)  
+   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — A new Pentagon UAP report says it found no evidence of extrat...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm](https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...16 Dec 2025 — File:2023 House Oversight and Accountability Hearin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sean-allen-418071a1_intelligence-officials-say-us-has-retrieved-activity-7071485565325496320-btqy](https://www.linkedin.com/posts/sean-allen-418071a1_intelligence-officials-say-us-has-retrieved-activity-7071485565325496320-btqy)  
+   Link: <a href="https://www.linkedin.com/posts/sean-allen-418071a1_intelligence-officials-say-us-has-retrieved-activity-7071485565325496320-btqy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sean-allen-418071a1_intelligence-officials-say-us-has-retrieved-activity-7071485565325496320-btqy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Allen&#x27;s PostSeems like it will be a busy week. I hope David Grusch stays safe. UPDATE: minutes after article goes up, website goes down...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/ok-wtf-is-going-on-with-the-intact-craft-of-non-human-origin-allegedly-recovered-by-the-us-government/](https://www.vice.com/en/article/ok-wtf-is-going-on-with-the-intact-craft-of-non-human-origin-allegedly-recovered-by-the-us-government/)  
+   Link: <a href="https://www.vice.com/en/article/ok-wtf-is-going-on-with-the-intact-craft-of-non-human-origin-allegedly-recovered-by-the-us-government/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ok-wtf-is-going-on-with-the-intact-craft-of-non-human-origin-allegedly-recovered-by-the-us-government/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OK, WTF Is Going on With the &#x27;Intact Craft of Non-Human...6 Jun 2023 — A former US intelligence officer has claimed that the US is secre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-house-oversight-uap-hearing-grusch-2023-david-grusch-opening-statement](https://ufotransparency.com/files/decade-2020s-house-oversight-uap-hearing-grusch-2023-david-grusch-opening-statement)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-house-oversight-uap-hearing-grusch-2023-david-grusch-opening-statement" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-house-oversight-uap-hearing-grusch-2023-david-grusch-opening-statement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House...8 May 2026 — The statement is delivered under oath, carrying legal weight that distinguishes it from unsworn public claims or me...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear testim...</p></details>
    Published: June 26, 2023  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: david grusch a former usaf intelligence officer testified in a 2023 congressiona  
-   Link: [https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/](https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/)  
+   Link: <a href="https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch, a former USAF intelligence officer, testified...David Grusch, a former USAF intelligence officer, testified in a 2023 cong...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-c7fa00/
 nav_short_title: Known causes
 title: Could ordinary physics explain the injuries?
-title_full: Could ordinary physics explain the injuries? | Supporters
+title_full: Could ordinary physics explain the injuries?
 display_title_short: Known causes
 display_title: Known causes
 heading_title: Could ordinary physics explain the injuries?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Some Researchers Trust Green? | Green
+parent_title: Why Do Some Researchers Trust Green?
 parent_permalink: /supporters-c7fa00/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Do Some Researchers Trust Green?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /health-reports/
   short_title: Health reports
   heading_title: Did officials later take UAP injuries seriously?
-date: '2026-06-09 03:00:28 '
+date: '2026-06-11 21:05:46 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mecha
 
 ## Introduction
 
-One reason some [supporters]({{ 'supporters-c7fa00/' | relative_url }}) view [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) as a more credible figure than many UFO personalities is that he has often framed alleged UAP-related injuries as a medical and forensic problem rather than proof of extraterrestrial technology. In public discussions of his work, and in the Defence Intelligence Agency-linked report commonly associated with him, the emphasis is not that mysterious injuries automatically imply non-human craft. The emphasis is that unusual symptoms should first be analysed through known biological and physical mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
-
+One reason some [supporters]({{ 'supporters-c7fa00/' | relative_url }}) view Kit Green as a more credible figure than many UFO personalities is that he has often framed alleged UAP-related injuries as a medical and forensic problem rather than proof of extraterrestrial technology. In public discussions of his work, and in the Defence Intelligence Agency-linked report commonly associated with him, the emphasis is not that mysterious injuries automatically imply non-human craft. The emphasis is that unusual symptoms should first be analysed through known biological and physical mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1-dark.svg" | relative_url }}" alt="Known causes illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. Green's strongest defenders argue that his approach was essentially diagnostic: if witnesses reported burns, neurological symptoms, cognitive disruption, dizziness, sensory disturbances or tissue damage, the first question was whether recognised forms of electromagnetic exposure, thermal injury, radiation effects, toxic exposure or neurological trauma could explain the findings. The claim was not that every case had such an explanation, but that credible investigation starts there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
@@ -269,7 +268,6 @@ The best-known document associated with Green is the report often published unde
 Supporters point to this as evidence of caution. The report's core question is not "Were these people exposed to extraterrestrials?" but rather "What kinds of physical processes could produce these observed injuries?" That shifts the discussion from belief to mechanism.
 
 In practical terms, Green's framework asks questions familiar to forensic medicine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,21 +281,19 @@ In practical terms, Green's framework asks questions familiar to forensic medici
 
 Those are ordinary clinical questions. Even critics who reject UAP interpretations generally acknowledge that this style of inquiry is more rigorous than treating witness testimony alone as proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iT8W6kaD-RA" title="Dr. Glen Jeffery: Using Red Light to Improve Your Health &amp; the Harmful Effects of LEDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iT8W6kaD-RA" target="_blank" rel="noopener noreferrer">Dr. Glen Jeffery: Using Red Light to Improve Your Health &amp; the Harmful Effects of LEDs</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 329.2K &middot; Uploaded: December 2025 &middot; Length: 2 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iT8W6kaD-RA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iT8W6kaD-RA">Open on YouTube</a></p></div></div></div>
 
 ## Electromagnetic pathways and the microwave hypothesis
 
 The mechanism most frequently discussed around Green's injury work involves electromagnetic energy. The report explores whether directed or intense electromagnetic fields could account for some reported effects on skin, nerves and cognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
-This is where supporters often stress that Green was not proposing magic physics. Electromagnetic fields are known to interact with biological tissue. The scientific literature documents several recognised pathways, including tissue heating, nerve stimulation and effects on sensory perception under particular exposure conditions. Reviews of radiofrequency and [microwave exposure]({{ 'microwaves/' | relative_url }}) have examined possible neurological effects, changes in neuronal activity and cognitive symptoms, although many findings remain debated and exposure-response relationships are often uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPossible Effects of Radiofrequency Electromagnetic Field...by JH Kim · 2018 · Cited by 285 — It has been found that RF-EMF can induce...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Radiation and the Brain: Mechanisms, Current...by S Mumtaz · 2022 · Cited by 155 — In this review, recent approaches examining the effec...</span></span></span>
+This is where supporters often stress that Green was not proposing magic physics. Electromagnetic fields are known to interact with biological tissue. The scientific literature documents several recognised pathways, including tissue heating, nerve stimulation and effects on sensory perception under particular exposure conditions. Reviews of radiofrequency and microwave exposure have examined possible neurological effects, changes in neuronal activity and cognitive symptoms, although many findings remain debated and exposure-response relationships are often uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Possible Effects of Radiofrequency Electromagnetic Field...by JH Kim · 2018 · Cited by 285 — It has been found that RF-EMF can induce...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Radiation and the Brain: Mechanisms, Current...by S Mumtaz · 2022 · Cited by 155 — In this review, recent approaches examining the effec...</span></span></span>
 
 One frequently cited example is the so-called microwave auditory effect, sometimes called the Frey effect. Government health reviews have noted that sufficiently intense radiofrequency pulses can produce clicking or buzzing sensations perceived inside the head. That phenomenon is accepted in the scientific literature and demonstrates that electromagnetic energy can generate unusual sensory experiences without conventional sound waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7e0ebded915d74e6223d46/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Health Effects from Radiofrequency Electromagnetic Fields</span><span class="citation-popover-snippet">set in current exposure guidelines can cause thermal injury to tissues. The highest occupational levels of exposure to RF pulses can caus...</span></span></span>
 
 Supporters argue that Green's willingness to discuss electromagnetic mechanisms makes his position more restrained than many assume. Instead of claiming impossible technologies, he examined whether some injury reports resembled the effects expected from powerful but fundamentally terrestrial energy sources.
 
 [Sceptics]({{ 'sceptics-078368/' | relative_url }}) counter that the existence of electromagnetic effects does not validate specific UAP cases. Demonstrating that a mechanism is possible is different from proving it occurred in any individual incident. That remains one of the central limitations of the evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12631800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govRadiation-induced Brain Injury and the Radiation Late Effects...by BJ Johnson · 2025 · Cited by 4 — Late-delayed radiation-induce...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-2-dark.svg" | relative_url }}" alt="Known causes illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Thermal injury and tissue damage
@@ -308,16 +304,15 @@ High-energy electromagnetic exposure can produce heating within biological tissu
 
 Green's supporters often highlight this point because it illustrates the difference between a mechanism and a conclusion. If a witness reports a burn after an encounter, a forensic investigator does not begin with spacecraft identification. The first task is to determine whether the injury resembles known heat damage, chemical exposure, electrical injury or another recognised category.
 
-The same logic applies to radiation-related claims. Some symptoms discussed in UAP injury narratives resemble effects associated with various forms of radiation exposure, including headaches, fatigue, nausea and neurological complaints. Yet those symptoms are also non-specific and can emerge from many unrelated causes. Medical investigation therefore becomes a process of elimination rather than confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK586463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBILow-Dose Radiation Exposures and Health Effects</span><span class="citation-popover-snippet">NCBI2022 — The committee discusses current epidemiological evidence on health effects that are associated with low doses of radiation and...</span></span></span>
+The same logic applies to radiation-related claims. Some symptoms discussed in UAP injury narratives resemble effects associated with various forms of radiation exposure, including headaches, fatigue, nausea and neurological complaints. Yet those symptoms are also non-specific and can emerge from many unrelated causes. Medical investigation therefore becomes a process of elimination rather than confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK586463/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBILow-Dose Radiation Exposures and Health Effects</span><span class="citation-popover-snippet">2022 — The committee discusses current epidemiological evidence on health effects that are associated with low doses of radiation and...</span></span></span>
 
 This cautious posture is one reason Green's supporters distinguish his work from more sensational accounts. The emphasis is on differential diagnosis rather than extraordinary certainty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MgrzW43Mv2g" title="The Truth Behind Cell Phones, 5G &amp; Cancer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MgrzW43Mv2g" target="_blank" rel="noopener noreferrer">The Truth Behind Cell Phones, 5G &amp; Cancer</a></p><p class="youtube-embed-meta">Channel: Math and Science &middot; Views: 12.6K &middot; Uploaded: January 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MgrzW43Mv2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MgrzW43Mv2g">Open on YouTube</a></p></div></div></div>
 
 ## Neurological effects and cognitive symptoms
 
-The neurological dimension is especially important because Green's professional background included neurophysiology and brain-imaging work. Supporters argue that this gave him a practical framework for assessing reports involving memory disruption, concentration problems, headaches, dizziness and sensory abnormalities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/people/kit-green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">kit green</span><span class="citation-popover-snippet">DisclosdexKit Green | DisclosdexUnder the 2008–10 AAWSAP contract Green authored the classified paper Anomalous Acute and Subacute Field...</span></span></span>
+The neurological dimension is especially important because Green's professional background included neurophysiology and brain-imaging work. Supporters argue that this gave him a practical framework for assessing reports involving memory disruption, concentration problems, headaches, dizziness and sensory abnormalities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/people/kit-green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">kit green</span><span class="citation-popover-snippet">Kit Green &#124; DisclosdexUnder the 2008–10 AAWSAP contract Green authored the classified paper Anomalous Acute and Subacute Field...</span></span></span>
 
 Scientific research on electromagnetic exposure has repeatedly explored possible interactions with the nervous system. Reviews have discussed neuronal changes, altered electrical activity and potential cognitive effects, although findings are often mixed and controversial. Some reported effects are small, difficult to reproduce or hard to separate from psychological influences. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://ec.europa.eu/health/scientific_committees/emerging/docs/emf_6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ec.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ec.europa.eu</span><span class="citation-popover-snippet">European CommissionExhibit D: An Update on Neurological Effects of Nonionizing...24 Mar 2014 — An EMF-induced change in brain electrical...</span></span></span>
 
@@ -326,7 +321,6 @@ That uncertainty actually aligns with Green's more restrained reputation among s
 A useful comparison is the later debate surrounding so-called Havana syndrome. Regardless of where one stands on that controversy, it demonstrated how difficult it can be to distinguish between environmental exposure, neurological injury, stress responses, psychological factors and unknown causes when symptoms are real but mechanisms remain disputed. The broader lesson is that unexplained symptoms do not automatically reveal their source. Т-инвариант <span class="citation-chip-wrap"><a class="citation-chip" href="https://t-invariant.org/2026/03/havana-syndrome-forever-the-psychogenic-roots-microwave-mirage-laser-optoacoustic-impact-what-s-going-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t-invariant.org">[T-invariant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t-invariant.org</span><span class="citation-popover-title">Т-инвариант / T-invariant Havana Syndrome — Forever?</span><span class="citation-popover-snippet">The Psychogenic Roots...March 18, 2026 — 18 Mar 2026 — T-invariant examined why the microwave hypothesis has hit a dead end, how the las...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span>
 
 For Green's defenders, that complexity reinforces rather than undermines the value of a forensic approach.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-3-dark.svg" | relative_url }}" alt="Known causes illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why caution can strengthen rather than weaken credibility
@@ -343,11 +337,9 @@ Second, the approach leaves room for ordinary explanations. If a case can be exp
 
 Third, uncertainty is preserved. Green's strongest supporters generally do not argue that his work proved alien involvement. They argue that he approached unusual reports in a way consistent with forensic medicine: identify symptoms, examine mechanisms, compare alternatives and avoid conclusions that outrun the evidence.
 
-That does not resolve the larger debate about UAPs. It does explain why some observers see Green as more than a typical UFO commentator. The case for taking him seriously is not that he confirmed extraordinary origins for reported injuries. It is that he repeatedly treated those injuries as questions that ordinary physics and medicine should attempt to explain before anyone reaches extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/people/kit-green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">kit green</span><span class="citation-popover-snippet">DisclosdexKit Green | DisclosdexUnder the 2008–10 AAWSAP contract Green authored the classified paper Anomalous Acute and Subacute Field...</span></span></span>
-
+That does not resolve the larger debate about UAPs. It does explain why some observers see Green as more than a typical UFO commentator. The case for taking him seriously is not that he confirmed extraordinary origins for reported injuries. It is that he repeatedly treated those injuries as questions that ordinary physics and medicine should attempt to explain before anyone reaches extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/people/kit-green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">kit green</span><span class="citation-popover-snippet">Kit Green &#124; DisclosdexUnder the 2008–10 AAWSAP contract Green authored the classified paper Anomalous Acute and Subacute Field...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpiNnLvWdwg" title="The Science of EMF: Health Risks, Electrohypersensitivity, and Practical Ways to Reduce Exposure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpiNnLvWdwg" target="_blank" rel="noopener noreferrer">The Science of EMF: Health Risks, Electrohypersensitivity, and Practical Ways to Reduce Exposure</a></p><p class="youtube-embed-meta">Channel: Dr. Eleanor Stein MD FRCP (C) &middot; Views: 484 &middot; Uploaded: August 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpiNnLvWdwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpiNnLvWdwg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -466,15 +458,15 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/fd33af58d05158f45604.jpg' | relative_url }}" alt="Listing image for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +474,15 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Funny Car Sticker - Campervan JDM Dub Drift Bumper Window Laptop"><img src="{{ '/assets/images/marketplace-covers/177c5d2419dedd39328c.jpg' | relative_url }}" alt="Listing image for Alien Head Funny Car Sticker - Campervan JDM Dub Drift Bumper Window Laptop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Funny Car Sticker - Campervan JDM Dub Drift Bumper Window Laptop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +490,15 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/1e273888bcb86dc4b850.jpg' | relative_url }}" alt="Listing image for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,15 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/241b6a7792b5a3675193.jpg' | relative_url }}" alt="Listing image for Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien On Board Funny Car Window Bumper Laptop Sticker Paul Movie Vinyl Decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +522,7 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="known-causes-could-ordinary-physics-explain-the-injuries-kit-green-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-physics-explain-the-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="could-ordinary-physics-explain-the-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,127 +738,127 @@ That does not resolve the larger debate about UAPs. It does explain why some obs
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: disclosdex.com  
    Title: kit green  
-   Link: [https://disclosdex.com/people/kit-green](https://disclosdex.com/people/kit-green)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosdexKit Green | DisclosdexUnder the 2008–10 [AAWSAP](&amp;#123;&amp;#123; &#x27;aawsap/&#x27; | relative_url &amp;#125;&amp;#125;) contract Green authored the classified paper Anomalous Acute and Subacute Field...</p></details>
+   Link: <a href="https://disclosdex.com/people/kit-green" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/people/kit-green</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kit Green | DisclosdexUnder the 2008–10 [AAWSAP](&amp;#123;&amp;#123; &#x27;aawsap/&#x27; | relative_url &amp;#125;&amp;#125;) contract Green authored the classified paper Anomalous Acute and Subacute Field...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf](https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf)  
+   Link: <a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveDefense Intelligence Refence Documents / DIRDs11 Mar 2010 — Anomalous Acute and Subacute Field Effects on Human. Biologic...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPossible Effects of Radiofrequency Electromagnetic Field...by JH Kim · 2018 · Cited by 285 — It has been found that RF-EMF can induce...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Possible Effects of Radiofrequency Electromagnetic Field...by JH Kim · 2018 · Cited by 285 — It has been found that RF-EMF can induce...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9409438/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation and the Brain: Mechanisms, Current...by S Mumtaz · 2022 · Cited by 155 — In this review, recent approaches examining the effec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Health Effects from Radiofrequency Electromagnetic Fields  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7e0ebded915d74e6223d46/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf](https://assets.publishing.service.gov.uk/media/5a7e0ebded915d74e6223d46/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e0ebded915d74e6223d46/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e0ebded915d74e6223d46/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>set in current exposure guidelines can cause thermal injury to tissues. The highest occupational levels of exposure to RF pulses can caus...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBILow-Dose Radiation Exposures and Health Effects  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK586463/](https://www.ncbi.nlm.nih.gov/books/NBK586463/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI2022 — The committee discusses current epidemiological evidence on health effects that are associated with low doses of radiation and...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK586463/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK586463/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 — The committee discusses current epidemiological evidence on health effects that are associated with low doses of radiation and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12631800/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12631800/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12631800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12631800/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRadiation-induced Brain Injury and the Radiation Late Effects...by BJ Johnson · 2025 · Cited by 4 — Late-delayed radiation-induce...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: t-invariant.org  
    Title: Т-инвариант / T-invariant Havana Syndrome — Forever?  
-   Link: [https://t-invariant.org/2026/03/havana-syndrome-forever-the-psychogenic-roots-microwave-mirage-laser-optoacoustic-impact-what-s-going-on/](https://t-invariant.org/2026/03/havana-syndrome-forever-the-psychogenic-roots-microwave-mirage-laser-optoacoustic-impact-what-s-going-on/)  
+   Link: <a href="https://t-invariant.org/2026/03/havana-syndrome-forever-the-psychogenic-roots-microwave-mirage-laser-optoacoustic-impact-what-s-going-on/" target="_blank" rel="noopener noreferrer nofollow">https://t-invariant.org/2026/03/havana-syndrome-forever-the-psychogenic-roots-microwave-mirage-laser-optoacoustic-impact-what-s-going-on/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychogenic Roots...March 18, 2026 — 18 Mar 2026 — T-invariant examined why the microwave hypothesis has hit a dead end, how the las...</p></details>
    Published: March 18, 2026  
 
 10. <a id="endnote-10"></a>
    Source: iris.who.int  
    Title: int Electromagnetic Hypersensitivity  
-   Link: [https://iris.who.int/bitstreams/7efc6200-5825-46ca-8c6a-79cc1befcd08/download](https://iris.who.int/bitstreams/7efc6200-5825-46ca-8c6a-79cc1befcd08/download)  
+   Link: <a href="https://iris.who.int/bitstreams/7efc6200-5825-46ca-8c6a-79cc1befcd08/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/7efc6200-5825-46ca-8c6a-79cc1befcd08/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2.Hypersensitivity. 3.Environmental exposure. 4.Psychophysiologic disorders. I.Mild, Kjell Hansson. II...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aph.gov.au  
-   Link: [https://www.aph.gov.au/~/media/wopapub/senate/committee/ecita_ctte/completed_inquiries/1999-02/emr/report/c02.ashx](https://www.aph.gov.au/~/media/wopapub/senate/committee/ecita_ctte/completed_inquiries/1999-02/emr/report/c02.ashx)  
+   Link: <a href="https://www.aph.gov.au/~/media/wopapub/senate/committee/ecita_ctte/completed_inquiries/1999-02/emr/report/c02.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/~/media/wopapub/senate/committee/ecita_ctte/completed_inquiries/1999-02/emr/report/c02.ashx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>earchers have suggested that the disturbance may occur under &#x27;power window...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Anomalous Acute and Subacute Field Effects on Human Biological Tissues  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ec.europa.eu  
-   Link: [https://ec.europa.eu/health/scientific_committees/emerging/docs/emf_6.pdf](https://ec.europa.eu/health/scientific_committees/emerging/docs/emf_6.pdf)  
+   Link: <a href="https://ec.europa.eu/health/scientific_committees/emerging/docs/emf_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/health/scientific_committees/emerging/docs/emf_6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionExhibit D: An Update on Neurological Effects of Nonionizing...24 Mar 2014 — An EMF-induced change in brain electrical...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Acute means quick and lasting short time, subacute means lasting longer, chronic mean...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc](https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc)  
+   Link: <a href="https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Admits to the Possible Reality of ExtraterrestrialsAnomalous acute and subacute field effects on human biological tissues. Retri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: 7news.com.au  
-   Link: [https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715](https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715)  
+   Link: <a href="https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductions, sexual encounters and deaths among...5 Apr 2022 — The study, compiled back in 2010 and titled Anomalous Acute And Suba...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled An...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: alienhub.com  
-   Link: [https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/](https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/)  
+   Link: <a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...7 Apr 2022 — Newly released document from Pentagon DIA on research conducted into...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: alt1045philly.iheart.com  
    Title: 2022 04 06 pentagon states ufo sightings caused brain damage radiation  
-   Link: [https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/](https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/)  
+   Link: <a href="https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/" target="_blank" rel="noopener noreferrer nofollow">https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>States UFO Sightings Caused Brain Damage...6 Apr 2022 — The &quot;Anomalous Acute And Subacute Field Effects On Human and Biological Tissues&quot;...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366089127_Electromagnetic_Fields_of_Wireless_Communications_Biological_and_Health_Effects](https://www.researchgate.net/publication/366089127_Electromagnetic_Fields_of_Wireless_Communications_Biological_and_Health_Effects)  
+   Link: <a href="https://www.researchgate.net/publication/366089127_Electromagnetic_Fields_of_Wireless_Communications_Biological_and_Health_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366089127_Electromagnetic_Fields_of_Wireless_Communications_Biological_and_Health_Effects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Panagopoulos, D. J. (2012). Effect of microwave exposure on the ovarian development of Drosophila.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — There is, however, a growing body of evidence that the government is not bei...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bradscholars.brad.ac.uk  
    Title: brad.ac.uk Wireless electromagnetic radiation assessment  
-   Link: [https://bradscholars.brad.ac.uk/bitstreams/353661bb-ade9-4ce3-b070-92bcccab2212/download](https://bradscholars.brad.ac.uk/bitstreams/353661bb-ade9-4ce3-b070-92bcccab2212/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bradscholarsby M Abdul-Al · 2022 · Cited by 100 — The biological effect is normally generated by exposure to electromagnetic waves causin...</p></details>
+   Link: <a href="https://bradscholars.brad.ac.uk/bitstreams/353661bb-ade9-4ce3-b070-92bcccab2212/download" target="_blank" rel="noopener noreferrer nofollow">https://bradscholars.brad.ac.uk/bitstreams/353661bb-ade9-4ce3-b070-92bcccab2212/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Abdul-Al · 2022 · Cited by 100 — The biological effect is normally generated by exposure to electromagnetic waves causin...</p></details>

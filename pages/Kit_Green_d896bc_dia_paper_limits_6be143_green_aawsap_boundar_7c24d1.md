@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /dia-paper/
 nav_short_title: Role Boundary
 title: Was Green Inside AAWSAP or Adjacent?
-title_full: Was Green Inside AAWSAP or Adjacent? | DIA Paper
+title_full: Was Green Inside AAWSAP or Adjacent?
 display_title_short: Role Boundary
 display_title: Role Boundary
 heading_title: Was Green Inside AAWSAP or Adjacent?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Green's DIA Paper Actually Prove? | Green
+parent_title: What Does Green's DIA Paper Actually Prove?
 parent_permalink: /dia-paper/
 parent_nav_short_title: DIA Paper
 parent_heading_title: What Does Green's DIA Paper Actually Prove?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /paper-claims/
   short_title: Paper Claims
   heading_title: Did the Paper Prove UAP Injuries?
-date: '2026-06-09 03:00:42 '
+date: '2026-06-11 21:05:53 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boun
 
 ## Introduction
 
-The strongest public evidence linking [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) to the [AAWSAP]({{ 'aawsap/' | relative_url }}) era is not that he ran the programme, managed it, or held a formal Pentagon UAP office. It is that he produced a technical paper that entered the AAWSAP-related document stream and later surfaced through Defense Intelligence Agency releases. That fact places him inside the wider contractor and research ecosystem around the programme. It does not, by itself, prove that he was an AAWSAP official, a DIA employee on the project, or part of every activity later associated with AAWSAP and AATIP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
-
+The strongest public evidence linking Kit Green to the [AAWSAP]({{ 'aawsap/' | relative_url }}) era is not that he ran the programme, managed it, or held a formal Pentagon UAP office. It is that he produced a technical paper that entered the AAWSAP-related document stream and later surfaced through Defense Intelligence Agency releases. That fact places him inside the wider contractor and research ecosystem around the programme. It does not, by itself, prove that he was an AAWSAP official, a DIA employee on the project, or part of every activity later associated with AAWSAP and AATIP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-dark.svg" | relative_url }}" alt="Role Boundary illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many public discussions blur together several overlapping entities: the DIA contract, Bigelow Aerospace Advanced Space Studies (BAASS), the Defence Intelligence Reference Documents (DIRDs), later AATIP narratives, and the wider community of scientists and consultants who contributed work. Green's credibility is affected both by what can be documented and by the tendency of later retellings to expand his apparent role beyond the evidence.
@@ -279,19 +278,15 @@ What remains less clear is the precise administrative relationship. Publicly ava
 
 That narrower interpretation is important because later media coverage sometimes treats anyone connected to AAWSAP papers as if they were part of a single unified insider group. The documentary record supports participation, but not necessarily equal authority or access across all aspects of the programme.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tvUfdN2fyww" title="UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer">UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tvUfdN2fyww">Open on YouTube</a></p></div></div></div>
-
 ### Green's own account of the contract
 
 Green's later public comments generally reinforce a more limited picture of his role.
 
-When discussing the injury paper years after its release, he did not present himself as a whistleblower revealing hidden alien evidence. Instead, he described the project as an attempt to analyse reported injuries and determine whether known medical mechanisms could explain them. According to later reporting, Green even argued that the cases he reviewed were more likely attributable to human technology than extraterrestrial causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span>
+When discussing the injury paper years after its release, he did not present himself as a whistleblower revealing hidden alien evidence. Instead, he described the project as an attempt to analyse reported injuries and determine whether known medical mechanisms could explain them. According to later reporting, Green even argued that the cases he reviewed were more likely attributable to human technology than extraterrestrial causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span>
 
 That position is significant because it narrows the claim being made. Green's apparent argument was not "I worked inside a secret UFO programme and confirmed non-human craft". Rather, it was closer to: "I was involved in examining unusual injury reports that were considered relevant enough to be studied within this contract environment." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 The distinction often disappears in secondary retellings, where participation in an AAWSAP-related project is presented as equivalent to endorsing extraordinary conclusions.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-dark.svg" | relative_url }}" alt="Role Boundary illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How BAASS and AAWSAP complicate attribution
@@ -313,9 +308,7 @@ Saying Green "worked on an AAWSAP document" is supported by available evidence. 
 
 The same boundary issue appears throughout discussions of the DIRDs. The DIA received and reviewed the documents, but many were produced by outside authors with differing levels of expertise, differing assumptions and varying relationships to the programme. A document's existence therefore demonstrates that a topic was researched, not that the government validated every conclusion inside it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: around May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" alt="Role Boundary illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The AAWSAP-AATIP overlap problem
 
 The later public merger of AAWSAP and AATIP narratives further complicates Green's position.
@@ -323,9 +316,6 @@ The later public merger of AAWSAP and AATIP narratives further complicates Green
 Many media accounts initially used AATIP as the umbrella label for almost all Pentagon-linked UAP activity. Subsequent reporting, memoirs, FOIA releases and historical reconstructions suggested that AAWSAP and AATIP were related but not identical efforts, with overlapping personnel, changing structures and competing interpretations of what each programme actually did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion19 Jan 2026 — This 74-page paper has evolved into an examination of the distinction between AA...</span></span></span> Because Green's paper is commonly grouped with the DIRDs, readers sometimes infer that every later AATIP claim automatically reflects Green's role or views. The evidence does not support that leap.
 
 The more cautious conclusion is that Green can be linked directly to a documented AAWSAP-era research product. His connection to every later narrative attached to AATIP, disclosure politics, crash-retrieval allegations or non-human intelligence claims is much weaker and often rests on association rather than direct documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 20.3K &middot; Uploaded: around January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
 
 ## Why role boundaries matter for credibility
 
@@ -341,10 +331,7 @@ The credibility question therefore becomes more precise:
 * The evidence supports his authorship of a DIA-linked medical-effects paper.
 * The evidence does not clearly establish him as a central AAWSAP decision-maker.
 * The evidence does not prove that the injuries discussed in his paper came from non-human technology.
-* The evidence does not justify treating all later AAWSAP or AATIP claims as if they originated from Green himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span> In practical terms, Green's documented role is more substantial than that of a commentator repeating rumours, yet narrower than some popular narratives suggest. The contractor boundary is therefore not a minor administrative detail. It is one of the key factors that determines how much authority should be attached to his claims and how far the available documentary evidence can reasonably be stretched.
-
-
-<img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" alt="Role Boundary illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+* The evidence does not justify treating all later AAWSAP or AATIP claims as if they originated from Green himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span> In practical terms, Green's documented role is more substantial than that of a commentator repeating rumours, yet narrower than some popular narratives suggest. The contractor boundary is therefore not a minor administrative detail. It is one of the key factors that determines how much authority should be attached to his claims and how far the available documentary evidence can reasonably be stretched.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,15 +450,15 @@ The credibility question therefore becomes more precise:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +466,15 @@ The credibility question therefore becomes more precise:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +482,31 @@ The credibility question therefore becomes more precise:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +514,7 @@ The credibility question therefore becomes more precise:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="was-green-inside-aawsap-or-adjacent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-green-inside-aawsap-or-adjacent-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-green-inside-aawsap-or-adjacent-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -727,98 +730,98 @@ The credibility question therefore becomes more precise:
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••. 3.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</p></details>
    Published: April 20, 2026  
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion19 Jan 2026 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — DIA from BAASS, contracted under AAWSAP under solicitation. HHM402-08-R-0211. Granted/Denied in. Part. No Records. IG case...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.... Kit G...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/](https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/)  
+   Link: <a href="https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An anonymous Electrical Engineer has released BAASS...A former DoD black project engineer, now terminally ill, revealed that the Tic Tac...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/](https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing new information on AAWSAP-AATIP programsKit Green, a... I recently posted about the testimony of two former BAASS guards and t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: apparently the pentagon has an advanced aerospace threat identification program  
-   Link: [https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/](https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently, the Pentagon has an Advanced Aerospace...... AAWSAP contract until September 2008 and Green&#x27;s technical paper is dated May 2...</p></details>
    Published: September 2008  
 
 13. <a id="endnote-13"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: go.gale.com  
    Title: Kit Green, Wayne State University. Alternate Tide: Clinical Medical Acute  
-   Link: [https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1](https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GaleClaims About a Government &quot;UFO Program&quot;: How Much is...by R Sheaffer · 2020 — One of AATIP&#x27;s 38 papers on weird science is &quot;Field Ef...</p></details>
+   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims About a Government &quot;UFO Program&quot;: How Much is...by R Sheaffer · 2020 — One of AATIP&#x27;s 38 papers on weird science is &quot;Field Ef...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: alt1045philly.iheart.com  
    Title: 2022 04 06 pentagon states ufo sightings caused brain damage radiation  
-   Link: [https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/](https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/)  
+   Link: <a href="https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/" target="_blank" rel="noopener noreferrer nofollow">https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>States UFO Sightings Caused Brain Damage...6 Apr 2022 — The &quot;Anomalous Acute And Subacute Field Effects On Human and Biological Tissues&quot;...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf](https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf)  
+   Link: <a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological... In the report, they stated: “Acute biological effects have been established...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — (PUBLIC DOMAIN) - 29 October 2008 — Kit Green tells Jacques Vallee that fund...</p></details>
-   Published: October 2008  
+   Published: October 2008

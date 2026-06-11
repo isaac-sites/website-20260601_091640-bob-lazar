@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /skinwalker-0286bd/
 nav_short_title: Own Sighting
 title: What Did Kelleher Actually See at Skinwalker?
-title_full: What Did Kelleher Actually See at Skinwalker? | Skinwalker
+title_full: What Did Kelleher Actually See at Skinwalker?
 display_title_short: Own Sighting
 display_title: Own Sighting
 heading_title: What Did Kelleher Actually See at Skinwalker?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Skinwalker Ranch Defines Kelleher's Reputation | Kelleher
+parent_title: Why Skinwalker Ranch Defines Kelleher's Reputation
 parent_permalink: /skinwalker-0286bd/
 parent_nav_short_title: Skinwalker
 parent_heading_title: Why Skinwalker Ranch Defines Kelleher's Reputation
@@ -253,7 +253,7 @@ next_link:
   permalink: /private-files/
   short_title: Private Files
   heading_title: Why Skinwalker Evidence Remains Hard to Check
-date: '2026-06-09 03:07:35 '
+date: '2026-06-11 21:07:54 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skin
 
 ## Introduction
 
-[Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s own reported sighting at [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) matters because it is one of the few parts of the wider Skinwalker story that rests on his direct experience rather than second-hand testimony. For supporters, that gives it extra weight. Kelleher was not merely repeating local folklore or recounting stories told by ranch owners. He was a trained scientist, working on-site as part of Robert Bigelow’s National Institute for Discovery Science (NIDS) investigation, and he has publicly described seeing an unusual object himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-title">Amazon UKHunt for the Skinwalker: Science Confronts</span><span class="citation-popover-snippet">Amazon UKThis book, written by investigative journalist George Knapp and scientist Colm Kelleher, details the high strangeness at Skinwal...</span></span></span>
-
+Colm Kelleher’s own reported sighting at [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) matters because it is one of the few parts of the wider [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) story that rests on his direct experience rather than second-hand testimony. For supporters, that gives it extra weight. Kelleher was not merely repeating local folklore or recounting stories told by ranch owners. He was a trained scientist, working on-site as part of Robert Bigelow’s National Institute for Discovery Science (NIDS) investigation, and he has publicly described seeing an unusual object himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-title">Amazon UKHunt for the Skinwalker: Science Confronts</span><span class="citation-popover-snippet">Amazon UKThis book, written by investigative journalist George Knapp and scientist Colm Kelleher, details the high strangeness at Skinwal...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1-dark.svg" | relative_url }}" alt="Own Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, the sighting also exposes the central credibility problem that follows Kelleher through the [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) [debate]({{ 'debate-020cbc/' | relative_url }}). The event is presented as first-hand testimony from a named witness, but the public has never been shown the kind of supporting sensor data, imagery, radar records or independently verifiable documentation that would allow outsiders to evaluate it in the way a conventional scientific claim would be assessed. The result is a case that sits in an uncomfortable middle ground: stronger than anonymous UFO stories, but weaker than evidence that can be independently tested.
+At the same time, the sighting also exposes the central credibility problem that follows Kelleher through the Skinwalker [debate]({{ 'debate-020cbc/' | relative_url }}). The event is presented as first-hand testimony from a named witness, but the public has never been shown the kind of supporting sensor data, imagery, radar records or independently verifiable documentation that would allow outsiders to evaluate it in the way a conventional scientific claim would be assessed. The result is a case that sits in an uncomfortable middle ground: stronger than anonymous UFO stories, but weaker than evidence that can be independently tested.
 
 ## What Did Kelleher Actually See at Skinwalker?
 
@@ -276,15 +275,11 @@ The difficulty is that the public version of the story remains largely testimoni
 
 That distinction is important because Kelleher has repeatedly argued that Skinwalker Ranch produced phenomena that appeared to evade conventional observation and documentation. Critics counter that this explanation risks making the claims effectively unfalsifiable: if extraordinary events consistently occur without leaving public evidence, outsiders are asked to rely mainly on trust in the investigators themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — We wrote a book called Hunt for the Skinwalker, which used that Skinwalker...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/02IIWOBl6bk" title="We Want To Believe: A Conversation About the Paranormal With George Knapp and Dr Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=02IIWOBl6bk" target="_blank" rel="noopener noreferrer">We Want To Believe: A Conversation About the Paranormal With George Knapp and Dr Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: BOOM! Studios &middot; Views: 3.8K &middot; Uploaded: September 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=02IIWOBl6bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=02IIWOBl6bk">Open on YouTube</a></p></div></div></div>
-
 ## Why First-Hand Testimony Carries Extra Weight
 
 Not all witness accounts are equal. One reason Kelleher’s sighting receives attention is that it comes from someone whose professional [background]({{ 'background-ef59e9/' | relative_url }}) differs from that of a typical UFO witness.
 
 Several factors strengthen his testimony relative to many paranormal claims:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,8 +296,8 @@ This matters because much of the broader Skinwalker narrative consists of layere
 
 Supporters therefore argue that sceptics sometimes underestimate the importance of a trained observer placing his own reputation behind a specific claim. From that perspective, the sighting is significant because Kelleher had more to lose professionally than many participants in paranormal culture and nevertheless chose to describe the event publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-title">Amazon UKHunt for the Skinwalker: Science Confronts</span><span class="citation-popover-snippet">Amazon UKThis book, written by investigative journalist George Knapp and scientist Colm Kelleher, details the high strangeness at Skinwal...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/02IIWOBl6bk" title="We Want To Believe: A Conversation About the Paranormal With George Knapp and Dr Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=02IIWOBl6bk" target="_blank" rel="noopener noreferrer">We Want To Believe: A Conversation About the Paranormal With George Knapp and Dr Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: BOOM! Studios &middot; Views: 3.8K &middot; Uploaded: September 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=02IIWOBl6bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=02IIWOBl6bk">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-dark.svg" | relative_url }}" alt="Own Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Testimony Alone Still Has Limits
 
 The strength of first-hand testimony does not eliminate its weaknesses.
@@ -315,9 +310,7 @@ Critics argue that this context creates a risk of confirmation bias. A strange l
 
 Importantly, raising that possibility does not prove Kelleher was mistaken. It simply highlights why scientific investigations normally seek independent forms of confirmation. Testimony can be valuable evidence, but it is usually considered stronger when it converges with physical traces, instrument readings, photographs or other objective records.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-dark.svg" | relative_url }}" alt="Own Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Public Evidence Is Still Missing?
 
 The central question surrounding Kelleher’s sighting is not whether he claims to have seen something unusual. He clearly does.
@@ -327,7 +320,6 @@ The unresolved issue is what evidence exists beyond the claim itself.
 Over the years, Kelleher, George Knapp and other Skinwalker-associated figures have maintained that extensive investigative work occurred at the ranch. Books and interviews describe surveillance efforts, field observations and collected reports. Yet relatively little primary documentation has entered the public domain in a form that allows independent analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-title">Amazon UKHunt for the Skinwalker: Science Confronts</span><span class="citation-popover-snippet">Amazon UKThis book, written by investigative journalist George Knapp and scientist Colm Kelleher, details the high strangeness at Skinwal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[2jimharold.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — We wrote a book called Hunt for the Skinwalker, which used that Skinwalker...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 For the specific sighting over Skinwalker Ridge, publicly available gaps include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,10 +331,9 @@ For the specific sighting over Skinwalker Ridge, publicly available gaps include
 
 </div>
 
-Supporters respond that much of the original material remained private, proprietary or tied to later government-related programmes. Critics answer that extraordinary claims become difficult to evaluate when the underlying evidence remains inaccessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the origins of aawsap.12484</span><span class="citation-popover-snippet">MetabunkThe Origins of AAWSAP21 Jun 2022 — In 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George Knapp, chronicl...</span></span></span>
+Supporters respond that much of the original material remained private, proprietary or tied to later government-related programmes. Critics answer that extraordinary claims become difficult to evaluate when the underlying evidence remains inaccessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the origins of aawsap.12484</span><span class="citation-popover-snippet">The Origins of AAWSAP21 Jun 2022 — In 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George Knapp, chronicl...</span></span></span>
 
 The result is a recurring pattern in discussions of Kelleher's credibility. The witness is identifiable, the claim is specific enough to describe, but the supporting evidence remains largely unavailable for external scrutiny.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-3-dark.svg" | relative_url }}" alt="Own Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Sighting as a Test of Kelleher's Reliability
@@ -357,9 +348,7 @@ Neither side fully resolves the issue. The sighting is difficult to dismiss as a
 
 That tension is precisely why the episode remains important. It is one of the clearest examples of how Kelleher’s credibility rests not only on what he says he witnessed, but on whether testimony from a scientifically trained investigator should be considered persuasive when the supporting evidence remains largely out of public view.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WaXNjyxKYkg" title="Burden of Proof | Criminal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer">Burden of Proof | Criminal Evidence</a></p><p class="youtube-embed-meta">Channel: The Law Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WaXNjyxKYkg">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -478,15 +467,15 @@ That tension is precisely why the episode remains important. It is one of the cl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve"><img src="https://i.ebayimg.com/images/g/2ZsAAeSwG-Fn5WXF/s-l225.jpg" alt="Listing image for 2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +483,15 @@ That tension is precisely why the episode remains important. It is one of the cl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror"><img src="https://i.ebayimg.com/images/g/cKkAAOSwyMdm05WG/s-l225.jpg" alt="Listing image for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +499,31 @@ That tension is precisely why the episode remains important. It is one of the cl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946"><img src="https://i.ebayimg.com/images/g/5uUAAOSwpE5fsJVl/s-l225.jpg" alt="Listing image for Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999"><img src="https://i.ebayimg.com/images/g/ECgAAeSwNw1p7Dwx/s-l225.jpg" alt="Listing image for Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +531,7 @@ That tension is precisely why the episode remains important. It is one of the cl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-did-kelleher-actually-see-at-skinwalker-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -742,114 +747,114 @@ That tension is precisely why the episode remains important. It is one of the cl
 1. <a id="endnote-1"></a>
    Source: amazon.co.uk  
    Title: Amazon UKHunt for the Skinwalker: Science Confronts  
-   Link: [https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210](https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210)  
+   Link: <a href="https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hunt-Skinwalker-Colm-Kelleher/dp/1416505210</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKThis book, written by investigative journalist George Knapp and scientist Colm Kelleher, details the high strangeness at Skinwal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: boom-studios.com  
-   Link: [https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/](https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/)  
+   Link: <a href="https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>StudiosHUNT FOR THE SKINWALKER AnnouncementHUNT FOR THE SKINWALKER Announcement... Experience Dr. Colm Kelleher and George Knapp&#x27;s First...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jasoncolavito.com  
    Title: George Knapp, Jeremy Corbell, Colm Kelleher, et al.Read more  
-   Link: [https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch](https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch)  
+   Link: <a href="https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOReview of &quot;Hunt for the Skinwalker,&quot; a New Documentary...11 Sept 2018 — Review of &quot;Hunt for the Skinwalker,&quot; a New Documen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: jimharold.com  
-   Link: [https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/](https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/)  
+   Link: <a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — We wrote a book called Hunt for the Skinwalker, which used that Skinwalker...</p></details>
    Published: May 2022  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: the origins of aawsap.12484  
-   Link: [https://www.metabunk.org/threads/the-origins-of-aawsap.12484/](https://www.metabunk.org/threads/the-origins-of-aawsap.12484/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkThe Origins of AAWSAP21 Jun 2022 — In 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George Knapp, chronicl...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAP21 Jun 2022 — In 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George Knapp, chronicl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: [https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html](https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html)  
+   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Believers in the Paranormal Birthed the Pentagon&#x27;s...7 Mar 2022 — After the Nimitz investigation, the sailor and two Marines were se...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch” on the His- tory Channel, claimed in 2020 that he was hit with a dan- gerous burst of radiation after looking into a ho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Full Story | DocumentaryWhen the Ranch Fights Back *Marathon* | The Secret of Skinwalker Ranch · 285K views; The Sumerian Tablet Tha...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/7iUOJ6G4REJKkMUyU0m7wY](https://open.spotify.com/episode/7iUOJ6G4REJKkMUyU0m7wY)  
+   Link: <a href="https://open.spotify.com/episode/7iUOJ6G4REJKkMUyU0m7wY" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7iUOJ6G4REJKkMUyU0m7wY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for the Skinwalker - Somewhere in the Skies10 Sept 2018 — On episode 73 of SOMEWHERE IN THE SKIES, Jeremy Corbell returns to the show to...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920](https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920)  
+   Link: <a href="https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsGeorge Knapp Λ Colm Kelleher on Skinwalker Ranch...George Knapp and Colm Kelleher explore fresh revelations from Skinwalke...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1661034961873530/](https://www.facebook.com/groups/1065166071460425/posts/1661034961873530/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1661034961873530/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1661034961873530/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch investigations driven by data, not mythsAlternative methods to gather information on Skin Walker Ranch. Maureen OfRavens...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1d729h6/what_about_the_cattle_mutilations/](https://www.reddit.com/r/skinwalkerranch/comments/1d729h6/what_about_the_cattle_mutilations/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1d729h6/what_about_the_cattle_mutilations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1d729h6/what_about_the_cattle_mutilations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What About the Cattle Mutilations?: r/skinwalkerranchI think the really convincing cattle mutilation footage is from Beyond Skinwalker R...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/malaysiacomics/posts/1777300946019830/](https://www.facebook.com/groups/malaysiacomics/posts/1777300946019830/)  
+   Link: <a href="https://www.facebook.com/groups/malaysiacomics/posts/1777300946019830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/malaysiacomics/posts/1777300946019830/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hunt for the skinwalker #1 (of 4) cvr a simmondsColm Kelleher&#x27;s book of the same name, Hunt for the Skinwalker. There are many stories ab...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8xXGe6NaU4M](https://www.youtube.com/watch?v=8xXGe6NaU4M)  
+   Link: <a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm KelleherHe is co-author (with George Knapp) of Hunt for The Skinwalker: Science Confronts the Unexpl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CurseofOakIsland/posts/skinwalker-ranch-is-one-of-the-most-significant-paranormal-hotbeds-in-the-united/2689275497953722/](https://www.facebook.com/CurseofOakIsland/posts/skinwalker-ranch-is-one-of-the-most-significant-paranormal-hotbeds-in-the-united/2689275497953722/)  
+   Link: <a href="https://www.facebook.com/CurseofOakIsland/posts/skinwalker-ranch-is-one-of-the-most-significant-paranormal-hotbeds-in-the-united/2689275497953722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CurseofOakIsland/posts/skinwalker-ranch-is-one-of-the-most-significant-paranormal-hotbeds-in-the-united/2689275497953722/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s into the mysterious and chilling phenomena surrounding the infamous...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lknee1/do_yourself_a_favor_and_read_this_book_its_better/](https://www.reddit.com/r/skinwalkerranch/comments/1lknee1/do_yourself_a_favor_and_read_this_book_its_better/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lknee1/do_yourself_a_favor_and_read_this_book_its_better/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lknee1/do_yourself_a_favor_and_read_this_book_its_better/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Does anyone else feel like this show is actually becoming one of...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iflscience.com  
    Title: The answer is remarkably simple: none. Where is Skinwalker Ranch?Read more  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScienceSkinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?But as entertaining as all these stories may be, what is the actual evid...</p></details>
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?But as entertaining as all these stories may be, what is the actual evid...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/](https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hey have a video of 3 red orbs causing death and injuries...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nocturnalrevelries.com  
    Title: kelleher and knapps hunt for the skinwalker  
-   Link: [https://nocturnalrevelries.com/2023/01/15/kelleher-and-knapps-hunt-for-the-skinwalker/](https://nocturnalrevelries.com/2023/01/15/kelleher-and-knapps-hunt-for-the-skinwalker/)  
+   Link: <a href="https://nocturnalrevelries.com/2023/01/15/kelleher-and-knapps-hunt-for-the-skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://nocturnalrevelries.com/2023/01/15/kelleher-and-knapps-hunt-for-the-skinwalker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher and Knapp&#x27;s Hunt for the Skinwalker15 Jan 2023 — Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in...</p></details>

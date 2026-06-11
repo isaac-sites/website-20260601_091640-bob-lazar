@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /documents/
 nav_short_title: Missing files
 title: What is still hidden in the BAASS record?
-title_full: What is still hidden in the BAASS record? | Documents
+title_full: What is still hidden in the BAASS record?
 display_title_short: Missing files
 display_title: Missing files
 heading_title: What is still hidden in the BAASS record?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Do The Public Records Really Prove? | Kelleher
+parent_title: What Do The Public Records Really Prove?
 parent_permalink: /documents/
 parent_nav_short_title: Documents
 parent_heading_title: What Do The Public Records Really Prove?
@@ -253,7 +253,7 @@ next_link:
   permalink: /source-hierarchy/
   short_title: Source hierarchy
   heading_title: Which Kelleher sources deserve the most weight?
-date: '2026-06-09 03:07:18 '
+date: '2026-06-11 21:07:51 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_r
 
 ## Introduction
 
-The public record around Bigelow Aerospace Advanced Space Studies (BAASS) contains a striking imbalance. There is enough documentation to confirm that BAASS held a real Defence Intelligence Agency (DIA) contract connected to the Advanced Aerospace Weapons System Applications Program (AAWSAP), and that [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }}) occupied a senior role within the contractor structure. What remains far harder to verify are the specific case files, incident databases, medical reports and anomaly investigations that later became central to claims about unusual UAP encounters, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) phenomena and alleged biological effects.
-
+The public record around Bigelow Aerospace Advanced Space Studies (BAASS) contains a striking imbalance. There is enough documentation to confirm that BAASS held a real Defence Intelligence Agency (DIA) contract connected to the Advanced Aerospace Weapons System Applications Program (AAWSAP), and that Colm Kelleher occupied a senior role within the contractor structure. What remains far harder to verify are the specific case files, incident databases, medical reports and anomaly investigations that later became central to claims about unusual UAP encounters, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) phenomena and alleged biological effects.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1-dark.svg" | relative_url }}" alt="Missing files illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers assessing Kelleher's credibility, the missing records matter because they sit at the boundary between what is documented and what is claimed. Released government paperwork confirms that research activity occurred. It does not provide a complete public archive of the underlying cases that would allow outsiders to independently evaluate the most extraordinary conclusions. That absence neither proves suppression nor proves exaggeration. It creates a verification gap that has become one of the central disputes in the BAASS story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO partnered with the U.S. National Archives to exa...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
@@ -277,9 +276,6 @@ DIA contract records, later FOIA releases and associated briefing [documents]({{
 Some of the released paperwork also refers to wider investigative activity beyond theoretical research. Supporters of Kelleher's account often point to references in programme descriptions and later memoir-style accounts indicating that BAASS collected reports, maintained databases and examined alleged anomalous events. The problem is that only fragments of this claimed evidential archive have entered the public domain. The existence of an investigative framework is easier to document than the underlying evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramKelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program and...</span></span></span>
 
 This distinction is important. A verified contract demonstrates that work was commissioned. It does not automatically validate the conclusions later associated with that work.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTL2lLAV8JQ" title="Mystery of Missing UFO Files After Disclosure Order | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer">Mystery of Missing UFO Files After Disclosure Order | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: February 2026 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTL2lLAV8JQ">Open on YouTube</a></p></div></div></div>
 
 ## What redactions and missing files prevent
 
@@ -300,10 +296,9 @@ The result is that many of the most dramatic claims depend on second-hand descri
 
 One reason the missing files issue attracts so much attention is that BAASS became closely associated with investigations linked to [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch and related paranormal claims.
 
-Kelleher's public reputation in the UAP field is tied not only to aerospace intelligence work but also to reports involving unusual creatures, poltergeist-like activity, apparent [hitchhiker effects]({{ 'hitchhikers/' | relative_url }}) and other phenomena that sit far outside conventional aerospace analysis. Critics argue that if robust evidential files existed for such claims, they would represent some of the most important anomalous records ever collected.
+Kelleher's public reputation in the UAP field is tied not only to aerospace intelligence work but also to reports involving unusual creatures, poltergeist-like activity, apparent hitchhiker effects and other phenomena that sit far outside conventional aerospace analysis. Critics argue that if robust evidential files existed for such claims, they would represent some of the most important anomalous records ever collected.
 
 Yet the public archive remains fragmentary. Readers are therefore often asked to assess extraordinary accounts without access to the complete investigative files supposedly underlying them. That evidential asymmetry is one of the strongest sceptical objections to the BAASS narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramKelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program and...</span></span></span>
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-2-dark.svg" | relative_url }}" alt="Missing files illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why missing records do not automatically prove a cover-up
@@ -322,8 +317,7 @@ AARO's own historical review highlights the broader challenge of reconstructing 
 
 In other words, missing files are not unusual in intelligence and defence history. Their absence alone cannot establish that extraordinary evidence once existed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTL2lLAV8JQ" title="Mystery of Missing UFO Files After Disclosure Order | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer">Mystery of Missing UFO Files After Disclosure Order | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: February 2026 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTL2lLAV8JQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the absence of records also weakens strong claims
 
@@ -335,8 +329,6 @@ This is where the public case for many BAASS-linked claims remains weak. The ava
 
 For credibility assessment, this means that Kelleher's position occupies an unusual middle ground. The documentary trail is substantially stronger than that of many purely anecdotal UFO figures because his connection to a real government contractor programme is well supported. At the same time, the evidential trail behind several of the most dramatic claims remains substantially weaker than the public discussion often implies.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-dark.svg" | relative_url }}" alt="Missing files illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central credibility question
 
 The missing BAASS records are important not because they prove a hidden truth, but because they define the limits of what can currently be known.
@@ -345,9 +337,7 @@ The released files establish that AAWSAP and BAASS existed, that government mone
 
 That gap leaves two competing interpretations. Supporters see an incomplete archive hiding potentially significant evidence. Sceptics see a situation where the strongest claims depend on records that cannot presently be examined. Both interpretations rely on the same underlying fact: the public possesses a confirmed programme history, but not a complete evidential archive of the anomalies that programme allegedly investigated. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultIn 2013, the Black Vault filed a FOIA request for records on the program, and in 2020 the CIA released the files in res...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b3U0PVvv7RQ" title="Mystery Wire - Dr. James Lacatski, Dr. Colm Kelleher, George Knapp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b3U0PVvv7RQ" target="_blank" rel="noopener noreferrer">Mystery Wire - Dr. James Lacatski, Dr. Colm Kelleher, George Knapp</a></p><p class="youtube-embed-meta">Channel: Mystery Wire</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b3U0PVvv7RQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b3U0PVvv7RQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-dark.svg" | relative_url }}" alt="Missing files illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -466,15 +456,15 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +472,15 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +488,15 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +504,15 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +520,7 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="missing-files-what-is-still-hidden-in-the-baass-record-colm-kelleher-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-still-hidden-in-the-baass-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-still-hidden-in-the-baass-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,131 +736,131 @@ That gap leaves two competing interpretations. Supporters see an incomplete arch
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO partnered with the U.S. National Archives to exa...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
    Title: the origins of aawsap.12484  
-   Link: [https://www.metabunk.org/threads/the-origins-of-aawsap.12484/](https://www.metabunk.org/threads/the-origins-of-aawsap.12484/)  
+   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAP21 Jun 2022 — Colm Kelleher is hired to run BAASS from offices in Las Vegas and Skinwalker Ranch. External Quote: In...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — Alleged UAP Intelligence Community Document: An alleged 1961 Special National Intelligence Estimate that was &quot;leaked...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: claim the cia blocked the transfer of meta materials from crashed ufos.13773  
-   Link: [https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/](https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/)  
+   Link: <a href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — I think the document from Burchett is misattributing the funding o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — DIA files on Junaid Hussain, former ISIL propagandist and hacker who also went by Abu Hussain al-Britani, TriCK, and trick...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald The...18 Jun 2025 — This is a final response to your May 16, 2020 Freedom of Information Act (FOIA) request, a copy of w...</p></details>
    Published: May 16, 2020  
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENSE1 Jul 2025 — This is a final response to your June 25, 2019, Freedom of Information Act (FOIA) request, a copy of which is encl...</p></details>
    Published: June 25, 2019  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: The Black Vault  
-   Link: [https://en.wikipedia.org/wiki/The_Black_Vault](https://en.wikipedia.org/wiki/The_Black_Vault)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultIn 2013, the Black Vault filed a FOIA request for records on the program, and in 2020 the CIA released the files in res...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/](https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing new information on AAWSAP-AATIP programsKeith Basterfield is taking a break from ufology, but briefly stepped back in to assess...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LifeboatFoundation/posts/the-national-security-agency-has-produced-hundreds-of-pages-of-historical-uap-re/1438235315008713/](https://www.facebook.com/LifeboatFoundation/posts/the-national-security-agency-has-produced-hundreds-of-pages-of-historical-uap-re/1438235315008713/)  
+   Link: <a href="https://www.facebook.com/LifeboatFoundation/posts/the-national-security-agency-has-produced-hundreds-of-pages-of-historical-uap-re/1438235315008713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LifeboatFoundation/posts/the-national-security-agency-has-produced-hundreds-of-pages-of-historical-uap-re/1438235315008713/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lifeboat Foundation&#x27;s postNEW: To maximize transparency, the National Archives has released new records related to Unidentified Anomalous...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/thedeepstate/posts/4175635072656757/](https://www.facebook.com/groups/thedeepstate/posts/4175635072656757/)  
+   Link: <a href="https://www.facebook.com/groups/thedeepstate/posts/4175635072656757/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedeepstate/posts/4175635072656757/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US government seizes uap research databaseYes, we&#x27;re talking about the recent leak of no fewer than 34 previously hush-hush files from th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: nearly 3800000 files were removed from the black vault hours after president don  
-   Link: [https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/](https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 3800000 files were removed from The Black Vault...The removed material included records on UFOs, intelligence programs, military...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/](https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what caught my eye from the Reddit post. Image 1: Leaked today. Image 2:...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ibtimes.co.uk  
    Title: declassified ufo files vanish trump directive 1781111  
-   Link: [https://www.ibtimes.co.uk/declassified-ufo-files-vanish-trump-directive-1781111](https://www.ibtimes.co.uk/declassified-ufo-files-vanish-trump-directive-1781111)  
+   Link: <a href="https://www.ibtimes.co.uk/declassified-ufo-files-vanish-trump-directive-1781111" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/declassified-ufo-files-vanish-trump-directive-1781111</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.8 Million UFO Files Wiped Hours After Donald Trump&#x27;s...24 Feb 2026 — Explore the disappearance of 3.8 million declassified UFO files f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/](https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.8 million files were backed up in secure locations and the site...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: government secret ufo program investigation  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — When reached for comment, Colm Kelleher, the former Deputy Director of BAASS, said...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Advanced Aerospace Weapons System Application Program (A...</p></details>
    Published: May 2024  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TTL2lLAV8JQ](https://www.youtube.com/watch?v=TTL2lLAV8JQ)  
+   Link: <a href="https://www.youtube.com/watch?v=TTL2lLAV8JQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TTL2lLAV8JQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from the Black Vault archive suddenly disappeared...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credibility-split/
 nav_short_title: Geller test
 title: Did Uri Geller damage Puthoff's credibility?
-title_full: Did Uri Geller damage Puthoff's credibility? | Credibility Split
+title_full: Did Uri Geller damage Puthoff's credibility?
 display_title_short: Geller test
 display_title: Geller test
 heading_title: Did Uri Geller damage Puthoff's credibility?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why People Disagree About Puthoff | Puthoff
+parent_title: Why People Disagree About Puthoff
 parent_permalink: /credibility-split/
 parent_nav_short_title: Credibility Split
 parent_heading_title: Why People Disagree About Puthoff
@@ -253,7 +253,7 @@ next_link:
   permalink: /testable-claims/
   short_title: Testable claims
   heading_title: Can failed proof still help credibility?
-date: '2026-06-09 03:01:32 '
+date: '2026-06-11 21:06:26 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1.webp
@@ -264,20 +264,18 @@ image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credu
 
 The Uri Geller episode remains one of the most persistent criticisms of [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s credibility. Long before he became associated with modern UAP research, Puthoff was known for his work at Stanford Research Institute (SRI) on alleged psychic phenomena. His experiments with Israeli performer Uri Geller in the early 1970s were presented as evidence that unusual abilities deserved serious scientific investigation. Supporters argue that the work was exploratory, controversial and often misrepresented by later critics. Sceptics argue that it revealed a deeper problem: a tendency to accept extraordinary claims before fraud, error and alternative explanations had been ruled out.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1-dark.svg" | relative_url }}" alt="Geller test illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That dispute matters because many readers use the Geller case as a proxy for judging Puthoff’s later judgement on UFO and UAP questions. The central question is not whether spoon bending is real. It is whether the way Puthoff approached the Geller case shows a recurring pattern of credulity, or whether critics unfairly use a decades-old parapsychology controversy to dismiss everything he later did.
 
 ## What the SRI Geller work claimed
 
-In 1972 and 1973, Puthoff and fellow researcher Russell Targ conducted experiments with Uri Geller at SRI. The work focused less on public spoon-bending demonstrations than on claims of information transfer under controlled conditions. Geller was asked to reproduce drawings, describe hidden targets and perform tasks that researchers argued could not be explained by ordinary sensory access. CIA-linked and defence-related interest in psychic research provided part of the institutional backdrop for these studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAEXPERIMENTS Uri Geller at SRI, August 4-11, 1973To start the experiment, Puthoff, who was with Geller, called Targ, who was with the d...</span></span></span>
+In 1972 and 1973, Puthoff and fellow researcher Russell Targ conducted experiments with Uri Geller at SRI. The work focused less on public spoon-bending demonstrations than on claims of information transfer under controlled conditions. Geller was asked to reproduce drawings, describe hidden targets and perform tasks that researchers argued could not be explained by ordinary sensory access. CIA-linked and defence-related interest in psychic research provided part of the institutional backdrop for these studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">EXPERIMENTS Uri Geller at SRI, August 4-11, 1973To start the experiment, Puthoff, who was with Geller, called Targ, who was with the d...</span></span></span>
 
 The experiments became internationally famous after Targ and Puthoff published a paper in *Nature* in 1974 titled *Information Transmission under Conditions of Sensory Shielding*. The paper argued that the observed results justified further investigation of paranormal functioning and suggested that some performances could not easily be explained by chance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</span></span></span>
 
-For supporters of Puthoff, one important point is often overlooked: the work was published in a major scientific journal rather than only in paranormal magazines or popular books. The publication did not mean that the scientific community accepted Geller's powers as proven, but it did mean that some reviewers considered the experiments worthy of discussion. *Nature* itself accompanied publication with editorial caution, reflecting the controversial nature of the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Naturenature18 Oct 1974 — one of the subjects, Mr Uri Geller, have been hailed pub- licly as indicating total acceptance by the SRI of al...</span></span></span>
+For supporters of Puthoff, one important point is often overlooked: the work was published in a major scientific journal rather than only in paranormal magazines or popular books. The publication did not mean that the scientific community accepted Geller's powers as proven, but it did mean that some reviewers considered the experiments worthy of discussion. *Nature* itself accompanied publication with editorial caution, reflecting the controversial nature of the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">nature18 Oct 1974 — one of the subjects, Mr Uri Geller, have been hailed pub- licly as indicating total acceptance by the SRI of al...</span></span></span>
 
 The Geller studies therefore became one of the most visible examples of mainstream scientists publicly investigating paranormal claims rather than dismissing them outright.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zD7OgAdCObs" title="Unforgettable Uri Geller Appearance | Carson Tonight Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zD7OgAdCObs" target="_blank" rel="noopener noreferrer">Unforgettable Uri Geller Appearance | Carson Tonight Show</a></p><p class="youtube-embed-meta">Channel: Johnny Carson &middot; Views: 1.1M &middot; Uploaded: March 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zD7OgAdCObs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zD7OgAdCObs">Open on YouTube</a></p></div></div></div>
 
@@ -289,10 +287,9 @@ Professional magicians and sceptical investigators repeatedly argued that Geller
 
 More damaging for Puthoff's reputation were later methodological critiques. Psychologists David Marks and Richard Kammann argued that information could have reached Geller through ordinary means during some experiments. They pointed to possible sensory cues, weaknesses in laboratory setup and opportunities for target information to become accessible. Their analysis became one of the best-known scientific critiques of the SRI work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parapsychology research at SRI</span><span class="citation-popover-snippet">Parapsychology research at SRIEven Edgar Mitchell, who was present for the experiments and was a supporter of Geller, noted that Putho...</span></span></span>
 
-Ray Hyman, a psychologist who investigated paranormal claims and observed aspects of the Geller research, also criticised the protocols. His concern was not simply that Geller might be fraudulent, but that the experimental design did not adequately exclude normal explanations. Over time, Hyman became one of the most influential sceptical voices arguing that the reported effects had not been demonstrated under sufficiently rigorous conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA12 March 1974First, we conducted experiments with Mr. Uri Geller in which we examined his ability, while located in an electrically sh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6877742/science-the-magician-and-the-think-tank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">science the magician and the think tank</span><span class="citation-popover-snippet">Science: The Magician And the Think TankMar 11, 1973 — After spending a day with Geller and Physicists Targ and Puthoff, Hyman was, in fa...</span></span></span>
+Ray Hyman, a psychologist who investigated paranormal claims and observed aspects of the Geller research, also criticised the protocols. His concern was not simply that Geller might be fraudulent, but that the experimental design did not adequately exclude normal explanations. Over time, Hyman became one of the most influential sceptical voices arguing that the reported effects had not been demonstrated under sufficiently rigorous conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">12 March 1974First, we conducted experiments with Mr. Uri Geller in which we examined his ability, while located in an electrically sh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6877742/science-the-magician-and-the-think-tank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">science the magician and the think tank</span><span class="citation-popover-snippet">Science: The Magician And the Think TankMar 11, 1973 — After spending a day with Geller and Physicists Targ and Puthoff, Hyman was, in fa...</span></span></span>
 
 A recurring sceptical argument can be summarised in three points:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +300,6 @@ A recurring sceptical argument can be summarised in three points:
 </div>
 
 For many sceptics, the real lesson of the Geller episode is that Puthoff appeared convinced before the fraud question had been conclusively settled. That perception still shapes how they view his later claims about [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}), anomalous materials and UAP reports.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-2-dark.svg" | relative_url }}" alt="Geller test illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper credibility question: judgement rather than evidence
@@ -316,7 +312,6 @@ This matters because modern UAP debates often involve similar evidential problem
 
 That does not prove that later UAP claims are wrong. It does explain why many critics see the Geller episode as relevant to assessing Puthoff's reliability as an evaluator of unusual evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzsm8hMoIUg" title="Remote viewing, CIA psychic spies, and Project Stargate - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzsm8hMoIUg" target="_blank" rel="noopener noreferrer">Remote viewing, CIA psychic spies, and Project Stargate - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 6.9K &middot; Uploaded: June 2020 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzsm8hMoIUg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzsm8hMoIUg">Open on YouTube</a></p></div></div></div>
 
 ## How supporters separate old parapsychology from UAP work
@@ -325,12 +320,11 @@ Supporters of Puthoff usually respond in several ways.
 
 First, they argue that investigating controversial claims is not itself evidence of poor judgement. Scientists are often criticised for ignoring anomalies, and supporters contend that Puthoff was willing to examine claims that others dismissed without testing. In this reading, being wrong about some phenomena would not automatically invalidate later work in other fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</span></span></span>
 
-Second, supporters note that government agencies genuinely funded and reviewed aspects of psychic research during the Cold War. The SRI programme was not a personal hobby conducted in isolation. Intelligence and defence organisations spent years evaluating whether anomalous perception claims had operational value. The fact that those programmes existed does not prove the claims were real, but supporters argue it demonstrates that serious institutions considered the question worth exploring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAURI GELLER AND SCIENCE, A NEW SCIENTIST...Ray Hyman, a psychology professor at the University of Oregon, was called in to see Geller...</span></span></span>
+Second, supporters note that government agencies genuinely funded and reviewed aspects of psychic research during the Cold War. The SRI programme was not a personal hobby conducted in isolation. Intelligence and defence organisations spent years evaluating whether anomalous perception claims had operational value. The fact that those programmes existed does not prove the claims were real, but supporters argue it demonstrates that serious institutions considered the question worth exploring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">URI GELLER AND SCIENCE, A NEW SCIENTIST...Ray Hyman, a psychology professor at the University of Oregon, was called in to see Geller...</span></span></span>
 
 Third, defenders argue that the Geller controversy is often used too broadly. They point out that many of Puthoff's modern UAP-related claims concern radar incidents, military witness reports, sensor data, aerospace programmes and government investigations rather than spoon bending or psychic demonstrations. From this perspective, critics sometimes treat a disputed 1970s paranormal case as if it automatically discredits every later statement he makes.
 
 The strongest supporter position is therefore not that the Geller experiments conclusively proved psychic powers. It is that a controversial research programme from fifty years ago should not be treated as a universal verdict on Puthoff's competence or honesty.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-3-dark.svg" | relative_url }}" alt="Geller test illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did Uri Geller damage Puthoff's credibility?
@@ -343,9 +337,7 @@ At the same time, the episode does not settle every question about his later UAP
 
 The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Puthoff is therefore visible in miniature through the Uri Geller story. To supporters, it is evidence of intellectual curiosity in a controversial field. To sceptics, it is evidence that extraordinary claims were accepted before ordinary explanations had been fully eliminated. That disagreement has never really disappeared, and it continues to shape how his role in modern UAP debates is judged today.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9_VvqNxo7U" title="The Story of Uri Geller: CIA Psychic Warrior??" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9_VvqNxo7U" target="_blank" rel="noopener noreferrer">The Story of Uri Geller: CIA Psychic Warrior??</a></p><p class="youtube-embed-meta">Channel: Armchair Investigator &middot; Views: 7.0K &middot; Uploaded: April 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9_VvqNxo7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9_VvqNxo7U">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -464,15 +456,15 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Damage 2010 0 Movie Poster Art Print Movie HomeCinema Famous Restored Texture Po"><img src="{{ '/assets/images/marketplace-covers/234ade42a38a0185d854.jpg' | relative_url }}" alt="Listing image for Damage 2010 0 Movie Poster Art Print Movie HomeCinema Famous Restored Texture Po" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Damage 2010 0 Movie Poster Art Print Movie HomeCinema Famous Restored Texture Po</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for damage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: damage poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +472,15 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Damage Inc Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/97c229255c9cd4569329.jpg' | relative_url }}" alt="Listing image for Damage Inc Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Damage Inc Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for damage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: damage poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +488,15 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAMAGE US ONE SHEET ROLLED POSTER JEREMY IRONS JULIETTE BINOCHE 1992"><img src="{{ '/assets/images/marketplace-covers/25937d5e328f1372b0b7.jpg' | relative_url }}" alt="Listing image for DAMAGE US ONE SHEET ROLLED POSTER JEREMY IRONS JULIETTE BINOCHE 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DAMAGE US ONE SHEET ROLLED POSTER JEREMY IRONS JULIETTE BINOCHE 1992</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for damage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: damage poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +504,15 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Damage 1992 3 Movie Poster Art Print Statement StudioDecor Gallery Legendary Gal"><img src="{{ '/assets/images/marketplace-covers/915cf42afa50c0430855.jpg' | relative_url }}" alt="Listing image for Damage 1992 3 Movie Poster Art Print Statement StudioDecor Gallery Legendary Gal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Damage 1992 3 Movie Poster Art Print Statement StudioDecor Gallery Legendary Gal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for damage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: damage poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,7 +520,7 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=damage+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="damage poster -book -books -dvd" data-ebay-reference="geller-test-did-uri-geller-damage-puthoff-s-credibility-hal-puthoff-damage-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="did-uri-geller-damage-puthoff-s-credibility-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,161 +735,161 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAEXPERIMENTS Uri Geller at SRI, August 4-11, 1973To start the experiment, Puthoff, who was with Geller, called Targ, who was with the d...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200010009-2.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPERIMENTS Uri Geller at SRI, August 4-11, 1973To start the experiment, Puthoff, who was with Geller, called Targ, who was with the d...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA12 March 1974First, we conducted experiments with Mr. Uri Geller in which we examined his ability, while located in an electrically sh...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000100010001-1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 March 1974First, we conducted experiments with Mr. Uri Geller in which we examined his ability, while located in an electrically sh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/251602a0](https://www.nature.com/articles/251602a0)  
+   Link: <a href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251602a0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/251559a0.pdf](https://www.nature.com/articles/251559a0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturenature18 Oct 1974 — one of the subjects, Mr Uri Geller, have been hailed pub- licly as indicating total acceptance by the SRI of al...</p></details>
+   Link: <a href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251559a0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nature18 Oct 1974 — one of the subjects, Mr Uri Geller, have been hailed pub- licly as indicating total acceptance by the SRI of al...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Uri Geller  
-   Link: [https://en.wikipedia.org/wiki/Uri_Geller](https://en.wikipedia.org/wiki/Uri_Geller)  
+   Link: <a href="https://en.wikipedia.org/wiki/Uri_Geller" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Uri_Geller</a>  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAURI GELLER AND SCIENCE, A NEW SCIENTIST...Ray Hyman, a psychology professor at the University of Oregon, was called in to see Geller...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700110020-3.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>URI GELLER AND SCIENCE, A NEW SCIENTIST...Ray Hyman, a psychology professor at the University of Oregon, was called in to see Geller...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: time.com  
    Title: science the magician and the think tank  
-   Link: [https://time.com/archive/6877742/science-the-magician-and-the-think-tank/](https://time.com/archive/6877742/science-the-magician-and-the-think-tank/)  
+   Link: <a href="https://time.com/archive/6877742/science-the-magician-and-the-think-tank/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6877742/science-the-magician-and-the-think-tank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science: The Magician And the Think TankMar 11, 1973 — After spending a day with Geller and Physicists Targ and Puthoff, Hyman was, in fa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng evidence for &quot;remote viewing.&quot; Here, Ray Hyman disputes this...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: time.com  
    Title: science new flap over uri  
-   Link: [https://time.com/archive/6878192/science-new-flap-over-uri/](https://time.com/archive/6878192/science-new-flap-over-uri/)  
+   Link: <a href="https://time.com/archive/6878192/science-new-flap-over-uri/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6878192/science-new-flap-over-uri/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science: New Flap Over Uri3 Nov 1974 —... Targ and Hal Puthoff are no match for Uri Geller.” Furthermore, he says, the SRI paper publish...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/322506a0.pdf](https://www.nature.com/articles/322506a0.pdf)  
+   Link: <a href="https://www.nature.com/articles/322506a0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/322506a0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wide sweepby AJ Thomson · 1986 — Well-controlled experiments never find the RV effect, while poorly controlled experiments nearly always...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Parapsychology research at SRI  
-   Link: [https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI](https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychology research at SRIEven Edgar Mitchell, who was present for the experiments and was a supporter of Geller, noted that Putho...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Harold E. Puthoff  
-   Link: [https://en.wikipedia.org/wiki/Harold_E._Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harold E. PuthoffIn the 1970s and 1980s, Puthoff directed a program at the Stanford Research Institute (SRI) to investigate paranormal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: time.com  
    Title: boom times on the psychic frontier  
-   Link: [https://time.com/archive/6877897/boom-times-on-the-psychic-frontier/](https://time.com/archive/6877897/boom-times-on-the-psychic-frontier/)  
+   Link: <a href="https://time.com/archive/6877897/boom-times-on-the-psychic-frontier/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6877897/boom-times-on-the-psychic-frontier/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Mar 1974 — Harold Puthoff, one of the two S.R.I, investigators of Uri Geller, is singled out in The Secret Life of Plants as a reputabl...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: content.time.com  
    Title: 0,33009,945074 2,00  
-   Link: [https://content.time.com/time/subscriber/article/0%2C33009%2C945074-2%2C00.html](https://content.time.com/time/subscriber/article/0%2C33009%2C945074-2%2C00.html)  
+   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C945074-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C945074-2%2C00.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>time.comScience: New Flap Over Uri - TIME4 Nov 1974 — He also criticized the controls that Targ and Puthoff used in their experiments...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/4423858/](https://pubmed.ncbi.nlm.nih.gov/4423858/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/4423858/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1974 Oct 18;251(5476):602-7. doi: 10.1038/251602a0. Authors. R Targ, H Puthoff. PMID...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chriscarosa.com  
    Title: the stargate folly its never about the science its always about the funding  
-   Link: [https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/](https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/)  
+   Link: <a href="https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/" target="_blank" rel="noopener noreferrer nofollow">https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris CarosaThe Stargate Folly – It&#x27;s Never About The Science...26 Apr 2022 — The flaw in the SRI experiments (and the successor project...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/7254336/](https://pubmed.ncbi.nlm.nih.gov/7254336/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wearenotsaved.com  
-   Link: [https://www.wearenotsaved.com/p/phenomena-why-must-it-always-be-a](https://www.wearenotsaved.com/p/phenomena-why-must-it-always-be-a)  
+   Link: <a href="https://www.wearenotsaved.com/p/phenomena-why-must-it-always-be-a" target="_blank" rel="noopener noreferrer nofollow">https://www.wearenotsaved.com/p/phenomena-why-must-it-always-be-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomena - Why Must It Always Be a Spoon?Mar 31, 2026 — Between December 1, 1972, and January 15, 1973, Puthoff and Targ completed nine...</p></details>
    Published: December 1, 1972  
 
 19. <a id="endnote-19"></a>
    Source: irenaroglic.si  
-   Link: [https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc](https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc)  
+   Link: <a href="https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc" target="_blank" rel="noopener noreferrer nofollow">https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Targ and H. E. Puthoff, &quot;Information Transfer under Conditions of Sensory Shielding,&quot; Nature 252, 602 (1974).Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/49221738/A-Meeting-With-Uri-Geller](https://www.scribd.com/document/49221738/A-Meeting-With-Uri-Geller)  
+   Link: <a href="https://www.scribd.com/document/49221738/A-Meeting-With-Uri-Geller" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/49221738/A-Meeting-With-Uri-Geller</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meeting With Uri Geller | PDF | ParapsychologyNature sent the Targ-Puthoff paper for peer review to three referees with the aim of esta...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/129548201/James-Randi-The-Truth-About-Uri-Geller-epub](https://www.scribd.com/document/129548201/James-Randi-The-Truth-About-Uri-Geller-epub)  
+   Link: <a href="https://www.scribd.com/document/129548201/James-Randi-The-Truth-About-Uri-Geller-epub" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/129548201/James-Randi-The-Truth-About-Uri-Geller-epub</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing the Geller Myth | PDF | ParapsychologyRandi details his attempts to offer Geller a way to publicly admit his abilities were tric...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
 
 23. <a id="endnote-23"></a>
    Source: jasonbrownlee.me  
    Title: Jason Brownlee Mind-Reach and PSI Debunking  
-   Link: [https://jasonbrownlee.me/blog/posts/mind-reach/](https://jasonbrownlee.me/blog/posts/mind-reach/)  
+   Link: <a href="https://jasonbrownlee.me/blog/posts/mind-reach/" target="_blank" rel="noopener noreferrer nofollow">https://jasonbrownlee.me/blog/posts/mind-reach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mind-Reach and PSI Debunking - Jason Brownlee20 Jan 2025 — The main criticisms of Targ and Puthoff&#x27;s remote viewing experiments were: Fla...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: machronicle.com  
    Title: The CIA Tested Psychic Spies for 22 Years  
-   Link: [https://machronicle.com/the-cia-tested-psychic-spies-for-22-years-they-worked-down-the-street/](https://machronicle.com/the-cia-tested-psychic-spies-for-22-years-they-worked-down-the-street/)  
+   Link: <a href="https://machronicle.com/the-cia-tested-psychic-spies-for-22-years-they-worked-down-the-street/" target="_blank" rel="noopener noreferrer nofollow">https://machronicle.com/the-cia-tested-psychic-spies-for-22-years-they-worked-down-the-street/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They Worked...5 hours ago — In 1974, the results of the experiment were published in Nature, one of the most prestigious scientific jour...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: x.com  
    Title: You make some fair points about Puthoff  
-   Link: [https://x.com/StarringShane/status/2051366298563854530](https://x.com/StarringShane/status/2051366298563854530)  
+   Link: <a href="https://x.com/StarringShane/status/2051366298563854530" target="_blank" rel="noopener noreferrer nofollow">https://x.com/StarringShane/status/2051366298563854530</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not defending...Ray Hyman, the skeptic on the same panel, agreed that the effect existed. He only really disputed the cause. Both he...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: davidfmarks.net  
    Title: Uri Geller: Self-Proclaimed 'Psychic'  
-   Link: [https://davidfmarks.net/uri-geller-self-proclaimed-psychic/](https://davidfmarks.net/uri-geller-self-proclaimed-psychic/)  
+   Link: <a href="https://davidfmarks.net/uri-geller-self-proclaimed-psychic/" target="_blank" rel="noopener noreferrer nofollow">https://davidfmarks.net/uri-geller-self-proclaimed-psychic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious About Behaviour6 Mar 2020 — A scientific report published in Nature verifying Geller&#x27;s psychic abilities under supposedly cheat-p...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skepticalaboutskeptics.org  
    Title: Randi's take on this series of experiments is withering.Read more  
-   Link: [https://skepticalaboutskeptics.org/investigating-skeptics/whos-who-of-media-skeptics/james-randi/james-randi-a-skeptical-look/](https://skepticalaboutskeptics.org/investigating-skeptics/whos-who-of-media-skeptics/james-randi/james-randi-a-skeptical-look/)  
+   Link: <a href="https://skepticalaboutskeptics.org/investigating-skeptics/whos-who-of-media-skeptics/james-randi/james-randi-a-skeptical-look/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalaboutskeptics.org/investigating-skeptics/whos-who-of-media-skeptics/james-randi/james-randi-a-skeptical-look/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Randi, A Skeptical LookThe article details experiments involving, among other participants, the professed psychic Uri Geller...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Remote viewing, CIA psychic spies, and Project Stargate  
-   Link: [https://www.youtube.com/watch?v=dzsm8hMoIUg](https://www.youtube.com/watch?v=dzsm8hMoIUg)  
+   Link: <a href="https://www.youtube.com/watch?v=dzsm8hMoIUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dzsm8hMoIUg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: stanforddaily.com  
-   Link: [https://stanforddaily.com/2023/05/28/letter-from-the-editor-illusions/](https://stanforddaily.com/2023/05/28/letter-from-the-editor-illusions/)  
+   Link: <a href="https://stanforddaily.com/2023/05/28/letter-from-the-editor-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://stanforddaily.com/2023/05/28/letter-from-the-editor-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Letter from the editor: Illusions28 May 2023 — Originally from Israel, Geller had Targ, Puthoff and the CIA convinced that he had special...</p></details>
-   Published: May 2023  
+   Published: May 2023

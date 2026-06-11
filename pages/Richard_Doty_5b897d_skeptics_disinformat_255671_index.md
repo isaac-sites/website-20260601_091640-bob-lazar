@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-skeptics/
 description: Focused pages that expand on Sceptics.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Richard_Doty_5b897d_skeptics_disinformat_255671
-parent_title: Sceptics | Was Richard Doty an Insider or Disinformer?
+parent_title: Sceptics
 parent_nav_short_title: Sceptics
 parent_permalink: /sceptics/
 ---

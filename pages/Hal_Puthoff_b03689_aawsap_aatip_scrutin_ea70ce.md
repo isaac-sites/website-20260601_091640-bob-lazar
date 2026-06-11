@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-hal-puthoff/
 nav_short_title: AAWSAP AATIP
 title: What Did AAWSAP Actually Prove?
-title_full: What Did AAWSAP Actually Prove? | Puthoff
+title_full: What Did AAWSAP Actually Prove?
 display_title_short: AAWSAP AATIP
 display_title: AAWSAP AATIP
 heading_title: What Did AAWSAP Actually Prove?
@@ -283,7 +283,7 @@ next_link:
   permalink: /access-vs-proof/
   short_title: Access vs Proof
   heading_title: Does Insider Access Prove His UFO Claims?
-date: '2026-06-09 03:01:14 '
+date: '2026-06-11 21:06:13 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview.webp
@@ -294,7 +294,6 @@ image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview-so
 
 [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s connection to AAWSAP and AATIP gives him a real place in the modern UAP story, but it does not prove the strongest claims often attached to that story. The public record shows that a DIA-managed programme existed, that Bigelow Aerospace was the main contractor, that Puthoff’s EarthTech network contributed speculative technical work, and that people around the programme later helped drive mainstream UAP disclosure. It also shows something narrower and less dramatic: official reviews have not found that AAWSAP or AATIP established extraterrestrial technology, crash retrievals, non-human bodies, or a hidden reverse-engineering programme. AARO’s 2024 historical review says the programme produced exploratory papers, reviewed cases, strayed into paranormal work, and was terminated in 2012 after DIA and DoD concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview.webp" | relative_url }}" alt="Overview image for AAWSAP AATIP" loading="eager" decoding="sync" fetchpriority="high">
 For Puthoff’s credibility, the key issue is not whether AAWSAP/AATIP was imaginary. It was not. The issue is what can fairly be inferred from his proximity to it. His involvement supports the claim that he operated inside a government-funded frontier-science and UAP-adjacent network. It does not, on the available public evidence, turn his wider claims about exotic technology or non-human intelligence into established fact.
 
@@ -304,10 +303,9 @@ The official record describes AAWSAP as a real Defense Intelligence Agency effor
 
 That matters because it gives Puthoff’s orbit a genuine institutional setting. This was not simply a private UFO club describing itself as official. The DIA did fund work under an advanced aerospace threat framing. The programme produced a set of Defense Intelligence Reference Documents, including highly theoretical subjects such as warp drive, wormholes, vacuum engineering, invisibility cloaking and advanced propulsion. The Federation of American Scientists noted that DIA released a list of 38 research titles in 2019, many of which it characterised as conjectural and beyond ordinary science, engineering or military intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
 
-Puthoff’s most direct documented link is through this technical-report ecosystem. One AAWSAP/DIA report, “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering”, is attributed to H. E. Puthoff of EarthTech International in publicly circulated copies, and the same title appears in the DIA/FOIA inventory of released DIRDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">DIA Advanced Space Propulsion</span></span></span> EarthTech’s own site says the Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and later incorporated under EarthTech International in 1991; its team page identifies him as EarthTech’s president, chief executive and chairman, as well as director of the Institute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech About</span><span class="citation-popover-snippet">Earth Tech About</span></span></span>
+Puthoff’s most direct documented link is through this technical-report ecosystem. One AAWSAP/DIA report, “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering”, is attributed to H. E. Puthoff of EarthTech International in publicly circulated copies, and the same title appears in the DIA/FOIA inventory of released DIRDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">DIA Advanced Space Propulsion</span></span></span> EarthTech’s own site says the Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and later incorporated under EarthTech International in 1991; its team page identifies him as EarthTech’s president, chief executive and chairman, as well as director of the Institute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech About</span><span class="citation-popover-snippet">Earth Tech About</span></span></span>
 
 The credibility gain is therefore specific. Puthoff can reasonably be described as a figure whose technical ideas and institutional network intersected with a real DIA-funded programme. The credibility limit is equally specific. The official record does not show that Puthoff managed AAWSAP, had custody of recovered craft, or had public, independently testable proof of non-human technology through the programme.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP AATIP illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AATIP naming confusion is central, not cosmetic
@@ -327,7 +325,6 @@ But the programme was not just a tidy technical forecasting exercise. AARO says 
 That mixture is crucial for assessing Puthoff. His career had already moved through remote viewing, quantum-vacuum and advanced propulsion speculation, and AAWSAP’s mixture of aerospace, UAP and paranormal-adjacent work overlaps closely with that intellectual territory. For supporters, this suggests Puthoff was exactly the kind of unconventional scientist willing to explore areas that mainstream institutions avoided. For sceptics, it raises governance concerns: a defence-funded programme appeared to drift from future aerospace threat assessment into poorly bounded paranormal and UFO work.
 
 The War Zone’s analysis of the 38 studies made a similar distinction. It noted that some reports came from credible academic or industry sources and dealt with legitimate long-range research areas, but also argued that EarthTech and figures close to Bigelow were prominent in the more dubious or fringe end of the list. It reported that Puthoff and Eric Davis were primary authors on six of the 38 reports between them, with Davis also co-authoring another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ER1gQDCZhnY" title="Exclusive: I-Team obtains some key documents related to Pentagon UFO study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ER1gQDCZhnY" target="_blank" rel="noopener noreferrer">Exclusive: I-Team obtains some key documents related to Pentagon UFO study</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 3.1K &middot; Uploaded: July 2018 &middot; Length: 4 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ER1gQDCZhnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ER1gQDCZhnY">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +348,6 @@ AARO’s separate KONA BLUE release is especially relevant because it shows how 
 
 For Puthoff, this undercuts a common leap in reasoning. The existence of proposals to protect alleged materials is not the same as evidence that such materials existed. AARO’s finding is that some advocates assumed relevant materials would appear if a protected programme were created. That is a very different proposition from a confirmed chain of custody for non-human technology.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP AATIP illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The governance problem: a real programme with blurred boundaries
 
@@ -373,7 +369,6 @@ That history should not be dismissed. Before 2017, public discussion of UFOs was
 
 For Puthoff’s credibility, this is the strongest pro-Puthoff point: he was early, persistent and institutionally connected in a field that later became less marginal. His supporters can fairly say he was not merely following a trend after it became fashionable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6Wud0LzFQY" title="Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer">Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 99.4K &middot; Uploaded: December 2023 &middot; Length: 3 hours 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6Wud0LzFQY">Open on YouTube</a></p></div></div></div>
 
 ## Why sceptics see the same record differently
@@ -384,7 +379,6 @@ The strongest sceptical point is that institutional access can launder uncertain
 
 This is especially important in Puthoff’s case because his career has long sat at the boundary between recognised technical expertise and highly contested frontier subjects. AAWSAP/AATIP confirms that this boundary-crossing had official buyers. It does not resolve whether the boundary-crossing produced reliable knowledge.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bpuqF6iz78Y" title="Why The US Military Secretly CLASSIFIED The Thermodynamics Of Time Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bpuqF6iz78Y" target="_blank" rel="noopener noreferrer">Why The US Military Secretly CLASSIFIED The Thermodynamics Of Time Travel</a></p><p class="youtube-embed-meta">Channel: Sleepy Joe Space &middot; Views: 289 &middot; Uploaded: May 2026 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bpuqF6iz78Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bpuqF6iz78Y">Open on YouTube</a></p></div></div></div>
 
 ## What AAWSAP/AATIP should and should not do for Puthoff’s credibility
@@ -394,7 +388,6 @@ AAWSAP/AATIP should raise Puthoff above the category of casual commentator. He h
 But AAWSAP/AATIP should not be used as a shortcut around evidence. The strongest public official reviews say the programme did not establish off-world technology, did not produce thoroughly peer-reviewed proof, did not become a justified Special Access Program, and did not transfer recovered non-human material into a successor DHS compartment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
 
 The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement strengthens his credibility as an insider-adjacent technical participant in a real government-funded UAP-era network. It weakens overconfident claims that his proximity to that network proves non-human craft, crash retrievals or exotic propulsion breakthroughs. The programme is evidence of institutional interest and unusual research choices, not public proof that the most extraordinary UAP claims are true.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP AATIP illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -515,15 +508,15 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="https://i.ebayimg.com/images/g/hhQAAOSwq-Jemtmx/s-l225.jpg" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +524,15 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +540,15 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="https://i.ebayimg.com/images/g/yn0AAOSw~r1htoYO/s-l225.jpg" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +556,15 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Michael Schenker Photo Original Black And White Press Promo November 1985"><img src="https://i.ebayimg.com/images/g/2IEAAOSwxQBnMgB1/s-l225.jpg" alt="Listing image for UFO Michael Schenker Photo Original Black And White Press Promo November 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Michael Schenker Photo Original Black And White Press Promo November 1985</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +572,7 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-aatip-what-did-aawsap-actually-prove-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aawsap-actually-prove-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-did-aawsap-actually-prove-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -795,172 +788,172 @@ The fairest assessment is therefore mixed. Puthoff’s AAWSAP/AATIP involvement 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: earthtech.org  
    Title: Earth Tech About  
-   Link: [https://earthtech.org/about/](https://earthtech.org/about/)  
+   Link: <a href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/about/</a>  
 
 5. <a id="endnote-5"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv ADVANCED SPACE PROPULSION BASED ON VACUUM  
-   Link: [https://arxiv.org/pdf/1204.2184](https://arxiv.org/pdf/1204.2184)  
+   Link: <a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering  
-   Link: [https://arxiv.org/abs/1204.2184](https://arxiv.org/abs/1204.2184)  
+   Link: <a href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1204.2184</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: earthtech.org  
    Title: Hal Puthoff  
-   Link: [https://earthtech.org/pubs/puthoff/](https://earthtech.org/pubs/puthoff/)  
+   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
 
 13. <a id="endnote-13"></a>
    Source: disclosure.org  
    Title: hal puthoff carlos eire  
-   Link: [https://disclosure.org/releases/hal-puthoff-carlos-eire](https://disclosure.org/releases/hal-puthoff-carlos-eire)  
+   Link: <a href="https://disclosure.org/releases/hal-puthoff-carlos-eire" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/releases/hal-puthoff-carlos-eire</a>  
 
 14. <a id="endnote-14"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 15. <a id="endnote-15"></a>
    Source: info.publicintelligence.net  
    Title: DIA Advanced Space Propulsion  
-   Link: [https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf](https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk](https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk)  
+   Link: <a href="https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk</a>  
 
 17. <a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The New Yorker How the Pentagon Started Taking U.F.O.s Seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
 18. <a id="endnote-18"></a>
    Source: tothestars.media  
    Title: To The Stars*The New York Times: Glowing Auras and 'Black Money'  
-   Link: [https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOopOJKgM_H2kgjpIvOEOR96nfMQGwY1RjpJmSQcff9a-JY36nEJO](https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOopOJKgM_H2kgjpIvOEOR96nfMQGwY1RjpJmSQcff9a-JY36nEJO)  
+   Link: <a href="https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOopOJKgM_H2kgjpIvOEOR96nfMQGwY1RjpJmSQcff9a-JY36nEJO" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOopOJKgM_H2kgjpIvOEOR96nfMQGwY1RjpJmSQcff9a-JY36nEJO</a>  
 
 19. <a id="endnote-19"></a>
    Source: theblackvault.com  
    Title: the black vaults aawsap aatip and post 2017 ufo timeline project  
-   Link: [https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/](https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/</a>  
 
 20. <a id="endnote-20"></a>
    Source: documents.theblackvault.com  
    Title: dia aatip reports  
-   Link: [https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf](https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: theblackvault.com  
    Title: the advanced aviation threat identification program aatip dird report research  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: theblackvault.com  
    Title: harry reid and his aatip letter the mystery deepens  
-   Link: [https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/](https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/</a>  
 
 24. <a id="endnote-24"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 15 DIRD Advanced Space Propulsion Based on Vacuum Spacetime Metric Engineer  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: x.com  
-   Link: [https://x.com/nytimes/status/942080653427953665](https://x.com/nytimes/status/942080653427953665)  
+   Link: <a href="https://x.com/nytimes/status/942080653427953665" target="_blank" rel="noopener noreferrer nofollow">https://x.com/nytimes/status/942080653427953665</a>  
 
 26. <a id="endnote-26"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract](https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Why The US Military Secretly CLASSIFIED The Thermodynamics Of Time Travel  
-   Link: [https://www.youtube.com/watch?v=bpuqF6iz78Y](https://www.youtube.com/watch?v=bpuqF6iz78Y)  
+   Link: <a href="https://www.youtube.com/watch?v=bpuqF6iz78Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpuqF6iz78Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former AATIP director on forthcoming report on unidentified aerial phenomena...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a6Wud0LzFQY](https://www.youtube.com/watch?v=a6Wud0LzFQY)  
+   Link: <a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6Wud0LzFQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2314 - Hal Puthoff...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gf_tKn9TaP8](https://www.youtube.com/watch?v=Gf_tKn9TaP8)  
+   Link: <a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gf_tKn9TaP8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why The US Military Secretly CLASSIFIED The Thermodynamics Of Time Travel...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering](https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering)  
+   Link: <a href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wtol11/posts/a-new-york-times-reports-claims-the-pentagon-spent-tens-of-millions-of-dollars-r/10154968477141481/](https://www.facebook.com/wtol11/posts/a-new-york-times-reports-claims-the-pentagon-spent-tens-of-millions-of-dollars-r/10154968477141481/)  
+   Link: <a href="https://www.facebook.com/wtol11/posts/a-new-york-times-reports-claims-the-pentagon-spent-tens-of-millions-of-dollars-r/10154968477141481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/a-new-york-times-reports-claims-the-pentagon-spent-tens-of-millions-of-dollars-r/10154968477141481/</a>  
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/691652297/HarryReid-Letter](https://www.scribd.com/document/691652297/HarryReid-Letter)  
+   Link: <a href="https://www.scribd.com/document/691652297/HarryReid-Letter" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/691652297/HarryReid-Letter</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 36. <a id="endnote-36"></a>
    Source: bis-space.com  
-   Link: [https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/](https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/)  
+   Link: <a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>

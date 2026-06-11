@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /radiation/
 nav_short_title: Hot particles
 title: Could one tiny particle explain the injury?
-title_full: Could one tiny particle explain the injury? | Radiation
+title_full: Could one tiny particle explain the injury?
 display_title_short: Hot particles
 display_title: Hot particles
 heading_title: Could one tiny particle explain the injury?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Should Readers Make of the Radiation Claim? | Taylor
+parent_title: What Should Readers Make of the Radiation Claim?
 parent_permalink: /radiation/
 parent_nav_short_title: Radiation
 parent_heading_title: What Should Readers Make of the Radiation Claim?
@@ -253,7 +253,7 @@ next_link:
   permalink: /medical-proof/
   short_title: Medical proof
   heading_title: What would doctors need to confirm it?
-date: '2026-06-09 03:10:29 '
+date: '2026-06-11 21:08:35 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-1.webp
@@ -264,7 +264,6 @@ image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_m
 
 One of the more technically plausible explanations for the reported [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) [radiation]({{ 'radiation/' | relative_url }}) incident is not a large invisible energy field, but a much smaller and more mundane mechanism: a radioactive “hot particle”. In radiation protection, a hot particle is a tiny fragment of radioactive material that can deliver a high dose to a very small area of skin while producing little or no significant whole-body exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission NRC REGULATORY ISSUE</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-1-dark.svg" | relative_url }}" alt="Hot particles illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That possibility matters because it sits between two competing interpretations of [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s reported injury. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) of the ranch narrative sometimes point to the incident as evidence of an unusual radiation source or unknown phenomenon. Sceptics often argue that the public evidence does not demonstrate any confirmed radiation injury at all. The hot-particle hypothesis offers a narrower middle position: a localised contamination event could, in theory, produce a skin effect without requiring an extreme whole-body dose. The problem is that proving such a mechanism would require contamination evidence that has not been publicly presented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>
 
@@ -272,14 +271,13 @@ That possibility matters because it sits between two competing interpretations o
 
 Many people hear the phrase “radiation exposure” and imagine the entire body being irradiated. Radiation injuries do not always work that way.
 
-A tiny radioactive particle resting on skin can concentrate its energy into a very small patch of tissue. This is especially relevant for beta-emitting contamination. Beta particles have limited penetration depth, so much of their energy is deposited near the surface rather than deep inside the body. The result can be a highly localised injury that looks more like a burn or skin lesion than classic acute radiation sickness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radiation_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Radiation burn</span><span class="citation-popover-snippet">Radiation burnBeta burns tend to be shallow as beta particles are not able to penetrate deeply into a body; these burns can be similar...</span></span></span>
+A tiny radioactive particle resting on skin can concentrate its energy into a very small patch of tissue. This is especially relevant for beta-emitting contamination. Beta particles have limited penetration depth, so much of their energy is deposited near the surface rather than deep inside the body. The result can be a highly localised injury that looks more like a burn or skin lesion than classic acute radiation sickness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radiation_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Radiation burn</span><span class="citation-popover-snippet">Radiation burnBeta burns tend to be shallow as beta particles are not able to penetrate deeply into a body; these burns can be similar...</span></span></span>
 
 Regulators and radiation-safety agencies have long recognised this problem. The US Nuclear Regulatory Commission describes hot particles as very small radioactive fragments that can cling to skin and create concentrated local exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission NRC REGULATORY ISSUE</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</span></span></span>
 
 This distinction is important when assessing the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch [claims]({{ 'claims/' | relative_url }}). If someone experienced a small area of skin damage, that would not automatically imply that their whole body received a dangerous radiation dose. In fact, medical guidance specifically notes that cutaneous radiation injury can occur without the broader symptoms associated with full acute radiation syndrome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/infographic/contamination-versus-exposure.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">contamination versus exposure</span><span class="citation-popover-snippet">Radiation Contamination Versus ExposureApr 17, 2024 — EXTERNAL CONTAMINATION. External contamination occurs when radioactive material com...</span></span></span>
 
 The physics therefore allows a scenario in which:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ The physics therefore allows a scenario in which:
 </div>
 
 That does not show that such an event happened at Skinwalker Ranch. It only establishes that the mechanism is physically possible.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JT7QN_5vxVg" title="1 MINUTE AGO: Dr. Travis Taylor Hospitalized After Skinwalker Ranch Incident..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JT7QN_5vxVg" target="_blank" rel="noopener noreferrer">1 MINUTE AGO: Dr. Travis Taylor Hospitalized After Skinwalker Ranch Incident...</a></p><p class="youtube-embed-meta">Channel: I Believe &middot; Views: 72.5K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JT7QN_5vxVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JT7QN_5vxVg">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +310,6 @@ This is where the public Skinwalker Ranch record becomes difficult to evaluate. 
 
 Without those steps, the hot-particle idea remains a theoretical mechanism rather than a demonstrated cause.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-2-dark.svg" | relative_url }}" alt="Hot particles illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the idea helps the claim
 
@@ -324,7 +320,6 @@ Critics often ask how a person could allegedly receive a significant radiation i
 The mechanism also fits the basic setting portrayed on television. The team was reportedly opening or investigating a covered underground feature at Homestead 2. If a radioactive contaminant existed in soil, debris or enclosed material, a contact contamination scenario is at least physically conceivable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span>
 
 In other words, the hot-particle concept reduces the need to invoke an extraordinarily powerful or exotic radiation source. It offers a known radiological mechanism using established physics and recognised injury patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission NRC REGULATORY ISSUE</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W8FhrtaEQz4" title="The Secret of Skinwalker Ranch: DANGEROUS RADIATION UNCOVERED (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer">The Secret of Skinwalker Ranch: DANGEROUS RADIATION UNCOVERED (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 384.5K &middot; Uploaded: May 2020 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W8FhrtaEQz4">Open on YouTube</a></p></div></div></div>
 
@@ -340,21 +335,18 @@ If a particle produced a meaningful local dose, investigators would normally try
 
 This creates an unusual credibility tension. The hot-particle hypothesis is arguably one of the more scientifically grounded explanations available, yet the public record does not provide the contamination data needed to support it. As a result, it functions more as a possible reconciliation of the reported symptoms with known radiological science than as a verified account of what happened to Travis Taylor at Skinwalker Ranch.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-3-dark.svg" | relative_url }}" alt="Hot particles illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_hot_particle_mechani_48e69f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the mechanism sits in the credibility debate
 
 Within the broader debate over Taylor’s credibility, the hot-particle idea is best understood as a plausible but unproven exposure pathway.
 
-It neither validates the strongest Skinwalker Ranch claims nor completely dismisses the possibility that an unusual incident occurred. Radiation medicine and regulatory literature clearly show that tiny radioactive particles can produce localised skin injury under some circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission NRC REGULATORY ISSUE</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</span></span></span>
+It neither validates the strongest Skinwalker Ranch claims nor completely dismisses the possibility that an unusual incident occurred. Radiation medicine and regulatory literature clearly show that tiny radioactive particles can produce localised skin injury under some circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission NRC REGULATORY ISSUE</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</span></span></span>
 
 However, those same fields also rely heavily on contamination surveys, dosimetry and source identification. The public material surrounding the ranch incident does not currently provide enough information to establish that a hot particle was present, what radionuclide might have been involved, what dose was received or whether radiation was responsible for the reported symptoms at all. IAEA Publications <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8785213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCutaneous and Local Radiation Injuries</span><span class="citation-popover-snippet">and Local Radiation Injuries - PMCby CJ Iddins · 2022 · Cited by 61 — This article will provide an overview of radiation-induced injuries...</span></span></span>
 
 As an evidential matter, the mechanism remains possible. As a demonstrated explanation for the Skinwalker Ranch incident, it remains unconfirmed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gbsx4kDUjvo" title="Proof of Retaliation? Analyzing the Attack on Dr. Travis Taylor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer">Proof of Retaliation? Analyzing the Attack on Dr. Travis Taylor</a></p><p class="youtube-embed-meta">Channel: Avvalanchhe &middot; Views: 166 &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gbsx4kDUjvo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +465,15 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Equine Livestock Biosecurity Sign Pack â€“ Footbath Farm Yard Hygiene Signs"><img src="{{ '/assets/images/marketplace-covers/5380bb244771ee6d7fb3.jpg' | relative_url }}" alt="Listing image for Equine Livestock Biosecurity Sign Pack â€“ Footbath Farm Yard Hygiene Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Equine Livestock Biosecurity Sign Pack â€“ Footbath Farm Yard Hygiene Signs</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biosecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: biosecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +481,15 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BIOSECURITY AREA Vinyl Sticker Safety Workplace Construction OH&amp;S Sign"><img src="{{ '/assets/images/marketplace-covers/1c60c0325b12fa5a457f.jpg' | relative_url }}" alt="Listing image for BIOSECURITY AREA Vinyl Sticker Safety Workplace Construction OH&amp;S Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BIOSECURITY AREA Vinyl Sticker Safety Workplace Construction OH&amp;S Sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biosecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: biosecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +497,15 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Farm Biosecurity Notice Sign â€“ No Unauthorised Access"><img src="{{ '/assets/images/marketplace-covers/7bd3a35a452f692dcebb.jpg' | relative_url }}" alt="Listing image for Farm Biosecurity Notice Sign â€“ No Unauthorised Access" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Farm Biosecurity Notice Sign â€“ No Unauthorised Access</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biosecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: biosecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Biosecurity Quarantine Area Indoor Outdoor Banner Sign with grommets"><img src="{{ '/assets/images/marketplace-covers/aad14f769182f808d3fe.jpg' | relative_url }}" alt="Listing image for Biosecurity Quarantine Area Indoor Outdoor Banner Sign with grommets" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Biosecurity Quarantine Area Indoor Outdoor Banner Sign with grommets</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for biosecurity sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: biosecurity sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +529,7 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=biosecurity+sign+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="biosecurity sign -book -books -dvd" data-ebay-reference="hot-particles-could-one-tiny-particle-explain-the-injury-travis-taylor-biosecurity-sign-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-one-tiny-particle-explain-the-injury-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-one-tiny-particle-explain-the-injury-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,219 +744,219 @@ As an evidential matter, the mechanism remains possible. As a demonstrated expla
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html](https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCCutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</p></details>
+   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutaneous Radiation Injury (CRI): Information for Clinicians17 Apr 2024 — Cutaneous Radiation Injury (CRI) is injury to the skin and u...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Radiation burn  
-   Link: [https://en.wikipedia.org/wiki/Radiation_burn](https://en.wikipedia.org/wiki/Radiation_burn)  
+   Link: <a href="https://en.wikipedia.org/wiki/Radiation_burn" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiation_burn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation burnBeta burns tend to be shallow as beta particles are not able to penetrate deeply into a body; these burns can be similar...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCutaneous and Local Radiation Injuries  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8785213/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8785213/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8785213/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8785213/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Local Radiation Injuries - PMCby CJ Iddins · 2022 · Cited by 61 — This article will provide an overview of radiation-induced injuries...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9846999/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9846999/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCalculation of Skin Dose Rate Conversion Factors Due to...by I Pasquevich · 2022 · Cited by 5 — To assess the severity of contaminati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9846999/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9846999/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculation of Skin Dose Rate Conversion Factors Due to...by I Pasquevich · 2022 · Cited by 5 — To assess the severity of contaminati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: www-pub.iaea.org  
-   Link: [https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsDiagnosis and Treatment of Radiation InjuriesA radiological accident involves a sealed or unsealed radiation source and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: remm.hhs.gov  
-   Link: [https://remm.hhs.gov/backgroundrad.htm](https://remm.hhs.gov/backgroundrad.htm)  
+   Link: <a href="https://remm.hhs.gov/backgroundrad.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/backgroundrad.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Removing outer clothing and shoes typically...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdc.gov  
    Title: contamination versus exposure  
-   Link: [https://www.cdc.gov/radiation-emergencies/infographic/contamination-versus-exposure.html](https://www.cdc.gov/radiation-emergencies/infographic/contamination-versus-exposure.html)  
+   Link: <a href="https://www.cdc.gov/radiation-emergencies/infographic/contamination-versus-exposure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/infographic/contamination-versus-exposure.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Contamination Versus ExposureApr 17, 2024 — EXTERNAL CONTAMINATION. External contamination occurs when radioactive material com...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iaea.org  
-   Link: [https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema](https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema)  
+   Link: <a href="https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erythema and skin injuriesIt is unlikely for a skin reaction to occur for doses lower than about 2 Gy on the skin surface. Some not so se...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: www-pub.iaea.org  
    Title: Pub1227 web  
-   Link: [https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1227_web.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1227_web.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1227_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1227_web.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Standards Categorization of Radioactive Sources—Labelling of high activity sources: To guide decisions regarding which sources sho...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: iaea.org  
-   Link: [https://www.iaea.org/Publications/Factsheets/English/radlife](https://www.iaea.org/Publications/Factsheets/English/radlife)  
+   Link: <a href="https://www.iaea.org/Publications/Factsheets/English/radlife" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/Publications/Factsheets/English/radlife</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation in Everyday LifeAlpha radiation can be stopped completely by a sheet of paper or by the thin surface layer of our skin (epiderm...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: www-pub.iaea.org  
    Title: Pub1660web 81061875  
-   Link: [https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>radiological accident in Lia, GeorgiaThe area in which the radioactive sources were located was characterized by poor meteorological cond...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iaea.org  
    Title: launches stem cell project to treat radiation skin injuries  
-   Link: [https://www.iaea.org/newscenter/news/iaea-launches-stem-cell-project-to-treat-radiation-skin-injuries](https://www.iaea.org/newscenter/news/iaea-launches-stem-cell-project-to-treat-radiation-skin-injuries)  
+   Link: <a href="https://www.iaea.org/newscenter/news/iaea-launches-stem-cell-project-to-treat-radiation-skin-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/newscenter/news/iaea-launches-stem-cell-project-to-treat-radiation-skin-injuries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA Launches Stem Cell Project to Treat Radiation Skin...4 Aug 2025 — The IAEA has launched a new stem cell research project to improve...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: www-pub.iaea.org  
    Title: te 1191 prn  
-   Link: [https://www-pub.iaea.org/MTCD/Publications/PDF/te_1191_prn.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/te_1191_prn.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1191_prn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1191_prn.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of radiation sourcesIf a source which is not controlled becomes ruptured, it may then result in contamination of equipment or individuals...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: www-pub.iaea.org  
    Title: WHO P En rev  
-   Link: [https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to recognize and initially respond to an accidental...It can occur alone, or be combined with other injury, such as trauma, thermal burn...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: www-pub.iaea.org  
    Title: Pub1123 scr  
-   Link: [https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1123_scr.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1123_scr.pdf)  
+   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1123_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1123_scr.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiological Accident in GilanAs a result of exposure to the iridium source, the worker suffered from severe haematopoietic syndrome (bon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iaea.org  
-   Link: [https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf](https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf)  
+   Link: <a href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>whereas RBE ≈ 1 for low-LET sources...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: List of civilian radiation accidents  
-   Link: [https://en.wikipedia.org/wiki/List_of_civilian_radiation_accidents](https://en.wikipedia.org/wiki/List_of_civilian_radiation_accidents)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_civilian_radiation_accidents" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_civilian_radiation_accidents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of civilian radiation accidentsThis article lists notable civilian accidents involving radioactive materials or involving ionizin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. TaylorTravis Shane Taylor (born July 24, 1968) is an American scientist... Skinwalker Ranch. Travis S. Taylor. Born, (1968...</p></details>
    Published: July 24, 1968  
 
 20. <a id="endnote-20"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nrc.gov  
    Title: Nuclear Regulatory Commission NRC REGULATORY ISSUE  
-   Link: [https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf](https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf)  
+   Link: <a href="https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/gen-comm/reg-issues/2002/ri02010.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionNRC REGULATORY ISSUE SUMMARY 2002-10...9 Jul 2002 — Hot particles are very small, barely visible, particles...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch](https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch)  
+   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
-   Link: [https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation](https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation)  
+   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=W8FhrtaEQz4](https://www.youtube.com/watch?v=W8FhrtaEQz4)  
+   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchWhile the team explores a hidden hole at Homestead 2, Travis mysteriously falls ill after being exposed to...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: TH E SECRET OF SKINWALKER RANCH Returns  
-   Link: [https://www.youtube.com/watch?v=uBabYbbhSgc](https://www.youtube.com/watch?v=uBabYbbhSgc)  
+   Link: <a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBabYbbhSgc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF SKINWALKER RANCH Returns - Interview...Watch our interview with Dr. Travis Taylor, aerospace engineer, optical scientist...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
    Title: Frequency Experiments  
-   Link: [https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments](https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments)  
+   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments | The Secret of Skinwalker Ranch WikiHealth Concerns: Team members have reported experiencing acute physical symptoms, includ...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt12373646/](https://www.imdb.com/title/tt12373646/)  
+   Link: <a href="https://www.imdb.com/title/tt12373646/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt12373646/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er worldly explanation.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt10589968/](https://www.imdb.com/title/tt10589968/)  
+   Link: <a href="https://www.imdb.com/title/tt10589968/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt10589968/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch (TV Series 2020–)A team of experts and scientists undertakes exhaustive research at Skinwalker Ranch, an...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03](https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03)  
+   Link: <a href="https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anch, they find shocking new evidence that the radiation and UAP...Read more...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/opennet/servlets/purl/16376606.pdf](https://www.osti.gov/opennet/servlets/purl/16376606.pdf)  
+   Link: <a href="https://www.osti.gov/opennet/servlets/purl/16376606.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/servlets/purl/16376606.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RADIATION STANDARDS FOR HOT PARTICLES (...Albert and co-workers pe=formed a number of experiments on the induction of cancer in rat skin...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: polimaster.com  
-   Link: [https://polimaster.com/company/blog-radiation-basics/internal-external-contamination/](https://polimaster.com/company/blog-radiation-basics/internal-external-contamination/)  
+   Link: <a href="https://polimaster.com/company/blog-radiation-basics/internal-external-contamination/" target="_blank" rel="noopener noreferrer nofollow">https://polimaster.com/company/blog-radiation-basics/internal-external-contamination/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal, external exposure and contaminationThe main difference between internal and external exposure lies in whether the source that e...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1668047831172243/](https://www.facebook.com/groups/1065166071460425/posts/1668047831172243/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1668047831172243/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1668047831172243/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S Taylor&#x27;s health concerns after radiation eventHis neck/shoulder/arm is still doing pretty well…he has some tingling at times but...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/](https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis a bit off about radiation..: r/skinwalkerranchHe had a doctor diagnose the burns on his face as radiation burns, and they took mo...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2009/ML20091E747.pdf](https://www.nrc.gov/docs/ML2009/ML20091E747.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2009/ML20091E747.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2009/ML20091E747.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dosimetry 14(4),279-287(1986). *. Strather, J.W., &quot;Rauiation Damage to Skin,&quot; Report of a Workshop.Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
    Title: in july 2019 before drilling could begin the team conducted one last radiation s  
-   Link: [https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/](https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, before drilling could begin, the team...In July 2019, before drilling could begin, the team conducted one last radiation s...</p></details>
    Published: july 2019  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gbsx4kDUjvo](https://www.youtube.com/watch?v=Gbsx4kDUjvo)  
+   Link: <a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: aneskey.com  
    Title: radiation accidents and the medical management of acute radiation injury  
-   Link: [https://aneskey.com/radiation-accidents-and-the-medical-management-of-acute-radiation-injury/](https://aneskey.com/radiation-accidents-and-the-medical-management-of-acute-radiation-injury/)  
+   Link: <a href="https://aneskey.com/radiation-accidents-and-the-medical-management-of-acute-radiation-injury/" target="_blank" rel="noopener noreferrer nofollow">https://aneskey.com/radiation-accidents-and-the-medical-management-of-acute-radiation-injury/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Accidents and the Medical Management of Acute...10 May 2017 — Both electromagnetic and particulate forms of ionizing radiation...</p></details>
    Published: May 2017  
 
 38. <a id="endnote-38"></a>
    Source: irpa.net  
-   Link: [https://www.irpa.net/irpa9/cdrom/VOL.4/V4_13.PDF](https://www.irpa.net/irpa9/cdrom/VOL.4/V4_13.PDF)  
+   Link: <a href="https://www.irpa.net/irpa9/cdrom/VOL.4/V4_13.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.irpa.net/irpa9/cdrom/VOL.4/V4_13.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>articles was deemed less than that when extended areas of the skin are irradiated due to the...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: journals.lww.com  
    Title: medical management of ionizing radiation induced.2.aspx  
-   Link: [https://journals.lww.com/rpae/fulltext/2022/45010/medical_management_of_ionizing_radiation_induced.2.aspx](https://journals.lww.com/rpae/fulltext/2022/45010/medical_management_of_ionizing_radiation_induced.2.aspx)  
+   Link: <a href="https://journals.lww.com/rpae/fulltext/2022/45010/medical_management_of_ionizing_radiation_induced.2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/rpae/fulltext/2022/45010/medical_management_of_ionizing_radiation_induced.2.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsMedical management of ionizing radiation-induced skin...by H Ojha · 2022 · Cited by 2 — Therefore, beta particles, ga...</p></details>

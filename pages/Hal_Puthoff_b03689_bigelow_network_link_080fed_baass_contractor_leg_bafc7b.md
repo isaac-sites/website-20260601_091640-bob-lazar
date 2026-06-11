@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /bigelow-links/
 nav_short_title: BAASS model
 title: How BAASS changed the stakes
-title_full: How BAASS changed the stakes | Bigelow Links
+title_full: How BAASS changed the stakes
 display_title_short: BAASS model
 display_title: BAASS model
 heading_title: How BAASS changed the stakes
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Bigelow Network Matters | Puthoff
+parent_title: Why the Bigelow Network Matters
 parent_permalink: /bigelow-links/
 parent_nav_short_title: Bigelow Links
 parent_heading_title: Why the Bigelow Network Matters
@@ -247,7 +247,7 @@ next_link:
   permalink: /nids-bridge/
   short_title: NIDS bridge
   heading_title: Did NIDS make Puthoff more credible?
-date: '2026-06-09 03:02:27 '
+date: '2026-06-11 21:06:35 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contr
 ## Introduction
 
 The creation of Bigelow Aerospace Advanced Space Studies (BAASS) marked a turning point in the modern UFO and UAP story because it transformed a largely private network of anomaly researchers into a formal defence contractor structure. For supporters of figures such as [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}), that shift matters because it demonstrates that people long associated with fringe subjects gained access to a real US government-funded programme. For sceptics, it matters for the opposite reason: it shows how official contracts and intelligence links can create an appearance of legitimacy without necessarily producing publicly verifiable evidence for the extraordinary claims involved.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1-dark.svg" | relative_url }}" alt="BAASS model illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key credibility question is not whether BAASS existed. Its role as contractor on the Defence Intelligence Agency's Advanced Aerospace Weapon System Applications Program (AAWSAP) is well documented. The harder question is what that government relationship actually proved. BAASS undeniably secured official funding, delivered reports, hired researchers and interacted with defence structures. What remains disputed is whether the programme generated evidence that justified the more ambitious claims later associated with parts of the Bigelow-Puthoff network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••.Read more...</span></span></span>
@@ -269,9 +268,6 @@ Before BAASS, much of the Bigelow-linked anomaly world operated through organisa
 This distinction is important when assessing Puthoff's credibility. Critics sometimes portray the network as a purely fringe community. That description becomes harder to sustain once the group is operating under a Defence Intelligence Agency contract. At the same time, supporters sometimes treat the existence of the contract as proof that the underlying paranormal or UFO claims were validated. The available evidence does not support that conclusion either.
 
 What BAASS achieved was institutional access. It moved people associated with unconventional research into a setting where they could produce studies, collect reports and interact with government officials under an official funding stream. That alone elevated the network's profile and helped shape later disclosure-era narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••.Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i48jr6xQv_o" title="Skinwalkers at the Pentagon by George Knapp - What&#x27;s following UFO Officials home from the Pentagon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i48jr6xQv_o" target="_blank" rel="noopener noreferrer">Skinwalkers at the Pentagon by George Knapp - What&#x27;s following UFO Officials home from the Pentagon?</a></p><p class="youtube-embed-meta">Channel: The UFO Book Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i48jr6xQv_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i48jr6xQv_o">Open on YouTube</a></p></div></div></div>
 
 ## Why the contractor vehicle mattered
 
@@ -286,7 +282,6 @@ Several features of the contractor model strengthened the network's government-f
 
 For Puthoff specifically, the contractor framework strengthened his public image as someone operating close to official channels rather than solely within civilian UFO culture. Supporters frequently point to his advisory and scientific roles within the broader AAWSAP ecosystem as evidence that government personnel considered his expertise valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I Was A Private Contractor for Various Do D Agencies</span><span class="citation-popover-snippet">we have UFOs&quot; like of course you do, that&#x27;s part of government research. Every country with aerospace research has a &quot;UFO&quot;. 1 more reply...</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-2-dark.svg" | relative_url }}" alt="BAASS model illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility boost from official funding
 
@@ -300,21 +295,17 @@ From a governance perspective, BAASS demonstrated how a private research network
 
 That distinction remains important. Government funding can indicate institutional curiosity, perceived threat relevance or political support. It is not the same thing as scientific confirmation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/64Aj-gjFxYU" title="That UFO Podcast - Colm Kelleher &amp; George Knapp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=64Aj-gjFxYU" target="_blank" rel="noopener noreferrer">That UFO Podcast - Colm Kelleher &amp; George Knapp</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=64Aj-gjFxYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=64Aj-gjFxYU">Open on YouTube</a></p></div></div></div>
-
 ## The proof gap after the contract period
 
 The central criticism of BAASS is that the programme's visibility and official status exceeded the strength of the evidence later released publicly.
 
 Supporters often highlight the large volume of reports produced, the so-called "Ten Month Report", witness collections, technical papers and internal briefings. They argue that the programme accumulated significant data that has never been fully released. In that reading, the public lacks access to the most important evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span>
 
-Sceptics respond that extraordinary claims require publicly testable evidence, not merely references to classified files or unpublished reports. They note that years after the programme ended, no publicly available BAASS material has conclusively demonstrated non-human technology, paranormal phenomena or the more dramatic claims associated with Skinwalker Ranch lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 5</span><span class="citation-popover-snippet">MetabunkThe Origins of AAWSAP | Page 521 Jun 2022 — Grusch, Puthoff, Davis and others have claimed, without any evidence, that contractor...</span></span></span>
+Sceptics respond that extraordinary claims require publicly testable evidence, not merely references to classified files or unpublished reports. They note that years after the programme ended, no publicly available BAASS material has conclusively demonstrated non-human technology, paranormal phenomena or the more dramatic claims associated with Skinwalker Ranch lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">page 5</span><span class="citation-popover-snippet">The Origins of AAWSAP &#124; Page 521 Jun 2022 — Grusch, Puthoff, Davis and others have claimed, without any evidence, that contractor...</span></span></span>
 
-This proof gap became especially significant because parts of the BAASS ecosystem reportedly investigated not only aerial anomalies but also broader paranormal subjects. Accounts from journalists, former participants and later reporting describe interests extending into poltergeist claims, unusual biological events and other phenomena far beyond conventional aerospace intelligence work. That overlap became a major source of criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pentagon&#x27;s Secret UFO Program Investigated Poltergeists</span><span class="citation-popover-snippet">NewsweekPentagon&#x27;s Secret UFO Program Investigated PoltergeistsMay 29, 2018 — 29 May 2018 — New disclosures from inside the Pentagon&#x27;s To...</span><span class="citation-popover-meta">Published: May 29, 2018</span></span></span>
+This proof gap became especially significant because parts of the BAASS ecosystem reportedly investigated not only aerial anomalies but also broader paranormal subjects. Accounts from journalists, former participants and later reporting describe interests extending into poltergeist claims, unusual biological events and other phenomena far beyond conventional aerospace intelligence work. That overlap became a major source of criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Pentagon&#x27;s Secret UFO Program Investigated Poltergeists</span><span class="citation-popover-snippet">Pentagon&#x27;s Secret UFO Program Investigated PoltergeistsMay 29, 2018 — 29 May 2018 — New disclosures from inside the Pentagon&#x27;s To...</span><span class="citation-popover-meta">Published: May 29, 2018</span></span></span>
 
 For credibility assessment purposes, this creates a mixed picture:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +317,6 @@ For credibility assessment purposes, this creates a mixed picture:
 
 </div>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-3-dark.svg" | relative_url }}" alt="BAASS model illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What BAASS means for evaluating Hal Puthoff
 
@@ -337,10 +327,6 @@ On the positive side, it shows that he operated within a network that obtained r
 On the negative side, BAASS does not solve the evidential problems surrounding many of the claims that circulated through the same network. A defence contract demonstrates access, funding and institutional interest. It does not automatically verify conclusions. The strongest sceptical criticism is that government affiliation was often treated rhetorically as evidence for the underlying claims when it really established only that the claims were being investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">The military-UFO complex15 Nov 2022 — Taylor is already very well known in the UFO entertainment industry, playing an excitable scientist...</span></span></span>
 
 That tension remains one of the defining features of Puthoff's public credibility. BAASS strengthened the government's connection to anomaly research and gave researchers a level of official standing that earlier UFO groups lacked. Yet the programme ended without publicly resolving the central question that made it famous: whether the unusual reports and alleged technologies under study represented something genuinely extraordinary or merely a collection of unresolved and often weakly evidenced claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigelow_Aerospace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bigelow Aerospace</span><span class="citation-popover-snippet">Bigelow Aerospace</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UnCjbN7LCCs" title="Dr Hal Puthoff Presentation &amp; Q&amp;A, UFO/UAP Disclosure Special." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UnCjbN7LCCs" target="_blank" rel="noopener noreferrer">Dr Hal Puthoff Presentation &amp; Q&amp;A, UFO/UAP Disclosure Special.</a></p><p class="youtube-embed-meta">Channel: Livewire - Podcast Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UnCjbN7LCCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UnCjbN7LCCs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -459,15 +445,15 @@ That tension remains one of the defining features of Puthoff's public credibilit
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -475,15 +461,15 @@ That tension remains one of the defining features of Puthoff's public credibilit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +477,31 @@ That tension remains one of the defining features of Puthoff's public credibilit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,7 +509,7 @@ That tension remains one of the defining features of Puthoff's public credibilit
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-baass-changed-the-stakes-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-baass-changed-the-stakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-baass-changed-the-stakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -723,120 +725,120 @@ That tension remains one of the defining features of Puthoff's public credibilit
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: [https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science](https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Bigelow Aerospace  
-   Link: [https://en.wikipedia.org/wiki/Bigelow_Aerospace](https://en.wikipedia.org/wiki/Bigelow_Aerospace)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bigelow_Aerospace" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigelow_Aerospace</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: dr hal puthoff talks about his role in aawsap  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/](https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff talks about his role in AAWSAP: r/UFOsJanuary 20, 2025 — Dr Puthoff detailed his involvement with the AAWSAP program and how...</p></details>
    Published: January 20, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complex15 Nov 2022 — Taylor is already very well known in the UFO entertainment industry, playing an excitable scientist...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: page 5  
-   Link: [https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5](https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkThe Origins of AAWSAP | Page 521 Jun 2022 — Grusch, Puthoff, Davis and others have claimed, without any evidence, that contractor...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/page-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAP | Page 521 Jun 2022 — Grusch, Puthoff, Davis and others have claimed, without any evidence, that contractor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newsweek.com  
    Title: Pentagon's Secret UFO Program Investigated Poltergeists  
-   Link: [https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051](https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekPentagon&#x27;s Secret UFO Program Investigated PoltergeistsMay 29, 2018 — 29 May 2018 — New disclosures from inside the Pentagon&#x27;s To...</p></details>
+   Link: <a href="https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/entertainment/video-games/pentagon-ufo-program-disclosure-aliens-poltergeist-top-secret-bigelow-948051</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Secret UFO Program Investigated PoltergeistsMay 29, 2018 — 29 May 2018 — New disclosures from inside the Pentagon&#x27;s To...</p></details>
    Published: May 29, 2018  
 
 8. <a id="endnote-8"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Per Vice, &quot;AATIP and AAWSAP weren&#x27;t doing much of that resear...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: I Was A Private Contractor for Various Do D Agencies  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/](https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>we have UFOs&quot; like of course you do, that&#x27;s part of government research. Every country with aerospace research has a &quot;UFO&quot;. 1 more reply...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff: r/UFOsWhile educated, credentialed, and intelligent, Puthoff is at best credulous or worse manipulative. Everyone intereste...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••.Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lavelle explores dubious claims from Elizondo—who asserted psychic abilities—and discredits supposed UFO evidence presented during public...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThePoliticalInsider/posts/former-government-researcher-dr-hal-puthoff-discussed-claims-involving-four-alle/1378542211117087/](https://www.facebook.com/ThePoliticalInsider/posts/former-government-researcher-dr-hal-puthoff-discussed-claims-involving-four-alle/1378542211117087/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFormer government researcher Dr. Hal Puthoff discussed...Puthoff served as a Senior Science Advisor and Contractor to the DoD&#x27;s...</p></details>
+   Link: <a href="https://www.facebook.com/ThePoliticalInsider/posts/former-government-researcher-dr-hal-puthoff-discussed-claims-involving-four-alle/1378542211117087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThePoliticalInsider/posts/former-government-researcher-dr-hal-puthoff-discussed-claims-involving-four-alle/1378542211117087/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former government researcher Dr. Hal Puthoff discussed...Puthoff served as a Senior Science Advisor and Contractor to the DoD&#x27;s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: newly leaked documents show that the department of defense funded a study concer  
-   Link: [https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/](https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/)  
+   Link: <a href="https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2017, The New York Times revealed the existence...Newly leaked documents show that the Department of Defense funded a study concernin...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/](https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Powers ▻ UFOmaha! 7y... He says he was unaware of the UFO background of AAWSAP, but very familiar...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — AATIP scientist Hal Puthoff and AAWSAP contractor Bob Bigelow are also linke...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aljazeera.com  
    Title: us government admits funding secret ufo programme  
-   Link: [https://www.aljazeera.com/news/2017/12/17/us-government-admits-funding-secret-ufo-programme](https://www.aljazeera.com/news/2017/12/17/us-government-admits-funding-secret-ufo-programme)  
+   Link: <a href="https://www.aljazeera.com/news/2017/12/17/us-government-admits-funding-secret-ufo-programme" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2017/12/17/us-government-admits-funding-secret-ufo-programme</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2017 — The US Department of Defense has admitted that it used to fund a covert programme to investigate sightings of unidentified...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govGeorge-Knapp-Written-Testimony.pdf9 Sept 2025 — The residents of UFO world are a tough crowd. They expect nothing less than for...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/](https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/)  
+   Link: <a href="https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>claims questioning the credibility of eyewitness testimony.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SECRETARY OF DEFENSE17 Nov 2009 — August 2008~ DlA learned of countcr·intelligence concerns with Bigelow Aerospace, the parent company of...</p></details>
    Published: August 2008  
 
 21. <a id="endnote-21"></a>
    Source: independent.co.uk  
    Title: us defence nuking moon documents b2062135  
-   Link: [https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html](https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html)  
+   Link: <a href="https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentUS defence studied invisibility, nuking Moon, other...21 Apr 2022 — BAASS was awarded a contract worth $10m for their fir...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /injury-claims/
 nav_short_title: Cash Landrum
 title: Did Cash Landrum prove a UAP injury?
-title_full: Did Cash Landrum prove a UAP injury? | Injury Claims
+title_full: Did Cash Landrum prove a UAP injury?
 display_title_short: Cash Landrum
 display_title: Cash Landrum
 heading_title: Did Cash Landrum prove a UAP injury?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did UAP Encounters Really Injure People? | Green
+parent_title: Did UAP Encounters Really Injure People?
 parent_permalink: /injury-claims/
 parent_nav_short_title: Injury Claims
 parent_heading_title: Did UAP Encounters Really Injure People?
@@ -247,7 +247,7 @@ next_link:
   permalink: /hidden-cases/
   short_title: Hidden cases
   heading_title: What can hidden injury files really prove?
-date: '2026-06-09 03:00:43 '
+date: '2026-06-11 21:05:55 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evi
 
 ## Introduction
 
-The Cash-Landrum encounter is one of the most frequently cited UFO injury cases because it combines an unusual close-encounter narrative with documented claims of illness, hospital treatment and a failed lawsuit against the US government. For [supporters]({{ 'supporters-c7fa00/' | relative_url }}) of [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s work on anomalous injuries, it offers a rare example in which witnesses reported immediate physical effects rather than only lights in the sky. For critics, it illustrates the central problem in almost every alleged UAP injury case: serious symptoms were reported, but the evidence linking those symptoms to a specific exposure remains incomplete and disputed.
-
+The Cash-Landrum encounter is one of the most frequently cited UFO injury cases because it combines an unusual close-encounter narrative with documented claims of illness, hospital treatment and a failed lawsuit against the US government. For [supporters]({{ 'supporters-c7fa00/' | relative_url }}) of Kit Green’s work on anomalous injuries, it offers a rare example in which witnesses reported immediate physical effects rather than only lights in the sky. For critics, it illustrates the central problem in almost every alleged UAP injury case: serious symptoms were reported, but the evidence linking those symptoms to a specific exposure remains incomplete and disputed.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-1-dark.svg" | relative_url }}" alt="Cash Landrum illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension is why the case remains important. Green repeatedly treated Cash-Landrum as a comparison point when discussing possible electromagnetic or radiation-like injuries after close encounters. Yet even decades later, the medical record does not establish what exposure occurred, whether the reported symptoms had a single cause, or whether the encounter itself can be verified independently. The case is therefore significant less as proof than as an example of how difficult it is to move from testimony and illness to a demonstrated causal mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</span></span></span>
@@ -267,7 +266,6 @@ That tension is why the case remains important. Green repeatedly treated Cash-La
 On 29 December 1980, Betty Cash, Vickie Landrum and Landrum's young grandson Colby said they encountered a bright, diamond-shaped object near Dayton, Texas. According to their account, the object emitted intense heat and was later accompanied by multiple helicopters. They reported remaining close enough to feel heat from the object and described difficulty touching parts of their vehicle because of the temperature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
 The [injury claims]({{ 'injury-claims/' | relative_url }}) began almost immediately after the alleged encounter. The witnesses later reported symptoms including:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,7 +283,6 @@ Cash became the most medically serious case. Accounts from UFO researchers and l
 
 These reports gave the case unusual status within UFO literature. Many sightings involve claimed health effects years later or vague reports of illness. Cash-Landrum instead featured symptoms allegedly beginning within hours or days, creating a timeline that appeared more compatible with an acute exposure event. That temporal proximity became one of the strongest arguments used by researchers who believed the case deserved medical attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.2K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## How Green used the case as a comparison point
@@ -297,7 +294,6 @@ A key feature of Green's approach is that he focused on symptom patterns rather 
 Green's paper specifically notes that ionising-radiation explanations are not necessarily the central issue and discusses the possibility of mixed-field or electromagnetic exposures. Cash-Landrum appears in that context because the witnesses reported effects that resembled radiation injury in some respects but did not fit neatly into established radiation-accident models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</span></span></span>
 
 That distinction is often lost in popular retellings. Green's interest was not simply that witnesses said they had radiation sickness. Rather, he viewed the case as part of a broader question: whether certain close-encounter reports show recurring biological effects that deserve investigation even if the exact source remains unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-2-dark.svg" | relative_url }}" alt="Cash Landrum illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the medical record still falls short of proof
@@ -312,7 +308,6 @@ The environmental evidence is also limited. Investigators from Texas health auth
 
 The later illnesses associated with the case are similarly difficult to interpret. Cash was treated for breast cancer years after the encounter, and Landrum reportedly developed an eye cataract. Neither condition automatically establishes a connection to the alleged event. The existence of later health problems is not itself proof of a shared cause, especially without baseline medical data and controlled epidemiological evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFz7hXTJDkU" title="Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer">Did Aliens Cause This Family Health Problems? | Cash-Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 12.7K &middot; Uploaded: May 2022 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFz7hXTJDkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFz7hXTJDkU">Open on YouTube</a></p></div></div></div>
 
 ## The lawsuit exposed the evidential weaknesses
@@ -325,7 +320,6 @@ The court did not rule that the witnesses were lying or that no illness occurred
 
 For Green's broader injury argument, this outcome is revealing. The case contains reported symptoms, medical treatment and witness consistency over many years. Yet it still lacks the documented exposure source, instrument readings, chain of custody and independently verified mechanism that would normally be expected in occupational or environmental injury investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-3-dark.svg" | relative_url }}" alt="Cash Landrum illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_cash_landrum_evidenc_9af52f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cash-Landrum remains important but unresolved
 
@@ -337,9 +331,7 @@ Sceptics focus on the absence of verified exposure measurements, inconsistencies
 
 For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does not validate extraordinary claims about UAP technology. However, it does illustrate why Green became interested in the subject. The witnesses reported a cluster of symptoms that resembled recognised exposure injuries, and the case generated enough documentation to invite medical analysis. What it never produced was the decisive evidential bridge between reported illness and a demonstrable external cause. That unresolved gap is precisely why the case remains influential more than forty years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/osfZeJz7Cik" title="The Medically Documented Unexplainable Injuries of Betty Cash And Vickie Landrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=osfZeJz7Cik" target="_blank" rel="noopener noreferrer">The Medically Documented Unexplainable Injuries of Betty Cash And Vickie Landrum</a></p><p class="youtube-embed-meta">Channel: Roanoke Tales &middot; Views: 50.4K &middot; Uploaded: March 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=osfZeJz7Cik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=osfZeJz7Cik">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -458,15 +450,15 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ML50 Vintage Medical Anatomy Human Body Muscles Back Albinus Poster A2/A3/A4"><img src="https://i.ebayimg.com/images/g/8PQAAOSwQYZWueYT/s-l225.jpg" alt="Listing image for ML50 Vintage Medical Anatomy Human Body Muscles Back Albinus Poster A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">ML50 Vintage Medical Anatomy Human Body Muscles Back Albinus Poster A2/A3/A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,15 +466,15 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Eye Anatomy Poster Human Anatomy Chart Medical Educational Poster A5-A1"><img src="https://i.ebayimg.com/images/g/Ss4AAOSwpk5oK1Xn/s-l225.jpg" alt="Listing image for Human Eye Anatomy Poster Human Anatomy Chart Medical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Eye Anatomy Poster Human Anatomy Chart Medical Educational Poster A5-A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +482,15 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY EDUCATIONAL POSTER HUMAN BODY ANATOMY STUDENT MEDICAL A5 A4 A3"><img src="https://i.ebayimg.com/images/g/XaIAAOSwU7tkpAhg/s-l225.jpg" alt="Listing image for HUMAN ANATOMY EDUCATIONAL POSTER HUMAN BODY ANATOMY STUDENT MEDICAL A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY EDUCATIONAL POSTER HUMAN BODY ANATOMY STUDENT MEDICAL A5 A4 A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +498,15 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Medical Doctor Educational Anatomical Posters - A5 A4 A3"><img src="https://i.ebayimg.com/images/g/z9gAAOSwMy9knsTe/s-l225.jpg" alt="Listing image for Human Anatomy Medical Doctor Educational Anatomical Posters - A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Medical Doctor Educational Anatomical Posters - A5 A4 A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,7 +514,7 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="cash-landrum-did-cash-landrum-prove-a-uap-injury-kit-green-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="did-cash-landrum-prove-a-uap-injury-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -738,83 +730,83 @@ For assessing Kit Green's credibility, the lesson is mixed. Cash-Landrum does no
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: [https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident](https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: gpposner.com  
    Title: Gary P  
-   Link: [https://gpposner.com/Cash-Landrum-chapter.pdf](https://gpposner.com/Cash-Landrum-chapter.pdf)  
+   Link: <a href="https://gpposner.com/Cash-Landrum-chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gpposner.com/Cash-Landrum-chapter.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PosnerThe Legendary Cash-Landrum Case: Radiation Sickness...Cash-Landrum&#x27;s notoriety as a “radiation” case rests primarily upon several...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(except by reference) discuss ionizing radiation tissue effects, unless they are adduced to be &quot;Mixed Field&quot;, e.g. the Cash-Landrum...Re...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2022/](https://www.blueblurrylines.com/2022/)  
+   Link: <a href="https://www.blueblurrylines.com/2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry Lines: 20227 Oct 2022 — Kit Green, who delivered, “Anomalous Acute and Subacute Field Effects on Human Biological Tissues” in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html](https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Cash-Landrum Incident: The Suppressed Case Files12 Nov 2013 — The TDH report revealed that there was no residual rad...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10581488](https://zenodo.org/records/10581488)  
+   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legendary Cash-Landrum Case: Radiation Sickness...29 Jan 2024 — This case&#x27;s notoriety revolves primarily around Betty&#x27;s saga, as she...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[AAWSAP](&amp;#123;&amp;#123; &#x27;aawsap/&#x27; | relative_url &amp;#125;&amp;#125;) Document obtained via FOIA discussing the...No The document appears to be an unclassified Defense Intelligence Reference Document...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm](https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentFollowing the encounter, all three suffered severe health issues resembling radiation poisoning, with Betty Cash...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10158652863221790/](https://www.facebook.com/groups/ufoupdates/posts/10158652863221790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10158652863221790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10158652863221790/</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/](https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/</a>  
 
 11. <a id="endnote-11"></a>
    Source: stateoftheunknown.com  
-   Link: [https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47](https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47)  
+   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned...24 Mar 2026 — In 1982, Betty Cash and Vickie Landrum filed a lawsuit against the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: silviolobo.com.br  
    Title: The symptoms persist and worsen, leading to a diagnosis of radiation exposure  
-   Link: [https://silviolobo.com.br/leitura/en/mysteries-xv/the-cash-landrum-incident-case](https://silviolobo.com.br/leitura/en/mysteries-xv/the-cash-landrum-incident-case)  
+   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/the-cash-landrum-incident-case" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/the-cash-landrum-incident-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident Case - Sílvio de Souza Lôbo JúniorSeeking Medical Help: In the following days, the three seek medical attention...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — There is, however, a growing body of evidence that the government is not bei...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: visionbridge.org.uk  
-   Link: [https://visionbridge.org.uk/a-report-entitled-eye-research-an-equal-partner-compiled-and-edited-by-julian-jackson-featuring-contributions-from-leading-researchers-in-the-uk-2/](https://visionbridge.org.uk/a-report-entitled-eye-research-an-equal-partner-compiled-and-edited-by-julian-jackson-featuring-contributions-from-leading-researchers-in-the-uk-2/)  
+   Link: <a href="https://visionbridge.org.uk/a-report-entitled-eye-research-an-equal-partner-compiled-and-edited-by-julian-jackson-featuring-contributions-from-leading-researchers-in-the-uk-2/" target="_blank" rel="noopener noreferrer nofollow">https://visionbridge.org.uk/a-report-entitled-eye-research-an-equal-partner-compiled-and-edited-by-julian-jackson-featuring-contributions-from-leading-researchers-in-the-uk-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t may be classified as severity of &#x27;plus disease&#x27; from a comparison of...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-5.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>compelling evidence about the reality of paranormal phenomena than...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/](https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>posure, and their health issues persisted for years after the...Read more...</p></details>

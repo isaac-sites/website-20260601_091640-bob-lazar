@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credibility-split/
 nav_short_title: Access gap
 title: When does insider access become evidence?
-title_full: When does insider access become evidence? | Credibility Split
+title_full: When does insider access become evidence?
 display_title_short: Access gap
 display_title: Access gap
 heading_title: When does insider access become evidence?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why People Disagree About Puthoff | Puthoff
+parent_title: Why People Disagree About Puthoff
 parent_permalink: /credibility-split/
 parent_nav_short_title: Credibility Split
 parent_heading_title: Why People Disagree About Puthoff
@@ -247,7 +247,7 @@ next_link:
   permalink: /geller-test/
   short_title: Geller test
   heading_title: Did Uri Geller damage Puthoff's credibility?
-date: '2026-06-09 03:01:33 '
+date: '2026-06-11 21:06:28 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1.webp
@@ -258,7 +258,6 @@ image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_acce
 
 The central credibility problem around [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) is not whether he has genuine connections to government, intelligence and aerospace circles. Much of that institutional proximity is publicly documented. The harder question is whether insider access should be treated as evidence in itself when the underlying claims remain unavailable, classified, second-hand or only partially documented.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1-dark.svg" | relative_url }}" alt="Access gap illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This issue sits at the heart of the divide between Puthoff’s supporters and sceptics. Supporters argue that few public figures have spent decades inside networks that include intelligence officials, defence contractors, advanced aerospace researchers and UAP investigators. Sceptics respond that access can establish opportunity and awareness, but not the truth of the conclusions being drawn. In the UAP debate, that distinction often determines whether Puthoff is viewed as a valuable insider source or as someone whose strongest claims exceed the public evidence.
 
@@ -266,7 +265,7 @@ This issue sits at the heart of the divide between Puthoff’s supporters and sc
 
 The strongest case for taking Puthoff seriously begins with verified institutional proximity. Public records place him in several unusual programmes and organisations over multiple decades.
 
-His role in remote-viewing research at Stanford Research Institute was real and government-funded rather than a later legend. Declassified CIA material confirms that intelligence agencies sponsored programmes investigating anomalous perception, including work associated with Puthoff and colleagues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">s in the area of parapsychology: Dr. Jessica Utts, a...Read more...</span></span></span>
+His role in remote-viewing research at Stanford Research Institute was real and government-funded rather than a later legend. Declassified CIA material confirms that intelligence agencies sponsored programmes investigating anomalous perception, including work associated with Puthoff and colleagues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">s in the area of parapsychology: Dr. Jessica Utts, a...Read more...</span></span></span>
 
 His later involvement with EarthTech International, the Institute for Advanced Studies at Austin, AAWSAP-linked research networks and To The Stars Academy is also publicly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelHal PuthoffPuthoff, Ph.D. is an American physicist who has co-authored several books on gravitational and paranorma...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harold E. Puthoff</span><span class="citation-popover-snippet">May 9, 2026 — In 1985, Puthoff founded The Institute for Advanced Studies at Austin (IASA), later incorporated under EarthTech Internatio...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aegm.com">[Aegm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aegm.com</span><span class="citation-popover-snippet">A+E Global Media12 Mar 2019 — To The Stars Academy of Arts &amp; Science® is a public benefit corporation founded in 2017 as an incubator for...</span></span></span>
 
@@ -277,7 +276,6 @@ The problem is that access and proof answer different questions.
 Access can demonstrate that a person is close to sources. It does not automatically demonstrate that the sources are correct, that the information was accurately transmitted, that it was not misunderstood, or that the underlying evidence would survive independent scrutiny. A witness may genuinely believe what they were told while still passing along incorrect information. An intelligence source may be sincere but mistaken. A classified programme may investigate a claim without validating it.
 
 That gap between proximity and verification is where most disputes over Puthoff's credibility emerge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbAtCzZIIsk" title="How To Scientifically Test &amp; Analyze Potential UAP/UFO Material" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer">How To Scientifically Test &amp; Analyze Potential UAP/UFO Material</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 39.4K &middot; Uploaded: September 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbAtCzZIIsk">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +299,6 @@ A defence contractor can investigate a claim without confirming it. An intellige
 
 The existence of a network is therefore verifiable. The conclusions drawn from that network require separate proof.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V-z0k5xu1hM" title="UFO Roundtable: Former CIA Scientist Proves Aliens Exist!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V-z0k5xu1hM" target="_blank" rel="noopener noreferrer">UFO Roundtable: Former CIA Scientist Proves Aliens Exist!</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO &middot; Views: 3.7M &middot; Uploaded: May 2026 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V-z0k5xu1hM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V-z0k5xu1hM">Open on YouTube</a></p></div></div></div>
 
 ## Why access can amplify weak claims
@@ -314,12 +311,11 @@ Puthoff's career provides several examples of how this dynamic operates.
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Remote viewing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Remote viewingThe program ran from 1975 to 1995 and ended after evaluators concluded that remote viewers consistently failed to produc...</span></span></span> wing programmes remain one of the clearest illustrations.
 
-Supporters frequently point out that intelligence agencies funded the work for years. That is true. The programmes existed and received government attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">s in the area of parapsychology: Dr. Jessica Utts, a...Read more...</span></span></span>
+Supporters frequently point out that intelligence agencies funded the work for years. That is true. The programmes existed and received government attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">s in the area of parapsychology: Dr. Jessica Utts, a...Read more...</span></span></span>
 
 However, later evaluation produced a split verdict. Statistician Jessica Utts argued that the evidence suggested anomalous effects deserving serious consideration. Psychologist Ray Hyman argued that the data did not establish paranormal functioning and lacked sufficient independent confirmation. The programme was ultimately judged not to have produced intelligence value sufficient to justify continuation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">of the Military&#x27;s Twenty-Year Program on...by RAY HYMAN · 1996 · Cited by 8 — The remote-viewing experiments that Utts and I evaluated h...</span></span></span> [3CIA 3CIA]
 
 For sceptics, this episode demonstrates a broader lesson. The fact that government agencies studied something does not prove the phenomenon was validated. Institutional interest can coexist with inconclusive results.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-2-dark.svg" | relative_url }}" alt="Access gap illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The UAP insider chain
@@ -348,7 +344,6 @@ For a figure such as Puthoff, this creates a double-edged effect. His insider re
 
 The stronger the secrecy claim becomes, the more the debate depends on trust rather than verification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o31cGMENDTI" title="Eigenbros ep 120 - Timothy Nguyen (Problems with Eric Weinstein&#x27;s Geometric Unity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o31cGMENDTI" target="_blank" rel="noopener noreferrer">Eigenbros ep 120 - Timothy Nguyen (Problems with Eric Weinstein&#x27;s Geometric Unity)</a></p><p class="youtube-embed-meta">Channel: Eigenbros &middot; Views: 90.7K &middot; Uploaded: June 2021 &middot; Length: 2 hours 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o31cGMENDTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o31cGMENDTI">Open on YouTube</a></p></div></div></div>
 
 ## What public proof would need to add
@@ -358,7 +353,6 @@ The key question is not whether Puthoff has access. The public record already su
 The unresolved question is what evidence would move the discussion beyond insider testimony.
 
 For many observers, stronger public proof would require some combination of:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -372,7 +366,6 @@ For many observers, stronger public proof would require some combination of:
 </div>
 
 This is why debates about Puthoff often reach an impasse. His supporters see a pattern of credible people repeatedly pointing toward hidden information. His critics see decades of extraordinary suggestions that still depend heavily on trust, authority and restricted-access narratives.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-3-dark.svg" | relative_url }}" alt="Access gap illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The access gap at the centre of the credibility split
@@ -502,15 +495,15 @@ That tension explains why Puthoff remains one of the most debated figures in the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +511,15 @@ That tension explains why Puthoff remains one of the most debated figures in the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +527,31 @@ That tension explains why Puthoff remains one of the most debated figures in the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +559,7 @@ That tension explains why Puthoff remains one of the most debated figures in the
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="when-does-insider-access-become-evidence-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-access-become-evidence-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="when-does-insider-access-become-evidence-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,139 +774,139 @@ That tension explains why Puthoff remains one of the most debated figures in the
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAAN EVALUATION OF THE [REMOTE VIEWING](&amp;#123;&amp;#123; &#x27;remote-viewing-c5c5e3/&#x27; | relative_url &amp;#125;&amp;#125;) PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE [REMOTE VIEWING](&amp;#123;&amp;#123; &#x27;remote-viewing-c5c5e3/&#x27; | relative_url &amp;#125;&amp;#125;) PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s in the area of parapsychology: Dr. Jessica Utts, a...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Harold E. Puthoff  
-   Link: [https://en.wikipedia.org/wiki/Harold_E._Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — In 1985, Puthoff founded The Institute for Advanced Studies at Austin (IASA), later incorporated under EarthTech Internatio...</p></details>
    Published: May 9, 2026  
 
 4. <a id="endnote-4"></a>
    Source: aegm.com  
-   Link: [https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge](https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge)  
+   Link: <a href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A+E Global Media12 Mar 2019 — To The Stars Academy of Arts &amp; Science® is a public benefit corporation founded in 2017 as an incubator for...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but u...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Title: Research Gate [ULTRATERRESTRIAL](&#123;&#123; 'ultraterrestrials/' | relative_url &#125;&#125;) MODELS HE Puthoff, Ph.D  
-   Link: [https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf](https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf)  
+   Title: Research Gate ULTRATERRESTRIAL MODELS HE Puthoff, Ph.D  
+   Link: <a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>served as a Senior Science Advisor and Contractor to the. DoD&#x27;s AAWSAP/AATIP program set up to investigate UAPs (Uni...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Jessica Utts  
-   Link: [https://en.wikipedia.org/wiki/Jessica_Utts](https://en.wikipedia.org/wiki/Jessica_Utts)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jessica_Utts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jessica_Utts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessica UttsInvestigation of remote viewing. edit. In 1995, the American Institutes for Research (AIR) appointed a panel consisting pr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: earthtech.org  
    Title: Hal Puthoff  
-   Link: [https://earthtech.org/pubs/puthoff/](https://earthtech.org/pubs/puthoff/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthTechHE Puthoff, “Zero-point fluctuations of the vacuum as the source of atomic stability and the gravitational interaction,”Read more...</p></details>
+   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HE Puthoff, “Zero-point fluctuations of the vacuum as the source of atomic stability and the gravitational interaction,”Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/about/](https://earthtech.org/about/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthTechThe Institute for Advanced Studies at Austin was founded in 1985 by Harold Puthoff, PhD, and later incorporated under EarthTech...</p></details>
+   Link: <a href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/about/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Institute for Advanced Studies at Austin was founded in 1985 by Harold Puthoff, PhD, and later incorporated under EarthTech...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: HAL (open archive)  
-   Link: [https://en.wikipedia.org/wiki/HAL_%28open_archive%29](https://en.wikipedia.org/wiki/HAL_%28open_archive%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/HAL_%28open_archive%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HAL_%28open_archive%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL (open archive)HAL is an open archive where authors can deposit scholarly documents from all academic fields. HAL. Type of site. Re...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: [https://en.wikipedia.org/wiki/Remote_viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingThe program ran from 1975 to 1995 and ended after evaluators concluded that remote viewers consistently failed to produc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: earthtech.io  
-   Link: [https://earthtech.io/about/](https://earthtech.io/about/)  
+   Link: <a href="https://earthtech.io/about/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.io/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About EarthTechEarthTech is on a Mission to help mobilize the global resources needed to positively impact 1 billion lives and achieve th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27](https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27)  
+   Link: <a href="https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>related phenomena which was carried out at Stanford Re-search Institute...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/unidentified/cast/hal-puthoff](https://www.history.co.uk/shows/unidentified/cast/hal-puthoff)  
+   Link: <a href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/cast/hal-puthoff</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelHal PuthoffPuthoff, Ph.D. is an American physicist who has co-authored several books on gravitational and paranorma...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Military&#x27;s Twenty-Year Program on...by RAY HYMAN · 1996 · Cited by 8 — The remote-viewing experiments that Utts and I evaluated h...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ics.uci.edu  
-   Link: [https://www.ics.uci.edu/~jutts/may.pdf](https://www.ics.uci.edu/~jutts/may.pdf)  
+   Link: <a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>review of the departmentby C EDwIN · 1996 — They, in turn, formed a “blue-ribbon&quot; panel that included psychologist Ray Hyman from the Uni...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BroBible/posts/dr-hal-puthoff-a-former-cia-funded-researcher-and-advisor-to-the-advanced-aerosp/1453337593500031/](https://www.facebook.com/BroBible/posts/dr-hal-puthoff-a-former-cia-funded-researcher-and-advisor-to-the-advanced-aerosp/1453337593500031/)  
+   Link: <a href="https://www.facebook.com/BroBible/posts/dr-hal-puthoff-a-former-cia-funded-researcher-and-advisor-to-the-advanced-aerosp/1453337593500031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/dr-hal-puthoff-a-former-cia-funded-researcher-and-advisor-to-the-advanced-aerosp/1453337593500031/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Hal Puthoff, a former CIA-funded researcher and...Harold (Hal) Puthoff is President &amp; CEO, EarthTech International, Inc. and Directo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: earthtechgroup.com  
-   Link: [https://www.earthtechgroup.com/](https://www.earthtechgroup.com/)  
+   Link: <a href="https://www.earthtechgroup.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtechgroup.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthTech HomepageEarthTech specializes in engineering services and construction management on a full-spectrum of Mechanically Stabilized...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff: r/UFOsWhile educated, credentialed, and intelligent, Puthoff is at best credulous or worse manipulative. Everyone intereste...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/](https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsHal Puthoff, James Lacatski and Eric Davis worked for AWSAP. There was collaboration...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/](https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making sense of AATIP, AWSAP, AIMSOG and Lue ElizondoJust as AAWSAP preceded the creation of AATIP, AATIP eventually begat the UAP Task F...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blackcountryradio.co.uk  
-   Link: [https://www.blackcountryradio.co.uk/podcasts/the-diary-of-a-ceo-with-steven-bartlett/episode/ufo-roundtable-cia-physicist-proves-aliens-exist/](https://www.blackcountryradio.co.uk/podcasts/the-diary-of-a-ceo-with-steven-bartlett/episode/ufo-roundtable-cia-physicist-proves-aliens-exist/)  
+   Link: <a href="https://www.blackcountryradio.co.uk/podcasts/the-diary-of-a-ceo-with-steven-bartlett/episode/ufo-roundtable-cia-physicist-proves-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackcountryradio.co.uk/podcasts/the-diary-of-a-ceo-with-steven-bartlett/episode/ufo-roundtable-cia-physicist-proves-aliens-exist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roundtable: CIA Physicist Proves Aliens Exist2 hours ago — UFO Roundtable: CIA Physicist Proves Aliens Exist. The Diary Of A CEO with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody](https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody)  
+   Link: <a href="https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider claims US has bodies of 4 different alien...1 day ago — New claims that the United States has recovered remains of four sepa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fox5dc.com  
-   Link: [https://www.fox5dc.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft](https://www.fox5dc.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft)  
+   Link: <a href="https://www.fox5dc.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider claims US has bodies of 4 different alien...4 days ago — New claims that the United States has recovered remains of four sep...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: m.dailyhunt.in  
-   Link: [https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147](https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147)  
+   Link: <a href="https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147" target="_blank" rel="noopener noreferrer nofollow">https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>controversy reignites after former CIA-linked...5 days ago — A former CIA-funded researcher has triggered fresh controversy after claimi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theclassifiedrecord.com  
-   Link: [https://theclassifiedrecord.com/documents/stargate](https://theclassifiedrecord.com/documents/stargate)  
+   Link: <a href="https://theclassifiedrecord.com/documents/stargate" target="_blank" rel="noopener noreferrer nofollow">https://theclassifiedrecord.com/documents/stargate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessica Utts, a statistics professor at the University of California, Davis, had published work viewing the phenomenon positively. Dr. Ra...</p></details>

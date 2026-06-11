@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-uap-media/
 description: Focused pages that expand on Influence.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_uap_media_influence_032f74
-parent_title: Influence | How Credible Is Luis Elizondo?
+parent_title: Influence
 parent_nav_short_title: Influence
 parent_permalink: /influence-20a41a/
 ---

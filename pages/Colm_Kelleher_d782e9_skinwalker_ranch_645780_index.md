@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-skinwalker-ranch/
 description: Focused pages that expand on Skinwalker.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Colm_Kelleher_d782e9_skinwalker_ranch_645780
-parent_title: Skinwalker | How Credible Is Colm Kelleher?
+parent_title: Skinwalker
 parent_nav_short_title: Skinwalker
 parent_permalink: /skinwalker-0286bd/
 ---

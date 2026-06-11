@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-record/
 nav_short_title: AARO history
 title: The official report Ramirez cannot ignore
-title_full: The official report Ramirez cannot ignore | Official Record
+title_full: The official report Ramirez cannot ignore
 display_title_short: AARO history
 display_title: AARO history
 heading_title: The official report Ramirez cannot ignore
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Official UAP Reports Help Him? | Ramirez
+parent_title: Do Official UAP Reports Help Him?
 parent_permalink: /official-record/
 parent_nav_short_title: Official Record
 parent_heading_title: Do Official UAP Reports Help Him?
@@ -247,7 +247,7 @@ next_link:
   permalink: /nasa-data/
   short_title: NASA data
   heading_title: Better data or a disclosure countdown?
-date: '2026-06-09 02:59:36 '
+date: '2026-06-11 21:05:15 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_histor
 
 ## Introduction
 
-The strongest challenge to [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s broader UFO narrative does not come from online [sceptics]({{ 'sceptics-70c753/' | relative_url }}). It comes from the US government’s own historical review of recovered-craft allegations. In March 2024, the Pentagon’s All-domain Anomaly Resolution Office (AARO) released a major report examining decades of claims that the United States secretly recovered alien vehicles, possessed non-human technology, and ran hidden reverse-engineering programmes. Its conclusion was direct: investigators found no verifiable evidence that such programmes existed or that any recovered technology was extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This program never recovered or reverse-engineered any UAP or extrate...</span></span></span>
-
+The strongest challenge to John Ramirez’s broader UFO narrative does not come from online [sceptics]({{ 'sceptics-70c753/' | relative_url }}). It comes from the US government’s own historical review of recovered-craft allegations. In March 2024, the Pentagon’s All-domain Anomaly Resolution Office (AARO) released a major report examining decades of claims that the United States secretly recovered alien vehicles, possessed non-human technology, and ran hidden reverse-engineering programmes. Its conclusion was direct: investigators found no verifiable evidence that such programmes existed or that any recovered technology was extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This program never recovered or reverse-engineered any UAP or extrate...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1-dark.svg" | relative_url }}" alt="AARO history illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because Ramirez’s public profile sits partly inside a wider disclosure movement that often treats crash-retrieval stories, hidden programmes and non-human technology as established realities. AARO’s report does not merely leave those claims unproven. It explicitly argues that many of the most famous allegations are unsupported, misinterpreted or built on circular reporting. Whether readers accept AARO’s conclusions or not, the report creates a serious credibility test for anyone advancing stronger claims about recovered alien craft.
@@ -270,13 +269,16 @@ AARO’s historical review was commissioned to examine US government involvement
 
 Its central findings were unusually clear:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * No verifiable evidence was found that the US government possessed recovered extraterrestrial spacecraft.
 * No verifiable evidence was found that government agencies or defence contractors had reverse-engineered alien technology.
 * No official investigation reviewed by AARO concluded that a UAP case represented extraterrestrial technology.
-* Investigators found no evidence that Congress had been deliberately denied knowledge of genuine alien-recovery programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+* Investigators found no evidence that Congress had been deliberately denied knowledge of genuine alien-recovery programmes. [U.S. Department of War+2U.S. Department of War]
+
+</div>
 
 The report specifically addressed the long-running narrative that secret organisations recovered crashed vehicles and biological remains before concealing them from elected oversight. AARO stated that it found no empirical evidence supporting that story. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> This is important because recovered-craft allegations are not a side issue within modern disclosure culture. They are often treated as the central explanation for why governments appear reluctant to release information. If the crash-retrieval claim fails, many larger claims about hidden non-human technology become substantially weaker.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sLChKGmOF-U" title="6 videos that stood out in the Pentagon&#x27;s new UFO drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer">6 videos that stood out in the Pentagon&#x27;s new UFO drop</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 295.6K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sLChKGmOF-U">Open on YouTube</a></p></div></div></div>
 
@@ -284,7 +286,7 @@ The report specifically addressed the long-running narrative that secret organis
 
 One of the most controversial sections of the report is not its denial of alien programmes but its explanation for how belief in them spread.
 
-AARO argued that many allegations originated through repeated retellings among a relatively small network of believers, former officials, researchers and intermediaries. The report described a process of circular reporting in which claims gained authority because people repeatedly referenced one another rather than presenting independently verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — AARO assesses that the inaccurate claim that the USG is reve...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO argued that many allegations originated through repeated retellings among a relatively small network of believers, former officials, researchers and intermediaries. The report described a process of circular reporting in which claims gained authority because people repeatedly referenced one another rather than presenting independently verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — AARO assesses that the inaccurate claim that the USG is reve...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The report also pointed to several historical factors:
 
@@ -297,12 +299,11 @@ The report also pointed to several historical factors:
 
 One of the report's most discussed sections involved a proposed programme called Kona Blue.
 
-According to AARO, individuals who sincerely believed the government possessed recovered non-human technology sought official support for a highly classified programme that would investigate and potentially exploit such material. The proposal reached parts of the Department of Homeland Security but was ultimately rejected because supporting evidence was not produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AAROUAP Records/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the KONA BLUE program fr...</span></span></span>
+According to AARO, individuals who sincerely believed the government possessed recovered non-human technology sought official support for a highly classified programme that would investigate and potentially exploit such material. The proposal reached parts of the Department of Homeland Security but was ultimately rejected because supporting evidence was not produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the KONA BLUE program fr...</span></span></span>
 
 For sceptics, Kona Blue became a revealing example. It suggested that even some insiders advocating extraordinary claims were working from beliefs that investigators could not substantiate.
 
 For believers, however, the episode proved something different: that government interest in recovered-technology allegations was real enough to inspire serious classified proposals. The disagreement illustrates how the same event can be interpreted in opposite ways depending on prior assumptions.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-2-dark.svg" | relative_url }}" alt="AARO history illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters dispute the report's authority
@@ -319,7 +320,6 @@ Third, supporters noted that AARO's inability to verify a claim is not identical
 
 Those objections do not establish that crash-retrieval claims are true. They do explain why AARO's conclusions failed to settle the argument among committed believers.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOqVrixtcog" title="Former Pentagon UFO hunter says US government hides evidence of aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOqVrixtcog" target="_blank" rel="noopener noreferrer">Former Pentagon UFO hunter says US government hides evidence of aliens</a></p><p class="youtube-embed-meta">Channel: news.com.au &middot; Views: 59.1K &middot; Uploaded: November 2024 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOqVrixtcog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOqVrixtcog">Open on YouTube</a></p></div></div></div>
 
 ## How the report affects Ramirez's credibility
@@ -332,12 +332,11 @@ AARO's historical review raises the evidential threshold for such claims.
 
 If an individual argues only that some UAP incidents remain unexplained, AARO leaves room for that position. The office continues to acknowledge unresolved cases and the need for better data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagon office developing new sensors to better detect ufos</span><span class="citation-popover-snippet">AARO director Sean Kirkpatrick provided an update on the Pentagon&#x27;s UFO-hunting...Read more...</span></span></span>
 
-If an individual argues that governments possess recovered alien craft, recovered bodies or secret reverse-engineering programmes, the situation changes. AARO directly examined those allegations and publicly reported that it found no supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+If an individual argues that governments possess recovered alien craft, recovered bodies or secret reverse-engineering programmes, the situation changes. AARO directly examined those allegations and publicly reported that it found no supporting evidence. [U.S. Department of War+2U.S. Department of War]
 
 That does not automatically disprove Ramirez or every disclosure advocate. Government investigations can be incomplete, mistaken or limited by access. However, after the publication of the historical review, claims about hidden extraterrestrial technology can no longer rely simply on the argument that official bodies have never examined the issue. AARO examined it and rejected it.
 
 The result is a sharper credibility divide. Supporters must now explain why AARO's findings are wrong, incomplete or compromised. Sceptics can point to a formal government review that specifically addressed the core allegations and found no evidence supporting them. For figures such as Ramirez, whose public narrative often operates in the space between official acknowledgement and extraordinary inference, that distinction has become harder to avoid.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-3-dark.svg" | relative_url }}" alt="AARO history illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved tension
@@ -346,13 +345,11 @@ The most important outcome of the AARO report is not that it solved the UFO ques
 
 Unidentified incidents still exist. Military reporting continues. Some cases remain unresolved because available data is limited or inconclusive. Even AARO acknowledges that not every report can currently be explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enewspaper.latimes.com/infinity/article_share.aspx?guid=703f6b14-8371-44d5-bdc3-5a0a7636050a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enewspaper.latimes.com">[enewspaper.latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enewspaper.latimes.com</span><span class="citation-popover-title">SEA N M</span><span class="citation-popover-snippet">Kirkpatrick. the government&#x27;s former lead...AARO turned up “no evidence of anything extraterrestrial,” Kirkpatrick says. Of reports that...</span></span></span>
 
-The report instead narrows a specific claim: that there is demonstrable evidence of recovered extraterrestrial craft and secret reverse-engineering programmes. On that question, AARO's position is unambiguous. It found no verifiable evidence supporting the allegation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+The report instead narrows a specific claim: that there is demonstrable evidence of recovered extraterrestrial craft and secret reverse-engineering programmes. On that question, AARO's position is unambiguous. It found no verifiable evidence supporting the allegation. [U.S. Department of War+2U.S. Department of War]
 
 For readers evaluating Ramirez, that distinction matters. The [official record]({{ 'official-record/' | relative_url }}) now supports the existence of a genuine UAP reporting problem, but it does not support the stronger conclusion that governments possess alien technology. The gap between those two positions is where most of the debate over Ramirez's credibility now sits.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QHehvoYrM_o" title="Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer">Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1</a></p><p class="youtube-embed-meta">Channel: Mystic Lounge &middot; Views: 72 &middot; Uploaded: March 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QHehvoYrM_o">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,15 +468,15 @@ For readers evaluating Ramirez, that distinction matters. The [official record](
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +484,15 @@ For readers evaluating Ramirez, that distinction matters. The [official record](
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +500,31 @@ For readers evaluating Ramirez, that distinction matters. The [official record](
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,7 +532,7 @@ For readers evaluating Ramirez, that distinction matters. The [official record](
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-official-report-ramirez-cannot-ignore-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-official-report-ramirez-cannot-ignore-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="the-official-report-ramirez-cannot-ignore-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -735,180 +748,180 @@ For readers evaluating Ramirez, that distinction matters. The [official record](
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This program never recovered or reverse-engineered any UAP or extrate...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/](https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 —... reverse-engineering extraterrestrial technology...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office↑ Tingley, Brett (March 8, 2024). &quot;Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien tec...</p></details>
    Published: March 8, 2024  
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — AARO assesses that the inaccurate claim that the USG is reve...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — AARO assesses that the inaccurate claim that the USG is reve...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of &#x27;extraterrestrial origin&#x27; for UAP... The AARO report points out that UAP sightings and beliefs that UFOs represent alien...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Records/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the KONA BLUE program fr...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Records/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the KONA BLUE program fr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsGrusch further claims to have viewed documents reporting a spacecraft of alien... Grusch&#x27;s posit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: defensescoop.com  
    Title: pentagon office developing new sensors to better detect ufos  
-   Link: [https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/](https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/)  
+   Link: <a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO director Sean Kirkpatrick provided an update on the Pentagon&#x27;s UFO-hunting...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: enewspaper.latimes.com  
    Title: SEA N M  
-   Link: [https://enewspaper.latimes.com/infinity/article_share.aspx?guid=703f6b14-8371-44d5-bdc3-5a0a7636050a](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=703f6b14-8371-44d5-bdc3-5a0a7636050a)  
+   Link: <a href="https://enewspaper.latimes.com/infinity/article_share.aspx?guid=703f6b14-8371-44d5-bdc3-5a0a7636050a" target="_blank" rel="noopener noreferrer nofollow">https://enewspaper.latimes.com/infinity/article_share.aspx?guid=703f6b14-8371-44d5-bdc3-5a0a7636050a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick. the government&#x27;s former lead...AARO turned up “no evidence of anything extraterrestrial,” Kirkpatrick says. Of reports that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military Service Member Touched an Extraterrestrial Spacecraft... Sample of Alleged Alien Spacecraft is an Ordinary...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP represent extraterrestrial technology. AARO&#x27;s examination of the historical context of UAP investigations from 1945 to the present...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/29](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/29)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/296 May 2024 — The study evaluated the impacts to society should the U...</p></details>
    Published: May 2024  
 
 15. <a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology.Read more  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technol...</p></details>
    Published: May 2024  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWhat are some common objects/causes frequently reported as UAP? Has the Department found any evidence of extraterrestrial techno...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: twz.com  
    Title: pentagon ufo boss fires back at whistleblower allegations  
-   Link: [https://www.twz.com/pentagon-ufo-boss-fires-back-at-whistleblower-allegations](https://www.twz.com/pentagon-ufo-boss-fires-back-at-whistleblower-allegations)  
+   Link: <a href="https://www.twz.com/pentagon-ufo-boss-fires-back-at-whistleblower-allegations" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/pentagon-ufo-boss-fires-back-at-whistleblower-allegations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&quot; in a fiery response the House&#x27;s UFO hearing... Beyond all that, Grusch said the U.S. was working to reverse-engineer alien...Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPentagon ex-UFO chief says conspiracy theorists in...January 27, 2024 — 27 Jan 2024 — Those include startling claims from th...</p></details>
    Published: January 27, 2024  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 — Sean Kirkpatrick has faced threats for his work – and a new report concluding no evidence UAPs represent...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spacewar.com  
    Title: Pentagon says no evidence of secret US work on alien tech 999  
-   Link: [https://www.spacewar.com/reports/Pentagon_says_no_evidence_of_secret_US_work_on_alien_tech_999.html](https://www.spacewar.com/reports/Pentagon_says_no_evidence_of_secret_US_work_on_alien_tech_999.html)  
+   Link: <a href="https://www.spacewar.com/reports/Pentagon_says_no_evidence_of_secret_US_work_on_alien_tech_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/Pentagon_says_no_evidence_of_secret_US_work_on_alien_tech_999.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says no evidence of secret US work on alien tech8 Mar 2024 — Has the United States confirmed sightings of alien craft, or worked...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/](https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f20ywp/aaro_has_stated_on_record_they_will_not_find/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/](https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/)  
+   Link: <a href="https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick is no longer head of the &#x27;UFO hunting&#x27; officeSean Kirkpatrick, head of AARO (UFO... classified government program aimed...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd](https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd)  
+   Link: <a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodWhile the report refutes many claims of crash-retrieval programs, alien contact and extrate...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20](https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation, spanning nearly 80 years, found no empirical evidence supporting the existence or recovery of alien beings or crafts...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — Analysis: Whistleblower testimonies did not change our basic unde...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...Sean Kirkpatrick stated, &quot;Our team of experts is leading the U.S. government&#x27;s effort...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: [https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/](https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... extraterrestrial technology, are inaccurate,” per the report... Whistleb...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: forbes.com  
    Title: pentagon probe finds no evidence of extraterrestrial visits technology  
-   Link: [https://www.forbes.com/sites/caileygleeson/2024/03/08/pentagon-probe-finds-no-evidence-of-extraterrestrial-visits-technology/](https://www.forbes.com/sites/caileygleeson/2024/03/08/pentagon-probe-finds-no-evidence-of-extraterrestrial-visits-technology/)  
+   Link: <a href="https://www.forbes.com/sites/caileygleeson/2024/03/08/pentagon-probe-finds-no-evidence-of-extraterrestrial-visits-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/caileygleeson/2024/03/08/pentagon-probe-finds-no-evidence-of-extraterrestrial-visits-technology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friday&#x27;s report found no evidence suggesting extraterrestrials have visited Earth. Copyright 2022 The Associated Press. All...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: m.kuow.org  
    Title: pentagon finds no evidence of alien technology in new ufo report  
-   Link: [https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report](https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report)  
+   Link: <a href="https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacecraft, in...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/](https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/)  
+   Link: <a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>

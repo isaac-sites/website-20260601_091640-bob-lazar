@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /task-force/
 nav_short_title: 2021 Report
 title: What the 2021 report really adds
-title_full: What the 2021 report really adds | Task Force
+title_full: What the 2021 report really adds
 display_title_short: 2021 Report
 display_title: 2021 Report
 heading_title: What the 2021 report really adds
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Taylor Actually Do for the UAP Task Force? | Taylor
+parent_title: What Did Taylor Actually Do for the UAP Task Force?
 parent_permalink: /task-force/
 parent_nav_short_title: Task Force
 parent_heading_title: What Did Taylor Actually Do for the UAP Task Force?
@@ -247,7 +247,7 @@ next_link:
   permalink: /chief-title/
   short_title: Chief title
   heading_title: Was Taylor really the UAP chief scientist?
-date: '2026-06-09 03:11:52 '
+date: '2026-06-11 21:08:53 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_
 
 ## Introduction
 
-The June 2021 Office of the Director of National Intelligence (ODNI) assessment on unidentified aerial phenomena is one of the most important pieces of context when judging [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s credibility. Not because it proved extraordinary claims, but because it confirmed that a real government process existed, that the UAP [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF) was producing intelligence assessments for Congress, and that Taylor was connected to that process rather than commenting entirely from outside it. At the same time, the report is often overstated by both supporters and critics. It neither validated alien explanations nor dismissed the subject as nonsense. Instead, it documented a problem of limited data, inconsistent reporting and unresolved military sightings. That mixture of institutional seriousness and analytical caution is central to understanding what Taylor’s involvement does — and does not — establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span>
-
+The June 2021 Office of the Director of National Intelligence (ODNI) assessment on unidentified aerial phenomena is one of the most important pieces of context when judging [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s credibility. Not because it proved extraordinary claims, but because it confirmed that a real government process existed, that the UAP [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF) was producing intelligence assessments for Congress, and that Taylor was connected to that process rather than commenting entirely from outside it. At the same time, the report is often overstated by both supporters and critics. It neither validated alien explanations nor dismissed the subject as nonsense. Instead, it documented a problem of limited data, inconsistent reporting and unresolved military sightings. That mixture of institutional seriousness and analytical caution is central to understanding what Taylor’s involvement does — and does not — establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-1-dark.svg" | relative_url }}" alt="2021 Report illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the UAPTF fed the public assessment
@@ -267,9 +266,6 @@ The 2021 report was not a standalone publication produced by a single office. Ac
 This matters for Taylor because later Pentagon statements confirmed that he worked with the UAPTF as a contributing scientist and engineer reviewing military sighting reports and associated data. The Pentagon also stated that he was temporarily provided to the task force while remaining employed by the US Army Space and Missile Defense Command. In practical terms, that places him inside the same institutional pipeline that contributed to the assessment submitted to Congress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — Dr. Taylor worked with the UAPTF as a contributing scientist and engineer, bringing those skills to...</span></span></span>
 
 The credibility gain here is specific rather than sweeping. The report demonstrates that Taylor had access to at least part of a genuine government review effort. It does not automatically validate every public statement he has made before or after that role, nor does it show that he personally authored the report’s conclusions. What it does support is the narrower claim that he was involved in an official programme examining military UAP cases rather than merely discussing them as a television personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — Dr. Taylor worked with the UAPTF as a contributing scientist and engineer, bringing those skills to...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DHI9NlbKq1c" title="Are Aliens Fact, Fantasy Or Funding Opportunity? Does Pentagon UAP Report On UFOs Hold Any Answers?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DHI9NlbKq1c" target="_blank" rel="noopener noreferrer">Are Aliens Fact, Fantasy Or Funding Opportunity? Does Pentagon UAP Report On UFOs Hold Any Answers?</a></p><p class="youtube-embed-meta">Channel: CRUX</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DHI9NlbKq1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DHI9NlbKq1c">Open on YouTube</a></p></div></div></div>
 
 ## What the report actually said
 
@@ -284,8 +280,7 @@ Several findings nevertheless attracted attention:
 * Officials warned that some incidents could represent flight-safety issues or potential foreign intelligence collection threats.
 * The assessment concluded that additional collection and standardised reporting would be necessary before stronger judgments could be made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">office of the director of national intelligence</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</span><span class="citation-popover-meta">Published: June 2021</span></span></span>
 
-For readers assessing Taylor, the key point is that the report did not endorse a dramatic interpretation. It framed the issue as an intelligence and data problem. That framing is often lost when later commentators cite the headline figure that 143 cases remained unexplained. Unexplained in the report usually meant insufficiently resolved, not positively identified as exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</span></span></span>
-
+For readers assessing Taylor, the key point is that the report did not endorse a dramatic interpretation. It framed the issue as an intelligence and data problem. That framing is often lost when later commentators cite the headline figure that 143 cases remained unexplained. Unexplained in the report usually meant insufficiently resolved, not positively identified as exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-2-dark.svg" | relative_url }}" alt="2021 Report illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the weak-data message matters
@@ -300,9 +295,6 @@ This point cuts in two directions when evaluating Taylor.
 
 [Sceptics]({{ 'sceptics-8407e0/' | relative_url }}) point to the same passages for a different reason. If the underlying dataset was weak, then access to it does not necessarily provide privileged knowledge about extraordinary phenomena. A scientist can gain legitimate access to inconclusive material without obtaining proof of any remarkable explanation. The report therefore supports Taylor’s access [claims]({{ 'claims/' | relative_url }}) more strongly than it supports any particular interpretation of what UAP ultimately are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yLmbhJMweg" title="Enoch’s Army" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yLmbhJMweg" target="_blank" rel="noopener noreferrer">Enoch’s Army</a></p><p class="youtube-embed-meta">Channel: DryTit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yLmbhJMweg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yLmbhJMweg">Open on YouTube</a></p></div></div></div>
-
 ## Why access increased credibility without proving UAP claims
 
 The most balanced reading is that the 2021 assessment strengthened Taylor’s credibility in a narrow institutional sense.
@@ -313,7 +305,6 @@ However, the report itself prevents that credibility gain from expanding too far
 
 As a result, the report creates a distinction that is often blurred in public discussion:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Supported by evidence:** Taylor had genuine involvement with a government UAP programme connected to the 2021 assessment process.
@@ -323,7 +314,6 @@ As a result, the report creates a distinction that is often blurred in public di
 
 </div>
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-3-dark.svg" | relative_url }}" alt="2021 Report illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The report's lasting value in judging Taylor
 
@@ -332,10 +322,6 @@ The lasting significance of the 2021 assessment is less about what it concluded 
 It showed that UAP investigation had moved beyond informal military anecdotes into a congressionally monitored intelligence framework. For Taylor, that provides verifiable evidence of institutional access and participation. Yet the report’s caution also acts as a restraint on exaggerated claims about what that access means. The document connected to his work is notable precisely because it refused to overstate its findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</span></span></span>
 
 That leaves the report as a credibility anchor rather than a proof document. It strengthens the case that Taylor occupied a real position within the modern UAP bureaucracy, while simultaneously showing that the bureaucracy itself remained uncertain, data-limited and far more cautious than many public narratives suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — Dr. Taylor worked with the UAPTF as a contributing scientist and engineer, bringing those skills to...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6p7O4MeMdo" title="UAP Director of National Intelligence Report: Analysis &amp; Findings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6p7O4MeMdo" target="_blank" rel="noopener noreferrer">UAP Director of National Intelligence Report: Analysis &amp; Findings</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6p7O4MeMdo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6p7O4MeMdo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,15 +440,15 @@ That leaves the report as a credibility anchor rather than a proof document. It 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +456,15 @@ That leaves the report as a credibility anchor rather than a proof document. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +472,15 @@ That leaves the report as a credibility anchor rather than a proof document. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +488,15 @@ That leaves the report as a credibility anchor rather than a proof document. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +504,7 @@ That leaves the report as a credibility anchor rather than a proof document. It 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="2021-report-what-the-2021-report-really-adds-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-2021-report-really-adds-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-2021-report-really-adds-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -733,95 +719,95 @@ That leaves the report as a credibility anchor rather than a proof document. It 
 
 1. <a id="endnote-1"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</p></details>
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported un...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
    Published: June 2021  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Pentagon Releases Details about Dr  
-   Link: [https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/](https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...Travis Taylor&#x27;s UAP Task Force Involvement. Here&#x27;s the story: https... Taylor as his chief scientist as efforts t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Annual Report on Unidentified Aerial Phenomena25 Jun 2021 — Since the publication of the ODNI preliminary assessment in June 2021, U...</p></details>
    Published: June 2021  
 
 6. <a id="endnote-6"></a>
    Source: dni.gov  
    Title: reports publications 2021  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>progress the Unidentified Aerial Phenomena Task Force has made in understanding UAP.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...Travis Taylor sits down with Mr. Greenwald from the Black Vault, discussing the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: comparison analysis of june 2021 preliminary  
-   Link: [https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/](https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>team. I took a few hours comparing both versions of the June 2021 &quot;Preliminary Assessment&quot; UATPF report from ODNI whic...</p></details>
    Published: june 2021  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: recovered full archive of all public uap reports  
-   Link: [https://www.reddit.com/r/UFOB/comments/1kjqwwk/recovered_full_archive_of_all_public_uap_reports/](https://www.reddit.com/r/UFOB/comments/1kjqwwk/recovered_full_archive_of_all_public_uap_reports/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1kjqwwk/recovered_full_archive_of_all_public_uap_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1kjqwwk/recovered_full_archive_of_all_public_uap_reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recovered: Full Archive of All Public UAP Reports &amp; Threat...This initial report analyzed 144 UAP incidents reported between 2004 and 2021...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Black Vault Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...29 Jun 2022 — Dr. Taylor worked with the UAPTF as a contributing scientist and engineer, bringing those skills to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — [UAP],&#x27;7 Pentagon spokesperson Sue Gough told Popular Mechanics at the time. &quot;The mission of the ta...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufofileswatch.com  
    Title: uap task force preliminary assessment 2021  
-   Link: [https://ufofileswatch.com/files/uap-task-force-preliminary-assessment-2021](https://ufofileswatch.com/files/uap-task-force-preliminary-assessment-2021)  
+   Link: <a href="https://ufofileswatch.com/files/uap-task-force-preliminary-assessment-2021" target="_blank" rel="noopener noreferrer nofollow">https://ufofileswatch.com/files/uap-task-force-preliminary-assessment-2021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena (2021)The ODNI released a congressionally mandated preliminary assessment of UAP in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theblackvault.com  
    Title: Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP Task...Travis Taylor was said to be the “chief scientist.” According to LasVegasNow.com, Dr. Taylor played a role in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/](https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRATCOM Reports Reveal Previously Unknown Effort...13 Dec 2022 — The Black Vault reached out to the former chief scientist for the UAP...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/](https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OPINION: Yes, Science Magazine Printed An Altered...1 Jul 2022 — The article quoted the Pentagon with a statement that seemed to downpla...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/](https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UAP Task Force: Heavily Redacted...12 May 2023 — Recently, reports have emerged suggesting he was the “chief scientist” of th...</p></details>
    Published: May 2023  
 
@@ -829,52 +815,52 @@ That leaves the report as a credibility anchor rather than a proof document. It 
 
 17. <a id="endnote-17"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents)  
+   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UAP/UFO Resources and DocumentsPresidential Unsealing and Reporting System for UAP... [https://www.dni.gov/files/ODNI/documents/assessmen...&quot;](https://www.dni.gov/files/ODNI/documents/assessmen...&quot;)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of ODNI Preliminary Assessment: Unidentified...PDF | The unclassified document titled Preliminary Assessment: Unidentified Aeri...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: waru.edu  
-   Link: [https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21](https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21)  
+   Link: <a href="https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Preliminary Assessment Unidentified Aerial...Unclassified, 9-page report to Congress prepared by the Office of the Director of Nati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves](https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves)  
+   Link: <a href="https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the hype, the report only identified one case definitively as a deflating balloon and suggested that further investigations would...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — In its 2021 report, the ODNI reported it had inve...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Force mad...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/](https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/)  
+   Link: <a href="https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena. File. File Text Pages Notes Results.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5atlanta/posts/the-truth-is-out-there-the-pentagon-has-confirmed-the-authenticity-of-newly-leak/10158270367930823/](https://www.facebook.com/fox5atlanta/posts/the-truth-is-out-there-the-pentagon-has-confirmed-the-authenticity-of-newly-leak/10158270367930823/)  
+   Link: <a href="https://www.facebook.com/fox5atlanta/posts/the-truth-is-out-there-the-pentagon-has-confirmed-the-authenticity-of-newly-leak/10158270367930823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5atlanta/posts/the-truth-is-out-there-the-pentagon-has-confirmed-the-authenticity-of-newly-leak/10158270367930823/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TRUTH IS OUT THERE: The Pentagon has confirmed...On August 14, 2025, the Pentagon confirmed the authenticity of a Navy video showing...</p></details>
    Published: August 14, 2025  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: UF O researcher and filmmaker Jon Stewart claims the U.S  
-   Link: [https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/](https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/)  
+   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; - Travis Taylor – Astrophysicist, former DoD UAP Task Force chief scientist: &quot;UAP propulsion defies physics, consistent with extraterre...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/](https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/)  
+   Link: <a href="https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chief scientist for the Pentagon&#x27;s UAP Task Force. “I would say other than the people who already knew on the task force, you&#x27;re the firs...</p></details>

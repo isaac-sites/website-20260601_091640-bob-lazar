@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /kona-blue-4679d7/
 nav_short_title: Proof Gap
 title: Does a proposed programme prove recovered craft?
-title_full: Does a proposed programme prove recovered craft? | KONA BLUE
+title_full: Does a proposed programme prove recovered craft?
 display_title_short: Proof Gap
 display_title: Proof Gap
 heading_title: Does a proposed programme prove recovered craft?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did KONA BLUE Actually Show? | Lacatski
+parent_title: What Did KONA BLUE Actually Show?
 parent_permalink: /kona-blue-4679d7/
 parent_nav_short_title: KONA BLUE
 parent_heading_title: What Did KONA BLUE Actually Show?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /oral-history/
   short_title: Oral History
   heading_title: Was KONA BLUE chasing evidence or holding it?
-date: '2026-06-09 02:56:35 '
+date: '2026-06-11 21:03:40 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_propo
 
 ## Introduction
 
-A common argument in debates about [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }}) is that the existence of the Department of Homeland Security (DHS) KONA BLUE proposal proves the US government already possessed recovered non-human craft or exotic materials. The publicly available evidence does not support that conclusion.
-
+A common argument in debates about James Lacatski is that the existence of the Department of Homeland Security (DHS) KONA BLUE proposal proves the US government already possessed recovered non-human craft or exotic materials. The publicly available evidence does not support that conclusion.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-1-dark.svg" | relative_url }}" alt="Proof Gap illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 KONA BLUE is important because it shows that some officials and programme advocates believed recovered UAP-related technology might exist and sought a highly protected government structure to investigate, collect, analyse, and potentially reverse-engineer such material. However, a proposal for a secure programme is not the same thing as verified possession of the material the programme was designed to study. Publicly released records indicate that KONA BLUE remained a proposed Prospective Special Access Program (PSAP), was never fully established, never received funding or transferred materials, and was based on claims that had not been independently validated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">ation marked with the KONA BLUE name. AARO traced the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information PapersFeb 13, 2026 —... had been proposed to DHS leadership but was never approved or formally established. KONA BLUE never...</span></span></span>
@@ -282,7 +281,6 @@ This creates a crucial logical distinction:
 
 In other words, the security architecture is evidence of concern, not evidence of the underlying phenomenon.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
 
 ## Why claimed materials came before verified custody
@@ -300,7 +298,6 @@ This is why the proposal can be read in two different ways:
 
 Neither interpretation automatically establishes the existence of recovered craft.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-2-dark.svg" | relative_url }}" alt="Proof Gap illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central dispute: belief versus evidence
 
@@ -313,7 +310,6 @@ Sceptics respond that government history contains many examples of programmes cr
 AARO's historical review adopted the sceptical interpretation. Its report states that KONA BLUE supporters believed the government was hiding off-world technology but did not provide empirical evidence supporting those assertions. The report further argues that the alleged craft and biological material were assumed to exist by programme advocates rather than demonstrated through verified evidence available to investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — Prospective Special Access Program (PSAP) was official...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 1Mar 9, 2024 — KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did n...</span></span></span>
 
 Whether one accepts AARO's broader conclusions or not, this distinction explains why the proposal cannot function as proof of recovered craft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PVA64wPqen8" title="Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP Disclosures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer">Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP Disclosures</a></p><p class="youtube-embed-meta">Channel: The Architecture of Secrecy &middot; Views: 437 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PVA64wPqen8">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +329,6 @@ A proposal to reverse-engineer technology is not the same as possession of techn
 
 The distinction may appear obvious, but much of the public debate around KONA BLUE collapses these separate steps into a single inference.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-3-dark.svg" | relative_url }}" alt="Proof Gap illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_proposal_proof_g_8d115b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How this affects Lacatski's credibility
 
@@ -341,97 +336,53 @@ For evaluating James Lacatski, KONA BLUE neither fully validates nor fully discr
 
 On the positive side, the documents demonstrate that Lacatski and associated figures were involved in genuine government-facing efforts. The proposal was real. Discussions occurred with senior officials. The subject reached a level far beyond informal UFO speculation. This supports the view that Lacatski operated within legitimate government structures and was not simply an outside commentator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">Feb 5, 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-On the other hand, KONA BLUE does not independently verify the core recovered-materials narrative. The proposal shows what advocates believed or suspected. It does not provide publicly available proof that the alleged craft, biologics, or exotic materials were ever recovered. The strongest publicly available government review of the programme concludes that the underlying claims remained unverified and that the programme never obtained the materials it was intended to study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">WikisourceReport on the Historical Record of US Government...10 May 2024 — One named program was a UAP-related Prospective Special Acces...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim the cia blocked the transfer of meta materials from crashed ufos.13773</span><span class="citation-popover-snippet">Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — Recall that KONA BLUE was a proposed SAP at DHS that never happene...</span></span></span>
+On the other hand, KONA BLUE does not independently verify the core recovered-materials narrative. The proposal shows what advocates believed or suspected. It does not provide publicly available proof that the alleged craft, biologics, or exotic materials were ever recovered. The strongest publicly available government review of the programme concludes that the underlying claims remained unverified and that the programme never obtained the materials it was intended to study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">Report on the Historical Record of US Government...10 May 2024 — One named program was a UAP-related Prospective Special Acces...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">claim the cia blocked the transfer of meta materials from crashed ufos.13773</span><span class="citation-popover-snippet">Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — Recall that KONA BLUE was a proposed SAP at DHS that never happene...</span></span></span>
 
 As a result, KONA BLUE tends to strengthen one aspect of Lacatski's credibility while leaving another unresolved. It strengthens the claim that he had genuine institutional access and influence. It does not, by itself, substantiate the extraordinary claim that recovered non-human craft were already in government hands.
 
 The proposal therefore functions better as evidence of serious official interest than as evidence of recovered technology. That distinction sits at the centre of the debate over both KONA BLUE and James Lacatski's broader credibility.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cggMuAjFJcI" title="The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer">The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 238.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cggMuAjFJcI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Does a proposed programme prove recovered craft?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Does a proposed programme prove recovered craft?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores evidence standards and whistleblower claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful contrast between testimony and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Examines belief, institutions, and extraordinary technological narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Provides context for how government UFO investigations evolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -468,15 +419,15 @@ The proposal therefore functions better as evidence of serious official interest
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +435,15 @@ The proposal therefore functions better as evidence of serious official interest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +451,15 @@ The proposal therefore functions better as evidence of serious official interest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +467,15 @@ The proposal therefore functions better as evidence of serious official interest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +483,7 @@ The proposal therefore functions better as evidence of serious official interest
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="proof-gap-f29c4d-does-a-proposed-programme-prove-recovered-craft-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-proposed-programme-prove-recovered-craft-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-a-proposed-programme-prove-recovered-craft-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,75 +698,75 @@ The proposal therefore functions better as evidence of serious official interest
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation marked with the KONA BLUE name. AARO traced the...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information PapersFeb 13, 2026 —... had been proposed to DHS leadership but was never approved or formally established. KONA BLUE never...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoThis proposal, codenamed KONA BLUE, would restart UAP investigations, paranormal r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dhs.gov  
    Title: 25 0723 foia dhs st foia log fy2024  
-   Link: [https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf](https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE, would restart UAP investigations, paranormal research (including alleged &quot;human consciousness anomalies”)...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — Prospective Special Access Program (PSAP) was official...</p></details>
    Published: May 6, 2024  
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceReport on the Historical Record of US Government...10 May 2024 — One named program was a UAP-related Prospective Special Acces...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — One named program was a UAP-related Prospective Special Acces...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 1Mar 9, 2024 — KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did n...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 5, 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were...</p></details>
    Published: February 10, 2012  
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: claim the cia blocked the transfer of meta materials from crashed ufos.13773  
-   Link: [https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/](https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/)  
+   Link: <a href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — Recall that KONA BLUE was a proposed SAP at DHS that never happene...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: Kona Blue  
-   Link: [https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2](https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Report on the Proposed AAWSAP...16 Apr 2024 — They are proposing a secret government program that they claim have huge implications...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: Kona Blue  
-   Link: [https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/](https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/)  
+   Link: <a href="https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>never approved or formally established. KONA BLUE never received any materials or funding, and there is no information beyond the proposa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: music.youtube.com  
    Title: rW02 PuPMJ8  
-   Link: [https://music.youtube.com/podcast/rW02-PuPMJ8](https://music.youtube.com/podcast/rW02-PuPMJ8)  
+   Link: <a href="https://music.youtube.com/podcast/rW02-PuPMJ8" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/rW02-PuPMJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far...8 Apr 2026 —... proposed Kona Blue program did carry on after AAWSAP ended. Like the...</p></details>
 
 ### Additional References
@@ -823,53 +774,53 @@ The proposal therefore functions better as evidence of serious official interest
 13. <a id="endnote-13"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...Mar 6, 2024 — The prospective program was never formally appr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LiberationTimesNews/posts/new-kona-blue-insiders-reveal-how-us-agencies-allegedly-involved-in-legacy-ufo-p/832334512067375/](https://www.facebook.com/LiberationTimesNews/posts/new-kona-blue-insiders-reveal-how-us-agencies-allegedly-involved-in-legacy-ufo-p/832334512067375/)  
+   Link: <a href="https://www.facebook.com/LiberationTimesNews/posts/new-kona-blue-insiders-reveal-how-us-agencies-allegedly-involved-in-legacy-ufo-p/832334512067375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LiberationTimesNews/posts/new-kona-blue-insiders-reveal-how-us-agencies-allegedly-involved-in-legacy-ufo-p/832334512067375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kona Blue Insiders Reveal How Agencies Involved In UFO...NEW: Kona Blue Insiders Reveal How U.S. Agencies Allegedly Involved In Legacy U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: inverse.com  
-   Link: [https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report](https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report)  
+   Link: <a href="https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE: Top-Secret Government Program To...8 Mar 2024 — KONA BLUE, as the report explains, was allegedly a top-secret program to inve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/](https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You are wrong. You didn&#x27;t connect... I explicitly stated that Kirkpatrick did not say Kona Blue was the hoax...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — called KONA BLUE that was proposed to the Department of Homeland Security. (DHS) and suppor...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: [https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/](https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...Mar 13, 2024 — The report does mention a reverse-engineering program proposed by the Depart...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PVA64wPqen8](https://www.youtube.com/watch?v=PVA64wPqen8)  
+   Link: <a href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PVA64wPqen8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP DisclosuresTo expose the biggest secret in human history, Dr. James Lacatski didn&#x27;t break th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sott.net  
-   Link: [https://www.sott.net/article/490859-Kona-Blue-insiders-reveal-how-US-agencies-allegedly-involved-in-legacy-UFO-programs-rattled-Department-of-Homeland-Security-officials](https://www.sott.net/article/490859-Kona-Blue-insiders-reveal-how-US-agencies-allegedly-involved-in-legacy-UFO-programs-rattled-Department-of-Homeland-Security-officials)  
+   Link: <a href="https://www.sott.net/article/490859-Kona-Blue-insiders-reveal-how-US-agencies-allegedly-involved-in-legacy-UFO-programs-rattled-Department-of-Homeland-Security-officials" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/490859-Kona-Blue-insiders-reveal-how-US-agencies-allegedly-involved-in-legacy-UFO-programs-rattled-Department-of-Homeland-Security-officials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tara O&#x27;Toole, the then Under Secretary for Science and Technology at DHS, persuading her to...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video Skinwalker Ranch, Oak Island curse and Kona Blue explores newly declassified government documents related to the proposed KONA...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/row/document/stamford-international-university/research/aaro-dhs-kona-blue-public-document-from-aaro/100915916](https://www.studocu.com/row/document/stamford-international-university/research/aaro-dhs-kona-blue-public-document-from-aaro/100915916)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuAARO DHS KONA BLUE PSAP - Public Document Review...BLUE was a DHS prospective special access program (PSAP) terminated on Februar...</p></details>
+   Link: <a href="https://www.studocu.com/row/document/stamford-international-university/research/aaro-dhs-kona-blue-public-document-from-aaro/100915916" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/stamford-international-university/research/aaro-dhs-kona-blue-public-document-from-aaro/100915916</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO DHS KONA BLUE PSAP - Public Document Review...BLUE was a DHS prospective special access program (PSAP) terminated on Februar...</p></details>

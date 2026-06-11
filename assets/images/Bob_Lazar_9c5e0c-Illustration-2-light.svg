@@ -117,168 +117,664 @@
     --accent-6: #9333ea;
 }</style>
   <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
-  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="85.0" y2="85.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
   <defs>
-    <pattern id="svgf44dca6d-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+    <pattern id="svg72508364-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
       <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
     </pattern>
-    <filter id="svgf44dca6d-soft-shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#000000" flood-opacity="0.20"/>
+    <filter id="svg72508364-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
     </filter>
-    <radialGradient id="svgf44dca6d-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+    <marker id="svg72508364-arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="var(--accent-1)"/>
+    </marker>
+    <filter id="svg72508364-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <linearGradient id="svg72508364-water-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-1)" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="var(--accent-1)" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-tower-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--muted-text)"/>
+      <stop offset="100%" stop-color="var(--panel)"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-deck-grad-1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-2)"/>
+      <stop offset="100%" stop-color="var(--accent-2)"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-deck-grad-2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-4)"/>
+      <stop offset="100%" stop-color="var(--accent-4)"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-deck-grad-3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-1)"/>
+      <stop offset="100%" stop-color="var(--accent-1)"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-deck-grad-4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-3)"/>
+      <stop offset="100%" stop-color="var(--accent-3)"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-deck-grad-5" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-7)"/>
+      <stop offset="100%" stop-color="var(--accent-7)"/>
+    </linearGradient>
+    <radialGradient id="svg72508364-universal-edge-vignette" cx="50%" cy="50%" r="72%">
       <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
       <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
       <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
     </radialGradient>
-    <linearGradient id="svgf44dca6d-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="svg72508364-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
       <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
       <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
     </linearGradient>
-    <radialGradient id="svgf44dca6d-universal-icon-aura" cx="50%" cy="42%" r="64%">
+    <radialGradient id="svg72508364-universal-icon-aura" cx="50%" cy="42%" r="64%">
       <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
       <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
     </radialGradient>
-    <filter id="svgf44dca6d-text-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
-    </filter>
-    <filter id="svgf44dca6d-shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
-    </filter>
-    <marker id="svgf44dca6d-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
-      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
-    </marker>
+    <linearGradient id="svg72508364-bridge-sky-haze" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent-2)" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="svg72508364-bridge-deck-shadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="var(--primary-text)" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.08"/>
+    </linearGradient>
   </defs>
-  <rect id="CANVAS_BG" width="100%" height="100%" fill="var(--background)"/>
-  <rect width="100%" height="100%" fill="url(#svgf44dca6d-napkin-hatch)"/>
-  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgf44dca6d-universal-edge-vignette)" opacity="0.62"/>
-  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-size="56" font-weight="800" fill="#0f172a" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
-    <tspan x="960.0" dy="68.00px">Verifiable vs Unverified</tspan>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg72508364-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg72508364-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#0f172a" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Credibility Gaps</tspan>
   </text>
-  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
-  <line x1="687.0" y1="434.0" x2="768.0" y2="434.0" stroke="var(--muted-text)" stroke-width="4" stroke-dasharray="10 9" opacity="0.8"/>
-  <circle cx="727.5" cy="434.0" r="34" fill="var(--panel)" stroke="var(--muted-text)" stroke-width="2"/>
-  <text x="727.5" y="444.0" text-anchor="middle" font-size="34" font-weight="900" fill="var(--muted-text)">VS</text>
-  <line x1="1152.0" y1="434.0" x2="1233.0" y2="434.0" stroke="var(--muted-text)" stroke-width="4" stroke-dasharray="10 9" opacity="0.8"/>
-  <circle cx="1192.5" cy="434.0" r="34" fill="var(--panel)" stroke="var(--muted-text)" stroke-width="2"/>
-  <text x="1192.5" y="444.0" text-anchor="middle" font-size="34" font-weight="900" fill="var(--muted-text)">VS</text>
-  <line x1="882.0" y1="824.0" x2="1038.0" y2="824.0" stroke="var(--muted-text)" stroke-width="4" stroke-dasharray="10 9" opacity="0.8"/>
-  <circle cx="960.0" cy="824.0" r="34" fill="var(--panel)" stroke="var(--muted-text)" stroke-width="2"/>
-  <text x="960.0" y="834.0" text-anchor="middle" font-size="34" font-weight="900" fill="var(--muted-text)">VS</text>
-  <g transform="translate(495.0, 280.0)" filter="url(#svgf44dca6d-soft-shadow)">
-    <rect id="ITEM_1_BG" x="-200.0" y="0" width="400.0" height="360" rx="26" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-1)" stroke-width="3"/>
-    <rect x="-184.0" y="12" width="368.0" height="8" rx="4" fill="var(--accent-1)" fill-opacity="0.55"/>
-    <circle id="ITEM_1_PAD" cx="0" cy="74" r="46" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
-    <circle id="ITEM_1_PAD_INNER" cx="0" cy="74" r="35.88" fill="var(--accent-3)" fill-opacity="0.22"/>
-    <circle cx="0" cy="74" r="36" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
-    <g id="ITEM_1_ICON" transform="translate(-34, 40)" data-icon-size="68" stroke-dasharray="6 4">
-      <g transform="translate(-7.005714285714291,-7.005714285714289) scale(2.562857142857143)">
-        <path d="M8 4C8 2.89543 8.89543 2 10 2H22C23.1046 2 24 2.89543 24 4V28C24 29.1046 23.1046 30 22 30H10C8.89543 30 8 29.1046 8 28V4Z" fill="#E19747"/>
-        <path d="M10 5C10 4.44772 10.4477 4 11 4H21C21.5523 4 22 4.44772 22 5V12C22 12.5523 21.5523 13 21 13H11C10.4477 13 10 12.5523 10 12V5Z" fill="#D3883E"/>
-        <path d="M10 17C10 16.4477 10.4477 16 11 16H21C21.5523 16 22 16.4477 22 17V20C22 20.5523 21.5523 21 21 21H11C10.4477 21 10 20.5523 10 20V17Z" fill="#D3883E"/>
-        <path d="M11 23C10.4477 23 10 23.4477 10 24V27C10 27.5523 10.4477 28 11 28H21C21.5523 28 22 27.5523 22 27V24C22 23.4477 21.5523 23 21 23H11Z" fill="#D3883E"/>
-        <path d="M23.25 14.5C23.25 15.0523 22.8023 15.5 22.25 15.5C21.6977 15.5 21.25 15.0523 21.25 14.5C21.25 13.9477 21.6977 13.5 22.25 13.5C22.8023 13.5 23.25 13.9477 23.25 14.5Z" fill="#F9C23C"/>
+  <rect id="TITLE_FRAME" x="134" y="25" width="1652" height="70" fill="none"/>
+  <g id="DIAGRAM_MAIN">
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="118" width="1920" height="520" fill="url(#svg72508364-bridge-sky-haze)" opacity="0.75"/>
+    <rect x="0" y="730" width="1920" height="350" fill="url(#svg72508364-water-grad)"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 0 735 C 240 720 420 748 640 732 C 880 714 1060 752 1300 732 C 1540 712 1700 744 1920 730" fill="none" stroke="var(--inverse-text)" stroke-width="8" stroke-opacity="0.12"/>
+    <path d="M 100 770 Q 150 755 200 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 300 770 Q 350 755 400 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 500 770 Q 550 755 600 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 700 770 Q 750 755 800 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 900 770 Q 950 755 1000 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 1100 770 Q 1150 755 1200 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 1300 770 Q 1350 755 1400 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 1500 770 Q 1550 755 1600 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 1700 770 Q 1750 755 1800 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M 1900 770 Q 1950 755 2000 770" fill="none" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.3"/>
+    <rect x="190.0" y="300" width="60" height="450" fill="url(#svg72508364-tower-grad)" stroke="var(--primary-text)" stroke-width="3" filter="url(#svg72508364-shadow)"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 190.0 332 L 190.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 190.0 382 L 190.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <rect x="180.0" y="280" width="80" height="25" fill="var(--accent-1)" rx="4"/>
+    <rect x="1670.0" y="300" width="60" height="450" fill="url(#svg72508364-tower-grad)" stroke="var(--primary-text)" stroke-width="3" filter="url(#svg72508364-shadow)"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <path d="M 1670.0 332 L 1670.0 718" stroke="var(--inverse-text)" stroke-width="4" stroke-opacity="0.14"/>
+    <path d="M 1670.0 382 L 1670.0 382" stroke="var(--background)" stroke-width="1" stroke-opacity="0"/>
+    <rect x="1660.0" y="280" width="80" height="25" fill="var(--accent-1)" rx="4"/>
+    <path d="M 100 600 Q 220 310 960.0 510 Q 1700 310 1820 600" fill="none" stroke="var(--accent-1)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <path d="M 100 628 Q 220 344 960.0 540 Q 1700 344 1820 628" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.20" stroke-linecap="round"/>
+    <rect x="70" y="680" width="1775" height="22" fill="url(#svg72508364-bridge-deck-shadow)" opacity="0.80"/>
+    <path d="M 86 650 L 1834 650" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.24" stroke-linecap="round"/>
+    <path d="M 86 686 L 1834 686" stroke="var(--background)" stroke-width="5" stroke-opacity="0.26" stroke-linecap="round"/>
+    <rect id="ITEM_1_BG" x="70.0" y="650" width="351.0" height="30" fill="var(--accent-6)" filter="url(#svg72508364-shadow)" stroke="var(--background)" stroke-width="1" fill-opacity="1.0"/>
+    <line x1="248.0" y1="324.8487947406866" x2="248.0" y2="645" stroke="var(--accent-1)" stroke-width="2"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="248.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle id="ITEM_1_PAD" cx="248.0" cy="730" r="45" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_1_PAD_INNER" cx="248.0" cy="730" r="35.10" fill="var(--accent-6)" fill-opacity="0.22"/>
+    <circle cx="248.0" cy="730" r="38" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" filter="url(#svg72508364-shadow)"/>
+    <g id="ITEM_1_ICON" transform="translate(218.0, 700.0)" data-icon-size="60">
+      <g transform="translate(-8.074576271186443,-8.074576271186443) scale(3.1728813559322036)" vector-effect="non-scaling-stroke" stroke-width="2.43" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="m14 13-8.381 8.38a1 1 0 0 1-3.001-3l8.384-8.381" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="m16 16 6-6" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="m21.5 10.5-8-8" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="m8 8 6-6" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="m8.5 7.5 8 8" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
       </g>
     </g>
-    <text id="ITEM_1_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="44" font-weight="800" fill="var(--primary-text)" data-bg-id="ITEM_1_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-      <tspan x="0.0" dy="42.25px">Real Base</tspan>
+    <line x1="248.0" y1="755" x2="248.0" y2="780" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect id="ITEM_1_TEXT_BG" x="98.0" y="772" width="300" height="166" rx="24" fill="var(--panel)" fill-opacity="0.88" stroke="var(--primary-text)" stroke-opacity="0.14" stroke-width="1.5"/>
+    <text id="ITEM_1_HEAD" x="248.0" y="780.0" font-weight="bold" font-size="24" fill="var(--accent-6)" text-anchor="middle" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="248.0" dy="33.25px">Legal Fine</tspan>
     </text>
-    <rect id="ITEM_1_HEAD_FRAME" x="-165.0" y="138" width="330.0" height="68" fill="none"/>
-    <text id="ITEM_1_BODY" x="0.0" y="206.0" text-anchor="middle" font-size="27" fill="var(--primary-text)" data-bg-id="ITEM_1_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-      <tspan x="0.0" dy="39.64px">Area 51 confirmed as</tspan>
-      <tspan x="0.0" dy="29.90px">classified aviation test site</tspan>
+    <rect id="ITEM_1_HEAD_FRAME" x="108.0" y="780" width="280" height="50" fill="none"/>
+    <text id="ITEM_1_BODY" x="248.0" y="842.0" font-size="18" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="248.0" dy="21.26px">CPSC fines firm</tspan>
+      <tspan x="248.0" dy="29.90px">for selling illegal</tspan>
+      <tspan x="248.0" dy="29.90px">fireworks components</tspan>
     </text>
-    <rect id="ITEM_1_BODY_FRAME" x="-190.0" y="206" width="380" height="154" fill="none"/>
-  </g>
-  <g transform="translate(960.0, 280.0)" filter="url(#svgf44dca6d-soft-shadow)">
-    <rect id="ITEM_2_BG" x="-200.0" y="0" width="400.0" height="360" rx="26" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-2)" stroke-width="3"/>
-    <rect x="-184.0" y="12" width="368.0" height="8" rx="4" fill="var(--accent-2)" fill-opacity="0.55"/>
-    <circle id="ITEM_2_PAD" cx="0" cy="74" r="46" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
-    <circle id="ITEM_2_PAD_INNER" cx="0" cy="74" r="35.88" fill="var(--accent-4)" fill-opacity="0.22"/>
-    <circle cx="0" cy="74" r="36" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
-    <g id="ITEM_2_ICON" transform="translate(-34, 40)" data-icon-size="68" stroke-dasharray="6 4">
-      <g transform="translate(-4.272000000000003,-9.056000000000004) scale(2.3920000000000003)">
-        <path d="M4 7C4 5.89543 4.89543 5 6 5H29C30.1046 5 31 5.89543 31 7V29C31 30.1046 30.1046 31 29 31H4C2.34315 31 1 29.6569 1 28V10C1 8.34314 2.34315 7 4 7Z" fill="#B4ACBC"/>
-        <path d="M28 10C28 8.89543 27.1046 8 26 8H4C2.89543 8 2 8.89543 2 10V28C2 29.1046 2.89543 30 4 30H29.5C28.6716 30 28 29.3284 28 28.5V10Z" fill="#F3EEF8"/>
-        <path d="M4 11C4 10.4477 4.44772 10 5 10H25C25.5523 10 26 10.4477 26 11C26 11.5523 25.5523 12 25 12H5C4.44772 12 4 11.5523 4 11ZM4 14.5C4 14.2239 4.22386 14 4.5 14H25.5C25.7761 14 26 14.2239 26 14.5C26 14.7761 25.7761 15 25.5 15H4.5C4.22386 15 4 14.7761 4 14.5ZM19.5 17C19.2239 17 19 17.2239 19 17.5C19 17.7761 19.2239 18 19.5 18H25.5C25.7761 18 26 17.7761 26 17.5C26 17.2239 25.7761 17 25.5 17H19.5ZM19 20.5C19 20.2239 19.2239 20 19.5 20H25.5C25.7761 20 26 20.2239 26 20.5C26 20.7761 25.7761 21 25.5 21H19.5C19.2239 21 19 20.7761 19 20.5ZM19.5 23C19.2239 23 19 23.2239 19 23.5C19 23.7761 19.2239 24 19.5 24H25.5C25.7761 24 26 23.7761 26 23.5C26 23.2239 25.7761 23 25.5 23H19.5ZM19 26.5C19 26.2239 19.2239 26 19.5 26H25.5C25.7761 26 26 26.2239 26 26.5C26 26.7761 25.7761 27 25.5 27H19.5C19.2239 27 19 26.7761 19 26.5ZM6 17C4.89543 17 4 17.8954 4 19V25C4 26.1046 4.89543 27 6 27H15C16.1046 27 17 26.1046 17 25V19C17 17.8954 16.1046 17 15 17H6Z" fill="#998EA4"/>
+    <rect id="ITEM_1_BODY_FRAME" x="113.0" y="842" width="270" height="92" fill="none"/>
+    <rect id="ITEM_2_BG" x="426.0" y="650" width="351.0" height="30" fill="var(--accent-1)" filter="url(#svg72508364-shadow)" stroke="var(--background)" stroke-width="1" fill-opacity="1.0"/>
+    <line x1="604.0" y1="463.71219868517164" x2="604.0" y2="645" stroke="var(--accent-1)" stroke-width="2"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="604.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle id="ITEM_2_PAD" cx="604.0" cy="730" r="45" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_2_PAD_INNER" cx="604.0" cy="730" r="35.10" fill="var(--accent-1)" fill-opacity="0.22"/>
+    <circle cx="604.0" cy="730" r="38" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" filter="url(#svg72508364-shadow)"/>
+    <g id="ITEM_2_ICON" transform="translate(574.0, 700.0)" data-icon-size="60">
+      <g transform="translate(-10.114285714285716,-17.635714285714286) scale(2.507142857142857)">
+        <path d="M4 21H28V27H4V21Z" fill="black"/>
+        <path d="M21.79 11.01C22.53 11.01 23.21 11.43 23.54 12.09L23.9921 12.9942L24.9327 15.9971L26.995 19H28.0407C29.1203 19 30 19.8789 30 20.9575L29.6141 22.4768L30 23.996V25.0424C30 26.1211 29.1203 27 28.0407 27H27.469C27.4895 26.8362 27.5 26.6693 27.5 26.5C27.5 24.2909 25.7091 22.5 23.5 22.5C21.2909 22.5 19.5 24.2909 19.5 26.5C19.5 26.6693 19.5105 26.8362 19.5309 27H12.4691C12.4895 26.8362 12.5 26.6693 12.5 26.5C12.5 24.2909 10.7091 22.5 8.5 22.5C6.29086 22.5 4.5 24.2909 4.5 26.5C4.5 26.6693 4.51052 26.8362 4.53095 27H3.9593C2.87968 27 2 26.1211 2 25.0424V24.0037L3.31953 22.5056L2 21.0075C2 19.8589 2.87968 19.01 3.9593 19.01L7.0007 19.0086L9.19709 16.0975L10.0048 13.0004L10.46 12.09C10.79 11.43 11.47 11.01 12.21 11.01H17H21.79Z" fill="#636363"/>
+        <path d="M12 26.5C12 28.433 10.433 30 8.5 30C6.567 30 5 28.433 5 26.5C5 24.567 6.567 23 8.5 23C10.433 23 12 24.567 12 26.5ZM27 26.5C27 28.433 25.433 30 23.5 30C21.567 30 20 28.433 20 26.5C20 24.567 21.567 23 23.5 23C25.433 23 27 24.567 27 26.5Z" fill="#321B41"/>
+        <path d="M16 10H18V11H16V10Z" fill="#D3D3D3"/>
+        <path d="M8 22.5309V19H24V22.5309C23.8362 22.5105 23.6693 22.5 23.5 22.5C21.2909 22.5 19.5 24.2909 19.5 26.5C19.5 26.6693 19.5105 26.8362 19.5309 27H12.4691C12.4895 26.8362 12.5 26.6693 12.5 26.5C12.5 24.2909 10.7091 22.5 8.5 22.5C8.33067 22.5 8.1638 22.5105 8 22.5309Z" fill="#D3D3D3"/>
+        <path d="M10 26.5C10 27.3284 9.32843 28 8.5 28C7.67157 28 7 27.3284 7 26.5C7 25.6716 7.67157 25 8.5 25C9.32843 25 10 25.6716 10 26.5Z" fill="#D3D3D3"/>
+        <path d="M25 26.5C25 27.3284 24.3284 28 23.5 28C22.6716 28 22 27.3284 22 26.5C22 25.6716 22.6716 25 23.5 25C24.3284 25 25 25.6716 25 26.5Z" fill="#D3D3D3"/>
+        <path d="M4 22C4 21.45 3.55 21 3 21H2V23.34V24H3C3.55 24 4 23.55 4 23V22Z" fill="#FFF478"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16 9C16 8.45 16.45 8 17 8C17.55 8 18 8.45 18 9V10H16V9ZM28 22.57C27.96 21.71 28.65 21 29.5 21H30V22V24H29.55C28.74 24 28.04 23.38 28 22.57Z" fill="#F92F60"/>
+        <path d="M15.02 19H7L10 13H15.02C15.56 13 16 13.44 16 13.98V18.02C16 18.56 15.56 19 15.02 19ZM18.98 19H27L24 13H18.98C18.44 13 18 13.44 18 13.98V18.02C18 18.56 18.44 19 18.98 19Z" fill="#26C9FC"/>
+        <path d="M11.13 20H11.52C11.79 20 12 19.78 12 19.52V17.48C12 17.21 11.78 17 11.52 17H11.13C10.51 17 10 17.51 10 18.13V18.87C10 19.5 10.51 20 11.13 20Z" fill="#D3D3D3"/>
+        <path d="M11.13 20H11.52C11.79 20 12 19.78 12 19.52V17.48C12 17.21 11.78 17 11.52 17H11.13C10.51 17 10 17.51 10 18.13V18.87C10 19.5 10.51 20 11.13 20Z" fill="#9B9B9B"/>
       </g>
     </g>
-    <text id="ITEM_2_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="44" font-weight="800" fill="var(--primary-text)" data-bg-id="ITEM_2_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-      <tspan x="0.0" dy="42.25px">Local Contact</tspan>
+    <line x1="604.0" y1="755" x2="604.0" y2="890" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect id="ITEM_2_TEXT_BG" x="424.0" y="868" width="360" height="180" rx="24" fill="var(--panel)" fill-opacity="0.88" stroke="var(--primary-text)" stroke-opacity="0.14" stroke-width="1.5"/>
+    <text id="ITEM_2_HEAD" x="604.0" y="878.0" font-weight="bold" font-size="24" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="604.0" dy="34.25px">Homicide Raid</tspan>
     </text>
-    <rect id="ITEM_2_HEAD_FRAME" x="-165.0" y="138" width="330.0" height="68" fill="none"/>
-    <text id="ITEM_2_BODY" x="0.0" y="206.0" text-anchor="middle" font-size="27" fill="var(--primary-text)" data-bg-id="ITEM_2_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-      <tspan x="0.0" dy="39.64px">Newspaper links him to Los</tspan>
-      <tspan x="0.0" dy="29.90px">Alamos Meson Physics</tspan>
+    <rect id="ITEM_2_HEAD_FRAME" x="444.0" y="878" width="320" height="52" fill="none"/>
+    <text id="ITEM_2_BODY" x="604.0" y="938.0" font-size="18" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="604.0" dy="24.06px">FBI raid linked to</tspan>
+      <tspan x="604.0" dy="29.90px">thallium poisoning</tspan>
+      <tspan x="604.0" dy="29.90px">investigation</tspan>
     </text>
-    <rect id="ITEM_2_BODY_FRAME" x="-190.0" y="206" width="380" height="154" fill="none"/>
-  </g>
-  <g transform="translate(1425.0, 280.0)" filter="url(#svgf44dca6d-soft-shadow)">
-    <rect id="ITEM_3_BG" x="-200.0" y="0" width="400.0" height="360" rx="26" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-3)" stroke-width="3"/>
-    <rect x="-184.0" y="12" width="368.0" height="8" rx="4" fill="var(--accent-3)" fill-opacity="0.55"/>
-    <circle id="ITEM_3_PAD" cx="0" cy="74" r="46" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
-    <circle id="ITEM_3_PAD_INNER" cx="0" cy="74" r="35.88" fill="var(--accent-5)" fill-opacity="0.22"/>
-    <circle cx="0" cy="74" r="36" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
-    <g id="ITEM_3_ICON" transform="translate(-34, 40)" data-icon-size="68" stroke-dasharray="6 4">
-      <g transform="translate(-7.005714285714289,-9.568571428571435) scale(2.562857142857143)">
-        <path d="M15.385 7.39062L12.9075 4.915C12.3219 4.32875 11.5275 4 10.6987 4H4.125C2.95125 4 2 4.95125 2 6.125V13.5H12.985H30V10.1375C30 8.96375 29.0488 8.0125 27.875 8.0125H16.8875C16.3237 8.0125 15.7838 7.78875 15.385 7.39062Z" fill="#FFB02E"/>
-        <path d="M27.875 30H4.125C2.95125 30 2 29.0545 2 27.8878V13.1122C2 11.9455 2.95125 11 4.125 11H27.875C29.0488 11 30 11.9455 30 13.1122V27.8878C30 29.0545 29.0488 30 27.875 30Z" fill="#FCD53F"/>
+    <rect id="ITEM_2_BODY_FRAME" x="454.0" y="938" width="300" height="106" fill="none"/>
+    <rect id="ITEM_3_BG" x="782.0" y="650" width="351.0" height="30" fill="var(--accent-2)" filter="url(#svg72508364-shadow)" stroke="var(--background)" stroke-width="1" fill-opacity="1.0"/>
+    <line x1="960.0" y1="510.0" x2="960.0" y2="645" stroke="var(--accent-1)" stroke-width="2"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="960.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle id="ITEM_3_PAD" cx="960.0" cy="730" r="45" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_3_PAD_INNER" cx="960.0" cy="730" r="35.10" fill="var(--accent-2)" fill-opacity="0.22"/>
+    <circle cx="960.0" cy="730" r="38" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" filter="url(#svg72508364-shadow)"/>
+    <g id="ITEM_3_ICON" transform="translate(930.0, 700.0)" data-icon-size="60">
+      <g transform="translate(-10.114285714285714,-10.114285714285716) scale(2.507142857142857)">
+        <path d="M5 4.5C5 3.67157 5.67157 3 6.5 3H25.5C26.3284 3 27 3.67157 27 4.5V28.5C27 29.3284 26.3284 30 25.5 30H6.5C5.67157 30 5 29.3284 5 28.5V4.5Z" fill="#E19747"/>
+        <path d="M25 6C25 5.44772 24.5523 5 24 5H8C7.44772 5 7 5.44772 7 6V27C7 27.5523 7.44772 28 8 28H18.5858C18.7327 28 18.8764 27.9677 19.0071 27.9069L19.3282 27.1239L19.96 23.0379L24.4166 22.255L24.9064 22.0082C24.9675 21.8772 25 21.7332 25 21.5858V6Z" fill="#F3EEF8"/>
+        <path d="M24.9102 22H20C19.4477 22 19 22.4477 19 23V27.9102C19.108 27.861 19.2074 27.7926 19.2929 27.7071L24.7071 22.2929C24.7926 22.2074 24.861 22.108 24.9102 22Z" fill="#CDC4D6"/>
+        <path d="M18 4C18 2.89543 17.1046 2 16 2C14.8954 2 14 2.89543 14 4H13C11.8954 4 11 4.89543 11 6V7.5C11 7.77614 11.2239 8 11.5 8H20.5C20.7761 8 21 7.77614 21 7.5V6C21 4.89543 20.1046 4 19 4H18ZM17 4C17 4.55228 16.5523 5 16 5C15.4477 5 15 4.55228 15 4C15 3.44772 15.4477 3 16 3C16.5523 3 17 3.44772 17 4Z" fill="#9B9B9B"/>
+        <path d="M9 12.5C9 12.2239 9.22386 12 9.5 12H22.5C22.7761 12 23 12.2239 23 12.5C23 12.7761 22.7761 13 22.5 13H9.5C9.22386 13 9 12.7761 9 12.5Z" fill="#9B9B9B"/>
+        <path d="M9 15.5C9 15.2239 9.22386 15 9.5 15H22.5C22.7761 15 23 15.2239 23 15.5C23 15.7761 22.7761 16 22.5 16H9.5C9.22386 16 9 15.7761 9 15.5Z" fill="#9B9B9B"/>
+        <path d="M9.5 18C9.22386 18 9 18.2239 9 18.5C9 18.7761 9.22386 19 9.5 19H22.5C22.7761 19 23 18.7761 23 18.5C23 18.2239 22.7761 18 22.5 18H9.5Z" fill="#9B9B9B"/>
+        <path d="M9 21.5C9 21.2239 9.22386 21 9.5 21H17.5C17.7761 21 18 21.2239 18 21.5C18 21.7761 17.7761 22 17.5 22H9.5C9.22386 22 9 21.7761 9 21.5Z" fill="#9B9B9B"/>
       </g>
     </g>
-    <text id="ITEM_3_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="44" font-weight="800" fill="var(--primary-text)" data-bg-id="ITEM_3_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-      <tspan x="0.0" dy="42.25px">Missing Degrees</tspan>
+    <line x1="960.0" y1="755" x2="960.0" y2="780" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect id="ITEM_3_TEXT_BG" x="810.0" y="772" width="300" height="166" rx="24" fill="var(--panel)" fill-opacity="0.88" stroke="var(--primary-text)" stroke-opacity="0.14" stroke-width="1.5"/>
+    <text id="ITEM_3_HEAD" x="960.0" y="780.0" font-weight="bold" font-size="24" fill="var(--accent-2)" text-anchor="middle" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="960.0" dy="33.25px">UAP Reports</tspan>
     </text>
-    <rect id="ITEM_3_HEAD_FRAME" x="-165.0" y="138" width="330.0" height="68" fill="none"/>
-    <text id="ITEM_3_BODY" x="0.0" y="206.0" text-anchor="middle" font-size="27" fill="var(--primary-text)" data-bg-id="ITEM_3_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-      <tspan x="0.0" dy="39.64px">No records found at MIT</tspan>
-      <tspan x="0.0" dy="29.90px">or Caltech institutions</tspan>
+    <rect id="ITEM_3_HEAD_FRAME" x="820.0" y="780" width="280" height="50" fill="none"/>
+    <text id="ITEM_3_BODY" x="960.0" y="842.0" font-size="18" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 24px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="24">
+      <tspan x="960.0" dy="21.04px">AARO states no evidence</tspan>
+      <tspan x="960.0" dy="27.60px">of extraterrestrial</tspan>
+      <tspan x="960.0" dy="27.60px">technology</tspan>
     </text>
-    <rect id="ITEM_3_BODY_FRAME" x="-190.0" y="206" width="380" height="154" fill="none"/>
-  </g>
-  <g transform="translate(690.0, 670.0)" filter="url(#svgf44dca6d-soft-shadow)">
-    <rect id="ITEM_4_BG" x="-200.0" y="0" width="400.0" height="360" rx="26" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-4)" stroke-width="3"/>
-    <rect x="-184.0" y="12" width="368.0" height="8" rx="4" fill="var(--accent-4)" fill-opacity="0.55"/>
-    <circle id="ITEM_4_PAD" cx="0" cy="74" r="46" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
-    <circle id="ITEM_4_PAD_INNER" cx="0" cy="74" r="35.88" fill="var(--accent-6)" fill-opacity="0.22"/>
-    <circle cx="0" cy="74" r="36" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
-    <g id="ITEM_4_ICON" transform="translate(-34, 40)" data-icon-size="68" stroke-dasharray="6 4">
-      <g transform="translate(-4.920677966101698,-4.920677966101698) scale(3.243389830508475)" vector-effect="non-scaling-stroke" stroke-width="2.53" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
-        <path d="M12 6v6l4 2" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
-        <circle cx="12" cy="12" r="10" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+    <rect id="ITEM_3_BODY_FRAME" x="825.0" y="842" width="270" height="92" fill="none"/>
+    <rect id="ITEM_4_BG" x="1138.0" y="650" width="351.0" height="30" fill="url(#svg72508364-deck-grad-4)" filter="url(#svg72508364-shadow)" stroke="var(--background)" stroke-width="1"/>
+    <line x1="1316.0" y1="463.71219868517164" x2="1316.0" y2="645" stroke="var(--accent-1)" stroke-width="2"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1316.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle id="ITEM_4_PAD" cx="1316.0" cy="730" r="45" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_4_PAD_INNER" cx="1316.0" cy="730" r="35.10" fill="var(--accent-4)" fill-opacity="0.22"/>
+    <circle cx="1316.0" cy="730" r="38" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" filter="url(#svg72508364-shadow)"/>
+    <g id="ITEM_4_ICON" transform="translate(1286.0, 700.0)" data-icon-size="60">
+      <g transform="translate(-7.420661157024795,-7.130578512396696) scale(2.3206611570247935)">
+        <path d="M16.0278 4C8.16615 4 3.53108 9.75575 1.66714 12.7026C0.772249 14.1175 0.772247 15.8825 1.66714 17.2974C3.53108 20.2442 8.16615 26 16.0278 26C17.2577 26 18.413 25.8582 19.4936 25.6063L23.8434 27.8365C24.8416 28.3483 26.0278 27.6235 26.0278 26.5017V22.3015C28.083 20.6044 29.5201 18.6702 30.3884 17.2974C31.2833 15.8825 31.2833 14.1175 30.3884 12.7026C28.5245 9.75575 23.8894 4 16.0278 4Z" fill="#9B9B9B"/>
+        <path d="M24.2997 26.9467L19.6172 24.5458C18.5104 24.8344 17.3146 25 16.0278 25C8.70189 25 4.32778 19.6331 2.51227 16.7628C1.82387 15.6744 1.82387 14.3256 2.51228 13.2372C4.32778 10.3669 8.7019 5 16.0278 5C23.3537 5 27.7278 10.3669 29.5433 13.2372C30.2317 14.3256 30.2317 15.6744 29.5433 16.7628C28.6595 18.16 27.1695 20.1489 25.0278 21.8222V26.5017C25.0278 26.8757 24.6324 27.1173 24.2997 26.9467Z" fill="white"/>
       </g>
     </g>
-    <text id="ITEM_4_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="44" font-weight="800" fill="var(--accent-6)" data-bg-id="ITEM_4_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-      <tspan x="0.0" dy="42.25px">Short Lived Fuel</tspan>
+    <line x1="1316.0" y1="755" x2="1316.0" y2="890" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect id="ITEM_4_TEXT_BG" x="1136.0" y="868" width="360" height="180" rx="24" fill="var(--panel)" fill-opacity="0.88" stroke="var(--primary-text)" stroke-opacity="0.14" stroke-width="1.5"/>
+    <text id="ITEM_4_HEAD" x="1316.0" y="878.0" font-weight="bold" font-size="24" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1316.0" dy="34.25px">Cultural Legend</tspan>
     </text>
-    <rect id="ITEM_4_HEAD_FRAME" x="-165.0" y="138" width="330.0" height="68" fill="none"/>
-    <text id="ITEM_4_BODY" x="0.0" y="206.0" text-anchor="middle" font-size="27" fill="var(--primary-text)" data-bg-id="ITEM_4_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-      <tspan x="0.0" dy="39.64px">Known moscovium decays</tspan>
-      <tspan x="0.0" dy="29.90px">in milliseconds not stable</tspan>
+    <rect id="ITEM_4_HEAD_FRAME" x="1156.0" y="878" width="320" height="52" fill="none"/>
+    <text id="ITEM_4_BODY" x="1316.0" y="938.0" font-size="18" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1316.0" dy="24.06px">Story shapes vocabulary</tspan>
+      <tspan x="1316.0" dy="29.90px">of UFO culture</tspan>
+      <tspan x="1316.0" dy="29.90px">and forums</tspan>
     </text>
-    <rect id="ITEM_4_BODY_FRAME" x="-190.0" y="206" width="380" height="154" fill="none"/>
-  </g>
-  <g transform="translate(1230.0, 670.0)" filter="url(#svgf44dca6d-soft-shadow)">
-    <rect id="ITEM_5_BG" x="-200.0" y="0" width="400.0" height="360" rx="26" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-5)" stroke-width="3"/>
-    <rect x="-184.0" y="12" width="368.0" height="8" rx="4" fill="var(--accent-5)" fill-opacity="0.55"/>
-    <circle id="ITEM_5_PAD" cx="0" cy="74" r="46" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
-    <circle id="ITEM_5_PAD_INNER" cx="0" cy="74" r="35.88" fill="var(--accent-1)" fill-opacity="0.22"/>
-    <circle cx="0" cy="74" r="36" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4"/>
-    <g id="ITEM_5_ICON" transform="translate(-34, 40)" data-icon-size="68" stroke-dasharray="6 4">
-      <g transform="translate(-1.8800000000000026,-1.8800000000000026) scale(5.125714285714286)" vector-effect="non-scaling-stroke" stroke-width="2.53" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
-        <path id="Vector" fill="none" d="M6 11.5a5.5 5.5 0 1 0 0 -11 5.5 5.5 0 0 0 0 11Z" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
-        <path id="Vector_2" stroke="#f1f5f9" d="M6 11.5a5.5 5.5 0 1 0 0 -11 5.5 5.5 0 0 0 0 11Z" vector-effect="non-scaling-stroke" fill="none"/>
-        <path id="Vector_3" stroke="#f1f5f9" d="M13.5 13.5 10 10" vector-effect="non-scaling-stroke" fill="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="1166.0" y="938" width="300" height="106" fill="none"/>
+    <rect id="ITEM_5_BG" x="1494.0" y="650" width="351.0" height="30" fill="url(#svg72508364-deck-grad-5)" filter="url(#svg72508364-shadow)" stroke="var(--background)" stroke-width="1"/>
+    <line x1="1672.0" y1="324.8487947406866" x2="1672.0" y2="645" stroke="var(--accent-1)" stroke-width="2"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle cx="1672.0" cy="650" r="5" fill="var(--accent-1)" fill-opacity="0.75"/>
+    <circle id="ITEM_5_PAD" cx="1672.0" cy="730" r="45" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" stroke-width="2"/>
+    <circle id="ITEM_5_PAD_INNER" cx="1672.0" cy="730" r="35.10" fill="var(--accent-5)" fill-opacity="0.22"/>
+    <circle cx="1672.0" cy="730" r="38" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" filter="url(#svg72508364-shadow)"/>
+    <g id="ITEM_5_ICON" transform="translate(1642.0, 700.0)" data-icon-size="60">
+      <g transform="translate(-22.241860465116282,-22.241860465116282) scale(4.3534883720930235)" vector-effect="non-scaling-stroke" stroke-width="2.43" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M8 8a3.5 3 0 0 1 3.5 -3h1a3.5 3 0 0 1 3.5 3a3 3 0 0 1 -2 3a3 4 0 0 0 -2 4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M12 19l0 .01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
       </g>
     </g>
-    <text id="ITEM_5_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="44" font-weight="800" fill="var(--primary-text)" data-bg-id="ITEM_5_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
-      <tspan x="0.0" dy="42.25px">No S-4 Proof</tspan>
+    <line x1="1672.0" y1="755" x2="1672.0" y2="780" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="6 4"/>
+    <rect id="ITEM_5_TEXT_BG" x="1522.0" y="772" width="300" height="166" rx="24" fill="var(--panel)" fill-opacity="0.88" stroke="var(--primary-text)" stroke-opacity="0.14" stroke-width="1.5"/>
+    <text id="ITEM_5_HEAD" x="1672.0" y="780.0" font-weight="bold" font-size="24" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1672.0" dy="33.25px">Unproven Claim</tspan>
     </text>
-    <rect id="ITEM_5_HEAD_FRAME" x="-165.0" y="138" width="330.0" height="68" fill="none"/>
-    <text id="ITEM_5_BODY" x="0.0" y="206.0" text-anchor="middle" font-size="27" fill="var(--primary-text)" data-bg-id="ITEM_5_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
-      <tspan x="0.0" dy="39.64px">No official document confirms</tspan>
-      <tspan x="0.0" dy="29.90px">S-4 employment role</tspan>
+    <rect id="ITEM_5_HEAD_FRAME" x="1532.0" y="780" width="280" height="50" fill="none"/>
+    <text id="ITEM_5_BODY" x="1672.0" y="842.0" font-size="18" fill="var(--primary-text)" text-anchor="middle" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1672.0" dy="21.26px">Central story remains</tspan>
+      <tspan x="1672.0" dy="29.90px">evidentially</tspan>
+      <tspan x="1672.0" dy="29.90px">unproven fact</tspan>
     </text>
-    <rect id="ITEM_5_BODY_FRAME" x="-190.0" y="206" width="380" height="154" fill="none"/>
+    <rect id="ITEM_5_BODY_FRAME" x="1537.0" y="842" width="270" height="92" fill="none"/>
   </g>
 </svg>

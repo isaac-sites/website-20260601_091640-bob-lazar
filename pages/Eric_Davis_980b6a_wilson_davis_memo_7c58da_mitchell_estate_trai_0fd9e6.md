@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /wilson-memo/
 nav_short_title: Estate trail
 title: Can the Mitchell paper trail be trusted?
-title_full: Can the Mitchell paper trail be trusted? | Wilson Memo
+title_full: Can the Mitchell paper trail be trusted?
 display_title_short: Estate trail
 display_title: Estate trail
 heading_title: Can the Mitchell paper trail be trusted?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Wilson Davis Memo Still Divides Readers | Davis
+parent_title: Why The Wilson Davis Memo Still Divides Readers
 parent_permalink: /wilson-memo/
 parent_nav_short_title: Wilson Memo
 parent_heading_title: Why The Wilson Davis Memo Still Divides Readers
@@ -247,7 +247,7 @@ next_link:
   permalink: /gatekeeping/
   short_title: Gatekeeping
   heading_title: Could contractors really block oversight?
-date: '2026-06-09 03:03:33 '
+date: '2026-06-11 21:07:06 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-1.webp
@@ -258,18 +258,16 @@ image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate
 
 The most important weakness in the Wilson-Davis memo is not its extraordinary content. It is the uncertain route by which the document became public. Supporters often point out that the memo appears to have emerged from the papers of Apollo 14 astronaut Edgar Mitchell rather than from an anonymous internet upload. Critics respond that the Mitchell connection only moves the provenance question back one step. It does not establish when the notes were written, how they reached Mitchell, whether the public version is complete, or whether any copies changed hands before release.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-1-dark.svg" | relative_url }}" alt="Estate trail illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to assess [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}), that distinction matters. A document can be genuine in the sense that it originated with Davis, yet still fail to prove that the events it describes occurred exactly as written. The unresolved gaps in the Mitchell estate trail therefore affect how much evidential weight the memo can carry, even for people who consider it more credible than a simple hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</span></span></span> | Report a UFO sighting
+For readers trying to assess Eric Davis, that distinction matters. A document can be genuine in the sense that it originated with Davis, yet still fail to prove that the events it describes occurred exactly as written. The unresolved gaps in the Mitchell estate trail therefore affect how much evidential weight the memo can carry, even for people who consider it more credible than a simple hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</span></span></span> | Report a UFO sighting
 
 ## What is claimed about the document's route into public view
 
-The broad outline of the story is relatively consistent across many retellings. The memo describes an alleged October 2002 conversation between Davis and former Defence Intelligence Agency director Vice Admiral Thomas Wilson. It did not become widely public until around 2019, more than sixteen years later. During that interval, the document was reportedly held among Mitchell's papers or archives rather than circulating publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</span></span></span> | Report a UFO sighting
+The broad outline of the story is relatively consistent across many retellings. The memo describes an alleged October 2002 conversation between Davis and former Defence Intelligence Agency director Vice Admiral Thomas Wilson. It did not become widely public until around 2019, more than sixteen years later. During that interval, the document was reportedly held among Mitchell's papers or archives rather than circulating publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</span></span></span> | Report a UFO sighting
 
 Several people associated with the UFO research community have stated that the document came from Mitchell's estate after his death in 2016. Variations of that account appear in interviews, researcher discussions and later summaries of the controversy. The common claim is that the memo was discovered among materials linked to Mitchell and then eventually copied or scanned before entering public circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecontactreport.com">[The Contact Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecontactreport.com</span><span class="citation-popover-snippet">The Contact ReportThe Davis–Wilson Memo: Inside the Most Controversial UFO...2 Sept 2025 — The memo allegedly surfaced in 2019, when res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.exopaedia.org/Wilson%2BMemo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exopaedia.org">[exopaedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exopaedia.org</span><span class="citation-popover-snippet">Wilson MemoThe document is alleged to have leaked from Edgar Mitchell&#x27;s estate after he passed away in 2016. During this meeting, many th...</span></span></span> An important detail is that Mitchell's possession of a document is not inherently implausible. Mitchell knew many figures involved in UFO disclosure advocacy and is referenced within the memo's own narrative. The document itself claims that Wilson's interest in the alleged hidden programme partly stemmed from earlier discussions involving Mitchell and others. Because Mitchell and Davis moved in overlapping circles, it is entirely possible that Mitchell could have possessed notes written by Davis. The problem is that public evidence for that transfer has never been fully documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 What remains missing is a clear archival record showing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,7 +283,6 @@ What remains missing is a clear archival record showing:
 
 Those are ordinary provenance questions that historians, archivists and investigators would ask of any controversial document, regardless of subject matter.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OPq3yXV2XJo" title="How Wilson Became One Of The Biggest Brands In Sports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OPq3yXV2XJo" target="_blank" rel="noopener noreferrer">How Wilson Became One Of The Biggest Brands In Sports</a></p><p class="youtube-embed-meta">Channel: Front Office Sports &middot; Views: 112.5K &middot; Uploaded: March 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OPq3yXV2XJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OPq3yXV2XJo">Open on YouTube</a></p></div></div></div>
 
 ## Why the missing links matter more than believers and sceptics sometimes admit
@@ -297,7 +294,6 @@ Neither conclusion follows from the available evidence.
 If the document genuinely sat in Mitchell's files for years before publication, that fact would make a simple modern internet forgery less likely. A fabricated document created shortly before release would need an explanation for why multiple people later connected it to Mitchell's archive. Supporters frequently point to this as one reason they consider the memo more serious than many UFO leaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Eric Davis himself confirms that the Wilson-Davis Memo...December 22, 2023 — Davis himself confirms that the Wilson-Davis Memo was leake...</span><span class="citation-popover-meta">Published: December 22, 2023</span></span></span>
 
 At the same time, the Mitchell connection does not authenticate the contents. Even if Mitchell possessed the document, several possibilities remain open:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +309,6 @@ Chain of custody establishes where a document travelled. It does not automatical
 
 That distinction is especially important because the memo is not an official government record. It appears to be private notes attributed to Davis. Even perfect provenance would not convert it into independent proof of a hidden crash-retrieval programme.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-2-dark.svg" | relative_url }}" alt="Estate trail illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The absence of supporting archive material
 
@@ -327,19 +322,17 @@ The situation differs from many government records released through official arc
 
 For critics, this absence is a major warning sign. For supporters, it is an unfortunate but unsurprising consequence of material allegedly circulating within private UFO networks rather than official archives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uS5G3OnRjPg" title="Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer">Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction</a></p><p class="youtube-embed-meta">Channel: Ben Lovegrove &middot; Views: 43.8K &middot; Uploaded: July 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uS5G3OnRjPg">Open on YouTube</a></p></div></div></div>
 
 ## What later comments from Davis do and do not establish
 
 Another complication is that Davis has not consistently treated the memo as a straightforward forgery.
 
-Over the years, Davis generally avoided direct confirmation while also avoiding a clear declaration that the document was fabricated. More recently, online discussions have highlighted comments interpreted as implicit acknowledgement that the notes originated with him and emerged from Mitchell's estate. Supporters regard these remarks as significant because they move beyond complete silence regarding authorship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditEric Davis appears to admit writing Wilson/Davis memo in...August 31, 2024 — Eric Davis himself confirms that the Wilson-Davis Mem...</span><span class="citation-popover-meta">Published: August 31, 2024</span></span></span>
+Over the years, Davis generally avoided direct confirmation while also avoiding a clear declaration that the document was fabricated. More recently, online discussions have highlighted comments interpreted as implicit acknowledgement that the notes originated with him and emerged from Mitchell's estate. Supporters regard these remarks as significant because they move beyond complete silence regarding authorship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Eric Davis appears to admit writing Wilson/Davis memo in...August 31, 2024 — Eric Davis himself confirms that the Wilson-Davis Mem...</span><span class="citation-popover-meta">Published: August 31, 2024</span></span></span>
 
 However, even if Davis effectively acknowledged creating the notes, that would only resolve one layer of the provenance problem.
 
 It could strengthen the argument that the memo is based on an authentic Davis document rather than a random forgery created by someone else. It would not independently verify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,7 +347,6 @@ In other words, authorship and truthfulness are separate questions.
 
 This distinction is often lost in public debate. Confirmation that Davis wrote notes is not equivalent to confirmation that the underlying claims are correct.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pY1XHQBqIY8" title="FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer">FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 163.0K &middot; Uploaded: July 2020 &middot; Length: 5 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pY1XHQBqIY8">Open on YouTube</a></p></div></div></div>
 
 ## How provenance affects Eric Davis's credibility
@@ -367,7 +359,6 @@ On the other hand, the missing custody links prevent the memo from functioning a
 
 The result is a mixed evidential picture:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The Mitchell connection arguably raises the memo above the level of an anonymous internet leak.
@@ -378,7 +369,6 @@ The result is a mixed evidential picture:
 </div>
 
 For credibility assessment, the estate trail therefore cuts both ways. It gives the memo a more tangible historical footprint than many UFO documents, yet it also highlights how much of the story still depends on trust rather than verifiable custody records. The strongest conclusion supported by the available evidence is not that the memo has been proven true or proven false. It is that one of the most influential documents in modern UAP culture remains attached to a partially documented paper trail whose missing links continue to limit its evidential value.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-3-dark.svg" | relative_url }}" alt="Estate trail illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_mitchell_estate_trai_0fd9e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -499,15 +489,15 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack"><img src="{{ '/assets/images/marketplace-covers/f786dce885d6f1015ca9.jpg' | relative_url }}" alt="Listing image for Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Apollo 13 NASA Moon Mission Sublimation Iron or Sew on Patch Badge"><img src="https://i.ebayimg.com/images/g/c~kAAOSwW69iAVZT/s-l225.jpg" alt="Listing image for 3&quot; Apollo 13 NASA Moon Mission Sublimation Iron or Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">3&quot; Apollo 13 NASA Moon Mission Sublimation Iron or Sew on Patch Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: apollo mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo mission patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +505,15 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult"><img src="{{ '/assets/images/marketplace-covers/98cf2756172ba27cbaae.jpg' | relative_url }}" alt="Listing image for Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Apollo 13 - &#x27;Successful Failure&#x27; Embroidered Mission Patch - 6&quot; Diameter"><img src="https://i.ebayimg.com/images/g/HRUAAeSwhA5pj0d-/s-l225.jpg" alt="Listing image for NASA Apollo 13 - &#x27;Successful Failure&#x27; Embroidered Mission Patch - 6&quot; Diameter" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Apollo 17 NASA Space Moon Landing Mission Iron-On Motif Patch Child / Adult</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Apollo 13 - &#x27;Successful Failure&#x27; Embroidered Mission Patch - 6&quot; Diameter</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: apollo mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo mission patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +521,15 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Apollo Mission Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/1bfb880a03a3332bd02c.jpg' | relative_url }}" alt="Listing image for NASA Apollo Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo Mission Patch Set Apollo1,7,8,9,10,11,12,13,14,15,16,17, Space Embroid..."><img src="https://i.ebayimg.com/images/g/7VwAAeSw9fxqKxI3/s-l225.jpg" alt="Listing image for Apollo Mission Patch Set Apollo1,7,8,9,10,11,12,13,14,15,16,17, Space Embroid..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Apollo Mission Patch Badge Patches Badges</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Apollo Mission Patch Set Apollo1,7,8,9,10,11,12,13,14,15,16,17, Space Embroid...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: apollo mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo mission patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +537,15 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Apollo 11 NASA Moon Mission Sublimation Iron or Sew on Patch Badge"><img src="{{ '/assets/images/marketplace-covers/0cb15e736ecb2672126d.jpg' | relative_url }}" alt="Listing image for 3&quot; Apollo 11 NASA Moon Mission Sublimation Iron or Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges"><img src="https://i.ebayimg.com/images/g/gQ4AAOSw9L1f55Fg/s-l225.jpg" alt="Listing image for Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">3&quot; Apollo 11 NASA Moon Mission Sublimation Iron or Sew on Patch Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Apollo 11 Xl NASA Space Mission Patch Badge Patches Badges</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: apollo mission patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Apollo mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Apollo mission patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,7 +553,7 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apollo mission patch" data-ebay-reference="estate-trail-can-the-mitchell-paper-trail-be-trusted-eric-davis-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Apollo+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Apollo mission patch" data-ebay-reference="can-the-mitchell-paper-trail-be-trusted-apollo-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -778,135 +768,135 @@ For credibility assessment, the estate trail therefore cuts both ways. It gives 
 
 1. <a id="endnote-1"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69](https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69)  
+   Link: <a href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
 
 3. <a id="endnote-3"></a>
    Source: exopaedia.org  
-   Link: [https://www.exopaedia.org/Wilson%2BMemo](https://www.exopaedia.org/Wilson%2BMemo)  
+   Link: <a href="https://www.exopaedia.org/Wilson%2BMemo" target="_blank" rel="noopener noreferrer nofollow">https://www.exopaedia.org/Wilson%2BMemo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilson MemoThe document is alleged to have leaked from Edgar Mitchell&#x27;s estate after he passed away in 2016. During this meeting, many th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/](https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis himself confirms that the Wilson-Davis Memo...December 22, 2023 — Davis himself confirms that the Wilson-Davis Memo was leake...</p></details>
    Published: December 22, 2023  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/](https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEric Davis appears to admit writing Wilson/Davis memo in...August 31, 2024 — Eric Davis himself confirms that the Wilson-Davis Mem...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis appears to admit writing Wilson/Davis memo in...August 31, 2024 — Eric Davis himself confirms that the Wilson-Davis Mem...</p></details>
    Published: August 31, 2024  
 
 6. <a id="endnote-6"></a>
    Source: wilson.com  
-   Link: [https://www.wilson.com/en-us/](https://www.wilson.com/en-us/)  
+   Link: <a href="https://www.wilson.com/en-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.wilson.com/en-us/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilson Sporting Goods | Premium Tennis Apparel and Sports...Technically built performance tennis clothes, shoes and sports gear. Shop gi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/](https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the &quot;[Wilson Memo](&amp;#123;&amp;#123; &#x27;wilson-memo/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;: r/aliensThis document is alleged to have leaked from Edgar Mitchell&#x27;s estate after he passed away in 2016...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/](https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>om astronaut Edgar Mitchell&#x27;s archives, having enormous...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: the alleged wilson memo leak from 2002 has very  
-   Link: [https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/](https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astronaut...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/](https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChilluminatiPod/comments/118mgcb/former_director_of_the_dia_defense_intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tate in a non-denial of involvement: [https://streamable.com/y290dt.Read](https://streamable.com/y290dt.Read) more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: thoughts on the wilson memo  
-   Link: [https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/](https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsCan be found here: [https://m.imgur.com/a/ggIFTfQ](https://m.imgur.com/a/ggIFTfQ) In 2019 a document was &quot;leaked&quot; called the Wilson memo which details a meeting...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/](https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilson-Davis memo before it was ever a topic of public conversation.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thecontactreport.com  
-   Link: [https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/](https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/)  
+   Link: <a href="https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/" target="_blank" rel="noopener noreferrer nofollow">https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Contact ReportThe Davis–Wilson Memo: Inside the Most Controversial UFO...2 Sept 2025 — The memo allegedly surfaced in 2019, when res...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: som1.webador.com  
    Title: Admiral Wilson  
-   Link: [https://som1.webador.com/admiral-wilson-davis-memo](https://som1.webador.com/admiral-wilson-davis-memo)  
+   Link: <a href="https://som1.webador.com/admiral-wilson-davis-memo" target="_blank" rel="noopener noreferrer nofollow">https://som1.webador.com/admiral-wilson-davis-memo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis Memo - SOM1These letters were found in the personal effects of Apollo 14 Astronaut Edgar Mitchell after his death on Feb. 4th. 2016...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: walmart.com  
-   Link: [https://www.walmart.com/brand/wilson/10003456](https://www.walmart.com/brand/wilson/10003456)  
+   Link: <a href="https://www.walmart.com/brand/wilson/10003456" target="_blank" rel="noopener noreferrer nofollow">https://www.walmart.com/brand/wilson/10003456</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>items from Wilson at Walmart.com and learn more about how you can save money on the best Wilson products to help you live better...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: tennis-warehouse.com  
-   Link: [https://www.tennis-warehouse.com/Wilson/catpage-WILSONPP.html?srsltid=AfmBOopXrRPizsoeZ4XdzyhckewH6Qd0MxpdCWoeCF2V7VTxCvMGB5aC](https://www.tennis-warehouse.com/Wilson/catpage-WILSONPP.html?srsltid=AfmBOopXrRPizsoeZ4XdzyhckewH6Qd0MxpdCWoeCF2V7VTxCvMGB5aC)  
+   Link: <a href="https://www.tennis-warehouse.com/Wilson/catpage-WILSONPP.html?srsltid=AfmBOopXrRPizsoeZ4XdzyhckewH6Qd0MxpdCWoeCF2V7VTxCvMGB5aC" target="_blank" rel="noopener noreferrer nofollow">https://www.tennis-warehouse.com/Wilson/catpage-WILSONPP.html?srsltid=AfmBOopXrRPizsoeZ4XdzyhckewH6Qd0MxpdCWoeCF2V7VTxCvMGB5aC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WilsonWilson is an American sports equipment company and is one of the world&#x27;s leading manufacturers. They focus on providing high qualit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: amersports.com  
-   Link: [https://www.amersports.com/brands/wilson/](https://www.amersports.com/brands/wilson/)  
+   Link: <a href="https://www.amersports.com/brands/wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.amersports.com/brands/wilson/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WilsonWilson is the world&#x27;s leading manufacturer of high-performance sports equipment, apparel, footwear, and accessories. Shop online. F...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — Note: The notes of this meeting originated from the estate of late astronau...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM](https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM)  
+   Link: <a href="https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wilson-Davis Memo: An Interview About UAPs and...A document from Edgar Mitchell&#x27;s estate appears to show a conversation between Dr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: richarddolanmembers.com  
-   Title: eric davis appears to admit writing [wilson davis memo](&#123;&#123; 'wilson-memo/' | relative_url &#125;&#125;)  
-   Link: [https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/](https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/)  
+   Title: eric davis appears to admit writing wilson davis memo  
+   Link: <a href="https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis Appears to Admit Writing Wilson/Davis MemoSep 2, 2024 — Physicist Dr. Eric Davis seems to have confirmed his authorship of the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40ken.korczak/bizarre-saga-of-the-ufo-leak-of-the-century-05be01ebcf38](https://medium.com/%40ken.korczak/bizarre-saga-of-the-ufo-leak-of-the-century-05be01ebcf38)  
+   Link: <a href="https://medium.com/%40ken.korczak/bizarre-saga-of-the-ufo-leak-of-the-century-05be01ebcf38" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ken.korczak/bizarre-saga-of-the-ufo-leak-of-the-century-05be01ebcf38</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e Wilson Memo in his files and never leaked it to anyone...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/238876956176484/posts/2338627642868061/](https://www.facebook.com/groups/238876956176484/posts/2338627642868061/)  
+   Link: <a href="https://www.facebook.com/groups/238876956176484/posts/2338627642868061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/2338627642868061/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from the estate of the late Apollo astronaut Dr Edgar Mitchell...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: audible.com  
    Title: The Wilson-Davis Memo Audiobook by Dr  
-   Link: [https://www.audible.com/pd/The-Wilson-Davis-Memo-Audiobook/B0D1NTJBFF?srsltid=AfmBOoppNg0FspsYs6C4wVJ0RLh-0k5bjbTJrHXVT6OtnvI1lHlrdiE6](https://www.audible.com/pd/The-Wilson-Davis-Memo-Audiobook/B0D1NTJBFF?srsltid=AfmBOoppNg0FspsYs6C4wVJ0RLh-0k5bjbTJrHXVT6OtnvI1lHlrdiE6)  
+   Link: <a href="https://www.audible.com/pd/The-Wilson-Davis-Memo-Audiobook/B0D1NTJBFF?srsltid=AfmBOoppNg0FspsYs6C4wVJ0RLh-0k5bjbTJrHXVT6OtnvI1lHlrdiE6" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/The-Wilson-Davis-Memo-Audiobook/B0D1NTJBFF?srsltid=AfmBOoppNg0FspsYs6C4wVJ0RLh-0k5bjbTJrHXVT6OtnvI1lHlrdiE6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric DavisAfter the death of astronaut Edgar Mitchell, a document was found in his estate which appears to be an interview between physic...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theblackvault.com  
    Title: the admiral wilson leak an analysis  
-   Link: [https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/](https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Admiral Wilson Leak” – “Core Secrets” DocumentDec 13, 2020 — The following video was created by The Black Vault which offers a full...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/wilson/?hl=en](https://www.instagram.com/wilson/?hl=en)  
+   Link: <a href="https://www.instagram.com/wilson/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/wilson/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>now live. Shop full collection in bio link.Read more...</p></details>

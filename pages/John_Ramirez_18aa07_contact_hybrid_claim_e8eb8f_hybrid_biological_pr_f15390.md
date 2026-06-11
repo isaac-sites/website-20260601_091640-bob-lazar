@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /contact-claims/
 nav_short_title: Hybrid proof
 title: Where is the hybrid evidence?
-title_full: Where is the hybrid evidence? | Contact Claims
+title_full: Where is the hybrid evidence?
 display_title_short: Hybrid proof
 display_title: Hybrid proof
 heading_title: Where is the hybrid evidence?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Far Do His Alien Claims Go? | Ramirez
+parent_title: How Far Do His Alien Claims Go?
 parent_permalink: /contact-claims/
 parent_nav_short_title: Contact Claims
 parent_heading_title: How Far Do His Alien Claims Go?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /cia-access/
   short_title: CIA access
   heading_title: Could Ramirez have known that?
-date: '2026-06-09 03:00:07 '
+date: '2026-06-11 21:05:27 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-1.webp
@@ -256,22 +256,20 @@ image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_bio
 
 ## Introduction
 
-Some of [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s most controversial public statements are not about unidentified objects in the sky but about alleged human-alien hybrids, [alien ancestry]({{ 'alien-ancestry/' | relative_url }}) and hidden genetic programmes. These claims matter because they move far beyond unresolved UAP sightings into questions that should, in principle, leave measurable biological evidence. If human-alien hybrids existed, researchers would expect identifiable DNA patterns, tissue samples, medical records, verified laboratory analysis, or at least a documented chain of evidence that independent experts could examine.
-
+Some of John Ramirez’s most controversial public statements are not about unidentified objects in the sky but about alleged human-alien hybrids, [alien ancestry]({{ 'alien-ancestry/' | relative_url }}) and hidden genetic programmes. These claims matter because they move far beyond unresolved UAP sightings into questions that should, in principle, leave measurable biological evidence. If human-alien hybrids existed, researchers would expect identifiable DNA patterns, tissue samples, medical records, verified laboratory analysis, or at least a documented chain of evidence that independent experts could examine.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-1-dark.svg" | relative_url }}" alt="Hybrid proof illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is where the public case becomes much weaker. Ramirez has discussed hybrids, alien DNA and alleged intelligence-community interest in genetic lineages in interviews and podcasts, but no publicly available biological evidence has been produced to substantiate those claims. At present, the gap between the scale of the claim and the available evidence remains the central credibility problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhan...</span></span></span>
 
 ## What Ramirez has claimed about hybrids
 
-Ramirez has repeatedly appeared in UFO-focused media discussing the possibility that some humans may possess non-human ancestry or hybrid characteristics. In interviews and podcast appearances, he has been presented as a former CIA officer discussing alleged alien DNA, human-alien hybrids, bloodlines and intelligence interest in genetic traits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">MusicEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
+Ramirez has repeatedly appeared in UFO-focused media discussing the possibility that some humans may possess non-human ancestry or hybrid characteristics. In interviews and podcast appearances, he has been presented as a former CIA officer discussing alleged alien DNA, human-alien hybrids, bloodlines and intelligence interest in genetic traits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
 
 The claims vary in detail depending on the interview, but several recurring themes appear:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Human-alien hybrids allegedly exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[music.youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">MusicEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
+* Human-alien hybrids allegedly exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[music.youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
 * Certain family lineages may contain non-human genetic material.
 * Intelligence agencies allegedly monitor or study such lineages.
 * DNA databases and ancestry information have been discussed as potentially relevant to identifying unusual genetic markers.
@@ -281,7 +279,7 @@ The claims vary in detail depending on the interview, but several recurring them
 
 These are extraordinary assertions because they imply not merely extraterrestrial visitation but successful interbreeding between humans and a non-human intelligence. Such a scenario would create biological consequences that modern genetics could potentially detect.
 
-A key distinction is that Ramirez’s public discussions generally take place in interviews, podcasts and UFO media appearances rather than through released government documents, scientific publications or independently verified biological studies. Public audiences therefore receive the claims largely through testimony and narrative rather than through inspectable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">MusicEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
+A key distinction is that Ramirez’s public discussions generally take place in interviews, podcasts and UFO media appearances rather than through released government documents, scientific publications or independently verified biological studies. Public audiences therefore receive the claims largely through testimony and narrative rather than through inspectable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span>
 
 ## What biological proof would actually be needed?
 
@@ -297,7 +295,6 @@ The strongest evidence would be sequenced DNA showing genetic material that coul
 
 Such evidence would need:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Full genomic sequencing.
@@ -310,7 +307,6 @@ Such evidence would need:
 
 Without those steps, a claim of unusual DNA remains an assertion rather than a demonstrated finding.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ### Biological samples with chain of custody
@@ -318,7 +314,6 @@ Without those steps, a claim of unusual DNA remains an assertion rather than a d
 If alleged hybrid individuals or non-human beings existed, tissue, blood or other biological samples would be expected.
 
 Scientists would ask basic questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,12 +327,10 @@ Scientists would ask basic questions:
 
 These are routine requirements in medicine, forensics and genetics. They become even more important when a claim involves a previously unknown intelligent species.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-2-dark.svg" | relative_url }}" alt="Hybrid proof illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Medical documentation
 
 Claims involving unusual physiology, implants or inherited non-human traits would ideally be supported by:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -368,7 +361,6 @@ A reader should also note the difference between discussing genetics and demonst
 
 The public record currently contains no verified genome, no published hybrid DNA profile, no authenticated biological specimen and no independently confirmed medical evidence linked to Ramirez's hybrid assertions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhan...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sXt4KMz2Ti4" title="This CIA Officer FINALLY Breaks Silence On UFO And Alien Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer">This CIA Officer FINALLY Breaks Silence On UFO And Alien Evidence</a></p><p class="youtube-embed-meta">Channel: The Ultimate Discovery &middot; Views: 9.1K &middot; Uploaded: August 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sXt4KMz2Ti4">Open on YouTube</a></p></div></div></div>
 
 ## The problem of human-looking hybrids
@@ -389,10 +381,9 @@ Another important context is that major official UAP reviews have not produced e
 
 NASA's independent UAP study stated that there is no conclusive evidence suggesting an extraterrestrial origin for reported UAP cases. NASA has also stated that it has found no credible evidence of extraterrestrial life and no evidence that reported UAPs have been shown to be extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-Similarly, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no evidence that government investigations had confirmed extraterrestrial technology and no evidence supporting longstanding claims involving recovered extraterrestrial craft or biological remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROUnclassified Final DSD AARO Historical Report6 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Projec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+Similarly, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no evidence that government investigations had confirmed extraterrestrial technology and no evidence supporting longstanding claims involving recovered extraterrestrial craft or biological remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report6 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Projec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
 These findings do not prove that hybrids cannot exist. They do, however, mean that official investigations have not publicly validated the kind of biological framework that Ramirez's hybrid claims would appear to require.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-3-dark.svg" | relative_url }}" alt="Hybrid proof illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_hybrid_biological_pr_f15390-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supporters and sceptics focus on different standards
@@ -409,13 +400,11 @@ For evaluating John Ramirez specifically, the hybrid question is less about whet
 
 The distinction matters.
 
-A person can reasonably believe that intelligent extraterrestrial life may exist without accepting claims of hidden hybrid populations on Earth. Modern astronomy, astrobiology and SETI research continue to explore the possibility of life elsewhere, but that is separate from proving that alien-human hybridisation has occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2002.06162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Trans...</span></span></span>
+A person can reasonably believe that intelligent extraterrestrial life may exist without accepting claims of hidden hybrid populations on Earth. Modern astronomy, astrobiology and SETI research continue to explore the possibility of life elsewhere, but that is separate from proving that alien-human hybridisation has occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2002.06162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Trans...</span></span></span>
 
-The central credibility problem remains unchanged: the stronger the claim becomes, the stronger the evidence must be. Publicly available material linked to Ramirez provides stories, interviews, theories and assertions about hybrids, but not the genetic, medical or biological proof that would normally be expected for a claim of this magnitude. Until such evidence emerges and can be independently examined, the hybrid narrative remains an unverified allegation rather than an established finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">MusicEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhan...</span></span></span>
-
+The central credibility problem remains unchanged: the stronger the claim becomes, the stronger the evidence must be. Publicly available material linked to Ramirez provides stories, interviews, theories and assertions about hybrids, but not the genetic, medical or biological proof that would normally be expected for a claim of this magnitude. Until such evidence emerges and can be independently examined, the hybrid narrative remains an unverified allegation rather than an established finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wQM7DmU3-bE" title="John Ramirez on the CIA tracking Alien DNA, Time Displacement &amp; Crop Circles code - Psicoactivo #564" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer">John Ramirez on the CIA tracking Alien DNA, Time Displacement &amp; Crop Circles code - Psicoactivo #564</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 19.1K &middot; Uploaded: August 2025 &middot; Length: 1 hour 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wQM7DmU3-bE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -534,15 +523,15 @@ The central credibility problem remains unchanged: the stronger the claim become
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="https://i.ebayimg.com/images/g/eZ4AAeSwy6tp9J9B/s-l225.jpg" alt="Listing image for Aliens Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Aliens Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +539,15 @@ The central credibility problem remains unchanged: the stronger the claim become
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="https://i.ebayimg.com/images/g/rS0AAeSwIdZpKKgP/s-l225.jpg" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +555,31 @@ The central credibility problem remains unchanged: the stronger the claim become
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3"><img src="https://i.ebayimg.com/images/g/e34AAeSwpHZo7-IJ/s-l225.jpg" alt="Listing image for RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer">RETRO HORROR MOVIE POSTERS CLASSIC GREATEST CINEMA ROOM PRINTS WALL ART A4 A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2"><img src="https://i.ebayimg.com/images/g/BV4AAOSwMJ1llD7S/s-l225.jpg" alt="Listing image for All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer">All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,7 +587,7 @@ The central credibility problem remains unchanged: the stronger the claim become
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-is-the-hybrid-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-hybrid-evidence-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="where-is-the-hybrid-evidence-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -797,170 +802,170 @@ The central credibility problem remains unchanged: the stronger the claim become
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SGK1fpUx84g](https://www.youtube.com/watch?v=SGK1fpUx84g)  
+   Link: <a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhan...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: music.youtube.com  
-   Link: [https://music.youtube.com/podcast/nS_Insp7i_Y](https://music.youtube.com/podcast/nS_Insp7i_Y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</p></details>
+   Link: <a href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/nS_Insp7i_Y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, ali...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsOne of NASA&#x27;s key priorities is the search for life elsewhere in the universe: NASA has not found any credible eviden...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUnclassified Final DSD AARO Historical Report6 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Projec...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclassified Final DSD AARO Historical Report6 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Projec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2002.06162](https://arxiv.org/abs/2002.06162)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Trans...</p></details>
+   Link: <a href="https://arxiv.org/abs/2002.06162" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2002.06162</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Breakthrough Listen Search for Intelligent Life: A 3.95-8.00 GHz Search for Radio Technosignatures in the Restricted Earth Trans...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.00364](https://arxiv.org/abs/2512.00364)  
+   Link: <a href="https://arxiv.org/abs/2512.00364" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.00364</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv The Fermi Paradox is Neither Fermis Nor a Paradox  
-   Link: [https://arxiv.org/abs/1605.09187](https://arxiv.org/abs/1605.09187)  
+   Link: <a href="https://arxiv.org/abs/1605.09187" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1605.09187</a>  
 
 10. <a id="endnote-10"></a>
    Source: music.youtube.com  
    Title: Ez Pm S2HVDg  
-   Link: [https://music.youtube.com/podcast/_EzPmS2HVDg](https://music.youtube.com/podcast/_EzPmS2HVDg)  
+   Link: <a href="https://music.youtube.com/podcast/_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/_EzPmS2HVDg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comWARNING: CIA Insider Reveals the 2027 Arrival Date9 Mar 2026 — Ex-CIA Officer Reveals: Alien Technology 1,000 Years Ahead...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sXt4KMz2Ti4](https://www.youtube.com/watch?v=sXt4KMz2Ti4)  
+   Link: <a href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXt4KMz2Ti4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ere&#x27;s a jaw-dropping revelation that could rewrite our...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bR0PaotZxD0](https://www.youtube.com/watch?v=bR0PaotZxD0)  
+   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On June 9, 2022, NASA announced that the agency is commissioning a study team to examine unidentified anomalous p...</p></details>
    Published: June 9, 2022  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: CIA is Hunting Alien Hybrids?  
-   Link: [http://www.youtube.com/watch?v=SZwwwFadB9Y](http://www.youtube.com/watch?v=SZwwwFadB9Y)  
+   Link: <a href="http://www.youtube.com/watch?v=SZwwwFadB9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SZwwwFadB9Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez on the CIA tracking Alien DNA, Time Displacement &amp; Crop Circles code - Psicoactivo #564...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=wQM7DmU3-bE](http://www.youtube.com/watch?v=wQM7DmU3-bE)  
+   Link: <a href="http://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wQM7DmU3-bE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: 11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA & More  
-   Link: [http://www.youtube.com/watch?v=V0MxcIULCdk](http://www.youtube.com/watch?v=V0MxcIULCdk)  
+   Link: <a href="http://www.youtube.com/watch?v=V0MxcIULCdk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=V0MxcIULCdk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: 12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA & More  
-   Link: [http://www.youtube.com/watch?v=Ku9GsJ94Dt4](http://www.youtube.com/watch?v=Ku9GsJ94Dt4)  
+   Link: <a href="http://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA alien hybrid DNA biological proof 11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More Podcast UFO Live Shows...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtu.be  
    Title: Area52 Clips  
-   Link: [https://youtu.be/nS_Insp7i_Y?si=bYmasQs0Ivcd5qX7](https://youtu.be/nS_Insp7i_Y?si=bYmasQs0Ivcd5qX7)  
+   Link: <a href="https://youtu.be/nS_Insp7i_Y?si=bYmasQs0Ivcd5qX7" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/nS_Insp7i_Y?si=bYmasQs0Ivcd5qX7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History HISTORY...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtu.be  
    Title: 8ZHWc Mndj KI  
-   Link: [https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi](https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi)  
+   Link: <a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets. 31K...Read more...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureDNA evidence makes this irrefutable. If alien DNA is compatible with ours, then the alien...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JOHNTIMESTWO/?locale=en_GB](https://www.facebook.com/JOHNTIMESTWO/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/JOHNTIMESTWO/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JOHNTIMESTWO/?locale=en_GB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JOHN (@JOHNTIMESTWO)Hello! I&#x27;m John Donavan, lead vocalist and guitarist for the hard rock band The Denim Kings. Beyond performing, I spe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/](https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/)  
+   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...NASA UAP (UFO) report released today offers a few answers but doesnt find or rule ou...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/](https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...NASA panel: No convincing evidence for extraterrestrial life... UAP one...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: [https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/](https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... no evidence of any alien activity, writes Live Science&#x27;s Ben... NASA Rep...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents](https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>not know personally if aliens were real or not. Polling suggests... “Nasa spends time in space, and if an alien is going to come from...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: fox13news.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: [https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity](https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)  
+   Link: <a href="https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiable eviden...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/16k9qa9/no_evidence_that_ufos_are_aliens_nasa_attempts_to/](https://www.reddit.com/r/technology/comments/16k9qa9/no_evidence_that_ufos_are_aliens_nasa_attempts_to/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/16k9qa9/no_evidence_that_ufos_are_aliens_nasa_attempts_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/16k9qa9/no_evidence_that_ufos_are_aliens_nasa_attempts_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence that UFOs are aliens — NASA attempts to make conversations... UAP are alien&quot; and &quot;there&#x27;s no evidence UAP are...Read more...</p></details>

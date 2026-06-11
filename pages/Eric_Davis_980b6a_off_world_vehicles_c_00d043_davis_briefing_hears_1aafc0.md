@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /off-world-claim/
 nav_short_title: Briefing Trail
 title: Who actually heard the off world claim?
-title_full: Who actually heard the off world claim? | Off World Claim
+title_full: Who actually heard the off world claim?
 display_title_short: Briefing Trail
 display_title: Briefing Trail
 heading_title: Who actually heard the off world claim?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What About The Off World Vehicles Claim? | Davis
+parent_title: What About The Off World Vehicles Claim?
 parent_permalink: /off-world-claim/
 parent_nav_short_title: Off World Claim
 parent_heading_title: What About The Off World Vehicles Claim?
@@ -253,7 +253,7 @@ next_link:
   permalink: /reid-wording/
   short_title: Reid Wording
   heading_title: How cautious wording became a stronger story
-date: '2026-06-09 03:05:13 '
+date: '2026-06-11 21:07:30 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefi
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s role in the “off-world vehicles” story is important not simply because of what was allegedly claimed, but because of how the claim travelled. The central public narrative is not that Davis displayed recovered technology, released documents proving non-human origin, or described a first-hand recovery operation. Instead, it is that he reportedly briefed government officials and congressional staff about alleged retrievals of extraordinary objects. That distinction matters because credibility depends heavily on the chain between the original source, the briefing recipient, the journalist, and the public.
-
+Eric Davis’s role in the “off-world vehicles” story is important not simply because of what was allegedly claimed, but because of how the claim travelled. The central public narrative is not that Davis displayed recovered technology, released documents proving non-human origin, or described a first-hand recovery operation. Instead, it is that he reportedly briefed government officials and congressional staff about alleged retrievals of extraordinary objects. That distinction matters because credibility depends heavily on the chain between the original source, the briefing recipient, the journalist, and the public.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1-dark.svg" | relative_url }}" alt="Briefing Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is an unusual evidential structure. The most famous claim associated with Davis became widely known through reports about classified briefings and private conversations rather than through publicly inspectable evidence. For supporters, that suggests information remains hidden inside classified channels. For sceptics, it means the claim sits on multiple layers of hearsay and institutional trust rather than demonstrable proof. The briefing trail itself therefore becomes one of the most important parts of assessing Davis’s credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[FOX 13 Tampa Bay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-snippet">FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...Jul 27, 2020 — Davis, who now works for defense contractor...</span></span></span>
@@ -289,10 +288,6 @@ A major weakness in the public record is that most people know about the alleged
 The reporting described briefings to Senate staff and Defence Department personnel, but the public has never been given a complete official transcript, a declassified slide deck, a released evidential package, or laboratory findings demonstrating that any recovered object was non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[FOX 13 Tampa Bay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-snippet">FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...Jul 27, 2020 — Davis, who now works for defense contractor...</span></span></span>
 
 This creates a layered sourcing problem:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sm9hv84KtcU" title="Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer">Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025</a></p><p class="youtube-embed-meta">Channel: Inside the Hall of Mirrors &middot; Views: 18.1K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sm9hv84KtcU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -321,14 +316,12 @@ That distinction changes the evidential weight considerably.
 
 If Davis personally inspected materials, reviewed technical analyses, or had direct programme access, then his statements would carry a different level of evidential significance. The claim would still require proof, but the chain between source and statement would be shorter.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-2-dark.svg" | relative_url }}" alt="Briefing Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### If the information was second-hand
 
 If Davis was repeating information supplied by programme insiders, contractors, officials, or other witnesses, then the public is dealing with a more traditional hearsay structure.
 
 In that scenario, the chain might look something like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,8 +337,7 @@ Every additional link introduces potential misunderstandings, omissions, exagger
 
 This does not mean the claim is false. Intelligence work, defence investigations, and congressional oversight often rely on second-hand reporting. The issue is that second-hand information requires stronger corroboration than direct evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZNkmhY_ju8o" title="EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZNkmhY_ju8o" target="_blank" rel="noopener noreferrer">EXCLUSIVE: Buzz Aldrin Confirms UFO Sighting in Syfy&#x27;s &#x27;Aliens on the Moon&#x27;</a></p><p class="youtube-embed-meta">Channel: Entertainment Tonight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZNkmhY_ju8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZNkmhY_ju8o">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sm9hv84KtcU" title="Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer">Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025</a></p><p class="youtube-embed-meta">Channel: Inside the Hall of Mirrors &middot; Views: 18.1K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sm9hv84KtcU">Open on YouTube</a></p></div></div></div>
 
 ## Why the chain of claim matters
 
@@ -365,20 +357,19 @@ No publicly available proof emerged alongside the reporting. The claim became fa
 
 **Can the public independently verify the underlying information?**
 
-At present, not in a way that would satisfy normal scientific or evidential standards. The claimed materials, technical analyses, and chain of custody remain outside public inspection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">SpacePentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span>
+At present, not in a way that would satisfy normal scientific or evidential standards. The claimed materials, technical analyses, and chain of custody remain outside public inspection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span>
 
 This explains why discussions about Davis often become debates about trust. Supporters tend to place weight on his access, reputation, and apparent proximity to classified information. Sceptics focus on the absence of publicly testable evidence and the possibility that even well-connected individuals can receive inaccurate information.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-3-dark.svg" | relative_url }}" alt="Briefing Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The later challenge from official investigations
 
 The briefing trail gained additional significance after later government reviews addressed similar allegations.
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO), established to investigate UAP claims and historical allegations, reported that it had found no empirical evidence that government investigations had confirmed extraterrestrial technology, hidden alien spacecraft, or recovered off-world artefacts. The office stated that it had not identified verifiable evidence supporting claims of secret extraterrestrial technology programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">SpacePentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span> That finding did not directly disprove every claim ever discussed by Davis. However, it did create a direct tension between two narratives:
+The Pentagon's All-domain Anomaly Resolution Office (AARO), established to investigate UAP claims and historical allegations, reported that it had found no empirical evidence that government investigations had confirmed extraterrestrial technology, hidden alien spacecraft, or recovered off-world artefacts. The office stated that it had not identified verifiable evidence supporting claims of secret extraterrestrial technology programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span> That finding did not directly disprove every claim ever discussed by Davis. However, it did create a direct tension between two narratives:
 
 * A network of former officials, researchers, and insiders claiming that extraordinary recovery information exists.
-* Official reviews stating that investigators have not found verifiable evidence supporting those allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">SpacePentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> Because Davis's most famous public association is tied to briefings rather than released evidence, this tension becomes especially important. If the evidence remains classified, hidden, or inaccessible, supporters can argue that official reviews have not reached the right compartments. If the evidence does not exist in the form claimed, sceptics argue that the briefing trail represents a chain of rumours that became more persuasive as they moved through respected institutions.
+* Official reviews stating that investigators have not found verifiable evidence supporting those allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> Because Davis's most famous public association is tied to briefings rather than released evidence, this tension becomes especially important. If the evidence remains classified, hidden, or inaccessible, supporters can argue that official reviews have not reached the right compartments. If the evidence does not exist in the form claimed, sceptics argue that the briefing trail represents a chain of rumours that became more persuasive as they moved through respected institutions.
 
 ## The central credibility problem
 
@@ -387,10 +378,6 @@ The strongest fact in this story is not the existence of publicly demonstrated o
 For credibility assessment, the key issue is therefore not merely whether Davis spoke to senators, defence officials, or committee staff. The key issue is what kind of information was moving through those channels and whether any of it can be independently verified.
 
 As long as the public record consists largely of reported briefings, reported conversations, and reported access rather than released evidence, the off-world vehicles claim remains vulnerable to the same criticism that has followed many major UAP allegations: the chain of testimony is visible, but the underlying proof is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[3FOX 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-snippet">FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...Jul 27, 2020 — Davis, who now works for defense contractor...</span></span></span> Tampa Bay <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Davis, who now works for Aerospace Corporation, a defense contractor, said he gave a classified briefing to a Defense Department agency as...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q85mNRmpNr4" title="Pentagon confirms Off-World Vehicles Not Made on This Earth+ unplug journey - See Your Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q85mNRmpNr4" target="_blank" rel="noopener noreferrer">Pentagon confirms Off-World Vehicles Not Made on This Earth+ unplug journey - See Your Star</a></p><p class="youtube-embed-meta">Channel: **SeeYourStar**</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q85mNRmpNr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q85mNRmpNr4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -509,15 +496,15 @@ As long as the public record consists largely of reported briefings, reported co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +512,15 @@ As long as the public record consists largely of reported briefings, reported co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +528,31 @@ As long as the public record consists largely of reported briefings, reported co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +560,7 @@ As long as the public record consists largely of reported briefings, reported co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-actually-heard-the-off-world-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-actually-heard-the-off-world-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,104 +776,104 @@ As long as the public record consists largely of reported briefings, reported co
 1. <a id="endnote-1"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, who now works for Aerospace Corporation, a defense contractor, said he gave a classified briefing to a Defense Department agency as...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</p></details>
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pentagon UFO unit to publicly release some findings after ex-official says &#x27;off-world vehicle&#x27; found&quot;.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsNo evidence supporting Grusch&#x27;s UFO claims has been presented, and they have been dismissed by mu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...Jul 27, 2020 — Davis, who now works for defense contractor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: gvwire.com  
    Title: GV Wire'Not Made of This Earth': Pentagon's U.F.O  
-   Link: [https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/](https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/)  
+   Link: <a href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow">https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit Directed...23 Jul 2020 — Mr. Davis, who now works for Aerospace Corporation, a defense contractor, said he gave a classified briefi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Consultant Briefed Senators on &#x27;Off-World...Jul 24, 2020 — A Senate committee report last month said the program was to “standa...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force](https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force)  
+   Link: <a href="https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Pentagon&#x27;s UAP Task ForceThe Senate Intelligence Committee currently “supports the efforts [of the... off-world vehicles not m...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/](https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/)  
+   Link: <a href="https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alleged UFO program leaked document controversyEric Davis stated that he &quot;Briefed a DoD Agency about recovered off-world technology&quot; - bu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsPentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report.... A...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/](https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released what it says are &quot;never-beforePentagon UFO report: Government transparency and desire for better data... any other...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/](https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whenever you read &quot;Government Found No Evidence of...AARO found no verifiable evidence that any reported UAP sighting has represented ex...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: united states officials in both congress and the pentagon were briefed on materi  
-   Link: [https://www.facebook.com/AllSidesNow/posts/united-states-officials-in-both-congress-and-the-pentagon-were-briefed-on-materi/3026591480723070/](https://www.facebook.com/AllSidesNow/posts/united-states-officials-in-both-congress-and-the-pentagon-were-briefed-on-materi/3026591480723070/)  
+   Link: <a href="https://www.facebook.com/AllSidesNow/posts/united-states-officials-in-both-congress-and-the-pentagon-were-briefed-on-materi/3026591480723070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AllSidesNow/posts/united-states-officials-in-both-congress-and-the-pentagon-were-briefed-on-materi/3026591480723070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States officials in both Congress and the Pentagon...Jul 25, 2020 — United States officials in both Congress and the Pentagon wer...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hubpages.com  
    Title: US Government Acknowledges UFO Research Office Studying Off World Vehicles  
-   Link: [https://hubpages.com/religion-philosophy/US-Government-Acknowledges-UFO-Research-Office-Studying-Off-World-Vehicles](https://hubpages.com/religion-philosophy/US-Government-Acknowledges-UFO-Research-Office-Studying-Off-World-Vehicles)  
+   Link: <a href="https://hubpages.com/religion-philosophy/US-Government-Acknowledges-UFO-Research-Office-Studying-Off-World-Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://hubpages.com/religion-philosophy/US-Government-Acknowledges-UFO-Research-Office-Studying-Off-World-Vehicles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Acknowledges UFO Research Office &amp;...Dec 4, 2020 — During the briefing, he said the government possesses materials from “off...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blogs.lse.ac.uk  
    Title: thinking critically to evaluate the new news about ufos and aliens  
-   Link: [https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/](https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/)  
+   Link: <a href="https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>critically to evaluate the new “news” about UFOs...2 Aug 2023 — “The military is running a UAP (UFO) retrieval (and reverse engineering)...</p></details>

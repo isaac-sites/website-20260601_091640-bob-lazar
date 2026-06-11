@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-role-39b0f5/
 nav_short_title: Media Shift
 title: From garage rockets to ranch mysteries
-title_full: From garage rockets to ranch mysteries | Media Role
+title_full: From garage rockets to ranch mysteries
 display_title_short: Media Shift
 display_title: Media Shift
 heading_title: From garage rockets to ranch mysteries
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Scientist, Insider or TV Personality? | Taylor
+parent_title: Scientist, Insider or TV Personality?
 parent_permalink: /media-role-39b0f5/
 parent_nav_short_title: Media Role
 parent_heading_title: Scientist, Insider or TV Personality?
@@ -253,7 +253,7 @@ next_link:
   permalink: /tv-editing/
   short_title: TV Editing
   heading_title: Does the edit make Taylor look more certain?
-date: '2026-06-09 03:10:22 '
+date: '2026-06-11 21:08:29 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1.webp
@@ -264,7 +264,6 @@ image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertai
 
 Before [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) became publicly associated with the Pentagon’s UAP investigations or emerged as a leading figure on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*, he had already spent more than a decade building a television identity that blended technical expertise, performance, and popular science. That transition matters because it shaped how audiences later interpreted his authority on UFO and paranormal subjects.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1-dark.svg" | relative_url }}" alt="Media Shift illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Taylor’s [credentials]({{ 'credentials/' | relative_url }}) as an engineer and defence-linked scientist are real and independently documented. The question is not whether he has scientific training. The more relevant credibility issue is how a scientist known for entertaining demonstrations, reality television formats and speculative programming gradually moved into a media environment where viewers were asked to treat extraordinary claims as potentially genuine mysteries. Understanding that shift helps explain why [supporters]({{ 'supporters-58c2df/' | relative_url }}) see him as a rare expert willing to investigate anomalies, while critics argue that television storytelling can blur the line between scientific investigation and entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span>
 
@@ -274,14 +273,11 @@ Taylor’s [credentials]({{ 'credentials/' | relative_url }}) as an engineer and
 
 Taylor's early television career was not built around UFOs. His first notable appearances came on documentary-style programmes such as *The Universe* and *Life After People*, where he was presented as a technical commentator rather than a paranormal investigator. According to the Encyclopedia of Alabama, he initially pursued television partly to promote his science-fiction writing and partly to bring science to a wider audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span>
 
-The clearest example of that approach was *Rocket City Rednecks*, which debuted on the National Geographic Channel in 2011. The programme centred on a group of engineers, machinists and inventors from the Huntsville, Alabama area tackling scientific problems through improvised experiments. The show's identity depended on a deliberate contrast: highly educated aerospace and defence specialists presenting themselves through a humorous "redneck" image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">SpaceMeet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
+The clearest example of that approach was *Rocket City Rednecks*, which debuted on the National Geographic Channel in 2011. The programme centred on a group of engineers, machinists and inventors from the Huntsville, Alabama area tackling scientific problems through improvised experiments. The show's identity depended on a deliberate contrast: highly educated aerospace and defence specialists presenting themselves through a humorous "redneck" image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">Meet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
 
-Taylor's role was particularly important because he served as both scientist and performer. Interviews promoting the series emphasised his multiple science degrees alongside the show's comic tone, backyard experiments and "hillbilly ingenuity" branding. The format encouraged viewers to associate technical expertise with accessibility rather than institutional authority. Science became something demonstrated through explosions, rockets and practical challenges rather than formal papers or laboratory work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">SpaceMeet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
+Taylor's role was particularly important because he served as both scientist and performer. Interviews promoting the series emphasised his multiple science degrees alongside the show's comic tone, backyard experiments and "hillbilly ingenuity" branding. The format encouraged viewers to associate technical expertise with accessibility rather than institutional authority. Science became something demonstrated through explosions, rockets and practical challenges rather than formal papers or laboratory work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">Meet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
 
 For credibility purposes, this period is often viewed positively. The programme's goal was transparent. It was entertainment designed around science communication. Viewers were generally not being asked to accept controversial [claims]({{ 'claims/' | relative_url }}) about hidden phenomena. Instead, they watched engineers explain physical principles through visually engaging experiments.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S6eya5r9GF4" title="NASA Aerospace Engineer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S6eya5r9GF4" target="_blank" rel="noopener noreferrer">NASA Aerospace Engineer</a></p><p class="youtube-embed-meta">Channel: Culver City High School College &amp; Career Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S6eya5r9GF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S6eya5r9GF4">Open on YouTube</a></p></div></div></div>
 
 ### Building a recognisable scientific character
 
@@ -293,14 +289,11 @@ That consistency helped create a public persona that audiences could recognise i
 
 This distinction matters because television familiarity can generate trust independently of evidence. Repeated exposure tends to make audiences feel they know a presenter personally, even when their expertise is being applied outside the context in which viewers first encountered them.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Why paranormal television changes the credibility stakes
 
 The shift from science entertainment to paranormal investigation altered the expectations attached to Taylor's expertise.
 
-In *Rocket City Rednecks*, success depended on explaining known scientific principles in entertaining ways. If a homemade rocket flew or an engineering experiment worked, the result was visible and testable. The audience understood that the programme's purpose was demonstration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">SpaceMeet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
+In *Rocket City Rednecks*, success depended on explaining known scientific principles in entertaining ways. If a homemade rocket flew or an engineering experiment worked, the result was visible and testable. The audience understood that the programme's purpose was demonstration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">Meet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
 
 Paranormal television operates differently. Programmes centred on UFOs, unexplained phenomena or alleged anomalies often investigate claims that cannot be easily verified by viewers. Evidence may consist of sensor readings, witness testimony, unusual experiences or events that occur off-camera. The audience must therefore place greater trust in the investigators themselves.
 
@@ -309,7 +302,6 @@ This creates a different credibility environment. A scientist who explains rocke
 That shift became increasingly visible as Taylor appeared on programmes that explored fringe or disputed subjects. By the time he joined *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, many viewers already associated him with a television ecosystem that mixed scientific terminology with mysteries, ancient astronaut theories and unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
 Critics argue that this environment can make weak evidence appear stronger than it is. The presence of technical equipment, scientific jargon and credentialed experts may create an impression of rigorous investigation even when underlying claims remain unresolved. Supporters counter that scientists should be willing to examine unusual reports rather than dismiss them automatically. The disagreement is less about Taylor's qualifications than about the standards of evidence used within television formats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-2-dark.svg" | relative_url }}" alt="Media Shift illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bridge between entertainment and UAP authority
@@ -324,14 +316,11 @@ Sceptics see the same timeline differently. They argue that television success r
 
 The tension between those interpretations remains central to assessments of his credibility. His government work gives additional weight to his public statements, but his public identity was formed inside entertainment television rather than through peer-reviewed UFO research or formal scientific publication on UAP topics.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WUYhCmfE1a0" title="Robert Bigelow Tells Bob Lazar Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WUYhCmfE1a0" target="_blank" rel="noopener noreferrer">Robert Bigelow Tells Bob Lazar Stories</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WUYhCmfE1a0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WUYhCmfE1a0">Open on YouTube</a></p></div></div></div>
-
 ## What carried over from entertainer to UAP authority
 
 Several traits from Taylor's earlier television work became defining features of his later UAP and Skinwalker Ranch appearances.
 
-**Technical translation.** Taylor has a proven ability to explain complex concepts in plain language. This skill was central to *Rocket City Rednecks* and later became one of the reasons viewers found him persuasive when discussing anomalous events. Even critics often acknowledge his effectiveness as a communicator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">SpaceMeet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
+**Technical translation.** Taylor has a proven ability to explain complex concepts in plain language. This skill was central to *Rocket City Rednecks* and later became one of the reasons viewers found him persuasive when discussing anomalous events. Even critics often acknowledge his effectiveness as a communicator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Meet the Ringleader of the &#x27;Rocket City Rednecks</span><span class="citation-popover-snippet">Meet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</span><span class="citation-popover-meta">Published: September 28, 2011</span></span></span>
 
 **Comfort with speculation.** Entertainment science programmes frequently ask presenters to discuss hypothetical scenarios. Taylor's willingness to explore possibilities on camera translated naturally into programmes dealing with unexplained phenomena. The downside is that audiences may struggle to distinguish between a thought experiment and an evidential conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
@@ -339,13 +328,12 @@ Several traits from Taylor's earlier television work became defining features of
 
 **Personal authority.** Years of appearing as a trusted science communicator meant that many viewers already regarded Taylor as credible before encountering his UAP-related claims. This does not prove those claims are correct, but it helps explain why his involvement carried more weight than that of a typical reality television host. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-3-dark.svg" | relative_url }}" alt="Media Shift illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the pre-Skinwalker shift affects credibility assessments
 
 The period before *The Secret of Skinwalker Ranch* is important because it shows that Taylor's public authority emerged from a hybrid career rather than a single institutional role.
 
-His scientific education, engineering work and defence-related experience are verifiable. His television career is also well documented. The credibility question arises because those two tracks became increasingly intertwined before his [UAP Task Force role]({{ 'task-force/' | relative_url }}) was publicly known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For supporters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>, the combination is a strength. They argue that Taylor brought genuine technical expertise into subjects that are often dominated by sensationalism or unsupported speculation. His willingness to investigate unusual claims is presented as intellectual openness rather than credulity.
+His scientific education, engineering work and defence-related experience are verifiable. His television career is also well documented. The credibility question arises because those two tracks became increasingly intertwined before his UAP [Task Force role]({{ 'task-force-role/' | relative_url }}) was publicly known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For supporters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>, the combination is a strength. They argue that Taylor brought genuine technical expertise into subjects that are often dominated by sensationalism or unsupported speculation. His willingness to investigate unusual claims is presented as intellectual openness rather than credulity.
 
 For sceptics, the combination is more complicated. They argue that entertainment television rewards dramatic framing, unresolved mysteries and audience engagement, creating incentives that do not always align with rigorous scientific investigation. From that perspective, Taylor's transition from popular science presenter to paranormal investigator increased the risk that viewers would mistake television authority for evidential authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vulture.com">[vulture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vulture.com</span><span class="citation-popover-snippet">Originally skeptical, current owner Brandon Fugal, a successful real estate mogul, became a believer after witnessing a flying saucer in...</span></span></span> The key point is not that Taylor abandoned science for entertainment or vice versa. Rather, his public image before *Skinwalker Ranch* fused the two. That fusion became the foundation on which later perceptions of his UFO and UAP credibility were built.
 
@@ -466,15 +454,15 @@ For sceptics, the combination is more complicated. They argue that entertainment
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +470,15 @@ For sceptics, the combination is more complicated. They argue that entertainment
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +486,31 @@ For sceptics, the combination is more complicated. They argue that entertainment
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,7 +518,7 @@ For sceptics, the combination is more complicated. They argue that entertainment
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=from-garage-rockets-to-ranch-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="from-garage-rockets-to-ranch-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -730,113 +734,113 @@ For sceptics, the combination is more complicated. They argue that entertainment
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: Meet the Ringleader of the 'Rocket City Rednecks'  
-   Link: [https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html](https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceMeet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</p></details>
+   Link: <a href="https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13114-rocket-city-rednecks-travis-taylor-interview.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the Ringleader of the &#x27;Rocket City Rednecks&#x27;September 28, 2011 — 28 Sept 2011 — SPACE.com sat down with Travis Taylor, star of...</p></details>
    Published: September 28, 2011  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 4. <a id="endnote-4"></a>
    Source: jasoncolavito.com  
    Title: travis taylor admits to being a paid government ufo researcher  
-   Link: [https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher](https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher)  
+   Link: <a href="https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOTravis Taylor Admits to Being a Paid Government UFO...21 Jun 2022 — He has appeared since then on both Ancient Aliens and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vulture.com  
-   Link: [https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html](https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html)  
+   Link: <a href="https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originally skeptical, current owner Brandon Fugal, a successful real estate mogul, became a believer after witnessing a flying saucer in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: encyclopediaofalabama.org  
    Title: Encyclopedia of Alabama Travis S. Taylor  
-   Link: [https://encyclopediaofalabama.org/article/taylor-travis-s/](https://encyclopediaofalabama.org/article/taylor-travis-s/)  
+   Link: <a href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/taylor-travis-s/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of AlabamaTravis S. TaylorOctober 1, 2025 — 1 Oct 2025 — He first appeared on the History Channel shows The Universe (2009-1...</p></details>
    Published: October 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Symposium 2026Dr. Travis TaylorDr. Taylor&#x27;s passion for experimentation and invention has been featured in hit television series in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: encyclopediaofalabama.org  
    Title: travis taylor  
-   Link: [https://encyclopediaofalabama.org/media/travis-taylor/](https://encyclopediaofalabama.org/media/travis-taylor/)  
+   Link: <a href="https://encyclopediaofalabama.org/media/travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/media/travis-taylor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor (1968-), a native of Morgan County, is a scientist, engineer, author, and television personality. He is shown here with...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
    Title: Travis Taylor  
-   Link: [https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor](https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor)  
+   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor first appeared in episodes of The Universe and Life After People for the History Channel in 2010, after his name came up in a search...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch CastTravis Taylor is an engineer and best-selling author who holds PhDs in Optical Science and Engineering...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/](https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceTaylor, if memory serves me right, stated that his involvement with the experiments on the ran...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch](https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch)  
+   Link: <a href="https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: The Government Scientist Hiding in Plain...Most notably, Travis Taylor was later revealed to be a chief scientist for the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: in july 2019 before drilling could begin the team conducted one last radiation s  
-   Link: [https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/](https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, before drilling could begin, the team...Skinwalker Ranch is now widely considered to be ground zero for UAP activity and h...</p></details>
    Published: july 2019  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uBabYbbhSgc](https://www.youtube.com/watch?v=uBabYbbhSgc)  
+   Link: <a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBabYbbhSgc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF SKINWALKER RANCH ReturnsWatch our interview with Dr. Travis Taylor, aerospace engineer, optical scientist, author, and lead...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesTravis Taylor had access to classified information, and he knows how the UAP Task Force made de...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/](https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: equip.org  
    Title: strange happenings in utah the phenomenon of skinwalker ranch  
-   Link: [https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/](https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/)  
+   Link: <a href="https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Skinwalker Ranch10 Oct 2024 — Skinwalker Ranch, a plot of 512 acres on the southern edge of Navajo Nation, has had repo...</p></details>

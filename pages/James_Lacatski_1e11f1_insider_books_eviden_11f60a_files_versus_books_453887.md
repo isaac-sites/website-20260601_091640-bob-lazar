@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /insider-books/
 nav_short_title: Files vs Books
 title: What the files prove and leave out
-title_full: What the files prove and leave out | Insider Books
+title_full: What the files prove and leave out
 display_title_short: Files vs Books
 display_title: Files vs Books
 heading_title: What the files prove and leave out
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Much Should The Books Count? | Lacatski
+parent_title: How Much Should The Books Count?
 parent_permalink: /insider-books/
 parent_nav_short_title: Insider Books
 parent_heading_title: How Much Should The Books Count?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /clearance-risk/
   short_title: Clearance Risk
   heading_title: Does clearance make Lacatski's claims stronger?
-date: '2026-06-09 02:56:34 '
+date: '2026-06-11 21:03:39 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_ve
 
 ## Introduction
 
-For assessing [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s credibility, the most useful comparison is not between believers and sceptics but between two different kinds of evidence: the publicly released AAWSAP record and the later insider books written by Lacatski, Colm Kelleher and George Knapp. The released documents confirm that the Advanced Aerospace Weapon System Applications Program (AAWSAP) was real, that it was funded by the Defence Intelligence Agency, that it involved Bigelow Aerospace Advanced Space Studies (BAASS), and that it explored subjects extending well beyond conventional aerospace threats. However, the released material does not independently verify the books’ most dramatic claims, including assertions about recovered craft, unusual [biological effects]({{ 'bio-effects/' | relative_url }}), or extraordinary events linked to Skinwalker Ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> Wikisource The result is a mixed picture. The files support important parts of the insider narrative <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>, but they stop well short of proving its strongest conclusions. That distinction matters because Lacatski’s reputation as an insider is strengthened by the documentary record, while the evidential basis for some of his most extraordinary claims remains largely inaccessible to outside researchers.
-
+For assessing James Lacatski’s credibility, the most useful comparison is not between believers and sceptics but between two different kinds of evidence: the publicly released AAWSAP record and the later [insider books]({{ 'insider-books/' | relative_url }}) written by Lacatski, Colm Kelleher and George Knapp. The released documents confirm that the Advanced Aerospace Weapon System Applications Program (AAWSAP) was real, that it was funded by the Defence Intelligence Agency, that it involved Bigelow Aerospace Advanced Space Studies (BAASS), and that it explored subjects extending well beyond conventional aerospace threats. However, the released material does not independently verify the books’ most dramatic claims, including assertions about recovered craft, unusual biological effects, or extraordinary events linked to Skinwalker Ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> Wikisource The result is a mixed picture. The files support important parts of the insider narrative <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>, but they stop well short of proving its strongest conclusions. That distinction matters because Lacatski’s reputation as an insider is strengthened by the documentary record, while the evidential basis for some of his most extraordinary claims remains largely inaccessible to outside researchers.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-1-dark.svg" | relative_url }}" alt="Files vs Books illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What released AAWSAP materials support
@@ -268,10 +267,9 @@ Publicly released records show that AAWSAP existed as a DIA-funded programme beg
 
 A major milestone came in 2022 when the DIA released 37 of the 38 requested DIRD reports through a Freedom of Information Act process. Those releases confirmed that the programme funded studies on subjects such as advanced propulsion, warp-drive concepts, exotic energy theories, high-energy weapons and other speculative aerospace topics. The existence of these reports had long been discussed by programme insiders before becoming publicly available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span>
 
-The released historical record also supports another key point made by Lacatski and his co-authors: AAWSAP was broader than the later public understanding of AATIP. Government reviews and released records indicate that AAWSAP investigated reports connected not only to unidentified aerial objects but also to alleged paranormal activity at Skinwalker Ranch, including claims involving unusual entities, consciousness-related topics and other anomalous experiences. These aspects were once controversial because critics argued they were merely stories from programme participants. The historical record now shows that such subjects were in fact discussed within the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The released historical record also supports another key point made by Lacatski and his co-authors: AAWSAP was broader than the later public understanding of AATIP. Government reviews and released records indicate that AAWSAP investigated reports connected not only to unidentified aerial objects but also to alleged paranormal activity at Skinwalker Ranch, including claims involving unusual entities, consciousness-related topics and other anomalous experiences. These aspects were once controversial because critics argued they were merely stories from programme participants. The historical record now shows that such subjects were in fact discussed within the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 In other words, the files validate significant portions of the programme description offered in the books. They demonstrate that the programme existed, that it studied unconventional subjects, and that Skinwalker Ranch occupied a more important place in AAWSAP than many early media reports suggested. Wikisource <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... Bigelow, the owner of Skinwalker Ranch at the time. Bigelow allowed Lacatski to visit the ranch and...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LndTfQGXUU" title="Skinwalker Ranch - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer">Skinwalker Ranch - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 4.3M &middot; Uploaded: October 2022 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LndTfQGXUU">Open on YouTube</a></p></div></div></div>
 
@@ -279,7 +277,7 @@ In other words, the files validate significant portions of the programme descrip
 
 The books move far beyond what appears in the released documents.
 
-The most famous example is the claim, attributed to Lacatski, that the United States possessed a "craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})" and had gained access to its interior. This assertion appears in the insider narrative and has been repeated in book descriptions, interviews and later testimony associated with the authors. Yet no released AAWSAP file contains the supporting evidence that would allow independent verification of that statement. There are no publicly available engineering reports, photographs, chain-of-custody records, laboratory analyses or official government findings attached to the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times | Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span> | Reimagining Old News <span class="citation-chip-wrap"><a class="citation-chip" href="https://skojecfile.steveskojec.com/p/former-government-ufo-investigator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skojecfile.steveskojec.com">[2skojecfile.steveskojec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skojecfile.steveskojec.com</span><span class="citation-popover-title">This craft</span><span class="citation-popover-snippet">Former Government UFO Investigator Confirms that the US...Oct 17, 2023 — He stated that the United States was in possession of a craft o...</span></span></span>
+The most famous example is the claim, attributed to Lacatski, that the United States possessed a "craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})" and had gained access to its interior. This assertion appears in the insider narrative and has been repeated in book descriptions, interviews and later testimony associated with the authors. Yet no released AAWSAP file contains the supporting evidence that would allow independent verification of that statement. There are no publicly available engineering reports, photographs, chain-of-custody records, laboratory analyses or official government findings attached to the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times &#124; Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span> | Reimagining Old News <span class="citation-chip-wrap"><a class="citation-chip" href="https://skojecfile.steveskojec.com/p/former-government-ufo-investigator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skojecfile.steveskojec.com">[2skojecfile.steveskojec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skojecfile.steveskojec.com</span><span class="citation-popover-title">This craft</span><span class="citation-popover-snippet">Former Government UFO Investigator Confirms that the US...Oct 17, 2023 — He stated that the United States was in possession of a craft o...</span></span></span>
 
 The same pattern appears with many of the books' strongest allegations. The authors describe unusual medical effects, alleged "hitchhiker" phenomena, encounters involving non-human entities, and incidents at Skinwalker Ranch that they argue had intelligence significance. Publicly released AAWSAP records do not provide the underlying witness interviews, raw sensor data, medical files or investigative records necessary for outsiders to assess those claims independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... Bigelow, the owner of Skinwalker Ranch at the time. Bigelow allowed Lacatski to visit the ranch and...</span></span></span>
 
@@ -289,7 +287,6 @@ Claim typeSupported by released files?AAWSAP existed and was DIA-fundedYesBAASS 
 
 For credibility assessment, this means the books function partly as insider testimony rather than independently verified documentary evidence.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-2-dark.svg" | relative_url }}" alt="Files vs Books illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the released DIRDs are not decisive proof
 
@@ -297,10 +294,9 @@ One common misunderstanding is that the release of the DIRDs somehow validated t
 
 In reality, the DIRDs are largely research papers and theoretical reviews. They discuss possibilities in advanced physics, propulsion, materials science and future technologies. They show what subjects interested programme managers and contractors, but they do not demonstrate that any of the proposed technologies were successfully built, observed or recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Government Agency: Defense Intelligence Agency Read more</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</span><span class="citation-popover-meta">Published: March 25, 2022</span></span></span>
 
-This distinction is important when evaluating Lacatski's credibility. A reader may reasonably conclude that AAWSAP was far more ambitious and unconventional than sceptics once claimed. However, that conclusion does not automatically validate every interpretation presented in the [insider books]({{ 'insider-books/' | relative_url }}).
+This distinction is important when evaluating Lacatski's credibility. A reader may reasonably conclude that AAWSAP was far more ambitious and unconventional than sceptics once claimed. However, that conclusion does not automatically validate every interpretation presented in the insider books.
 
 The released documents prove institutional interest. They do not prove the existence of non-human technology.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0y386b8NGP0" title="AARO 2023 UAP report, Lue&#x27;s &#x27;UAP sensor&#x27;, Lacatski &amp; Kelleher &amp; more...! || The Breakdown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0y386b8NGP0" target="_blank" rel="noopener noreferrer">AARO 2023 UAP report, Lue&#x27;s &#x27;UAP sensor&#x27;, Lacatski &amp; Kelleher &amp; more...! || The Breakdown</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 8.8K &middot; Uploaded: October 2023 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0y386b8NGP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0y386b8NGP0">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +307,6 @@ The comparison became sharper after the publication of the All-domain Anomaly Re
 AARO acknowledged the existence of AAWSAP and documented its unusual areas of investigation, including Skinwalker Ranch-related work. Yet AARO reported that it found no empirical evidence supporting claims of extraterrestrial technology, hidden alien artefacts or secret reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
 
 Supporters of Lacatski argue that AARO may not have had access to all relevant information, particularly if some material remains compartmented or classified. Critics respond that extraordinary claims require evidence and that the public record still lacks the documentation needed to verify the books' strongest assertions. The released files themselves do not resolve that dispute because they neither conclusively support nor conclusively refute the insider claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qu8pudJk_-A" title="He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer">He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 327.8K &middot; Uploaded: November 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qu8pudJk_-A">Open on YouTube</a></p></div></div></div>
 
@@ -328,99 +323,56 @@ The most significant missing materials include:
 * Witness interview transcripts and investigative reports.
 * Internal DIA evaluations of extraordinary claims.
 * The programme databases repeatedly described by participants but not publicly released.
-* Records connected to the alleged craft-of-unknown-origin claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times | Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span>
+* Records connected to the alleged craft-of-unknown-origin claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times &#124; Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span>
 
 These records would allow researchers to move beyond competing narratives and evaluate the underlying evidence directly.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-3-dark.svg" | relative_url }}" alt="Files vs Books illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the comparison means for Lacatski's credibility
 
-The released AAWSAP files strengthen James Lacatski's credibility in one important respect: they show that he was describing a real government programme whose scope was broader and stranger than many observers originally believed. The existence of AAWSAP, its relationship with BAASS, the production of the DIRDs, and the programme's interest in anomalous and paranormal reports are no longer matters of speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>, the released material does not independently substantiate the claims that generate the greatest public attention. On the central questions that would most dramatically affect Lacatski's credibility—recovered craft, non-human technology, and the extraordinary events described in the books—the public remains dependent largely on insider testimony rather than publicly available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times | Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span> | Reimagining Old News
+The released AAWSAP files strengthen James Lacatski's credibility in one important respect: they show that he was describing a real government programme whose scope was broader and stranger than many observers originally believed. The existence of AAWSAP, its relationship with BAASS, the production of the DIRDs, and the programme's interest in anomalous and paranormal reports are no longer matters of speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>, the released material does not independently substantiate the claims that generate the greatest public attention. On the central questions that would most dramatically affect Lacatski's credibility—recovered craft, non-human technology, and the extraordinary events described in the books—the public remains dependent largely on insider testimony rather than publicly available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-title">Liberation Times &#124; Reimagining Old News Former Head of U.S</span><span class="citation-popover-snippet">Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</span></span></span> | Reimagining Old News
 
 The files therefore support the existence and unusual scope of the programme, but they leave the books' most consequential claims in the category of unverified insider assertions rather than demonstrated facts.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What the files prove and leave out. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What the files prove and leave out, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides another evidence-based approach to government UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Offers another insider account that can be weighed against documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Useful for comparing documentary records with narrative accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Central text for evaluating claims beyond the public record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -457,15 +409,15 @@ The files therefore support the existence and unusual scope of the programme, bu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +425,15 @@ The files therefore support the existence and unusual scope of the programme, bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +441,15 @@ The files therefore support the existence and unusual scope of the programme, bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +457,15 @@ The files therefore support the existence and unusual scope of the programme, bu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +473,7 @@ The files therefore support the existence and unusual scope of the programme, bu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="files-vs-books-what-the-files-prove-and-leave-out-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-files-prove-and-leave-out-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-files-prove-and-leave-out-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,136 +689,136 @@ The files therefore support the existence and unusual scope of the programme, bu
 1. <a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
    Published: May 2024  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 4. <a id="endnote-4"></a>
    Source: liberationtimes.com  
    Title: Liberation Times | Reimagining Old News Former Head of U.S  
-   Link: [https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)  
+   Link: <a href="https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government UFO Program Confirms...Oct 17, 2023 — He stated that the United States was in possession of a craft of unknown origin and had...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skojecfile.steveskojec.com  
    Title: This craft  
-   Link: [https://skojecfile.steveskojec.com/p/former-government-ufo-investigator](https://skojecfile.steveskojec.com/p/former-government-ufo-investigator)  
+   Link: <a href="https://skojecfile.steveskojec.com/p/former-government-ufo-investigator" target="_blank" rel="noopener noreferrer nofollow">https://skojecfile.steveskojec.com/p/former-government-ufo-investigator</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Government UFO Investigator Confirms that the US...Oct 17, 2023 — He stated that the United States was in possession of a craft o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — Satellite flaring is an optical phenomenon which occurs when sunlight reflects off a satellite&#x27;s surface...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: The Black Vault  
-   Link: [https://en.wikipedia.org/wiki/The_Black_Vault](https://en.wikipedia.org/wiki/The_Black_Vault)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO&#x27;s examination of the historical context of UAP inv...</p></details>
    Published: May 2024  
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Advanced Aerospace Weapon System Applications...September 3, 2023 — 3 Sept 2023 — On March 25, 2022, the DIA finally...</p></details>
    Published: September 3, 2023  
 
 11. <a id="endnote-11"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s UAP Task Force5 Aug 2021 — Applications Program (AAWSAP), to generate 38 scientific reports for. AATIP, projecting exotic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: locationsunknown.org  
    Title: Government Agency: Defense Intelligence Agency Read more  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</p></details>
    Published: March 25, 2022  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... Bigelow, the owner of Skinwalker Ranch at the time. Bigelow allowed Lacatski to visit the ranch and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Full Story | Documentary&quot;How Skinwalker Ranch Became a Hotbed of Paranormal Activity.&quot; HISTORY.com, 2020. [https://www.history.co](https://www.history.co)... [...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/500312439016444/posts/801913815522970/](https://www.facebook.com/groups/500312439016444/posts/801913815522970/)  
+   Link: <a href="https://www.facebook.com/groups/500312439016444/posts/801913815522970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/801913815522970/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/](https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lacatski&quot; or directly focused on him, so I did some Googling. Exclude &quot;skinwalker&quot; or &quot;skinwalkers&quot; (he authored...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: here is every known document released about aawsapaatip from the dia i also put  
-   Link: [https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/](https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/)  
+   Link: <a href="https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is every known document released about AAWSAP...5 Apr 2022 — Here is every known document released about AAWSAP/AATIP from the DIA...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s) in the National Archives Catalog are available here in bulk downloads.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: denofgeek.com  
    Title: government funded paranormal study revealed in skinwalker documentary  
-   Link: [https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/](https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/)  
+   Link: <a href="https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Funded Paranormal Study Revealed In...14 Sept 2018 — The term Skinwalker originates from a Native-American legend of a malevo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1995, he created an investigative organization called NIDS, National...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era](https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era)  
+   Link: <a href="https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/declassified-pentagon-ufo-projects-explained-from-black-budgets-to-the-uap-disclosure-era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Pentagon UFO Projects Explained: From Black...Focused research at Skinwalker Ranch, which BAASS acquired under contractor R...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained](https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained)  
+   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It marks the moment when UFOs, paranormal studies, and national...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeThe Committee on Oversight and AccountabilitySep 9, 2025 — “the U.S. is in possession of a craft of unknown origin and...</p></details>

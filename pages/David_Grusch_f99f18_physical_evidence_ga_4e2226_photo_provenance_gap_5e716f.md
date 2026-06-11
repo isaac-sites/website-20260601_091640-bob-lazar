@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /proof-gap-7e7572/
 nav_short_title: Photo Proof
 title: Would a UFO photo actually prove Grusch right?
-title_full: Would a UFO photo actually prove Grusch right? | Proof Gap
+title_full: Would a UFO photo actually prove Grusch right?
 display_title_short: Photo Proof
 display_title: Photo Proof
 heading_title: Would a UFO photo actually prove Grusch right?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Is the Public Evidence? | Grusch
+parent_title: Where Is the Public Evidence?
 parent_permalink: /proof-gap-7e7572/
 parent_nav_short_title: Proof Gap
 parent_heading_title: Where Is the Public Evidence?
@@ -253,7 +253,7 @@ next_link:
   permalink: /proof-package/
   short_title: Proof Package
   heading_title: What public proof would change the debate?
-date: '2026-06-09 02:53:25 '
+date: '2026-06-11 21:01:48 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_prov
 
 ## Introduction
 
-A dramatic photograph of a recovered UFO would seem, at first glance, like the missing piece in [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s story. If an image showed a strange craft in a military hangar, many people would treat it as decisive proof. The problem is that photographs rarely prove what people think they prove. In Grusch’s case, the central issue is not whether photographs allegedly exist, but whether any image can be linked to a documented recovery, a known custodian, and an authenticated chain of custody.
-
+A dramatic photograph of a recovered UFO would seem, at first glance, like the missing piece in David Grusch’s story. If an image showed a strange craft in a military hangar, many people would treat it as decisive proof. The problem is that photographs rarely prove what people think they prove. In Grusch’s case, the central issue is not whether photographs allegedly exist, but whether any image can be linked to a documented recovery, a known custodian, and an authenticated chain of custody.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-1-dark.svg" | relative_url }}" alt="Photo Proof illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Grusch has repeatedly said that people with direct knowledge of alleged UAP recovery programmes shared information with him, including photography, documents and classified testimony. Yet no photograph tied to those claims has been released publicly with verifiable provenance. That distinction matters because a picture can show an object, but it cannot automatically establish where the object came from, who handled it, whether the image is genuine, or whether the accompanying story is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, bot...</span></span></span> [Oversight]({{ 'oversight/' | relative_url }}) Committee
@@ -275,7 +274,6 @@ Not by itself.
 Grusch’s public claims concern a hidden programme that allegedly recovered and studied craft of non-human origin. To validate that allegation, an image would need to do more than depict something unusual. It would need to connect the object in the image to the larger claim that a government or contractor possessed recovered technology and concealed it from public oversight.
 
 This is a common misunderstanding in UFO debates. A photograph can potentially support a claim, but it rarely proves the entire narrative behind the claim. Even a clear image of an unfamiliar object leaves several unresolved questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ This is a common misunderstanding in UFO debates. A photograph can potentially s
 For Grusch specifically, the evidential burden is unusually high because the allegation is not merely that unidentified objects exist. The allegation is that recovered craft have been held, studied and hidden for decades within classified programmes. A photograph would therefore need to establish institutional possession, not simply visual strangeness.
 
 That is why critics often argue that even a striking image would be only the beginning of verification rather than the end of it. Supporters, meanwhile, tend to view the alleged existence of classified photographs as evidence that stronger material may exist behind government secrecy. The disagreement is less about whether photographs matter and more about what photographs can realistically demonstrate.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZSj7QsHRxHQ" title="Military whistleblower claims US has UFO retrieval program | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZSj7QsHRxHQ" target="_blank" rel="noopener noreferrer">Military whistleblower claims US has UFO retrieval program | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 3.3M &middot; Uploaded: June 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZSj7QsHRxHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZSj7QsHRxHQ">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +311,6 @@ A few practical problems illustrate why:
 **A photograph captures appearance, not origin.** Even if an object looked extraordinary, the image itself would not demonstrate where it came from or who built it.
 
 These problems are particularly relevant because Grusch’s allegations concern hidden programmes operating across decades. The longer and more secretive the alleged chain becomes, the more important provenance becomes.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-2-dark.svg" | relative_url }}" alt="Photo Proof illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What authentication would need to show
@@ -340,7 +336,6 @@ The object in the photograph would need to be tied to inventory records, transpo
 
 This is essentially the provenance problem. The photograph itself is only one item within a larger chain. The chain is what allows outsiders to evaluate whether the image actually supports the extraordinary claim attached to it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GkcRPEtl0lU" title="Reality Check: David Grusch’s UFO revelations, JFK Files &amp; border wall drone probe l Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GkcRPEtl0lU" target="_blank" rel="noopener noreferrer">Reality Check: David Grusch’s UFO revelations, JFK Files &amp; border wall drone probe l Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 271.9K &middot; Uploaded: August 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GkcRPEtl0lU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GkcRPEtl0lU">Open on YouTube</a></p></div></div></div>
 
 ## How classified photos differ from public proof
@@ -357,13 +352,12 @@ A classified photograph may be persuasive to officials with access to surroundin
 
 This creates a persistent credibility gap. If the strongest evidence remains classified, supporters can argue that the public lacks access to the real case. Sceptics can respond that claims which cannot be independently examined remain unproven. Both positions stem from the same underlying fact: the public cannot inspect the alleged evidence directly.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-3-dark.svg" | relative_url }}" alt="Photo Proof illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_photo_provenance_gap_5e716f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The journalism problem: claims about photos versus seeing photos
 
 The provenance issue has also affected media coverage of Grusch.
 
-One reason major news organisations hesitated before publishing some of the initial claims was the lack of publicly available documents, images or [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}). Reporting surrounding Grusch repeatedly highlighted that journalists and audiences were being asked to evaluate testimony about evidence rather than evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span>
+One reason major news organisations hesitated before publishing some of the initial claims was the lack of publicly available documents, images or physical evidence. Reporting surrounding Grusch repeatedly highlighted that journalists and audiences were being asked to evaluate testimony about evidence rather than evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span>
 
 This distinction became important because Grusch's testimony is largely second-hand. He has said he was informed by people who claimed direct involvement or direct knowledge of recovery programmes. He has also stated publicly that he personally received accounts accompanied by photography and documentation. Yet those materials have not entered the public domain in a verifiable form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, bot...</span></span></span>
 
@@ -377,9 +371,7 @@ A single authenticated photograph connected to named custodians, recovery record
 
 That is why the photograph question remains unresolved in assessments of Grusch's credibility. His public statements indicate that photography allegedly exists within the body of evidence described by his sources. Yet no photograph has emerged with the level of origin, custody and institutional authentication needed to independently support the larger claim of a concealed non-human recovery programme. Until that gap is closed, photographs remain part of the allegation rather than publicly verifiable proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, bot...</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VoT-Fi33kJA" title="UFO Expert EXPLAINS The 40 First-Hand Knowledge Of Non-Human Craft AND Potential Bodies: Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VoT-Fi33kJA" target="_blank" rel="noopener noreferrer">UFO Expert EXPLAINS The 40 First-Hand Knowledge Of Non-Human Craft AND Potential Bodies: Interview</a></p><p class="youtube-embed-meta">Channel: The Hill &middot; Views: 201.6K &middot; Uploaded: July 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VoT-Fi33kJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VoT-Fi33kJA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -393,16 +385,16 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Includes discussion of reported evidence and investigative standards.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,16 +402,16 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2000 UFO, Alien and Extraterrestrial Government Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3035749-M.jpg" alt="Cover for 2000 UFO, Alien and Extraterrestrial Government Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2000 UFO, Alien and Extraterrestrial Government Files">2000 UFO, Alien and Extraterrestrial Government Files</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By United States</p>
         
-        <p class="fr-book-desc">Addresses the gap between alleged evidence and publicly verifiable proof.</p>
+        <p class="fr-book-desc">First published 2000.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -427,16 +419,16 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On This Day In UFO History... on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2705818-M.jpg" alt="Cover for On This Day In UFO History..." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On This Day In UFO History...">On This Day In UFO History...</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Dave Blevins</p>
         
-        <p class="fr-book-desc">Highly relevant to questions about photographic proof and authentication.</p>
+        <p class="fr-book-desc">First published 1999.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -444,16 +436,16 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open THE NEW JERSEY ENIGMA on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tnA7EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for THE NEW JERSEY ENIGMA" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="THE NEW JERSEY ENIGMA">THE NEW JERSEY ENIGMA</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By Ignotus</p>
         
-        <p class="fr-book-desc">Helps readers assess interpretation and evidential confidence.</p>
+        <p class="fr-book-desc">The New Jersey Enigma: Decoding the UFO Drone Phenomenon takes readers on a gripping journey into one of the most puzzling events of our...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -461,7 +453,7 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2000 UFO, Alien and Extraterrestrial Government Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On This Day In UFO History...</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -498,15 +490,15 @@ That is why the photograph question remains unresolved in assessments of Grusch'
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,15 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +522,15 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +538,15 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +554,7 @@ That is why the photograph question remains unresolved in assessments of Grusch'
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="photo-proof-would-a-ufo-photo-actually-prove-grusch-right-david-grusch-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=would-a-ufo-photo-actually-prove-grusch-right-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="would-a-ufo-photo-actually-prove-grusch-right-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -778,86 +770,86 @@ That is why the photograph question remains unresolved in assessments of Grusch'
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, bot...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/07/ufo-[hearing](https://www.vanityfair.com/news/2023/07/ufo-[hearing)  
+   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-[hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyAugust 3, 2023 — The article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying v...</p></details>
    Published: August 3, 2023  
 
 4. <a id="endnote-4"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — Associates who vouched for Grusch said his information was highly sensitive, providing eviden...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media](https://www.vanityfair.com/news/2023/06/ufo-report-media)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/](https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hiding Alien Tech &amp; Bodies” In June 2023, former U.S. intelligence officer David Grusch made headlines with his interview...Read more...</p></details>
    Published: June 2023  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VoT-Fi33kJA](https://www.youtube.com/watch?v=VoT-Fi33kJA)  
+   Link: <a href="https://www.youtube.com/watch?v=VoT-Fi33kJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VoT-Fi33kJA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert EXPLAINS The 40 First-Hand Knowledge Of...Investigative journalist who cover UFO-related matters Leslie Kean weighs in on the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RBAISwCZ2v0](https://www.youtube.com/watch?v=RBAISwCZ2v0)  
+   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27;David Grush is a career intelligence official who this week is making some bombshell cl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pbs.org  
    Title: watch live house oversight committee probes ufos and wider implications  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower tells Congress the U.S. is...Jul 26, 2023 — David Grusch&#x27;s highly anticipated testimony before a House Oversight...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: adweek.com  
    Title: upstart newsnation cited repeatedly during congress ufo hearing  
-   Link: [https://www.adweek.com/tvnewser/upstart-newsnation-cited-repeatedly-during-congress-ufo-hearing/](https://www.adweek.com/tvnewser/upstart-newsnation-cited-repeatedly-during-congress-ufo-hearing/)  
+   Link: <a href="https://www.adweek.com/tvnewser/upstart-newsnation-cited-repeatedly-during-congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.adweek.com/tvnewser/upstart-newsnation-cited-repeatedly-during-congress-ufo-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Upstart NewsNation Cited Repeatedly During Congress&#x27;...Jul 27, 2023 — Former military intelligence officer-turned whistleblower David Gr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: newsweek.com  
    Title: ufo uap craft found covered whistleblower claims 1804733  
-   Link: [https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733](https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733)  
+   Link: <a href="https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Has UFOs of &#x27;Non-Human Origin&#x27;, Ex-Intelligence...6 Jun 2023 — The government has allegedly covered up &quot;non-human exotic origin veh...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional HearingMar 5, 2024 — Whistleblower David Grusch has suffered [retaliation](&amp;#123;&amp;#123; &#x27;retaliation/&#x27; | relative_url &amp;#125;&amp;#125;) after making ex...</p></details>

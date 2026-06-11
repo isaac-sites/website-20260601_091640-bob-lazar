@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: UAP Reviews
 title: Where Modern UAP Reviews Leave Lazar
-title_full: Where Modern UAP Reviews Leave Lazar | Lazar
+title_full: Where Modern UAP Reviews Leave Lazar
 display_title_short: UAP Reviews
 display_title: UAP Reviews
 heading_title: Where Modern UAP Reviews Leave Lazar
@@ -283,7 +283,7 @@ prev_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: How Lazar Became The Area 51 Whistleblower
-date: '2026-06-09 02:51:48 '
+date: '2026-06-11 21:00:43 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-overview.webp
@@ -292,8 +292,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-overview-soci
 
 ## Introduction
 
-Modern US government UAP reviews do not validate [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s central claim. They show that UAP reporting is now treated as a real governance, aviation-safety and intelligence issue, but they have not confirmed that the United States has recovered extraterrestrial craft, hidden alien materials, or run a successful reverse-engineering programme. That distinction matters for Lazar because his credibility does not mainly depend on whether pilots sometimes see unresolved objects. It depends on whether his specific 1989 story — work at “S-4” near Area 51 on non-human craft powered by a stable form of [element 115]({{ 'element-115/' | relative_url }}) — is supported by official findings, physical evidence or reliable documentation. The current public record leaves him in a weaker position than many supporters suggest: modern reviews make the subject more legitimate, but not Lazar’s particular claim. AARO says it found no empirical evidence for a US government or private-sector extraterrestrial reverse-engineering programme, while NASA says the scientific literature contains no conclusive evidence for an extraterrestrial origin of UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)
-
+Modern US government UAP reviews do not validate Bob Lazar’s central claim. They show that UAP reporting is now treated as a real governance, aviation-safety and intelligence issue, but they have not confirmed that the United States has recovered extraterrestrial craft, hidden alien materials, or run a successful reverse-engineering programme. That distinction matters for Lazar because his credibility does not mainly depend on whether pilots sometimes see unresolved objects. It depends on whether his specific 1989 story — work at “S-4” near Area 51 on non-human craft powered by a stable form of [element 115]({{ 'element-115/' | relative_url }}) — is supported by official findings, physical evidence or reliable documentation. The current public record leaves him in a weaker position than many supporters suggest: modern reviews make the subject more legitimate, but not Lazar’s particular claim. AARO says it found no empirical evidence for a US government or private-sector extraterrestrial reverse-engineering programme, while NASA says the scientific literature contains no conclusive evidence for an extraterrestrial origin of UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-overview.webp" | relative_url }}" alt="Overview image for UAP Reviews" loading="eager" decoding="sync" fetchpriority="high">
 ## What current official reviews actually say
@@ -305,7 +304,6 @@ That finding does not say every UAP report has been solved. It says the specific
 NASA’s 2023 independent study reached a compatible but slightly different conclusion. NASA did not try to adjudicate every government secrecy claim; it focused on how UAP could be studied scientifically. It argued that extraterrestrial life should be treated as a “hypothesis of last resort” and said that, to date, peer-reviewed literature contained no conclusive evidence suggesting an extraterrestrial origin for UAP. NASA’s emphasis was not debunking so much as method: better sensors, better data, less stigma and more transparent analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The ODNI and Department of Defense annual reporting process also matters because it shows the current official frame. The 2024 consolidated annual report was submitted to Congress under statutory requirements and published in unclassified form by ODNI and DOD. That process treats UAP as a matter for reporting, analysis and oversight, not as a confirmed disclosure of alien technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-1-dark.svg" | relative_url }}" alt="UAP Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters more for Lazar than for UAP witnesses generally
@@ -324,7 +322,6 @@ AARO’s own public material stresses a data-driven approach and lists common ex
 
 This distinction is central to any fair assessment of Lazar today:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **A real reporting problem does not validate a specific insider story.** The US can have genuine UAP reporting gaps without having a hidden alien craft programme.
@@ -334,7 +331,6 @@ This distinction is central to any fair assessment of Lazar today:
 </div>
 
 In other words, the modern UAP era has made the subject harder to dismiss wholesale, but also harder to use as a blanket defence of Lazar.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SNgoul4vyDM" title="House holds hearing on UFOs, government transparency | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer">House holds hearing on UFOs, government transparency | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 3.9M &middot; Uploaded: July 2023 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SNgoul4vyDM">Open on YouTube</a></p></div></div></div>
 
@@ -356,7 +352,6 @@ This creates a modern echo of Lazar’s problem. The core issue is not whether t
 
 The proposed and enacted UAP disclosure measures also show the same tension. Congress has considered language about recovered technologies of unknown origin and biological evidence of non-human intelligence, but such language is conditional and investigative; it is designed to capture records and materials should they exist, not to certify that Lazar’s claims are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amendments-rules.house.gov">[House Rules Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amendments-rules.house.gov</span><span class="citation-popover-title">Rules Committee Subtitle D—Unidentified Anomalous Phenomena Disclosure</span><span class="citation-popover-snippet">Rules Committee Subtitle D—Unidentified Anomalous Phenomena Disclosure</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-2-dark.svg" | relative_url }}" alt="UAP Reviews illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Element 115 remains a poor rescue for Lazar’s claim
 
@@ -368,7 +363,6 @@ The problem for Lazar is not whether element 115 can exist in any form. It is wh
 
 So the modern status of element 115 does not validate Lazar’s technical claim. It confirms that scientists later made atoms of element 115, but not that Lazar had access to a stable, macroscopic alien fuel. The difference is not pedantic; it is the difference between a predictable place on the periodic table and the central physical mechanism of his story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K8v0bY_4gbs" title="James Fox: &quot;The Director of AARO Told Me the Harsh Truth about Aliens&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K8v0bY_4gbs" target="_blank" rel="noopener noreferrer">James Fox: &quot;The Director of AARO Told Me the Harsh Truth about Aliens&quot;</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips &middot; Views: 222.3K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K8v0bY_4gbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K8v0bY_4gbs">Open on YouTube</a></p></div></div></div>
 
 ## What remains outside public evidence
@@ -376,7 +370,6 @@ So the modern status of element 115 does not validate Lazar’s technical claim.
 A fair assessment should not pretend that official reviews answer everything. Some government UAP information remains classified. Some cases remain unresolved because data are poor, incomplete or sensitive. AARO itself has said some claims were still being evaluated, and annual reports continue to describe unresolved cases. None of that should be ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)
 
 But unresolved does not mean evenly balanced. Lazar’s claim would require several layers of evidence that have not appeared publicly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +383,6 @@ But unresolved does not mean evenly balanced. Lazar’s claim would require seve
 
 The strongest pro-Lazar position today is therefore not “the government has confirmed him”. It is narrower: the government has admitted UAP deserve study, secrecy around military testing is real, and some official channels may still withhold information. Those points keep some uncertainty alive. They do not turn Lazar’s story into an established fact.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-3-dark.svg" | relative_url }}" alt="UAP Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where modern UAP reviews leave Lazar
 
@@ -400,91 +392,47 @@ Yet the same change also raises the evidential bar. If the US government now has
 
 The current public balance is therefore sceptical but not dismissive of every surrounding issue. Lazar was right that secretive aerospace work existed in Nevada, and he helped shape the public imagination around Area 51. But modern UAP reviews do not show that S-4 housed extraterrestrial craft, that the US held a stable element 115 fuel source, or that Lazar personally worked on a non-human reverse-engineering programme. The most evidence-led conclusion today is that official UAP activity has strengthened the case for studying anomalous reports, while weakening the argument that Lazar’s specific story has been independently vindicated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DF9PprPybbI" title="Pentagon Clears Air On Reverse-Engineering Alien Spacecraft | US Developing UFO Detection System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DF9PprPybbI" target="_blank" rel="noopener noreferrer">Pentagon Clears Air On Reverse-Engineering Alien Spacecraft | US Developing UFO Detection System</a></p><p class="youtube-embed-meta">Channel: CRUX &middot; Views: 15.0K &middot; Uploaded: March 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DF9PprPybbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DF9PprPybbI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where Modern UAP Reviews Leave Lazar. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where Modern UAP Reviews Leave Lazar, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Directly relates to the official-review environment that now shapes Lazar debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines modern whistleblower and disclosure claims that intersect with Lazar comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Frames the difference between documented UAP reporting and extraordinary reverse-engineering claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Primary source for the claims being evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -521,15 +469,15 @@ The current public balance is therefore sceptical but not dismissive of every su
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +485,15 @@ The current public balance is therefore sceptical but not dismissive of every su
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +501,15 @@ The current public balance is therefore sceptical but not dismissive of every su
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +517,15 @@ The current public balance is therefore sceptical but not dismissive of every su
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,7 +533,7 @@ The current public balance is therefore sceptical but not dismissive of every su
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="uap-reviews-where-modern-uap-reviews-leave-lazar-bob-lazar-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-modern-uap-reviews-leave-lazar-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-modern-uap-reviews-leave-lazar-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -801,207 +749,207 @@ The current public balance is therefore sceptical but not dismissive of every su
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE FINAL 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 7. <a id="endnote-7"></a>
    Source: amendments-rules.house.gov  
    Title: Rules Committee Subtitle D—Unidentified Anomalous Phenomena Disclosure  
-   Link: [https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf](https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf)  
+   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: iupac.org  
    Title: is naming the four new elements nihonium  
-   Link: [https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/](https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/)  
+   Link: <a href="https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 14. <a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
 
 16. <a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
 
 17. <a id="endnote-17"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
 
 18. <a id="endnote-18"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf](https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 24. <a id="endnote-24"></a>
    Source: iupac.org  
    Title: announces the names of the elements 113 115 117 and 118  
-   Link: [https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/)  
+   Link: <a href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/</a>  
 
 25. <a id="endnote-25"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 26. <a id="endnote-26"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The Guardian US conducted 'multi-decade' secret UFO program, ex  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
 
 28. <a id="endnote-28"></a>
    Source: periodic-table.rsc.org  
    Title: Periodic Table Moscovium  
-   Link: [https://periodic-table.rsc.org/element/115/moscovium](https://periodic-table.rsc.org/element/115/moscovium)  
+   Link: <a href="https://periodic-table.rsc.org/element/115/moscovium" target="_blank" rel="noopener noreferrer nofollow">https://periodic-table.rsc.org/element/115/moscovium</a>  
 
 29. <a id="endnote-29"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SNgoul4vyDM](https://www.youtube.com/watch?v=SNgoul4vyDM)  
+   Link: <a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SNgoul4vyDM</a>  
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2005/may/12/farout](https://www.theguardian.com/science/2005/may/12/farout)  
+   Link: <a href="https://www.theguardian.com/science/2005/may/12/farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2005/may/12/farout</a>  
 
 32. <a id="endnote-32"></a>
    Source: iupac.cnr.it  
-   Link: [https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118](https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118)  
+   Link: <a href="https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118" target="_blank" rel="noopener noreferrer nofollow">https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moscovium](https://en.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DF9PprPybbI](https://www.youtube.com/watch?v=DF9PprPybbI)  
+   Link: <a href="https://www.youtube.com/watch?v=DF9PprPybbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DF9PprPybbI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon: &#x27;No evidence&#x27; of UFO sightings, technology | ABS CBN News...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: James Fox: "The Director of AARO Told Me the Harsh Truth about Aliens"  
-   Link: [https://www.youtube.com/watch?v=K8v0bY_4gbs](https://www.youtube.com/watch?v=K8v0bY_4gbs)  
+   Link: <a href="https://www.youtube.com/watch?v=K8v0bY_4gbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K8v0bY_4gbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Clears Air On Reverse-Engineering Alien Spacecraft | US Developing UFO Detection System...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO sightings likely secret military tests, no evidence of alien technology  
-   Link: [https://www.youtube.com/watch?v=qE2n32zf8Ug](https://www.youtube.com/watch?v=qE2n32zf8Ug)  
+   Link: <a href="https://www.youtube.com/watch?v=qE2n32zf8Ug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qE2n32zf8Ug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51, Roswell and Trump: the truth behind aliens and the secrets the US is hiding...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Pentagon: 'No evidence' of UFO sightings, technology | ABS CBN News  
-   Link: [https://www.youtube.com/watch?v=3Lf0F5HVyhM](https://www.youtube.com/watch?v=3Lf0F5HVyhM)  
+   Link: <a href="https://www.youtube.com/watch?v=3Lf0F5HVyhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Lf0F5HVyhM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings likely secret military tests, no evidence of alien technology...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report](https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report)  
+   Link: <a href="https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university](https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university)  
+   Link: <a href="https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/](https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/)  
+   Link: <a href="https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/](https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/](https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/</a>

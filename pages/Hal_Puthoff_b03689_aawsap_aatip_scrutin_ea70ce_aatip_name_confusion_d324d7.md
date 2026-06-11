@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-aatip/
 nav_short_title: The Confusion Between AAWSAP And AATIP
 title: Did the AATIP label inflate Puthoff's role?
-title_full: Did the AATIP label inflate Puthoff's role? | AAWSAP AATIP
+title_full: Did the AATIP label inflate Puthoff's role?
 display_title_short: The Confusion Between AAWSAP And AATIP
 display_title: The Confusion Between AAWSAP And AATIP
 heading_title: Did the AATIP label inflate Puthoff's role?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did AAWSAP Actually Prove? | Puthoff
+parent_title: What Did AAWSAP Actually Prove?
 parent_permalink: /aawsap-aatip/
 parent_nav_short_title: AAWSAP AATIP
 parent_heading_title: What Did AAWSAP Actually Prove?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /mission-drift/
   short_title: Mission drift
   heading_title: Did paranormal research weaken the AAWSAP story?
-date: '2026-06-09 03:01:51 '
+date: '2026-06-11 21:06:30 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_
 
 The confusion between AAWSAP and AATIP became one of the most important credibility issues surrounding [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) and the wider modern UFO disclosure movement. The basic facts are less dramatic than many public retellings. A real Defence Intelligence Agency (DIA) programme existed, known as the Advanced Aerospace Weapon System Applications Program (AAWSAP), and it received roughly $22 million in government funding. However, the later and far more famous label “Advanced Aerospace Threat Identification Program” (AATIP) developed a public life of its own, often being presented as a secret Pentagon UFO office with broader authority than the documentary record clearly supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" alt="The Confusion Between AAWSAP And AATIP illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Puthoff, the distinction matters because his documented involvement sits within the AAWSAP contractor and research network. As the AATIP label gained public recognition after 2017, readers often inferred a level of official status, access and institutional authority that went beyond what public records directly establish. The naming confusion does not show that Puthoff fabricated his involvement. It does, however, affect how much weight should reasonably be attached to his government connections when assessing his UFO and UAP claims. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+For Puthoff, the distinction matters because his documented involvement sits within the AAWSAP contractor and research network. As the AATIP label gained public recognition after 2017, readers often inferred a level of official status, access and institutional authority that went beyond what public records directly establish. The naming confusion does not show that Puthoff fabricated his involvement. It does, however, affect how much weight should reasonably be attached to his government connections when assessing his UFO and UAP claims. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 ## What AAWSAP and AATIP meant in official records
 
@@ -274,19 +273,15 @@ The distinction may appear bureaucratic, but it changes how authority is interpr
 
 Puthoff's documented connection is not primarily as a programme director or government official. Instead, his role appears through research and contractor relationships linked to the AAWSAP effort.
 
-One of the publicly released Defense Intelligence Reference Documents (DIRDs) is titled *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering* and is attributed to H. E. Puthoff. The document appears in the collection of studies commissioned under the programme's research framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+One of the publicly released Defense Intelligence Reference Documents (DIRDs) is titled *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering* and is attributed to H. E. Puthoff. The document appears in the collection of studies commissioned under the programme's research framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
-This provides evidence that Puthoff participated in work associated with the programme. It does not, by itself, establish that he held operational authority over AAWSAP, directed government investigations, controlled intelligence collection, or possessed direct access to alleged recovered technology. Those stronger claims require separate evidence. The released documentation supports involvement, but only a specific type of involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yX6ETCKyPo" title="Luis Elizondo on unidentified aerial phenomena, extraterrestrials and the Pentagon&#x27;s UFO programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yX6ETCKyPo" target="_blank" rel="noopener noreferrer">Luis Elizondo on unidentified aerial phenomena, extraterrestrials and the Pentagon&#x27;s UFO programme</a></p><p class="youtube-embed-meta">Channel: GQ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yX6ETCKyPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yX6ETCKyPo">Open on YouTube</a></p></div></div></div>
+This provides evidence that Puthoff participated in work associated with the programme. It does not, by itself, establish that he held operational authority over AAWSAP, directed government investigations, controlled intelligence collection, or possessed direct access to alleged recovered technology. Those stronger claims require separate evidence. The released documentation supports involvement, but only a specific type of involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 ## How informal labels changed the public story
 
 The biggest shift occurred after the 2017 media coverage that brought AATIP into public view. Reports in major newspapers and political publications described a Pentagon effort investigating UFOs, and the acronym AATIP rapidly became the public brand attached to the entire story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 Once that happened, a chain of assumptions often followed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,10 +292,9 @@ Once that happened, a chain of assumptions often followed:
 
 </div>
 
-Puthoff benefited indirectly from this process. He was already known in fringe science, remote-viewing and advanced propulsion circles. Once the public associated AATIP with a secret Pentagon UFO programme, references to Puthoff's involvement could sound more impressive than the underlying documentation necessarily justified. A reader might hear that he was linked to “AATIP” and infer a role close to government decision-making, when the public evidence more clearly places him within the contractor and research ecosystem surrounding AAWSAP. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+Puthoff benefited indirectly from this process. He was already known in fringe science, remote-viewing and advanced propulsion circles. Once the public associated AATIP with a secret Pentagon UFO programme, references to Puthoff's involvement could sound more impressive than the underlying documentation necessarily justified. A reader might hear that he was linked to “AATIP” and infer a role close to government decision-making, when the public evidence more clearly places him within the contractor and research ecosystem surrounding AAWSAP. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 This is not merely a semantic issue. Public credibility often depends on perceived proximity to state authority. A scientist attached to a government-funded study can be viewed very differently from a scientist working in a contractor network that produced speculative reports for a limited programme.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" alt="The Confusion Between AAWSAP And AATIP illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Elizondo factor amplified the confusion
@@ -317,11 +311,31 @@ In practical terms, yes, it often did.
 
 The strongest public evidence supports three relatively modest conclusions:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wGJSRpgyPao" title="Inside the FBI Podcast: UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wGJSRpgyPao" target="_blank" rel="noopener noreferrer">Inside the FBI Podcast: UFOs</a></p><p class="youtube-embed-meta">Channel: FBI – Federal Bureau of Investigation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wGJSRpgyPao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wGJSRpgyPao">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" alt="The Confusion Between AAWSAP And AATIP illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Puthoff participated in research connected to a genuine DIA-funded programme.
 2. His EarthTech network contributed work that fell within the AAWSAP research environment.
+3. He maintained relationships with several figures who later became prominent in public UAP disclosure efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span> ResearchGate The evidence does not automatically support several stronger inferences that are frequently made: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Advanced Space Propulsion Based on Vacuum...The concept that empty space itself (the quantum vacuum, or spacetime metric) might be...</span></span></span>
+
+* That Puthoff managed the government's UFO programme.
+* That he held a senior official Pentagon role within AATIP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</span></span></span>
+* That his programme involvement verifies claims about recovered non-human technology.
+* That his government connections independently prove the truth of his later statements about exotic craft or alleged crash-retrieval activities.
+
+Those stronger conclusions require evidence beyond the existence of AAWSAP or the use of the AATIP label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</span></span></span>
+
+A useful way to frame the issue is that the label created an authority multiplier. Once AATIP became famous, many audiences stopped distinguishing between different kinds of involvement. Researchers, contractors, intelligence officials, consultants and advocates were often grouped together under the same umbrella, even when their actual responsibilities differed substantially.
+
+## What the naming issue does and does not prove about Puthoff
+
+The naming controversy has become a battleground between supporters and sceptics, but it does not settle the larger credibility question either way.
+
+Supporters argue that critics focus too heavily on bureaucratic distinctions. From that perspective, the important fact is that the government funded unusual aerospace research, that Puthoff participated in it, and that several people involved later continued discussing UAPs publicly. The precise programme label is therefore viewed as secondary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</span></span></span>
+
+Sceptics reach a different conclusion. They argue that the AATIP brand allowed a limited and speculative research effort to be presented as something larger and more authoritative than the records support. In this view, public audiences sometimes mistook association with AAWSAP-era research for evidence of access to confirmed extraordinary discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</span></span></span>
+
+The strongest evidence supports a middle position. The AAWSAP programme was real, and Puthoff's involvement with its research ecosystem is documented. The later confusion surrounding AATIP genuinely altered public perceptions of authority and insider status. However, the naming dispute alone does not demonstrate deception by Puthoff, nor does it validate the more extraordinary claims associated with him.
+
+What it does show is how institutional ambiguity can affect credibility assessments. The more readers assume that AATIP was a powerful, long-running Pentagon UFO office, the more authority they may attach to Puthoff's statements. The more closely they follow the narrower documentary record, the more they are likely to treat his programme connections as evidence of access to a real government-funded research effort rather than proof of the extraordinary conclusions that some later audiences drew from it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -440,15 +454,15 @@ The strongest public evidence supports three relatively modest conclusions:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -456,15 +470,15 @@ The strongest public evidence supports three relatively modest conclusions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -472,15 +486,15 @@ The strongest public evidence supports three relatively modest conclusions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible"><img src="{{ '/assets/images/marketplace-covers/c6fdd3f1f579d1b81b6c.jpg' | relative_url }}" alt="Listing image for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer">Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +502,15 @@ The strongest public evidence supports three relatively modest conclusions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,7 +518,7 @@ The strongest public evidence supports three relatively modest conclusions:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="the-confusion-between-aawsap-and-aatip-did-the-aatip-label-inflate-puthoff-s-role-hal-puthoff-alien-collectible-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-aatip-label-inflate-puthoff-s-role-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-aatip-label-inflate-puthoff-s-role-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -715,181 +729,153 @@ The strongest public evidence supports three relatively modest conclusions:
 </script>
 </section>
 
-3. He maintained relationships with several figures who later became prominent in public UAP disclosure efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span> ResearchGate The evidence does not automatically support several stronger inferences that are frequently made: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Advanced Space Propulsion Based on Vacuum...The concept that empty space itself (the quantum vacuum, or spacetime metric) might be...</span></span></span>
-
-* That Puthoff managed the government's UFO programme.
-* That he held a senior official Pentagon role within AATIP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</span></span></span>
-* That his programme involvement verifies claims about recovered non-human technology.
-* That his government connections independently prove the truth of his later statements about exotic craft or alleged crash-retrieval activities.
-
-Those stronger conclusions require evidence beyond the existence of AAWSAP or the use of the AATIP label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</span></span></span>
-
-A useful way to frame the issue is that the label created an authority multiplier. Once AATIP became famous, many audiences stopped distinguishing between different kinds of involvement. Researchers, contractors, intelligence officials, consultants and advocates were often grouped together under the same umbrella, even when their actual responsibilities differed substantially.
-
-
-<img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" alt="The Confusion Between AAWSAP And AATIP illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_aatip_name_confusion_d324d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What the naming issue does and does not prove about Puthoff
-
-The naming controversy has become a battleground between supporters and sceptics, but it does not settle the larger credibility question either way.
-
-Supporters argue that critics focus too heavily on bureaucratic distinctions. From that perspective, the important fact is that the government funded unusual aerospace research, that Puthoff participated in it, and that several people involved later continued discussing UAPs publicly. The precise programme label is therefore viewed as secondary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</span></span></span>
-
-Sceptics reach a different conclusion. They argue that the AATIP brand allowed a limited and speculative research effort to be presented as something larger and more authoritative than the records support. In this view, public audiences sometimes mistook association with AAWSAP-era research for evidence of access to confirmed extraordinary discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</span></span></span>
-
-The strongest evidence supports a middle position. The AAWSAP programme was real, and Puthoff's involvement with its research ecosystem is documented. The later confusion surrounding AATIP genuinely altered public perceptions of authority and insider status. However, the naming dispute alone does not demonstrate deception by Puthoff, nor does it validate the more extraordinary claims associated with him.
-
-What it does show is how institutional ambiguity can affect credibility assessments. The more readers assume that AATIP was a powerful, long-running Pentagon UFO office, the more authority they may attach to Puthoff's statements. The more closely they follow the narrower documentary record, the more they are likely to treat his programme connections as evidence of access to a real government-funded research effort rather than proof of the extraordinary conclusions that some later audiences drew from it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qhSnVezpJDk" title="New Pentagon UFO Memo reveals confusion, security concerns | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qhSnVezpJDk" target="_blank" rel="noopener noreferrer">New Pentagon UFO Memo reveals confusion, security concerns | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qhSnVezpJDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qhSnVezpJDk">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering](https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering)  
+   Link: <a href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Advanced Space Propulsion Based on Vacuum...The concept that empty space itself (the quantum vacuum, or spacetime metric) might be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Harold E. Puthoff  
-   Link: [https://en.wikipedia.org/wiki/Harold_E._Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harold E. PuthoffHarold Edward Puthoff (born June 20, 1936), often known as Hal Puthoff, is an American electrical engineer and paraps...</p></details>
    Published: June 20, 1936  
 
 5. <a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: 21 F 0299 UAP The Debrief Emails 12 2020  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — However, in an effort to &quot;correct the record,&quot; in December 2019 the Pentag...</p></details>
    Published: December 2019  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/](https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/](https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDr. Hal Puthoff talks about his role in AAWSAP: r/UFOsDr Puthoff detailed his involvement with the AAWSAP program and how EarthTec...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Hal Puthoff talks about his role in AAWSAP: r/UFOsDr Puthoff detailed his involvement with the AAWSAP program and how EarthTec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... This unresolved report contributes to AARO&#x27;s hist...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1.1 AATIP (2007–2012); 1.2 UAPTF (2017–2021); 1.3 AOIMSG (2021–2022); 1.4 AARO (2022–present) · 2 Organization...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1asxoxa/is_aatip_and_aaro_the_same_thing/](https://www.reddit.com/r/UFOs/comments/1asxoxa/is_aatip_and_aaro_the_same_thing/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1asxoxa/is_aatip_and_aaro_the_same_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1asxoxa/is_aatip_and_aaro_the_same_thing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is AATIP and AARO the same thing?: r/UFOsAATIP and AWSAP were linked and &#x27;secret&#x27; but AARO is a shell official body to vet public provid...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: dr hal puthoff the program and his links to psi  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/](https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Hal Puthoff, &quot;The Program&quot; and his links to Psi and...An excellent 2023 published paper on [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing-c5c5e3/&#x27; | relative_url &amp;#125;&amp;#125;) in a mainstream science jou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/](https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g... Hal Puthoff and Eric Davis have a very similar paper in which...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: info.publicintelligence.net  
    Title: DIA Advanced Space Propulsion  
-   Link: [https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf](https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoIn coordination with the Office of the Under Secretary of Defense for Intelligence...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: finance.yahoo.com  
-   Link: [https://finance.yahoo.com/quote/HAL/](https://finance.yahoo.com/quote/HAL/)  
+   Link: <a href="https://finance.yahoo.com/quote/HAL/" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/quote/HAL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Company (HAL) Stock Price, News, Quote &amp;...15 hours ago — Halliburton (HAL) has shown positive momentum following its latest earnings re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/JackSarfatti/status/1986725411146146265](https://x.com/JackSarfatti/status/1986725411146146265)  
+   Link: <a href="https://x.com/JackSarfatti/status/1986725411146146265" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JackSarfatti/status/1986725411146146265</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering.... Zero-Point Energy and Vacuum Engineering (1980s–2000s):Puth...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Observing_The_Anomaly/hal-puthoff-and-ken-shoulders-eb1331c15518](https://medium.com/%40Observing_The_Anomaly/hal-puthoff-and-ken-shoulders-eb1331c15518)  
+   Link: <a href="https://medium.com/%40Observing_The_Anomaly/hal-puthoff-and-ken-shoulders-eb1331c15518" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Observing_The_Anomaly/hal-puthoff-and-ken-shoulders-eb1331c15518</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff And Ken ShouldersHe has claimed to have searched for maverick inventors with his company EarthTech to find innovative propuls...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795](https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795)  
+   Link: <a href="https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This program, called the Advanced Aviation Threat Identification Program (AATIP), began in 2007 but its funding ended in 2012 due to shif...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: us governments now defunct advanced aerospace threat identification program aati  
-   Link: [https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/](https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US government&#x27;s now-defunct Advanced Aerospace Threat...In 2009 then senator Harry Reid asked the secretary of defense (SECDEF) to set u...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bis-space.com  
-   Link: [https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/](https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/)  
+   Link: <a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>£5.00. H. Puthoff (2010), JBIS, 63, 82-89. Refcode: 2010.63.82. Keywords: Space...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
    Title: The Guardian The Pentagon released its UFO videos  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JOEROGAN/posts/remote-viewing-is-real-aliens-exist-and-the-usa-has-at-least-10-crafts-that-are-/1262862398537525/](https://www.facebook.com/JOEROGAN/posts/remote-viewing-is-real-aliens-exist-and-the-usa-has-at-least-10-crafts-that-are-/1262862398537525/)  
+   Link: <a href="https://www.facebook.com/JOEROGAN/posts/remote-viewing-is-real-aliens-exist-and-the-usa-has-at-least-10-crafts-that-are-/1262862398537525/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JOEROGAN/posts/remote-viewing-is-real-aliens-exist-and-the-usa-has-at-least-10-crafts-that-are-/1262862398537525/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rding to renowned physicist Hal Puthoff. It&#x27;s a wild one!Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
    Title: On the [AAWSAP AATIP](&#123;&#123; 'aawsap-aatip/' | relative_url &#125;&#125;) Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — The research clarifies that AATIP was the overarching program name, while AAWSAP referre...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — When DIA cancelled this program, its supporters proposed to DHS that they create and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENSE1 Jul 2025 — [Luis] Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI [the. Office of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NOVApbs/posts/the-government-does-keep-secrets-about-aerospace-technology-but-are-those-linked/1390917573082623/](https://www.facebook.com/NOVApbs/posts/the-government-does-keep-secrets-about-aerospace-technology-but-are-those-linked/1390917573082623/)  
+   Link: <a href="https://www.facebook.com/NOVApbs/posts/the-government-does-keep-secrets-about-aerospace-technology-but-are-those-linked/1390917573082623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/the-government-does-keep-secrets-about-aerospace-technology-but-are-those-linked/1390917573082623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Majority Leader Harry...Read more...</p></details>

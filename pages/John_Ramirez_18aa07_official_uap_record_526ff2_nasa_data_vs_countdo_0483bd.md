@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-record/
 nav_short_title: NASA data
 title: Better data or a disclosure countdown?
-title_full: Better data or a disclosure countdown? | Official Record
+title_full: Better data or a disclosure countdown?
 display_title_short: NASA data
 display_title: NASA data
 heading_title: Better data or a disclosure countdown?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Official UAP Reports Help Him? | Ramirez
+parent_title: Do Official UAP Reports Help Him?
 parent_permalink: /official-record/
 parent_nav_short_title: Official Record
 parent_heading_title: Do Official UAP Reports Help Him?
@@ -253,7 +253,7 @@ next_link:
   permalink: /sensor-cases/
   short_title: Sensor cases
   heading_title: Do multiple sensors make UAP alien?
-date: '2026-06-09 02:59:39 '
+date: '2026-06-11 21:05:18 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_v
 
 ## Introduction
 
-NASA’s entry into the modern UAP debate created a sharp contrast with the style of claims often associated with former CIA officer [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}). While Ramirez became known in UFO media circles for discussing the possibility of a major revelation around 2027 and for entertaining broader narratives about non-human intelligence, NASA approached the issue from the opposite direction: collect better data first, then decide what the evidence supports.
-
+NASA’s entry into the modern UAP debate created a sharp contrast with the style of claims often associated with former CIA officer John Ramirez. While Ramirez became known in UFO media circles for discussing the possibility of a major revelation around 2027 and for entertaining broader narratives about non-human intelligence, NASA approached the issue from the opposite direction: collect better data first, then decide what the evidence supports.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1-dark.svg" | relative_url }}" alt="NASA data illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That difference matters when assessing credibility. NASA’s 2023 UAP study did not attempt to prove or disprove alien visitation. Instead, it focused on how unidentified sightings should be measured, analysed and verified. The report acknowledged that some cases remain unexplained, but it repeatedly stressed that unexplained does not automatically mean extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
@@ -287,7 +286,6 @@ The report repeatedly returned to a basic problem: most UAP cases suffer from in
 
 This is an important distinction in the context of Ramirez’s public claims. NASA’s framework assumes that uncertainty is mainly an evidence problem. Disclosure-oriented narratives often assume that uncertainty exists because crucial information is being hidden.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOFv7zF9JAA" title="NASA holds first public meeting on UFO study | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOFv7zF9JAA" target="_blank" rel="noopener noreferrer">NASA holds first public meeting on UFO study | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 543.3K &middot; Uploaded: May 2023 &middot; Length: 4 hours 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOFv7zF9JAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOFv7zF9JAA">Open on YouTube</a></p></div></div></div>
 
 ## Why the report did not endorse alien visitation
@@ -296,11 +294,65 @@ One of the most widely quoted lines from the NASA study was its statement that t
 
 NASA Administrator Bill Nelson made the same point when the report was released. He stated that the study team had found no evidence that UAP were extraterrestrial, while also acknowledging that some incidents remained unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</span></span></span> That position is often misunderstood in public debate. The report was not a declaration that every sighting has a conventional explanation. Nor was it an endorsement of extraterrestrial hypotheses. It occupied a narrower middle ground:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Some observations remain unresolved.
 2. Current data quality is often poor.
+3. Better evidence is required before stronger conclusions can be reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+</div>
+
+For [sceptics]({{ 'sceptics-70c753/' | relative_url }}), this was an example of normal scientific caution. For some UFO believers, it was evidence that NASA was avoiding more dramatic conclusions. Either way, the report itself stayed focused on evidential standards rather than disclosure narratives.
+
+<img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-dark.svg" | relative_url }}" alt="NASA data illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How scientific caution contrasts with Ramirez's 2027 framing
+
+The tension between NASA’s approach and Ramirez’s public commentary becomes most obvious around disclosure timelines.
+
+Ramirez has been associated in UFO media with discussions suggesting that humanity could face a significant revelation around 2027. Different versions of the claim have circulated through podcasts, interviews and conference appearances, often blending speculation, intelligence-community themes and expectations of future disclosure. The difficulty is that such predictions are inherently hard to verify in advance.
+
+NASA’s report operates from a fundamentally different logic. Scientific institutions generally avoid [countdown]({{ 'countdown/' | relative_url }})-style claims because they require evidence that can be independently assessed. A prediction that a major revelation will occur by a certain year is not the same type of claim as a radar track, satellite observation or instrument reading.
+
+In practical terms, NASA’s framework asks:
+
+* What was observed?
+* How was it measured?
+* Can the measurement be independently checked?
+* Can other investigators reproduce the analysis?
+
+A disclosure countdown asks a different set of questions:
+
+* What are insiders supposedly being told?
+* What hidden information might emerge?
+* What future event could validate current expectations?
+
+Those are very different evidential cultures. One relies primarily on publicly assessable data. The other often relies on insider testimony, inference and expectations about future disclosure.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aqvi9TeXrXI" title="NASA holds first public meeting on UFO study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aqvi9TeXrXI" target="_blank" rel="noopener noreferrer">NASA holds first public meeting on UFO study</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 63.4K &middot; Uploaded: May 2023 &middot; Length: 3 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aqvi9TeXrXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aqvi9TeXrXI">Open on YouTube</a></p></div></div></div>
+
+## The wider pattern in official UAP investigations
+
+NASA’s position also fits a broader trend across recent official UAP reviews.
+
+The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly stated that it has found no verifiable evidence of extraterrestrial beings, activity or technology. At the same time, AARO acknowledges that some reports remain unresolved because the available information is insufficient for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span>
+
+AARO’s historical review similarly reported no verified evidence that US government investigations had confirmed extraterrestrial technology, while noting that many cases suffer from poor data quality or incomplete records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> [3U.S.] Department of War 3U.S. Department of War
+
+This creates an important context for evaluating Ramirez’s credibility. Official institutions are not saying that every reported UAP has been explained. They are saying that unresolved cases do not currently constitute proof of extraterrestrial visitation. That is a more limited conclusion than the one implied by disclosure countdown narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
+
+## Better data or a disclosure countdown?
+
+For readers trying to assess the gap between official reporting and Ramirez’s larger claims, NASA’s study provides a useful benchmark.
+
+NASA treated UAP as a measurement problem. Its central recommendation was not that the public should prepare for imminent disclosure, but that researchers should improve sensors, reporting systems and analytical methods. The report effectively argued that the path to understanding runs through better evidence rather than stronger speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+That does not automatically disprove Ramirez’s ideas. A future discovery could, in theory, change scientific or governmental assessments. However, NASA’s approach highlights the current evidential divide. Ramirez’s 2027-style framing depends on claims about hidden knowledge and future revelations. NASA’s framework depends on demonstrable data that can be tested in the present.
+
+As a result, the agency’s contribution to the UAP debate tends to narrow extraordinary conclusions rather than support them. Its report acknowledged genuine unknowns, but it stopped well short of endorsing the kind of disclosure countdowns that have become a recurring feature of modern UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.Read more...</span></span></span>
+
+<img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-dark.svg" | relative_url }}" alt="NASA data illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -419,15 +471,15 @@ NASA Administrator Bill Nelson made the same point when the report was released.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -435,15 +487,15 @@ NASA Administrator Bill Nelson made the same point when the report was released.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -451,15 +503,15 @@ NASA Administrator Bill Nelson made the same point when the report was released.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +519,15 @@ NASA Administrator Bill Nelson made the same point when the report was released.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,7 +535,7 @@ NASA Administrator Bill Nelson made the same point when the report was released.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="nasa-data-better-data-or-a-disclosure-countdown-john-ramirez-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-data-or-a-disclosure-countdown-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="better-data-or-a-disclosure-countdown-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -694,199 +746,140 @@ NASA Administrator Bill Nelson made the same point when the report was released.
 </script>
 </section>
 
-3. Better evidence is required before stronger conclusions can be reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
-</div>
-
-For [sceptics]({{ 'sceptics-70c753/' | relative_url }}), this was an example of normal scientific caution. For some UFO believers, it was evidence that NASA was avoiding more dramatic conclusions. Either way, the report itself stayed focused on evidential standards rather than disclosure narratives.
-
-
-<img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-dark.svg" | relative_url }}" alt="NASA data illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How scientific caution contrasts with Ramirez's 2027 framing
-
-The tension between NASA’s approach and Ramirez’s public commentary becomes most obvious around disclosure timelines.
-
-Ramirez has been associated in UFO media with discussions suggesting that humanity could face a significant revelation around 2027. Different versions of the claim have circulated through podcasts, interviews and conference appearances, often blending speculation, intelligence-community themes and expectations of future disclosure. The difficulty is that such predictions are inherently hard to verify in advance.
-
-NASA’s report operates from a fundamentally different logic. Scientific institutions generally avoid [countdown]({{ 'countdown/' | relative_url }})-style claims because they require evidence that can be independently assessed. A prediction that a major revelation will occur by a certain year is not the same type of claim as a radar track, satellite observation or instrument reading.
-
-In practical terms, NASA’s framework asks:
-
-* What was observed?
-* How was it measured?
-* Can the measurement be independently checked?
-* Can other investigators reproduce the analysis?
-
-A [disclosure countdown]({{ 'countdown/' | relative_url }}) asks a different set of questions:
-
-* What are insiders supposedly being told?
-* What hidden information might emerge?
-* What future event could validate current expectations?
-
-Those are very different evidential cultures. One relies primarily on publicly assessable data. The other often relies on insider testimony, inference and expectations about future disclosure.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aqvi9TeXrXI" title="NASA holds first public meeting on UFO study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aqvi9TeXrXI" target="_blank" rel="noopener noreferrer">NASA holds first public meeting on UFO study</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 63.4K &middot; Uploaded: May 2023 &middot; Length: 3 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aqvi9TeXrXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aqvi9TeXrXI">Open on YouTube</a></p></div></div></div>
-
-## The wider pattern in official UAP investigations
-
-NASA’s position also fits a broader trend across recent official UAP reviews.
-
-The Pentagon’s All-domain Anomaly Resolution Office (AARO) has repeatedly stated that it has found no verifiable evidence of extraterrestrial beings, activity or technology. At the same time, AARO acknowledges that some reports remain unresolved because the available information is insufficient for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span>
-
-AARO’s historical review similarly reported no verified evidence that US government investigations had confirmed extraterrestrial technology, while noting that many cases suffer from poor data quality or incomplete records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> [3U.S.] Department of War 3U.S. Department of War
-
-This creates an important context for evaluating Ramirez’s credibility. Official institutions are not saying that every reported UAP has been explained. They are saying that unresolved cases do not currently constitute proof of extraterrestrial visitation. That is a more limited conclusion than the one implied by disclosure countdown narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
-
-## Better data or a disclosure countdown?
-
-For readers trying to assess the gap between official reporting and Ramirez’s larger claims, NASA’s study provides a useful benchmark.
-
-NASA treated UAP as a measurement problem. Its central recommendation was not that the public should prepare for imminent disclosure, but that researchers should improve sensors, reporting systems and analytical methods. The report effectively argued that the path to understanding runs through better evidence rather than stronger speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
-That does not automatically disprove Ramirez’s ideas. A future discovery could, in theory, change scientific or governmental assessments. However, NASA’s approach highlights the current evidential divide. Ramirez’s 2027-style framing depends on claims about hidden knowledge and future revelations. NASA’s framework depends on demonstrable data that can be tested in the present.
-
-As a result, the agency’s contribution to the UAP debate tends to narrow extraordinary conclusions rather than support them. Its report acknowledged genuine unknowns, but it stopped well short of endorsing the kind of [disclosure countdowns]({{ 'countdown/' | relative_url }}) that have become a recurring feature of modern UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-dark.svg" | relative_url }}" alt="NASA data illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final r...</p></details>
    Published: September 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/6314791/nasa-ufo-director-mark-mcinernay/](https://time.com/6314791/nasa-ufo-director-mark-mcinernay/)  
+   Link: <a href="https://time.com/6314791/nasa-ufo-director-mark-mcinernay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6314791/nasa-ufo-director-mark-mcinernay/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McInernay, who has formerly served as a Pentagon liaison for NASA, will lead the investigation into UAP sightings. This decision comes am...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also important to underscore that to d...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous PhenomenaNov 14, 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — Are there any data supporting the idea that UAP are evidence of alien technologies? No. Most UAP sightings result in very li...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In 2024, the All-domain Anomaly Resolution Office (AARO) contracted Oak Ridge National Laboratory (ORNL)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But we don&#x27;t know what these UAP are.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Results: Project SAUCER did not find evidence of extraterrestri...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says&quot;.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/abcnews.au/posts/a-nasa-report-has-found-no-evidence-that-ufo-sightings-are-connected-in-any-way-/876907977123807/](https://www.facebook.com/abcnews.au/posts/a-nasa-report-has-found-no-evidence-that-ufo-sightings-are-connected-in-any-way-/876907977123807/)  
+   Link: <a href="https://www.facebook.com/abcnews.au/posts/a-nasa-report-has-found-no-evidence-that-ufo-sightings-are-connected-in-any-way-/876907977123807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/a-nasa-report-has-found-no-evidence-that-ufo-sightings-are-connected-in-any-way-/876907977123807/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A NASA report has found no evidence that UFO sightings...NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP... no e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnewsandworldreport/posts/a-highly-anticipated-report-published-by-nasa-on-thursday-underscored-challenges/704062414922814/](https://www.facebook.com/usnewsandworldreport/posts/a-highly-anticipated-report-published-by-nasa-on-thursday-underscored-challenges/704062414922814/)  
+   Link: <a href="https://www.facebook.com/usnewsandworldreport/posts/a-highly-anticipated-report-published-by-nasa-on-thursday-underscored-challenges/704062414922814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnewsandworldreport/posts/a-highly-anticipated-report-published-by-nasa-on-thursday-underscored-challenges/704062414922814/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A highly anticipated report published by NASA on...NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &quot;But...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/](https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/)  
+   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...Shouldn&#x27;t we be asking for evidence that is IDENTIFIED as alien or extraterrest...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/](https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ndcaly/whenever_you_read_government_found_no_evidence_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whenever you read &quot;Government Found No Evidence of...AARO found no verifiable evidence that any reported UAP sighting has represented ex...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html](https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html)  
+   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone appSep 17, 2023 — “To date, in the peer-reviewed scientific literature, there is no con...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: foxnews.com  
    Title: pentagon says no verifiable evidence extraterrestrial technology beings activity  
-   Link: [https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity](https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity)  
+   Link: <a href="https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says &#x27;no verifiable evidence&#x27; of extraterrestrial...Nov 14, 2024 — The Pentagon said Thursday it has not discovered any verifia...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: [https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/](https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: m.kuow.org  
    Title: pentagon finds no evidence of alien technology in new ufo report  
-   Link: [https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report](https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report)  
+   Link: <a href="https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://m.kuow.org/stories/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacecraft, in...</p></details>

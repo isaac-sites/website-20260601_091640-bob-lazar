@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credentials/
 nav_short_title: Ranch TV
 title: Can Skinwalker Ranch Prove Anything?
-title_full: Can Skinwalker Ranch Prove Anything? | Credentials
+title_full: Can Skinwalker Ranch Prove Anything?
 display_title_short: Ranch TV
 display_title: Ranch TV
 heading_title: Can Skinwalker Ranch Prove Anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Taylor's Credentials Prove His UAP Claims? | Taylor
+parent_title: Do Taylor's Credentials Prove His UAP Claims?
 parent_permalink: /credentials/
 parent_nav_short_title: Credentials
 parent_heading_title: Do Taylor's Credentials Prove His UAP Claims?
@@ -247,7 +247,7 @@ next_link:
   permalink: /task-force-role/
   short_title: Task Force role
   heading_title: How Far Did Taylor's Government Role Go?
-date: '2026-06-09 03:12:05 '
+date: '2026-06-11 21:08:57 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalke
 ## Introduction
 
 [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s appearance on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* is one of the most important tests of his public credibility because it places a genuinely qualified engineer and scientist inside a television format built around mystery, suspense and audience retention. For supporters, the programme shows Taylor applying technical methods to unusual reports and refusing to dismiss anomalies automatically. For critics, it demonstrates the opposite problem: strong credentials being used to give a scientific appearance to claims that remain unverified.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-1-dark.svg" | relative_url }}" alt="Ranch TV illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central question is not whether Taylor has real technical expertise. His academic and engineering background is well documented. The question is whether a reality television investigation can generate evidence strong enough to justify extraordinary conclusions. That distinction matters because [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch is now one of the main reasons many members of the public know who Taylor is. His reputation is tied not only to his qualifications, but also to how he uses them in a highly commercial paranormal-media environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">March 23, 2026 —... History Channel&#x27;s The Secret of Skinwalker Ranch. Travis S. Taylor. Born, (1968-07-24) July 24, 1968 (age 57). Decat...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
@@ -276,7 +275,6 @@ The most important credibility issue is not whether strange events occurred on t
 
 Reality television creates incentives that differ sharply from scientific publication:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Episodes require dramatic developments and cliff-hangers.
@@ -292,7 +290,6 @@ The History Channel series openly positions itself as a mystery investigation an
 That does not automatically mean the experiments are fake. It does mean viewers should be cautious about treating broadcast footage as equivalent to a laboratory record.
 
 A recurring pattern on the show involves unusual instrument readings, GPS anomalies, radio-frequency signals, drone malfunctions or unexplained aerial observations. Such incidents may be genuinely puzzling. However, the programme generally presents them as unfolding discoveries rather than as fully documented technical studies available for outside review. Critics argue that this leaves audiences unable to distinguish between an unresolved anomaly and evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mVDGLOKwhwE" title="Scientist details strange sights at &#x27;Australia&#x27;s Skinwalker Ranch&#x27; | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mVDGLOKwhwE" target="_blank" rel="noopener noreferrer">Scientist details strange sights at &#x27;Australia&#x27;s Skinwalker Ranch&#x27; | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 246.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mVDGLOKwhwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mVDGLOKwhwE">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +307,6 @@ An unexpected reading becomes far more significant if it appears repeatedly unde
 
 A sensor anomaly may have multiple explanations. Without access to complete environmental data, equipment specifications, calibration records and control testing, it is difficult to determine whether an event represents a genuine mystery or a technical problem.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-2-dark.svg" | relative_url }}" alt="Ranch TV illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What happened when nothing happened?
 
@@ -318,7 +314,7 @@ Scientific investigations generate large amounts of negative data. A television 
 
 ### How much raw data is available?
 
-The strongest scientific claims usually allow outside experts to inspect methods and evidence. Skinwalker Ranch investigations have largely reached the public through television episodes, interviews and discussion rather than through a substantial body of peer-reviewed publications. This point is frequently raised even by viewers who remain interested in the ranch itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Scientific Publications?: r/skinwalkerranch</span><span class="citation-popover-snippet">RedditScientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
+The strongest scientific claims usually allow outside experts to inspect methods and evidence. Skinwalker Ranch investigations have largely reached the public through television episodes, interviews and discussion rather than through a substantial body of peer-reviewed publications. This point is frequently raised even by viewers who remain interested in the ranch itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Scientific Publications?: r/skinwalkerranch</span><span class="citation-popover-snippet">Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
 
 These limitations do not prove that the programme's findings are wrong. They do mean that outsiders cannot easily perform the kind of verification that would normally strengthen extraordinary claims.
 
@@ -338,9 +334,7 @@ The strongest version of the pro-Taylor argument is therefore not that his quali
 
 The strongest sceptical reply is that unexplained does not equal extraordinary, and that even highly trained investigators can over-interpret ambiguous data when operating inside a narrative-driven environment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jy-pykUrir8" title="Why Skinwalker Ranch Fell OFF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jy-pykUrir8" target="_blank" rel="noopener noreferrer">Why Skinwalker Ranch Fell OFF</a></p><p class="youtube-embed-meta">Channel: BuzzKill &middot; Views: 26.6K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jy-pykUrir8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jy-pykUrir8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-dark.svg" | relative_url }}" alt="Ranch TV illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UAP Task Force Connection Complicates Perception
 
 Taylor's later acknowledgement that he worked with the UAP [Task Force]({{ 'task-force/' | relative_url }}) added another layer to public discussion of the programme. Some supporters argued that his government involvement retrospectively increased the importance of what viewers had seen on Skinwalker Ranch. They viewed his television work and official connections as mutually reinforcing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/brandon-fugal-7a0a8b_not-just-a-tv-scientist-dr-travis-taylor-activity-6946244293166583808-GzG3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Not just a TV scientist: Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s deep roots...Dr. Travis Taylor&#x27;s deep roots with NASA &amp; DoD &amp; how his experience as part of my team at Skinwalker Ranch...</span></span></span>
@@ -350,9 +344,6 @@ Critics saw a different problem. They argued that audiences might incorrectly as
 There is no clear evidence that Skinwalker Ranch television segments themselves constitute official government findings. The existence of Taylor's government-related roles does not convert television material into verified scientific conclusions. Those remain separate questions.
 
 For credibility assessment, this distinction matters. A viewer may reasonably conclude that Taylor has more technical and institutional experience than many UFO personalities. That conclusion is stronger than claiming that the show's most dramatic interpretations have therefore been proven.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LndTfQGXUU" title="Skinwalker Ranch - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer">Skinwalker Ranch - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LndTfQGXUU">Open on YouTube</a></p></div></div></div>
 
 ## What the Programme Ultimately Demonstrates
 
@@ -364,8 +355,7 @@ On the negative side, the programme has not produced a widely accepted public bo
 
 The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's strengths and his credibility limits. It shows a technically educated investigator willing to examine unusual reports. It does not, by itself, provide a scientific foundation strong enough to resolve the larger claims surrounding the ranch. For readers assessing Taylor's reliability as a UAP-related figure, that distinction is essential: expertise can make an investigation more interesting and potentially more rigorous, but expertise alone cannot substitute for independently verifiable evidence.
 
-
-<img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-dark.svg" | relative_url }}" alt="Ranch TV illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_skinwalker_tv_credib_6aed94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jy-pykUrir8" title="Why Skinwalker Ranch Fell OFF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jy-pykUrir8" target="_blank" rel="noopener noreferrer">Why Skinwalker Ranch Fell OFF</a></p><p class="youtube-embed-meta">Channel: BuzzKill &middot; Views: 26.6K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jy-pykUrir8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jy-pykUrir8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,15 +474,15 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792"><img src="{{ '/assets/images/marketplace-covers/0dbbee2eb32d1fca44e2.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +490,15 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia new"><img src="{{ '/assets/images/marketplace-covers/8a28b8e35973056ead41.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia new" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia new</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +506,15 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b4b284b515fdc1f74c54.jpg' | relative_url }}" alt="Listing image for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +522,15 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +538,7 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books" data-ebay-reference="ranch-tv-can-skinwalker-ranch-prove-anything-travis-taylor-alien-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-skinwalker-ranch-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,156 +754,156 @@ The most balanced conclusion is that Skinwalker Ranch demonstrates both Taylor's
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2026 —... History Channel&#x27;s The Secret of Skinwalker Ranch. Travis S. Taylor. Born, (1968-07-24) July 24, 1968 (age 57). Decat...</p></details>
    Published: March 23, 2026  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch CastTravis Taylor stars in The HISTORY Channel&#x27;s series The Secret of Skinwalker Ranch. Find out more abou...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 4. <a id="endnote-4"></a>
    Source: vulture.com  
-   Link: [https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html](https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html)  
+   Link: <a href="https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/the-secrets-of-skinwalker-ranch-bts.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originally skeptical, current owner Brandon Fugal, a successful real estate mogul, became a believer after witnessing a flying saucer in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Scientific Publications?: r/skinwalkerranch  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/](https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditScientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</p></details>
    Published: May 14, 2024  
 
 6. <a id="endnote-6"></a>
    Source: linkedin.com  
    Title: Linked In Not just a TV scientist: Dr  
-   Link: [https://www.linkedin.com/posts/brandon-fugal-7a0a8b_not-just-a-tv-scientist-dr-travis-taylor-activity-6946244293166583808-GzG3](https://www.linkedin.com/posts/brandon-fugal-7a0a8b_not-just-a-tv-scientist-dr-travis-taylor-activity-6946244293166583808-GzG3)  
+   Link: <a href="https://www.linkedin.com/posts/brandon-fugal-7a0a8b_not-just-a-tv-scientist-dr-travis-taylor-activity-6946244293166583808-GzG3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/brandon-fugal-7a0a8b_not-just-a-tv-scientist-dr-travis-taylor-activity-6946244293166583808-GzG3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s deep roots...Dr. Travis Taylor&#x27;s deep roots with NASA &amp; DoD &amp; how his experience as part of my team at Skinwalker Ranch...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceTravis Taylor interviewed about Skinwalker Ranch Season 5 · r/skinwalkerranch - Travis Taylor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/](https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/)  
+   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: dr travis taylor and brandon fugal the dynamic  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1esupm8/dr_travis_taylor_and_brandon_fugal_the_dynamic/](https://www.reddit.com/r/skinwalkerranch/comments/1esupm8/dr_travis_taylor_and_brandon_fugal_the_dynamic/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1esupm8/dr_travis_taylor_and_brandon_fugal_the_dynamic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1esupm8/dr_travis_taylor_and_brandon_fugal_the_dynamic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Brandon Fugal: The Dynamic Duo...Best TV shows featuring Brandon Fugal. Notable scientists from Skinwalker Ranch. Bran...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/](https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Does Travis have a conflict of interest??  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/](https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchIf you accept that *something* unknown is going on at the ranch...and the central premise of the show is to uncover and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/](https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Skin walker  
-   Link: [https://en.wikipedia.org/wiki/Skin-walker](https://en.wikipedia.org/wiki/Skin-walker)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skin-walker" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skin-walker</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skin-walkerIn Navajo culture, a skin-walker (Navajo: yee naaldlooshii) or skinwalker is a type of harmful witch who has the ability t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.co.uk  
    Title: uld Skinwalker Ranch provide a glimpse into other  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channel&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor...And I think a scientific explanation for that could be th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt10589968/episodes/?year=2024](https://www.imdb.com/title/tt10589968/episodes/?year=2024)  
+   Link: <a href="https://www.imdb.com/title/tt10589968/episodes/?year=2024" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt10589968/episodes/?year=2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch (TV Series 2020–)Travis Taylor about the scientific tools they are utilizing in order to solve a potentia...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office of the Director of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
    Title: Travis Taylor  
-   Link: [https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor](https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor)  
+   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Travis_Taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor | The Secret of Skinwalker Ranch Wiki | FandomTravis Shane Taylor (born 24 July 1968 in Decatur, Alabama) is an aerospace engineer...</p></details>
    Published: July 1968  
 
 18. <a id="endnote-18"></a>
    Source: thepulsesd.com  
    Title: skinwalker ranch  
-   Link: [https://www.thepulsesd.com/2024/09/21/skinwalker-ranch/](https://www.thepulsesd.com/2024/09/21/skinwalker-ranch/)  
+   Link: <a href="https://www.thepulsesd.com/2024/09/21/skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.thepulsesd.com/2024/09/21/skinwalker-ranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Sept 2024 — The series follows current ranch owner Brandon Fugal alongside an accredited team of scientists, researchers, and experts...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1662524715057888/](https://www.facebook.com/groups/1065166071460425/posts/1662524715057888/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1662524715057888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1662524715057888/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker ranch investigation and experimentsTravis Taylor has designed and conducted hundreds of experiments at Skinwalker Ranch throug...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: decider.com  
-   Link: [https://decider.com/2024/07/05/the-secret-of-skinwalker-ranch-season-3-netflix-review/](https://decider.com/2024/07/05/the-secret-of-skinwalker-ranch-season-3-netflix-review/)  
+   Link: <a href="https://decider.com/2024/07/05/the-secret-of-skinwalker-ranch-season-3-netflix-review/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2024/07/05/the-secret-of-skinwalker-ranch-season-3-netflix-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the involvement of experts like Dr. Travis Taylor and the show&#x27;s attempts to legitimize their research with scientific language a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2494888/what-one-secret-of-skinwalker-ranch-scientist-was-most-skeptical-of-before-starting-the-show](https://www.cinemablend.com/television/2494888/what-one-secret-of-skinwalker-ranch-scientist-was-most-skeptical-of-before-starting-the-show)  
+   Link: <a href="https://www.cinemablend.com/television/2494888/what-one-secret-of-skinwalker-ranch-scientist-was-most-skeptical-of-before-starting-the-show" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2494888/what-one-secret-of-skinwalker-ranch-scientist-was-most-skeptical-of-before-starting-the-show</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What One Secret Of Skinwalker Ranch Scientist Was Most...Apr 21, 2020 — Taylor said, he wasn&#x27;t completely sure that all of the strange h...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series](https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series)  
+   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor makes a very good point about the use of the word paranormal to describe what goes on at Skinwalker Ranch, though I&#x27;ll admit...Re...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch](https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch)  
+   Link: <a href="https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: The Government Scientist Hiding in Plain...Most notably, Travis Taylor was later revealed to be a chief scientist for the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: equip.org  
    Title: strange happenings in utah the phenomenon of skinwalker ranch  
-   Link: [https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/](https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/)  
+   Link: <a href="https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Skinwalker Ranch10 Oct 2024 — Taylor also led the Pentagon&#x27;s Unidentified Aerial Phenomena (UAP) Task Force, which resu...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xperienced many disturbing events and encounters like the Shermans throughout...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Scientist details strange sights at 'Australia's Skinwalker Ranch'  
-   Link: [https://www.youtube.com/watch?v=mVDGLOKwhwE](https://www.youtube.com/watch?v=mVDGLOKwhwE)  
+   Link: <a href="https://www.youtube.com/watch?v=mVDGLOKwhwE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mVDGLOKwhwE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video Why Skinwalker Ranch Fell OFF is particularly relevant as it provides a critical examination of the show&#x27;s methodology, highli...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1640129117297448/](https://www.facebook.com/groups/1065166071460425/posts/1640129117297448/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1640129117297448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1640129117297448/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>igation Series [https://www.history.com/shows/the-secret-of...Read](https://www.history.com/shows/the-secret-of...Read) more...</p></details>

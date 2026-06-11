@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-john-ramirez/
 nav_short_title: Sceptics
 title: Where The Sceptical Case Is Strongest
-title_full: Where The Sceptical Case Is Strongest | Ramirez
+title_full: Where The Sceptical Case Is Strongest
 display_title_short: Sceptics
 display_title: Sceptics
 heading_title: Where The Sceptical Case Is Strongest
@@ -289,7 +289,7 @@ next_link:
   permalink: /supporters-124489/
   short_title: Supporters
   heading_title: Why Do Supporters Trust Ramirez?
-date: '2026-06-09 02:58:52 '
+date: '2026-06-11 21:04:47 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-overview-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-overview.webp
@@ -298,20 +298,18 @@ image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-overview-social.
 
 ## Introduction
 
-The strongest sceptical case about [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}) is not that he fabricated an intelligence career. The public record gives a plausible outline of a real career in the CIA and wider intelligence community. The issue is that credentials are not evidence in themselves. Ramirez’s former roles may explain why UFO audiences listen to him, but they do not independently prove claims about alien hybrids, hidden programmes, future disclosure dates, reverse engineering, or non-human intelligence. Speaker biographies describe him as serving from 1984 to 2009 in CIA technical and analytical directorates and the ODNI National [Counterproliferation]({{ 'threat-work/' | relative_url }}) Center, with specialisms including ballistic missile defence, signals analysis and electronic intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez | Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez | Coast to Coast AM</span></span></span>
-
+The strongest sceptical case about John Ramirez is not that he fabricated an intelligence career. The public record gives a plausible outline of a real career in the CIA and wider intelligence community. The issue is that credentials are not evidence in themselves. Ramirez’s former roles may explain why UFO audiences listen to him, but they do not independently prove claims about alien hybrids, hidden programmes, future disclosure dates, reverse engineering, or non-human intelligence. Speaker biographies describe him as serving from 1984 to 2009 in CIA technical and analytical directorates and the ODNI National Counterproliferation Center, with specialisms including ballistic missile defence, signals analysis and electronic intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-overview.webp" | relative_url }}" alt="Overview image for Sceptics" loading="eager" decoding="sync" fetchpriority="high">
 That résumé matters, but it also creates the central credibility risk: a real intelligence background can give weakly evidenced claims a stronger public aura than the claims themselves deserve. Ramirez’s public UFO appearances are largely podcast, conference and alternative-media material, and even sympathetic listings frame some appearances as personal thoughts, experiences and perspectives rather than document-backed testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spreaker.com/episode/533-john-ramirez-cia-ret-on-ufos-part-one--56322594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spreaker.com">[Spreaker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spreaker.com</span><span class="citation-popover-title">533. John Ramirez CIA [RET], on UFOs PART ONE</span><span class="citation-popover-snippet">533. John Ramirez CIA [RET], on UFOs PART ONE</span></span></span>
 
 ## The credential gap: career plausibility is not claim validation
 
-Ramirez’s intelligence background is the part of the story that is easiest to treat as plausible. Coast to Coast AM’s guest biography says he served for 25 years in the CIA Directorate of Science and Technology, Directorate of Intelligence and ODNI National Counterproliferation Center, and that he held roles including Chief of Base at an overseas technical collection facility and Chief of the Electronic Intelligence Analysis Branch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez | Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez | Coast to Coast AM</span></span></span> Those are specific, career-like claims rather than vague “insider” branding.
+Ramirez’s intelligence background is the part of the story that is easiest to treat as plausible. Coast to Coast AM’s guest biography says he served for 25 years in the CIA Directorate of Science and Technology, Directorate of Intelligence and ODNI National Counterproliferation Center, and that he held roles including Chief of Base at an overseas technical collection facility and Chief of the Electronic Intelligence Analysis Branch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span></span></span> Those are specific, career-like claims rather than vague “insider” branding.
 
 The sceptical argument begins one step later. Even a genuine [CIA career]({{ 'cia-career/' | relative_url }}) would not show that Ramirez had authorised access to UAP crash-retrieval records, alien biology programmes, classified disclosure planning, or any compartment directly relevant to his most extraordinary public claims. Intelligence agencies are compartmentalised; one can hold serious clearances and still know nothing about another programme. A technical intelligence career can establish possible familiarity with sensors, military systems and classified culture, but it does not automatically establish proximity to every hidden aerospace or biological claim.
 
 This distinction is especially important because Ramirez’s public UFO persona is broader than a narrow account of one witnessed event. Public summaries of his appearances describe claims or discussions involving alien-human hybrids, alien bloodlines, classified reverse-engineering efforts, personal encounters and what he was allegedly “[read into]({{ 'read-into/' | relative_url }})” while at the Agency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[alienresearch.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A person can be credible about having held a real job and still be unproven, mistaken, speculative or relying on hearsay when discussing claims far outside what has been independently documented.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-1-dark.svg" | relative_url }}" alt="Sceptics illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where credential inflation happens
@@ -323,7 +321,6 @@ The problem is not unique to Ramirez. UAP culture has long elevated military, in
 Ramirez’s [2027 claim]({{ '2027-claim/' | relative_url }}) shows the problem clearly. SYFY reported that after leaving the intelligence community he became a UFO commentator and, in a 2023 Podcast UFO interview, warned of an approaching alien revelation in 2027. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span> That claim is not strengthened much by knowing he worked at the CIA unless it is tied to independently verifiable sourcing: a named programme, a document, a chain of custody, a direct institutional statement, or a witness with comparable access willing to confirm the same thing publicly.
 
 The sceptical point is not “former officials can never know anything”. It is narrower and stronger: official background changes the level of interest, not the standard of proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ku9GsJ94Dt4" title="12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer">12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 77.3K &middot; Uploaded: December 2022 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ku9GsJ94Dt4">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +334,6 @@ AARO’s official historical review is also relevant, even though it does not re
 
 That does not prove Ramirez is wrong about everything. It does show why sceptics ask for more than status, confidence and repetition. When official reviews are looking for documents, materials, programme records and named companies, a public claim that remains mostly oral is weakly supported by comparison.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-2-dark.svg" | relative_url }}" alt="Sceptics illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The problem with second-hand and “read into” claims
 
@@ -348,7 +344,6 @@ A first-hand claim can still be mistaken, but at least the witness is reporting 
 This is where Ramirez differs from some better-documented UAP witnesses. Navy pilots describing flight incidents can sometimes point to dates, locations, sensor systems, other crew, radar operators, training ranges and official videos. Even when those cases remain disputed, they offer more concrete anchors for verification. Ramirez’s broadest claims about hybrids, hidden histories or future disclosure do not yet have the same public evidential scaffolding.
 
 The comparison with David Grusch is useful because it shows how formal process changes, but does not eliminate, the evidence problem. Grusch gave a congressional opening statement under his own name, described an Intelligence Community Inspector General process, and said his testimony was based on information from other officials and evidence he said had been shared through official channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span> Even then, many observers still ask what can be released, tested and corroborated publicly. Ramirez has less visible formal process around his public claims, so the burden on independent corroboration is even heavier.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v6wGLH1uSOo" title="UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells All | UAP Files Podcast S3E21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells All | UAP Files Podcast S3E21</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸 &middot; Views: 29.2K &middot; Uploaded: May 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v6wGLH1uSOo">Open on YouTube</a></p></div></div></div>
 
@@ -368,7 +363,6 @@ The report’s explanation of misidentification is directly relevant to credenti
 
 NASA’s report points in the same direction from a scientific angle. It argues for multiple well-calibrated sensors, metadata, standardised reporting and systematic data acquisition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a useful antidote to “trust me because of who I was”. For a mainstream reader, the fair question is not whether Ramirez sounds informed; it is whether his most important claims can survive the same evidential standards applied to any other extraordinary aerospace or biological claim.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-3-dark.svg" | relative_url }}" alt="Sceptics illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge unresolved claims fairly
 
@@ -376,13 +370,12 @@ A fair sceptical assessment should avoid two easy mistakes. One mistake is to di
 
 The most useful approach is to separate claims into evidence tiers:
 
-* **Reasonably plausible background claims:** Ramirez’s broad intelligence-career outline is supported by repeated public biographies with specific role descriptions, though not by a publicly released full personnel file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez | Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez | Coast to Coast AM</span></span></span>
+* **Reasonably plausible background claims:** Ramirez’s broad intelligence-career outline is supported by repeated public biographies with specific role descriptions, though not by a publicly released full personnel file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span><span class="citation-popover-snippet">Coast to Coast AM John Ramirez &#124; Coast to Coast AM</span></span></span>
 * **Possible but unproven access claims:** Statements implying he encountered relevant UAP information through government work remain difficult to evaluate without programme names, documents or named corroboration.
 * **Weakly supported extraordinary claims:** Alien hybrids, alien bloodlines, reverse-engineering assertions and 2027 disclosure claims require independent evidence that has not been made publicly available in a testable form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span>
 * **Subjective or metaphysical claims:** Experiences involving higher consciousness, mental travel or similar phenomena may be meaningful to believers, but they do not function as public proof of institutional UAP knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Document Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-title">Document Repository</span><span class="citation-popover-snippet">Document Repository</span></span></span>
 
 This framework keeps the assessment balanced. It does not require assuming bad faith. It simply refuses to treat “former CIA officer” as a substitute for evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CM33rZbO8E4" title="John Ramirez- American Technical Ops in the Shah’s Iran, 7/13/2023- History in Our Backyard Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer">John Ramirez- American Technical Ops in the Shah’s Iran, 7/13/2023- History in Our Backyard Webinar</a></p><p class="youtube-embed-meta">Channel: Southeastern Pennsylvania Cold War Historical Society &middot; Views: 1.2K &middot; Uploaded: July 2023 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CM33rZbO8E4">Open on YouTube</a></p></div></div></div>
 
@@ -393,86 +386,44 @@ The sceptical case is strongest where Ramirez’s claims become broad, predictiv
 The most defensible conclusion is cautious rather than dismissive. Ramirez’s credentials are relevant to why people listen, but they are not sufficient proof of what he says. His public UFO claims should be judged claim by claim, with the highest confidence reserved for what can be independently documented, corroborated by named sources, or tested against physical and archival evidence. Until that evidence appears, the sceptical argument remains strong: the public record supports the existence of an intelligence-linked narrator more clearly than it supports the extraordinary UFO story being narrated.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where The Sceptical Case Is Strongest. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where The Sceptical Case Is Strongest, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Useful for separating credentials from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly addresses evidence standards, extraordinary claims and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows what stronger evidential presentations look like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Explains why authority figures can become influential within belief communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,15 +460,15 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +476,15 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +492,15 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +508,15 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +524,7 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-70c753-where-the-sceptical-case-is-strongest-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-the-sceptical-case-is-strongest-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-the-sceptical-case-is-strongest-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -789,143 +740,143 @@ The most defensible conclusion is cautious rather than dismissive. Ramirez’s c
 1. <a id="endnote-1"></a>
    Source: spreaker.com  
    Title: 533. John Ramirez CIA [RET], on UFOs PART ONE  
-   Link: [https://www.spreaker.com/episode/533-john-ramirez-cia-ret-on-ufos-part-one--56322594](https://www.spreaker.com/episode/533-john-ramirez-cia-ret-on-ufos-part-one--56322594)  
+   Link: <a href="https://www.spreaker.com/episode/533-john-ramirez-cia-ret-on-ufos-part-one--56322594" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/533-john-ramirez-cia-ret-on-ufos-part-one--56322594</a>  
 
 2. <a id="endnote-2"></a>
    Source: alienresearch.com.au  
-   Link: [https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/](https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/)  
+   Link: <a href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/</a>  
 
 3. <a id="endnote-3"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: [https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent](https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent)  
+   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: docs.house.gov  
    Title: Document Repository  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 11. <a id="endnote-11"></a>
    Source: coasttocoastam.com  
    Title: Coast to Coast AM John Ramirez | Coast to Coast AM  
-   Link: [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
 
 12. <a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: John Ramirez  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lkowxj/john_ramirez_whats_peoples_thoughts/](https://www.reddit.com/r/UFOs/comments/1lkowxj/john_ramirez_whats_peoples_thoughts/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lkowxj/john_ramirez_whats_peoples_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lkowxj/john_ramirez_whats_peoples_thoughts/</a>  
 
 14. <a id="endnote-14"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/show/2025-07-10-show/](https://www.coasttocoastam.com/show/2025-07-10-show/)  
+   Link: <a href="https://www.coasttocoastam.com/show/2025-07-10-show/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/show/2025-07-10-show/</a>  
 
 15. <a id="endnote-15"></a>
    Source: coasttocoastam.com  
    Title: top secret  
-   Link: [https://www.coasttocoastam.com/guests/top-secret/](https://www.coasttocoastam.com/guests/top-secret/)  
+   Link: <a href="https://www.coasttocoastam.com/guests/top-secret/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guests/top-secret/</a>  
 
 16. <a id="endnote-16"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/guests/all-categories/2022/1/](https://www.coasttocoastam.com/guests/all-categories/2022/1/)  
+   Link: <a href="https://www.coasttocoastam.com/guests/all-categories/2022/1/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guests/all-categories/2022/1/</a>  
 
 17. <a id="endnote-17"></a>
    Source: coasttocoastam.com  
    Title: James Semivan Past Shows: UFOs and the CIA. Sunday  
-   Link: [https://www.coasttocoastam.com/guest/james-semivan/](https://www.coasttocoastam.com/guest/james-semivan/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/james-semivan/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/james-semivan/</a>  
 
 18. <a id="endnote-18"></a>
    Source: coasttocoastam.com  
    Title: in memoriam  
-   Link: [https://www.coasttocoastam.com/article/in-memoriam/](https://www.coasttocoastam.com/article/in-memoriam/)  
+   Link: <a href="https://www.coasttocoastam.com/article/in-memoriam/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/in-memoriam/</a>  
 
 19. <a id="endnote-19"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/guest/weisman-john-6532/](https://www.coasttocoastam.com/guest/weisman-john-6532/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/weisman-john-6532/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/weisman-john-6532/</a>  
 
 20. <a id="endnote-20"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/show/2014-10-23-show/](https://www.coasttocoastam.com/show/2014-10-23-show/)  
+   Link: <a href="https://www.coasttocoastam.com/show/2014-10-23-show/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/show/2014-10-23-show/</a>  
 
 21. <a id="endnote-21"></a>
    Source: x.com  
-   Link: [https://x.com/theinformant_x/status/2057817243002470419](https://x.com/theinformant_x/status/2057817243002470419)  
+   Link: <a href="https://x.com/theinformant_x/status/2057817243002470419" target="_blank" rel="noopener noreferrer nofollow">https://x.com/theinformant_x/status/2057817243002470419</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.youtube.com/watch?v=nS_Insp7i_Y](https://www.youtube.com/watch?v=nS_Insp7i_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video Retired CIA Officer John Ramirez on the Agency is relevant because it provides a detailed, long-form interview with John Ramir...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2hNjK-UJXK4](https://www.youtube.com/watch?v=2hNjK-UJXK4)  
+   Link: <a href="https://www.youtube.com/watch?v=2hNjK-UJXK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hNjK-UJXK4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells All | UAP Files Podcast S3E21...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v6wGLH1uSOo](https://www.youtube.com/watch?v=v6wGLH1uSOo)  
+   Link: <a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6wGLH1uSOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_EzPmS2HVDg](https://www.youtube.com/watch?v=_EzPmS2HVDg)  
+   Link: <a href="https://www.youtube.com/watch?v=_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_EzPmS2HVDg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: 12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA & More  
-   Link: [https://www.youtube.com/watch?v=Ku9GsJ94Dt4](https://www.youtube.com/watch?v=Ku9GsJ94Dt4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WARNING: CIA Insider Reveals the 2027 Arrival Date...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena](https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PolymarketHQ/posts/a-whistleblower-claims-the-cia-has-explored-using-human-dna-to-identify-alleged-/1368234968686590/](https://www.facebook.com/PolymarketHQ/posts/a-whistleblower-claims-the-cia-has-explored-using-human-dna-to-identify-alleged-/1368234968686590/)  
+   Link: <a href="https://www.facebook.com/PolymarketHQ/posts/a-whistleblower-claims-the-cia-has-explored-using-human-dna-to-identify-alleged-/1368234968686590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PolymarketHQ/posts/a-whistleblower-claims-the-cia-has-explored-using-human-dna-to-identify-alleged-/1368234968686590/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>

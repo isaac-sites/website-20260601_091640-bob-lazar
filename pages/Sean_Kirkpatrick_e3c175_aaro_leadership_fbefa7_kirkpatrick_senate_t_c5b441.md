@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aaro-role/
 nav_short_title: Senate test
 title: What the Senate hearing proved and did not
-title_full: What the Senate hearing proved and did not | AARO Role
+title_full: What the Senate hearing proved and did not
 display_title_short: Senate test
 display_title: Senate test
 heading_title: What the Senate hearing proved and did not
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Much Authority Did AARO Give Him? | Kirkpatrick
+parent_title: How Much Authority Did AARO Give Him?
 parent_permalink: /aaro-role/
 parent_nav_short_title: AARO Role
 parent_heading_title: How Much Authority Did AARO Give Him?
@@ -253,7 +253,7 @@ next_link:
   permalink: /trust-gap-3e8ea0/
   short_title: Trust gap
   heading_title: Can AARO's classified checks be trusted?
-date: '2026-06-09 02:57:51 '
+date: '2026-06-11 21:04:20 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1.webp
@@ -262,20 +262,18 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick
 
 ## Introduction
 
-[Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s appearance before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 April 2023 became one of the most important public tests of his credibility as director of the All-domain Anomaly Resolution Office (AARO). Unlike television interviews or opinion pieces, Senate testimony placed him under questioning from elected officials responsible for oversight of defence and intelligence activities. The hearing therefore carried greater evidential weight than ordinary public commentary. At the same time, it exposed an important limitation: much of what Kirkpatrick said rested on classified investigations that the public could not independently inspect. The hearing strengthened his standing as an official source on AARO’s work, but it did not resolve wider disputes about what evidence remained hidden from public view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
-
+Sean Kirkpatrick’s appearance before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 April 2023 became one of the most important public tests of his credibility as director of the All-domain Anomaly Resolution Office (AARO). Unlike television interviews or opinion pieces, Senate testimony placed him under questioning from elected officials responsible for oversight of defence and intelligence activities. The hearing therefore carried greater evidential weight than ordinary public commentary. At the same time, it exposed an important limitation: much of what Kirkpatrick said rested on classified investigations that the public could not independently inspect. The hearing strengthened his standing as an official source on AARO’s work, but it did not resolve wider disputes about what evidence remained hidden from public view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1-dark.svg" | relative_url }}" alt="Senate test illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Kirkpatrick claimed under congressional questioning
 
 Kirkpatrick presented AARO as a national-security and intelligence effort rather than a programme designed to confirm extraordinary UFO claims. He told senators that AARO was investigating more than [650 cases]({{ '650-cases/' | relative_url }}) and was focused on characterising, understanding and attributing reports, especially those occurring near areas of defence importance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Sean Kirkpatrick told lawmakers during a Senate Armed Services subcommittee hearing on Wednesday. To meet Congress&#x27; requirements, AARO mu...</span></span></span>
 
-The statement that attracted the most attention was his assessment that AARO had found “no credible evidence” of extraterrestrial activity, off-world technology, or objects that violated known laws of physics. He did not claim that every report had been solved. Instead, he argued that unresolved cases generally reflected insufficient data, incomplete sensor information, or ongoing analysis rather than proof of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpacePentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Today&#x27;s hearing echoed a previous hearing held last year o...</span></span></span>
+The statement that attracted the most attention was his assessment that AARO had found “no credible evidence” of extraterrestrial activity, off-world technology, or objects that violated known laws of physics. He did not claim that every report had been solved. Instead, he argued that unresolved cases generally reflected insufficient data, incomplete sensor information, or ongoing analysis rather than proof of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Today&#x27;s hearing echoed a previous hearing held last year o...</span></span></span>
 
-The hearing also featured examples intended to show how AARO approached evidence. Kirkpatrick presented videos of unidentified objects, including a metallic-looking orb recorded by an MQ-9 drone. Rather than treating such footage as proof of extraordinary technology, he walked senators through how investigators examined [sensor data]({{ 'sensor-data/' | relative_url }}), image artefacts, compression effects and alternative explanations before reaching conclusions. In one case, AARO assessed that apparently unusual motion was likely related to sensor effects rather than anomalous flight characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Middle East ObjectIn an open hearing on Unidentified Anomalous Phenomena before the Senate Armed Services Committee on April 19, Dr. Sean...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">Multimedia | U.S. Department of War</span><span class="citation-popover-snippet">May 31, 2023 — In a public meeting of NASA&#x27;s Independent Study Team on Unidentified Anomalous Phenomena (UAP) on May 31, 2023, Dr. Sean K...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+The hearing also featured examples intended to show how AARO approached evidence. Kirkpatrick presented videos of unidentified objects, including a metallic-looking orb recorded by an MQ-9 drone. Rather than treating such footage as proof of extraordinary technology, he walked senators through how investigators examined [sensor data]({{ 'sensor-data/' | relative_url }}), image artefacts, compression effects and alternative explanations before reaching conclusions. In one case, AARO assessed that apparently unusual motion was likely related to sensor effects rather than anomalous flight characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Middle East ObjectIn an open hearing on Unidentified Anomalous Phenomena before the Senate Armed Services Committee on April 19, Dr. Sean...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">Multimedia &#124; U.S. Department of War</span><span class="citation-popover-snippet">May 31, 2023 — In a public meeting of NASA&#x27;s Independent Study Team on Unidentified Anomalous Phenomena (UAP) on May 31, 2023, Dr. Sean K...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
-From a credibility perspective, this was significant because Kirkpatrick was not asking Congress to accept unexplained footage as evidence of alien craft. His testimony consistently framed unidentified objects as intelligence and safety questions requiring further investigation, not as confirmation of extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">Multimedia | U.S. Department of War</span><span class="citation-popover-snippet">May 31, 2023 — In a public meeting of NASA&#x27;s Independent Study Team on Unidentified Anomalous Phenomena (UAP) on May 31, 2023, Dr. Sean K...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>. Department of War
-
+From a credibility perspective, this was significant because Kirkpatrick was not asking Congress to accept unexplained footage as evidence of alien craft. His testimony consistently framed unidentified objects as intelligence and safety questions requiring further investigation, not as confirmation of extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">Multimedia &#124; U.S. Department of War</span><span class="citation-popover-snippet">May 31, 2023 — In a public meeting of NASA&#x27;s Independent Study Team on Unidentified Anomalous Phenomena (UAP) on May 31, 2023, Dr. Sean K...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>. Department of War
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoSZA7Meneg" title="Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer">Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure</a></p><p class="youtube-embed-meta">Channel: UAPsee &middot; Views: 1.3K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoSZA7Meneg">Open on YouTube</a></p></div></div></div>
 
@@ -289,7 +287,6 @@ Another factor that strengthened his standing was his willingness to acknowledge
 
 For [supporters]({{ 'supporters-0a40e4/' | relative_url }}), this hearing showed a technically trained official attempting to apply analytical standards to a field often dominated by speculation. The fact that portions of the overall briefing were conducted in both open and classified settings also reinforced the perception that Congress was receiving more information than the public could see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-2-dark.svg" | relative_url }}" alt="Senate test illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remained unanswered after the testimony
 
@@ -297,104 +294,59 @@ The hearing strengthened Kirkpatrick's institutional credibility, but it did not
 
 A second unresolved issue involved historical allegations of secret crash-retrieval or reverse-engineering programmes. Kirkpatrick's April 2023 testimony focused primarily on AARO's investigative mission and current casework. It did not provide a publicly inspectable resolution to claims that would later become central to congressional disputes during 2023 and beyond. As a result, critics argued that the hearing demonstrated process rather than proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
 
-Some UAP advocates also contended that the absence of publicly presented extraordinary evidence did not necessarily prove that no such evidence existed. From that perspective, Kirkpatrick's statements reflected the limits of what AARO had verified rather than a definitive refutation of all extraordinary claims. Supporters of his approach countered that the burden of proof rests on those making extraordinary assertions and that AARO had not found evidence meeting that standard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief No Evidence of ET?</span><span class="citation-popover-snippet">Controversy Erupted After the Senate...20 Apr 2023 — Early in yesterday&#x27;s hearing, Kirkpatrick stated that “AARO has found no credible e...</span></span></span> Space The hearing therefore left a fundamental credibility question unresolved: should the public place greater weight on an official investigation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span> that cannot fully reveal its evidence, or on whistleblower and witness accounts that often cannot be independently verified? Kirkpatrick's testimony did not answer that question, but it clarified where he stood. He asked Congress and the public to judge claims according to documented evidence, sensor data and investigative findings rather than anecdote alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Sean Kirkpatrick told lawmakers during a Senate Armed Services subcommittee hearing on Wednesday. To meet Congress&#x27; requirements, AARO mu...</span></span></span>
+Some UAP advocates also contended that the absence of publicly presented extraordinary evidence did not necessarily prove that no such evidence existed. From that perspective, Kirkpatrick's statements reflected the limits of what AARO had verified rather than a definitive refutation of all extraordinary claims. Supporters of his approach countered that the burden of proof rests on those making extraordinary assertions and that AARO had not found evidence meeting that standard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief No Evidence of ET?</span><span class="citation-popover-snippet">Controversy Erupted After the Senate...20 Apr 2023 — Early in yesterday&#x27;s hearing, Kirkpatrick stated that “AARO has found no credible e...</span></span></span> Space The hearing therefore left a fundamental credibility question unresolved: should the public place greater weight on an official investigation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span> that cannot fully reveal its evidence, or on whistleblower and witness accounts that often cannot be independently verified? Kirkpatrick's testimony did not answer that question, but it clarified where he stood. He asked Congress and the public to judge claims according to documented evidence, sensor data and investigative findings rather than anecdote alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Sean Kirkpatrick told lawmakers during a Senate Armed Services subcommittee hearing on Wednesday. To meet Congress&#x27; requirements, AARO mu...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ifpLXP0poug" title="Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer">Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 282.0K &middot; Uploaded: July 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ifpLXP0poug">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EVRRlKHrcic" title="Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that defy physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EVRRlKHrcic" target="_blank" rel="noopener noreferrer">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that defy physics</a></p><p class="youtube-embed-meta">Channel: Endless Horizons &middot; Views: 105 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EVRRlKHrcic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EVRRlKHrcic">Open on YouTube</a></p></div></div></div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kbL1yuMykZo" title="DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer">DECLASSIFIED VIDEO: UFO FILES - South Asian Object 1</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 43.2K &middot; Uploaded: April 2023 &middot; Length: 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kbL1yuMykZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kbL1yuMykZo">Open on YouTube</a></p></div></div></div>
-
 ## The Senate test in retrospect
 
-As a credibility test, the April 2023 [Senate hearing]({{ 'senate-hearing/' | relative_url }}) largely succeeded in demonstrating that Kirkpatrick operated as a cautious government investigator rather than a promoter of extraordinary UFO narratives. His testimony showed familiarity with the data available to AARO, explained investigative methods and maintained clear distinctions between known, unknown and unresolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DefenseScoopSenate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Senate&#x27;s intelligence authorization bill questi...</span></span></span>
+As a credibility test, the April 2023 [Senate hearing]({{ 'senate-hearing/' | relative_url }}) largely succeeded in demonstrating that Kirkpatrick operated as a cautious government investigator rather than a promoter of extraordinary UFO narratives. His testimony showed familiarity with the data available to AARO, explained investigative methods and maintained clear distinctions between known, unknown and unresolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">Senate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Senate&#x27;s intelligence authorization bill questi...</span></span></span>
 
-However, the hearing also highlighted the inherent weakness of institutional credibility in classified environments. Congress could question him directly, but the public often had to evaluate his conclusions without seeing all supporting evidence. Consequently, the hearing strengthened confidence in Kirkpatrick's role and process while leaving room for continuing disagreement over whether AARO's public disclosures were sufficient to justify its conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span>
-
+However, the hearing also highlighted the inherent weakness of institutional credibility in classified environments. Congress could question him directly, but the public often had to evaluate his conclusions without seeing all supporting evidence. Consequently, the hearing strengthened confidence in Kirkpatrick's role and process while leaving room for continuing disagreement over whether AARO's public disclosures were sufficient to justify its conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Date: Wednesday,</span><span class="citation-popover-snippet">Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">government has evidence that aliens</span><span class="citation-popover-snippet">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-3-dark.svg" | relative_url }}" alt="Senate test illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What the Senate hearing proved and did not. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What the Senate hearing proved and did not, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly addresses government testimony, military witnesses, and official investigations that parallel Senate hearing discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores claims, evidence standards, and government handling of UAP information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Provides institutional and national-security framing similar to issues raised during congressional hearings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on investigation standards and evidential evaluation rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -431,15 +383,15 @@ However, the hearing also highlighted the inherent weakness of institutional cre
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -447,15 +399,15 @@ However, the hearing also highlighted the inherent weakness of institutional cre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +415,31 @@ However, the hearing also highlighted the inherent weakness of institutional cre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,7 +447,7 @@ However, the hearing also highlighted the inherent weakness of institutional cre
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-senate-hearing-proved-and-did-not-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-the-senate-hearing-proved-and-did-not-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -695,161 +663,161 @@ However, the hearing also highlighted the inherent weakness of institutional cre
 1. <a id="endnote-1"></a>
    Source: armed-services.senate.gov  
    Title: Date: Wednesday,  
-   Link: [https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office](https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office)  
+   Link: <a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</p></details>
    Published: April 19, 2023  
 
 2. <a id="endnote-2"></a>
    Source: armed-services.senate.gov  
-   Link: [https://www.armed-services.senate.gov/download/transcript-4-19-2023](https://www.armed-services.senate.gov/download/transcript-4-19-2023)  
+   Link: <a href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript-4-19-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: defensescoop.com  
    Title: pentagons uap office now investigating more than 650 cases  
-   Link: [https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/](https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/)  
+   Link: <a href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick told lawmakers during a Senate Armed Services subcommittee hearing on Wednesday. To meet Congress&#x27; requirements, AARO mu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: government has evidence that aliens  
-   Link: [https://www.space.com/pentagon-aaro-ufo-hearing-april-2023](https://www.space.com/pentagon-aaro-ufo-hearing-april-2023)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</p></details>
+   Link: <a href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-aaro-ufo-hearing-april-2023</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — In a hearing on April 19, the director of the Pentagon&#x27;s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Today&#x27;s hearing echoed a previous hearing held last year o...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Today&#x27;s hearing echoed a previous hearing held last year o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/880273/middle-east-object](https://www.dvidshub.net/video/880273/middle-east-object)  
+   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East ObjectIn an open hearing on Unidentified Anomalous Phenomena before the Senate Armed Services Committee on April 19, Dr. Sean...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — In a Senate hearing, Sean M. Kirkpatrick, AARO dire...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/](https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — Let me start by thanking Under Secretary Moultr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gillibrand.senate.gov  
-   Link: [https://www.gillibrand.senate.gov/news/press/release/video-gillibrand-opening-statement-at-senate-hearing-on-unidentified-anomalous-phenomena/](https://www.gillibrand.senate.gov/news/press/release/video-gillibrand-opening-statement-at-senate-hearing-on-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/video-gillibrand-opening-statement-at-senate-hearing-on-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/video-gillibrand-opening-statement-at-senate-hearing-on-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Video] Gillibrand Opening Statement At Senate Hearing...19 Apr 2023 — Kirkpatrick can achieve the necessary control over sensor “filter...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/](https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoopSenate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Senate&#x27;s intelligence authorization bill questi...</p></details>
+   Link: <a href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate&#x27;s intelligence authorization bill questions &#x27;reverse...Jun 27, 2023 — Senate&#x27;s intelligence authorization bill questi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/tag/sean-kirkpatrick/](https://defensescoop.com/tag/sean-kirkpatrick/)  
+   Link: <a href="https://defensescoop.com/tag/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/tag/sean-kirkpatrick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick ArchivesDefenseScoop was briefed on how Sean Kirkpatrick has been spending his final days with DOD — and the new acting...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: Multimedia | U.S. Department of War  
-   Link: [https://www.war.gov/Multimedia/videoid/885190/](https://www.war.gov/Multimedia/videoid/885190/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885190/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 31, 2023 — In a public meeting of NASA&#x27;s Independent Study Team on Unidentified Anomalous Phenomena (UAP) on May 31, 2023, Dr. Sean K...</p></details>
    Published: May 31, 2023  
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/videoid/880271/](https://www.war.gov/Multimedia/videoid/880271/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/880271/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880271/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multimedia | U.S. Department of War15 Jan 2023 — In an open hearing on Unidentified Anomalous Phenomena before the Senate Armed Services...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: senate.gov  
-   Link: [https://www.senate.gov/](https://www.senate.gov/)  
+   Link: <a href="https://www.senate.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dea of the Senate, Parties &amp; Leadership...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
    Title: The Debrief No Evidence of ET?  
-   Link: [https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/](https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/)  
+   Link: <a href="https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Controversy Erupted After the Senate...20 Apr 2023 — Early in yesterday&#x27;s hearing, Kirkpatrick stated that “AARO has found no credible e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/April](https://en.wikipedia.org/wiki/April)  
+   Link: <a href="https://en.wikipedia.org/wiki/April" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/April</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AprilApril is the fourth month of the year in the Gregorian and Julian calendars. Its length is 30 days. April is commonly associated...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/880293/dod-official-testifies-before-senate-subcommittee](https://www.dvidshub.net/video/880293/dod-official-testifies-before-senate-subcommittee)  
+   Link: <a href="https://www.dvidshub.net/video/880293/dod-official-testifies-before-senate-subcommittee" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880293/dod-official-testifies-before-senate-subcommittee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Official Testifies Before Senate SubcommitteeKirkpatrick testifies about the office&#x27;s mission and activities before the Subcommittee...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/april](https://dictionary.cambridge.org/dictionary/english/april)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarythe fourth month of the year, after March and before May. We came back in April. The meeting is o...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/april" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/april</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe fourth month of the year, after March and before May. We came back in April. The meeting is o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedebrief.org  
    Title: april 19th senate hearing on uap the shot heard round the world  
-   Link: [https://thedebrief.org/april-19th-senate-hearing-on-uap-the-shot-heard-round-the-world/](https://thedebrief.org/april-19th-senate-hearing-on-uap-the-shot-heard-round-the-world/)  
+   Link: <a href="https://thedebrief.org/april-19th-senate-hearing-on-uap-the-shot-heard-round-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/april-19th-senate-hearing-on-uap-the-shot-heard-round-the-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick&#x27;s visit to the Lexington Green neighborhood where I reside half a year ago. Subsequently, I had the...Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/calendar/months/april.html](https://www.timeanddate.com/calendar/months/april.html)  
+   Link: <a href="https://www.timeanddate.com/calendar/months/april.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/calendar/months/april.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April: Fourth Month of the YearApril is the fourth month in the Gregorian calendar and has 30 days. It is the second month of astronomica...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous](https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous)  
+   Link: <a href="https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released UFO video broken down &#x27;frame by frame&#x27; by...Two videos of reported UFO sightings shown during last week&#x27;s Senate hearing...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CjFiYIeBHfI](https://www.youtube.com/watch?v=CjFiYIeBHfI)  
+   Link: <a href="https://www.youtube.com/watch?v=CjFiYIeBHfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CjFiYIeBHfI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April Fun Facts | 10 surprising things that happened in AprilApril is a month full of interesting historical events and facts today we ar...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RxLix1ns2CM](https://www.youtube.com/watch?v=RxLix1ns2CM)  
+   Link: <a href="https://www.youtube.com/watch?v=RxLix1ns2CM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RxLix1ns2CM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SASC Hearing on AARO &amp; UAPs — Dr. Sean Kirkpatrick...Full public hearing before the Senate Armed Services Subcommittee on Emerging Threa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: universetoday.com  
    Title: ufo office fails to find anything that defies the laws of physics  
-   Link: [https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics](https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics)  
+   Link: <a href="https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick said told the Senate Armed Services Subcommittee on Emerging Threats and Capabilities. &quot;The majority of unidentified objects...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: avi-loeb.medium.com  
    Title: afterthoughts on the second uap senate hearing 7ceeacb1caf8  
-   Link: [https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8](https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8)  
+   Link: <a href="https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Second UAP Senate Hearing | by Avi LoebSean M. Kirkpatrick, was the sole witness in a public hearing at the Senate Subcommittee on...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: jbsa.mil  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3368783/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3368783/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3368783/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3368783/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, AARO director, shared a video depicting an unidentified object with an apparent atmospheric wake or...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GFjegRAahmA](https://www.youtube.com/watch?v=GFjegRAahmA)  
+   Link: <a href="https://www.youtube.com/watch?v=GFjegRAahmA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFjegRAahmA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nextgov.com  
    Title: pentagons ufo chief testify congress  
-   Link: [https://www.nextgov.com/digital-government/2023/04/pentagons-ufo-chief-testify-congress/385324/](https://www.nextgov.com/digital-government/2023/04/pentagons-ufo-chief-testify-congress/385324/)  
+   Link: <a href="https://www.nextgov.com/digital-government/2023/04/pentagons-ufo-chief-testify-congress/385324/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2023/04/pentagons-ufo-chief-testify-congress/385324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Chief to Testify Before Congress18 Apr 2023 — A Senate subcommittee on Wednesday will hear testimony from the Pentagon&#x27;s l...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: [https://www.rev.com/transcripts/house-uap-whistleblower-hearing](https://www.rev.com/transcripts/house-uap-whistleblower-hearing)  
+   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcrip...</p></details>

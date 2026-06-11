@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /off-world-claim/
 nav_short_title: Reid Wording
 title: How cautious wording became a stronger story
-title_full: How cautious wording became a stronger story | Off World Claim
+title_full: How cautious wording became a stronger story
 display_title_short: Reid Wording
 display_title: Reid Wording
 heading_title: How cautious wording became a stronger story
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What About The Off World Vehicles Claim? | Davis
+parent_title: What About The Off World Vehicles Claim?
 parent_permalink: /off-world-claim/
 parent_nav_short_title: Off World Claim
 parent_heading_title: What About The Off World Vehicles Claim?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /briefing-trail/
   short_title: Briefing Trail
   heading_title: Who actually heard the off world claim?
-date: '2026-06-09 03:05:14 '
+date: '2026-06-11 21:07:31 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording
 
 ## Introduction
 
-The Harry Reid episode is a useful case study in how UFO and UAP stories can become stronger in public retelling than the underlying evidence supports. In discussions around [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s reported briefing on “off-world vehicles not made on this Earth”, former Senate majority leader Harry Reid was often presented as an authoritative political figure who had effectively confirmed crash retrievals. Yet the public record shows something more cautious. Reid repeatedly framed the issue as a possibility worth investigating rather than a proven fact. The gap between those two positions became one of the clearest examples of media inflation in the modern UAP [debate]({{ 'debate/' | relative_url }}).
-
+The Harry Reid episode is a useful case study in how UFO and UAP stories can become stronger in public retelling than the underlying evidence supports. In discussions around Eric Davis’s reported briefing on “off-world vehicles not made on this Earth”, former Senate majority leader Harry Reid was often presented as an authoritative political figure who had effectively confirmed crash retrievals. Yet the public record shows something more cautious. Reid repeatedly framed the issue as a possibility worth investigating rather than a proven fact. The gap between those two positions became one of the clearest examples of media inflation in the modern UAP [debate]({{ 'debate/' | relative_url }}).
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-1-dark.svg" | relative_url }}" alt="Reid Wording illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because Reid was not a random commentator. He helped support Pentagon-funded UFO-related research efforts and was frequently cited as an insider voice. When reporting attributed stronger claims to him than he later accepted, the distinction affected how readers interpreted both Eric Davis’s statements and the broader narrative that governments possessed recovered non-human technology.
@@ -280,11 +279,10 @@ One version implies:
 
 The corrected version implies:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guylucas.com">[* Crashes might have happened.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guylucas.com</span><span class="citation-popover-title">no the government didnt admit aliens are here</span><span class="citation-popover-snippet">Reid said he believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guylucas.com">[* The origin remained unknown.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guylucas.com</span><span class="citation-popover-title">no the government didnt admit aliens are here</span><span class="citation-popover-snippet">Reid said he believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not...</span></span></span>
+* Crashes might have happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guylucas.com">[guylucas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guylucas.com</span><span class="citation-popover-title">no the government didnt admit aliens are here</span><span class="citation-popover-snippet">Reid said he believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not...</span></span></span> * The origin remained unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guylucas.com">[guylucas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guylucas.com</span><span class="citation-popover-title">no the government didnt admit aliens are here</span><span class="citation-popover-snippet">Reid said he believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not...</span></span></span>
 * Materials, if they existed, deserved investigation.
 
 Those are not equivalent statements. Yet many later discussions treated them as if they were.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x81QwIOXpAI" title="I-Team Exclusive: Reid says UFOs not necessarily from other worlds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x81QwIOXpAI" target="_blank" rel="noopener noreferrer">I-Team Exclusive: Reid says UFOs not necessarily from other worlds</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 204.5K &middot; Uploaded: July 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x81QwIOXpAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x81QwIOXpAI">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +310,6 @@ Reid himself later pushed back against stronger claims. Accounts of his response
 
 The episode did not prove that crash-retrieval claims were false. It demonstrated something narrower but still important: a major public figure associated with UAP investigations had his position presented in a way that exceeded what he later accepted as his actual view.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-2-dark.svg" | relative_url }}" alt="Reid Wording illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why media inflation happened so easily
 
@@ -326,7 +323,6 @@ Third, the strongest possible interpretation generated the most attention. “A 
 
 The result was a common information pattern:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A cautious statement is made.
@@ -338,7 +334,6 @@ The result was a common information pattern:
 </div>
 
 The Reid case illustrates how this process can occur even when no deliberate fabrication is involved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XZWV-AkFn9o" title="Former Nevada Sen. Harry Reid shares what he saw at Area 51, thoughts on UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XZWV-AkFn9o" target="_blank" rel="noopener noreferrer">Former Nevada Sen. Harry Reid shares what he saw at Area 51, thoughts on UFOs</a></p><p class="youtube-embed-meta">Channel: KTNV Channel 13 Las Vegas &middot; Views: 444.5K &middot; Uploaded: June 2021 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XZWV-AkFn9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XZWV-AkFn9o">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +349,6 @@ Once Reid's position was clarified, however, that apparent corroboration became 
 
 The corrected record suggests:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Davis was associated with reports about alleged retrievals.
@@ -366,7 +360,6 @@ The corrected record suggests:
 
 That leaves the core evidential problem unchanged. The story remains built largely on claims about what insiders believed, heard or were briefed on, rather than on publicly inspectable proof.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-3-dark.svg" | relative_url }}" alt="Reid Wording illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_reid_wording_media_i_c0eb56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the episode reveals about UFO evidence standards
 
@@ -375,7 +368,6 @@ The Reid wording dispute highlights a broader credibility issue in modern UAP de
 In ordinary reporting, words such as “may”, “possible”, “reported” and “unknown” are caution markers. In UFO discourse, those qualifiers are often stripped away as stories move through headlines, social media and commentary channels. What begins as a discussion of possibilities can gradually become a narrative of established fact.
 
 For readers assessing Eric Davis and related crash-retrieval claims, the Reid example serves as a reminder to separate three different levels of assertion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,9 +379,7 @@ For readers assessing Eric Davis and related crash-retrieval claims, the Reid ex
 
 The Harry Reid episode sits squarely in that third category. It shows how quickly uncertainty can harden into folklore, and why careful attention to original wording remains essential when evaluating extraordinary claims about recovered “off-world” technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UuYCa-65hhI" title="Former Nevada Sen. Harry Reid saw &#x27;classified&#x27; things at Area 51" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UuYCa-65hhI" target="_blank" rel="noopener noreferrer">Former Nevada Sen. Harry Reid saw &#x27;classified&#x27; things at Area 51</a></p><p class="youtube-embed-meta">Channel: KTNV Channel 13 Las Vegas &middot; Views: 20.9K &middot; Uploaded: May 2021 &middot; Length: 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UuYCa-65hhI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UuYCa-65hhI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -508,15 +498,15 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +514,15 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +530,15 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +562,7 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="reid-wording-how-cautious-wording-became-a-stronger-story-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-cautious-wording-became-a-stronger-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-cautious-wording-became-a-stronger-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,58 +778,58 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
 1. <a id="endnote-1"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>off-world vehicles not made on this earth.” Mr. Davis said he also gave classified briefings on retrievals of unexplained objects to staf...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 3. <a id="endnote-3"></a>
    Source: nymag.com  
    Title: ufo report pentagon has off world vehicles not from earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...24 Jul 2020 — The latest UFO report from the &#x27;Times&#x27; says a de...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: newyorker.com  
    Title: The New Yorker How the Pentagon Started Taking U.F.O.s Seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — In the story, Kean and Blumenthal wrote tha...</p></details>
    Published: April 30, 2021  
 
 5. <a id="endnote-5"></a>
    Source: guylucas.com  
    Title: no the government didnt admit aliens are here  
-   Link: [https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/](https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/)  
+   Link: <a href="https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/" target="_blank" rel="noopener noreferrer nofollow">https://guylucas.com/2020/08/07/no-the-government-didnt-admit-aliens-are-here/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reid said he believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerUFOs Come Out of the Shadows. Again. Perhaps.... objects of unknown origin may have occurred and that retrieved materia...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — In speaking with the New York Times, Reid sai...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: outkick.com  
-   Link: [https://www.outkick.com/analysis/former-senate-majority-leader-says-ufos-have-crashed-here-and-we-have-their-parts](https://www.outkick.com/analysis/former-senate-majority-leader-says-ufos-have-crashed-here-and-we-have-their-parts)  
+   Link: <a href="https://www.outkick.com/analysis/former-senate-majority-leader-says-ufos-have-crashed-here-and-we-have-their-parts" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/analysis/former-senate-majority-leader-says-ufos-have-crashed-here-and-we-have-their-parts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>unknown origin may have occurred and the retrieved materials should be studied.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: foxnews.com  
    Title: Fox News Former Sen  
-   Link: [https://www.foxnews.com/science/harry-reid-lockheed-martin-ufo-fragments](https://www.foxnews.com/science/harry-reid-lockheed-martin-ufo-fragments)  
+   Link: <a href="https://www.foxnews.com/science/harry-reid-lockheed-martin-ufo-fragments" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/harry-reid-lockheed-martin-ufo-fragments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid thinks Lockheed Martin may have...1 May 2021 — Harry Reid believes U.S. defense contractor Lockheed Martin may have once had...</p></details>
    Published: May 2021  
 
 10. <a id="endnote-10"></a>
    Source: boingboing.net  
-   Link: [https://boingboing.net/2021/05/03/841245.html](https://boingboing.net/2021/05/03/841245.html)  
+   Link: <a href="https://boingboing.net/2021/05/03/841245.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2021/05/03/841245.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boing BoingFormer Senator Harry Reid: Lockheed has crashed UFO...3 May 2021 — &quot;I was told for decades that Lockheed had some of these re...</p></details>
    Published: May 2021  
 
@@ -847,51 +837,51 @@ The Harry Reid episode sits squarely in that third category. It shows how quickl
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/](https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/not-everyone-may-agree-about-what-the-first-batch-of-ufo-files-released-by-the-t/993307909742893/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not everyone may agree about what the first batch of UFO...” In fact, Davis briefed a DoD agency as recently as March about retrieving m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nytimes/posts/breaking-news-the-pentagon-made-public-what-it-called-never-before-seen-files-on/1365894482059678/](https://www.facebook.com/nytimes/posts/breaking-news-the-pentagon-made-public-what-it-called-never-before-seen-files-on/1365894482059678/)  
+   Link: <a href="https://www.facebook.com/nytimes/posts/breaking-news-the-pentagon-made-public-what-it-called-never-before-seen-files-on/1365894482059678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/posts/breaking-news-the-pentagon-made-public-what-it-called-never-before-seen-files-on/1365894482059678/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Files on UFOsThe Pentagon explains why it hides UFOs The Navy appeared to acknowledge it has additional footage, but ci...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Consultant Briefed Senators on &#x27;Off-World...24 Jul 2020 — Davis said that in some cases he had failed to determine the source o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: slow-journalism.com  
-   Link: [https://www.slow-journalism.com/long-reads/some-conspiracy-theories-turn-out-to-be-true-why-did-the-us-government-finally-vindicate-the-ufo-hunters](https://www.slow-journalism.com/long-reads/some-conspiracy-theories-turn-out-to-be-true-why-did-the-us-government-finally-vindicate-the-ufo-hunters)  
+   Link: <a href="https://www.slow-journalism.com/long-reads/some-conspiracy-theories-turn-out-to-be-true-why-did-the-us-government-finally-vindicate-the-ufo-hunters" target="_blank" rel="noopener noreferrer nofollow">https://www.slow-journalism.com/long-reads/some-conspiracy-theories-turn-out-to-be-true-why-did-the-us-government-finally-vindicate-the-ufo-hunters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Some conspiracy theories turn out to be true…” Did the US...27 Apr 2020 — The next day, though, they ran a correction: Mr Reid said he...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: salon.com  
    Title: former sen harry reid i was told lockheed martin had ufo crash fragments  
-   Link: [https://www.salon.com/2021/05/01/former-sen-harry-reid-i-was-told-lockheed-martin-had-ufo-crash-fragments/](https://www.salon.com/2021/05/01/former-sen-harry-reid-i-was-told-lockheed-martin-had-ufo-crash-fragments/)  
+   Link: <a href="https://www.salon.com/2021/05/01/former-sen-harry-reid-i-was-told-lockheed-martin-had-ufo-crash-fragments/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2021/05/01/former-sen-harry-reid-i-was-told-lockheed-martin-had-ufo-crash-fragments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I was told Lockheed Martin had UFO crash fragments1 May 2021 — A government contractor may have fragments recovered from the US crash sit...</p></details>
    Published: May 2021  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x81QwIOXpAI](https://www.youtube.com/watch?v=x81QwIOXpAI)  
+   Link: <a href="https://www.youtube.com/watch?v=x81QwIOXpAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x81QwIOXpAI</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/giantfreakinrobot/posts/the-us-pentagon-has-issued-a-report-which-reveals-the-existence-of-an-alien-spac/813451390828836/](https://www.facebook.com/giantfreakinrobot/posts/the-us-pentagon-has-issued-a-report-which-reveals-the-existence-of-an-alien-spac/813451390828836/)  
+   Link: <a href="https://www.facebook.com/giantfreakinrobot/posts/the-us-pentagon-has-issued-a-report-which-reveals-the-existence-of-an-alien-spac/813451390828836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/giantfreakinrobot/posts/the-us-pentagon-has-issued-a-report-which-reveals-the-existence-of-an-alien-spac/813451390828836/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>als should be studied. &#x27;Davis, who once produced a report...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force](https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force)  
+   Link: <a href="https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r Harry Reid after writing: “Mr. Reid, the former...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/](https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/)  
+   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n the past and that the recovered materials should be studied...</p></details>

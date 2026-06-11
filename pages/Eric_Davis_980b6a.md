@@ -304,7 +304,7 @@ next_link:
   title: Puthoff
   permalink: /how-credible-is-hal-puthoff/
   short_title: Puthoff
-date: '2026-06-09 03:03:06 '
+date: '2026-06-11 21:06:52 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a-overview.webp
@@ -314,7 +314,6 @@ image: /assets/images/Eric_Davis_980b6a-overview-social.jpg
 ## Introduction
 
 A fair credibility assessment therefore lands in a middle position. Davis is more institutionally connected than many UFO personalities, and some of his professional background is documentable. But institutional proximity is not the same as proof of non-human craft, secret reverse-engineering programmes, or recovered “off-world” vehicles. His value to the UAP [debate]({{ 'debate/' | relative_url }}) is as a technically literate insider-adjacent source whose claims deserve careful handling, not as a source whose statements can be treated as established fact.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a-overview.webp" | relative_url }}" alt="Overview image for How Credible Is Eric Davis?" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Eric Davis is, and what can be verified
@@ -331,10 +330,9 @@ The claims most closely associated with Davis fall into three different categori
 
 First, he has authored or participated in speculative advanced-[propulsion work]({{ 'propulsion-work/' | relative_url }}). This includes official or officially released studies on concepts such as traversable wormholes, warp drives, negative energy and teleportation-related physics. These are not, on their own, UFO claims. They are theoretical or horizon-scanning research topics, some of which were funded or collected under defence-intelligence programmes concerned with future aerospace threats and capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> Intelligence Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech Second]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span>, Davis has been linked to the AAWSAP/AATIP ecosystem. The Black Vault’s archive of released AAWSAP/AATIP-related documents notes that most of the DIA’s Defense Intelligence Reference Documents have been released through FOIA, and that Davis authored some of the better-known speculative papers. A DIA FOIA response to John Greenewald located 37 responsive documents from the relevant document set, though portions were withheld under exemptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the advanced aviation threat identification program aatip dird report research</span><span class="citation-popover-snippet">the advanced aviation threat identification program aatip dird report research</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the advanced aviation threat identification program aatip dird report research</span><span class="citation-popover-snippet">the advanced aviation threat identification program aatip dird report research</span></span></span>
 
-Third, Davis is associated with stronger UAP claims about recovered objects and inaccessible black programmes. The most famous example is the “Wilson-Davis memo”, a leaked document that purports to record a 2002 conversation between Davis and Admiral Thomas Wilson, a former Director of the Defense Intelligence Agency. The document appears to describe Wilson being denied access to a deeply hidden programme allegedly connected to reverse-engineering recovered craft. But the memo’s authenticity, completeness, interpretation and factual accuracy remain disputed; it is not an official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Third, Davis is associated with stronger UAP claims about recovered objects and inaccessible black programmes. The most famous example is the “Wilson-Davis memo”, a leaked document that purports to record a 2002 conversation between Davis and Admiral Thomas Wilson, a former Director of the Defense Intelligence Agency. The document appears to describe Wilson being denied access to a deeply hidden programme allegedly connected to reverse-engineering recovered craft. But the memo’s authenticity, completeness, interpretation and factual accuracy remain disputed; it is not an official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The other headline claim came through reporting that Davis had briefed officials about “off-world vehicles not made on this earth”. Subsequent coverage made clear that this was presented as Davis’s claim or conclusion, not as a public Pentagon confirmation. New York magazine’s summary of the 2020 reporting stressed that Davis was among a small group of former officials and scientists saying they were convinced by such claims “without presenting physical proof”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gvwire.com">[GV Wire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gvwire.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a-Illustration-1-dark.svg" | relative_url }}" alt="How Credible Is Eric Davis? illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AAWSAP/AATIP connection: real paperwork, contested meaning
@@ -346,7 +344,6 @@ The strongest documentation here is not a dramatic witness statement but a dull 
 Sceptics respond that the same paper trail cuts the other way. The existence of government-funded speculative studies does not prove that the government possessed exotic craft. A document about wormholes shows interest in far-future theoretical possibilities, not access to an operational stargate. The National Taxpayers Union Foundation, for example, treated the DIA-funded studies as evidence of questionable spending on highly speculative topics, not evidence that the extraordinary subject matter had been validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.org">[National Taxpayers Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.org</span><span class="citation-popover-title">taxpayers paid for research into stargates warp drive in secret defense program</span><span class="citation-popover-snippet">taxpayers paid for research into stargates warp drive in secret defense program</span></span></span>
 
 The best reading is that Davis’s AAWSAP/AATIP connection is real but often over-interpreted. It supports the claim that he had proximity to official advanced aerospace and UAP-related inquiry. It does not independently verify the more explosive claims that later became attached to the same network.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LnAiNChnuEQ" title="Eric Davis: “A US President Was Briefed on UFOs!”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LnAiNChnuEQ" target="_blank" rel="noopener noreferrer">Eric Davis: “A US President Was Briefed on UFOs!”</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 200.2K &middot; Uploaded: December 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LnAiNChnuEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LnAiNChnuEQ">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +357,6 @@ Supporters argue that the memo’s level of detail, Davis’s technical and inst
 
 For credibility, the memo is a double-edged document. It makes Davis highly relevant because he is attached to one of the most discussed crash-retrieval allegations in modern UAP culture. But it also leaves him exposed to the central evidential problem of the whole subject: a dramatic claim without public physical evidence, official confirmation or a clean independent chain of custody.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a-Illustration-2-dark.svg" | relative_url }}" alt="How Credible Is Eric Davis? illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## “Off-world vehicles”: the strongest claim with the weakest public proof
 
@@ -371,7 +367,6 @@ The careful reading is less dramatic. The public record shows that Davis reporte
 Later reporting weakened the evidential status of at least some material-related claims. The Wall Street Journal reported that a sample linked to UFO speculation and tested through an Army-connected pathway was ultimately assessed by Oak Ridge National Laboratory as terrestrial in origin, likely from a Second World War-era artefact. The same article placed Davis and Hal Puthoff within a broader ecosystem of Pentagon-linked exotic-material and UAP claims, while noting that official investigation failed to produce tangible proof of alien technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Kirkpatrick&#x27;s investigation unearthed a mix of fringe science, conspiracy theories, and shadowy government projects involving figures lik...</span></span></span>
 
 That does not prove Davis was dishonest. It does show the danger of turning “we cannot presently identify this” into “this is not from Earth”. In credibility terms, the “off-world vehicles” claim is high-impact but low-transparency. It relies heavily on Davis’s asserted access and judgement, while the public evidence available so far remains insufficient to validate the conclusion.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I8bKWzWfMvE" title="Pentagon Has Off-World Vehicles Not Made on This Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer">Pentagon Has Off-World Vehicles Not Made on This Earth</a></p><p class="youtube-embed-meta">Channel: Lew Later &middot; Views: 514.5K &middot; Uploaded: July 2020 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I8bKWzWfMvE">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +380,6 @@ Its conclusion was sceptical: AARO reported that it found no empirical evidence 
 
 For Davis, AARO does not settle every question. A believer can argue that AARO lacked access, that witnesses withheld details, or that public reports omit classified findings. But those are arguments about possible missing evidence, not evidence itself. As a public credibility marker, AARO’s findings narrow the space in which Davis’s strongest claims can be treated as proven. They remain allegations or insider claims unless better corroboration appears.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a-Illustration-3-dark.svg" | relative_url }}" alt="How Credible Is Eric Davis? illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supporters’ best case for taking Davis seriously
 
@@ -397,12 +391,11 @@ This case is strongest when framed modestly: Davis is a serious person worth int
 
 ## Sceptics’ best case for caution
 
-The sceptical case is not simply that UFOs are silly. It is that Davis’s most important UAP claims suffer from familiar evidential weaknesses: hearsay, leaked documents, classified-source appeals, ambiguous material samples, and a lack of public chain of custody. Those weaknesses remain even when the person making the claim has real credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span> Metabunk Sceptics also note that speculative defence research can be mistaken for validation. A government-funded paper on warp drives or wormholes pr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the congressional uap hearings debrief.13077</span><span class="citation-popover-snippet">the congressional uap hearings debrief.13077</span></span></span> oves that someone was paid to study a concept; it does not prove that the concept is operational, that UAP use it, or that recovered craft exist. Davis’s own technical topics can look exotic enough to encourage over-reading by audiences already primed for hidden-technology narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The sceptical case is not simply that UFOs are silly. It is that Davis’s most important UAP claims suffer from familiar evidential weaknesses: hearsay, leaked documents, classified-source appeals, ambiguous material samples, and a lack of public chain of custody. Those weaknesses remain even when the person making the claim has real credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span> Metabunk Sceptics also note that speculative defence research can be mistaken for validation. A government-funded paper on warp drives or wormholes pr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the congressional uap hearings debrief.13077</span><span class="citation-popover-snippet">the congressional uap hearings debrief.13077</span></span></span> oves that someone was paid to study a concept; it does not prove that the concept is operational, that UAP use it, or that recovered craft exist. Davis’s own technical topics can look exotic enough to encourage over-reading by audiences already primed for hidden-technology narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A further caution is network effects. The modern UAP disclosure world contains a relatively small set of recurring names, institutions and claims. AARO’s report specifically warned about circular reporting in which people who share similar beliefs repeat claims that appear independent but trace back to a limited network. That criticism, whether fully accepted or not, is directly relevant to Davis because his claims are often cited within that same ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Document Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-title">HHRG 118 GO12 Wstate ShellenbergerM 20241113</span><span class="citation-popover-snippet">HHRG 118 GO12 Wstate ShellenbergerM 20241113</span></span></span>
 
 The sceptical position is strongest when it avoids dismissing Davis’s real background and focuses instead on proof standards. A credible person can report an unverified claim. A classified briefing can contain an allegation rather than a confirmed fact. A leaked memo can be interesting without being decisive.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xnxasfyHtfo" title="Eric Weinstein Demands UFO Secrets From Pentagon Scientist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer">Eric Weinstein Demands UFO Secrets From Pentagon Scientist</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 707.6K &middot; Uploaded: March 2026 &middot; Length: 3 hours 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xnxasfyHtfo">Open on YouTube</a></p></div></div></div>
 
@@ -531,15 +524,15 @@ The fairest summary is this: Davis is credible on his own professional proximity
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +540,15 @@ The fairest summary is this: Davis is credible on his own professional proximity
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +556,15 @@ The fairest summary is this: Davis is credible on his own professional proximity
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey"><img src="{{ '/assets/images/marketplace-covers/5c425c6e928e887d9e6e.jpg' | relative_url }}" alt="Listing image for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +572,15 @@ The fairest summary is this: Davis is credible on his own professional proximity
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +588,7 @@ The fairest summary is this: Davis is credible on his own professional proximity
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-eric-davis-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap t shirt" data-ebay-reference="how-credible-is-eric-davis-eric-davis-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-eric-davis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-credible-is-eric-davis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -811,225 +804,225 @@ The fairest summary is this: Davis is credible on his own professional proximity
 1. <a id="endnote-1"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
 
 5. <a id="endnote-5"></a>
    Source: earthtech.org  
    Title: teleportation via Wormhole Stargates Eric Davis  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
 
 7. <a id="endnote-7"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69](https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69)  
+   Link: <a href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69</a>  
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
    Title: the congressional uap hearings debrief.13077  
-   Link: [https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/](https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/)  
+   Link: <a href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 11. <a id="endnote-11"></a>
    Source: disclosure.org  
    Title: eric davis  
-   Link: [https://disclosure.org/team/eric-davis](https://disclosure.org/team/eric-davis)  
+   Link: <a href="https://disclosure.org/team/eric-davis" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/team/eric-davis</a>  
 
 12. <a id="endnote-12"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt](https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: metabunk.org  
    Title: Kona Blue  
-   Link: [https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2](https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/page-2</a>  
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal  
-   Link: [https://www.youtube.com/watch?v=0qOE3ge0jfM](https://www.youtube.com/watch?v=0qOE3ge0jfM)  
+   Link: <a href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0qOE3ge0jfM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis - Hyperspace for Space Travel...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Eric Davis  
-   Link: [https://www.youtube.com/watch?v=czNwSROec3Y](https://www.youtube.com/watch?v=czNwSROec3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=czNwSROec3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Weinstein Demands UFO Secrets From Pentagon Scientist...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theblackvault.com  
    Title: the advanced aviation threat identification program aatip dird report research  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 23. <a id="endnote-23"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 25. <a id="endnote-25"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: gvwire.com  
-   Link: [https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/](https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/)  
+   Link: <a href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow">https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/</a>  
 
 27. <a id="endnote-27"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/](https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/</a>  
 
 28. <a id="endnote-28"></a>
    Source: ntu.org  
    Title: taxpayers paid for research into stargates [warp drive](&#123;&#123; 'warp-drive-bc4c41/' | relative_url &#125;&#125;) in secret defense program  
-   Link: [https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program](https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program)  
+   Link: <a href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program</a>  
 
 29. <a id="endnote-29"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
 
 30. <a id="endnote-30"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick&#x27;s investigation unearthed a mix of fringe science, conspiracy theories, and shadowy government projects involving figures lik...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: info.publicintelligence.net  
-   Link: [https://info.publicintelligence.net/DIA-WarpDrives.pdf](https://info.publicintelligence.net/DIA-WarpDrives.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: documents.theblackvault.com  
    Title: Open Letter To TTSA  
-   Link: [https://documents.theblackvault.com/documents/OpenLetterToTTSA.pdf](https://documents.theblackvault.com/documents/OpenLetterToTTSA.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/OpenLetterToTTSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/OpenLetterToTTSA.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: documents2.theblackvault.com  
    Title: DIA FOIA Request Log 2018  
-   Link: [https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf](https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf](https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: inspirehep.net  
    Title: Eric W. Davis  
-   Link: [https://inspirehep.net/authors/1045791](https://inspirehep.net/authors/1045791)  
+   Link: <a href="https://inspirehep.net/authors/1045791" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/authors/1045791</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: [https://www.youtube.com/watch?v=xnxasfyHtfo](https://www.youtube.com/watch?v=xnxasfyHtfo)  
+   Link: <a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnxasfyHtfo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Eric Davis On Teleportation &amp; Science Secrecy...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Eric Davis: “A US President Was Briefed on UFOs!”  
-   Link: [https://www.youtube.com/watch?v=LnAiNChnuEQ](https://www.youtube.com/watch?v=LnAiNChnuEQ)  
+   Link: <a href="https://www.youtube.com/watch?v=LnAiNChnuEQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LnAiNChnuEQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/253979249_Interstellar_Travel_by_Means_of_Wormhole_Induction_Propulsion_WHIP](https://www.researchgate.net/publication/253979249_Interstellar_Travel_by_Means_of_Wormhole_Induction_Propulsion_WHIP)  
+   Link: <a href="https://www.researchgate.net/publication/253979249_Interstellar_Travel_by_Means_of_Wormhole_Induction_Propulsion_WHIP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253979249_Interstellar_Travel_by_Means_of_Wormhole_Induction_Propulsion_WHIP</a>  
 
 42. <a id="endnote-42"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force](https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force)  
+   Link: <a href="https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/](https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/)  
+   Link: <a href="https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/</a>  
 
 44. <a id="endnote-44"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-government-cover-ups?srsltid=AfmBOooUzHWeIx-wtbEg6J2Pvyvx9y930K4F3CZHVCLsCGw8_4XLaiRk](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-government-cover-ups?srsltid=AfmBOooUzHWeIx-wtbEg6J2Pvyvx9y930K4F3CZHVCLsCGw8_4XLaiRk)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-government-cover-ups?srsltid=AfmBOooUzHWeIx-wtbEg6J2Pvyvx9y930K4F3CZHVCLsCGw8_4XLaiRk" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-government-cover-ups?srsltid=AfmBOooUzHWeIx-wtbEg6J2Pvyvx9y930K4F3CZHVCLsCGw8_4XLaiRk</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/](https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/)  
+   Link: <a href="https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/</a>  
 
 46. <a id="endnote-46"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/](https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198t9os/confirmation_of_the_wilsondavis_memo_i_already/</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/](https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/](https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/)  
+   Link: <a href="https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/</a>

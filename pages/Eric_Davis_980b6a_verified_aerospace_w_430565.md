@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-eric-davis/
 nav_short_title: Verified Work
 title: What Can Actually Be Verified?
-title_full: What Can Actually Be Verified? | Davis
+title_full: What Can Actually Be Verified?
 display_title_short: Verified Work
 display_title: Verified Work
 heading_title: What Can Actually Be Verified?
@@ -289,7 +289,7 @@ next_link:
   permalink: /wilson-memo/
   short_title: Wilson Memo
   heading_title: Why The Wilson Davis Memo Still Divides Readers
-date: '2026-06-09 03:03:20 '
+date: '2026-06-11 21:07:00 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview.webp
@@ -299,7 +299,6 @@ image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview-soc
 ## Introduction
 
 Eric W. Davis is a useful test case for separating a verifiable advanced-aerospace career from extraordinary UFO claims. The public record supports that he has worked in speculative propulsion and relativity-adjacent research, has been affiliated with EarthTech and the Institute for Advanced Studies at Austin, has edited or authored technical work on breakthrough propulsion, and authored at least one Defense Intelligence Agency reference document under the AAWSAP/AATIP-era advanced aerospace portfolio. What the public record does not establish is the stronger proposition that Davis has proved the existence of non-human craft, recovered “off-world” vehicles, or a hidden reverse-engineering programme. His documented aerospace work is real; the UFO claims linked to his name remain much less securely evidenced. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> EarthTech That distinction matters because Davis is often treated in UFO/UAP debate as if his technical background automatically upgrades the claims ar <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-snippet">Open source on earthtech.org.</span></span></span> ound him. It does not. His verified work shows access to a niche defence-adjacent research world interested in far-future aerospace possibilities. It gives him more credibility than a purely anonymous rumour source. But it does not by itself authenticate claims about alien materials, crash retrievals, or secret programmes, especially where the evidence is classified by assertion, second-hand, leaked, or contradicted by later official reviews.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview.webp" | relative_url }}" alt="Overview image for Verified Work" loading="eager" decoding="sync" fetchpriority="high">
 ## What Davis’s aerospace record clearly supports
@@ -320,12 +319,10 @@ The Black Vault’s FOIA work helps clarify the wider document set. Its archive 
 
 The key credibility distinction is this: the documents verify contract-funded or government-collected technical studies, not the truth of every implication later attached to them. A defence-intelligence office can commission speculative studies because it wants to understand possible future threats, fringe claims, adversary research, or low-probability breakthroughs. Commissioning such papers is evidence of institutional curiosity and programme activity. It is not evidence that the speculative technologies already exist.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-1-dark.svg" | relative_url }}" alt="Verified Work illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Published propulsion work is real, but it lives at the speculative edge
 
 Davis’s strongest published work is not conventional rocket engineering in the sense of building flight-tested engines. It is closer to theoretical and speculative propulsion studies: warp-drive metrics, wormholes, negative energy, breakthrough propulsion and far-future spaceflight concepts. That makes his work relevant to UAP discourse because UFO claims often involve apparently impossible acceleration, propulsion without visible exhaust, or movement inconsistent with known aircraft. It also makes over-reading easy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/book/10.2514/4.479953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[aiaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A reader should separate three levels of claim:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -339,19 +336,17 @@ That last leap is where Davis’s verified aerospace work stops being direct evi
 
 There is also a reputational complication. Steven Aftergood of the Federation of American Scientists described the released AAWSAP/AATIP research titles as “highly conjectural” and “well beyond the boundaries of current science, engineering — or military intelligence”, singling out Davis’s wormhole paper as one example. That is a sceptical judgement, not a disproof of Davis’s competence, but it shows why the same record can be read in two different ways: supporters see a physicist close to breakthrough topics; critics see government money spent on speculative work with weak practical return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">aatip list</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X3CcaP3yAkc" title="Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer">Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 490.9K &middot; Uploaded: May 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X3CcaP3yAkc">Open on YouTube</a></p></div></div></div>
 
 ## Where the UFO claims enter the record
 
 The UAP claims most associated with Davis become public through journalism, leaked documents, interviews and the AAWSAP/AATIP ecosystem, rather than through peer-reviewed evidence of recovered non-human technology. The most widely circulated example came from 2020 reporting that Davis, described as an astrophysicist and former consultant to the Pentagon UFO programme, had briefed a Defense Department agency about “off-world vehicles not made on this earth”. Secondary reports quoted or summarised the New York Times story and said Davis claimed he had examined materials and concluded “we couldn’t make it ourselves”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span>
 
-That claim is central to Davis’s UFO-era reputation, but it is not central in the same evidential sense as the [DIA wormhole paper]({{ 'dia-paper-b8f0a1/' | relative_url }}). The public has not been shown the alleged materials, the classified briefing, a transparent laboratory chain of custody, a reproducible technical analysis, or a confirmed official finding that the materials were non-human. The claim therefore sits in a different category: attributed statement and alleged classified briefing, not public proof.
+That claim is central to Davis’s UFO-era reputation, but it is not central in the same evidential sense as the DIA wormhole paper. The public has not been shown the alleged materials, the classified briefing, a transparent laboratory chain of custody, a reproducible technical analysis, or a confirmed official finding that the materials were non-human. The claim therefore sits in a different category: attributed statement and alleged classified briefing, not public proof.
 
 The “Wilson-Davis memo” is another major source of Davis-related UFO discussion. A copy of the alleged memo has circulated publicly and is hosted by DocumentCloud, but the document’s evidential status remains contested. It purports to describe a 2002 meeting involving Davis and Admiral Thomas Wilson concerning alleged hidden UFO programmes and access denial. The problem is not that the document is irrelevant; it is that a leaked memo, even if interesting, is not the same as authenticated programme records, sworn testimony from all relevant parties, or declassified confirmation of the alleged programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For credibility assessment, those two examples should be kept separate from Davis’s technical publications. The publications establish his expertise and institutional proximity. The “off-world vehicles” reporting and Wilson-Davis material are claims about hidden facts. The first category is easy to verify; the second depends on evidence that remains unavailable, disputed or insufficiently authenticated in public.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-2-dark.svg" | relative_url }}" alt="Verified Work illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why institutional proximity can mislead readers
@@ -363,7 +358,6 @@ Institutional proximity is especially tricky in classified or semi-classified en
 The AAWSAP/AATIP setting also blends different kinds of activity. Some records concern advanced aerospace concepts. Some public reporting concerns UAP sightings and military encounters. Some later claims concern crash retrievals, materials and hidden programmes. Treating all of these as one evidential bundle inflates the case. A better approach is to ask of each claim: is it a published technical study, a government document, a media quotation, a leaked memo, an interview claim, or a confirmed official finding?
 
 That sorting exercise changes the credibility picture. Davis’s authorship of an official DIA reference paper is strong evidence that he wrote a speculative technical study for a government-linked programme. It is weak evidence for alien technology. The New York Times-linked “off-world vehicles” claim is strong evidence that Davis made or was reported as making an extraordinary claim. It is weak public evidence that the claim is true.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suj8BB4nG0Y" title="What the Heck Is Going on With These U.F.O. Stories?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suj8BB4nG0Y" target="_blank" rel="noopener noreferrer">What the Heck Is Going on With These U.F.O. Stories?</a></p><p class="youtube-embed-meta">Channel: The Ezra Klein Show &middot; Views: 16.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suj8BB4nG0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suj8BB4nG0Y">Open on YouTube</a></p></div></div></div>
 
@@ -377,7 +371,6 @@ These findings do not prove that every Davis-linked claim is false. Official rev
 
 The strongest fair statement is therefore limited: later official reviews have weakened the public case for treating Davis-linked crash-retrieval or off-world-material claims as established. They have not erased the documentary evidence of his real aerospace work, and they have not ended all debate among believers, sceptics or lawmakers. But they have raised the bar for anyone claiming that Davis’s statements alone should be treated as proof.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-3-dark.svg" | relative_url }}" alt="Verified Work illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters and sceptics read the same record
 
@@ -388,7 +381,6 @@ Sceptics make a different point. They argue that speculative physics expertise c
 Both readings contain something important. The supporter is right that Davis’s background is more substantial than that of many UFO personalities. The sceptic is right that credentials and clearances are not substitutes for inspectable evidence. A physicist can be well-qualified to discuss exotic theoretical possibilities and still be wrong, overconfident, or under-evidenced on a specific materials claim.
 
 The most balanced assessment therefore does not dismiss Davis as a fantasist, but also does not treat him as a decisive disclosure witness. He is best understood as an insider-adjacent technical figure whose verified work explains why people listen to him, while the extraordinary UFO claims linked to his name still require evidence beyond his authority.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0qOE3ge0jfM" title="Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer">Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal</a></p><p class="youtube-embed-meta">Channel: The Hannibal TVVerticalFormatChannel &middot; Views: 109 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0qOE3ge0jfM">Open on YouTube</a></p></div></div></div>
 
@@ -531,15 +523,15 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If It Flies We&#x27;ll Take It Valley Aviation Society VAS Embroidered Iron Sew On"><img src="{{ '/assets/images/marketplace-covers/50bf5268fc295c386406.jpg' | relative_url }}" alt="Listing image for If It Flies We&#x27;ll Take It Valley Aviation Society VAS Embroidered Iron Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Estes Model Rocket Accessories"><img src="https://i.ebayimg.com/images/g/d5gAAOSwR1xoLjO5/s-l225.jpg" alt="Listing image for Various Estes Model Rocket Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">If It Flies We&#x27;ll Take It Valley Aviation Society VAS Embroidered Iron Sew On</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Various Estes Model Rocket Accessories</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +539,15 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Phantom Aviation Group F-4 Phantom at Cotswold Airport Patch Collection"><img src="{{ '/assets/images/marketplace-covers/71251b758b69588f3fa6.jpg' | relative_url }}" alt="Listing image for British Phantom Aviation Group F-4 Phantom at Cotswold Airport Patch Collection" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale"><img src="https://i.ebayimg.com/images/g/NR0AAeSwGLxp2RX9/s-l225.jpg" alt="Listing image for NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">British Phantom Aviation Group F-4 Phantom at Cotswold Airport Patch Collection</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis SLS Rocket Model – Space Launch System Display Model 1/100 scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +555,15 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans"><img src="{{ '/assets/images/marketplace-covers/209151352f476b343764.jpg' | relative_url }}" alt="Listing image for Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Apollo Columbia &amp; Eagle 1:96 Plastic Spacecraft Model Kit 04827"><img src="https://i.ebayimg.com/images/g/dkMAAeSwnyZqIaAS/s-l225.jpg" alt="Listing image for Revell Apollo Columbia &amp; Eagle 1:96 Plastic Spacecraft Model Kit 04827" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">Boeing Airplane Aviation Embroidered Badge Patch Iron sew on dress jacket jeans</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell Apollo Columbia &amp; Eagle 1:96 Plastic Spacecraft Model Kit 04827</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +571,15 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1st Aviation Brigade Patch, Multicam UK SELLER"><img src="{{ '/assets/images/marketplace-covers/c26b9bc3f505b8b18b75.jpg' | relative_url }}" alt="Listing image for 1st Aviation Brigade Patch, Multicam UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit"><img src="https://i.ebayimg.com/images/g/CB8AAeSw6B9qIoND/s-l225.jpg" alt="Listing image for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">1st Aviation Brigade Patch, Multicam UK SELLER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +587,7 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-work-what-can-actually-be-verified-eric-davis-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="verified-work-what-can-actually-be-verified-eric-davis-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-actually-be-verified-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="what-can-actually-be-verified-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,170 +802,170 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 2. <a id="endnote-2"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
 
 3. <a id="endnote-3"></a>
    Source: arc.aiaa.org  
-   Link: [https://arc.aiaa.org/doi/book/10.2514/4.479953](https://arc.aiaa.org/doi/book/10.2514/4.479953)  
+   Link: <a href="https://arc.aiaa.org/doi/book/10.2514/4.479953" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/book/10.2514/4.479953</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 5. <a id="endnote-5"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
 6. <a id="endnote-6"></a>
    Source: spie.org  
-   Link: [https://spie.org/profile/Eric.Davis-104432](https://spie.org/profile/Eric.Davis-104432)  
+   Link: <a href="https://spie.org/profile/Eric.Davis-104432" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/profile/Eric.Davis-104432</a>  
 
 7. <a id="endnote-7"></a>
    Source: disclosure.org  
-   Title: [eric davis](&#123;&#123; 'how-credible-is-eric-davis/' | relative_url &#125;&#125;)  
-   Link: [https://disclosure.org/team/eric-davis](https://disclosure.org/team/eric-davis)  
+   Title: eric davis  
+   Link: <a href="https://disclosure.org/team/eric-davis" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/team/eric-davis</a>  
 
 8. <a id="endnote-8"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt](https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 17. <a id="endnote-17"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Advanced Aerospace Threat Identification Program  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: fas.org  
    Title: aatip list  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
    Title: ufos come out of the shadows again perhaps  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
 
 24. <a id="endnote-24"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
    Title: Dr. Eric W. Davis  
-   Link: [https://www.linkedin.com/in/eric-w-davis](https://www.linkedin.com/in/eric-w-davis)  
+   Link: <a href="https://www.linkedin.com/in/eric-w-davis" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/eric-w-davis</a>  
 
 26. <a id="endnote-26"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: inspirehep.net  
    Title: Eric W. Davis  
-   Link: [https://inspirehep.net/authors/1045791](https://inspirehep.net/authors/1045791)  
+   Link: <a href="https://inspirehep.net/authors/1045791" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/authors/1045791</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=X3CcaP3yAkc](https://www.youtube.com/watch?v=X3CcaP3yAkc)  
+   Link: <a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X3CcaP3yAkc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Weinstein Demands UFO Secrets From Pentagon Scientist...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal  
-   Link: [https://www.youtube.com/watch?v=0qOE3ge0jfM](https://www.youtube.com/watch?v=0qOE3ge0jfM)  
+   Link: <a href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0qOE3ge0jfM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Eric Davis On Teleportation &amp; Science Secrecy...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: [https://www.youtube.com/watch?v=xnxasfyHtfo](https://www.youtube.com/watch?v=xnxasfyHtfo)  
+   Link: <a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnxasfyHtfo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis - Hyperspace for Space Travel...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/](https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/)  
+   Link: <a href="https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/](https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/12e37n1/dr_eric_w_davis_phd_on_crash_retrievals_and/](https://www.reddit.com/r/UFOs/comments/12e37n1/dr_eric_w_davis_phd_on_crash_retrievals_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/12e37n1/dr_eric_w_davis_phd_on_crash_retrievals_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12e37n1/dr_eric_w_davis_phd_on_crash_retrievals_and/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/](https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/</a>  
 
 36. <a id="endnote-36"></a>
    Source: thesolfoundation.org  
-   Link: [https://thesolfoundation.org/people/eric-davis/](https://thesolfoundation.org/people/eric-davis/)  
+   Link: <a href="https://thesolfoundation.org/people/eric-davis/" target="_blank" rel="noopener noreferrer nofollow">https://thesolfoundation.org/people/eric-davis/</a>  
 
 37. <a id="endnote-37"></a>
    Source: darpa.mil  
-   Link: [https://www.darpa.mil/about/people/eric-davis](https://www.darpa.mil/about/people/eric-davis)  
+   Link: <a href="https://www.darpa.mil/about/people/eric-davis" target="_blank" rel="noopener noreferrer nofollow">https://www.darpa.mil/about/people/eric-davis</a>

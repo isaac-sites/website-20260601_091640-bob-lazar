@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /dia-papers/
 nav_short_title: FOIA trail
 title: What the released DIRDs really establish
-title_full: What the released DIRDs really establish | DIA Papers
+title_full: What the released DIRDs really establish
 display_title_short: FOIA trail
 display_title: FOIA trail
 heading_title: What the released DIRDs really establish
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Do The DIA Papers Really Show? | Davis
+parent_title: What Do The DIA Papers Really Show?
 parent_permalink: /dia-papers/
 parent_nav_short_title: DIA Papers
 parent_heading_title: What Do The DIA Papers Really Show?
@@ -247,7 +247,7 @@ next_link:
   permalink: /negative-energy/
   short_title: Negative energy
   heading_title: Why negative energy is not alien fuel
-date: '2026-06-09 03:04:30 '
+date: '2026-06-11 21:07:23 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release
 
 ## Introduction
 
-The release of the Defense Intelligence Reference Documents (DIRDs) settled one narrow but important question around [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}): the documents were real. Through Freedom of Information Act (FOIA) requests, researchers obtained official records showing that the Defense Intelligence Agency (DIA) commissioned, held, or processed a collection of technical papers linked to the Advanced Aerospace Weapon System Applications Program (AAWSAP). Among them was Davis's paper *Traversable Wormholes, Stargates, and [Negative Energy]({{ 'negative-energy/' | relative_url }})*. The release trail confirms that Davis participated in a genuine defence-intelligence research effort and that some of the most unusual titles circulating online were not fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span>
-
+The release of the Defense Intelligence Reference Documents (DIRDs) settled one narrow but important question around Eric Davis: the documents were real. Through Freedom of Information Act (FOIA) requests, researchers obtained official records showing that the Defense Intelligence Agency (DIA) commissioned, held, or processed a collection of technical papers linked to the Advanced Aerospace Weapon System Applications Program (AAWSAP). Among them was Davis's paper *Traversable Wormholes, Stargates, and [Negative Energy]({{ 'negative-energy/' | relative_url }})*. The release trail confirms that Davis participated in a genuine defence-intelligence research effort and that some of the most unusual titles circulating online were not fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1-dark.svg" | relative_url }}" alt="FOIA trail illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What the releases do **not** establish is equally important. The documents do not show that wormholes were built, that "stargates" were discovered, that UFO propulsion was reverse-engineered, or that the underlying concepts were experimentally validated. The credibility question therefore becomes more precise: how much weight should official paperwork add to Davis's reputation, and where are the limits of what those records can prove?
@@ -272,7 +271,6 @@ Separate disclosures identified a broader list of 38 research titles associated 
 
 For Davis specifically, the released copy of *Traversable Wormholes, Stargates, and Negative Energy* is significant because it establishes several verifiable facts:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A document carrying his authorship existed within an official DIA-related research framework.
@@ -283,7 +281,6 @@ For Davis specifically, the released copy of *Traversable Wormholes, Stargates, 
 </div>
 
 This matters because some critics once argued that stories about government-funded "stargate" studies were exaggerated rumours. The document releases largely ended that dispute. The papers existed, the titles were real, and Davis was one of the contributors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fkNtRYstTDs" title="UFOs are ‘not a delusion’ as Pentagon releases papers on exposure effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fkNtRYstTDs" target="_blank" rel="noopener noreferrer">UFOs are ‘not a delusion’ as Pentagon releases papers on exposure effects</a></p><p class="youtube-embed-meta">Channel: Sky News Australia &middot; Views: 151.8K &middot; Uploaded: May 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fkNtRYstTDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fkNtRYstTDs">Open on YouTube</a></p></div></div></div>
 
@@ -299,9 +296,6 @@ The document discusses conditions under which traversable wormholes might exist 
 
 This distinction becomes especially important when the word "stargate" appears in public [debate]({{ 'debate/' | relative_url }}). Within the DIRD, the term refers to a theoretical traversable wormhole concept. It is not evidence that a functioning portal was discovered or possessed by any government. The official status of the document does not change that underlying scientific limitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mIPA3c15hDc" title="Paranormal Infection: Tales from Skinwalker Ranch and AAWSAP." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mIPA3c15hDc" target="_blank" rel="noopener noreferrer">Paranormal Infection: Tales from Skinwalker Ranch and AAWSAP.</a></p><p class="youtube-embed-meta">Channel: Double</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mIPA3c15hDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mIPA3c15hDc">Open on YouTube</a></p></div></div></div>
-
 ## The gap between theoretical physics and engineering reality
 
 Supporters of Davis sometimes point out that wormhole research is not pure fantasy because peer-reviewed physicists have published serious papers on traversable wormholes and negative-energy effects.
@@ -311,7 +305,6 @@ That is true, but it only carries the argument so far.
 Modern theoretical physics contains legitimate discussions of exotic spacetime geometries, quantum effects and negative-energy phenomena. Research on traversable wormholes has continued in academic settings well after the DIRDs were written. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1608.05687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Traversable Wormholes via a Double Trace Deformation</span><span class="citation-popover-snippet">arXiv Traversable Wormholes via a Double Trace Deformation</span></span></span>
 
 Several problems remain unresolved:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +318,6 @@ Several problems remain unresolved:
 As a result, a released government study discussing wormholes may be technically informed while still describing something far beyond current technological reach.
 
 For credibility assessment, this means Davis can be credited with working inside a real research environment and engaging with real theoretical literature. It does not mean his more ambitious implications automatically become more likely.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-2-dark.svg" | relative_url }}" alt="FOIA trail illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics and supporters interpret the same release trail
@@ -347,9 +339,7 @@ Sceptics generally respond that:
 
 Importantly, the FOIA record itself does not resolve this disagreement. It confirms the documents existed. It does not adjudicate whether the most exotic concepts discussed within them have any realistic path to implementation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKeKe290ks0" title="Behind NASA’s Plan To Nuke The Moon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKeKe290ks0" target="_blank" rel="noopener noreferrer">Behind NASA’s Plan To Nuke The Moon!</a></p><p class="youtube-embed-meta">Channel: The Space Race &middot; Views: 21.3K &middot; Uploaded: April 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKeKe290ks0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKeKe290ks0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-dark.svg" | relative_url }}" alt="FOIA trail illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the documents should affect Davis's credibility
 
 The released DIRDs strengthen Davis's credibility in some areas and leave others largely unchanged.
@@ -361,7 +351,6 @@ The documents also support the view that Davis possesses familiarity with advanc
 Where the documents have much less evidential value is in relation to extraordinary UFO or breakthrough-propulsion claims.
 
 The FOIA releases do not show:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,8 +368,7 @@ But the same release trail does not move speculative physics concepts from hypot
 
 That distinction is the most important lesson of the DIRD record. The paperwork is real, the authorship is real, and the programme was real. The underlying technological promises remain largely theoretical, unresolved and unproven.
 
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-dark.svg" | relative_url }}" alt="FOIA trail illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKeKe290ks0" title="Behind NASA’s Plan To Nuke The Moon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKeKe290ks0" target="_blank" rel="noopener noreferrer">Behind NASA’s Plan To Nuke The Moon!</a></p><p class="youtube-embed-meta">Channel: The Space Race &middot; Views: 21.3K &middot; Uploaded: April 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKeKe290ks0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKeKe290ks0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -499,15 +487,15 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On"><img src="https://i.ebayimg.com/images/g/8Y4AAOSwBHplo~rd/s-l225.jpg" alt="Listing image for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +503,15 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully"><img src="https://i.ebayimg.com/images/g/19kAAeSwU8Fpqx1I/s-l225.jpg" alt="Listing image for UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +519,15 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO I&#x27;m Out Space Quality Iron On Patch X Files Invasion Flying Saucer"><img src="https://i.ebayimg.com/images/g/QrQAAOSwe9llpAHm/s-l225.jpg" alt="Listing image for Alien UFO I&#x27;m Out Space Quality Iron On Patch X Files Invasion Flying Saucer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Alien UFO I&#x27;m Out Space Quality Iron On Patch X Files Invasion Flying Saucer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +535,15 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge"><img src="https://i.ebayimg.com/images/g/TfAAAeSw84Jphz~O/s-l225.jpg" alt="Listing image for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,7 +551,7 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="foia-trail-what-the-released-dirds-really-establish-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-released-dirds-really-establish-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-the-released-dirds-really-establish-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -779,170 +767,170 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: the defense intelligence agency disclosed early 2019 that it had funded research  
-   Link: [https://www.facebook.com/fascientists/posts/the-defense-intelligence-agency-disclosed-early-2019-that-it-had-funded-research/10161133993772519/](https://www.facebook.com/fascientists/posts/the-defense-intelligence-agency-disclosed-early-2019-that-it-had-funded-research/10161133993772519/)  
+   Link: <a href="https://www.facebook.com/fascientists/posts/the-defense-intelligence-agency-disclosed-early-2019-that-it-had-funded-research/10161133993772519/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fascientists/posts/the-defense-intelligence-agency-disclosed-early-2019-that-it-had-funded-research/10161133993772519/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>highly conjectural and well beyond the... The DIA released a list of 38 research titles... Federation of American Scientists, January 1...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Traversable Wormholes via a Double Trace Deformation  
-   Link: [https://arxiv.org/abs/1608.05687](https://arxiv.org/abs/1608.05687)  
+   Link: <a href="https://arxiv.org/abs/1608.05687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1608.05687</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Traversable Casimir Wormholes in D Dimensions  
-   Link: [https://arxiv.org/abs/2107.00605](https://arxiv.org/abs/2107.00605)  
+   Link: <a href="https://arxiv.org/abs/2107.00605" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.00605</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2102.06628](https://arxiv.org/abs/2102.06628)  
+   Link: <a href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06628</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Are Einstein-Dirac-Maxwell wormholes traversable?  
-   Link: [https://arxiv.org/abs/2305.11217](https://arxiv.org/abs/2305.11217)  
+   Link: <a href="https://arxiv.org/abs/2305.11217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.11217</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — Contractual documents between DIA and a company January 1. FOIA-00082-2022... FOIA-00185-2022. Greenewald, John hearing...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: nearly 3800000 files were removed from the black vault hours after president don  
-   Link: [https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/](https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 3800000 files were removed from The Black Vault...The Black Vault is a privately run archive created by researcher John Greenewal...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/theoretical-physicist-michio-kaku-says-a-former-intelligence-officials-claims-ab/276419801431711/](https://www.facebook.com/NewsNationNow/posts/theoretical-physicist-michio-kaku-says-a-former-intelligence-officials-claims-ab/276419801431711/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/theoretical-physicist-michio-kaku-says-a-former-intelligence-officials-claims-ab/276419801431711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/theoretical-physicist-michio-kaku-says-a-former-intelligence-officials-claims-ab/276419801431711/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO recovery program require an official response...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CeninArt/posts/a-diagram-from-a-report-titled-traversable-wormholes-stargates-and-negative-ener/10157852503177934/](https://www.facebook.com/CeninArt/posts/a-diagram-from-a-report-titled-traversable-wormholes-stargates-and-negative-ener/10157852503177934/)  
+   Link: <a href="https://www.facebook.com/CeninArt/posts/a-diagram-from-a-report-titled-traversable-wormholes-stargates-and-negative-ener/10157852503177934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CeninArt/posts/a-diagram-from-a-report-titled-traversable-wormholes-stargates-and-negative-ener/10157852503177934/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nergy,&quot; that ETI&#x27;s Eric Davis wrote under contract to AAWSAP...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/](https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/)  
+   Link: <a href="https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/](https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/)  
+   Link: <a href="https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ald Jr., hosts declassified U.S. government documents, including...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/617328327480084/posts/795518709661044/](https://www.facebook.com/groups/617328327480084/posts/795518709661044/)  
+   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/795518709661044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/795518709661044/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>03-04-26 The Black Vault &quot;AATIP Resurfaces in 2022 TS...Yesterday, the DIA released a list of 38 research titles funded by the program...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/](https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/)  
+   Link: <a href="https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files deleted from Black Vault archiveThe documents were provided under the Freedom of Information Act (FOIA) by John Greenewald, fou...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/](https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/)  
+   Link: <a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Had Access: DIA officials, Bigelow Aerospace personnel, limited...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: But before you  
-   Link: [https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/](https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/)  
+   Link: <a href="https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Intelligence Agency spent more than $20 million on...The Defense Intelligence Agency spent more than $20 million on 18 areas...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultFOIA-00159-2018March 30, 2022 — A seareh ofDIA&#x27;s systems of records located 37 documents (1473 pages) responsive to your r...</p></details>
    Published: March 30, 2022  
 
 18. <a id="endnote-18"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com20-F-1095 June 18, 2025 Mr. John Greenewald The...18 Jun 2025 — This is a final response to your May 16, 2020 Freedom o...</p></details>
    Published: June 18, 2025  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENSE1 Jul 2025 — This release was verified by John Greenewald posting his FOIA response letter. On Sun Aug25 2019 at 8:49 PM Ryan A...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/usaf/17-F-0648.pdf](https://documents2.theblackvault.com/documents/usaf/17-F-0648.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/usaf/17-F-0648.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/usaf/17-F-0648.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com17-F-0648 Mr. John Greenewald The...John Greenewald. The Black Vault. Dear Mr. Greenewald: This is the final response t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Black Vault  
-   Link: [https://en.wikipedia.org/wiki/The_Black_Vault](https://en.wikipedia.org/wiki/The_Black_Vault)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Black Vault is an American online archive of declassified government documents founded in 1996 by ufologist and res...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)(PDF  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19. Antigravity for Aerospace Applications (PDF - 44 Pages) · 20...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramDownload PDF; Watch · Edit. The Advanced Aerospace Threat Identification Program... &quot;...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013](https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013)  
+   Link: <a href="https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTL Space Warps: Theory and Applications | PDFDia Warpdrives. 34 pages. Traversable Wormholes and Stargates. PDF. No ratings yet. Travers...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/](https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon &amp; FOIA: r/UFOsAt the end of the book you will find an appendix that lists the names of every single report A...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeIn the scholarly and technical literature on UFO (the little there is of it) the &quot;technology&quot; coinages I have seen include...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98](https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98)  
+   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mited to – the “interdimensional” hypothesis, namely the highly speculative notion...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/4082367/davis-wormholestargates](https://www.scribd.com/document/4082367/davis-wormholestargates)  
+   Link: <a href="https://www.scribd.com/document/4082367/davis-wormholestargates" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/4082367/davis-wormholestargates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sions, but require &quot;exotic matter&quot; with negative energy density...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense: Intelligence Reference DocumentDIA-08-1004-004. Traversable Wormholes, Stargates, and Negative Energy UNCLASSIFIED//FOR OFFICIAL...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748](https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748)  
+   Link: <a href="https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of antigravity, faster than light (FTL) travel and...Traversable Wormholes, Stargates, and Negative Energy DIRD_18...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/suppressed-technology-has-government-already-cracked-uap-islam-daufe](https://www.linkedin.com/pulse/suppressed-technology-has-government-already-cracked-uap-islam-daufe)  
+   Link: <a href="https://www.linkedin.com/pulse/suppressed-technology-has-government-already-cracked-uap-islam-daufe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/suppressed-technology-has-government-already-cracked-uap-islam-daufe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tive Energy” by Dr. Eric Davis (More Light on Black...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pen7y9/interesting_research_paper_by_jacques_vallee_and/](https://www.reddit.com/r/UFOs/comments/pen7y9/interesting_research_paper_by_jacques_vallee_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pen7y9/interesting_research_paper_by_jacques_vallee_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pen7y9/interesting_research_paper_by_jacques_vallee_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;rote for the DIA: [https://documents.theblackvault.com/documents...&quot;](https://documents.theblackvault.com/documents...&quot;)...</p></details>

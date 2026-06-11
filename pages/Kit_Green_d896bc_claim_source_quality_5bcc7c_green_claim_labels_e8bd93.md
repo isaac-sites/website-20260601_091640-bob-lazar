@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claim-sources/
 nav_short_title: Claim Labels
 title: How to label Green claims without overreaching
-title_full: How to label Green claims without overreaching | Claim Sources
+title_full: How to label Green claims without overreaching
 display_title_short: Claim Labels
 display_title: Claim Labels
 heading_title: How to label Green claims without overreaching
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Which Green Stories Are First Hand? | Green
+parent_title: Which Green Stories Are First Hand?
 parent_permalink: /claim-sources/
 parent_nav_short_title: Claim Sources
 parent_heading_title: Which Green Stories Are First Hand?
@@ -253,7 +253,7 @@ next_link:
   permalink: /nolan-mris/
   short_title: Nolan MRIs
   heading_title: What do the Nolan MRI reports really add?
-date: '2026-06-09 03:00:49 '
+date: '2026-06-11 21:06:00 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_l
 
 ## Introduction
 
-The quickest way to stop [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) stories turning into UFO folklore is to label every claim by source type before discussing whether it is true. Green’s name sits at the junction of documented government-linked medical work, reported private conversations, leaked summaries, witness testimony and later retellings. When those categories are mixed together, readers can easily move from “Green analysed reported injuries” to “Green confirmed alien bodies” even though those are very different evidential claims. The credibility question is therefore not only whether Green was reliable, but also whether a specific statement comes from a verifiable document, a second-hand report, a recollection years later, or an unsupported extrapolation. A clear labelling system makes it easier to assess what Green actually did, what others say he believed, and where the evidence becomes too thin to support stronger conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span>
-
+The quickest way to stop Kit Green stories turning into UFO folklore is to label every claim by source type before discussing whether it is true. Green’s name sits at the junction of documented government-linked medical work, reported private conversations, leaked summaries, witness testimony and later retellings. When those categories are mixed together, readers can easily move from “Green analysed reported injuries” to “Green confirmed alien bodies” even though those are very different evidential claims. The credibility question is therefore not only whether Green was reliable, but also whether a specific statement comes from a verifiable document, a second-hand report, a recollection years later, or an unsupported extrapolation. A clear labelling system makes it easier to assess what Green actually did, what others say he believed, and where the evidence becomes too thin to support stronger conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-1-dark.svg" | relative_url }}" alt="Claim Labels illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Documented work, reported statements and unresolved claims
@@ -278,10 +277,9 @@ Examples include:
 
 * Green's documented career in medicine, neuroscience and intelligence-related analysis.
 * His CIA and later medical-research background as described in biographical records.
-* The DIA-released paper *Anomalous Acute and Subacute Field Effects on Human Biological Tissues*, which exists as an actual government-released document rather than a rumour about one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin | Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
+* The DIA-released paper *Anomalous Acute and Subacute Field Effects on Human Biological Tissues*, which exists as an actual government-released document rather than a rumour about one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin &#124; Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
 
 Claims in this category should be labelled as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -306,7 +304,6 @@ Examples include:
 
 These should be labelled differently:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * **Reported statement**
@@ -330,7 +327,6 @@ Examples include:
 
 These should be labelled:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * **Unverified claim**
@@ -341,7 +337,6 @@ These should be labelled:
 </div>
 
 The label itself does not declare the claim false. It simply reflects the current evidential state.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 886.2K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
 
@@ -359,14 +354,12 @@ This separation matters because a doctor can directly assess burns, neurological
 
 A reader who sees only the final retelling may hear that Green investigated an injury case and incorrectly conclude that Green therefore authenticated the witness's explanation. The evidence usually does not support that leap.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-2-dark.svg" | relative_url }}" alt="Claim Labels illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How unsupported extrapolation changes the story
 
 The largest folklore problem in Green-related discussions appears when people convert a narrow statement into a broad conclusion.
 
 A common progression looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -380,12 +373,11 @@ A common progression looks like this:
 
 Each step adds a new inference.
 
-Only the earliest parts of that chain are strongly documented. The later parts depend on interpretation, attribution and assumptions about what Green's access or opinions supposedly meant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin | Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
+Only the earliest parts of that chain are strongly documented. The later parts depend on interpretation, attribution and assumptions about what Green's access or opinions supposedly meant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin &#124; Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
 
 This is especially relevant in discussions of the alleged alien autopsy material. Public discussion often shifts from "Green reportedly regarded aspects of the material as significant" to "Green proved the film authentic". Those are not equivalent claims. Much of the available evidence consists of reported assessments, leaked exchanges and later retellings rather than publicly available forensic proof that settled the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richarddolanmembers.com">[Richard Dolan Members]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richarddolanmembers.com</span><span class="citation-popover-title">Richard Dolan Members[Members] The Leaked Alien Autopsy Emails</span><span class="citation-popover-snippet">June 7, 2019 — 6 Jun 2019 — This is a series of emails from early 2001 primarily discussing Kit Green&#x27;s evaluation of the Santilli alien...</span><span class="citation-popover-meta">Published: June 7, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richarddolanmembers.com">[Richard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richarddolanmembers.com</span><span class="citation-popover-title">Richard Dolan Members[Members] The Leaked Alien Autopsy Emails</span><span class="citation-popover-snippet">June 7, 2019 — 6 Jun 2019 — This is a series of emails from early 2001 primarily discussing Kit Green&#x27;s evaluation of the Santilli alien...</span><span class="citation-popover-meta">Published: June 7, 2019</span></span></span>
 
 The safest label in such cases is:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -396,7 +388,6 @@ The safest label in such cases is:
 </div>
 
 That small wording change prevents readers from treating a reported belief as an established finding.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mcQajFCDf3Q" title="The Most Disturbing UFO Tech has ESCAPED the US Military | Dr. Steven Greer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mcQajFCDf3Q" target="_blank" rel="noopener noreferrer">The Most Disturbing UFO Tech has ESCAPED the US Military | Dr. Steven Greer</a></p><p class="youtube-embed-meta">Channel: Danny Jones &middot; Views: 2.1M &middot; Uploaded: February 2025 &middot; Length: 3 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mcQajFCDf3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mcQajFCDf3Q">Open on YouTube</a></p></div></div></div>
 
@@ -414,7 +405,6 @@ Separate the event from the interpretation.
 **Who is the source?**
 
 Use labels such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -444,17 +434,14 @@ Claims should be tagged according to available evidence:
 
 This approach does not automatically favour [sceptics]({{ 'sceptics-078368/' | relative_url }}) or believers. It simply prevents the strongest version of a story from replacing the documented version.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-3-dark.svg" | relative_url }}" alt="Claim Labels illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_green_claim_labels_e8bd93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the distinction matters for credibility
 
-Green's credibility is strongest where records, documents and professional expertise can be independently checked. His credibility becomes harder to assess when stories rely on private conversations, leaked notes, remembered discussions or interpretations of what he may have believed. The problem is not unique to Green; it affects many intelligence-linked UFO narratives. However, Green's combination of genuine credentials and association with extraordinary subjects makes him especially vulnerable to becoming a folklore figure whose reputation carries claims further than the underlying evidence does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin | Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
+Green's credibility is strongest where records, documents and professional expertise can be independently checked. His credibility becomes harder to assess when stories rely on private conversations, leaked notes, remembered discussions or interpretations of what he may have believed. The problem is not unique to Green; it affects many intelligence-linked UFO narratives. However, Green's combination of genuine credentials and association with extraordinary subjects makes him especially vulnerable to becoming a folklore figure whose reputation carries claims further than the underlying evidence does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin &#124; Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span>
 
 A disciplined labelling system therefore serves a practical purpose. It keeps documented work separate from reported statements, separates witness testimony from verified findings, and prevents unsupported extrapolation from quietly becoming accepted history. In Green's case, that distinction often matters more than the claim itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WCDVIGxn48M" title="Dr. Garry Nolan analyzes UAP whistleblower&#x27;s injury claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WCDVIGxn48M" target="_blank" rel="noopener noreferrer">Dr. Garry Nolan analyzes UAP whistleblower&#x27;s injury claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 391.0K &middot; Uploaded: January 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WCDVIGxn48M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WCDVIGxn48M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -573,15 +560,15 @@ A disciplined labelling system therefore serves a practical purpose. It keeps do
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +576,15 @@ A disciplined labelling system therefore serves a practical purpose. It keeps do
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +592,31 @@ A disciplined labelling system therefore serves a practical purpose. It keeps do
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,7 +624,7 @@ A disciplined labelling system therefore serves a practical purpose. It keeps do
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-to-label-green-claims-without-overreaching-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-label-green-claims-without-overreaching-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-to-label-green-claims-without-overreaching-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -837,92 +840,92 @@ A disciplined labelling system therefore serves a practical purpose. It keeps do
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pbs.org  
    Title: Umbrella Assassin | Interview with Christopher C  
-   Link: [https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/](https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/)  
+   Link: <a href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: richarddolanmembers.com  
    Title: Richard Dolan Members[Members] The Leaked Alien Autopsy Emails  
-   Link: [https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/](https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/)  
+   Link: <a href="https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-documents/members-the-leaked-alien-autopsy-emails/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 7, 2019 — 6 Jun 2019 — This is a series of emails from early 2001 primarily discussing Kit Green&#x27;s evaluation of the Santilli alien...</p></details>
    Published: June 7, 2019  
 
 5. <a id="endnote-5"></a>
    Source: richarddolanmembers.com  
    Title: dr kit green on the record  
-   Link: [https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/](https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/)  
+   Link: <a href="https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Kit Green, On the Record24 Aug 2019 — The main subject of this exchange concerns the infamous “alien autopsy” film of 1995 by Ray San...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: livescience.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.livescience.com/ufo-report-human-biological-injuries](https://www.livescience.com/ufo-report-human-biological-injuries)  
+   Link: <a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled Anomalous A...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Agency Advanced Aerospace...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bloomsbury.com  
-   Link: [https://www.bloomsbury.com/us/author/christopher-c-green/](https://www.bloomsbury.com/us/author/christopher-c-green/)  
+   Link: <a href="https://www.bloomsbury.com/us/author/christopher-c-green/" target="_blank" rel="noopener noreferrer nofollow">https://www.bloomsbury.com/us/author/christopher-c-green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher C. GreenBiography. Christopher Green earned his PhD from King&#x27;s College, Aberdeen and is Lecturer in Theology at Wesley Insti...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: velaw.com  
-   Link: [https://www.velaw.com/people/christopher-c-green/](https://www.velaw.com/people/christopher-c-green/)  
+   Link: <a href="https://www.velaw.com/people/christopher-c-green/" target="_blank" rel="noopener noreferrer nofollow">https://www.velaw.com/people/christopher-c-green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher C. GreenChris&#x27; principal areas of practice are capital markets, securities law, corporate governance, mergers and acquisition...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ida.org  
-   Link: [https://www.ida.org/-/media/corporate/leadership/bios/cgreen-bio](https://www.ida.org/-/media/corporate/leadership/bios/cgreen-bio)  
+   Link: <a href="https://www.ida.org/-/media/corporate/leadership/bios/cgreen-bio" target="_blank" rel="noopener noreferrer nofollow">https://www.ida.org/-/media/corporate/leadership/bios/cgreen-bio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher D. GreenChris Green is the Vice President, Center for Communications and Computing (CCC). He is responsible for developing an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fetzer-franklin-fund.org  
-   Link: [https://www.fetzer-franklin-fund.org/media/christopher-green/](https://www.fetzer-franklin-fund.org/media/christopher-green/)  
+   Link: <a href="https://www.fetzer-franklin-fund.org/media/christopher-green/" target="_blank" rel="noopener noreferrer nofollow">https://www.fetzer-franklin-fund.org/media/christopher-green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Green | PersonChristopher Green, M.D., Ph.D., FAAFS is Professor and Assistant Dean for China/Asia Pacific at Wayne State Uni...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: birmingham.ac.uk  
-   Link: [https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher)  
+   Link: <a href="https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/](https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/)  
+   Link: <a href="https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What started as UFO sightings reportedly turned into...UFO encounters left witnesses with radiation burns, brain problems &amp; damaged nerv...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: 7news.com.au  
-   Link: [https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715](https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715)  
+   Link: <a href="https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductions, sexual encounters and deaths among...5 Apr 2022 — The study, compiled back in 2010 and titled Anomalous Acute And Suba...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thebulletin.org  
-   Link: [https://thebulletin.org/biography/christopher-green/](https://thebulletin.org/biography/christopher-green/)  
+   Link: <a href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/biography/christopher-green/</a>  
 
 17. <a id="endnote-17"></a>
    Source: alt1045philly.iheart.com  
    Title: 2022 04 06 pentagon states ufo sightings caused brain damage radiation  
-   Link: [https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/](https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/)  
+   Link: <a href="https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/" target="_blank" rel="noopener noreferrer nofollow">https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>States UFO Sightings Caused Brain Damage...6 Apr 2022 — The &quot;Anomalous Acute And Subacute Field Effects On Human and Biological Tissues&quot;...</p></details>

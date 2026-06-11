@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /congress/
 nav_short_title: Crash claims
 title: What did Elizondo actually say about crash retrievals?
-title_full: What did Elizondo actually say about crash retrievals? | Congress
+title_full: What did Elizondo actually say about crash retrievals?
 display_title_short: Crash claims
 display_title: Crash claims
 heading_title: What did Elizondo actually say about crash retrievals?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Elizondo Tell Congress? | Elizondo
+parent_title: What Did Elizondo Tell Congress?
 parent_permalink: /congress/
 parent_nav_short_title: Congress
 parent_heading_title: What Did Elizondo Tell Congress?
@@ -247,7 +247,7 @@ next_link:
   permalink: /records-test/
   short_title: Records test
   heading_title: Can the UAP records trail test Elizondo's claims?
-date: '2026-06-09 02:54:27 '
+date: '2026-06-11 21:02:31 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_ret
 
 ## Introduction
 
-When [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}) appeared before the US House Oversight Committee in November 2024, one of the most consequential moments was also one of the simplest. Under questioning, he publicly affirmed that secret UAP crash-retrieval programmes had existed and that their purpose included identifying and reverse-engineering recovered craft. Those answers pushed him beyond the narrower claim that military personnel encounter unexplained objects. They placed him directly inside a much more controversial argument: that parts of the US government have secretly recovered and studied non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Time: 11:30 am. Place: 2154... Former NASA Associate Administrator of Space Policy and Partnerships; Member of NASA UAPRead more...</span></span></span>
-
+When Luis Elizondo appeared before the US House Oversight Committee in November 2024, one of the most consequential moments was also one of the simplest. Under questioning, he publicly affirmed that secret UAP crash-retrieval programmes had existed and that their purpose included identifying and reverse-engineering recovered craft. Those answers pushed him beyond the narrower claim that military personnel encounter unexplained objects. They placed him directly inside a much more controversial argument: that parts of the US government have secretly recovered and studied non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Time: 11:30 am. Place: 2154... Former NASA Associate Administrator of Space Policy and Partnerships; Member of NASA UAPRead more...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-1-dark.svg" | relative_url }}" alt="Crash claims illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The significance for credibility is not that [Congress]({{ 'congress/' | relative_url }}) heard the claim. Similar allegations had circulated for decades. The significance is that Elizondo repeated versions of those claims in a formal oversight setting, where lawmakers could theoretically demand documents, classified briefings, witness testimony and programme records. The central question became whether Congress could verify any of it beyond the testimony itself.
@@ -270,13 +269,12 @@ The more dramatic claims emerged during questioning. According to hearing covera
 
 That distinction matters because Elizondo was not merely arguing that unexplained sightings deserve investigation. He was endorsing a specific underlying narrative:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Recovery programmes exist or have existed.
 * Recovered material is technologically significant.
 * At least some recovered material may not originate from known human governments.
-* Information about those programmes has been shielded from normal congressional oversight. House Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">RevHouse Hearing on Unidentified Anomalous Phenomena23 Jan 2026 — Elizondo, you stated in your testimony that, &quot;Advanced technologies, no...</span></span></span>
+* Information about those programmes has been shielded from normal congressional oversight. House Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">House Hearing on Unidentified Anomalous Phenomena23 Jan 2026 — Elizondo, you stated in your testimony that, &quot;Advanced technologies, no...</span></span></span>
 
 </div>
 
@@ -288,12 +286,11 @@ One reason the hearing attracted attention is that congressional testimony creat
 
 Yet the public value of a hearing depends on what can actually be examined. In Elizondo's case, the hearing revealed several limitations.
 
-First, many of the most important details remained outside public view. Elizondo's position was that some information could not be openly discussed because of classification restrictions and non-disclosure obligations connected to sensitive programmes. As a result, the strongest parts of the claim were effectively shifted into closed channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditElizondo claims he signed an NDA prohibiting him from...Can someone please explain this? In the hearing he mentioned he signed so...</span></span></span>
+First, many of the most important details remained outside public view. Elizondo's position was that some information could not be openly discussed because of classification restrictions and non-disclosure obligations connected to sensitive programmes. As a result, the strongest parts of the claim were effectively shifted into closed channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Elizondo claims he signed an NDA prohibiting him from...Can someone please explain this? In the hearing he mentioned he signed so...</span></span></span>
 
 Second, much of the crash-retrieval narrative is difficult to separate into first-hand and second-hand knowledge. Elizondo has long presented himself as someone who held access to sensitive national-security information, but public audiences generally cannot see the classified material that would allow them to determine exactly which claims derive from direct programme exposure and which derive from briefings, witness reports or conversations with other insiders. That ambiguity affects credibility assessments because first-hand evidence normally carries greater weight than insider hearsay.
 
 Third, public affirmation is not equivalent to proof. Congressional hearings have historically included witnesses making claims later validated, partially validated or rejected. The act of testimony raises the stakes, but verification still depends on evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gU0Enhx7ITU" title="Rep. Nancy Mace discusses &#x27;immaculate constellation&#x27; program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gU0Enhx7ITU" target="_blank" rel="noopener noreferrer">Rep. Nancy Mace discusses &#x27;immaculate constellation&#x27; program</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 336.5K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gU0Enhx7ITU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gU0Enhx7ITU">Open on YouTube</a></p></div></div></div>
 
@@ -311,12 +308,10 @@ This tension sits at the centre of Elizondo's public reputation. His credibility
 
 For crash-retrieval allegations to move beyond testimony, investigators would need more than witness statements. Several categories of evidence would be expected.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-2-dark.svg" | relative_url }}" alt="Crash claims illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Documentary records
 
 A genuine long-running retrieval effort would likely generate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +331,6 @@ The most decisive evidence would involve recoverable material itself.
 
 That could include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Verified fragments with documented provenance.
@@ -349,7 +343,6 @@ That could include:
 
 No such body of evidence was presented publicly during the 2024 hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CHdnmqIW9k4" title="House Hearing on Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer">House Hearing on Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: The Union Herald &middot; Views: 108 &middot; Uploaded: November 2024 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CHdnmqIW9k4">Open on YouTube</a></p></div></div></div>
 
 ### Corroborating witnesses
@@ -357,7 +350,6 @@ No such body of evidence was presented publicly during the 2024 hearing. <span c
 Congress would also look for converging testimony from people with direct access.
 
 A stronger evidential case would involve multiple individuals independently describing:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -370,7 +362,6 @@ A stronger evidential case would involve multiple individuals independently desc
 </div>
 
 Consistency across unrelated witnesses would not prove non-human technology, but it would strengthen the claim that a hidden programme actually existed.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-3-dark.svg" | relative_url }}" alt="Crash claims illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_crash_retrieval_hear_a3dbb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pentagon problem
@@ -391,9 +382,7 @@ Instead, it clarified exactly what Congress was being asked to investigate. Befo
 
 That creates a measurable standard for future credibility. Either records, witnesses and material evidence eventually emerge through congressional scrutiny, or they do not. Elizondo's public "yes" answers transformed crash retrievals from a broad UFO rumour into a concrete oversight claim that lawmakers can, at least in principle, attempt to verify. The unresolved issue is whether the evidence behind those claims exists in a form that survives investigation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2dXyU-Efzcs" title="UFO hearing: US conducted secret crash retrievals for alien aircrafts, former DoD official says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2dXyU-Efzcs" target="_blank" rel="noopener noreferrer">UFO hearing: US conducted secret crash retrievals for alien aircrafts, former DoD official says</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 232.8K &middot; Uploaded: November 2024 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2dXyU-Efzcs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2dXyU-Efzcs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -407,16 +396,16 @@ That creates a measurable standard for future credibility. Either records, witne
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
         
-        <p class="fr-book-desc">Primary source for Elizondo&#x27;s own account of alleged retrieval programs and government secrecy.</p>
+        <p class="fr-book-desc">In 1983, a few miles north of New York City, hundreds of people were startled to see a UFO - a series of flashing lights that formed a V...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +413,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines whistleblower and crash-retrieval allegations similar to those discussed in congressional testimony.</p>
+        <p class="fr-book-desc">The true story of the crash of an alien spacecraft--with a crew of five--near Roswell, New Mexico, and the great lengths federal agencies...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,16 +430,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Focuses on official testimony and evidence claims rather than purely speculative accounts.</p>
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -458,16 +447,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By Roberto Pinotti</p>
         
-        <p class="fr-book-desc">Explores how insiders, technology narratives and hidden programs shape UFO claims.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -475,7 +464,7 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -512,15 +501,15 @@ That creates a measurable standard for future credibility. Either records, witne
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +517,15 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +533,31 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +565,7 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,91 +781,91 @@ That creates a measurable standard for future credibility. Either records, witne
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time: 11:30 am. Place: 2154... Former NASA Associate Administrator of Space Policy and Partnerships; Member of NASA UAPRead more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Elizondo  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is in possession of UAP technologies, as are some of our adversaries. I believe we are in the midst of a multi-decade...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RevHouse Hearing on Unidentified Anomalous Phenomena23 Jan 2026 — Elizondo, you stated in your testimony that, &quot;Advanced technologies, no...</p></details>
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on Unidentified Anomalous Phenomena23 Jan 2026 — Elizondo, you stated in your testimony that, &quot;Advanced technologies, no...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/](https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditElizondo claims he signed an NDA prohibiting him from...Can someone please explain this? In the hearing he mentioned he signed so...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo claims he signed an NDA prohibiting him from...Can someone please explain this? In the hearing he mentioned he signed so...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medillonthehill.medill.northwestern.edu  
    Title: Medill on the Hill UAP hearing witnesses claim U.S  
-   Link: [https://medillonthehill.medill.northwestern.edu/2024/11/uap/](https://medillonthehill.medill.northwestern.edu/2024/11/uap/)  
+   Link: <a href="https://medillonthehill.medill.northwestern.edu/2024/11/uap/" target="_blank" rel="noopener noreferrer nofollow">https://medillonthehill.medill.northwestern.edu/2024/11/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government has hidden...13 Nov 2024 —... UAP as “an enigma, and a frustration.” Elizondo also said he believes the U.S. government and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/](https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CHdnmqIW9k4](https://www.youtube.com/watch?v=CHdnmqIW9k4)  
+   Link: <a href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CHdnmqIW9k4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on Unidentified Anomalous PhenomenaThis hearing is attended to help Congress and the American people to learn the extent of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: forbes.com  
    Title: congressional ufo hearing features eye opening uap claims  
-   Link: [https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/](https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/)  
+   Link: <a href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Witness testimony included eyebrow-raising claims about the existence...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Transcript-Congressional-Elizondo-Documents-Interest-ebook/dp/B0DPCR2DH2](https://www.amazon.com/Transcript-Congressional-Elizondo-Documents-Interest-ebook/dp/B0DPCR2DH2)  
+   Link: <a href="https://www.amazon.com/Transcript-Congressional-Elizondo-Documents-Interest-ebook/dp/B0DPCR2DH2" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Transcript-Congressional-Elizondo-Documents-Interest-ebook/dp/B0DPCR2DH2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>others on UAP sightings, military threats, and the [AARO](&amp;#123;&amp;#123; &#x27;aaro-b41c4f/&#x27; | relative_url &amp;#125;&amp;#125;) program.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nhpr.org  
    Title: Experts testify before lawmakers that the U.S  
-   Link: [https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs](https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs)  
+   Link: <a href="https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is running...13 Nov 2024 — Elizondo&#x27;s written testimony was brief and alleged that a secretive arms race is playing out on the global st...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: leonarddavid.com  
    Title: ufos uap hearing witness testimony available  
-   Link: [https://www.leonarddavid.com/ufos-uap-hearing-witness-testimony-available/](https://www.leonarddavid.com/ufos-uap-hearing-witness-testimony-available/)  
+   Link: <a href="https://www.leonarddavid.com/ufos-uap-hearing-witness-testimony-available/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/ufos-uap-hearing-witness-testimony-available/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAP Congressional Hearing: Witness Testimony...13 Nov 2024 — Testimony of a new congressional hearing on the topic of Unidentified...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Elizondo  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Elizondo.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Elizondo.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Elizondo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony of Luis Elizondo13 Nov 2024 — Furthermore, the U.S. is in possession of UAP technologies, as are some of our adversaries. I bel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: leonarddavid.com  
-   Link: [https://www.leonarddavid.com/congressional-hearing-unidentified-anomalous-phenomena-exposing-the-truth/](https://www.leonarddavid.com/congressional-hearing-unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://www.leonarddavid.com/congressional-hearing-unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/congressional-hearing-unidentified-anomalous-phenomena-exposing-the-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Exposing the Truth?11 Nov 2024 — Leonard David&#x27;s INSIDE OUTER SPACE · Congressional Hearing: Unidentifi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Rep. Nancy Mace discusses 'immaculate constellation' program  
-   Link: [https://www.youtube.com/watch?v=gU0Enhx7ITU](https://www.youtube.com/watch?v=gU0Enhx7ITU)  
+   Link: <a href="https://www.youtube.com/watch?v=gU0Enhx7ITU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gU0Enhx7ITU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! 2nd UFO hearing held by US congress, witnesses include fmr. miltary...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO whistleblower: 'Non-human biologics' found on crashed craft  
-   Link: [https://www.youtube.com/watch?v=9wHyoEOyT6Q](https://www.youtube.com/watch?v=9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Nancy Mace discusses &#x27;immaculate constellation&#x27; program...</p></details>

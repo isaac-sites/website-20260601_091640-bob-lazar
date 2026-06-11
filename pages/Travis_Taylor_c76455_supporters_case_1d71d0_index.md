@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-supporters-case/
 description: Focused pages that expand on Supporters.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Travis_Taylor_c76455_supporters_case_1d71d0
-parent_title: Supporters | How Credible Is Travis Taylor on UAPs?
+parent_title: Supporters
 parent_nav_short_title: Supporters
 parent_permalink: /supporters-58c2df/
 ---

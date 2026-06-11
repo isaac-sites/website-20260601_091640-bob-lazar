@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-aaro-rebuttal/
 description: Focused pages that expand on AARO Rebuttal.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: James_Lacatski_1e11f1_aaro_rebuttal_cce9e4
-parent_title: AARO Rebuttal | How Credible Is James Lacatski?
+parent_title: AARO Rebuttal
 parent_nav_short_title: AARO Rebuttal
 parent_permalink: /aaro-rebuttal/
 ---

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /craft-claims/
 nav_short_title: KONA BLUE
 title: Did KONA BLUE prove anything?
-title_full: Did KONA BLUE prove anything? | Craft Claims
+title_full: Did KONA BLUE prove anything?
 display_title_short: KONA BLUE
 display_title: KONA BLUE
 heading_title: Did KONA BLUE prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Is the Evidence for Recovered Craft? | Elizondo
+parent_title: Where Is the Evidence for Recovered Craft?
 parent_permalink: /craft-claims/
 parent_nav_short_title: Craft Claims
 parent_heading_title: Where Is the Evidence for Recovered Craft?
@@ -253,7 +253,7 @@ next_link:
   permalink: /proof-gap-eced37/
   short_title: Proof gap
   heading_title: What would prove recovered craft?
-date: '2026-06-09 02:54:37 '
+date: '2026-06-11 21:02:38 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue
 
 ## Introduction
 
-KONA BLUE became one of the most debated documents in the modern UFO disclosure argument because it looked, at first glance, like evidence that the US government had formally organised a programme to handle recovered non-human technology and biological material. For supporters of figures such as [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}), the proposal appeared to show that officials inside government were serious enough about alleged crash-retrieval claims to seek special access protections. For sceptics, it demonstrated something very different: how official paperwork can record beliefs, suspicions and ambitions without proving that the underlying claims were true.
-
+KONA BLUE became one of the most debated documents in the modern UFO disclosure argument because it looked, at first glance, like evidence that the US government had formally organised a programme to handle recovered non-human technology and biological material. For supporters of figures such as Luis Elizondo, the proposal appeared to show that officials inside government were serious enough about alleged crash-retrieval claims to seek special access protections. For sceptics, it demonstrated something very different: how official paperwork can record beliefs, suspicions and ambitions without proving that the underlying claims were true.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1-dark.svg" | relative_url }}" alt="KONA BLUE illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute matters because KONA BLUE sits directly inside the [evidence gap]({{ 'evidence-gap/' | relative_url }}) surrounding recovered non-human craft. The programme proposal contains references to alleged “non-human biologics” and advanced aerospace technologies, yet the Pentagon's UAP office later concluded that the programme was never activated, never received material, and never produced evidence that such objects existed. The result is a case study in how a government document can become a battleground over what counts as evidence. [[AARO]({{ 'aaro-b41c4f/' | relative_url }})]
@@ -276,7 +275,6 @@ What made the proposal explosive was its language. AARO's released documentation
 
 For readers trying to assess credibility, an important distinction exists between three separate questions:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Did government personnel believe unusual materials existed?
@@ -286,7 +284,6 @@ For readers trying to assess credibility, an important distinction exists betwee
 </div>
 
 KONA BLUE provides evidence for the first two questions. It does not, by itself, answer the third. That distinction sits at the centre of the dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information Papers13 Feb 2026 — Department of Homeland Security (DHS) KONA BLUE Information Release... KONA BLUE never received any mat...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYNupwcaxNo" title="Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer">Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 44.8K &middot; Uploaded: April 2024 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYNupwcaxNo">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +307,6 @@ Supporters argue that government agencies do not create sensitive programme prop
 
 Some advocates also argue that the proposal's rejection proves little. They contend that if a separate retrieval effort already existed elsewhere, officials controlling that effort would have little incentive to transfer authority to a new Department of Homeland Security compartment. In this interpretation, KONA BLUE failed because it attempted to gain oversight over an already-hidden activity. Discussions in UFO-focused communities frequently treat the proposal as indirect corroboration of later whistleblower claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Smoking Gun?</span><span class="citation-popover-snippet">KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 —... non-human biologics.... AAWSAP/AATIP allegedly found illegal crash re...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-2-dark.svg" | relative_url }}" alt="KONA BLUE illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sceptical interpretation
 
@@ -318,8 +314,7 @@ Sceptics focus on a different part of the record: the absence of delivered evide
 
 The released documents show that KONA BLUE's advocates expected material to arrive in the future. AARO's review states that no such material ever arrived, no operational programme emerged, and no empirical evidence was produced. From this perspective, the proposal documents record belief rather than proof. Officials can sincerely believe extraordinary claims and still be mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information Papers13 Feb 2026 — Department of Homeland Security (DHS) KONA BLUE Information Release... KONA BLUE never received any mat...</span></span></span>
 
-Critics also point to AARO's conclusion that many modern recovery allegations appear to circulate within a relatively small network of people connected to earlier UAP programmes. If the same group repeatedly shares assumptions about hidden craft-retrieval efforts, a proposal like KONA BLUE may reflect an internal belief system rather than independently verified intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — One named program was a UAP-related Prospective Special Acce...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
-
+Critics also point to AARO's conclusion that many modern recovery allegations appear to circulate within a relatively small network of people connected to earlier UAP programmes. If the same group repeatedly shares assumptions about hidden craft-retrieval efforts, a proposal like KONA BLUE may reflect an internal belief system rather than independently verified intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — One named program was a UAP-related Prospective Special Acce...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ahTxgnexVjM" title="UFO research: Scientists, spies and push for disclosure | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer">UFO research: Scientists, spies and push for disclosure | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 273.2K &middot; Uploaded: February 2026 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ahTxgnexVjM">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +328,6 @@ What KONA BLUE does not do is provide the missing public evidence for the strong
 
 This is where the dispute becomes relevant to Elizondo's broader credibility. Elizondo has publicly argued that the United States possesses advanced UAP technologies and that secrecy has obscured the truth from normal oversight channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Elizondo</span><span class="citation-popover-snippet">House Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — I believe we are in the midst of a multi-decade, secretive arms...</span></span></span> Oversight Committee KONA BLUE can be read as evidence that some officials shared similar concerns. However, it does not independently verify the existence of the technologies themselves.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/psZjEgpeMms" title="Universal Truth – The Evidence is Clear: We Are Not Alone | Luis “Lue” Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=psZjEgpeMms" target="_blank" rel="noopener noreferrer">Universal Truth – The Evidence is Clear: We Are Not Alone | Luis “Lue” Elizondo</a></p><p class="youtube-embed-meta">Channel: The Bankhead LVA &middot; Views: 162 &middot; Uploaded: July 2025 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=psZjEgpeMms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=psZjEgpeMms">Open on YouTube</a></p></div></div></div>
 
 ## How paper programmes become evidence disputes
@@ -343,7 +337,6 @@ KONA BLUE illustrates a recurring problem in controversial national-security top
 A proposal can be genuine while the underlying premise remains unproven.
 
 In practical terms, several different evidentiary layers became merged together in public discussion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,7 +355,6 @@ That is why KONA BLUE remains significant even though AARO concluded it never be
 
 For readers assessing recovered-craft narratives linked to Elizondo and related disclosure figures, KONA BLUE therefore functions less as proof and more as a cautionary example. It shows how a paper programme can become part of the mythology and politics of UFO disclosure while still leaving the central factual question unresolved: whether any non-human craft or biologics were ever actually recovered in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information Papers13 Feb 2026 — Department of Homeland Security (DHS) KONA BLUE Information Release... KONA BLUE never received any mat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — It is important to note that none of the interviewees had firsthand k...</span></span></span>
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-3-dark.svg" | relative_url }}" alt="KONA BLUE illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -377,16 +369,16 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Directly tied to the network of claims surrounding crash retrieval and secret programs.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -394,16 +386,16 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Examines claims of hidden programs and recovered technologies.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -411,16 +403,16 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Provides broader context around official UFO investigations.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,16 +420,16 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Closely connected to people and programs linked to KONA BLUE debates.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -445,7 +437,7 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -482,15 +474,15 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +490,15 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,31 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +538,7 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-kona-blue-prove-anything-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kona-blue-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kona-blue-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,113 +754,113 @@ For readers assessing recovered-craft narratives linked to Elizondo and related 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE FINAL 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — It is important to note that none of the interviewees had firsthand k...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All DHS documents associated with the KONA BLUE PSAP are declassified and approved for public release. • The strike-out method was utiliz...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — One named program was a UAP-related Prospective Special Acce...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — One named program was a UAP-related Prospective Special Acce...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Smoking Gun?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/](https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 —... non-human biologics.... AAWSAP/AATIP allegedly found illegal crash re...</p></details>
    Published: April 16, 2024  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/](https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE got disclosed. It certainly appears to indicate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Elizondo  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — I believe we are in the midst of a multi-decade, secretive arms...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — Department of Homeland Security (DHS) KONA BLUE Information Release... KONA BLUE never received any mat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: The Rise and Fall of Luis Elizondo!  
-   Link: [https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/](https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From UAP &#x27;Expert&#x27; to &#x27;...The biggest thing about Elizondo is that he still has a very cultish following of people who work to harass, th...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: inverse.com  
-   Link: [https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report](https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report)  
+   Link: <a href="https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE: Top-Secret Government Program To...8 Mar 2024 — KONA BLUE, as the report explains, was allegedly a top-secret program to inve...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: [https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/](https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/)  
+   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoHowever, it&#x27;s not like if you ask the DoD about its involvement with any illegal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/](https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/)  
+   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ans.” For many people following the UFO disclosure movement...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: ufo whistleblower pentagon complaint  
-   Link: [https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint](https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint)  
+   Link: <a href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department inspector gen...</p></details>
    Published: May 2021  
 
 15. <a id="endnote-15"></a>
    Source: indy100.com  
    Title: luis elizondo book alien evidence  
-   Link: [https://www.indy100.com/science-tech/luis-elizondo-book-alien-evidence](https://www.indy100.com/science-tech/luis-elizondo-book-alien-evidence)  
+   Link: <a href="https://www.indy100.com/science-tech/luis-elizondo-book-alien-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/luis-elizondo-book-alien-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo shares damning &#x27;evidence&#x27; of state-...21 Aug 2024 — Luis Elizondo has just published an explosive new book, in which he de...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: whatdotheyknow.com  
    Title: mr luis elizondo and his work wi  
-   Link: [https://www.whatdotheyknow.com/request/mr_luis_elizondo_and_his_work_wi](https://www.whatdotheyknow.com/request/mr_luis_elizondo_and_his_work_wi)  
+   Link: <a href="https://www.whatdotheyknow.com/request/mr_luis_elizondo_and_his_work_wi" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/mr_luis_elizondo_and_his_work_wi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>th Space Force in the USA...14 Nov 2024 — I note that at a Congressional hearing in Washington on the 13 November 2024, Mr Luis Elizondo...</p></details>
    Published: November 2024  
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program KONA BLUE was brought to AARO&#x27;s attention by inte...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=psZjEgpeMms](https://www.youtube.com/watch?v=psZjEgpeMms)  
+   Link: <a href="https://www.youtube.com/watch?v=psZjEgpeMms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psZjEgpeMms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reat Identification Program (AATIP), takes the stage to share...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TYNupwcaxNo](https://www.youtube.com/watch?v=TYNupwcaxNo)  
+   Link: <a href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TYNupwcaxNo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Pentagon acknowledges secret UFO project, the Kona Blue program...</p></details>

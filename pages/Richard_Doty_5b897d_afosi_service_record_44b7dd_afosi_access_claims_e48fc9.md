@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /afosi-record/
 nav_short_title: Access claims
 title: How Far Can AFOSI Credentials Stretch?
-title_full: How Far Can AFOSI Credentials Stretch? | AFOSI Record
+title_full: How Far Can AFOSI Credentials Stretch?
 display_title_short: Access claims
 display_title: Access claims
 heading_title: How Far Can AFOSI Credentials Stretch?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Can Be Verified About Doty's Service? | Doty
+parent_title: What Can Be Verified About Doty's Service?
 parent_permalink: /afosi-record/
 parent_nav_short_title: AFOSI Record
 parent_heading_title: What Can Be Verified About Doty's Service?
@@ -247,7 +247,7 @@ next_link:
   permalink: /bennewitz-file/
   short_title: Bennewitz file
   heading_title: Did AFOSI Confirm Paul Bennewitz?
-date: '2026-06-09 02:54:59 '
+date: '2026-06-11 21:02:57 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1.webp
@@ -256,16 +256,14 @@ image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_acce
 
 ## Introduction
 
-One of the central credibility questions around **[Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})** in UFO/UAP discourse is whether his role as a special agent in the **Air Force Office of Special Investigations (AFOSI)** substantiates his later claims of *deep access* to top‑secret extraterrestrial information, alien contacts, and secret programmes. A genuine AFOSI background lends institutional legitimacy to his connection with military investigations, but it does **not** automatically validate the extraordinary and often sensational assertions he has made about alien technology, Area 51 projects, or encounters with non‑human beings. In public records and reporting, Doty’s AFOSI credentials are verifiable; his broader claims about classified UFO programs remain unsupported by independent evidence and frequently contradicted by his own inconsistent accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">October 1, 2013 — It prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Air Force Office...</span><span class="citation-popover-meta">Published: October 1, 2013</span></span></span>
-
+One of the central credibility questions around **Richard Doty** in UFO/UAP discourse is whether his role as a special agent in the **Air Force Office of Special Investigations (AFOSI)** substantiates his later claims of *deep access* to top‑secret extraterrestrial information, alien contacts, and secret programmes. A genuine AFOSI background lends institutional legitimacy to his connection with military investigations, but it does **not** automatically validate the extraordinary and often sensational assertions he has made about alien technology, Area 51 projects, or encounters with non‑human beings. In public records and reporting, Doty’s AFOSI credentials are verifiable; his broader claims about classified UFO programs remain unsupported by independent evidence and frequently contradicted by his own inconsistent accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">October 1, 2013 — It prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Air Force Office...</span><span class="citation-popover-meta">Published: October 1, 2013</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1-dark.svg" | relative_url }}" alt="Access claims illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What AFOSI Credentials Actually Mean
 
 The **Air Force Office of Special Investigations (AFOSI)** is the United States Air Force’s criminal, fraud, and counterintelligence investigative service, tasked with protecting Air Force personnel, assets, technology, and operations. Special agents conduct criminal investigations, counterintelligence operations and security oversight, but they do **not** inherently possess privileged access to all compartmented defence programmes or extraterrestrial research dossiers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 
-Doty’s documented role as an AFOSI agent — including his appearance in AFOSI-related files connected to investigations at **Kirtland Air Force Base** in the early 1980s — is the strongest *institutional credential* he has. This background explains how he came into contact with amateur researchers and why he was involved in internal base security matters. It *doesn’t*, however, by itself, confirm deep clearances beyond his counterintelligence remit or that he held a “key” to other agencies’ black programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-[bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicalblindness.com">[Historical Blindness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicalblindness.com</span><span class="citation-popover-title">Historical Blindness UFO Disinfo: Part Three</span><span class="citation-popover-snippet">Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</span><span class="citation-popover-meta">Published: August 16, 2021</span></span></span>
-
+Doty’s documented role as an AFOSI agent — including his appearance in AFOSI-related files connected to investigations at **Kirtland Air Force Base** in the early 1980s — is the strongest *institutional credential* he has. This background explains how he came into contact with amateur researchers and why he was involved in internal base security matters. It *doesn’t*, however, by itself, confirm deep clearances beyond his counterintelligence remit or that he held a “key” to other agencies’ black programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicalblindness.com">[Historical Blindness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicalblindness.com</span><span class="citation-popover-title">Historical Blindness UFO Disinfo: Part Three</span><span class="citation-popover-snippet">Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</span><span class="citation-popover-meta">Published: August 16, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/53mud0ZuKIg" title="Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer">Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty</a></p><p class="youtube-embed-meta">Channel: Awaken Zone &middot; Views: 31.2K &middot; Uploaded: February 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=53mud0ZuKIg">Open on YouTube</a></p></div></div></div>
 
@@ -273,13 +271,12 @@ Doty’s documented role as an AFOSI agent — including his appearance in AFOSI
 
 ### Verified Service versus Extraordinary Assertions
 
-* **Verified**: Doty’s AFOSI identity and assignment at Kirtland — particularly his involvement in the **[Bennewitz affair]({{ 'bennewitz/' | relative_url }})**, where he engaged with civilian UFO researchers — are acknowledged in multiple sources. Documentary evidence shows he was an Air Force special agent whose duties involved counterintelligence and protective investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">October 1, 2013 — It prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Air Force Office...</span><span class="citation-popover-meta">Published: October 1, 2013</span></span></span>
+* **Verified**: Doty’s AFOSI identity and assignment at Kirtland — particularly his involvement in the **[Bennewitz]({{ 'bennewitz/' | relative_url }}) affair**, where he engaged with civilian UFO researchers — are acknowledged in multiple sources. Documentary evidence shows he was an Air Force special agent whose duties involved counterintelligence and protective investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">October 1, 2013 — It prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Air Force Office...</span><span class="citation-popover-meta">Published: October 1, 2013</span></span></span>
 * **Unverified and Extraordinary**: Doty has claimed over the years that he was briefed on highly classified extraterrestrial programmes, that he saw alien entities, and that he worked on secret projects at highly restricted sites such as Area 51. These assertions are not supported by public service records, and there is no declassified documentation confirming such access. Many of these claims come from later interviews, books, or fringe media appearances rather than official military records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Richard Doty and Project Serpo: &quot;Public Acclimation&quot; or &quot;Deception Program&quot;?</span><span class="citation-popover-snippet">February 18, 2006...</span><span class="citation-popover-meta">Published: February 18, 2006</span></span></span>
 
 ### Professional Role Versus “Insider Secrets”
 
 AFOSI agents may be privy to sensitive information *as part of their official duties*, but these duties typically revolve around internal Air Force security and counterintelligence — not extraterrestrial research or cross‑agency special access programmes. The leap from being a vetted agent to possessing unique insight into alien crash recoveries or Earth‑to‑planet exchange missions (e.g., Project [Serpo]({{ 'serpo/' | relative_url }}) narratives) lacks substantiated institutional linkage. Such claims are categorically outside the documented scope of AFOSI responsibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Richard Doty and Project Serpo: &quot;Public Acclimation&quot; or &quot;Deception Program&quot;?</span><span class="citation-popover-snippet">February 18, 2006...</span><span class="citation-popover-meta">Published: February 18, 2006</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-2-dark.svg" | relative_url }}" alt="Access claims illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Media and UFO Culture Inflate AFSOI Credentials
@@ -288,29 +285,25 @@ Documentaries like *[Mirage Men]({{ 'mirage-men/' | relative_url }})* and repeat
 
 Rather than confirming secret access, the film and much investigative journalism portray Doty as a figure whose **professionally grounded counterintelligence role was used to shape narratives within UFO subcultures**. This has led some commentators to interpret his activities as either misdirection, deception operations, or intentional disinformation rather than evidence of insider extraterrestrial programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/awsv66J31S8" title="60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer">60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 123.9K &middot; Uploaded: June 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=awsv66J31S8">Open on YouTube</a></p></div></div></div>
 
 ## Credibility Implications of Later “Whistleblower” Narratives
 
 After leaving official service, Doty’s claims have shifted into realms where he asserts personal experiences with alien contacts and highly classified projects — narratives that go well *beyond what official [AFOSI records]({{ 'afosi-record/' | relative_url }}) document*. These claims often rely on anecdotes, second‑hand accounts, or appearances on UFO‑centric platforms. Critics highlight that these later stories are inconsistent or lack external corroboration and point out that his professional role does not, on its own, imply access to the kind of compartmented material he describes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Richard Doty and Project Serpo: &quot;Public Acclimation&quot; or &quot;Deception Program&quot;?</span><span class="citation-popover-snippet">February 18, 2006...</span><span class="citation-popover-meta">Published: February 18, 2006</span></span></span>
 
-Conversely, some in the UFO community treat his professional background as lending weight to his later assertions, despite the absence of documentary evidence. The result is a credibility tug‑of‑war anchored less in verifiable fact than in interpretation of personal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+Conversely, some in the UFO community treat his professional background as lending weight to his later assertions, despite the absence of documentary evidence. The result is a credibility tug‑of‑war anchored less in verifiable fact than in interpretation of personal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-3-dark.svg" | relative_url }}" alt="Access claims illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reader Takeaways on AFOSI Creds vs Deep Access Claims
 
 * **Institutional foothold, limited authentication:** Doty’s AFOSI credentials are real and explain his involvement in base security, counterintelligence, and contact with UFO enthusiasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 * **Not a blank cheque for special access:** Being an AFOSI agent does **not** inherently mean he was read into all classified projects or that he had access to extraterrestrial recoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
-* **Claims beyond verifiable documentation remain unsupported:** Assertions about alien entities, secret exchange programmes, or work at Area 51 are not substantiated by declassified records and often stem from later personal accounts or media appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* **Claims beyond verifiable documentation remain unsupported:** Assertions about alien entities, secret exchange programmes, or work at Area 51 are not substantiated by declassified records and often stem from later personal accounts or media appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * **Media amplification shapes perception:** Documentaries and UFO culture have elevated his persona by linking his real credentials with speculative narratives, sometimes blurring lines between documented service and unsupported claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 
 In short, Doty’s AFOSI background explains *why* he gained attention in UFO circles, but it cannot on its own confirm extraordinary insider claims about deep alien secrets or highly compartmented projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PuMuD4i_6ZY" title="Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer">Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 20.7K &middot; Uploaded: March 2021 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PuMuD4i_6ZY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -324,16 +317,16 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Examines Doty&#x27;s claims and the limits of apparent insider authority.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -341,16 +334,16 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Shows how official credentials became intertwined with UFO mythology.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -358,16 +351,16 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Provides perspective on how real classified programs operate compared with extraordinary insider narratives.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -375,16 +368,16 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H5JTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By David Michael Jacobs</p>
         
-        <p class="fr-book-desc">Explains real-world compartmentalization and limits of institutional access.</p>
+        
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,7 +385,7 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -429,15 +422,15 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -445,15 +438,15 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,15 +454,15 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +470,15 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,7 +486,7 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="access-claims-how-far-can-afosi-credentials-stretch-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-afosi-credentials-stretch-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-far-can-afosi-credentials-stretch-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,102 +702,102 @@ In short, Doty’s AFOSI background explains *why* he gained attention in UFO ci
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2013 — It prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Air Force Office...</p></details>
    Published: October 1, 2013  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: [https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations](https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations)  
+   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
 
 3. <a id="endnote-3"></a>
    Source: bibliotecapleyades.net  
    Title: Richard Doty and Project Serpo: "Public Acclimation" or "Deception Program"?  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm](https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2006...</p></details>
    Published: February 18, 2006  
 
 4. <a id="endnote-4"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/](https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</p></details>
+   Link: <a href="https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/interview-with-the-disinformation-agent-richard-doty-inside-the-governments-ufo-secrets/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesInterview with the Disinformation Agent Richard Doty22 May 2026 — Doty had a 20-year career with the Air...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: historicalblindness.com  
    Title: Historical Blindness UFO Disinfo: Part Three  
-   Link: [https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-[bennewitz](https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-[bennewitz)  
+   Link: <a href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</p></details>
    Published: August 16, 2021  
 
 6. <a id="endnote-6"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/film/556599/doty](https://www.e-flux.com/film/556599/doty)  
+   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
+   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride through a world of d...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: openskyprotocol.com  
-   Link: [https://www.openskyprotocol.com/explore/wiki/albuquerque-sighting](https://www.openskyprotocol.com/explore/wiki/albuquerque-sighting)  
+   Link: <a href="https://www.openskyprotocol.com/explore/wiki/albuquerque-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.openskyprotocol.com/explore/wiki/albuquerque-sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Sky — The UFO archive that investigates itselfPHYSICAL / SENSOR EVIDENCE ELECTROMAGNETIC INTERFERENCE (EM EFFECT) The most significa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: issues.org  
-   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Won&#x27;t Go AwayTheir suspicions about Elizondo have their roots in the story of Richard Doty, a former special agent for the US Air Fo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stardrive.org  
-   Link: [https://www.stardrive.org/index.php/sd-weird-desk-news/63716-former-counterintelligence-officer-discloses-area-51-highly-classified-access-programs](https://www.stardrive.org/index.php/sd-weird-desk-news/63716-former-counterintelligence-officer-discloses-area-51-highly-classified-access-programs)  
+   Link: <a href="https://www.stardrive.org/index.php/sd-weird-desk-news/63716-former-counterintelligence-officer-discloses-area-51-highly-classified-access-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.stardrive.org/index.php/sd-weird-desk-news/63716-former-counterintelligence-officer-discloses-area-51-highly-classified-access-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2022 — FORMER COUNTERINTELLIGENCE OFFICER DISCLOSES AREA 51 HIGHLY CLASSIFIED ACCESS PROGRAMS Details Category: Weird Desk News...</p></details>
    Published: June 22, 2022  
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty … deceived UFO spotters. Mirage Men&#x27;s chief coup is to land an actual man in black: a former Air Force special investigation...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forbiddenknowledgetv.net  
-   Link: [https://forbiddenknowledgetv.net/area-51-testimony-richard-doty-afosi/](https://forbiddenknowledgetv.net/area-51-testimony-richard-doty-afosi/)  
+   Link: <a href="https://forbiddenknowledgetv.net/area-51-testimony-richard-doty-afosi/" target="_blank" rel="noopener noreferrer nofollow">https://forbiddenknowledgetv.net/area-51-testimony-richard-doty-afosi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs/Interdimensional/Breakaway Civilization AREA 51 TESTIMONY: RICHARD DOTY, AFOSI Watch Later Cinema Mode Well, wouldn’t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theufochronicles.com  
    Title: Echoes From the Past: The MJ-12 Disinformation Scheme Still Reverberates  
-   Link: [https://www.theufochronicles.com/2014/05/echoes-from-past-mj-12-disinformation.html](https://www.theufochronicles.com/2014/05/echoes-from-past-mj-12-disinformation.html)  
+   Link: <a href="https://www.theufochronicles.com/2014/05/echoes-from-past-mj-12-disinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2014/05/echoes-from-past-mj-12-disinformation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2014 — ECHOES FROM THE PAST: THE MJ-12 DISINFORMATION SCHEME STILL REVERBERATES | iframe | | | | By Robert Hastings www.ufohastin...</p></details>
    Published: May 17, 2014  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=53mud0ZuKIg](https://www.youtube.com/watch?v=53mud0ZuKIg)  
+   Link: <a href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=53mud0ZuKIg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex Air Force Agent Breaks Silence on UFOs! | Richard DotyI&#x27;m a Former Intelligence officer with the Air Force office of special investiga...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: denofgeek.com  
    Title: But was any of it intentional? Image By Alejandro Rojas | May 6, 2  
-   Link: [https://www.denofgeek.com/culture/why-the-pentagon-needs-to-address-ufo-disinformation/](https://www.denofgeek.com/culture/why-the-pentagon-needs-to-address-ufo-disinformation/)  
+   Link: <a href="https://www.denofgeek.com/culture/why-the-pentagon-needs-to-address-ufo-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/why-the-pentagon-needs-to-address-ufo-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why The Pentagon Needs to Address UFO Disinformation | Den of GeekMay 6, 2025 — WHY THE PENTAGON NEEDS TO ADDRESS UFO DISINFORMATION Many...</p></details>
    Published: May 6, 2025  
 
 16. <a id="endnote-16"></a>
    Source: theufochronicles.com  
    Title: UFO NEWS Richard Doty ex air force osi agent admits hoaxing  
-   Link: [https://www.theufochronicles.com/2014/05/UFO-NEWS-Richard-Doty-ex-air-force-osi-agent-admits-hoaxing.html](https://www.theufochronicles.com/2014/05/UFO-NEWS-Richard-Doty-ex-air-force-osi-agent-admits-hoaxing.html)  
+   Link: <a href="https://www.theufochronicles.com/2014/05/UFO-NEWS-Richard-Doty-ex-air-force-osi-agent-admits-hoaxing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2014/05/UFO-NEWS-Richard-Doty-ex-air-force-osi-agent-admits-hoaxing.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force OSI Agent Admits Hoaxing Major UFO Accounts | VIDEOMay 13, 2014 — THURSDAY, MAY 15, 2014 EX-AIR FORCE OSI AGENT ADMITS HOAXI...</p></details>
    Published: May 13, 2014  
 
 17. <a id="endnote-17"></a>
    Source: info-quest.org  
    Title: Nhe Real ‘X-Files’: Is Uncle Sam a Closet UFOlogist?  
-   Link: [https://www.info-quest.org/documents/realXfiles.html](https://www.info-quest.org/documents/realXfiles.html)  
+   Link: <a href="https://www.info-quest.org/documents/realXfiles.html" target="_blank" rel="noopener noreferrer nofollow">https://www.info-quest.org/documents/realXfiles.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He has been vouched for by two former Directors of Central Intelligence (DCI) – as well as Jim – but has been excoriated by his former su...</p></details>

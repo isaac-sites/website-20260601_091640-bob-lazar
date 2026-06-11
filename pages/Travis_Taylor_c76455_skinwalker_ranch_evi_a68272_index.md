@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-skinwalker-ranch/
 description: Focused pages that expand on Skinwalker.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Travis_Taylor_c76455_skinwalker_ranch_evi_a68272
-parent_title: Skinwalker | How Credible Is Travis Taylor on UAPs?
+parent_title: Skinwalker
 parent_nav_short_title: Skinwalker
 parent_permalink: /skinwalker-4c0f0b/
 ---

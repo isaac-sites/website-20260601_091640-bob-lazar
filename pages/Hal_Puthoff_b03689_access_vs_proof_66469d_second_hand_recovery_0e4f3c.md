@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /access-vs-proof/
 nav_short_title: Hearsay Risk
 title: What happens when insiders say they were told?
-title_full: What happens when insiders say they were told? | Access vs Proof
+title_full: What happens when insiders say they were told?
 display_title_short: Hearsay Risk
 display_title: Hearsay Risk
 heading_title: What happens when insiders say they were told?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Insider Access Prove His UFO Claims? | Puthoff
+parent_title: Does Insider Access Prove His UFO Claims?
 parent_permalink: /access-vs-proof/
 parent_nav_short_title: Access vs Proof
 parent_heading_title: Does Insider Access Prove His UFO Claims?
@@ -253,7 +253,7 @@ next_link:
   permalink: /materials-test/
   short_title: Materials Test
   heading_title: When testing UFO material proves less
-date: '2026-06-09 03:01:23 '
+date: '2026-06-11 21:06:21 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_reco
 ## Introduction
 
 [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s most controversial recent UFO claims do not rest on public documents, recovered materials, or first-hand observation. They rest on trust. When he discusses alleged crash-retrieval programmes, recovered non-human technology, or even reports of multiple non-human species, he generally presents himself as someone who has heard accounts from people he considers credible rather than someone who directly witnessed the evidence himself. That distinction is central to assessing his credibility.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1-dark.svg" | relative_url }}" alt="Hearsay Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The issue is not whether Puthoff has genuine government and defence connections. Much of that background is documented. The issue is what happens when those connections become the basis for accepting extraordinary claims that remain publicly unverified. In credibility terms, second-hand sourcing creates a different standard of proof. Readers are no longer evaluating physical evidence. They are evaluating a network of trusted intermediaries, unnamed sources, and claims that often cannot be independently checked.
@@ -277,7 +276,6 @@ That role can create a powerful impression of access. If a physicist with a hist
 In recent interviews, Puthoff has discussed alleged crash-retrieval accounts involving multiple forms of non-human life. He explicitly stated that he did not personally access the material in question and was relying on what others told him. Reports covering those remarks quoted him saying that he had "not had direct access" but believed the people who spoke to him. mint <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonlovesbusiness.com">[London Loves Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonlovesbusiness.com</span><span class="citation-popover-snippet">Ex-CIA-linked researcher claims US recovered UFOs with...6 days ago — “I have not had direct access to that, but I believe the people I...</span></span></span>
 
 That admission is important because it changes the claim from:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -299,7 +297,6 @@ The strongest version of Puthoff's public narrative is not that he personally re
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Claims that the United States possesses recovered anomalous craft.
@@ -314,7 +311,6 @@ Supporters argue that this matters because Puthoff's sources are not random memb
 Sceptics respond that source status alone does not solve the verification problem. Highly placed individuals can misunderstand information, repeat stories they cannot independently verify, inherit myths from earlier generations of personnel, or become convinced by compartmentalised narratives that were never proven.
 
 The distinction becomes especially important because many recovery stories already involve multiple layers of separation. In some cases, one person claims another person saw a craft, while a third person claims to know the programme that studied it. Every additional layer introduces opportunities for misunderstanding, exaggeration, selective memory or institutional folklore.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5D_Idexk8AY" title="UFO Crashes ‘Recovered Four Alien Species,’ Ex CIA-Funded Scientist Claims | WATCH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5D_Idexk8AY" target="_blank" rel="noopener noreferrer">UFO Crashes ‘Recovered Four Alien Species,’ Ex CIA-Funded Scientist Claims | WATCH</a></p><p class="youtube-embed-meta">Channel: ETimes &middot; Views: 58.1K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5D_Idexk8AY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5D_Idexk8AY">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +344,6 @@ How many steps separate the public claim from the alleged event?
 
 A story passed through several insiders may feel persuasive socially while remaining weak evidentially.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-2-dark.svg" | relative_url }}" alt="Hearsay Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Verification becomes circular
 
@@ -363,7 +358,6 @@ Person C refers back to Person A.
 To outsiders, the network can appear substantial because several recognised names repeat the same story. Yet the underlying evidence may still trace back to a small number of original claims.
 
 This is one reason critics argue that some crash-retrieval narratives risk becoming self-reinforcing rather than independently confirmed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N6AsG_pepIA" title="Breaking: Former CIA Scientist Claims America Recovered 4 Alien Species From UFO Crashes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N6AsG_pepIA" target="_blank" rel="noopener noreferrer">Breaking: Former CIA Scientist Claims America Recovered 4 Alien Species From UFO Crashes</a></p><p class="youtube-embed-meta">Channel: Kanak News &middot; Views: 1.7K &middot; Uploaded: May 2026 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N6AsG_pepIA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N6AsG_pepIA">Open on YouTube</a></p></div></div></div>
 
@@ -395,7 +389,6 @@ Those are fundamentally different statements.
 
 This is one reason recent headlines about alleged recovered non-human species drew criticism. Even reports repeating Puthoff's comments generally acknowledged that he was relaying information from others rather than describing direct personal access. mint <span class="citation-chip-wrap"><a class="citation-chip" href="https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londonlovesbusiness.com">[London Loves Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londonlovesbusiness.com</span><span class="citation-popover-snippet">Ex-CIA-linked researcher claims US recovered UFOs with...6 days ago — “I have not had direct access to that, but I believe the people I...</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-3-dark.svg" | relative_url }}" alt="Hearsay Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility risk for Puthoff
 
@@ -413,27 +406,25 @@ This issue has followed Puthoff for years beyond crash-retrieval debates. Critic
 
 The disagreement is therefore less about credentials than about standards of evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KAT_3CBBOk0" title="Exclusive Third Eye Spies Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer">Exclusive Third Eye Spies Clip</a></p><p class="youtube-embed-meta">Channel: ComingSoon.net &middot; Views: 8.0K &middot; Uploaded: February 2019 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KAT_3CBBOk0">Open on YouTube</a></p></div></div></div>
 
 ## How official reviews affect the assessment
 
 The emergence of official UAP investigations has sharpened this problem.
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly stated that it has found no verified evidence that the US government possesses extraterrestrial technology or recovered non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</span></span></span> That does not automatically disprove every source cited by Puthoff. AARO's findings could be incomplete, mistaken, or limited by access constraints. Supporters of disclosure frequently make those arguments.
+The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly stated that it has found no verified evidence that the US government possesses extraterrestrial technology or recovered non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</span></span></span> That does not automatically disprove every source cited by Puthoff. AARO's findings could be incomplete, mistaken, or limited by access constraints. Supporters of disclosure frequently make those arguments.
 
 However, the reports do create a direct evidential conflict.
 
 On one side are networks of insiders, confidential sources and second-hand testimony.
 
-On the other side are official investigations stating that they have not found empirical evidence supporting those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</span></span></span> For readers assessing credibility, the key point is that Puthoff's position currently relies far more heavily on trusted testimony than on publicly available proof.
+On the other side are official investigations stating that they have not found empirical evidence supporting those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</span></span></span> For readers assessing credibility, the key point is that Puthoff's position currently relies far more heavily on trusted testimony than on publicly available proof.
 
 ## How to weigh trusted networks without overclaiming
 
 A balanced assessment does not require choosing between complete belief and complete dismissal.
 
 Several points can be true simultaneously:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -566,15 +557,15 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/7e41c81d7e4333fac25a.jpg' | relative_url }}" alt="Listing image for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +573,15 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +589,15 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +605,15 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,7 +621,7 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="hearsay-risk-what-happens-when-insiders-say-they-were-told-hal-puthoff-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-insiders-say-they-were-told-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happens-when-insiders-say-they-were-told-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -845,78 +836,78 @@ Puthoff's network access is real and relevant. His second-hand recovery stories 
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: people.com  
-   Link: [https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655](https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655)  
+   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: londonlovesbusiness.com  
-   Link: [https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/](https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/)  
+   Link: <a href="https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/ex-cia-linked-researcher-claims-us-recovered-ufos-with-multiple-forms-of-alien-life/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA-linked researcher claims US recovered UFOs with...6 days ago — “I have not had direct access to that, but I believe the people I...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/](https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/)  
+   Link: <a href="https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff made a striking claim that the U.S. has recovered four distinct species of extraterrestrial life from crashed UFOs. Speaking...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: m.dailyhunt.in  
-   Link: [https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147](https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147)  
+   Link: <a href="https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147" target="_blank" rel="noopener noreferrer nofollow">https://m.dailyhunt.in/news/india/english/mint%2Benglish-epaper-minten/ufo%2Bcontroversy%2Breignites%2Bafter%2Bformer%2Bcialinked%2Bresearcher%2Bclaims%2Bus%2Brecovered%2Bmultiple%2Balien%2Bspecies-newsid-n712609147</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>controversy reignites after former CIA-linked...5 days ago — A former CIA-funded researcher has triggered fresh controversy after claimi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DV_YkUiE6qM/?hl=bg](https://www.instagram.com/p/DV_YkUiE6qM/?hl=bg)  
+   Link: <a href="https://www.instagram.com/p/DV_YkUiE6qM/?hl=bg" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV_YkUiE6qM/?hl=bg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s no way to really talk about it. Транскрипция на английски. How many of these crash crafts do you...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5D_Idexk8AY](https://www.youtube.com/watch?v=5D_Idexk8AY)  
+   Link: <a href="https://www.youtube.com/watch?v=5D_Idexk8AY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5D_Idexk8AY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crashes &#x27;Recovered Four Alien Species,&#x27; Ex CIA...A former CIA-funded researcher has sparked global controversy after claiming that t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;reports of what seemed like extraterrestrial bodies, crash reports of UAP craft, and recovered artifacts from crashes. ○ [https://archive...&quot;](https://archive...&quot;)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/news/4-alien-species-pulled-crashed-125055750.html](https://www.aol.com/news/4-alien-species-pulled-crashed-125055750.html)  
+   Link: <a href="https://www.aol.com/news/4-alien-species-pulled-crashed-125055750.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/4-alien-species-pulled-crashed-125055750.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff, former Advanced Aerospace Weapon System Applications Program advisor and CIA-funded researcher, made the bombastic claim alo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYikCnCEU1Q/](https://www.instagram.com/p/DYikCnCEU1Q/)  
+   Link: <a href="https://www.instagram.com/p/DYikCnCEU1Q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYikCnCEU1Q/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brobible on May 19, 2026: &quot;Dr. Hal Puthoff, a former CIA-funded researcher and advisor to the Advanced Aerospace...</p></details>
    Published: May 19, 2026  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/](https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is American alchemy. What&#x27;s interesting about their work and...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thenews.com.pk  
-   Link: [https://www.thenews.com.pk/latest/1402936-four-alien-species-recovered-from-crashed-ufos-ex-cia-researcher-claims](https://www.thenews.com.pk/latest/1402936-four-alien-species-recovered-from-crashed-ufos-ex-cia-researcher-claims)  
+   Link: <a href="https://www.thenews.com.pk/latest/1402936-four-alien-species-recovered-from-crashed-ufos-ex-cia-researcher-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1402936-four-alien-species-recovered-from-crashed-ufos-ex-cia-researcher-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>physicist Dr Hal Puthoff made a striking assertion: the US has recovered...</p></details>

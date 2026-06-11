@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /los-alamos/
 nav_short_title: Jet Car Story
 title: Did a Local Newspaper Accidentally Boost Lazar's Credibility?
-title_full: Did a Local Newspaper Accidentally Boost Lazar's Credibility? | Los Alamos
+title_full: Did a Local Newspaper Accidentally Boost Lazar's Credibility?
 display_title_short: Jet Car Story
 display_title: Jet Car Story
 heading_title: Did a Local Newspaper Accidentally Boost Lazar's Credibility?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Los Alamos Really Prove? | Lazar
+parent_title: What Does Los Alamos Really Prove?
 parent_permalink: /los-alamos/
 parent_nav_short_title: Los Alamos
 parent_heading_title: What Does Los Alamos Really Prove?
@@ -253,7 +253,7 @@ next_link:
   permalink: /lampf-roles/
   short_title: LAMPF Roles
   heading_title: Could LAMPF Experience Explain Lazar's Technical Persona?
-date: '2026-06-09 02:51:58 '
+date: '2026-06-11 21:00:52 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article
 
 ## Introduction
 
-In the wider evaluation of [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s credibility, one often‑cited piece of early documentary evidence is a 1982 **Los Alamos Monitor** local newspaper article that described him as a “physicist at the Los Alamos Meson Physics Facility.” This jet‑car profile predates Lazar’s later UFO‑related claims by several years and is frequently referenced by supporters as independent confirmation of his technical standing in the Los Alamos scientific community. A closer look at what the article actually said — and what that description does and does not prove — helps clarify how the earliest public record shaped Lazar’s reputation and why it remains a contested piece of evidence in assessments of his background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
-
+In the wider evaluation of Bob Lazar’s credibility, one often‑cited piece of early documentary evidence is a 1982 **Los Alamos Monitor** local newspaper article that described him as a “physicist at the Los Alamos Meson Physics Facility.” This jet‑car profile predates Lazar’s later UFO‑related claims by several years and is frequently referenced by supporters as independent confirmation of his technical standing in the Los Alamos scientific community. A closer look at what the article actually said — and what that description does and does not prove — helps clarify how the earliest public record shaped Lazar’s reputation and why it remains a contested piece of evidence in assessments of his background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1-dark.svg" | relative_url }}" alt="Jet Car Story illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Los Alamos Monitor Actually Said
@@ -276,7 +275,6 @@ The article’s text is consistent across multiple reconstructions and timelines
 
 However, the thrust of the piece was about a quirky engineering hobby, not an employment verification. Most paragraphs focus on the car’s design, performance, and the community reaction. The “physicist” label appears only in passing; it is embedded within a human‑interest context rather than in a formal employment discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kJyCL0KW75A" title="&quot;Who Is Bob Lazar?&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kJyCL0KW75A" target="_blank" rel="noopener noreferrer">&quot;Who Is Bob Lazar?&quot;</a></p><p class="youtube-embed-meta">Channel: Curt Jaimungal &middot; Views: 38.8K &middot; Uploaded: November 2023 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kJyCL0KW75A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kJyCL0KW75A">Open on YouTube</a></p></div></div></div>
 
 ## How the Feature Helps — and Where It Stops
@@ -286,26 +284,23 @@ However, the thrust of the piece was about a quirky engineering hobby, not an em
 **Limits of what it proves.** Several important caveats matter for interpreting this article responsibly:
 
 * The title and content of the piece are not about employment history or credentials; they are about a **jet‑car** built by a local resident. The “physicist” designation is made in the context of the story’s narrative, not through documented verification of Lazar’s professional credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span>
-* Later commentary by the original author, Terry England, indicates the phrasing came from interviews and was taken at face value rather than rigorously verified against employment or personnel records. England, when asked decades later, acknowledged that he did not independently confirm Lazar’s academic or professional standing before printing the article. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Bob Lazar | Wiki Disc</span><span class="citation-popover-snippet">WikiDiscBob Lazar | WikiDiscJanuary 20, 2026...</span><span class="citation-popover-meta">Published: January 20, 2026</span></span></span>
-* Newspaper features frequently rely on subjects’ self‑descriptions. They are not the same as institutional human‑resources files, formal staff listings, degree records, or vetted CV checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Bob Lazar | Disclosdex</span><span class="citation-popover-snippet">DisclosdexBob Lazar | Disclosdex...</span></span></span>
+* Later commentary by the original author, Terry England, indicates the phrasing came from interviews and was taken at face value rather than rigorously verified against employment or personnel records. England, when asked decades later, acknowledged that he did not independently confirm Lazar’s academic or professional standing before printing the article. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Bob Lazar &#124; Wiki Disc</span><span class="citation-popover-snippet">Bob Lazar &#124; WikiDiscJanuary 20, 2026...</span><span class="citation-popover-meta">Published: January 20, 2026</span></span></span>
+* Newspaper features frequently rely on subjects’ self‑descriptions. They are not the same as institutional human‑resources files, formal staff listings, degree records, or vetted CV checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Bob Lazar &#124; Disclosdex</span><span class="citation-popover-snippet">Bob Lazar &#124; Disclosdex...</span></span></span>
 
 In short, while the jet‑car article supplies a contemporaneous mention linking Lazar with a technical milieu in Los Alamos, it does **not** by itself verify that he had earned [degrees]({{ 'degrees/' | relative_url }}) in physics, held a formal staff appointment as a physicist, or did substantive physics research there.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-2-dark.svg" | relative_url }}" alt="Jet Car Story illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Jet‑Car Report Still Matters
 
-Despite its limitations, the 1982 monitor article plays a distinctive role in the **[Los Alamos records]({{ 'los-alamos/' | relative_url }}) and technical background** thread of Lazar’s biography:
+Despite its limitations, the 1982 monitor article plays a distinctive role in the **Los Alamos records and technical background** thread of Lazar’s biography:
 
 * **Chronological anchor:** It is one of the **earliest public references** associating Lazar with Los Alamos and with a technical descriptor, establishing that he was present and active in the region’s technical circles before he became a UFO‑related figure in the late 1980s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
-* **Narrative resonance:** For supporters, the article’s terminology seems to buttress the idea that Lazar’s later claims did not emerge from nowhere; he was, on record, engaged with engineering and physics‑flavoured interests locally. This contrasts with sceptical portrayals that cast him as a complete outsider prior to 1989. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">The Robert Lazar Timeline | Disclosdex</span><span class="citation-popover-snippet">From the dates and addresses listed in the bankruptcy papers, it appears they settled in a rented duple...</span></span></span>
-* **Context for disputes over credentials:** Because the article amplified the “physicist” label publicly, it has become a focal point in disputes over Lazar’s actual professional status. Critics point to it as an example of how casual or unverified descriptors can be misread as factual employment proof; supporters treat it as independent contemporary corroboration of a technical role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Bob Lazar | Wiki Disc</span><span class="citation-popover-snippet">WikiDiscBob Lazar | WikiDiscJanuary 20, 2026...</span><span class="citation-popover-meta">Published: January 20, 2026</span></span></span>
+* **Narrative resonance:** For supporters, the article’s terminology seems to buttress the idea that Lazar’s later claims did not emerge from nowhere; he was, on record, engaged with engineering and physics‑flavoured interests locally. This contrasts with sceptical portrayals that cast him as a complete outsider prior to 1989. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">The Robert Lazar Timeline &#124; Disclosdex</span><span class="citation-popover-snippet">From the dates and addresses listed in the bankruptcy papers, it appears they settled in a rented duple...</span></span></span>
+* **Context for disputes over credentials:** Because the article amplified the “physicist” label publicly, it has become a focal point in disputes over Lazar’s actual professional status. Critics point to it as an example of how casual or unverified descriptors can be misread as factual employment proof; supporters treat it as independent contemporary corroboration of a technical role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Bob Lazar &#124; Wiki Disc</span><span class="citation-popover-snippet">Bob Lazar &#124; WikiDiscJanuary 20, 2026...</span><span class="citation-popover-meta">Published: January 20, 2026</span></span></span>
 
 In evidential terms, the article is **useful context but not conclusive proof** of Lazar’s claimed physicist credentials. It participates in the broader pattern of public portrayals and personal claims that surround his early career but does not settle the specific question of his academic or professional qualifications.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BEWz4SXfyCQ" title="Joe Rogan Experience #1315 - Bob Lazar &amp; Jeremy Corbell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BEWz4SXfyCQ" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #1315 - Bob Lazar &amp; Jeremy Corbell</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 66.4M &middot; Uploaded: June 2019 &middot; Length: 2 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BEWz4SXfyCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BEWz4SXfyCQ">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XXve4QnlaMo" title="The Story Behind S4, Aliens &amp; Bob Lazar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer">The Story Behind S4, Aliens &amp; Bob Lazar</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 161.0K &middot; Uploaded: January 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XXve4QnlaMo">Open on YouTube</a></p></div></div></div>
 
@@ -313,97 +308,54 @@ In evidential terms, the article is **useful context but not conclusive proof** 
 
 Two important distinctions help parse the evidentiary value of the 1982 descriptor:
 
-* **Public label vs formal credential:** A newspaper’s characterisation, especially in a casual human‑interest piece, does not equate to verification that Lazar had degrees in physics or that a laboratory formally employed him as a research physicist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Bob Lazar | Disclosdex</span><span class="citation-popover-snippet">DisclosdexBob Lazar | Disclosdex...</span></span></span>
+* **Public label vs formal credential:** A newspaper’s characterisation, especially in a casual human‑interest piece, does not equate to verification that Lazar had degrees in physics or that a laboratory formally employed him as a research physicist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Bob Lazar &#124; Disclosdex</span><span class="citation-popover-snippet">Bob Lazar &#124; Disclosdex...</span></span></span>
 * **Presence vs substantive role:** Even if Lazar did work at Los Alamos (e.g., through a contractor or in a technical support capacity), the article does not clarify what work he did, under what title, or what level of responsibility he held. Subsequent investigations into Los Alamos directories and employment records make that uncertainty distinctive: directory listings may place his name among scientists and technicians, but they do not prove a staff physicist appointment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 As such, whilst it remains a **historical data point**, the jet‑car article cannot, on its own, substantiate the contested claim that Lazar was a formally qualified physicist engaged in research at Los Alamos.
 
 In the broader “Los Alamos records and technical background” narrative thread, this portrait of Lazar’s technical persona in 1982 enriches the factual base but sits alongside other records that are needed — and debated — to understand what his actual credentials and roles were in that environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-3-dark.svg" | relative_url }}" alt="Jet Car Story illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did a Local Newspaper Accidentally Boost Lazar&#x27;s Credibility?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did a Local Newspaper Accidentally Boost Lazar&#x27;s Credibility?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Covers Lazar&#x27;s Los Alamos period, public reputation, and the events surrounding the famous newspaper profile.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-mxMAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By David Darlington</p>
-        
-        <p class="fr-book-desc">Places Lazar-related claims within the wider history and mythology of Area 51.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Aliens and the Battle for the Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=scfrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Aliens and the Battle for the Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Aliens and the Battle for the Truth">UFOs, Aliens and the Battle for the Truth</a>
-        </h4>
-        <p class="fr-book-author">By Neil Nixon</p>
-        
-        <p class="fr-book-desc">Examines major UFO narratives including figures associated with Lazar-era controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
-        
-        <p class="fr-book-desc">Appeals to readers interested in the technical image Lazar cultivated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Aliens and the Battle for the Truth</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -440,15 +392,15 @@ In the broader “Los Alamos records and technical background” narrative threa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Norev Volvo 264 Jet-car Echelle 1/43 Diecast Model Car"><img src="https://i.ebayimg.com/images/g/puIAAeSwZLZp0g7E/s-l225.jpg" alt="Listing image for Norev Volvo 264 Jet-car Echelle 1/43 Diecast Model Car" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer">Norev Volvo 264 Jet-car Echelle 1/43 Diecast Model Car</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jet car model">Search <span data-ebay-domain-label>eBay.co.uk</span>: jet car model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -456,15 +408,15 @@ In the broader “Los Alamos records and technical background” narrative threa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Norev Jet-Car Mercedes 350 No 821 1:43 Vintage Diecast Model Unboxed D4."><img src="https://i.ebayimg.com/images/g/f2cAAOSwhh9oSxqE/s-l225.jpg" alt="Listing image for Norev Jet-Car Mercedes 350 No 821 1:43 Vintage Diecast Model Unboxed D4." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer">Norev Jet-Car Mercedes 350 No 821 1:43 Vintage Diecast Model Unboxed D4.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jet car model">Search <span data-ebay-domain-label>eBay.co.uk</span>: jet car model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -472,15 +424,31 @@ In the broader “Los Alamos records and technical background” narrative threa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for â­�MAISTO 1:18 SCALE - 1968 FORD MUSTANG GT COBRA JET WHITE DIECAST MODEL CAR â­�"><img src="https://i.ebayimg.com/images/g/858AAeSwK4lqDZPG/s-l225.jpg" alt="Listing image for â­�MAISTO 1:18 SCALE - 1968 FORD MUSTANG GT COBRA JET WHITE DIECAST MODEL CAR â­�" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer">â­�MAISTO 1:18 SCALE - 1968 FORD MUSTANG GT COBRA JET WHITE DIECAST MODEL CAR â­�</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jet car model">Search <span data-ebay-domain-label>eBay.co.uk</span>: jet car model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,7 +456,7 @@ In the broader “Los Alamos records and technical background” narrative threa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=jet+car+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jet car model" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-jet-car-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-a-local-newspaper-accidentally-boost-lazar-s-credibility-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -704,127 +672,127 @@ In the broader “Los Alamos records and technical background” narrative threa
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 2. <a id="endnote-2"></a>
    Source: otherhand.org  
    Title: Other Hand Bob’s Jetcar article  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/</a>  
 
 3. <a id="endnote-3"></a>
    Source: wikidisc.org  
    Title: Wiki Disc Bob Lazar | Wiki Disc  
-   Link: [https://www.wikidisc.org/wiki/Bob_Lazar](https://www.wikidisc.org/wiki/Bob_Lazar)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiDiscBob Lazar | WikiDiscJanuary 20, 2026...</p></details>
+   Link: <a href="https://www.wikidisc.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Bob_Lazar</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar | WikiDiscJanuary 20, 2026...</p></details>
    Published: January 20, 2026  
 
 4. <a id="endnote-4"></a>
    Source: disclosdex.com  
    Title: Bob Lazar | Disclosdex  
-   Link: [https://disclosdex.com/people/bob-lazar](https://disclosdex.com/people/bob-lazar)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosdexBob Lazar | Disclosdex...</p></details>
+   Link: <a href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/people/bob-lazar</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar | Disclosdex...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: otherhand.org  
    Title: The Lazar [Timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: [https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/](https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/)  
+   Link: <a href="https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the dates and addresses listed in the bankruptcy papers, it appears they settled in a rented dup...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: disclosdex.com  
    Title: The Robert Lazar Timeline | Disclosdex  
-   Link: [https://disclosdex.com/documents/1997-robert-lazar-timeline](https://disclosdex.com/documents/1997-robert-lazar-timeline)  
+   Link: <a href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1997-robert-lazar-timeline</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From the dates and addresses listed in the bankruptcy papers, it appears they settled in a rented duple...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: otherhand.org  
    Title: Included on that list was Dr. Edward Telle  
-   Link: [https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-synopsis/](https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-synopsis/)  
+   Link: <a href="https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-synopsis/" target="_blank" rel="noopener noreferrer nofollow">https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-synopsis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lazar SynopsisMarch 12, 1995 — At this point, in 1988, Bob was bored with the photo lab and had sent out resumes to various governmen...</p></details>
    Published: March 12, 1995  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: "Who Is Bob Lazar?"  
-   Link: [https://www.youtube.com/watch?v=kJyCL0KW75A](https://www.youtube.com/watch?v=kJyCL0KW75A)  
+   Link: <a href="https://www.youtube.com/watch?v=kJyCL0KW75A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kJyCL0KW75A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar - Jet Dragster (Early 80&#x27;s footage)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Bob Lazar  
-   Link: [https://www.youtube.com/watch?v=6Zl9ooxuVKo](https://www.youtube.com/watch?v=6Zl9ooxuVKo)  
+   Link: <a href="https://www.youtube.com/watch?v=6Zl9ooxuVKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6Zl9ooxuVKo</a>  
 
 10. <a id="endnote-10"></a>
    Source: papooselake.org  
    Title: Papoose Lake Institute The Updated Bob Lazar Timeline  
-   Link: [https://www.papooselake.org/the-updated-bob-lazar-timeline](https://www.papooselake.org/the-updated-bob-lazar-timeline)  
+   Link: <a href="https://www.papooselake.org/the-updated-bob-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.papooselake.org/the-updated-bob-lazar-timeline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Papoose Lake InstituteThe Updated Bob Lazar Timeline - Papoose Lake InstituteAugust 24, 2025...</p></details>
    Published: August 24, 2025  
 
 11. <a id="endnote-11"></a>
    Source: dreamlandresort.com  
-   Link: [https://www.dreamlandresort.com/area51/lazar/timeline.htm](https://www.dreamlandresort.com/area51/lazar/timeline.htm)  
+   Link: <a href="https://www.dreamlandresort.com/area51/lazar/timeline.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dreamlandresort.com/area51/lazar/timeline.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(14) At Rachel-93, RL was asked for the year of his graduation from MIT and if he got a Ph.D. He replied, &quot;No, it was a Master&#x27;s degree...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: alienscientist.com  
-   Link: [https://www.alienscientist.com/boblazar.html](https://www.alienscientist.com/boblazar.html)  
+   Link: <a href="https://www.alienscientist.com/boblazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alienscientist.com/boblazar.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BOB&#x27;S FIRST EXPERIENCE WITH DECEIVING THE MEDIA: Lazar and his jet car established quite a presence in the small town of Los Alamos, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later](https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later)  
+   Link: <a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later | GaiaJune 9, 2022 — SCIENTIST’S CLAIM OF UFO FUEL SOURCE VERIFIED DECADES LA...</p></details>
    Published: June 9, 2022  
 
 14. <a id="endnote-14"></a>
    Source: osti.gov  
    Title: ORIGIN S AND HISTORY OF THE LOS ALAMOS MESON PHYSICS FACILITY  
-   Link: [https://www.osti.gov/biblio/4694217](https://www.osti.gov/biblio/4694217)  
+   Link: <a href="https://www.osti.gov/biblio/4694217" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/4694217</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Technical Report) | OSTI.GOVDecember 31, 1971 — ORIGINS AND HISTORY OF THE LOS ALAMOS MESON PHYSICS FACILITY. Technical Report · Fri Dec...</p></details>
    Published: December 31, 1971  
 
 15. <a id="endnote-15"></a>
    Source: pdfhost.io  
    Title: Analysis of the Technology of the Sports Model Flying Disc issue 1 | PDF Host  
-   Link: [https://pdfhost.io/v/wX4FnLIPp_Analysis_of_the_Technology_of_the_Sports_Model_Flying_Disc_issue_1](https://pdfhost.io/v/wX4FnLIPp_Analysis_of_the_Technology_of_the_Sports_Model_Flying_Disc_issue_1)  
+   Link: <a href="https://pdfhost.io/v/wX4FnLIPp_Analysis_of_the_Technology_of_the_Sports_Model_Flying_Disc_issue_1" target="_blank" rel="noopener noreferrer nofollow">https://pdfhost.io/v/wX4FnLIPp_Analysis_of_the_Technology_of_the_Sports_Model_Flying_Disc_issue_1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 19, 2022 — Breaking into a secure server should be a bigger challenge to a secret agency, but if the rumors about backdoors in...</p></details>
    Published: September 19, 2022  
 
 16. <a id="endnote-16"></a>
    Source: music.amazon.com  
    Title: disciplinas alternativas dis 004 iv 30 bob lazar y su delorean  
-   Link: [https://music.amazon.com/podcasts/20d92d36-4a07-4a42-aae6-54764f646a27/episodes/b5d59b7a-563c-4d1f-9e37-bb463a48d4d2/disciplinas-alternativas-dis-004-iv-30-bob-lazar-y-su-delorean](https://music.amazon.com/podcasts/20d92d36-4a07-4a42-aae6-54764f646a27/episodes/b5d59b7a-563c-4d1f-9e37-bb463a48d4d2/disciplinas-alternativas-dis-004-iv-30-bob-lazar-y-su-delorean)  
+   Link: <a href="https://music.amazon.com/podcasts/20d92d36-4a07-4a42-aae6-54764f646a27/episodes/b5d59b7a-563c-4d1f-9e37-bb463a48d4d2/disciplinas-alternativas-dis-004-iv-30-bob-lazar-y-su-delorean" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/podcasts/20d92d36-4a07-4a42-aae6-54764f646a27/episodes/b5d59b7a-563c-4d1f-9e37-bb463a48d4d2/disciplinas-alternativas-dis-004-iv-30-bob-lazar-y-su-delorean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disciplinas Alternativas Sep 17 2024 • 7 mins Recordemos al famoso Delorean de volver a futuro investigando el vehículo de Bob Lazar. La...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/10062129/](https://pubmed.ncbi.nlm.nih.gov/10062129/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10062129/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10062129/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1996 Oct 7;77(15):3082-3085. doi: 10.1103/PhysRevLett.77.3082. EVIDENCE FOR NU -BAR MICRO--&gt; NU -BARE OSCILLATIONS FROM THE L...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: STATU S OF THE CLINTON P  
-   Link: [https://www.sciencedirect.com/science/article/pii/B9780720404814500083](https://www.sciencedirect.com/science/article/pii/B9780720404814500083)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/B9780720404814500083" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/B9780720404814500083</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ANDERSON MESON PHYSICS FACILITY (LAMPF) - ScienceDirectFEW BODY DYNAMICS 1976, Pages 26-37 STATUS OF THE CLINTON P. ANDERSON MESON PHYSIC...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ufoevidence.org  
    Title: The Bob Lazar Story  
-   Link: [https://www.ufoevidence.org/documents/doc1249.htm](https://www.ufoevidence.org/documents/doc1249.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc1249.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1249.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BRODEN, UFO AREA ORIGINAL SOURCE | FAIR USE NOTICE Summary: This is a really fascinating story and the story self has as many sup...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: zamandayolculuk.com  
    Title: Image Without dou  
-   Link: [https://www.zamandayolculuk.com/boblazarphysic.htm](https://www.zamandayolculuk.com/boblazarphysic.htm)  
+   Link: <a href="https://www.zamandayolculuk.com/boblazarphysic.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.zamandayolculuk.com/boblazarphysic.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Technologie - © Cetin BAL - GSM: 05366063183 -Turkiye/DenizliDecember 14, 2015 — | Time Travel Research Center © 1998 Cetin BAL - GSM...</p></details>
    Published: December 14, 2015  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Story Behind S4, Aliens & Bob Lazar  
-   Link: [https://www.youtube.com/watch?v=XXve4QnlaMo](https://www.youtube.com/watch?v=XXve4QnlaMo)  
+   Link: <a href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XXve4QnlaMo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Fuel at Area 51: Bob Lazar&#x27;s Shocking Claims | WION Podcast...</p></details>

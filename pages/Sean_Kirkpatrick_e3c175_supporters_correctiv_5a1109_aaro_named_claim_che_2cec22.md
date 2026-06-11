@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-0a40e4/
 nav_short_title: Claim Checks
 title: What happens when UAP claims meet records?
-title_full: What happens when UAP claims meet records? | Supporters
+title_full: What happens when UAP claims meet records?
 display_title_short: Claim Checks
 display_title: Claim Checks
 heading_title: What happens when UAP claims meet records?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Sceptics Think Kirkpatrick Was Needed | Kirkpatrick
+parent_title: Why Sceptics Think Kirkpatrick Was Needed
 parent_permalink: /supporters-0a40e4/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Sceptics Think Kirkpatrick Was Needed
@@ -247,7 +247,7 @@ next_link:
   permalink: /honest-mistakes/
   short_title: Honest Mistakes
   heading_title: Can credible UAP witnesses still be wrong?
-date: '2026-06-09 02:58:23 '
+date: '2026-06-11 21:04:38 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_n
 
 ## Introduction
 
-For [supporters]({{ 'supporters-0a40e4/' | relative_url }}) of [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }}), one of AARO’s most important contributions was not any single conclusion about UFOs or UAPs. It was a method. Rather than treating sweeping allegations as either obviously true or obviously false, AARO attempted to break them down into specific, testable claims involving named people, alleged programmes, companies, facilities, documents and events. Supporters argue that this created a higher evidential standard for public debate: if a claim names something concrete, investigators should be able to look for records, interview participants, examine archives and obtain accountable denials or confirmations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
-
+For [supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Sean Kirkpatrick, one of AARO’s most important contributions was not any single conclusion about UFOs or UAPs. It was a method. Rather than treating sweeping allegations as either obviously true or obviously false, AARO attempted to break them down into specific, testable claims involving named people, alleged programmes, companies, facilities, documents and events. Supporters argue that this created a higher evidential standard for public debate: if a claim names something concrete, investigators should be able to look for records, interview participants, examine archives and obtain accountable denials or confirmations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-1-dark.svg" | relative_url }}" alt="Claim Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader case for Kirkpatrick as a corrective figure, this claim-by-claim approach matters because it shifts attention away from general suspicion and towards verifiable evidence. Supporters see it as an attempt to answer a practical question: what happens when dramatic UAP allegations are tested against the documentary record rather than repeated as rumours? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...To date, AARO has found no verifiable evidence for claims that th...</span></span></span>
@@ -268,16 +267,13 @@ AARO's historical review was not presented as a philosophical argument against e
 
 Supporters of Kirkpatrick argue that this distinction is crucial. A claim such as "the government knows more than it admits" is difficult to investigate because it is vague. A claim that a particular programme operated at a particular location, involved a specific contractor and was overseen by identifiable officials can be examined directly. The claim either leaves a documentary trail or it does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — Also, part of the report were assessments of claims m...</span></span></span>
 
-This is why supporters often describe AARO's work as an exercise in evidential accountability rather than debunking. The office repeatedly stated that it sought direct knowledge from people who claimed involvement in UAP-related government activities and established reporting channels specifically for such witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROSubmit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
+This is why supporters often describe AARO's work as an exercise in evidential accountability rather than debunking. The office repeatedly stated that it sought direct knowledge from people who claimed involvement in UAP-related government activities and established reporting channels specifically for such witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
 
 In this reading, the key question was not whether witnesses were sincere. The key question was whether the claims could survive contact with records, programme histories and identifiable participants.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q4lWb1XBvVo" title="Pentagon UFO Hunter Reveals What He Knows About Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q4lWb1XBvVo" target="_blank" rel="noopener noreferrer">Pentagon UFO Hunter Reveals What He Knows About Aliens</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 53.0K &middot; Uploaded: May 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q4lWb1XBvVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q4lWb1XBvVo">Open on YouTube</a></p></div></div></div>
-
 ## Examples of documents, companies and alleged programmes checked
 
-AARO's 2024 Historical Record Report stated that investigators reviewed government archives, historical programme records and allegations involving named individuals, locations, technological tests and documents said to be connected to reverse-engineering efforts. The report concluded that no empirical evidence had been found supporting claims that the US government or private companies possessed or reverse-engineered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">WikisourceReport on the Historical Record of US Government...10 May 2024 — AARO determined, based on all information provided to date, t...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</span></span></span>
+AARO's 2024 Historical Record Report stated that investigators reviewed government archives, historical programme records and allegations involving named individuals, locations, technological tests and documents said to be connected to reverse-engineering efforts. The report concluded that no empirical evidence had been found supporting claims that the US government or private companies possessed or reverse-engineered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">Report on the Historical Record of US Government...10 May 2024 — AARO determined, based on all information provided to date, t...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</span></span></span>
 
 Several examples illustrate the approach.
 
@@ -291,7 +287,6 @@ Several examples illustrate the approach.
 
 For supporters, these examples are significant because they involve attempts to trace allegations back to identifiable sources rather than leaving them at the level of anonymous testimony.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-2-dark.svg" | relative_url }}" alt="Claim Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The role of accountable denials
 
@@ -303,15 +298,11 @@ This approach reflects a broader investigative principle: when a claim identifie
 
 Supporters view this as preferable to debates in which allegations circulate for years without any effort to contact the individuals or organisations involved.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wPMvAQA2ce4" title="Director Dr. Sean Kirkpatrick Acknowledges AARO&#x27;s Exclusive Reliance on Title 10 Authorities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wPMvAQA2ce4" target="_blank" rel="noopener noreferrer">Director Dr. Sean Kirkpatrick Acknowledges AARO&#x27;s Exclusive Reliance on Title 10 Authorities</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wPMvAQA2ce4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wPMvAQA2ce4">Open on YouTube</a></p></div></div></div>
-
 ## What the approach was designed to detect
 
 The claim-check model was closely linked to AARO's concern about circular reporting. According to AARO and subsequent Pentagon briefings, investigators concluded that many stories about hidden UAP programmes appeared to originate from a relatively small set of recurring allegations that were repeated across decades and increasingly treated as independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</span></span></span>
 
 Under a claim-by-claim framework, investigators try to determine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,8 +317,8 @@ Under a claim-by-claim framework, investigators try to determine:
 
 Supporters argue that this process is especially important in intelligence and national-security environments, where secrecy can encourage speculation and misunderstandings about legitimate classified programmes. AARO stated that some allegations appeared to involve misinterpretations of real but unrelated classified activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q4lWb1XBvVo" title="Pentagon UFO Hunter Reveals What He Knows About Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q4lWb1XBvVo" target="_blank" rel="noopener noreferrer">Pentagon UFO Hunter Reveals What He Knows About Aliens</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 53.0K &middot; Uploaded: May 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q4lWb1XBvVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q4lWb1XBvVo">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-dark.svg" | relative_url }}" alt="Claim Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the approach proves and cannot prove
 
 Even many supporters of Kirkpatrick acknowledge limits to AARO's method.
@@ -340,96 +331,53 @@ Critics have therefore argued that the absence of evidence in reviewed records i
 
 Supporters respond that while this objection is logically possible, it risks making claims impossible to test. If records, witnesses, programme histories and direct denials are all rejected in advance, then no realistic investigative process can ever disprove a claim. From their perspective, AARO's value lies precisely in establishing a standard under which extraordinary allegations must confront identifiable evidence rather than remain permanently insulated from scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO HunterJanuary 19, 2024 — 19 Jan 2024 — A forthcoming investigational report from an office of the Pentagon has found no...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span> [2U.S.] Department of War
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Why supporters see the standard as important
 
 Within the debate over Sean Kirkpatrick's credibility, AARO's named-claim checks are often cited as one of the strongest arguments in his favour. The importance is not that every investigator agrees with every conclusion. Rather, supporters believe the office attempted to replace a culture of insinuation with a culture of verification.
 
 Under that standard, a claim gains credibility when it can be connected to records, documents, participants and independently checkable facts. A claim loses credibility when repeated investigation finds no supporting evidence, no confirming records and no reliable first-hand witnesses. Whether or not readers accept all of AARO's conclusions, supporters argue that this emphasis on named, testable allegations represents a more rigorous [proof standard]({{ 'proof-standard/' | relative_url }}) than relying on reputation, secrecy or repetition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 4</span><span class="citation-popover-snippet">reviewed official USG efforts involving UFOs/UAP since 1945. This research revealed the existence of approximately two...</span></span></span>
 
+<img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-dark.svg" | relative_url }}" alt="Claim Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_aaro_named_claim_che_2cec22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What happens when UAP claims meet records?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What happens when UAP claims meet records?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Closely aligned with document-based government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Examines how extraordinary claims intersect with classified records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for verifying claims about secret programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports evidence-first evaluation of extraordinary allegations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,15 +414,15 @@ Under that standard, a claim gains credibility when it can be connected to recor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +430,15 @@ Under that standard, a claim gains credibility when it can be connected to recor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +446,15 @@ Under that standard, a claim gains credibility when it can be connected to recor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +462,15 @@ Under that standard, a claim gains credibility when it can be connected to recor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +478,7 @@ Under that standard, a claim gains credibility when it can be connected to recor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="claim-checks-what-happens-when-uap-claims-meet-records-sean-kirkpatrick-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-uap-claims-meet-records-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="what-happens-when-uap-claims-meet-records-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,152 +694,152 @@ Under that standard, a claim gains credibility when it can be connected to recor
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/](https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...To date, AARO has found no verifiable evidence for claims that th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — We assess that claims of such hidden programs ar...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — Also, part of the report were assessments of claims m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceReport on the Historical Record of US Government...10 May 2024 — AARO determined, based on all information provided to date, t...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — AARO determined, based on all information provided to date, t...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROSubmit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</p></details>
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — The form will take individuals through submissio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Title, Report on the Historical Record of U.S. Governmen...</p></details>
    Published: May 2024  
 
 9. <a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reviewed official USG efforts involving UFOs/UAP since 1945. This research revealed the existence of approximately two...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, [Unresolved UAP](&amp;#123;&amp;#123; &#x27;unresolved-uap-d5436d/&#x27; | relative_url &amp;#125;&amp;#125;) Report, Europe 2...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: aaros historical report a tale of factual errors and old mistakes repeated  
-   Link: [https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/](https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/)  
+   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the D...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S  
-   Link: [https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/](https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/)  
+   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO HunterJanuary 19, 2024 — 19 Jan 2024 — A forthcoming investigational report from an office of the Pentagon has found no...</p></details>
    Published: January 19, 2024  
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: sean kirkpatrick pentagon ufo conspiracy theory myths  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ex-UFO chief says conspiracy theorists in...27 Jan 2024 — Sean Kirkpatrick, the first director of the all-domain anomaly resolu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsIt is important to note that AARO cannot discount nor rely on interviewee accounts alone be...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: the latest [aaro report](&#123;&#123; 'aaro-report-8d3982/' | relative_url &#125;&#125;) on uaps which was released in late 2024 touched on hundre  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/ross-coulthart-sits-down-with-newsnation-correspondent-xavier-walton-following-h/514142917659397/](https://www.facebook.com/NewsNationNow/posts/ross-coulthart-sits-down-with-newsnation-correspondent-xavier-walton-following-h/514142917659397/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-sits-down-with-newsnation-correspondent-xavier-walton-following-h/514142917659397/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-sits-down-with-newsnation-correspondent-xavier-walton-following-h/514142917659397/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart sits down with NewsNation correspondent...Jessica Mendoza: The story ended up being left out of AARO&#x27;s final report...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Pentagon UFO chief separates science from fiction | Nightline  
-   Link: [https://www.youtube.com/watch?v=uYignoEW_0s](https://www.youtube.com/watch?v=uYignoEW_0s)  
+   Link: <a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uYignoEW_0s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In All-domain Anomaly Resolution Office (AARO): a Duality in Mission, Dr. Sean Kirkpatrick outlines the precise operational method and pr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/perthnow/posts/the-us-department-of-war-released-a-second-tranche-of-files-relating-to-alien-an/1452674386899822/](https://www.facebook.com/perthnow/posts/the-us-department-of-war-released-a-second-tranche-of-files-relating-to-alien-an/1452674386899822/)  
+   Link: <a href="https://www.facebook.com/perthnow/posts/the-us-department-of-war-released-a-second-tranche-of-files-relating-to-alien-an/1452674386899822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/perthnow/posts/the-us-department-of-war-released-a-second-tranche-of-files-relating-to-alien-an/1452674386899822/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>edge, particularly of government-involved UAP...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: conspirafy.com  
    Title: aaro historical report tracker  
-   Link: [https://conspirafy.com/conspiracies/aaro-historical-report-tracker](https://conspirafy.com/conspiracies/aaro-historical-report-tracker)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspirafy12 May 2026 — AARO&#x27;s 2024 Volume I report reviewed hundreds of classified programs and found no credible evidence of recovered...</p></details>
+   Link: <a href="https://conspirafy.com/conspiracies/aaro-historical-report-tracker" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/aaro-historical-report-tracker</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 May 2026 — AARO&#x27;s 2024 Volume I report reviewed hundreds of classified programs and found no credible evidence of recovered...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — The &quot;claims&quot; made in the report, again and again, consist of &quot;AARO has seen no eviden...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: elitefasion.com  
    Title: aaro historical record report reverse engineering  
-   Link: [https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering](https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering)  
+   Link: <a href="https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It says it reviewed named programs, officials, companies, documents, and materials tied to...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the [transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;) effect on r/UFO and r/UAP subredditsby M Bastos · 2026 — In this study, we explore the public reception regarding UAP di...</p></details>

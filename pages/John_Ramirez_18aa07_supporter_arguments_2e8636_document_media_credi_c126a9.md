@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-124489/
 nav_short_title: FOIA media
 title: When UFO media makes an insider sound serious
-title_full: When UFO media makes an insider sound serious | Supporters
+title_full: When UFO media makes an insider sound serious
 display_title_short: FOIA media
 display_title: FOIA media
 heading_title: When UFO media makes an insider sound serious
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Supporters Trust Ramirez? | Ramirez
+parent_title: Why Do Supporters Trust Ramirez?
 parent_permalink: /supporters-124489/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Do Supporters Trust Ramirez?
@@ -253,7 +253,7 @@ next_link:
   permalink: /threat-work/
   short_title: Threat work
   heading_title: Why counterproliferation matters to supporters
-date: '2026-06-09 02:59:57 '
+date: '2026-06-11 21:05:21 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_me
 
 ## Introduction
 
-One reason some UFO audiences take [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}) more seriously than many other public UFO personalities is not simply what he says, but where he says it. Ramirez's reputation among [supporters]({{ 'supporters-124489/' | relative_url }}) received a noticeable boost when he appeared on platforms associated with document archives, Freedom of Information Act (FOIA) requests, government records research and long-form source analysis. In UFO culture, the setting matters. A retired intelligence officer speaking in a venue known for collecting declassified files can appear more credible than the same person making identical claims on a purely entertainment-focused paranormal show.
-
+One reason some UFO audiences take John Ramirez more seriously than many other public UFO personalities is not simply what he says, but where he says it. Ramirez's reputation among [supporters]({{ 'supporters-124489/' | relative_url }}) received a noticeable boost when he appeared on platforms associated with document archives, Freedom of Information Act (FOIA) requests, government records research and long-form source analysis. In UFO culture, the setting matters. A retired intelligence officer speaking in a venue known for collecting declassified files can appear more credible than the same person making identical claims on a purely entertainment-focused paranormal show.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1-dark.svg" | relative_url }}" alt="FOIA media illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That credibility boost is real as a social phenomenon, but it creates an important question: does appearing in document-centred UFO media provide evidence that a person's claims are true, or does it mainly change how audiences perceive them? Ramirez's case illustrates the difference between those two things.
@@ -277,7 +276,6 @@ Among the most influential examples is <span class="citation-link-wrap"><a class
 When Ramirez appeared in a lengthy Black Vault interview in 2022, some supporters viewed that appearance as a form of indirect validation. The interview framed him not merely as a UFO commentator but as a retired CIA officer discussing intelligence processes, orb reports, internal conversations and institutional attitudes toward unusual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/podcast/ep-93-retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Ep. #93 – Retired CIA Officer John Ramirez on the Agency...8 Feb 2022 — The Black Vault... UFO related events; and so much more. Stay...</span></span></span>
 
 For audiences already familiar with FOIA culture, several assumptions can emerge:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,10 +316,9 @@ The Black Vault occupies a distinctive position in UFO media because its reputat
 
 Within UFO communities, that history created what might be called a "FOIA credibility effect". People often assume that a platform associated with records, archives and government paperwork operates under stricter evidential standards than outlets centred on extraordinary claims.
 
-When Ramirez appeared in such spaces, supporters frequently interpreted the association as meaningful. Online discussions often referenced his Black Vault appearances specifically when arguing that he deserved more attention than ordinary UFO influencers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThis is a Black Vault Interview with John Ramirez everyone...September 11, 2024 — r/UFOs - Black Vault Mystery as UFO vault with 3...</span><span class="citation-popover-meta">Published: September 11, 2024</span></span></span>
+When Ramirez appeared in such spaces, supporters frequently interpreted the association as meaningful. Online discussions often referenced his Black Vault appearances specifically when arguing that he deserved more attention than ordinary UFO influencers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is a Black Vault Interview with John Ramirez everyone...September 11, 2024 — r/UFOs - Black Vault Mystery as UFO vault with 3...</span><span class="citation-popover-meta">Published: September 11, 2024</span></span></span>
 
 The important point, however, is that the credibility boost came largely from the venue's reputation rather than from newly released documentation supporting Ramirez's more extraordinary claims.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-2-dark.svg" | relative_url }}" alt="FOIA media illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between scrutiny and corroboration
@@ -346,9 +343,7 @@ This is why sceptics argue that appearing in a FOIA-oriented venue can sometimes
 
 The result is a presentation that feels document-adjacent without necessarily being document-supported.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cQfySY_2BLc" title="GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer">GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists</a></p><p class="youtube-embed-meta">Channel: Project Unity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cQfySY_2BLc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-dark.svg" | relative_url }}" alt="FOIA media illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters still see value in these appearances
 
 Supporters do not usually argue that The Black Vault or similar outlets have proven Ramirez's claims. Their argument is more limited.
@@ -366,8 +361,6 @@ The weakness in that argument is that it can blur together two separate proposit
 
 The first proposition is substantially easier to support than the second.
 
-
-<img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-dark.svg" | relative_url }}" alt="FOIA media illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When credibility transfer becomes a risk
 
 The Ramirez case highlights a recurring pattern in modern UFO media.
@@ -507,15 +500,15 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited"><img src="https://i.ebayimg.com/images/g/vF8AAOSwdBZan1-M/s-l225.jpg" alt="Listing image for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +516,15 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Badge Patch Heat Stick Patch"><img src="https://i.ebayimg.com/images/g/mDYAAOSwcx5ZZebs/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Badge Patch Heat Stick Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Badge Patch Heat Stick Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +532,15 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central US Secret Service Hook and loop scratch patch"><img src="https://i.ebayimg.com/images/g/UmAAAeSwPXpp3WX8/s-l225.jpg" alt="Listing image for CIA Central US Secret Service Hook and loop scratch patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central US Secret Service Hook and loop scratch patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +548,15 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last"><img src="https://i.ebayimg.com/images/g/jT0AAeSw1rlp8Ayp/s-l225.jpg" alt="Listing image for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,7 +564,7 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="foia-media-when-ufo-media-makes-an-insider-sound-serious-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-media-makes-an-insider-sound-serious-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="when-ufo-media-makes-an-insider-sound-serious-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -791,109 +784,109 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
 
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/podcast/ep-93-retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more/](https://www.theblackvault.com/documentarchive/podcast/ep-93-retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/podcast/ep-93-retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/podcast/ep-93-retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. #93 – Retired CIA Officer John Ramirez on the Agency...8 Feb 2022 — The Black Vault... UFO related events; and so much more. Stay...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: Navy Confirms Existence of 'Unidentified' Flying Objects Seen in Leaked Footage  
-   Link: [https://time.com/5680192/navy-confirms-ufo-videos-real/](https://time.com/5680192/navy-confirms-ufo-videos-real/)  
+   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/](https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis is a Black Vault Interview with John Ramirez everyone...September 11, 2024 — r/UFOs - Black Vault Mystery as UFO vault with 3...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fe19zc/this_is_a_black_vault_interview_with_john_ramirez/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a Black Vault Interview with John Ramirez everyone...September 11, 2024 — r/UFOs - Black Vault Mystery as UFO vault with 3...</p></details>
    Published: September 11, 2024  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/u22d1l/orbs/](https://www.reddit.com/r/ufo/comments/u22d1l/orbs/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/u22d1l/orbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/u22d1l/orbs/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>secret CIA programs, and hidden truths behind UFO phenomena. He...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/va3r01/list_of_most_credible_people_in_ufo_sector/](https://www.reddit.com/r/UFOs/comments/va3r01/list_of_most_credible_people_in_ufo_sector/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/va3r01/list_of_most_credible_people_in_ufo_sector/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/va3r01/list_of_most_credible_people_in_ufo_sector/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Most Credible People in UFO SectorAliens Control the World: Leaked &quot;Non-Terrestial&quot; Officers List, Underground Alien Species, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/](https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/](https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IC11 Nov 2024 — There is, however, a growing body of evidence that the government is not being transparent about what it knows about unid...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2645882</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis Onlinethe transparency effect on r/UFO and r/UAP subredditsby M Bastos · 2026 — The allure of the unknown, compelling an...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/](https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Even as mystery over the 11 dead or missing U.S....UFO researchers Timothy Hood and Nigel Watson have reportedly claimed that the series...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L33D/](https://www.globalplayer.com/podcasts/42L33D/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastAndy is joined by Pavel from Psicoactivo for a special joint live stream looking at the latest developments in the UFO an...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYNVSk9SulS/](https://www.instagram.com/reel/DYNVSk9SulS/)  
+   Link: <a href="https://www.instagram.com/reel/DYNVSk9SulS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNVSk9SulS/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>𝕀 𝔸𝕄 𝕊𝕆ℙℍ𝕀𝔸👽 | this is only the beginning of DisclosureThe Trump administration is reportedly beginning the release of UFO and extraterre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/](https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/josephlindsley/posts/why-is-congress-asking-questions-about-missing-aerospace-scientistsit-started-in/10107934091728427/](https://www.facebook.com/josephlindsley/posts/why-is-congress-asking-questions-about-missing-aerospace-scientistsit-started-in/10107934091728427/)  
+   Link: <a href="https://www.facebook.com/josephlindsley/posts/why-is-congress-asking-questions-about-missing-aerospace-scientistsit-started-in/10107934091728427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/josephlindsley/posts/why-is-congress-asking-questions-about-missing-aerospace-scientistsit-started-in/10107934091728427/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is Congress asking questions about missing...[https://www.nytimes.com/2023/01/13/us/ufo-new-](https://www.nytimes.com/2023/01/13/us/ufo-new-) mexico-congress.html. Did Aliens Land on...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/](https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/)  
+   Link: <a href="https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Electronic Reading Room FOIA documents. Marlenis Belén De Rodríguez ▻ Ancient Aliens History and Mystery. 2y · Public...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: alienhub.com  
-   Link: [https://www.alienhub.com/threads/retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more-the-black-vault-originals.80366/](https://www.alienhub.com/threads/retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more-the-black-vault-originals.80366/)  
+   Link: <a href="https://www.alienhub.com/threads/retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more-the-black-vault-originals.80366/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/threads/retired-cia-officer-john-ramirez-on-the-agency-orbs-intelligence-gathering-and-much-more-the-black-vault-originals.80366/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Officer John Ramirez on the Agency, Orbs...6 Feb 2022 — Alien Hub · Forums · Alien Life UFOs and UAP · UFO and Alien Discuss...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/](https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/)  
+   Link: <a href="https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ran of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessed November 11, 2...</p></details>
 
 0
@@ -910,5 +903,5 @@ In that sense, document-centred UFO media strengthened Ramirez's image more than
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/](https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>

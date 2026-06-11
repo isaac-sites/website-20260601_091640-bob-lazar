@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-role/
 nav_short_title: BAASS reports
 title: How much did the BAASS contract really show?
-title_full: How much did the BAASS contract really show? | Official Role
+title_full: How much did the BAASS contract really show?
 display_title_short: BAASS reports
 display_title: BAASS reports
 heading_title: How much did the BAASS contract really show?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Was Lacatski's Real Government Role? | Lacatski
+parent_title: What Was Lacatski's Real Government Role?
 parent_permalink: /official-role/
 parent_nav_short_title: Official Role
 parent_heading_title: What Was Lacatski's Real Government Role?
@@ -253,7 +253,7 @@ next_link:
   permalink: /solicitation/
   short_title: Solicitation
   heading_title: What did Lacatski's AAWSAP title actually prove?
-date: '2026-06-09 02:57:18 '
+date: '2026-06-11 21:04:00 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_de
 
 ## Introduction
 
-The strongest evidence for [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s claimed insider access is not found in his later public statements about unidentified aerial phenomena. It is found in the paper trail of the Advanced Aerospace Weapon System Applications Program (AAWSAP) and, in particular, the stream of reports, management products and technical studies delivered by contractor Bigelow Aerospace Advanced Space Studies (BAASS). Publicly released Defence Intelligence Agency (DIA) documents show that BAASS was producing extensive monthly reports, project plans and specialised research papers under government contract while Lacatski served as the government project leader and Contracting Officer Representative. That record does not prove his later claims about recovered technology or other extraordinary subjects. It does, however, demonstrate that he occupied a position giving him access to a substantial flow of contractor-generated information, classified-capable research activity and programme reporting that was unavailable to the general public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sam.gov">[sam.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sam.gov</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel - defined as proposed management and lead science and...Read more...</span></span></span>
-
+The strongest evidence for James Lacatski’s claimed insider access is not found in his later public statements about unidentified aerial phenomena. It is found in the paper trail of the Advanced Aerospace Weapon System Applications Program (AAWSAP) and, in particular, the stream of reports, management products and technical studies delivered by contractor Bigelow Aerospace Advanced Space Studies (BAASS). Publicly released Defence Intelligence Agency (DIA) documents show that BAASS was producing extensive monthly reports, project plans and specialised research papers under government contract while Lacatski served as the government project leader and Contracting Officer Representative. That record does not prove his later claims about recovered technology or other extraordinary subjects. It does, however, demonstrate that he occupied a position giving him access to a substantial flow of contractor-generated information, classified-capable research activity and programme reporting that was unavailable to the general public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sam.gov">[sam.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sam.gov</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel - defined as proposed management and lead science and...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1-dark.svg" | relative_url }}" alt="BAASS reports illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key credibility question is therefore narrower than many UFO debates suggest: how much do BAASS deliverables support Lacatski’s claim to have been an informed insider? The evidence supports a limited but significant conclusion. The contract record shows genuine programme oversight and access to specialised reporting. It does not automatically validate every conclusion Lacatski later drew from that access.
@@ -276,7 +275,6 @@ What matters for assessing access claims is the volume and nature of the work pr
 
 This distinction is important. Someone attached only nominally to a government programme might have limited visibility into its activities. A government project leader receiving recurring reports, management updates and technical papers would normally possess a much broader understanding of programme operations, contractor findings and emerging research priorities.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36_LRMHZouw" title="Secret government UFO program reveals paranormal events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36_LRMHZouw" target="_blank" rel="noopener noreferrer">Secret government UFO program reveals paranormal events</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 975.0K &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36_LRMHZouw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36_LRMHZouw">Open on YouTube</a></p></div></div></div>
 
 ## Monthly reports and technical papers under contract
@@ -284,7 +282,6 @@ This distinction is important. Someone attached only nominally to a government p
 The most direct support for Lacatski’s insider status comes from the routine reporting structure itself.
 
 DIA records show that BAASS submitted:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +298,6 @@ The technical papers are equally significant. The best-known AAWSAP products are
 
 For credibility purposes, the important point is not whether every DIRD was scientifically persuasive. The point is that Lacatski was positioned to review or receive a large body of specialised material produced specifically for the programme he managed.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-2-dark.svg" | relative_url }}" alt="BAASS reports illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Speculative topics versus proven technologies
 
@@ -313,9 +309,7 @@ However, critics point out that many publicly released DIRDs focused on highly s
 
 This distinction matters because later public discussions sometimes blur the line between receiving studies about unusual possibilities and possessing evidence that those possibilities are real. The contract record clearly demonstrates the former. It does not independently establish the latter.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VBE_K8kk1E" title="Bigelow/Lacatski Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer">Bigelow/Lacatski Connection</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 139.2K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VBE_K8kk1E">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-dark.svg" | relative_url }}" alt="BAASS reports illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the deliverables reveal about Lacatski's information network
 
 Another important aspect of the BAASS contract is that it expanded Lacatski's access beyond ordinary DIA channels.
@@ -326,8 +320,8 @@ As government project leader, Lacatski was therefore not merely consuming finish
 
 This helps explain why Lacatski presents himself as someone with unusual knowledge of the programme's activities. The documented structure of AAWSAP makes that claim plausible. What remains disputed is whether the most extraordinary conclusions he later discussed were supported by evidence as strong as the administrative record documenting his role.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VBE_K8kk1E" title="Bigelow/Lacatski Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer">Bigelow/Lacatski Connection</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 139.2K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VBE_K8kk1E">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-dark.svg" | relative_url }}" alt="BAASS reports illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the deliverables support only limited insider credibility
 
 The BAASS reporting record is one of the stronger pieces of evidence supporting Lacatski's credibility as an insider. Public documents show a real programme, a real contract, identifiable deliverables and a documented oversight role. That separates him from commentators whose authority rests solely on personal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sam.gov">[sam.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sam.gov</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel - defined as proposed management and lead science and...Read more...</span></span></span>
@@ -336,91 +330,45 @@ At the same time, the deliverables establish access rather than validation. They
 
 The most balanced assessment is therefore that BAASS deliverables materially strengthen Lacatski's claim to have been an informed participant in a genuine government programme. They provide evidence of access, responsibility and information flow. What they do not provide is automatic proof that his later conclusions about recovered craft, non-human technology or other disputed subjects are correct. The contract record supports insider status in a limited sense; it does not settle the larger claims that continue to divide supporters and sceptics.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m9B_sC6VG18" title="Shocking Pentagon UFO revelations, Lue Elizondo &amp; AATIP | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m9B_sC6VG18" target="_blank" rel="noopener noreferrer">Shocking Pentagon UFO revelations, Lue Elizondo &amp; AATIP | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m9B_sC6VG18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m9B_sC6VG18">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How much did the BAASS contract really show?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How much did the BAASS contract really show?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for how advanced research contracts generate deliverables.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Illustrates relationships between contractors and secret programmes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Directly addresses programme operations and reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
-        
-        <p class="fr-book-desc">Expands on programme outputs and internal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -457,15 +405,15 @@ The most balanced assessment is therefore that BAASS deliverables materially str
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +421,15 @@ The most balanced assessment is therefore that BAASS deliverables materially str
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +437,15 @@ The most balanced assessment is therefore that BAASS deliverables materially str
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +453,15 @@ The most balanced assessment is therefore that BAASS deliverables materially str
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +469,7 @@ The most balanced assessment is therefore that BAASS deliverables materially str
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="baass-reports-how-much-did-the-baass-contract-really-show-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-the-baass-contract-really-show-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-much-did-the-baass-contract-really-show-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,30 +684,30 @@ The most balanced assessment is therefore that BAASS deliverables materially str
 
 1. <a id="endnote-1"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view](https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view)  
+   Link: <a href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski. 15. DEFINED TERMS: Key personnel - defined as proposed management and lead science and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Advanced Aerospace Weapon System Applications Contract Aerospace Contract Status  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Performance by Bigelow Aerospace Advanced. Space Studies (BAASS) has been excellent and they are in full compliance with...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: disclosurearchives.com  
-   Link: [https://www.disclosurearchives.com/aawsap](https://www.disclosurearchives.com/aawsap)  
+   Link: <a href="https://www.disclosurearchives.com/aawsap" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/aawsap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure ArchivesAAWSAP — Advanced Aerospace Weapon System Applications...The most-cited AAWSAP deliverables are the Defense Intellige...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: locationsunknown.org  
    Title: Government Agency: Defense Intelligence Agency Read more  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</p></details>
    Published: March 25, 2022  
 
@@ -767,53 +715,53 @@ The most balanced assessment is therefore that BAASS deliverables materially str
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/](https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Report Codifies the New Skeptical Narrative: r/UFOsThose papers are called &quot;Defense Intelligence Reference Documents,&quot; or DIRDs. AA...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009](https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009)  
+   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organizatio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/](https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/)  
+   Link: <a href="https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TWO YEARS AGO TODAY: The &#x27;Tic-Tac&#x27; UFO video...As the I-Team first reported, one of the Pentagon programs was carried out in Nevada by B...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/](https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US government&#x27;s now-defunct Advanced Aerospace Threat...US government&#x27;s now-defunct Advanced Aerospace Threat Identification Program (AA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/710227000/aawsap-Baass-mufon-Document-Collection-2008-2009](https://www.scribd.com/document/710227000/aawsap-Baass-mufon-Document-Collection-2008-2009)  
+   Link: <a href="https://www.scribd.com/document/710227000/aawsap-Baass-mufon-Document-Collection-2008-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710227000/aawsap-Baass-mufon-Document-Collection-2008-2009</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This agreement is between a subcontractor and general contractor for the subcontractor to prepare 12 technical overview...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: claim the cia blocked the transfer of meta materials from crashed ufos.13773  
-   Link: [https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/](https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/)  
+   Link: <a href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — I think the document from Burchett is misattributing the funding o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dhs.gov  
-   Link: [https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf](https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology Directorate FOIA Logs- FY 202428 Nov 2023 — All memos, briefings, reports and correspondence sent and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dhs.gov  
    Title: 25 0808 priv s and t foia log fy2024  
-   Link: [https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_s-and-t-foia-log-fy2024.pdf](https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_s-and-t-foia-log-fy2024.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_s-and-t-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-08/25_0808_priv_s-and-t-foia-log-fy2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S&amp;T FOIA Log- FY202413 Nov 2023 — Request an email records search of Dr Tara O&#x27;Toole(s) email&#x27;s (under sec of ss&amp;t) for keywords &amp; terms...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: I Was A Private Contractor for Various Do D Agencies  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/](https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kh91tq/i_was_a_private_contractor_for_various_dod/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Was A Private Contractor for Various DoD Agencies - I am...Names like DIA officer James Lacatski and security rep Carlton G.... • Any...</p></details>

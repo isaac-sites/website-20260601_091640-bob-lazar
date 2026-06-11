@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aatip-confusion-b857ff/
 nav_short_title: SAP request
 title: What Reid's special access request really proves
-title_full: What Reid's special access request really proves | AATIP Confusion
+title_full: What Reid's special access request really proves
 display_title_short: SAP request
 display_title: SAP request
 heading_title: What Reid's special access request really proves
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The AAWSAP AATIP Confusion Matters | Kelleher
+parent_title: Why The AAWSAP AATIP Confusion Matters
 parent_permalink: /aatip-confusion-b857ff/
 parent_nav_short_title: AATIP Confusion
 parent_heading_title: Why The AAWSAP AATIP Confusion Matters
@@ -247,7 +247,7 @@ prev_link:
   permalink: /aatip-label-fcd968/
   short_title: AATIP label
   heading_title: Did the AATIP name overstate his access?
-date: '2026-06-09 03:08:49 '
+date: '2026-06-11 21:08:04 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_
 
 The 2009 effort by Senator Harry Reid to secure special access protection for the programme linked to AAWSAP and AATIP is one of the most cited [documents]({{ 'documents/' | relative_url }}) in modern UFO and UAP debates. Supporters point to it as proof that senior officials believed the work was important and sensitive. Sceptics point to the outcome: the request was reviewed and rejected. Both sides are drawing on the same paper trail, but often emphasise different parts of it.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-1-dark.svg" | relative_url }}" alt="SAP request illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For assessing [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})'s credibility, the episode matters because it sits between two competing claims. One claim is that AAWSAP had unusual official significance beyond an ordinary research contract. The other is that later narratives have overstated what the government actually authorised or validated. The special access request demonstrates genuine high-level interest. It does not demonstrate that the programme's most extraordinary conclusions were accepted by the Pentagon, nor does it prove the existence of hidden UFO-related special access programmes connected to Kelleher's work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — Senator Harry Reid sent a letter to you on J...</span></span></span>
+For assessing Colm Kelleher's credibility, the episode matters because it sits between two competing claims. One claim is that AAWSAP had unusual official significance beyond an ordinary research contract. The other is that later narratives have overstated what the government actually authorised or validated. The special access request demonstrates genuine high-level interest. It does not demonstrate that the programme's most extraordinary conclusions were accepted by the Pentagon, nor does it prove the existence of hidden UFO-related special access programmes connected to Kelleher's work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — Senator Harry Reid sent a letter to you on J...</span></span></span>
 
 ## Why the 2009 request matters
 
@@ -269,9 +268,6 @@ In June 2009, Senate Majority Leader Harry Reid wrote to Deputy Secretary of Def
 The request matters because it is one of the clearest documentary links between congressional backing and the AAWSAP effort carried out by Bigelow Aerospace Advanced Space Studies (BAASS), where Colm Kelleher held a senior management role. It shows that a powerful senator was willing to intervene directly on behalf of the project. That alone separates AAWSAP from many fringe UFO initiatives that never received any formal government funding or congressional support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/20792124-reid_letter_2009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">A 2009 letter from then-Senate Majority Leader...Read more...</span></span></span>
 
 The document is also important because it captures the naming confusion that later became central to public [debate]({{ 'debate-020cbc/' | relative_url }}). Reid's letter used the term "Advanced Aerospace Threat Identification Program" or AAITP/AATIP, while internal Defence Intelligence Agency reviews described the underlying contract as the Advanced Aerospace Weapon System Application Program, or AAWSAP. This overlap helped create later arguments that all references to AATIP automatically referred to a large, officially endorsed Pentagon UFO programme. The surviving paperwork is more complicated than that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — Senator Harry Reid sent a letter to you on J...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qohMC__NMKc" title="What Are Special Access Programs (SAPs) and What Do They Mean? - the Not Top Secret podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qohMC__NMKc" target="_blank" rel="noopener noreferrer">What Are Special Access Programs (SAPs) and What Do They Mean? - the Not Top Secret podcast</a></p><p class="youtube-embed-meta">Channel: The Not Top Secret Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qohMC__NMKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qohMC__NMKc">Open on YouTube</a></p></div></div></div>
 
 ## Why the special access programme was not approved
 
@@ -282,7 +278,6 @@ A DIA review completed in November 2009 examined Reid's proposal and concluded t
 This finding is often overlooked in public discussions because the existence of the request sounds dramatic, while the denial is bureaucratic. Yet from a credibility standpoint, the denial is arguably the more important document.
 
 Several points stand out:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,9 +294,7 @@ For supporters of Kelleher and AAWSAP, this does not mean the programme lacked v
 
 For critics, however, the denial weakens claims that AAWSAP had hidden institutional status comparable to the most sensitive defence or intelligence programmes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/auzLyz7nb2s" title="Skinwalkers at the Pentagon: Secret Military Studies of UAP &amp; Beyond - George Knapp with JP Hague" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=auzLyz7nb2s" target="_blank" rel="noopener noreferrer">Skinwalkers at the Pentagon: Secret Military Studies of UAP &amp; Beyond - George Knapp with JP Hague</a></p><p class="youtube-embed-meta">Channel: JP Hague</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=auzLyz7nb2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=auzLyz7nb2s">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-dark.svg" | relative_url }}" alt="SAP request illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between official interest and official endorsement
 
 One of the recurring mistakes in UAP debates is treating official interest as proof of official belief.
@@ -314,14 +307,11 @@ The surviving documents do not state that the Pentagon concluded unidentified cr
 
 That distinction becomes especially relevant when evaluating figures such as Kelleher, who later discussed subjects ranging from UAP incidents to far more controversial paranormal reports. The existence of government funding and congressional support strengthens the case that he participated in a genuine official programme. It does not automatically validate every conclusion or interpretation associated with that programme.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-dark.svg" | relative_url }}" alt="SAP request illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the decision limits stronger UAP claims
 
 The rejected SAP request creates a boundary around what can honestly be inferred from the record.
 
 Claims that are reasonably supported include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -334,7 +324,6 @@ Claims that are reasonably supported include:
 </div>
 
 Claims that go beyond the released evidence include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,9 +338,7 @@ The last category remains largely speculative because the available documents do
 
 This is where the proof gap appears. The request itself is real and verifiable. The interpretation layered onto it is often much broader than the underlying evidence allows.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gpi0YXboDQM" title="#13 Luis Elizondo - Former Director of The Pentagons UFO Program (AATIP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gpi0YXboDQM" target="_blank" rel="noopener noreferrer">#13 Luis Elizondo - Former Director of The Pentagons UFO Program (AATIP)</a></p><p class="youtube-embed-meta">Channel: Project Unity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gpi0YXboDQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gpi0YXboDQM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-dark.svg" | relative_url }}" alt="SAP request illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the episode means for assessing Colm Kelleher
 
 For Kelleher's credibility, the SAP episode cuts in two directions at once.
@@ -361,9 +348,6 @@ On the positive side, it reinforces that he was connected to a programme importa
 On the negative side, the same documents place limits on claims about institutional validation. The strongest available records show an attempt to elevate the programme's security status, followed by a decision not to do so. That outcome weakens arguments that AAWSAP's most controversial findings received full endorsement from senior defence authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — Senator Harry Reid sent a letter to you on J...</span></span></span>
 
 The result is a more nuanced picture than either believers or sceptics sometimes present. Reid's request is evidence of unusual official interest. It is not evidence that the government confirmed the broader UFO and paranormal conclusions that later became associated with some participants in the programme. The gap between those two propositions remains one of the central unresolved issues in judging both AAWSAP's legacy and Kelleher's standing as an insider source.
-
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-dark.svg" | relative_url }}" alt="SAP request illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_reid_sap_proof_gap_1d30f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -482,15 +466,15 @@ The result is a more nuanced picture than either believers or sceptics sometimes
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +482,15 @@ The result is a more nuanced picture than either believers or sceptics sometimes
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +498,15 @@ The result is a more nuanced picture than either believers or sceptics sometimes
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +514,15 @@ The result is a more nuanced picture than either believers or sceptics sometimes
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +530,7 @@ The result is a more nuanced picture than either believers or sceptics sometimes
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sap-request-what-reid-s-special-access-request-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-reid-s-special-access-request-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-reid-s-special-access-request-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,98 +745,98 @@ The result is a more nuanced picture than either believers or sceptics sometimes
 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — Senator Harry Reid sent a letter to you on J...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyNOV 1 3 20095 Nov 2009 — to evaluate a request from Senator Harry. Reid (enclosure 1) to establish a restricte...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/20792124-reid_letter_2009/](https://www.documentcloud.org/documents/20792124-reid_letter_2009/)  
+   Link: <a href="https://www.documentcloud.org/documents/20792124-reid_letter_2009/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20792124-reid_letter_2009/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2009 letter from then-Senate Majority Leader...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• (Ulla*. Bottom Line:... Special Access Program Request. (b) 10 USC 424. •. U-09-266 — dtd 13 November 2009 ab 2: Letter from Senato...</p></details>
    Published: November 2009  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramJune 24, 2009 letter from Senate Majority Leader Harry Reid to Deputy Secretary of Def...</p></details>
    Published: June 24, 2009  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Was](https://en.wikipedia.org/wiki/Was)  
+   Link: <a href="https://en.wikipedia.org/wiki/Was" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Was</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was - WikipediaWas or WAS may refer to: Was, a past-tense form of the English copular verb to be. Contents. 1 People; 2 In arts and en...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/was](https://dictionary.cambridge.org/dictionary/english/was)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary3 days ago — WAS definition: 1. past simple of be 2. past simple of be 3. past simple of be. Lear...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/was" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/was</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago — WAS definition: 1. past simple of be 2. past simple of be 3. past simple of be. Lear...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/73411109/DODD-5205-07-Special-Access-Program-SAP-Policy](https://www.scribd.com/document/73411109/DODD-5205-07-Special-Access-Program-SAP-Policy)  
+   Link: <a href="https://www.scribd.com/document/73411109/DODD-5205-07-Special-Access-Program-SAP-Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/73411109/DODD-5205-07-Special-Access-Program-SAP-Policy</a>  
 
 9. <a id="endnote-9"></a>
    Source: wikileaks.org  
-   Link: [https://wikileaks.org/wiki/US-UK_TOP_SECRET_SCI_info_exchange_memo%3A_Memorandum_of_Understanding_for_Special_Access_Program_Information_Exchange%2C_2005](https://wikileaks.org/wiki/US-UK_TOP_SECRET_SCI_info_exchange_memo%3A_Memorandum_of_Understanding_for_Special_Access_Program_Information_Exchange%2C_2005)  
+   Link: <a href="https://wikileaks.org/wiki/US-UK_TOP_SECRET_SCI_info_exchange_memo%3A_Memorandum_of_Understanding_for_Special_Access_Program_Information_Exchange%2C_2005" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/wiki/US-UK_TOP_SECRET_SCI_info_exchange_memo%3A_Memorandum_of_Understanding_for_Special_Access_Program_Information_Exchange%2C_2005</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US-UK TOP SECRET SCI info exchange memo26 May 2009 — Confidential Memorandum of Understanding between the US and the UK for the exchange...</p></details>
    Published: May 2009  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: aatip stands for advanced aerospace threat identification program and its very r  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;AATIP&quot; stands for Advanced Aerospace Threat...Its mandate, as outlined in a 2009 letter from Reid to DSD, was to assess &quot;far-term forei...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: advanced aerospace threat identification program aatip was largely the brainchil  
-   Link: [https://www.facebook.com/atomicmuseum.vegas/posts/advanced-aerospace-threat-identification-program-aatip-was-largely-the-brainchil/10155447254351910/](https://www.facebook.com/atomicmuseum.vegas/posts/advanced-aerospace-threat-identification-program-aatip-was-largely-the-brainchil/10155447254351910/)  
+   Link: <a href="https://www.facebook.com/atomicmuseum.vegas/posts/advanced-aerospace-threat-identification-program-aatip-was-largely-the-brainchil/10155447254351910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/advanced-aerospace-threat-identification-program-aatip-was-largely-the-brainchil/10155447254351910/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Advanced Aerospace Threat Identification Program...15 Oct 2018 — &quot;Advanced Aerospace Threat Identification Program (AATIP) was largely...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: File:Letter by Senator Harry Reid, then US Senate Majority Leader, 2009  
-   Link: [https://commons.wikimedia.org/wiki/File%3ALetter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf](https://commons.wikimedia.org/wiki/File%3ALetter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ALetter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ALetter_by_Senator_Harry_Reid%2C_then_US_Senate_Majority_Leader%2C_2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>letter regarding the Advanced Aerospace Threat and Identification Program (AATIP) to Deputy Secretary of Defense William Lynn. Date, 24 J...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello Catalano- On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of...</p></details>
    Published: June 2009  
 
 14. <a id="endnote-14"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it was protected by a special agreement between the DOD Special Access Program Oversight Committee.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/691652297/HarryReid-Letter](https://www.scribd.com/document/691652297/HarryReid-Letter)  
+   Link: <a href="https://www.scribd.com/document/691652297/HarryReid-Letter" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/691652297/HarryReid-Letter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he Advanced Aerospace Threat Identification Program (AATIP)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AAWSAP and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: securityawareness.dcsa.mil  
-   Link: [https://securityawareness.dcsa.mil/cdse/multimedia/shorts/sap-sec-incident/common/scenarios/industry_day/common/files/resources/5205.pdf](https://securityawareness.dcsa.mil/cdse/multimedia/shorts/sap-sec-incident/common/scenarios/industry_day/common/files/resources/5205.pdf)  
+   Link: <a href="https://securityawareness.dcsa.mil/cdse/multimedia/shorts/sap-sec-incident/common/scenarios/industry_day/common/files/resources/5205.pdf" target="_blank" rel="noopener noreferrer nofollow">https://securityawareness.dcsa.mil/cdse/multimedia/shorts/sap-sec-incident/common/scenarios/industry_day/common/files/resources/5205.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5205.07, Volume 1, &quot;DoD Special Access Program (...18 Jun 2015 — If not, the gaining SAP SCG must be updated (approved before transfer)...</p></details>

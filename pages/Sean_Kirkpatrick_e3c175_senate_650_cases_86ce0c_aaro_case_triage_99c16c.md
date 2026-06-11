@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /senate-hearing/
 nav_short_title: Triage
 title: How Did AARO Decide Which Cases Mattered?
-title_full: How Did AARO Decide Which Cases Mattered? | Senate Hearing
+title_full: How Did AARO Decide Which Cases Mattered?
 display_title_short: Triage
 display_title: Triage
 heading_title: How Did AARO Decide Which Cases Mattered?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Did 650 UAP Cases Matter? | Kirkpatrick
+parent_title: Why Did 650 UAP Cases Matter?
 parent_permalink: /senate-hearing/
 parent_nav_short_title: Senate Hearing
 parent_heading_title: Why Did 650 UAP Cases Matter?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /mq-9-videos/
   short_title: MQ 9 Videos
   heading_title: Why Two Drone Videos Changed The Hearing
-date: '2026-06-09 02:57:44 '
+date: '2026-06-11 21:04:14 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_
 
 ## Introduction
 
-When [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }}) told senators in April 2023 that AARO was examining more than 650 UAP cases, he also stressed that those cases were not treated as 650 equal mysteries. A key part of AARO’s methodology was triage: deciding which reports deserved immediate attention and which could be placed lower in the queue. According to Kirkpatrick, the office was built as a national-security and air-safety organisation rather than a public UFO clearing house. That meant reports near military bases, test ranges, intelligence facilities, restricted airspace, or other sensitive locations generally received higher priority than isolated sightings with little supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
-
+When Sean Kirkpatrick told senators in April 2023 that AARO was examining more than 650 UAP cases, he also stressed that those cases were not treated as 650 equal mysteries. A key part of AARO’s methodology was triage: deciding which reports deserved immediate attention and which could be placed lower in the queue. According to Kirkpatrick, the office was built as a national-security and air-safety organisation rather than a public UFO clearing house. That meant reports near military bases, test ranges, intelligence facilities, restricted airspace, or other sensitive locations generally received higher priority than isolated sightings with little supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1-dark.svg" | relative_url }}" alt="Triage illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This triage system is important when assessing both AARO’s work and Kirkpatrick’s credibility. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) argue it reflects a sensible intelligence process focused on potential threats. Critics counter that prioritisation can leave the public uncertain about how many unresolved cases remain unexplained. Understanding the mechanism helps explain why AARO’s case numbers alone do not reveal how seriously the office regarded any individual report.
@@ -267,7 +266,6 @@ This triage system is important when assessing both AARO’s work and Kirkpatric
 During Senate testimony, Kirkpatrick described a process that began with a preliminary review of incoming reports. Cases were not simply counted and stored. Instead, analysts attempted an initial categorisation and then assigned priority based on factors relevant to security and intelligence concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
 His explanation indicated a rough hierarchy:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -280,8 +278,7 @@ His explanation indicated a rough hierarchy:
 
 Kirkpatrick explained that an apparently passive object drifting with the wind would generally be considered less urgent than an object carrying equipment, and that object would in turn be less urgent than one displaying unusual manoeuvring behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro mission process and data statistics patterns.13087</span><span class="citation-popover-snippet">Kirkpatrick: &quot;Then we prioritize those based off of where they are. Are they attached to a national security area?Read more...</span></span></span>
 
-The goal was not to determine whether something was extraterrestrial. The goal was to determine whether it represented a potential intelligence surprise, surveillance platform, air-safety hazard, or adversary capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">The Defense Department&#x27;s UAP Mission &amp; Civil Aviation</span><span class="citation-popover-snippet">AAROThe Defense Department&#x27;s UAP Mission &amp; Civil AviationDecember 12, 2023 — 11 Jan 2023 — AARO is a uniquely-capable, Defense Department...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
-
+The goal was not to determine whether something was extraterrestrial. The goal was to determine whether it represented a potential intelligence surprise, surveillance platform, air-safety hazard, or adversary capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">The Defense Department&#x27;s UAP Mission &amp; Civil Aviation</span><span class="citation-popover-snippet">The Defense Department&#x27;s UAP Mission &amp; Civil AviationDecember 12, 2023 — 11 Jan 2023 — AARO is a uniquely-capable, Defense Department...</span><span class="citation-popover-meta">Published: December 12, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E2qvyxhdPQA" title="Unidentified Aerial Phenomena Task Force Chief Reveals Shocking Video Findings To Senate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer">Unidentified Aerial Phenomena Task Force Chief Reveals Shocking Video Findings To Senate</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 486.7K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E2qvyxhdPQA">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +290,6 @@ To reduce bias, AARO reportedly used both intelligence specialists and scientifi
 
 A case could therefore move quickly toward resolution if the available evidence strongly matched known aircraft, balloons, drones, satellites, atmospheric effects, or sensor artefacts. Cases lacking enough information could remain open even when no extraordinary explanation was suspected. This distinction became a recurring theme of Kirkpatrick's public statements: unresolved did not automatically mean anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American Legion&#x27;No credible evidence&#x27; of UFO activity has been found...20 Apr 2023 — Kirkpatrick said 650 UAP cases are being revie...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvO5BUTJ-SA" title="Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer">Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 44.8K &middot; Uploaded: April 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvO5BUTJ-SA">Open on YouTube</a></p></div></div></div>
 
 ## Security Relevance, Payloads, and Unusual Movement
@@ -302,10 +298,9 @@ The most important factor in AARO's triage process was whether a report touched 
 
 Examples of locations likely to attract higher scrutiny included:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Military operating areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">AAROFiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</span></span></span>
+* Military operating areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</span></span></span>
 * Restricted airspace.
 * Weapons testing ranges.
 * Intelligence collection sites.
@@ -319,18 +314,16 @@ Kirkpatrick also highlighted behavioural indicators. Objects apparently carrying
 
 Importantly, unusual movement alone was not treated as proof of advanced technology. AARO's approach was to gather more data and attempt attribution before drawing conclusions. Kirkpatrick consistently maintained that the office had not found verified evidence of extraterrestrial technology or physics-defying craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-2-dark.svg" | relative_url }}" alt="Triage illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sensitive Areas Generated So Many Reports
 
-One of the less obvious aspects of AARO's work was the problem of collection bias. Many UAP reports originated near military facilities and restricted airspace not necessarily because unusual objects preferred those locations, but because those locations contained large numbers of trained observers and sophisticated sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARODr. Sean Kirkpatrick Director, All-domain Anomaly...AARO is leading a focused effort to better characterize, understand, and attribu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">2022 Annual Report on Unidentified Aerial PhenomenaJun 25, 2021 — We continue to assess that this may result from a collection bias due t...</span></span></span>
+One of the less obvious aspects of AARO's work was the problem of collection bias. Many UAP reports originated near military facilities and restricted airspace not necessarily because unusual objects preferred those locations, but because those locations contained large numbers of trained observers and sophisticated sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Dr. Sean Kirkpatrick Director, All-domain Anomaly...AARO is leading a focused effort to better characterize, understand, and attribu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">2022 Annual Report on Unidentified Aerial PhenomenaJun 25, 2021 — We continue to assess that this may result from a collection bias due t...</span></span></span>
 
-Official reporting repeatedly acknowledged this bias. AARO and ODNI reports noted that military airspace generated a disproportionate share of sightings because military personnel were more likely to report events and because advanced sensors were already operating in those environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">AAROFiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</span></span></span>
+Official reporting repeatedly acknowledged this bias. AARO and ODNI reports noted that military airspace generated a disproportionate share of sightings because military personnel were more likely to report events and because advanced sensors were already operating in those environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236</span><span class="citation-popover-snippet">Fiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</span></span></span>
 
 This created a challenge for triage. Reports near sensitive areas were often the most important from a security perspective, but they were also the most common. Later AARO officials continued discussing the need to establish a baseline for what "normal" activity looked like around national-security sites so that genuinely unusual events could be distinguished from routine traffic, balloons, drones, and sensor effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai</span><span class="citation-popover-snippet">Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — In July, we established the All-domain Anomaly...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — Right now, his team of experts recognize that they have “this...</span></span></span>
 
-For readers evaluating Kirkpatrick's testimony, this point is significant. The concentration of reports around military locations does not automatically indicate extraordinary activity. It may partly reflect where the United States is looking most closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.ca">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.ca</span><span class="citation-popover-snippet">AAROAARO is your resource for education and training, a place for business owners like you to find support and your representation in gov...</span></span></span>
-
+For readers evaluating Kirkpatrick's testimony, this point is significant. The concentration of reports around military locations does not automatically indicate extraordinary activity. It may partly reflect where the United States is looking most closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.ca">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.ca</span><span class="citation-popover-snippet">AARO is your resource for education and training, a place for business owners like you to find support and your representation in gov...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KdDNhMIW-HY" title="Kirkpatrick&#x27;s SENATE Testimony on UFO AARO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KdDNhMIW-HY" target="_blank" rel="noopener noreferrer">Kirkpatrick&#x27;s SENATE Testimony on UFO AARO</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 400 &middot; Uploaded: July 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KdDNhMIW-HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KdDNhMIW-HY">Open on YouTube</a></p></div></div></div>
 
@@ -344,90 +337,47 @@ However, the same process generated criticism. Because AARO focused heavily on c
 
 The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibility with defence and intelligence audiences depended on prioritisation and disciplined case management. Public confidence, meanwhile, often depended on [transparency]({{ 'transparency/' | relative_url }}) about unresolved cases. The office could improve one objective without fully satisfying the other. That tension helps explain why the debate over the [650 cases]({{ '650-cases/' | relative_url }}) was never really about the number itself. It was about which cases AARO considered important enough to investigate deeply, and why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.ghost.io">[storage.ghost.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.ghost.io</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-3-dark.svg" | relative_url }}" alt="Triage illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Did AARO Decide Which Cases Mattered?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Did AARO Decide Which Cases Mattered?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Covers modern investigative structures and how reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows the variety of reports that investigators must evaluate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides background on defense analysis, intelligence collection and prioritisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Helps readers understand military priorities, threat assessment and classified aerospace evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -464,15 +414,15 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +430,15 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +446,15 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +462,15 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,7 +478,7 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="triage-how-did-aaro-decide-which-cases-mattered-sean-kirkpatrick-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-aaro-decide-which-cases-mattered-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-did-aaro-decide-which-cases-mattered-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,177 +693,177 @@ The result was a tension visible throughout Kirkpatrick's tenure. AARO's credibi
 
 1. <a id="endnote-1"></a>
    Source: storage.ghost.io  
-   Link: [https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf](https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf)  
+   Link: <a href="https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2023/06/Kirkpatrick-SASC-hearing-transcript-4-19-23.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: armed-services.senate.gov  
    Title: kirkpatrick statement  
-   Link: [https://www.armed-services.senate.gov/download/kirkpatrick-statement](https://www.armed-services.senate.gov/download/kirkpatrick-statement)  
+   Link: <a href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/kirkpatrick-statement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Armed Services CommitteeDr. Sean Kirkpatrick19 Apr 2023 — AARO is leading a focused effort to better characterize, understand, and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: aaro mission process and data statistics patterns.13087  
-   Link: [https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/](https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-mission-process-and-data-statistics-patterns.13087/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick: &quot;Then we prioritize those based off of where they are. Are they attached to a national security area?Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: The Defense Department's UAP Mission & Civil Aviation  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROThe Defense Department&#x27;s UAP Mission &amp; Civil AviationDecember 12, 2023 — 11 Jan 2023 — AARO is a uniquely-capable, Defense Department...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Department&#x27;s UAP Mission &amp; Civil AviationDecember 12, 2023 — 11 Jan 2023 — AARO is a uniquely-capable, Defense Department...</p></details>
    Published: December 12, 2023  
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/](https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — In July, we established the All-domain Anomaly...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: legion.org  
-   Link: [https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators](https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators)  
+   Link: <a href="https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Legion&#x27;No credible evidence&#x27; of UFO activity has been found...20 Apr 2023 — Kirkpatrick said 650 UAP cases are being revie...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — In terms of military reporting, the sensors on which UAP most freque...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting TrendsUAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Products · Resources · EFOIA R...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARODr. Sean Kirkpatrick Director, All-domain Anomaly...AARO is leading a focused effort to better characterize, understand, and attribu...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Sean Kirkpatrick Director, All-domain Anomaly...AARO is leading a focused effort to better characterize, understand, and attribu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROFiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2023 Consolidated Annual Report on...Most reports still reflect a bias towards restricted military airspace, a result of...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Annual Report on Unidentified Aerial PhenomenaJun 25, 2021 — We continue to assess that this may result from a collection bias due t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...Nov 14, 2024 — It is also worth noting that AARO continues...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — Right now, his team of experts recognize that they have “this...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
+   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAPNov 14, 2024 — So, right now, we have this geographic bias where we are getting reports near the national s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: defensescoop.com  
    Title: pentagons uap office now investigating more than 650 cases  
-   Link: [https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/](https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/)  
+   Link: <a href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: defensescoop.com  
    Title: pentagon office developing new sensors to better detect ufos  
-   Link: [https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/](https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/)  
+   Link: <a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — AARO director Sean Kirkpatrick provided an update on the Pentago...</p></details>
    Published: May 2023  
 
 17. <a id="endnote-17"></a>
    Source: aaro.ca  
-   Link: [https://www.aaro.ca/](https://www.aaro.ca/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO is your resource for education and training, a place for business owners like you to find support and your representation in gov...</p></details>
+   Link: <a href="https://www.aaro.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.ca/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO is your resource for education and training, a place for business owners like you to find support and your representation in gov...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Mission BriefAARO&#x27;s reliance on DoD-sourced reports leads to a collection bias near major range and test facilities, special use air...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — The remaining 272 reports featured UAP incidents that occurred betwe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: iiss.org  
-   Link: [https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/2023/09/cyber-capabilities-and-national-power-vol-2/cyber-capabilities-and-national-power_volume-2.pdf](https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/2023/09/cyber-capabilities-and-national-power-vol-2/cyber-capabilities-and-national-power_volume-2.pdf)  
+   Link: <a href="https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/2023/09/cyber-capabilities-and-national-power-vol-2/cyber-capabilities-and-national-power_volume-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/2023/09/cyber-capabilities-and-national-power-vol-2/cyber-capabilities-and-national-power_volume-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CYBER CAPABILITIES AND NATIONAL POWER Volume 2This report is intended to assist national decision-making, for example by indicating the c...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: flyingmag.com  
    Title: nearly 300 uap reports in less than a year dod tells congress  
-   Link: [https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/](https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/)  
+   Link: <a href="https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/nearly-300-uap-reports-in-less-than-a-year-dod-tells-congress/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineNearly 300 UAP Reports in Less Than a Year, DOD Tells...Oct 19, 2023 — The incidents recorded during that time reflect “a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: stripes.com  
    Title: ufos pentagon website sightings defense workers 11898885  
-   Link: [https://www.stripes.com/theaters/us/2023-10-31/ufos-pentagon-website-sightings-defense-workers-11898885.html](https://www.stripes.com/theaters/us/2023-10-31/ufos-pentagon-website-sightings-defense-workers-11898885.html)  
+   Link: <a href="https://www.stripes.com/theaters/us/2023-10-31/ufos-pentagon-website-sightings-defense-workers-11898885.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2023-10-31/ufos-pentagon-website-sightings-defense-workers-11898885.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stars and StripesService members, veterans and defense workers can now...Oct 31, 2023 — “Most reports still reflect a bias towards restr...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/new-uap-files-have-dropped-today-and-this-time-we-get-to-go-into-the-cockpit-and/1336857708304910/](https://www.facebook.com/spacecom/posts/new-uap-files-have-dropped-today-and-this-time-we-get-to-go-into-the-cockpit-and/1336857708304910/)  
+   Link: <a href="https://www.facebook.com/spacecom/posts/new-uap-files-have-dropped-today-and-this-time-we-get-to-go-into-the-cockpit-and/1336857708304910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/new-uap-files-have-dropped-today-and-this-time-we-get-to-go-into-the-cockpit-and/1336857708304910/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd Sean Kirkpatrick, head of the All-domain Anomaly Resolution...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheView/posts/us-shoots-down-4th-high-altitude-object-in-8-days-theview-co-hosts-weigh-in-on-t/753291986152749/](https://www.facebook.com/TheView/posts/us-shoots-down-4th-high-altitude-object-in-8-days-theview-co-hosts-weigh-in-on-t/753291986152749/)  
+   Link: <a href="https://www.facebook.com/TheView/posts/us-shoots-down-4th-high-altitude-object-in-8-days-theview-co-hosts-weigh-in-on-t/753291986152749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheView/posts/us-shoots-down-4th-high-altitude-object-in-8-days-theview-co-hosts-weigh-in-on-t/753291986152749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al phenomena in his presidential daily briefing June 21...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E2qvyxhdPQA](https://www.youtube.com/watch?v=E2qvyxhdPQA)  
+   Link: <a href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2qvyxhdPQA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scribd.com  
    Title: AARO Annual Report on UAP FY2024 Ft AsTechR  
-   Link: [https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR](https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR)  
+   Link: <a href="https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/825619489/AARO-Annual-Report-on-UAP-FY2024-Ft-AsTechR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual UAP Report Summary | PDFAARO notes a continued geographic collection bias based on locations near U.S. military assets a...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The meeting gathered 40 participants from government...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/2024-uap-annual-report-released-in-wake-of-congressional-hearing-addressing-claims-of-u-s-secret-programs/](https://thedebrief.org/2024-uap-annual-report-released-in-wake-of-congressional-hearing-addressing-claims-of-u-s-secret-programs/)  
+   Link: <a href="https://thedebrief.org/2024-uap-annual-report-released-in-wake-of-congressional-hearing-addressing-claims-of-u-s-secret-programs/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/2024-uap-annual-report-released-in-wake-of-congressional-hearing-addressing-claims-of-u-s-secret-programs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cook Nuclear Power Plant, which was later provided...Read more...</p></details>

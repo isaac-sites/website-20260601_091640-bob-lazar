@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /grusch-clash/
 nav_short_title: Oversight limits
 title: Did Classification Hide Evidence or Weak Claims?
-title_full: Did Classification Hide Evidence or Weak Claims? | Grusch Clash
+title_full: Did Classification Hide Evidence or Weak Claims?
 display_title_short: Oversight limits
 display_title: Oversight limits
 heading_title: Did Classification Hide Evidence or Weak Claims?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Grusch Claims Versus Kirkpatrick's Denial | Kirkpatrick
+parent_title: Grusch Claims Versus Kirkpatrick's Denial
 parent_permalink: /grusch-clash/
 parent_nav_short_title: Grusch Clash
 parent_heading_title: Grusch Claims Versus Kirkpatrick's Denial
@@ -247,7 +247,7 @@ prev_link:
   permalink: /hearsay-test/
   short_title: Hearsay test
   heading_title: When Is Second Hand UAP Testimony Enough?
-date: '2026-06-09 02:58:03 '
+date: '2026-06-11 21:04:27 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-1.webp
@@ -256,14 +256,12 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversig
 
 ## Introduction
 
-The dispute between David Grusch and [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s All-domain Anomaly Resolution Office (AARO) was never only about whether unusual objects existed. At its core was a governance question: did classification rules and special-access programmes prevent proper congressional oversight, or did official investigators already have sufficient access to test the allegations and find them unsupported?
-
+The dispute between David Grusch and Sean Kirkpatrick’s All-domain Anomaly Resolution Office (AARO) was never only about whether unusual objects existed. At its core was a governance question: did classification rules and special-access programmes prevent proper congressional oversight, or did official investigators already have sufficient access to test the allegations and find them unsupported?
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-1-dark.svg" | relative_url }}" alt="Oversight limits illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters for assessing Kirkpatrick’s credibility because both sides claimed to be defending accountability. Grusch argued that information about alleged UAP crash-retrieval activities had been hidden from Congress through excessive secrecy. AARO, under Kirkpatrick, argued that it had examined the relevant claims, reviewed classified material, consulted oversight authorities, and found no evidence of hidden programmes involving non-human technology. The resulting disagreement created a persistent [trust gap]({{ 'trust-gap-3e8ea0/' | relative_url }}): outsiders cannot easily determine whether the most important evidence remains concealed behind classification barriers or whether the underlying claims simply failed when subjected to official scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 y...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eI2XAkp0pyw" title="UFO video captured by the U.S. military on January 15, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eI2XAkp0pyw" target="_blank" rel="noopener noreferrer">UFO video captured by the U.S. military on January 15, 2023</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 979 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eI2XAkp0pyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eI2XAkp0pyw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ9OIZybHJg" title="David Grusch: I Was Told Of &#x27;Multi-Decade UAP Crash Retrieval And Reverse Engineering Program&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ9OIZybHJg" target="_blank" rel="noopener noreferrer">David Grusch: I Was Told Of &#x27;Multi-Decade UAP Crash Retrieval And Reverse Engineering Program&#x27;</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 79.1K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ9OIZybHJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ9OIZybHJg">Open on YouTube</a></p></div></div></div>
 
 ## Why Grusch's Complaint Mattered to Congress
 
@@ -272,7 +270,6 @@ Grusch’s allegations gained attention because they were framed primarily as an
 A key feature of Grusch’s testimony was that many of his most dramatic assertions were accompanied by the claim that details could only be discussed in classified settings. He repeatedly indicated that names, locations, documents, and supporting evidence could not be fully disclosed publicly. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) viewed this as consistent with genuine security restrictions. Critics argued that it made independent verification difficult because the strongest evidence remained inaccessible to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 This distinction is important when evaluating Kirkpatrick. The debate was not merely about evidence that had been presented; it was also about evidence that one side claimed existed but could not publicly reveal.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/reQUctvwcw8" title="BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer">BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 346.9K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=reQUctvwcw8">Open on YouTube</a></p></div></div></div>
 
@@ -286,7 +283,6 @@ Kirkpatrick also publicly expressed frustration that some witnesses who spoke to
 
 From AARO's perspective, the issue was not lack of access but lack of substantiated evidence. The office maintained that it had looked into the claims and found them unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. + Expand row details, PR-017, Unresolve...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-2-dark.svg" | relative_url }}" alt="Oversight limits illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Question: Who Had Access to What?
 
@@ -297,7 +293,6 @@ Supporters of Grusch argue that special-access programmes are specifically desig
 Supporters of Kirkpatrick counter that AARO's mandate included coordination with the officials responsible for overseeing classified and special-access programmes. They note that the office stated it reviewed both classified and unclassified archives and worked with authorities responsible for programme oversight. If such reviews still found no evidence of alien-retrieval activities, they argue that the burden shifts back to whistleblowers to produce verifiable documentation or firsthand evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
 
 The public cannot fully resolve this dispute because the underlying access determinations remain largely classified. Outside observers generally do not know precisely which compartments were examined, which records were reviewed, or what restrictions may have applied during those reviews.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PBUaF03hkZE" title="Whistleblower says US has found &#x27;nonhuman&#x27; pilots during UFO hearing | USA TODAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PBUaF03hkZE" target="_blank" rel="noopener noreferrer">Whistleblower says US has found &#x27;nonhuman&#x27; pilots during UFO hearing | USA TODAY</a></p><p class="youtube-embed-meta">Channel: USA TODAY &middot; Views: 616.8K &middot; Uploaded: July 2023 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PBUaF03hkZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PBUaF03hkZE">Open on YouTube</a></p></div></div></div>
 
@@ -313,90 +308,47 @@ This leaves an unusual situation in which both narratives rely, to different deg
 
 For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore produces a mixed conclusion. His position is strengthened by the fact that AARO conducted a documented review and publicly stated that it found no supporting evidence for hidden alien-retrieval programmes. Yet scepticism persists because the public cannot directly verify the full scope of AARO's classified access, and classification itself remains the mechanism through which Grusch says the truth was concealed. Until additional records are declassified or independently corroborated, the disagreement remains less a contest over aliens than a contest over the adequacy of oversight in a highly secretive national-security environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 y...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-3-dark.svg" | relative_url }}" alt="Oversight limits illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_oversight_access_lim_62c3cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did Classification Hide Evidence or Weak Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did Classification Hide Evidence or Weak Claims?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Focuses on secrecy, access, oversight, and government handling of UAP information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines allegations that information has been hidden from public oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Deals extensively with official testimony and government investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context on classified programmes, secrecy, and oversight structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -433,15 +385,15 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO DISCLOSURE Wall Art, UAP Hologram Poster, Alien Cryptid Sci-fi Decor"><img src="https://i.ebayimg.com/images/g/9~0AAeSwrURqA6uW/s-l225.jpg" alt="Listing image for Vintage UFO DISCLOSURE Wall Art, UAP Hologram Poster, Alien Cryptid Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO DISCLOSURE Wall Art, UAP Hologram Poster, Alien Cryptid Sci-fi Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +401,15 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO REVOLUTION Fine Art Movie Poster, Alien Disclosure UAP Bob Lazar Poster Gift"><img src="https://i.ebayimg.com/images/g/d9cAAOSwNcdnQ83H/s-l225.jpg" alt="Listing image for UFO REVOLUTION Fine Art Movie Poster, Alien Disclosure UAP Bob Lazar Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">UFO REVOLUTION Fine Art Movie Poster, Alien Disclosure UAP Bob Lazar Poster Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +417,15 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN DISCLOSURE Wall Art, Alien Hybrid Poster, Cryptid UFO Sci-fi Decor"><img src="https://i.ebayimg.com/images/g/Y4UAAeSwC1Zp-et3/s-l225.jpg" alt="Listing image for Vintage ALIEN DISCLOSURE Wall Art, Alien Hybrid Poster, Cryptid UFO Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN DISCLOSURE Wall Art, Alien Hybrid Poster, Cryptid UFO Sci-fi Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +433,15 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Movie Poster - UFO Sci-Fi Art Print Poster"><img src="https://i.ebayimg.com/images/g/rHgAAeSwT3hqIpLE/s-l225.jpg" alt="Listing image for Disclosure Day Movie Poster - UFO Sci-Fi Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Movie Poster - UFO Sci-Fi Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,7 +449,7 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="oversight-limits-did-classification-hide-evidence-or-weak-claims-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="did-classification-hide-evidence-or-weak-claims-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -713,159 +665,159 @@ For evaluating Sean Kirkpatrick's credibility, the oversight dispute therefore p
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... &quot;Pentagon report...</p></details>
    Published: March 2024  
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO assesses that alleged, hidden UAP programs eith...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. + Expand row details, PR-017, Unresolve...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the [KONA BLUE](&amp;#123;&amp;#123; &#x27;kona-blue-8fa430/&#x27; | relative_url &amp;#125;&amp;#125;) program from interviews c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: congress ufo hearing  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Looks for Answers on UFO Sightings26 Jul 2023 — During his testimony, Grusch added that he knows of “multiple colleagues” who we...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFO whistleblower says U.S. recovered nonhuman "biologics" from crash sites  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Opening Statement  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 y...</p></details>
    Published: July 23, 2023  
 
 11. <a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media](https://www.vanityfair.com/news/2023/06/ufo-report-media)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch, though no physical evidence has also ever emerged to back up these claims. The lack of concrete proof has been a consistent...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/](https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/</a>  
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 — Sean Kirkpatrick has faced threats for his work – and a new report concluding no evidence UAPs represent...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough at least one interviewee claimed to have seen a captured UAP, none of the intervie...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-[transparency](https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-[transparency)  
+   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-[transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-[transparency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uniden...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower tells Congress the U.S. is concealing...Asked whether the U.S. government had information about extraterrestrial li...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — “Congress holds UFO hearing with retired Maj. David Grusch,” AP... -claims...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: [https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/](https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/)  
+   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: abc11.com  
    Title: ufo hearing uap david grusch whistleblower claims  
-   Link: [https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/](https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/)  
+   Link: <a href="https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Foxx, R-N.C., highlighted previous congressional testimony provided by Dr. Sean Kirkpatrick, who leads the Defense Department&#x27;s...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>official was not involved in the movement of extraterrestrial technology.... &quot;Aliens&quot; Present During a DoD Technology Test: AARO reviewe...</p></details>

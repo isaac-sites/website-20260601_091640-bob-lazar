@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /was-richard-doty-an-insider-or/
 nav_short_title: Bennewitz
 title: Did the Bennewitz Affair Define Doty's Legacy?
-title_full: Did the Bennewitz Affair Define Doty's Legacy? | Doty
+title_full: Did the Bennewitz Affair Define Doty's Legacy?
 display_title_short: Bennewitz
 display_title: Bennewitz
 heading_title: Did the Bennewitz Affair Define Doty's Legacy?
@@ -289,7 +289,7 @@ next_link:
   permalink: /media-legacy/
   short_title: Media Legacy
   heading_title: How Did Media Turn Doty Into UFO Mythology?
-date: '2026-06-09 02:54:42 '
+date: '2026-06-11 21:02:42 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview.webp
@@ -300,28 +300,25 @@ image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview-socia
 
 The **Bennewitz affair** remains one of the most discussed and controversial episodes in the history of UFO/UAP discourse — not because of the original sightings but because of the **role Richard C. Doty**, a former United States Air Force Office of Special Investigations (AFOSI) agent, is alleged to have played in it. At its core, this case is a focal test of the **disinformation hypothesis**: did Doty intentionally mislead a civilian UFO researcher, or was he acting in response to genuine security concerns about classified aerospace programmes? This page examines the incident’s key facts, how Doty’s involvement became central to broader debates about UFO-related disinformation, and why the affair still shapes assessments of Doty’s credibility today.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview.webp" | relative_url }}" alt="Overview image for Bennewitz" loading="eager" decoding="sync" fetchpriority="high">
 ## What Paul Bennewitz Reported and Why AFOSI Took Interest
 
 Paul Frederic **Paul Bennewitz** was an Albuquerque-based electronics entrepreneur and physicist who, by the late 1970s, had become deeply interested in UFOs. Living adjacent to Kirtland Air Force Base in New Mexico — a location with classified military aerospace activity — he began documenting unusual lights, electromagnetic signals, and sightings above restricted areas. Believing these phenomena might represent extraterrestrial craft communicating or stationed nearby, he installed antennae, filmed lights over the **Manzano Weapons Storage Area**, and claimed to have intercepted coded signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
-Bennewitz took his recordings and observations to Kirtland Air Force officials in **October and November 1980**, including a meeting with AFOSI personnel such as [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }}). Official records confirmed that Bennewitz was interviewed about his findings and provided electronic recordings allegedly showing “high periods of electrical magnetism” emitted from restricted areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobster-magazine.co.uk">[Lobster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobster-magazine.co.uk</span><span class="citation-popover-title">Lobster Disinformation: From Euros to UFOs</span><span class="citation-popover-snippet">LobsterDisinformation: From Euros to UFOs - Lobster...</span></span></span>
+Bennewitz took his recordings and observations to Kirtland Air Force officials in **October and November 1980**, including a meeting with AFOSI personnel such as Richard Doty. Official records confirmed that Bennewitz was interviewed about his findings and provided electronic recordings allegedly showing “high periods of electrical magnetism” emitted from restricted areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobster-magazine.co.uk">[Lobster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobster-magazine.co.uk</span><span class="citation-popover-title">Lobster Disinformation: From Euros to UFOs</span><span class="citation-popover-snippet">LobsterDisinformation: From Euros to UFOs - Lobster...</span></span></span>
 
 Authorities were alarmed — not by evidence of extraterrestrials, but by the possibility that he might be inadvertently intercepting **classified defence-related communications or technology signatures**. The military’s concern, in their view, was protecting sensitive national-security operations rather than investigating aliens, and this context partly informs why AFOSI engaged with him.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-1-dark.svg" | relative_url }}" alt="Bennewitz illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Doty’s Alleged Role in Feeding Misleading Information
 
 Accounts by UFO researchers, historical analysts, and later admissions by Doty himself describe a sequence in which Doty and others **fed Bennewitz misinformation** instead of directly dispelling his extraordinary interpretations of the data. According to secondary sources and retrospective narratives:
 
-* Doty allegedly provided Bennewitz with **fabricated documents** — some styled to look like official military or intelligence communications — referencing secret projects and deep-cover information about alien contacts and clandestine facilities. One such document, associated with the term *“[Project Aquarius]({{ 'aquarius-trail/' | relative_url }})”*, appears to have been distributed to reinforce the idea of a classified alien-related programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufopedia.it">[ufopedia.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufopedia.it</span><span class="citation-popover-title">Progetto Aquarius</span><span class="citation-popover-snippet">UfopediaJanuary 22, 2012...</span><span class="citation-popover-meta">Published: January 22, 2012</span></span></span>
+* Doty allegedly provided Bennewitz with **fabricated documents** — some styled to look like official military or intelligence communications — referencing secret projects and deep-cover information about alien contacts and clandestine facilities. One such document, associated with the term *“Project Aquarius”*, appears to have been distributed to reinforce the idea of a classified alien-related programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufopedia.it">[ufopedia.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufopedia.it</span><span class="citation-popover-title">Progetto Aquarius</span><span class="citation-popover-snippet">January 22, 2012...</span><span class="citation-popover-meta">Published: January 22, 2012</span></span></span>
 * Historian Greg Bishop and other authors suggest that these tactics were part of a broader effort to **protect classified aerospace projects** — including stealth and surveillance technologies — by encouraging a UFO interpretation that would divert civilian attention away from real but secretive activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/37038/8/Between%20disclosure%20and%20conspiracy%20the%20transparency%20effect%20on%20r%20UFO%20and%20r%20UAP%20subreddits.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">City Research OnlineCity Research OnlineApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
 * Rather than correct Bennewitz’s growing conviction about extraterrestrial involvement, the narrative he was fed became progressively more elaborate, embedding aliens, treaties, and hidden bases into his worldview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
 Critics say these actions amount to a form of psychological or counter‑intelligence operation, where misinformation was used to **keep a civilian researcher occupied and dissuaded from uncovering or disseminating sensitive national‑security data**.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WBTqsbwJyqU" title="“Aliens” Drove This Man Insane! (Ft. Greg Bishop)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WBTqsbwJyqU" target="_blank" rel="noopener noreferrer">“Aliens” Drove This Man Insane! (Ft. Greg Bishop)</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 141.9K &middot; Uploaded: July 2025 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WBTqsbwJyqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WBTqsbwJyqU">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ As Bennewitz’s beliefs intensified, so did the **impact on his personal life**
 
 His claims about aliens, underground bases (sometimes referred to later as “Dulce Base”), and covert government contact became deeply embedded in UFO subculture. Some of these ideas were later recycled into broader UFO conspiracy lore, notably through alleged *Majestic 12* documents and similar narratives. However, independent scrutiny has widely discredited the provenance and authenticity of such documents, finding inconsistent formats, dubious sources, and no verifiable chain of custody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-2-dark.svg" | relative_url }}" alt="Bennewitz illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Bennewitz Affair Matters for Evaluating Doty’s Credibility
 
@@ -339,7 +335,7 @@ The interpretation of Doty’s role in the Bennewitz affair is highly contested 
 
 **Arguments emphasising disinformation:**
 
-* Many [sceptics]({{ 'sceptics/' | relative_url }}) and historians characterise Doty’s conduct as a deliberate **disinformation campaign** — a label reinforced by admissions in documentaries like *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, where Doty speaks about feeding false narratives to UFO researchers for strategic purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover-up | Movies | The GuardianAugust 14, 2014...</span><span class="citation-popover-meta">Published: August 14, 2014</span></span></span>
+* Many [sceptics]({{ 'sceptics/' | relative_url }}) and historians characterise Doty’s conduct as a deliberate **disinformation campaign** — a label reinforced by admissions in documentaries like *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, where Doty speaks about feeding false narratives to UFO researchers for strategic purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover-up &#124; Movies &#124; The GuardianAugust 14, 2014...</span><span class="citation-popover-meta">Published: August 14, 2014</span></span></span>
 * Critics argue that rather than protecting national security, such tactics fostered enduring conspiracy theories and harmed an individual’s mental health, leaving a lasting legacy of distrust between civilian researchers and military institutions.
 
 **Arguments emphasising security context:**
@@ -349,16 +345,13 @@ The interpretation of Doty’s role in the Bennewitz affair is highly contested 
 
 The debate shapes Doty’s legacy: to [supporters]({{ 'supporters/' | relative_url }}) of the disinformation thesis, the Bennewitz affair typifies why his testimony and later self‑portrayals must be treated with extreme caution; to others, it exemplifies the complex intersection of secrecy, misunderstanding, and psychological interpretation that characterised Cold War‑era UFO investigations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/409SD8MJL7A" title="How the US Government Shaped the UFO Mythology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer">How the US Government Shaped the UFO Mythology</a></p><p class="youtube-embed-meta">Channel: Best Documentary &middot; Views: 33.7K &middot; Uploaded: August 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=409SD8MJL7A">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BZbMXEi7w2M" title="The Men in Black Cases the Military Doesn&#x27;t Want You Seeing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BZbMXEi7w2M" target="_blank" rel="noopener noreferrer">The Men in Black Cases the Military Doesn&#x27;t Want You Seeing</a></p><p class="youtube-embed-meta">Channel: The InBetween &middot; Views: 41.3K &middot; Uploaded: August 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BZbMXEi7w2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BZbMXEi7w2M">Open on YouTube</a></p></div></div></div>
 
 ## Why the Case Still Shapes Credibility Debates
 
 The Bennewitz affair persists in UFO/UAP discussions for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +363,6 @@ The Bennewitz affair persists in UFO/UAP discussions for several reasons:
 </div>
 
 In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Doty’s role in UFO/UAP history — not merely because of what was reported, but because of **how official engagement with a civilian researcher helped shape some of the most enduring and controversial narratives in the field**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-3-dark.svg" | relative_url }}" alt="Bennewitz illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -386,16 +378,16 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Directly covers the events, people, and controversies discussed on the page.</p>
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -403,16 +395,16 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Explores Doty&#x27;s alleged role and the wider disinformation debate.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,16 +412,16 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Adds context on secrecy, military testing, and mythmaking.</p>
+        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -437,16 +429,16 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
         </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+        <p class="fr-book-author">By Roberto Pinotti</p>
         
-        <p class="fr-book-desc">Places the affair within broader government-UFO history.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,7 +446,7 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -491,15 +483,15 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Affair To Remember Cary Grant Vintage Romance Movie Poster Musical Love Drama"><img src="{{ '/assets/images/marketplace-covers/446b997e4d79cff4b8c3.jpg' | relative_url }}" alt="Listing image for An Affair To Remember Cary Grant Vintage Romance Movie Poster Musical Love Drama" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="https://i.ebayimg.com/images/g/~EEAAeSwJyFoFLyk/s-l225.jpg" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">An Affair To Remember Cary Grant Vintage Romance Movie Poster Musical Love Drama</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for affair poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: affair poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +499,15 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOVE AFFAIR - 1969 Full page UK music annual poster"><img src="{{ '/assets/images/marketplace-covers/af8d4d8c69d71b66e4f1.jpg' | relative_url }}" alt="Listing image for LOVE AFFAIR - 1969 Full page UK music annual poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">LOVE AFFAIR - 1969 Full page UK music annual poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for affair poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: affair poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +515,15 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Affair 1974 01 Movie Poster Art Print Unique Epic FilmRoom Edition ModernStyle L"><img src="{{ '/assets/images/marketplace-covers/92311e61b8f76010d2cf.jpg' | relative_url }}" alt="Listing image for Affair 1974 01 Movie Poster Art Print Unique Epic FilmRoom Edition ModernStyle L" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Affair 1974 01 Movie Poster Art Print Unique Epic FilmRoom Edition ModernStyle L</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for affair poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: affair poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +531,15 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Very Private Affair 1962 0 Movie Poster Art Print Luxury Gaming Frame Action G"><img src="{{ '/assets/images/marketplace-covers/c004f168ade88173bdf3.jpg' | relative_url }}" alt="Listing image for A Very Private Affair 1962 0 Movie Poster Art Print Luxury Gaming Frame Action G" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="https://i.ebayimg.com/images/g/hhQAAOSwq-Jemtmx/s-l225.jpg" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A Very Private Affair 1962 0 Movie Poster Art Print Luxury Gaming Frame Action G</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for affair poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: affair poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +547,7 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=affair+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="affair poster -book -books -dvd" data-ebay-reference="bennewitz-did-the-bennewitz-affair-define-doty-s-legacy-richard-doty-affair-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="did-the-bennewitz-affair-define-doty-s-legacy-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,46 +763,46 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 2. <a id="endnote-2"></a>
    Source: ufopedia.it  
    Title: Progetto Aquarius  
-   Link: [https://www.ufopedia.it/Progetto_Aquarius.html](https://www.ufopedia.it/Progetto_Aquarius.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UfopediaJanuary 22, 2012...</p></details>
+   Link: <a href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Progetto_Aquarius.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2012...</p></details>
    Published: January 22, 2012  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufopedia.it  
    Title: Bennewitz Paul  
-   Link: [https://www.ufopedia.it/Bennewitz_Paul.html](https://www.ufopedia.it/Bennewitz_Paul.html)  
+   Link: <a href="https://www.ufopedia.it/Bennewitz_Paul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Bennewitz_Paul.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vai a: navigazione, ricerca Image: iconInfo.png | Questa voce ha bisogno di essere tradotta. Paul Bennewitz Paul Bennewitz (? - 2005) fu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lobster-magazine.co.uk  
    Title: Lobster Disinformation: From Euros to UFOs  
-   Link: [https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/](https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/)  
+   Link: <a href="https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.lobster-magazine.co.uk/article/issue/40/disinformation-from-euros-to-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LobsterDisinformation: From Euros to UFOs - Lobster...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: openaccess.city.ac.uk  
-   Link: [https://openaccess.city.ac.uk/id/eprint/37038/8/Between%20disclosure%20and%20conspiracy%20the%20transparency%20effect%20on%20r%20UFO%20and%20r%20UAP%20subreddits.pdf](https://openaccess.city.ac.uk/id/eprint/37038/8/Between%20disclosure%20and%20conspiracy%20the%20transparency%20effect%20on%20r%20UFO%20and%20r%20UAP%20subreddits.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/id/eprint/37038/8/Between%20disclosure%20and%20conspiracy%20the%20transparency%20effect%20on%20r%20UFO%20and%20r%20UAP%20subreddits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/37038/8/Between%20disclosure%20and%20conspiracy%20the%20transparency%20effect%20on%20r%20UFO%20and%20r%20UAP%20subreddits.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineCity Research OnlineApril 19, 2026...</p></details>
    Published: April 19, 2026  
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover-up | Movies | The GuardianAugust 14, 2014...</p></details>
    Published: August 14, 2014  
 
@@ -818,56 +810,56 @@ In sum, the Bennewitz affair remains a pivotal episode in evaluating Richard Dot
 
 9. <a id="endnote-9"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/](https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/)  
+   Link: <a href="https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 — UFO A REMINDER THAT GOVERNMENT AGENCIES PUMP THE UFO COMMUNITY WITH DISINFORMATION (RICHARD DOTY AND PAUL BENNEWITZ) October 30, 202...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: exopaedia.org  
-   Link: [https://www.exopaedia.org/Bennewitz%2C%2BPaul](https://www.exopaedia.org/Bennewitz%2C%2BPaul)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exopaedia:: Bennewitz, PaulBENNEWITZ, PAUL Image: Paul Bennewitz Paul Bennewitz The late Paul Bennewitz was a UFO researcher who was set...</p></details>
+   Link: <a href="https://www.exopaedia.org/Bennewitz%2C%2BPaul" target="_blank" rel="noopener noreferrer nofollow">https://www.exopaedia.org/Bennewitz%2C%2BPaul</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz, PaulBENNEWITZ, PAUL Image: Paul Bennewitz Paul Bennewitz The late Paul Bennewitz was a UFO researcher who was set...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/fr/video/targeted-disinformation](https://www.gaia.com/fr/video/targeted-disinformation)  
+   Link: <a href="https://www.gaia.com/fr/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/fr/video/targeted-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regarder Targeted Disinformation | Gaia FrançaisImage: Targeted Disinformation Targeted Disinformation 41 mins TV-PG Avec: Richard Doty I...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/targeted-disinformation](https://www.gaia.com/video/targeted-disinformation)  
+   Link: <a href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/targeted-disinformation</a>  
 
 13. <a id="endnote-13"></a>
    Source: dailygrail.com  
-   Link: [https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/](https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/)  
+   Link: <a href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PSY-OPS ON PAUL BENNEWITZ The 1989 MUFON Symposium, held on July 1st at the Aladdin Hotel in Las Vegas, has gone down in ufological histo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: paranormalinsight.co.uk  
    Title: Doty’s name is impossible to separate from Paul Bennewitz. One was convin  
-   Link: [https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies](https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies)  
+   Link: <a href="https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz &amp; Richard Doty: The UFO Insider Who Profited From LiesSeptember 30, 2025 — PAUL BENNEWITZ AND RICHARD DOTY: THE UFO INSIDE...</p></details>
    Published: September 30, 2025  
 
 15. <a id="endnote-15"></a>
    Source: soulask.com  
    Title: Roswell, reverse-engineering and Project [Serpo](&#123;&#123; 'serpo/' | relative_url &#125;&#125;): information vs  
-   Link: [https://www.soulask.com/roswell-reverse-engineering-and-project-serpo-information-vs-disinformation/](https://www.soulask.com/roswell-reverse-engineering-and-project-serpo-information-vs-disinformation/)  
+   Link: <a href="https://www.soulask.com/roswell-reverse-engineering-and-project-serpo-information-vs-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.soulask.com/roswell-reverse-engineering-and-project-serpo-information-vs-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformationJune 8, 2014 — It seems that Richard worked at Kirtland AFB in 1980, since that is when the Bennewitz affair took place. In...</p></details>
    Published: June 8, 2014  
 
 16. <a id="endnote-16"></a>
    Source: ordoabchao.ca  
-   Link: [https://ordoabchao.ca/articles/from-the-cias-mindwar-to-qanon](https://ordoabchao.ca/articles/from-the-cias-mindwar-to-qanon)  
+   Link: <a href="https://ordoabchao.ca/articles/from-the-cias-mindwar-to-qanon" target="_blank" rel="noopener noreferrer nofollow">https://ordoabchao.ca/articles/from-the-cias-mindwar-to-qanon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz, who had accumulated some UFO film footage and electronic signals which were t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newmexicoliteracyproject.org  
    Title: roswell ufo conspiracy books collecting  
-   Link: [https://newmexicoliteracyproject.org/roswell-ufo-conspiracy-books-collecting](https://newmexicoliteracyproject.org/roswell-ufo-conspiracy-books-collecting)  
+   Link: <a href="https://newmexicoliteracyproject.org/roswell-ufo-conspiracy-books-collecting" target="_blank" rel="noopener noreferrer nofollow">https://newmexicoliteracyproject.org/roswell-ufo-conspiracy-books-collecting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO Books — Collector&#x27;s Guide (2026)May 13, 2026 — THE LONNIE ZAMORA / SOCORRO INCIDENT AND ITS LITERATURE At approximately 5:45...</p></details>
    Published: May 13, 2026  
 
 18. <a id="endnote-18"></a>
    Source: thequesterfiles.com  
    Title: These photos were taken by phys  
-   Link: [https://www.thequesterfiles.com/html/lightcraft--_a_project_of_many.html](https://www.thequesterfiles.com/html/lightcraft--_a_project_of_many.html)  
+   Link: <a href="https://www.thequesterfiles.com/html/lightcraft--_a_project_of_many.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thequesterfiles.com/html/lightcraft--_a_project_of_many.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lightcraft-- A Project of Many Colors-- In Quest of UFOsUntil the late 1970s no clear, acceptable color pictures of this UFO would be tak...</p></details>

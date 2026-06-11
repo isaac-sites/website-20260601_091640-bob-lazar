@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-sean-kirkpatrick-debunk-ufo/
 nav_short_title: Transparency
 title: Can The Public Trust A Classified Review?
-title_full: Can The Public Trust A Classified Review? | Kirkpatrick
+title_full: Can The Public Trust A Classified Review?
 display_title_short: Transparency
 display_title: Transparency
 heading_title: Can The Public Trust A Classified Review?
@@ -283,7 +283,7 @@ prev_link:
   permalink: /supporters-0a40e4/
   short_title: Supporters
   heading_title: Why Sceptics Think Kirkpatrick Was Needed
-date: '2026-06-09 02:57:40 '
+date: '2026-06-11 21:04:10 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-overview.webp
@@ -292,8 +292,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-overvi
 
 ## Introduction
 
-The strongest transparency objection to [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s AARO is not simply that critics disliked its conclusions. It is that AARO asked the public to trust a largely classified review of an already classified subject. The office said it reviewed official US government UAP investigations since 1945, searched classified and unclassified archives, conducted about 30 interviews, and worked with officials responsible for controlled and special access programme oversight. It then concluded that it had found no empirical evidence of off-world technology or of a hidden UAP programme improperly withheld from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Snippet: AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable > U.S. Department of War > Transcript | U.S. Department of War")
-
+The strongest transparency objection to Sean Kirkpatrick’s AARO is not simply that critics disliked its conclusions. It is that AARO asked the public to trust a largely classified review of an already classified subject. The office said it reviewed official US government UAP investigations since 1945, searched classified and unclassified archives, conducted about 30 interviews, and worked with officials responsible for controlled and special access programme oversight. It then concluded that it had found no empirical evidence of off-world technology or of a hidden UAP programme improperly withheld from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Snippet: AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable > U.S. Department of War > Transcript | U.S. Department of War")
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-overview.webp" | relative_url }}" alt="Overview image for Transparency" loading="eager" decoding="sync" fetchpriority="high">
 That leaves a credibility problem distinct from Sean Kirkpatrick’s expertise. A physicist and former intelligence official may be well placed to test weak claims, sensor artefacts and classified aerospace explanations. But for critics, AARO’s public report does not let outsiders inspect the decisive records, interview universe, special-access checks, classified annexes, or non-public reasoning. In a UAP debate shaped by secrecy, whistleblower claims and mistrust of defence institutions, “AARO found nothing” is not the same kind of public proof as “independent reviewers can see what AARO checked”.
@@ -306,7 +305,6 @@ For transparency critics, however, the public version of that finding still depe
 
 This creates a paradox. AARO’s access to classified spaces is one reason its conclusions deserve attention. The same classified access is also why its conclusions are hard to audit publicly. A review can be serious, methodical and still not transparent enough to persuade people who believe the relevant evidence would be hidden behind the very walls AARO was allowed to enter.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-1-dark.svg" | relative_url }}" alt="Transparency illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conflict-of-interest concerns
 
@@ -317,7 +315,6 @@ AARO and its defenders would answer that this internal placement was necessary. 
 The objection is that access is not the same as [independence]({{ 'independence/' | relative_url }}). Christopher Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and a prominent UAP transparency advocate, argued that AARO’s 2024 historical report was flawed, criticised its apparent speed and process, and objected to a closed pre-briefing for selected press outlets before public release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief The Pentagon&#x27;s New UAP Report is Seriously Flawed</span><span class="citation-popover-snippet">The DebriefThe Pentagon&#x27;s New UAP Report is Seriously Flawed - The Debrief...</span></span></span> Specialist pro-disclosure outlets went further, arguing that some whistleblowers did not trust AARO or Kirkpatrick and therefore would not treat the office as a safe or neutral recipient of sensitive claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/people-vs-pentagon-the-battle-for-ufo-transparency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Reimagining Old News
 
 Those criticisms do not prove that AARO missed a hidden programme. They do show why the public-facing result was vulnerable: when the accused system controls the review mechanism, sceptical readers want stronger safeguards than “trust the office’s access”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ifpLXP0poug" title="Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer">Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 282.0K &middot; Uploaded: July 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ifpLXP0poug">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +327,6 @@ AARO anticipated that criticism. Kirkpatrick publicly stated that AARO could rec
 The difficulty is that the public cannot see the [audit trail]({{ 'audit-trail/' | relative_url }}). A reassuring version of the review would show which oversight offices were queried, how contractor facilities were checked, whether historical code names and alleged successor programmes were cross-matched, how negative results were documented, and whether anyone outside the Department of Defense and Intelligence Community validated the search. The unclassified report necessarily withholds much of that.
 
 This is why “AARO had access” and “the public can trust the conclusion” remain separate propositions. AARO may have had wider access than most critics assume. But if the decisive evidence is a classified negative search, the public must still rely on institutional trust. In an area where the allegation itself is institutional concealment, that is a high bar.
-
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-2-dark.svg" | relative_url }}" alt="Transparency illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UAP Disclosure Act showed what critics wanted instead
@@ -349,7 +345,6 @@ Second, critics are right that a classified review cannot, by itself, provide fu
 
 The public debate is therefore not just about whether Kirkpatrick was competent or whether AARO’s analysts were sincere. It is about what kind of evidence should be required when an official body closes down extraordinary claims. In ordinary policy areas, an internal review may be enough. In UAP, where the central allegation is that official secrecy has blocked oversight, critics demand a higher standard: independent records access, clear declassification rules, protected witness channels and a visible chain of reasoning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z8a0P617nqw" title="&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer">&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 37.6K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z8a0P617nqw">Open on YouTube</a></p></div></div></div>
 
 ## What transparency would need to prove
@@ -366,7 +361,6 @@ A more persuasive transparency model would not need to expose sensitive military
 
 **A disciplined distinction between “unresolved” and “extraordinary”.** AARO’s own report says many cases remain unsolved and that better quality data would likely resolve many as ordinary objects or phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Snippet: AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable > U.S. Department of War > Transcript | U.S. Department of War") That is a reasonable analytic position, but it must be stated carefully. “Unresolved” should not be inflated into “alien”, and “probably ordinary” should not be treated as publicly proven when the underlying data cannot be inspected.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-3-dark.svg" | relative_url }}" alt="Transparency illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Kirkpatrick’s credibility
 
@@ -376,91 +370,47 @@ Critics therefore have a serious transparency objection even when they overstate
 
 That distinction is the core of the transparency debate. AARO may be right on the substance and still insufficiently transparent for a public controversy built around secrecy. Conversely, critics may be right to demand more disclosure without being right that the missing material proves extraordinary technology. The unresolved issue is not whether the public should automatically believe whistleblowers over AARO, or AARO over whistleblowers. It is whether the government can build a process transparent enough that credibility no longer depends so heavily on whom the reader already trusts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uYignoEW_0s" title="Pentagon&#x27;s UFO chief separates science from fiction | Nightline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s UFO chief separates science from fiction | Nightline</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 149.2K &middot; Uploaded: August 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uYignoEW_0s">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can The Public Trust A Classified Review?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can The Public Trust A Classified Review?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows an earlier government attempt to investigate UFO claims and communicate conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centers on official testimony, transparency claims, and evidentiary disputes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Explores the tension between classified national-security work and public accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for how secret defense systems operate and why public trust questions emerge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -497,15 +447,15 @@ That distinction is the core of the transparency debate. AARO may be right on th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +463,15 @@ That distinction is the core of the transparency debate. AARO may be right on th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +479,31 @@ That distinction is the core of the transparency debate. AARO may be right on th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +511,7 @@ That distinction is the core of the transparency debate. AARO may be right on th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-the-public-trust-a-classified-review-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-public-trust-a-classified-review-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-the-public-trust-a-classified-review-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,193 +727,193 @@ That distinction is the core of the transparency debate. AARO may be right on th
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable &gt; U.S. Department of War &gt; Transcript | U.S. Department of War...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/people-vs-pentagon-the-battle-for-ufo-transparency](https://www.liberationtimes.com/home/people-vs-pentagon-the-battle-for-ufo-transparency)  
+   Link: <a href="https://www.liberationtimes.com/home/people-vs-pentagon-the-battle-for-ufo-transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/people-vs-pentagon-the-battle-for-ufo-transparency</a>  
 
 4. <a id="endnote-4"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 5. <a id="endnote-5"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/](https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/)  
+   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 7. <a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: armed-services.senate.gov  
    Title: kirkpatrick statement  
-   Link: [https://www.armed-services.senate.gov/download/kirkpatrick-statement](https://www.armed-services.senate.gov/download/kirkpatrick-statement)  
+   Link: <a href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/kirkpatrick-statement</a>  
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/?releaseDate=Release](https://www.war.gov/ufo/?releaseDate=Release)  
+   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: department of war publishes second release of unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/](https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: PIA Section 1  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: thedebrief.org  
    Title: The Debrief The Pentagon's New UAP Report is Seriously Flawed  
-   Link: [https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/](https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/)  
+   Link: <a href="https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefThe Pentagon&#x27;s New UAP Report is Seriously Flawed - The Debrief...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: liberation times concerns grow over ufo pushback  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b1kwt0/liberation_times_concerns_grow_over_ufo_pushback/](https://www.reddit.com/r/UFOs/comments/1b1kwt0/liberation_times_concerns_grow_over_ufo_pushback/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b1kwt0/liberation_times_concerns_grow_over_ufo_pushback/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b1kwt0/liberation_times_concerns_grow_over_ufo_pushback/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/](https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/</a>  
 
 27. <a id="endnote-27"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/lack-of-transparency-surrounding-us-governments-former-uap-office-director-raises-concerns](https://www.liberationtimes.com/home/lack-of-transparency-surrounding-us-governments-former-uap-office-director-raises-concerns)  
+   Link: <a href="https://www.liberationtimes.com/home/lack-of-transparency-surrounding-us-governments-former-uap-office-director-raises-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/lack-of-transparency-surrounding-us-governments-former-uap-office-director-raises-concerns</a>  
 
 28. <a id="endnote-28"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/former-ufo-office-directors-opinions-draw-scrutiny-on-impartiality-and-investigation-handling](https://www.liberationtimes.com/home/former-ufo-office-directors-opinions-draw-scrutiny-on-impartiality-and-investigation-handling)  
+   Link: <a href="https://www.liberationtimes.com/home/former-ufo-office-directors-opinions-draw-scrutiny-on-impartiality-and-investigation-handling" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/former-ufo-office-directors-opinions-draw-scrutiny-on-impartiality-and-investigation-handling</a>  
 
 29. <a id="endnote-29"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/what-the-hell-is-the-executive-branch-doing-rubios-stunned-question-sparked-ufo-whistleblower-bombshells](https://www.liberationtimes.com/home/what-the-hell-is-the-executive-branch-doing-rubios-stunned-question-sparked-ufo-whistleblower-bombshells)  
+   Link: <a href="https://www.liberationtimes.com/home/what-the-hell-is-the-executive-branch-doing-rubios-stunned-question-sparked-ufo-whistleblower-bombshells" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/what-the-hell-is-the-executive-branch-doing-rubios-stunned-question-sparked-ufo-whistleblower-bombshells</a>  
 
 30. <a id="endnote-30"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/fight-over-ufo-transparency-intensifies-as-roadblocks-failures-and-new-pathways-emerge](https://www.liberationtimes.com/home/fight-over-ufo-transparency-intensifies-as-roadblocks-failures-and-new-pathways-emerge)  
+   Link: <a href="https://www.liberationtimes.com/home/fight-over-ufo-transparency-intensifies-as-roadblocks-failures-and-new-pathways-emerge" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/fight-over-ufo-transparency-intensifies-as-roadblocks-failures-and-new-pathways-emerge</a>  
 
 31. <a id="endnote-31"></a>
    Source: liberationtimes.com  
    Title: concerns grow over ufo pushback effort whilst whistleblowers remain silenced  
-   Link: [https://www.liberationtimes.com/home/concerns-grow-over-ufo-pushback-effort-whilst-whistleblowers-remain-silenced](https://www.liberationtimes.com/home/concerns-grow-over-ufo-pushback-effort-whilst-whistleblowers-remain-silenced)  
+   Link: <a href="https://www.liberationtimes.com/home/concerns-grow-over-ufo-pushback-effort-whilst-whistleblowers-remain-silenced" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/concerns-grow-over-ufo-pushback-effort-whilst-whistleblowers-remain-silenced</a>  
 
 32. <a id="endnote-32"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/](https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/)  
+   Link: <a href="https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/no-evidence-of-et-controversy-erupted-after-the-senate-uap-hearing-heres-what-the-critics-missed/</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=VyK46wdMJkQ](https://www.youtube.com/watch?v=VyK46wdMJkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ifpLXP0poug](https://www.youtube.com/watch?v=ifpLXP0poug)  
+   Link: <a href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ifpLXP0poug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO chief separates science from fiction | Nightline...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Pentagon's UFO chief separates science from fiction | Nightline  
-   Link: [https://www.youtube.com/watch?v=uYignoEW_0s](https://www.youtube.com/watch?v=uYignoEW_0s)  
+   Link: <a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uYignoEW_0s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic [Senate Hearing](&amp;#123;&amp;#123; &#x27;senate-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/](https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/)  
+   Link: <a href="https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WashingtonTimesOpinion/posts/a-group-of-lawmakers-and-a-former-pentagon-whistleblower-are-spearheading-a-new-/1353128203339515/](https://www.facebook.com/WashingtonTimesOpinion/posts/a-group-of-lawmakers-and-a-former-pentagon-whistleblower-are-spearheading-a-new-/1353128203339515/)  
+   Link: <a href="https://www.facebook.com/WashingtonTimesOpinion/posts/a-group-of-lawmakers-and-a-former-pentagon-whistleblower-are-spearheading-a-new-/1353128203339515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WashingtonTimesOpinion/posts/a-group-of-lawmakers-and-a-former-pentagon-whistleblower-are-spearheading-a-new-/1353128203339515/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/](https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/)  
+   Link: <a href="https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMailNews/posts/a-troubled-aerospace-researcher-who-claimed-he-was-being-experimented-on-has-bee/1423831533106105/</a>  
 
 40. <a id="endnote-40"></a>
    Source: x.com  
-   Link: [https://x.com/kentbye/status/1735025957713666125](https://x.com/kentbye/status/1735025957713666125)  
+   Link: <a href="https://x.com/kentbye/status/1735025957713666125" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kentbye/status/1735025957713666125</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gueubc/dr_jon_kosloski_why_aaro_is_not_necessarily/](https://www.reddit.com/r/UFOs/comments/1gueubc/dr_jon_kosloski_why_aaro_is_not_necessarily/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gueubc/dr_jon_kosloski_why_aaro_is_not_necessarily/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gueubc/dr_jon_kosloski_why_aaro_is_not_necessarily/</a>  
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1daecdq/garcias_uap_disclosure_act_20_vs_original/](https://www.reddit.com/r/UFOB/comments/1daecdq/garcias_uap_disclosure_act_20_vs_original/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1daecdq/garcias_uap_disclosure_act_20_vs_original/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1daecdq/garcias_uap_disclosure_act_20_vs_original/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /mj-12/
 nav_short_title: Cutler Memo
 title: Why the Cutler to Twining Memo Fails Archival Scrutiny
-title_full: Why the Cutler to Twining Memo Fails Archival Scrutiny | MJ 12
+title_full: Why the Cutler to Twining Memo Fails Archival Scrutiny
 display_title_short: Cutler Memo
 display_title: Cutler Memo
 heading_title: Why the Cutler to Twining Memo Fails Archival Scrutiny
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Are the MJ 12 Documents So Disputed? | Doty
+parent_title: Why Are the MJ 12 Documents So Disputed?
 parent_permalink: /mj-12/
 parent_nav_short_title: MJ 12
 parent_heading_title: Why Are the MJ 12 Documents So Disputed?
@@ -247,7 +247,7 @@ next_link:
   permalink: /doty-influence/
   short_title: Doty Influence
   heading_title: How Richard Doty Shaped MJ 12 Beliefs Among Researchers
-date: '2026-06-09 02:54:50 '
+date: '2026-06-11 21:02:49 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1.webp
@@ -256,13 +256,12 @@ image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_m
 
 ## Introduction
 
-The so-called Cutler-to-Twining memorandum is often presented by defenders of the Majestic 12 story as the strongest archival support for MJ-12. Unlike the better-known [Eisenhower briefing]({{ 'eisenhower-papers/' | relative_url }}) paper, this document was reportedly found in the US National Archives rather than arriving through anonymous film negatives. For [supporters]({{ 'supporters/' | relative_url }}), that discovery appeared to move MJ-12 from rumour into the historical record.
-
+The so-called Cutler-to-Twining memorandum is often presented by defenders of the Majestic 12 story as the strongest archival support for MJ-12. Unlike the better-known Eisenhower briefing paper, this document was reportedly found in the US National Archives rather than arriving through anonymous film negatives. For [supporters]({{ 'supporters/' | relative_url }}), that discovery appeared to move MJ-12 from rumour into the historical record.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-dark.svg" | relative_url }}" alt="Cutler Memo illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that the memo's archival setting, internal timing and documentary characteristics have generated some of the most serious authenticity concerns in the entire MJ-12 debate. Rather than confirming the broader MJ-12 papers, the Cutler memo became a case study in why archival discovery alone does not prove a document is genuine. The National Archives itself publicly highlighted multiple irregularities, and later researchers identified further conflicts involving Robert Cutler's whereabouts, filing practices and related government records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
-Within the wider question of [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})'s credibility and the circulation of MJ-12 narratives during the 1980s, the Cutler memo matters because it is frequently cited as the document that supposedly rescued MJ-12 from accusations of complete fabrication. Whether it succeeds on that point depends heavily on chain of custody and archival scrutiny.
+Within the wider question of Richard Doty's credibility and the circulation of MJ-12 narratives during the 1980s, the Cutler memo matters because it is frequently cited as the document that supposedly rescued MJ-12 from accusations of complete fabrication. Whether it succeeds on that point depends heavily on chain of custody and archival scrutiny.
 
 ## What the Cutler Memo Actually Says
 
@@ -271,7 +270,6 @@ The document is a brief memorandum dated 14 July 1954 and attributed to Robert C
 Supporters argued that the memo differed from the anonymous MJ-12 briefing papers because it was reportedly located within government archival holdings. This allowed advocates to claim that at least one MJ-12-related document had emerged from official records rather than from unidentified sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 However, the memo is only a single page. It does not explain what MJ-12 supposedly was, does not discuss UFOs, recovered craft or extraterrestrials, and does not provide the broader narrative found in the more famous MJ-12 papers. Its evidential value therefore depends almost entirely on whether the document itself is authentic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zq0Ae3eO5Lw" title="Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw" target="_blank" rel="noopener noreferrer">Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 767.2K &middot; Uploaded: September 2018 &middot; Length: 4 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zq0Ae3eO5Lw">Open on YouTube</a></p></div></div></div>
 
@@ -290,7 +288,6 @@ Several points raised by archivists continue to trouble document historians:
 
 These issues do not automatically prove forgery. Government files can be incomplete, misfiled or destroyed. However, historians generally expect sensitive national-security memoranda to leave secondary traces such as routing records, related correspondence, meeting references or registry entries. The Cutler memo appears unusually detached from the bureaucratic environment it supposedly came from. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## The Timeline Problem: Where Was Robert Cutler?
@@ -304,7 +301,6 @@ Critics argue that this creates a straightforward question: if Cutler was abroad
 Supporters have proposed several responses. Some suggest that Cutler could have authorised communications while travelling or that the date might reflect drafting rather than signing. Others argue that unusual procedures might have existed for highly classified matters. The difficulty is that these explanations remain speculative. No supporting record has emerged showing that this specific memorandum was generated through such an arrangement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">S O-1 Classified Army UFO Manual</span><span class="citation-popover-snippet">SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</span></span></span>
 
 As a result, the travel conflict remains one of the strongest factual challenges to the document's authenticity.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-2-dark.svg" | relative_url }}" alt="Cutler Memo illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Missing NSC Record Matters
@@ -329,7 +325,6 @@ The National Archives' own reference report is often overlooked in discussions t
 
 This distinction is crucial. A document can be physically present in government holdings while still being misfiled, inserted, copied from another source, incorrectly attributed or otherwise unauthenticated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mxg-A0EKDIw" title="Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary | Alien Dominion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer">Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary | Alien Dominion</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 39.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mxg-A0EKDIw">Open on YouTube</a></p></div></div></div>
 
 ## What Critics and Supporters Take From the Memo
@@ -349,7 +344,6 @@ Critics counter that:
 * Searches failed to uncover the supporting records one would expect from such a project.
 * The memo emerged within the same broader environment that produced other disputed MJ-12 papers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span> Reddit Even some researchers who remain open to UFO secrecy claims have treated the memo cautiously because its evidential strength depends on assum <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</span></span></span> ptions about missing records rather than on a verified documentary chain.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-dark.svg" | relative_url }}" alt="Cutler Memo illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Cutler Memo Means for MJ-12 and the Doty Environment
 
@@ -360,86 +354,44 @@ The central problem is not that the memo contains an impossible claim. It is tha
 For assessing narratives associated with Richard Doty and the wider MJ-12 controversy, the memo illustrates a recurring pattern. Documents acquire credibility through proximity to official institutions, but when investigators trace provenance and chain of custody, the apparent certainty weakens. The Cutler memo remains one of the most cited pieces of MJ-12 evidence, yet it is also one of the clearest examples of why archival location and documentary authenticity are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why the Cutler to Twining Memo Fails Archival Scrutiny. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why the Cutler to Twining Memo Fails Archival Scrutiny, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Provides broad context for MJ-12 document disputes including archival questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Relevant to evaluating archival claims and authenticity questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
-        </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
-        
-        <p class="fr-book-desc">Provides context for the broader disinformation environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
-        
-        <p class="fr-book-desc">Explains why disputed documents retain influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -476,15 +428,15 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="{{ '/assets/images/marketplace-covers/668c2ae48edb9f618f04.jpg' | relative_url }}" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,47 +444,15 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy"><img src="{{ '/assets/images/marketplace-covers/ccfa4937124d6cb6d226.jpg' | relative_url }}" alt="Listing image for UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Conspiracy poster with Bigfoot/Sasquatch, Loch Ness monster and alien diver"><img src="{{ '/assets/images/marketplace-covers/9246c060b8d8cb7cde59.jpg' | relative_url }}" alt="Listing image for UFO Conspiracy poster with Bigfoot/Sasquatch, Loch Ness monster and alien diver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Conspiracy poster with Bigfoot/Sasquatch, Loch Ness monster and alien diver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +460,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="cutler-memo-why-the-cutler-to-twining-memo-fails-archival-scrutiny-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,107 +676,107 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</p></details>
    Published: July 14, 1954  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/](https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Mystery of Majestic 12  
-   Link: [https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/](https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK14 May 2024 — The Cutler/Twining memo was sent by Special Assistant to President Eisenhower, Robert Cutler to the Chief of St...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://en.wikipedia.org/wiki/Majestic_12](https://en.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://es.wikipedia.org/wiki/Majestic_12](https://es.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://es.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Majestic_12</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://it.wikipedia.org/wiki/Majestic_12](https://it.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://it.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Majestic_12</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
    Title: Full text of "Maji  
-   Link: [https://archive.org/stream/majiall337/Maji%20all_djvu.txt](https://archive.org/stream/majiall337/Maji%20all_djvu.txt)  
+   Link: <a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ12 - MAJIC 12 - MAGIC 12 - MAJESTICThe Joint Chiefs memos corroborate the 1954 Cutler Twining memo involving a project called Majestic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: S O-1 Classified Army UFO Manual  
-   Link: [https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/](https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: governmentattic.org  
    Title: FOIA Logs NARA ADDRES 2001 2009  
-   Link: [https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf](https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf)  
+   Link: <a href="https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA)...7 Nov 2006 — Address your appeal to the Deputy Archivist (ND), National Archives a...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: pdacounterfraud.co.uk  
-   Link: [https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf](https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf)  
+   Link: <a href="https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook of Criminal InvestigationAccelerating the world&#x27;s research. Handbook of Criminal Investigation. Alf Beauman [PI]. Related papers...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5](https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5)  
+   Link: <a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 1954): A short note linking MJ-12 to an NSC meeting. This was later discovered in the National Archives but...Read more...</p></details>
    Published: July 14, 1954  
 
 12. <a id="endnote-12"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic 12 Documents: Inside America&#x27;s Secret UFO...Down South Anomalies · Grasping Sasquatch · Mapping Bigfoot · Monsters on the Edge...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bibliotecapleyades.net  
    Title: Is The Cutler-Twining Memo A Hoax?The memorandum is dated  
-   Link: [https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm](https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 20, 1954 and refers to Cutler&#x27;s visits to installations in Europe and North Africa between July 3 and 15.Read more...</p></details>
    Published: July 20, 1954  
 
 14. <a id="endnote-14"></a>
    Source: taggedwiki.zubiaga.org  
-   Link: [https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21](https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21)  
+   Link: <a href="https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21" target="_blank" rel="noopener noreferrer nofollow">https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 - Wikipedia, the free encyclopedia3 Apr 2009 — &quot;Memorandum for General Twining, from Robert Cutler, Special Assistant to the President...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=mxg-A0EKDIw](https://www.youtube.com/watch?v=mxg-A0EKDIw)  
+   Link: <a href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mxg-A0EKDIw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ogJplVuElLs](https://www.youtube.com/watch?v=ogJplVuElLs)  
+   Link: <a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogJplVuElLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reaganlibrary.gov  
-   Link: [https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf](https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf)  
+   Link: <a href="https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR. MJ-12 UFO DOCUMENTS: BREAKTHROUGH DR CLEVER HOAX? Included in this issue of FOCUS are co1pletely clean, unex- purgated copies of t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneer Anomaly - PMCby SG Turyshev · 2010 · Cited by 196 — This massive archive contains all Pioneer 10 and 11 project documents discuss...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research.fs.usda.gov  
-   Link: [https://research.fs.usda.gov/download/treesearch/67800.pdf](https://research.fs.usda.gov/download/treesearch/67800.pdf)  
+   Link: <a href="https://research.fs.usda.gov/download/treesearch/67800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/67800.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kathleen Araújo, Boise State University, CAES Energy Policy Institute. Erica N. Asinas, University of Washington, Climate Impacts Group.R...</p></details>

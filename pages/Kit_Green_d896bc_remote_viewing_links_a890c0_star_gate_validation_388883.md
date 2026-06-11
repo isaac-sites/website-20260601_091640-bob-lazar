@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /remote-viewing/
 nav_short_title: Star Gate
 title: Did Star Gate Validate Remote Viewing?
-title_full: Did Star Gate Validate Remote Viewing? | Remote Viewing
+title_full: Did Star Gate Validate Remote Viewing?
 display_title_short: Star Gate
 display_title: Star Gate
 heading_title: Did Star Gate Validate Remote Viewing?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Remote Viewing Help Or Hurt Green's Credibility? | Green
+parent_title: Did Remote Viewing Help Or Hurt Green's Credibility?
 parent_permalink: /remote-viewing/
 parent_nav_short_title: Remote Viewing
 parent_heading_title: Did Remote Viewing Help Or Hurt Green's Credibility?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /sri-origins/
   short_title: SRI Origins
   heading_title: What Green's SRI Link Really Proves
-date: '2026-06-09 03:01:09 '
+date: '2026-06-11 21:06:09 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_val
 
 ## Introduction
 
-The Star Gate programme is frequently cited in UFO and UAP discussions as if it settled the question of remote viewing. It did not. What the declassified record actually shows is that parts of the US intelligence community funded and tested claims of anomalous perception for more than two decades, then commissioned an external review because they remained uncertain whether the results were real, useful, or both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span>
-
+The Star Gate programme is frequently cited in UFO and UAP discussions as if it settled the question of remote viewing. It did not. What the declassified record actually shows is that parts of the US intelligence community funded and tested claims of anomalous perception for more than two decades, then commissioned an external review because they remained uncertain whether the results were real, useful, or both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1-dark.svg" | relative_url }}" alt="Star Gate illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters when assessing figures such as [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}). Green's links to early remote-viewing networks can support the claim that he operated around genuine intelligence programmes investigating unusual subjects. They do not automatically support stronger claims that psychic perception was proven, operationally reliable, or scientifically validated. The central problem is not whether Star Gate existed. It did. The problem is what its mixed results actually mean.
+That distinction matters when assessing figures such as Kit Green. Green's links to early remote-viewing networks can support the claim that he operated around genuine intelligence programmes investigating unusual subjects. They do not automatically support stronger claims that psychic perception was proven, operationally reliable, or scientifically validated. The central problem is not whether Star Gate existed. It did. The problem is what its mixed results actually mean.
 
 ## What The CIA Programme Actually Tested
 
@@ -273,7 +272,7 @@ This created two separate evaluation questions:
 1. **Was there a measurable statistical effect in laboratory experiments?**
 2. **Did the effect produce actionable intelligence in real-world operations?**
 
-Those questions are often treated as identical in popular discussions, but the 1995 review treated them separately. A laboratory anomaly, even if genuine, would not necessarily mean intelligence usefulness. Conversely, a few apparently successful operational cases would not automatically prove a paranormal mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span>
+Those questions are often treated as identical in popular discussions, but the 1995 review treated them separately. A laboratory anomaly, even if genuine, would not necessarily mean intelligence usefulness. Conversely, a few apparently successful operational cases would not automatically prove a paranormal mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span>
 
 The distinction became the centre of the programme's final controversy.
 
@@ -281,8 +280,7 @@ The distinction became the centre of the programme's final controversy.
 
 The most important public review came after the CIA commissioned the American Institutes for Research (AIR) to evaluate the programme in 1995. Two prominent academics were asked to examine the evidence: statistician Jessica Utts and psychologist Ray Hyman. Both accepted that some experimental results appeared statistically unusual. Their disagreement concerned interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">istics at the University of California/Davis, and Dr.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">istics at the University of California/Davis, and Dr.Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bMDdBwjfY8" title="The History of Remote Viewing with Paul H. Smith (4K Reboot)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bMDdBwjfY8" target="_blank" rel="noopener noreferrer">The History of Remote Viewing with Paul H. Smith (4K Reboot)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 3.1K &middot; Uploaded: February 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bMDdBwjfY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bMDdBwjfY8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KAT_3CBBOk0" title="Exclusive Third Eye Spies Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer">Exclusive Third Eye Spies Clip</a></p><p class="youtube-embed-meta">Channel: ComingSoon.net &middot; Views: 8.0K &middot; Uploaded: February 2019 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KAT_3CBBOk0">Open on YouTube</a></p></div></div></div>
 
 ### Utts' Argument: The Statistical Signal Was Real
 
@@ -298,14 +296,12 @@ Hyman accepted that some results looked unusual but argued that the evidence rem
 
 This is why the debate never resolved into a simple "worked" versus "failed" verdict. Both reviewers looked at overlapping evidence and reached different conclusions about what level of proof had actually been achieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucdavis.edu">[UC Davis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucdavis.edu</span><span class="citation-popover-title">psychic spying research produces credible evidence</span><span class="citation-popover-snippet">UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — The main psychic ability tested in the research program is call...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-2-dark.svg" | relative_url }}" alt="Star Gate illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Validation Problem That Never Went Away
 
 The Star Gate controversy ultimately became a problem of validation rather than existence.
 
 The programme generated several layers of uncertainty:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -323,8 +319,7 @@ This finding is often overlooked in UFO-related retellings. Public discussion fr
 
 A method that occasionally produces intriguing correlations but cannot reliably guide decisions presents a major validation problem. Intelligence agencies are not simply searching for anomalies. They need dependable information.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KAT_3CBBOk0" title="Exclusive Third Eye Spies Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer">Exclusive Third Eye Spies Clip</a></p><p class="youtube-embed-meta">Channel: ComingSoon.net &middot; Views: 8.0K &middot; Uploaded: February 2019 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KAT_3CBBOk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KAT_3CBBOk0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EhZ_ty3f4-M" title="Mind and Matter with Russell Targ (4K Reboot)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EhZ_ty3f4-M" target="_blank" rel="noopener noreferrer">Mind and Matter with Russell Targ (4K Reboot)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.8K &middot; Uploaded: February 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EhZ_ty3f4-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EhZ_ty3f4-M">Open on YouTube</a></p></div></div></div>
 
 ## Why Official Funding Is Often Misread As Proof
 
@@ -336,14 +331,13 @@ Cold War intelligence agencies investigated many possibilities that later proved
 
 This point is especially important because Star Gate is frequently used rhetorically in UAP circles. The argument often runs as follows:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span> he CIA funded remote-viewing research.
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</span></span></span> he CIA funded remote-viewing research.
 * Therefore the CIA knew psychic phenomena were real.
 * Therefore related anomalous claims deserve presumption of truth.
 
 The declassified reviews do not support that chain of reasoning. The programme existed because intelligence officials wanted answers, not because they already possessed them.
 
 The final evaluation itself illustrates this uncertainty. If remote viewing had already been conclusively validated, there would have been little reason to commission a major external review to determine whether the programme should continue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">istics at the University of California/Davis, and Dr.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-3-dark.svg" | relative_url }}" alt="Star Gate illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Disputed Results Affect Green's Credibility
@@ -355,7 +349,6 @@ On the positive side, Green's association with early remote-viewing research is 
 However, the unresolved status of Star Gate creates a credibility risk when evaluating later extraordinary claims connected to Green or to people within overlapping networks.
 
 Several patterns repeat across both remote-viewing controversies and parts of modern UAP discourse:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -371,9 +364,7 @@ The Star Gate record therefore weakens any argument that institutional involveme
 
 For Green's credibility assessment, the strongest conclusion is also the most limited one: his proximity to remote-viewing research shows involvement with genuine government efforts to investigate anomalous claims. It does not demonstrate that those claims were proven true. The unresolved dispute between reviewers such as Utts and Hyman remains part of the story, and that unresolved status continues to shape how [sceptics]({{ 'sceptics-078368/' | relative_url }}) and supporters interpret Green's wider connections to UAP-related narratives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gf_tKn9TaP8" title="Joe Rogan Experience #2314 - Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2314 - Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.6M &middot; Uploaded: May 2025 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gf_tKn9TaP8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -492,15 +483,15 @@ For Green's credibility assessment, the strongest conclusion is also the most li
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/d0cAAOSwcBJjrECV/s-l225.jpg" alt="Listing image for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +499,15 @@ For Green's credibility assessment, the strongest conclusion is also the most li
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSwEllpy~tK/s-l225.jpg" alt="Listing image for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +515,31 @@ For Green's credibility assessment, the strongest conclusion is also the most li
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834"><img src="https://i.ebayimg.com/images/g/i00AAOSw1Nhh~V0N/s-l225.jpg" alt="Listing image for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/2qMAAOSwBP5nqTHQ/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +547,7 @@ For Green's credibility assessment, the strongest conclusion is also the most li
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="did-star-gate-validate-remote-viewing-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-star-gate-validate-remote-viewing-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-star-gate-validate-remote-viewing-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,108 +762,108 @@ For Green's credibility assessment, the strongest conclusion is also the most li
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMgoals, the CIA contracted with the American Institutes for Research to supervise and conduc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Stargate Project (U.S. Army unit)  
-   Link: [https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargate Project (U.S. Army unit)The Stargate Project&#x27;s work primarily involved remote viewing, the purported ability to psychically &quot;...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>istics at the University of California/Davis, and Dr.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: alice.id.tue.nl  
    Title: mumford rose goslin 1995  
-   Link: [https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf](https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf)  
+   Link: <a href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Evaluation of Program in Anomalous Mental Phenomena&quot;. Jessica Utts. Division of...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of the Military&#x27;s Twenty-Year Program on...by RAY HYMAN · 1996 · Cited by 8 — In 1995 the Central Intelligence Agency contrac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: [https://en.wikipedia.org/wiki/Remote_viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingIn 1995, the CIA hired the American Institutes for Research (AIR) to perform a retrospective evaluation of the results g...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Jessica Utts  
-   Link: [https://en.wikipedia.org/wiki/Jessica_Utts](https://en.wikipedia.org/wiki/Jessica_Utts)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jessica_Utts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jessica_Utts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessica UttsInvestigation of remote viewing. edit. In 1995, the American Institutes for Research (AIR) appointed a panel consisting pr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nsarchive2.gwu.edu  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveAn Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — In 1995, the CIA declassif...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ucdavis.edu  
    Title: psychic spying research produces credible evidence  
-   Link: [https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence](https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence)  
+   Link: <a href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — The main psychic ability tested in the research program is call...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573](https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Institutes for Research. Mörck, N. C. (2018). Review of the book The Star Gate Ar-.Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: skepsis.nl  
-   Link: [https://skepsis.nl/stargate/](https://skepsis.nl/stargate/)  
+   Link: <a href="https://skepsis.nl/stargate/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/stargate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA onderzoekt ESP / remote viewingDe skeptische psycholoog Ray Hyman van de Universiteit van Oregon was een van de twee hiervoor benader...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/](https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIAs remote viewing documents are confusing as hellThe Stargate project produced zero evidence of remote viewing and that it&#x27;s not re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: irp.fas.org  
-   Link: [https://irp.fas.org/program/collect/air1995.pdf](https://irp.fas.org/program/collect/air1995.pdf)  
+   Link: <a href="https://irp.fas.org/program/collect/air1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/program/collect/air1995.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reportJavaScript is disabled. In order to continue, we need to verify that you&#x27;re not a robot. This requires JavaScript. Enable JavaScrip...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports](https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports)  
+   Link: <a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1995. Ray Hyman. Jessica Utts and I were commissioned to evaluate the research on remote viewing and related phenomena which was...Read...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594](https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594)  
+   Link: <a href="https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of a program review conducted by the American Institutes for Research (AIR) that evaluated the research and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
    Title: Evaluation of Remote Viewing Program | PDFThe document provides an executive  
-   Link: [https://www.scribd.com/doc/92017954/Air-Report](https://www.scribd.com/doc/92017954/Air-Report)  
+   Link: <a href="https://www.scribd.com/doc/92017954/Air-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/92017954/Air-Report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of a review conducted by the American Institutes for Research (AIR) to evaluate the research program and...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kitemetric.com  
-   Link: [https://kitemetric.com/blogs/unveiling-the-stargate-project-a-deep-dive-into-remote-viewing-and-intelligence-gathering](https://kitemetric.com/blogs/unveiling-the-stargate-project-a-deep-dive-into-remote-viewing-and-intelligence-gathering)  
+   Link: <a href="https://kitemetric.com/blogs/unveiling-the-stargate-project-a-deep-dive-into-remote-viewing-and-intelligence-gathering" target="_blank" rel="noopener noreferrer nofollow">https://kitemetric.com/blogs/unveiling-the-stargate-project-a-deep-dive-into-remote-viewing-and-intelligence-gathering</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>history, explored the potential of remote viewing – a form of extrasensory perception...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: [https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html](https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html)  
+   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ls were trained to acquire such &#x27;Remote Viewing&#x27; capabilities for collecting...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform](https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform)  
+   Link: <a href="https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the evidence indicate the presence of a statistically significant effect? · 2. Can the effects be attributed to paranormal phenomena...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/](https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/)  
+   Link: <a href="https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h she called statistically significant. The other reviewer...Read more...</p></details>

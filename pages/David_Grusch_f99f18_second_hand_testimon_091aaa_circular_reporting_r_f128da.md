@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hearsay/
 nav_short_title: Circular Reports
 title: Could Grusch's Sources Be Echoing Each Other?
-title_full: Could Grusch's Sources Be Echoing Each Other? | Hearsay
+title_full: Could Grusch's Sources Be Echoing Each Other?
 display_title_short: Circular Reports
 display_title: Circular Reports
 heading_title: Could Grusch's Sources Be Echoing Each Other?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why First Hand Evidence Matters Here | Grusch
+parent_title: Why First Hand Evidence Matters Here
 parent_permalink: /hearsay/
 parent_nav_short_title: Hearsay
 parent_heading_title: Why First Hand Evidence Matters Here
@@ -247,7 +247,7 @@ next_link:
   permalink: /custody-records/
   short_title: Custody Records
   heading_title: Where Would The Paper Trail Be?
-date: '2026-06-09 02:53:28 '
+date: '2026-06-11 21:01:51 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_r
 
 ## Introduction
 
-One of the hardest questions in the [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }}) case is whether multiple witnesses actually represent multiple independent sources. Grusch has said that he spent years interviewing officials with alleged direct knowledge of hidden UAP programmes and that more than 40 people provided information during his investigation. Yet the public still does not know how many of those accounts originated from separate programme access and how many may have traced back to the same small network of people, documents, rumours or classified misunderstandings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Grusch said: Absolutely, based on interviewing over 40 w...</span></span></span>
-
+One of the hardest questions in the David Grusch case is whether multiple witnesses actually represent multiple independent sources. Grusch has said that he spent years interviewing officials with alleged direct knowledge of hidden UAP programmes and that more than 40 people provided information during his investigation. Yet the public still does not know how many of those accounts originated from separate programme access and how many may have traced back to the same small network of people, documents, rumours or classified misunderstandings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Grusch said: Absolutely, based on interviewing over 40 w...</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-1-dark.svg" | relative_url }}" alt="Circular Reports illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because repeated stories can look like corroboration even when they are not. In intelligence work, journalism and criminal investigations, investigators try to establish whether witnesses arrived at the same conclusion independently or whether they are unknowingly repeating information from a shared source. The stronger Grusch's claims become, the more important that distinction is.
@@ -273,7 +272,6 @@ Sceptics of Grusch's claims argue that this mechanism may explain why multiple i
 AARO's 2024 historical review similarly stated that allegations of secret extraterrestrial reverse-engineering programmes appeared, in large part, to result from circular reporting among people who already believed such programmes existed. The report's conclusion was controversial within the UFO community, but it directly targeted the same credibility question raised by the Grusch case: whether overlapping witness networks have been mistaken for independent evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Black object&#x27;: Pentagon&#x27;s wild UFO revelation Dr</span><span class="citation-popover-snippet">Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</span></span></span>
 
 Supporters of Grusch respond that this criticism assumes too much about witnesses whose identities remain classified. They argue that Congress and inspectors general may have heard from genuinely independent first-hand sources even if the public has not. Because those witnesses have not been openly identified, outside observers cannot yet determine whether the accounts converge independently or stem from the same origin.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvhMMhW-JN0" title="Some Thoughts on David Grusch - Alien Whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer">Some Thoughts on David Grusch - Alien Whistleblower</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 109.3K &middot; Uploaded: June 2023 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvhMMhW-JN0">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +289,6 @@ A further complication emerged in reporting about AARO's investigations. Accordi
 
 This does not prove that Grusch's sources were mistaken. It does show why investigators are cautious about treating classified anecdotes as self-validating evidence. A person can possess high-level clearance, sincerely believe what they were told and still be relaying a misunderstanding generated by compartmentalisation.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-2-dark.svg" | relative_url }}" alt="Circular Reports illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Small-Network Problem
 
@@ -302,7 +299,6 @@ Kirkpatrick has argued that many modern crash-retrieval allegations circulate wi
 The challenge for outside observers is that witness counts alone do not solve this problem.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +312,6 @@ For example:
 Without knowing who the sources are and how their information was obtained, it is impossible for the public to distinguish among these possibilities.
 
 This is why references to large numbers of interviews can be both impressive and limited at the same time. Grusch's reported interviews suggest a substantial investigative effort. They do not automatically demonstrate that every source was independent or that all were describing the same underlying reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Grusch said: Absolutely, based on interviewing over 40 w...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PwuNBZ0txTs" title="The Pentagon UFO Report: Fact or Failure?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PwuNBZ0txTs" target="_blank" rel="noopener noreferrer">The Pentagon UFO Report: Fact or Failure?</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford &middot; Views: 8.2K &middot; Uploaded: March 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PwuNBZ0txTs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PwuNBZ0txTs">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +333,6 @@ Investigators normally look for several indicators:
 
 This is one reason congressional interest has focused so heavily on classified briefings. If lawmakers were shown multiple first-hand witnesses with separate access histories, that would strengthen the case considerably. If the witnesses largely relied on one another's accounts, the apparent corroboration would become much weaker.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-3-dark.svg" | relative_url }}" alt="Circular Reports illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_circular_reporting_r_f128da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Question Remains Unresolved
 
@@ -348,9 +342,7 @@ At the same time, circular reporting is a recognised investigative failure mode.
 
 For the public, this remains one of the largest unresolved gaps in the Grusch story. His credibility does not depend only on whether witnesses exist. It depends on whether those witnesses represent genuinely separate lines of knowledge, or whether a smaller core narrative has echoed through overlapping networks and gradually acquired the appearance of broad corroboration. Until more first-hand sources, documents or programme records emerge, that distinction remains difficult to test from outside the classified system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Black object&#x27;: Pentagon&#x27;s wild UFO revelation Dr</span><span class="citation-popover-snippet">Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</span></span></span> [3Wikipedia 3The Guardian]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8O47sJ91gTA" title="David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer">David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23</a></p><p class="youtube-embed-meta">Channel: Lee Morris &middot; Views: 101.7K &middot; Uploaded: July 2023 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8O47sJ91gTA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -364,16 +356,16 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book: Top Secret UFO Files: The Untold Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xz6vuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book: Top Secret UFO Files: The Untold Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John Scott Chace</p>
         
-        <p class="fr-book-desc">Focuses on witness credibility, corroboration and evaluating testimony from multiple sources.</p>
+        <p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -381,16 +373,16 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly addresses how official information, rumors, investigations and institutional narratives develop around UFO claims.</p>
+        <p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -398,16 +390,16 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Could UFO&#x27;s be real? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3966518-M.jpg" alt="Cover for Could UFO&#x27;s be real?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Larry Koss</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating apparent corroboration and distinguishing evidence from rumor.</p>
+        <p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,16 +407,16 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Almanac of Alien Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RXX5BGt7QjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Almanac of Alien Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almanac of Alien Encounters">Almanac of Alien Encounters</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By Eric Elfman</p>
         
-        <p class="fr-book-desc">Explores belief formation, insider networks and how narratives spread through communities.</p>
+        <p class="fr-book-desc">A historical overview of alien encounters, from Archbishop Agobard of Lyons&#x27;s ninth-century encounter with the occupants of a &quot;cloudship&quot;...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -432,7 +424,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: Top Secret UFO Files: The Untold Truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Could UFO&#x27;s be real?</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -469,15 +461,15 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +477,15 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x alien patch patches badge iron on sew on ufo martian seti roswell green new"><img src="{{ '/assets/images/marketplace-covers/5a2141f9196d177a0f7f.jpg' | relative_url }}" alt="Listing image for 1 x alien patch patches badge iron on sew on ufo martian seti roswell green new" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">1 x alien patch patches badge iron on sew on ufo martian seti roswell green new</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +493,15 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +509,15 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,7 +525,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="circular-reports-could-grusch-s-sources-be-echoing-each-other-david-grusch-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-grusch-s-sources-be-echoing-each-other-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-grusch-s-sources-be-echoing-each-other-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,139 +741,139 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 2. <a id="endnote-2"></a>
    Source: news.com.au  
    Title: 'Black object': Pentagon's wild UFO revelation Dr  
-   Link: [https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92](https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92)  
+   Link: <a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: people.com  
-   Link: [https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655](https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655)  
+   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24-F-0266.pdf8 Jan 2024 — David Grusch for the purpose of conducting an oral history interview in support of the. Congressionally directe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Re...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — And a lot that we saw, they attributed the U-2 as to be the basis...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... &quot;Pentagon report...</p></details>
    Published: March 2024  
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing](https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-[hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Grusch said: Absolutely, based on interviewing over 40 w...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: The Project BEAR report was based on a statistical anal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e](https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e)  
+   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — These [biologics](&amp;#123;&amp;#123; &#x27;biologics/&#x27; | relative_url &amp;#125;&amp;#125;), Grusch said, were: “Non-human, and that was the ass...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 — There&#x27;s no evidence that AAWSAP found spaceships or aliens. a... What about the leaked UFO videos, like...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO has approached this project with the widest possible aperture, thoroughly investigatin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newlinesmag.com  
-   Link: [https://newlinesmag.com/argument/ufos-are-going-mainstream/](https://newlinesmag.com/argument/ufos-are-going-mainstream/)  
+   Link: <a href="https://newlinesmag.com/argument/ufos-are-going-mainstream/" target="_blank" rel="noopener noreferrer nofollow">https://newlinesmag.com/argument/ufos-are-going-mainstream/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Are Going Mainstream6 days ago — Last weekend, Grusch, who now works as a special adviser to lawmakers on how to navigate UAP record...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-[oversight](https://www.pbs.org/newshour/politics/watch-live-house-[oversight)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-[oversight" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-[oversight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower tells Congress the U.S. is concealing...Retired Maj. David Grusch&#x27;s highly anticipated testimony before a House Ove...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upIn July, Grusch subsequently repeated the claims under oath during the first Cong...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims](https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims)  
+   Link: <a href="https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Who is David Grusch? For 14 years, Grusch was an intelligence officer in the US Air Force at the...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: osvnews.com  
    Title: catholic filmmaker investigates ufo mysteries at the vatican  
-   Link: [https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/](https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/)  
+   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Nov 2025 — As detailed by former intelligence official David Grusch in 2023 congressional testimony, the allegation holds that Pope Pi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered [retaliation](&amp;#123;&amp;#123; &#x27;retaliation/&#x27; | relative_url &amp;#125;&amp;#125;) after making ext...</p></details>

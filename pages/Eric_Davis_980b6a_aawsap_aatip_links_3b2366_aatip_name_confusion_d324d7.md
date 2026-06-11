@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-links/
 nav_short_title: AATIP confusion
 title: Did the programme name inflate the claims?
-title_full: Did the programme name inflate the claims? | AAWSAP Links
+title_full: Did the programme name inflate the claims?
 display_title_short: AATIP confusion
 display_title: AATIP confusion
 heading_title: Did the programme name inflate the claims?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Pentagon Links Prove Too Much? | Davis
+parent_title: Do Pentagon Links Prove Too Much?
 parent_permalink: /aawsap-links/
 parent_nav_short_title: AAWSAP Links
 parent_heading_title: Do Pentagon Links Prove Too Much?
@@ -253,7 +253,7 @@ next_link:
   permalink: /baass-network/
   short_title: BAASS network
   heading_title: When proximity becomes an echo chamber
-date: '2026-06-09 03:03:45 '
+date: '2026-06-11 21:07:10 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_con
 
 ## Introduction
 
-Confusion between AAWSAP and AATIP has become one of the most important credibility issues in the modern UFO/UAP [debate]({{ 'debate/' | relative_url }}). For [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}), the distinction matters because his documented connection is strongest to the Advanced Aerospace Weapon System Applications Program (AAWSAP) contractor network and its associated research papers. Public discussion, however, often collapses AAWSAP and the Advanced Aerospace Threat Identification Program (AATIP) into a single entity. That shortcut can make Davis appear more directly connected to an official Pentagon UFO investigation than the surviving records clearly demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">ResearchGateOn the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
-
+Confusion between AAWSAP and AATIP has become one of the most important credibility issues in the modern UFO/UAP [debate]({{ 'debate/' | relative_url }}). For Eric Davis, the distinction matters because his documented connection is strongest to the Advanced Aerospace Weapon System Applications Program (AAWSAP) contractor network and its associated research papers. Public discussion, however, often collapses AAWSAP and the Advanced Aerospace Threat Identification Program (AATIP) into a single entity. That shortcut can make Davis appear more directly connected to an official Pentagon UFO investigation than the surviving records clearly demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">On the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" alt="AATIP confusion illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is not necessarily fabrication. The problem is inflation through ambiguity. When programme names blur together, technical consultants can be perceived as insiders to a much broader government UFO effort, and speculative research papers can be interpreted as evidence of confirmed discoveries. Understanding how that shift happened is essential when assessing Davis's credibility.
@@ -272,7 +271,7 @@ The result is not necessarily fabrication. The problem is inflation through ambi
 
 The most concrete evidence concerning Davis comes from the AAWSAP-era document trail rather than from later public narratives about AATIP.
 
-Released Defense Intelligence Reference Documents (DIRDs) show that Davis authored or co-authored studies on topics such as traversable wormholes, [negative energy]({{ 'negative-energy/' | relative_url }}), [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}) and other highly speculative aerospace concepts. These papers were commissioned within the Defence Intelligence Agency-funded research ecosystem associated with AAWSAP and contractor work linked to Bigelow Aerospace Advanced Space Studies (BAASS). <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Drive, Dark Energy1 a11d the Manipulation of E~ra...This product is one in а series of advanced technology reports produced in FY 2009 u...</span></span></span>
+Released Defense Intelligence Reference Documents (DIRDs) show that Davis authored or co-authored studies on topics such as traversable wormholes, [negative energy]({{ 'negative-energy/' | relative_url }}), [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}) and other highly speculative aerospace concepts. These papers were commissioned within the Defence Intelligence Agency-funded research ecosystem associated with AAWSAP and contractor work linked to Bigelow Aerospace Advanced Space Studies (BAASS). <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Drive, Dark Energy1 a11d the Manipulation of E~ra...This product is one in а series of advanced technology reports produced in FY 2009 u...</span></span></span>
 
 That documentary record establishes several limited but important facts:
 
@@ -282,7 +281,6 @@ That documentary record establishes several limited but important facts:
 * The documents themselves do not demonstrate possession of alien technology, recovered craft or confirmed non-human materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span>
 
 This distinction is often lost in public discussion. Once AAWSAP became widely described as a Pentagon UFO programme, participation in its research ecosystem began to function as a credibility badge extending beyond what the released paperwork directly shows.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36Ty_S1qs20" title="Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer">Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 164.8K &middot; Uploaded: May 2019 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36Ty_S1qs20">Open on YouTube</a></p></div></div></div>
 
@@ -298,10 +296,9 @@ Several different interpretations developed:
 * Some critics argued that AAWSAP was the primary funded programme and that later use of the AATIP label overstated the scale or nature of a separate Pentagon office.
 * Official statements from different periods sometimes appeared inconsistent, further fuelling disagreement over who held what role and under which programme name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Senator Harry Reid attempted to transition AAWSAP into a SAP in 2009. That reque...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Researchers examining the issue in detail have argued that the two labels became intertwined in public discourse despite referring to different organisational realities at different times. The resulting ambiguity has persisted for years because participants, journalists, investigators and critics have often used the names differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">ResearchGateOn the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
+Researchers examining the issue in detail have argued that the two labels became intertwined in public discourse despite referring to different organisational realities at different times. The resulting ambiguity has persisted for years because participants, journalists, investigators and critics have often used the names differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">On the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span>
 
 For a casual reader, "worked with AATIP" and "contributed to AAWSAP-related contractor studies" can sound effectively identical. In practice, those descriptions imply different levels of authority, access and institutional involvement.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" alt="AATIP confusion illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the distinction changes Davis's credibility
@@ -313,7 +310,6 @@ If a reader hears that Davis worked on Pentagon-funded research papers connected
 This is where name confusion can amplify credibility.
 
 A chain of assumptions often develops:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -327,13 +323,11 @@ A chain of assumptions often develops:
 
 Each step contains a small shift. The cumulative effect can be much larger than the underlying evidence warrants.
 
-Supporters argue that this criticism understates the significance of Davis's government and contractor connections. They note that he was not an ordinary UFO enthusiast and that he interacted with people inside defence and intelligence circles. His involvement in official studies is real, not invented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: envisioning.com">[Envisioning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">envisioning.com</span><span class="citation-popover-snippet">EnvisioningAerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs)... Studies conducted by mai...</span></span></span>
+Supporters argue that this criticism understates the significance of Davis's government and contractor connections. They note that he was not an ordinary UFO enthusiast and that he interacted with people inside defence and intelligence circles. His involvement in official studies is real, not invented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: envisioning.com">[Envisioning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">envisioning.com</span><span class="citation-popover-snippet">Aerospace Studies &#124; XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs)... Studies conducted by mai...</span></span></span>
 
 Sceptics respond that institutional proximity should not be confused with validation. A physicist can be commissioned to explore speculative concepts without the sponsoring agency confirming that those concepts are real, achievable or based on recovered technology. The existence of the research contract does not automatically verify the most dramatic conclusions later associated with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KtE4kJ79yjc" title="UFO/UAP Disclosure Update with Eric W. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer">UFO/UAP Disclosure Update with Eric W. Davis</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 48.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KtE4kJ79yjc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" alt="AATIP confusion illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AARO challenge to the stronger narrative
 
 The Pentagon's All-domain Anomaly Resolution Office (AARO) added another layer to the debate when it reviewed the historical record of government UAP investigations.
@@ -344,21 +338,17 @@ That assessment does not disprove every claim associated with Davis. It does, ho
 
 For credibility analysis, this is the central point. Davis's documented role becomes stronger when narrowly described and weaker when expanded through assumptions attached to the AATIP brand.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 ## What readers should take from the programme-name dispute
 
 The AAWSAP/AATIP confusion is less important as a bureaucratic naming argument than as a mechanism of credibility inflation.
 
-The strongest evidence shows that Eric Davis participated in a genuine government-funded advanced aerospace research environment and produced documented technical studies within that system. That is a meaningful credential and distinguishes him from many UFO commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Drive, Dark Energy1 a11d the Manipulation of E~ra...This product is one in а series of advanced technology reports produced in FY 2009 u...</span></span></span>
+The strongest evidence shows that Eric Davis participated in a genuine government-funded advanced aerospace research environment and produced documented technical studies within that system. That is a meaningful credential and distinguishes him from many UFO commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Drive, Dark Energy1 a11d the Manipulation of E~ra...This product is one in а series of advanced technology reports produced in FY 2009 u...</span></span></span>
 
-The weaker claim is that these programme connections prove he had verified access to alien craft, confirmed non-human technology or a hidden crash-retrieval programme. The public tendency to merge AAWSAP and AATIP into a single legendary Pentagon UFO project makes that stronger interpretation easier to assume than the available records justify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">ResearchGateOn the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</span></span></span>
+The weaker claim is that these programme connections prove he had verified access to alien craft, confirmed non-human technology or a hidden crash-retrieval programme. The public tendency to merge AAWSAP and AATIP into a single legendary Pentagon UFO project makes that stronger interpretation easier to assume than the available records justify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate On the AAWSAP-AATIP Confusion</span><span class="citation-popover-snippet">On the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span><span class="citation-popover-meta">Published: June 30, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</span></span></span>
 
 For assessing Davis's credibility, the key distinction is therefore not whether AAWSAP and AATIP were related. It is whether participation in one programme's research ecosystem is being used to imply a level of knowledge, authority or evidential access that has not been independently demonstrated.
 
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" alt="AATIP confusion illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KtE4kJ79yjc" title="UFO/UAP Disclosure Update with Eric W. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer">UFO/UAP Disclosure Update with Eric W. Davis</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 48.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KtE4kJ79yjc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +467,15 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="https://i.ebayimg.com/images/g/LZ0AAOSw~TJjKxLg/s-l225.jpg" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +483,15 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +499,15 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 14 x Space themed Iron/Sew On Patches, UFO/UAP, Aliens, Comets, Cosmos"><img src="https://i.ebayimg.com/images/g/fnIAAeSw1blpMbug/s-l225.jpg" alt="Listing image for 14 x Space themed Iron/Sew On Patches, UFO/UAP, Aliens, Comets, Cosmos" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer">14 x Space themed Iron/Sew On Patches, UFO/UAP, Aliens, Comets, Cosmos</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +515,15 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +531,7 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aatip-confusion-did-the-programme-name-inflate-the-claims-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-programme-name-inflate-the-claims-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-the-programme-name-inflate-the-claims-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,131 +747,131 @@ For assessing Davis's credibility, the key distinction is therefore not whether 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate On the AAWSAP-AATIP Confusion  
-   Link: [https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion](https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateOn the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the AAWSAP-AATIP ConfusionJune 30, 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
    Published: June 30, 2024  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Senator Harry Reid attempted to transition AAWSAP into a SAP in 2009. That reque...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
 7. <a id="endnote-7"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EnvisioningAerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs)... Studies conducted by mai...</p></details>
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs)... Studies conducted by mai...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Eric](https://en.wikipedia.org/wiki/Eric)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eric" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EricEric is one of the most commonly used Germanic names in the United States, along with Robert, William, Edward and others.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fas.org  
    Title: aatip list  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: info.publicintelligence.net  
-   Link: [https://info.publicintelligence.net/DIA-WarpDrives.pdf](https://info.publicintelligence.net/DIA-WarpDrives.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drive, Dark Energy1 a11d the Manipulation of E~ra...This product is one in а series of advanced technology reports produced in FY 2009 u...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comFOIA-00159-2018Requesting all &quot;Defense Intelligence Reference Documents&quot; created by Bigelow Aerospace... Eric Davis, w...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/tv/eric](https://www.rottentomatoes.com/tv/eric)  
+   Link: <a href="https://www.rottentomatoes.com/tv/eric" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/eric</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2024 — Puppeteer Vincent clings to his missing son&#x27;s drawings of a blue monster puppet named Eric, convinced that if he can get Er...</p></details>
    Published: May 2, 2024  
 
 14. <a id="endnote-14"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF DEFENSE1 Jul 2025 — It lists eleven people whom Senator Reid wished to have special access to AATIP. Luis Elizondo&#x27;s name is included...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/eric](https://www.merriam-webster.com/dictionary/eric)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/eric" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/eric</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC Definition &amp; MeaningThe meaning of ERIC is a payment imposed for homicide in medieval Irish law upon the slayer and his kin consisti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/](https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsAAWSAP/AATIP is adequately covered in the AARO historical report, with footnotes, an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: newly leaked documents show that the department of defense funded a study concer  
-   Link: [https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/](https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/)  
+   Link: <a href="https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashdot/posts/newly-leaked-documents-show-that-the-department-of-defense-funded-a-study-concer/10156847931230857/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2017, The New York Times revealed the existence...Newly leaked documents show that the Department of Defense funded a study concernin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UC5dqbm1sX7iMvcbAX_2Iufg](https://www.youtube.com/channel/UC5dqbm1sX7iMvcbAX_2Iufg)  
+   Link: <a href="https://www.youtube.com/channel/UC5dqbm1sX7iMvcbAX_2Iufg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC5dqbm1sX7iMvcbAX_2Iufg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC – Education ResourcesWhy Will ERIC Re-review Its Current Sources of Content? 117 views. 1 year ago. CC · 3:20 · How Will ERIC Select...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: Lue Elizondo's response to today's controversy's  
-   Link: [https://www.reddit.com/r/UFOs/comments/uohb58/lue_elizondos_response_to_todays_controversys/](https://www.reddit.com/r/UFOs/comments/uohb58/lue_elizondos_response_to_todays_controversys/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/uohb58/lue_elizondos_response_to_todays_controversys/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uohb58/lue_elizondos_response_to_todays_controversys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsSo, everyone else is saying that AAWSAP was the real program, and AATIP was a nickname used when Reid tried to get SAP status for t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Reference Documents (DRIDs)Eric Davis, who was interviewed on the Coast to Coast AM radio show on...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>○ [https://www](https://www)... (PUBLIC DOMAIN) - 24 June 2018 — AATIP scientist and EarthTech consultant Eric Davis...Read more...</p></details>
    Published: June 2018  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=X3CcaP3yAkc](https://www.youtube.com/watch?v=X3CcaP3yAkc)  
+   Link: <a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X3CcaP3yAkc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/](https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/)  
+   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ranging $22 million in annual funding for the AATIP...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A few days ago, 161 classified UAP files were released...We talked to one of my colleagues, Eric Davis, is one of my senior scientific a...</p></details>

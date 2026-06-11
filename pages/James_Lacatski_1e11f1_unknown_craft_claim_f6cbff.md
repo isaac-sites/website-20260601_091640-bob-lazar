@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-james-lacatski/
 nav_short_title: Craft Claim
 title: Did The US Possess An Unknown Craft?
-title_full: Did The US Possess An Unknown Craft? | Lacatski
+title_full: Did The US Possess An Unknown Craft?
 display_title_short: Craft Claim
 display_title: Craft Claim
 heading_title: Did The US Possess An Unknown Craft?
@@ -289,7 +289,7 @@ next_link:
   permalink: /insider-books/
   short_title: Insider Books
   heading_title: How Much Should The Books Count?
-date: '2026-06-09 02:56:20 '
+date: '2026-06-11 21:03:26 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-overview-
 
 ## Introduction
 
-[James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s “craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})” claim is the most consequential and least publicly proven part of his UAP story. In his co-authored 2023 book, *Inside the U.S. Government Covert UFO Program: Initial Revelations*, Lacatski is described as having stated in a 2011 Capitol meeting that the United States possessed a craft of unknown origin and had gained access to its interior. The craft was said to have aerodynamic form but no obvious wings, intakes, exhaust, fuel tanks or engine. That is a dramatic claim, but the public evidence remains thin: no photographs, chain-of-custody records, engineering report, location, contractor file, named custodian or independently verifiable physical sample has been released. The safest classification is therefore not “debunked fact” or “proven alien technology”, but a high-stakes insider assertion from a real programme figure, contradicted or at least not corroborated by the Pentagon’s later AARO review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Inside the U.S</span><span class="citation-popover-snippet">Government Covert UFO Program... At the conclusion of a 2011 meeting in the Capitol building with a U.S.... He stated that the United St...</span></span></span>
-
+James Lacatski’s “craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})” claim is the most consequential and least publicly proven part of his UAP story. In his co-authored 2023 book, *Inside the U.S. Government Covert UFO Program: Initial Revelations*, Lacatski is described as having stated in a 2011 Capitol meeting that the United States possessed a craft of unknown origin and had gained access to its interior. The craft was said to have aerodynamic form but no obvious wings, intakes, exhaust, fuel tanks or engine. That is a dramatic claim, but the public evidence remains thin: no photographs, chain-of-custody records, engineering report, location, contractor file, named custodian or independently verifiable physical sample has been released. The safest classification is therefore not “debunked fact” or “proven alien technology”, but a high-stakes insider assertion from a real programme figure, contradicted or at least not corroborated by the Pentagon’s later [AARO review]({{ 'aaro-review-c2bd1b/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Inside the U.S</span><span class="citation-popover-snippet">Government Covert UFO Program... At the conclusion of a 2011 meeting in the Capitol building with a U.S.... He stated that the United St...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-overview.webp" | relative_url }}" alt="Overview image for Craft Claim" loading="eager" decoding="sync" fetchpriority="high">
 ## What Lacatski reportedly claimed
@@ -319,7 +318,6 @@ That gives Lacatski a stronger starting position than many UAP personalities. A 
 But institutional proximity is not the same as proof. A government programme can investigate unusual reports, speculative aerospace concepts or contractor claims without validating them. The public AAWSAP record shows a programme concerned with advanced aerospace threats and unconventional technologies, but the released contract and technical-study material does not itself prove recovered non-human craft. DIA-released and FOIA-hosted material shows Bigelow Aerospace work under contract, technical study areas and programme management records, not an open evidential trail to a recovered vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Advanced Aerospace Weapon System Applications Contract</span><span class="citation-popover-snippet">Advanced Aerospace Weapon System Applications Contract</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">SOW Aerospace</span><span class="citation-popover-snippet">SOW Aerospace</span></span></span>
 
 The core tension is therefore simple: Lacatski had enough programme standing for the claim to be relevant, but not enough publicly released evidence for the claim to be treated as established.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-1-dark.svg" | relative_url }}" alt="Craft Claim illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence is missing
@@ -341,7 +339,6 @@ The missing evidence falls into several practical categories:
 
 This absence does not prove the claim false. Classified aerospace and intelligence programmes can leave little public trace. But it does mean the public claim cannot be evaluated like a demonstrated engineering fact. It remains a statement about an alleged object, not a publicly auditable object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tab3igcWnuE" title="UFO Earthquake - Dr. Lacatski&#x27;s Bombshell &amp; AARO&#x27;s Shaky Ground : WEAPONIZED : EP #39" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tab3igcWnuE" target="_blank" rel="noopener noreferrer">UFO Earthquake - Dr. Lacatski&#x27;s Bombshell &amp; AARO&#x27;s Shaky Ground : WEAPONIZED : EP #39</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 131.6K &middot; Uploaded: October 2023 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tab3igcWnuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tab3igcWnuE">Open on YouTube</a></p></div></div></div>
 
 ## What AARO found instead
@@ -362,7 +359,6 @@ AARO’s KONA BLUE summary says the proposal traced back to people involved with
 
 For Lacatski’s craft claim, this cuts both ways. Supporters can argue that KONA BLUE shows the recovered-technology issue was taken seriously inside parts of government. Sceptics can answer that KONA BLUE shows precisely the problem with the evidence: belief in a future delivery of exotic material is not the same as possession of a craft.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-2-dark.svg" | relative_url }}" alt="Craft Claim illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters read the claim
 
@@ -372,17 +368,15 @@ They also point to Lacatski’s apparent reluctance to expand beyond approved wo
 
 The strongest pro-Lacatski version is therefore not “he has proved aliens exist”. It is: a former DIA programme figure has put his name to a specific recovered-craft assertion, and the public may not have access to the classified record needed to judge it fully.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MiUDl_9v6Ag" title="Craft of unknown origin subject of secret study, former US intelligence official confirms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer">Craft of unknown origin subject of secret study, former US intelligence official confirms</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 192.6K &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MiUDl_9v6Ag">Open on YouTube</a></p></div></div></div>
 
 ## How sceptics read the claim
 
 Sceptics focus on the evidential gap. A claim about a physical craft should, in principle, be easier to corroborate than a fleeting sighting in the sky. If the US possessed a craft and entered its interior, there should be institutional traces: storage, security, contracting, testing, materials, personnel, budgets, classification guides, or legal disputes over custody. None has been publicly tied to Lacatski’s described object.
 
-Sceptics also place the claim within a pattern AARO described as [circular reporting]({{ 'circular-reports-ae5e62/' | relative_url }}): a relatively small network of UAP insiders, contractors, advocates and officials repeating or reinterpreting related claims until they appear more corroborated than they are. The Guardian’s reporting on AARO and former AARO head Sean Kirkpatrick highlighted this criticism, noting AARO’s view that many modern hidden-crash and reverse-engineering stories trace back to overlapping AAWSAP/AATIP-linked circles rather than to independently verifiable discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sceptics also place the claim within a pattern AARO described as circular reporting: a relatively small network of UAP insiders, contractors, advocates and officials repeating or reinterpreting related claims until they appear more corroborated than they are. The Guardian’s reporting on AARO and former AARO head Sean Kirkpatrick highlighted this criticism, noting AARO’s view that many modern hidden-crash and reverse-engineering stories trace back to overlapping AAWSAP/AATIP-linked circles rather than to independently verifiable discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That sceptical reading may itself be too sweeping if used to dismiss every unresolved UAP case. But it is highly relevant to this claim because Lacatski’s alleged craft has not been separated from the network by independent evidence. Without the object, records or named corroborating witnesses, the claim remains vulnerable to the charge that it is an insider narrative amplified by repetition.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDKhpauM4wg" title="UFO Lessons from Lacatski - The Doctor of Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDKhpauM4wg" target="_blank" rel="noopener noreferrer">UFO Lessons from Lacatski - The Doctor of Disclosure</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 133.5K &middot; Uploaded: November 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDKhpauM4wg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDKhpauM4wg">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +396,6 @@ A useful credibility scale would place it like this:
 
 **Contradicted or uncorroborated by official review:** AARO says it found no evidence of US companies possessing off-world technology, no verified reverse-engineering programme, and no empirical support for the broader hidden extraterrestrial-technology narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-3-dark.svg" | relative_url }}" alt="Craft Claim illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why it remains central to Lacatski’s credibility
 
@@ -413,86 +406,44 @@ The present public record supports a careful middle position. Lacatski should no
 For readers assessing James Lacatski, this is the decisive distinction: his role is credible; the craft claim is not yet proven. The claim deserves attention because of who made it and how specific it is. It deserves caution because the public evidence stops exactly where the strongest claim begins.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did The US Possess An Unknown Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did The US Possess An Unknown Craft?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Covers government UFO investigations and related insider claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Offers historical context for evaluating extraordinary UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
-        
-        <p class="fr-book-desc">Contains the widely discussed recovered-craft narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Provides background on Lacatski and the programme linked to later claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the U.S. Government Covert UFO Program</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -529,15 +480,15 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Cheyenne Dropship Resin Model Kit 27cm UD-4L V2 Sliding Trap Door Decals"><img src="https://i.ebayimg.com/images/g/JJwAAOSwOEVnxFdZ/s-l225.jpg" alt="Listing image for Aliens Cheyenne Dropship Resin Model Kit 27cm UD-4L V2 Sliding Trap Door Decals" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Aliens Cheyenne Dropship Resin Model Kit 27cm UD-4L V2 Sliding Trap Door Decals</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +496,15 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit"><img src="https://i.ebayimg.com/images/g/ixwAAeSwOwJqInoP/s-l225.jpg" alt="Listing image for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +512,15 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon 1:960 Scale Model Kit Alien Nostromo Towing Vehicle HT03 Movie Classics"><img src="https://i.ebayimg.com/images/g/EusAAeSw6Ydp34Gh/s-l225.jpg" alt="Listing image for Halcyon 1:960 Scale Model Kit Alien Nostromo Towing Vehicle HT03 Movie Classics" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon 1:960 Scale Model Kit Alien Nostromo Towing Vehicle HT03 Movie Classics</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +528,15 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon 1:2400 Scale Model Kit (Aliens) Alien 3 USS Sulaco HAL12 Movie Classics"><img src="https://i.ebayimg.com/images/g/CuEAAeSw5B9pc3OD/s-l225.jpg" alt="Listing image for Halcyon 1:2400 Scale Model Kit (Aliens) Alien 3 USS Sulaco HAL12 Movie Classics" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon 1:2400 Scale Model Kit (Aliens) Alien 3 USS Sulaco HAL12 Movie Classics</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,7 +544,7 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="craft-claim-did-the-us-possess-an-unknown-craft-james-lacatski-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-us-possess-an-unknown-craft-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="did-the-us-possess-an-unknown-craft-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -809,132 +760,132 @@ For readers assessing James Lacatski, this is the decisive distinction: his role
 1. <a id="endnote-1"></a>
    Source: books.google.com  
    Title: Books Inside the U.S  
-   Link: [https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ](https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program... At the conclusion of a 2011 meeting in the Capitol building with a U.S.... He stated that the United St...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: Advanced Aerospace Weapon System Applications Contract  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 5. <a id="endnote-5"></a>
    Source: documents2.theblackvault.com  
    Title: SOW Aerospace  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: yogaesoteric.net  
    Title: Yoga Esoteric Former head of US gov't UFO program confirms  
-   Link: [https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/](https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/)  
+   Link: <a href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00269 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00349 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 06 DIRD Space Access Where Weve Been and Where We Could Go  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: DI Brief 2008  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2008.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2008.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2008.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/</a>  
 
 15. <a id="endnote-15"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
 18. <a id="endnote-18"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MiUDl_9v6Ag](https://www.youtube.com/watch?v=MiUDl_9v6Ag)  
+   Link: <a href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiUDl_9v6Ag</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran The Pentagon&#x27;s Secret UFO Program - And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon's Secret UFO Program  
-   Link: [https://www.youtube.com/watch?v=Qu8pudJk_-A](https://www.youtube.com/watch?v=Qu8pudJk_-A)  
+   Link: <a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR](https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR)  
+   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKInside the US Government Covert UFO Program: Initial...He stated that the United States was in possession of a craft of unknown...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
 
 23. <a id="endnote-23"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/1780336742240809181](https://x.com/DoD_AARO/status/1780336742240809181)  
+   Link: <a href="https://x.com/DoD_AARO/status/1780336742240809181" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1780336742240809181</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/](https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/</a>  
 
 26. <a id="endnote-26"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
 
 27. <a id="endnote-27"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/](https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-links/
 nav_short_title: BAASS network
 title: When proximity becomes an echo chamber
-title_full: When proximity becomes an echo chamber | AAWSAP Links
+title_full: When proximity becomes an echo chamber
 display_title_short: BAASS network
 display_title: BAASS network
 heading_title: When proximity becomes an echo chamber
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Pentagon Links Prove Too Much? | Davis
+parent_title: Do Pentagon Links Prove Too Much?
 parent_permalink: /aawsap-links/
 parent_nav_short_title: AAWSAP Links
 parent_heading_title: Do Pentagon Links Prove Too Much?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /aatip-confusion/
   short_title: AATIP confusion
   heading_title: Did the programme name inflate the claims?
-date: '2026-06-09 03:03:51 '
+date: '2026-06-11 21:07:11 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_c
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s connection to the Bigelow Aerospace Advanced Space Studies (BAASS) network is one of the strongest arguments used by supporters who see him as more than a typical UFO commentator. Unlike many public figures in the subject, Davis can be linked to a documented government-contractor environment that worked on the Advanced Aerospace Weapon System Applications Program (AAWSAP) and related studies. That connection is real and verifiable.
-
+Eric Davis’s connection to the Bigelow Aerospace Advanced Space Studies (BAASS) network is one of the strongest arguments used by supporters who see him as more than a typical UFO commentator. Unlike many public figures in the subject, Davis can be linked to a documented government-contractor environment that worked on the Advanced Aerospace Weapon System Applications Program (AAWSAP) and related studies. That connection is real and verifiable.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-1-dark.svg" | relative_url }}" alt="BAASS network illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The difficulty is that the same network that strengthens Davis’s institutional credibility can also weaken claims of independent corroboration. Many of the most prominent figures associated with AAWSAP, BAASS, EarthTech, Skinwalker Ranch investigations and later UFO disclosure efforts repeatedly appear as sources for one another's claims. When the same small group generates reports, shares stories, conducts interviews, writes books and cites each other's access, apparent confirmation can become difficult to separate from internal reinforcement. The central credibility question is therefore not whether Davis was connected to a genuine contractor programme, but whether claims emerging from that environment are independently verified or mainly circulate within the same network.
@@ -267,7 +266,6 @@ The difficulty is that the same network that strengthens Davis’s institutional
 AAWSAP was funded through the Defense Intelligence Agency and managed through a contract awarded to BAASS, a company connected to aerospace entrepreneur Robert Bigelow. Official records confirm that the contractor investigated not only aerospace topics but also reports involving UFOs, paranormal claims and Skinwalker Ranch-related phenomena. The Pentagon's 2024 historical review states that AAWSAP personnel and the contractor pursued investigations that extended beyond conventional aerospace intelligence, including reports of alleged paranormal activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AAWSAP/AATIP program and a private sector organization&#x27;s paranor...</span></span></span>
 
 Within that environment, several names recur constantly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,14 +295,13 @@ Third, the network included people with genuine scientific, intelligence or defe
 
 For these reasons, BAASS strengthens the case that Davis occupied a real defence-adjacent research environment. It provides evidence of access, not necessarily evidence that the group's most extraordinary conclusions were correct.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ca9uBRoOZL4" title="Space Exploration with Robert Bigelow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ca9uBRoOZL4" target="_blank" rel="noopener noreferrer">Space Exploration with Robert Bigelow</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 22.4K &middot; Uploaded: July 2023 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ca9uBRoOZL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ca9uBRoOZL4">Open on YouTube</a></p></div></div></div>
-
 ## Where overlapping sources weaken corroboration
 
 The strongest sceptical criticism is not that BAASS members invented their backgrounds. It is that many UFO claims associated with the network are difficult to trace back to independent evidence.
 
 A recurring pattern appears across books, interviews, podcasts and disclosure-era reporting:
+
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=ca9uBRoOZL4" target="_blank" rel="noopener noreferrer">Space Exploration with Robert Bigelow</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ca9uBRoOZL4" target="_blank" rel="noopener noreferrer">Space Exploration with Robert Bigelow</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ca9uBRoOZL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ca9uBRoOZL4">Open on YouTube</a></p></div></div></div>
 
 1. One network member reports hearing about a programme, material or event.
 2. Another network member says they have heard similar claims.
@@ -321,13 +318,12 @@ For example, some of the most widely discussed allegations associated with Davis
 
 That does not make the claims false. It means the evidential weight is lower than it may initially appear when multiple people in the same network repeat similar stories.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-2-dark.svg" | relative_url }}" alt="BAASS network illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Skinwalker Ranch factor
 
 Source contamination concerns become stronger when Skinwalker Ranch is included.
 
-Several central BAASS figures were involved in investigations connected to the ranch before, during or after AAWSAP-related work. The Pentagon's historical review states that contractor personnel examined reports involving alleged paranormal phenomena there, including claims involving unusual entities, consciousness-related effects and other unconventional topics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Several central BAASS figures were involved in investigations connected to the ranch before, during or after AAWSAP-related work. The Pentagon's historical review states that contractor personnel examined reports involving alleged paranormal phenomena there, including claims involving unusual entities, consciousness-related effects and other unconventional topics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Supporters view this as evidence that investigators were willing to follow unusual leads wherever they pointed.
 
@@ -335,8 +331,6 @@ Critics view it differently. They argue that a research culture already open to 
 
 For credibility analysis, the key point is not whether Skinwalker Ranch phenomena occurred. It is that the same people often appear in both the ranch narrative and later government-UFO narratives. That overlap makes it harder to treat agreement among participants as independent verification.
 
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-dark.svg" | relative_url }}" alt="BAASS network illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to test independent support
 
 The most useful way to assess Davis-related claims is to separate institutional association from evidential independence.
@@ -363,9 +357,7 @@ Claims that remain persuasive after scrutiny from sceptical journalists, governm
 
 This is often the simplest test. If a story depends primarily on the reputations of Davis, Puthoff, Kelleher, Lacatski or related figures rather than on independently available evidence, then its credibility rests heavily on trust in the network itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-dark.svg" | relative_url }}" alt="BAASS network illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_baass_source_contami_fb4230-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the network question matters for assessing Eric Davis
 
 The BAASS connection is neither a complete endorsement of Eric Davis nor a complete rebuttal of him.
@@ -375,10 +367,6 @@ It strengthens his credibility in one important sense: he demonstrably participa
 At the same time, the contractor network creates a persistent source-contamination problem. Many of the people cited as confirming one another's claims worked within overlapping professional and social circles for years. As a result, repeated assertions from the network cannot automatically be treated as independent corroboration.
 
 For readers trying to judge Davis's credibility, that distinction is crucial. The strongest evidence is the documented record showing that he was part of the AAWSAP-era contractor world. The weakest arguments are those that assume every extraordinary claim emerging from that world becomes more credible simply because several members of the same network repeat it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a0Kugh1f0Tg" title="AOTI 2023 | Flash Talk: Colm A Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a0Kugh1f0Tg" target="_blank" rel="noopener noreferrer">AOTI 2023 | Flash Talk: Colm A Kelleher</a></p><p class="youtube-embed-meta">Channel: Archives of the Impossible</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a0Kugh1f0Tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a0Kugh1f0Tg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -497,15 +485,15 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6.5cm Custom Unofficial Black And UV Green Skinwalker Ranch Logo Sew On Patch."><img src="https://i.ebayimg.com/images/g/-E0AAeSwFBdopxCN/s-l225.jpg" alt="Listing image for 6.5cm Custom Unofficial Black And UV Green Skinwalker Ranch Logo Sew On Patch." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer">6.5cm Custom Unofficial Black And UV Green Skinwalker Ranch Logo Sew On Patch.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +501,15 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for skinwalker ranch patch"><img src="https://i.ebayimg.com/images/g/vhQAAeSw8idn-Ium/s-l225.jpg" alt="Listing image for skinwalker ranch patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer">skinwalker ranch patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +517,15 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO"><img src="https://i.ebayimg.com/images/g/xDcAAOSwrTBmwm78/s-l225.jpg" alt="Listing image for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +533,15 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/b8AAAOSwZF5oOxZ-/s-l225.jpg" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,7 +549,7 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="baass-network-when-proximity-becomes-an-echo-chamber-eric-davis-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch patch" data-ebay-reference="when-proximity-becomes-an-echo-chamber-skinwalker-ranch-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -777,111 +765,111 @@ For readers trying to judge Davis's credibility, that distinction is crucial. Th
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AAWSAP/AATIP program and a private sector organization&#x27;s paranor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
    Published: May 2024  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical... investigations included...</p></details>
    Published: March 2024  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO&#x27;s examination of the historical context of UAP inv...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Skinwalkers At The Pentagon | Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch - The Full Story | Documentary...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration with Robert Bigelow...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Report on BAASS UAP Analysis Capabilities24 Jun 2025 — The purpose of this report is to summarize the field data collection, in-h...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO found no verifiable evidence that any reported UAP sighting has represented extraterre...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1525672102418769/](https://www.facebook.com/groups/911734917145827/posts/1525672102418769/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1525672102418769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1525672102418769/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists stunned by Skinwalker Ranch UFO discoveryAre you familiar with Skinwalker Ranch and its bizarre history of UFO sightings and a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gf5k3k/ndas_vs_humanity_the_strange_case_of_lacatski_and/](https://www.reddit.com/r/UFOs/comments/1gf5k3k/ndas_vs_humanity_the_strange_case_of_lacatski_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gf5k3k/ndas_vs_humanity_the_strange_case_of_lacatski_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gf5k3k/ndas_vs_humanity_the_strange_case_of_lacatski_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Lacatski and Kelleher&#x27;s UFO SecretsWhy do most UFO/alien incidents seem to come from the US? r/UFOs. • 2mo ago...Rea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: spreaker.com  
-   Link: [https://www.spreaker.com/episode/united-states-has-breached-the-inside-of-a-ufo-jim-lecatski-colm-kelleher-george-knapp-special-presentation--63472834](https://www.spreaker.com/episode/united-states-has-breached-the-inside-of-a-ufo-jim-lecatski-colm-kelleher-george-knapp-special-presentation--63472834)  
+   Link: <a href="https://www.spreaker.com/episode/united-states-has-breached-the-inside-of-a-ufo-jim-lecatski-colm-kelleher-george-knapp-special-presentation--63472834" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/united-states-has-breached-the-inside-of-a-ufo-jim-lecatski-colm-kelleher-george-knapp-special-presentation--63472834</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim Lecatski- Colm Kelleher &amp; George Knapp25 Dec 2024 — James Lacatski and rocket scientist Dr. Colm Kelleher. Together, they built the m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
 
 16. <a id="endnote-16"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/](https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/)  
+   Link: <a href="https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD invites past and present military personnel...31 Oct 2023 — Those reports will support the making of AARO&#x27;s in-the-works Historical...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That was its perfect purpose from the start,” says Lacatski. “And furthermore, this was about how UFOs might fit into the realm...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis, who was interviewed on the Coast to Coast AM radio show on January 28, 2018, he confirmed that while working for Bigelow...R...</p></details>
    Published: January 28, 2018  
 
 19. <a id="endnote-19"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mutual unidentified Flying objects networD. www.mufon.org marler, D. (2013). Triangular UFOs: An estimate of the situation.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...According to a DOD press release, AARO&#x27;s website will provide photographs and videos...</p></details>

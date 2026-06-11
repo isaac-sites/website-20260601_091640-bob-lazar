@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-travis-taylor-on-uaps/
 nav_short_title: Supporters
 title: Why Do Supporters Trust Taylor's UAP Work?
-title_full: Why Do Supporters Trust Taylor's UAP Work? | Taylor
+title_full: Why Do Supporters Trust Taylor's UAP Work?
 display_title_short: Supporters
 display_title: Supporters
 heading_title: Why Do Supporters Trust Taylor's UAP Work?
@@ -289,7 +289,7 @@ next_link:
   permalink: /task-force/
   short_title: Task Force
   heading_title: What Did Taylor Actually Do for the UAP Task Force?
-date: '2026-06-09 03:09:56 '
+date: '2026-06-11 21:08:21 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview.webp
@@ -299,7 +299,6 @@ image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview-socia
 ## Introduction
 
 Supporters trust [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s UAP work for a fairly specific reason: he looks, to them, like the kind of investigator the field has often lacked. He has an engineering and defence-science background, talks in terms of sensors and repeatable measurements, has worked inside the former US UAP Task Force, and is willing to take anomalous reports seriously without presenting himself only as a debunker. That does not make his conclusions proven. It does explain why many UAP audiences see him as more serious than a conventional television personality. His supporters’ case is strongest when it rests on verified [credentials]({{ 'credentials/' | relative_url }}), hands-on investigation and government-facing technical work; it is weaker when it asks the public to accept televised anomalies or classified-context claims without independent access to the underlying data.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview.webp" | relative_url }}" alt="Overview image for Supporters" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Taylor’s technical profile matters to supporters
@@ -314,10 +313,9 @@ This is why his appeal differs from that of a pure experiencer or disclosure act
 
 A key part of the supporters’ case is Taylor’s own public framing of his role. In a Sky History interview about *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*, Taylor said he had been sceptical of “99.9%” of paranormal and UFO reports because eyewitness accounts often lack scientifically valid data, are not repeatable, and are not supported by instrumentation. He also said he initially expected to find a conventional explanation at the ranch, such as a natural phenomenon, a plant-related effect, or confusion caused by a nearby government facility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That matters because supporters often distinguish between two types of UAP believer. One starts with a preferred answer and looks for confirmation. The other starts with doubt, instruments the environment, and changes views only when ordinary explanations fail. Taylor’s public persona is built around the second model. Whether every Skinwalker Ranch conclusion justifies that image is a separate question, but the image itself is central to why he is trusted by sympathetic audiences.
+That matters because supporters often distinguish between two types of UAP believer. One starts with a preferred answer and looks for confirmation. The other starts with doubt, instruments the environment, and changes views only when ordinary explanations fail. Taylor’s public persona is built around the second model. Whether every [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch conclusion justifies that image is a separate question, but the image itself is central to why he is trusted by sympathetic audiences.
 
 His preference for the term “high strangeness” over “paranormal” also helps that case. In the same interview, Taylor argued that “paranormal” implies something beyond natural explanation, whereas he expected even strange events to have an eventual explanation, whether natural, technological or more exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Supporters read that as an important distinction: he is not simply saying “magic happened”; he is saying something was observed that current data does not yet explain.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-1-dark.svg" | relative_url }}" alt="Supporters illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hands-on field investigation appeals to UAP audiences
@@ -338,7 +336,6 @@ For supporters, this matters in three ways. First, it shows that Taylor was not 
 
 The limitation is equally important. Government access proves relevance, not correctness. It does not prove that Taylor’s public interpretations are accurate, that Skinwalker Ranch anomalies are extraordinary, or that classified material would support the strongest claims made around UAP. It means his supporters have a stronger basis for taking him seriously than they would for a personality with no technical or institutional record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G_rEi2CUBv0" title="The Truth About Skinwalker Ranch: Travis Taylor | Ep 129" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer">The Truth About Skinwalker Ranch: Travis Taylor | Ep 129</a></p><p class="youtube-embed-meta">Channel: Rick Burgess Show &middot; Views: 651.0K &middot; Uploaded: July 2022 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G_rEi2CUBv0">Open on YouTube</a></p></div></div></div>
 
 ## Taylor as a bridge between stigma and scientific attention
@@ -349,7 +346,6 @@ Taylor’s public role fits that transitional moment. To supporters, he is usefu
 
 That boundary is exactly what makes him attractive and controversial. Supporters see him as someone willing to risk reputational damage by treating anomalies as investigable. Critics see the same willingness as evidence of poor judgement, especially because of his appearances on programmes such as *Ancient Aliens* and *The Secret of Skinwalker Ranch*. Science reported in 2022 that Taylor had served in a lead UAP Task Force role while also drawing criticism for association with supernatural and speculative UFO media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The supporters’ answer is not that television work proves anything. It is that public communication and serious technical work can coexist, provided claims remain tied to evidence.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-3-dark.svg" | relative_url }}" alt="Supporters illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the supporters’ case is strongest
 
@@ -357,12 +353,11 @@ The strongest version of the pro-Taylor case is modest, not extravagant. It does
 
 **He is technically literate in relevant domains.** Aerospace systems, optics, directed energy, propulsion concepts and sensor interpretation are not peripheral to UAP analysis. Taylor’s published and professional background makes it reasonable for supporters to treat him as more than a presenter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[Space Symposium 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">dr travis taylor</span></span></span>
 
-**He has verified institutional proximity to official UAP work.** His reported UAP [Task Force role]({{ 'task-force-role/' | relative_url }}) gives him a documented connection to the post-2017 US government UAP process, including the period that produced the 2021 ODNI assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[Space Symposium 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">dr travis taylor</span></span></span>
+**He has verified institutional proximity to official UAP work.** His reported UAP Task Force role gives him a documented connection to the post-2017 US government UAP process, including the period that produced the 2021 ODNI assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[Space Symposium 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">dr travis taylor</span></span></span>
 
 **He argues for instrumentation rather than testimony alone.** His public comments repeatedly separate eyewitness accounts from scientifically useful data, and his Skinwalker Ranch role is built around attempts to measure anomalies rather than merely collect stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Taken together, these points make him credible as a person worth listening to within the UAP field. They do not make him a conclusive authority on what UAP are.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-2-dark.svg" | relative_url }}" alt="Supporters illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where even supporters have to be careful
@@ -372,7 +367,6 @@ A balanced supporter case must not overclaim. Taylor’s credentials and access 
 There is also a risk of credential transfer. Taylor’s expertise in aerospace and optical science is relevant to some UAP questions, but expertise is not universal. A technically skilled investigator can still misread an environmental effect, overinterpret an instrument spike, underestimate production incentives, or give too much weight to a pattern that disappears under stricter controls. NASA’s broader warning about poor calibration, missing metadata and limited data applies to UAP claims regardless of who presents them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fairest version of the supporters’ case therefore says: Taylor is a serious investigator in the sense that he has real technical credentials, verified government UAP involvement and a stated preference for instrumented inquiry. It should not say: Taylor’s involvement proves the extraordinary interpretation of any particular UAP or Skinwalker Ranch event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uBabYbbhSgc" title="THE SECRET OF SKINWALKER RANCH Returns - Interview with Dr. Travis Taylor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer">THE SECRET OF SKINWALKER RANCH Returns - Interview with Dr. Travis Taylor</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 910.4K &middot; Uploaded: April 2021 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uBabYbbhSgc">Open on YouTube</a></p></div></div></div>
 
@@ -384,9 +378,7 @@ That combination is rare. It is why supporters often forgive the messier parts o
 
 The most useful reader takeaway is not that supporters are obviously right or wrong. It is that their trust in Taylor is built from a real but limited foundation. He is credible as a technically qualified, government-linked investigator willing to examine UAP claims seriously. He is not, on the public record alone, a final proof-source for the most extraordinary interpretations attached to those claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5TkTEypJZ0" title="I-Team: UFO scientist speaks publicly for the first time on decades of work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5TkTEypJZ0" target="_blank" rel="noopener noreferrer">I-Team: UFO scientist speaks publicly for the first time on decades of work</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 368.8K &middot; Uploaded: June 2022 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5TkTEypJZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5TkTEypJZ0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -505,15 +497,15 @@ The most useful reader takeaway is not that supporters are obviously right or wr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ The most useful reader takeaway is not that supporters are obviously right or wr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +529,15 @@ The most useful reader takeaway is not that supporters are obviously right or wr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +545,15 @@ The most useful reader takeaway is not that supporters are obviously right or wr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,7 +561,7 @@ The most useful reader takeaway is not that supporters are obviously right or wr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="supporters-58c2df-why-do-supporters-trust-taylor-s-uap-work-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-supporters-trust-taylor-s-uap-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-supporters-trust-taylor-s-uap-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,166 +777,166 @@ The most useful reader takeaway is not that supporters are obviously right or wr
 1. <a id="endnote-1"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: establishment of unidentified aerial phenomena task force  
-   Link: [https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/](https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/)  
+   Link: <a href="https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 9. <a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 10. <a id="endnote-10"></a>
    Source: navy.mil  
    Title: establishment of unidentified aerial phenomena task force  
-   Link: [https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/)  
+   Link: <a href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/</a>  
 
 11. <a id="endnote-11"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: ufo sightings pentagon task force  
-   Link: [https://www.space.com/ufo-sightings-pentagon-task-force.html](https://www.space.com/ufo-sightings-pentagon-task-force.html)  
+   Link: <a href="https://www.space.com/ufo-sightings-pentagon-task-force.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-sightings-pentagon-task-force.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
 
 16. <a id="endnote-16"></a>
    Source: encyclopediaofalabama.org  
    Title: Encyclopedia of Alabama Travis S. Taylor  
-   Link: [https://encyclopediaofalabama.org/article/taylor-travis-s/](https://encyclopediaofalabama.org/article/taylor-travis-s/)  
+   Link: <a href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/taylor-travis-s/</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.org  
    Title: pentagon ufo study led researcher who believes supernatural  
-   Link: [https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural)  
+   Link: <a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: theblackvault.com  
    Title: pentagon releases details about dr [travis taylors](&#123;&#123; 'how-credible-is-travis-taylor-on-uaps/' | relative_url &#125;&#125;) uap task force involvement  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://www.youtube.com/playlist?list=PLMyjaql2n2f7jXVNCojdfsI6BB9fwvIb3](https://www.youtube.com/playlist?list=PLMyjaql2n2f7jXVNCojdfsI6BB9fwvIb3)  
+   Link: <a href="https://www.youtube.com/playlist?list=PLMyjaql2n2f7jXVNCojdfsI6BB9fwvIb3" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLMyjaql2n2f7jXVNCojdfsI6BB9fwvIb3</a>  
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
    Title: Travis Taylor  
-   Link: [https://www.linkedin.com/in/travis-taylor-8375915a](https://www.linkedin.com/in/travis-taylor-8375915a)  
+   Link: <a href="https://www.linkedin.com/in/travis-taylor-8375915a" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/travis-taylor-8375915a</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Travis-Taylor-6](https://www.researchgate.net/profile/Travis-Taylor-6)  
+   Link: <a href="https://www.researchgate.net/profile/Travis-Taylor-6" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Travis-Taylor-6</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Experts Analyze Travis Taylor's Scientific Approach to UAPs  
-   Link: [https://www.youtube.com/watch?v=LqN684X839I](https://www.youtube.com/watch?v=LqN684X839I)  
+   Link: <a href="https://www.youtube.com/watch?v=LqN684X839I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LqN684X839I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: Applying Aerospace Engineering to UAP Analysis...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: How Rocket Scientist Travis Taylor Investigates UAPs  
-   Link: [https://www.youtube.com/watch?v=U36F2d4P-hQ](https://www.youtube.com/watch?v=U36F2d4P-hQ)  
+   Link: <a href="https://www.youtube.com/watch?v=U36F2d4P-hQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U36F2d4P-hQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts Analyze Travis Taylor&#x27;s Scientific Approach to UAPs...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Travis Taylor: Applying Aerospace Engineering to UAP Analysis  
-   Link: [https://www.youtube.com/watch?v=s5U5_G-6f4s](https://www.youtube.com/watch?v=s5U5_G-6f4s)  
+   Link: <a href="https://www.youtube.com/watch?v=s5U5_G-6f4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5U5_G-6f4s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Scientists Are Taking UAPs Seriously...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/](https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/)  
+   Link: <a href="https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/](https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/](https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/](https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/)  
+   Link: <a href="https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/</a>  
 
 33. <a id="endnote-33"></a>
    Source: uah.edu  
-   Link: [https://www.uah.edu/images/fsdir/cv/268/CV%20September%202025.pdf](https://www.uah.edu/images/fsdir/cv/268/CV%20September%202025.pdf)  
+   Link: <a href="https://www.uah.edu/images/fsdir/cv/268/CV%20September%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/images/fsdir/cv/268/CV%20September%202025.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/ben-hansen-host-of-ufo-witness-on-discovery-demonstrates-to-ashleigh-banfield-ho/697052302701790/](https://www.facebook.com/NewsNationNow/posts/ben-hansen-host-of-ufo-witness-on-discovery-demonstrates-to-ashleigh-banfield-ho/697052302701790/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ben-hansen-host-of-ufo-witness-on-discovery-demonstrates-to-ashleigh-banfield-ho/697052302701790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ben-hansen-host-of-ufo-witness-on-discovery-demonstrates-to-ashleigh-banfield-ho/697052302701790/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/188ndkh/daniel_sheehan_alleges_travis_taylor_and_radiance/](https://www.reddit.com/r/UFOs/comments/188ndkh/daniel_sheehan_alleges_travis_taylor_and_radiance/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/188ndkh/daniel_sheehan_alleges_travis_taylor_and_radiance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/188ndkh/daniel_sheehan_alleges_travis_taylor_and_radiance/</a>

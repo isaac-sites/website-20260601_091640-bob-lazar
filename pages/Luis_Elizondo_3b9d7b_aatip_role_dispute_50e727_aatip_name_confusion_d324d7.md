@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aatip-role/
 nav_short_title: Name Confusion
 title: Was AATIP a Programme or a Network?
-title_full: Was AATIP a Programme or a Network? | AATIP Role
+title_full: Was AATIP a Programme or a Network?
 display_title_short: Name Confusion
 display_title: Name Confusion
 heading_title: Was AATIP a Programme or a Network?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Elizondo Really Run AATIP? | Elizondo
+parent_title: Did Elizondo Really Run AATIP?
 parent_permalink: /aatip-role/
 parent_nav_short_title: AATIP Role
 parent_heading_title: Did Elizondo Really Run AATIP?
@@ -253,7 +253,7 @@ next_link:
   permalink: /reid-support/
   short_title: Reid Support
   heading_title: How Much Does Harry Reid Prove?
-date: '2026-06-09 02:54:13 '
+date: '2026-06-11 21:02:19 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_
 
 ## Introduction
 
-One of the most confusing parts of the [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}) controversy is that different people often use the term “AATIP” to mean different things. That confusion became especially important after the Pentagon-funded Advanced Aerospace Weapons System Applications Program (AAWSAP) ended around 2012. Critics frequently treat AATIP as a single formal programme with a clear organisational chart, while supporters often use the same acronym to describe a looser group of officials who continued discussing and investigating military UAP reports after the original funding ended.
-
+One of the most confusing parts of the Luis Elizondo controversy is that different people often use the term “AATIP” to mean different things. That confusion became especially important after the Pentagon-funded Advanced Aerospace Weapons System Applications Program (AAWSAP) ended around 2012. Critics frequently treat AATIP as a single formal programme with a clear organisational chart, while supporters often use the same acronym to describe a looser group of officials who continued discussing and investigating military UAP reports after the original funding ended.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" alt="Name Confusion illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because the dispute over Elizondo’s credibility is not only about whether he worked on UAP issues. It is also about what exactly “AATIP” was during the years before he left the Department of Defense in 2017. If AATIP was a formal programme, questions about official job titles, budgets and reporting chains become central. If AATIP evolved into an informal network or “community of interest”, the debate shifts toward who actually performed the work, coordinated discussions and pushed investigations forward despite the absence of a recognised programme. The public argument often appears contradictory because both sides are describing different bureaucratic realities using the same acronym. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • AARO has yet to uncover any other substantive UAP case work conduct...</span></span></span>
@@ -285,7 +284,6 @@ AARO's reconstruction paints a more complicated picture:
 
 This matters because many public arguments assume there was only one thing called AATIP. According to AARO, that assumption is historically inaccurate. The acronym referred to different organisational realities at different points in time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • AARO has yet to uncover any other substantive UAP case work conduct...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m9B_sC6VG18" title="Shocking Pentagon UFO revelations, Lue Elizondo &amp; AATIP | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m9B_sC6VG18" target="_blank" rel="noopener noreferrer">Shocking Pentagon UFO revelations, Lue Elizondo &amp; AATIP | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 411.2K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m9B_sC6VG18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m9B_sC6VG18">Open on YouTube</a></p></div></div></div>
 
 ## The informal post-2012 UAP community
@@ -302,7 +300,6 @@ A supporter can respond that after the funded phase ended, UAP work continued th
 
 These arguments are not necessarily discussing the same organisational structure.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" alt="Name Confusion illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why official denials and supporter claims can both exist
 
@@ -316,7 +313,6 @@ If AATIP is understood only as a formal Pentagon programme, those positions appe
 
 If, however, the word AATIP referred to both:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
 
 1. the earlier funded effort connected to AAWSAP, and
@@ -324,7 +320,7 @@ If, however, the word AATIP referred to both:
 
 then the disagreement becomes easier to understand.
 
-The Pentagon's wording focused heavily on assigned responsibilities and recognised programme status. Reid's wording focused on involvement and leadership. Those are related questions, but they are not identical questions. A person can be influential within an informal effort while lacking the formal assignment associated with a recognised programme office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • AARO has yet to uncover any other substantive UAP case work conduct...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">21 F 0299 UAP The Debrief Emails 12 2020</span><span class="citation-popover-snippet">Gough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — had no assigned responsibilities for AATIP. There was one set of queries very ear...</span></span></span>
+The Pentagon's wording focused heavily on assigned responsibilities and recognised programme status. Reid's wording focused on involvement and leadership. Those are related questions, but they are not identical questions. A person can be influential within an informal effort while lacking the formal assignment associated with a recognised programme office. [U.S. Department of War+2esd.whs.mil]
 
 This does not prove either side is correct in every detail. It shows that the [public debate]({{ 'public-debate/' | relative_url }}) often compresses several separate bureaucratic questions into one simple headline claim.
 
@@ -342,13 +338,12 @@ The result was a debate in which the same acronym carried at least three differe
 
 When participants in the debate failed to specify which meaning they were using, discussions frequently became circular. One side argued from organisational records. The other argued from personal involvement and operational activity. Both could point to real evidence while still talking past each other.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" alt="Name Confusion illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_aatip_name_confusion_d324d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the acronym changes the credibility question
 
 The practical question is not whether the acronym was confusing. The historical record strongly suggests that it was. The more important question is what that confusion means for assessing Luis Elizondo's credibility.
 
-For critics, the AATIP ambiguity weakens grand claims that he unquestionably ran a formal Pentagon UFO programme. AARO's report and Pentagon statements provide support for the view that no officially recognised AATIP programme existed in the form many members of the public imagined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • AARO has yet to uncover any other substantive UAP case work conduct...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/25-F-2554_Elizondo_OIG_Docs_2017-2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">25 F 2554 Elizondo OIG Docs 2017 2019</span><span class="citation-popover-snippet">AATIP/UAPs until he resigned in 2017. He claims that J. Stratton in Navy knew of the program/his...</span></span></span>
+For critics, the AATIP ambiguity weakens grand claims that he unquestionably ran a formal Pentagon UFO programme. AARO's report and Pentagon statements provide support for the view that no officially recognised AATIP programme existed in the form many members of the public imagined. [U.S. Department of War+2esd.whs.mil]
 
 For supporters, the same ambiguity weakens the argument that [Pentagon denials]({{ 'denials/' | relative_url }}) automatically prove fabrication. If UAP work continued through informal channels after AAWSAP ended, then the absence of conventional programme paperwork does not necessarily demonstrate that Elizondo played no meaningful role. Reid's public defence remains one of the strongest pieces of evidence cited in favour of that interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-title">“As one of the original sponsors of AATIP,</span><span class="citation-popover-snippet">X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter...UPDATE: Former Senator Harry Reid has sent us a letter conf...</span></span></span>
 
@@ -356,9 +351,7 @@ The strongest evidence-supported conclusion lies between the two extremes. The h
 
 The name confusion does not resolve the credibility debate. It explains why the debate has been so difficult to resolve in the first place.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qShSaM1TXWg" title="U.S. Government Investigations Into UFOs &amp; UAP | Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qShSaM1TXWg" target="_blank" rel="noopener noreferrer">U.S. Government Investigations Into UFOs &amp; UAP | Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Hidden Forces &middot; Views: 18.9K &middot; Uploaded: September 2024 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qShSaM1TXWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qShSaM1TXWg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -372,16 +365,16 @@ The name confusion does not resolve the credibility debate. It explains why the 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Presents Elizondo&#x27;s perspective on how the effort evolved.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -389,50 +382,16 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Helps readers understand the bureaucratic history behind UAP investigations.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Explores overlapping claims and institutions in the modern UAP landscape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Directly addresses the programme structures and naming issues behind the confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +399,7 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,15 +436,15 @@ The name confusion does not resolve the credibility debate. It explains why the 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +452,15 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +468,15 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +484,15 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +500,7 @@ The name confusion does not resolve the credibility debate. It explains why the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="name-confusion-was-aatip-a-programme-or-a-network-luis-elizondo-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aatip-a-programme-or-a-network-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aatip-a-programme-or-a-network-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,126 +716,126 @@ The name confusion does not resolve the credibility debate. It explains why the 
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • AARO has yet to uncover any other substantive UAP case work conduct...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: 21 F 0299 UAP The Debrief Emails 12 2020  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — had no assigned responsibilities for AATIP. There was one set of queries very ear...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf](https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: esd.whs.mil  
    Title: 25 F 2554 Elizondo OIG Docs 2017 2019  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/25-F-2554_Elizondo_OIG_Docs_2017-2019.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/25-F-2554_Elizondo_OIG_Docs_2017-2019.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/25-F-2554_Elizondo_OIG_Docs_2017-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/25-F-2554_Elizondo_OIG_Docs_2017-2019.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP/UAPs until he resigned in 2017. He claims that J. Stratton in Navy knew of the program/his...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gq-magazine.co.uk  
    Title: luis elizondo interview 2021  
-   Link: [https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021](https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021)  
+   Link: <a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/](https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/)  
+   Link: <a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostUFOs &amp; National Security with Luis Elizondo, Former...8 Jun 2021 — Luis “Lue” Elizondo is the former director of the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theblackvault.com  
    Title: harry reid and his aatip letter the mystery deepens  
-   Link: [https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/](https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid And His AATIP Letter: The Mystery Deepens28 Apr 2021 — The letter that leaked was written by Reid on June 24, 2009, and sent t...</p></details>
    Published: June 24, 2009  
 
 9. <a id="endnote-9"></a>
    Source: esd.whs.mil  
    Title: mil Ms  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gough, My name is Luis D. Elizondo, and I am a former...and misleading comment that I had &quot;no assigned duties in the AATIP program.&quot; The...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Wikipedia... Elizondo &quot;had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: x.com  
    Title: “As one of the original sponsors of AATIP,  
-   Link: [https://x.com/GadiNBC/status/1386872125835812864](https://x.com/GadiNBC/status/1386872125835812864)  
+   Link: <a href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GadiNBC/status/1386872125835812864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter...UPDATE: Former Senator Harry Reid has sent us a letter conf...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/n8ic6c/the_official_letter_from_senator_harry_reid/](https://www.reddit.com/r/UFOs/comments/n8ic6c/the_official_letter_from_senator_harry_reid/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/n8ic6c/the_official_letter_from_senator_harry_reid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/n8ic6c/the_official_letter_from_senator_harry_reid/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP - As it seems many still question his authenticity. r/UFOs...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion](https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion)  
+   Link: <a href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the AAWSAP-AATIP ConfusionThis 74-page paper has evolved into an examination of the distinction between AAWSAP and AATIP (the names fo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/YonkersNewswire/posts/4394177584173119/](https://www.facebook.com/groups/YonkersNewswire/posts/4394177584173119/)  
+   Link: <a href="https://www.facebook.com/groups/YonkersNewswire/posts/4394177584173119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/YonkersNewswire/posts/4394177584173119/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s secret ufo/uap program revealedIt uses scientific methods to collect reports, analyze data, and assess threats. AARO&#x27;s key fin...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/](https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/)  
+   Link: <a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript: UFOs &amp; National Security with Luis Elizondo...Jun 8, 2021 — Our guest, Lue Elizondo, the former director for AATIP, the Adva...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedebrief.org  
    Title: sex lies and ufos pentagons head of counterintelligence and security ousted  
-   Link: [https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/](https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/)  
+   Link: <a href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sex, Lies, and UFOs: Pentagon&#x27;s Head of...14 Apr 2022 — Elizondo had no responsibilities with regard to the AATIP program while he worke...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The quest for extraterrestrial life shouldn't be scoffed at7 days ago —  
-   Link: [https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at](https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(AATIP) is directly contradicted by a 2021 letter from the late senator Harry Reid, who confirmed Elizondo&#x27;s leadership as a “matter of r...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: caliber.az  
    Title: ex pentagon insider claims us has alien bodies from ufo crashes  
-   Link: [https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes](https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes)  
+   Link: <a href="https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon insider claims US has alien bodies from UFO...Aug 24, 2024 — Elizondo&#x27;s claims have faced scepticism, and Pentagon spokesper...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: zhihu.com  
-   Link: [https://www.zhihu.com/en/answer/1187946430](https://www.zhihu.com/en/answer/1187946430)  
+   Link: <a href="https://www.zhihu.com/en/answer/1187946430" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/1187946430</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he existence of AATIP and denying that Elizondo had ever investigated UFO...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thenews.com.pk  
-   Link: [https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer](https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer)  
+   Link: <a href="https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Duke of Sussex, who wrote about his time in the British Army in his...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: three weeks before the dodig interviewed elizondo  
-   Link: [https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/](https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2024 — Back in 2021, Luis Elizondo was concerned his security clearances were under review as part of a concerted effort by certai...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: commons.wikimedia.org  
    Title: File:(Attachment 19) 20210426 Senator.Reid Lue.Elizondo.AATIP  
-   Link: [https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf](https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>English: Letter from Office of Senator Harry Reid regarding Luis Elizondo. Date, 22 June 2022. Source, Own work.Read more...</p></details>
-   Published: June 2022  
+   Published: June 2022

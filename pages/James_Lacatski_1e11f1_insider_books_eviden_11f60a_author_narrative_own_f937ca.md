@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /insider-books/
 nav_short_title: Author Stakes
 title: When insiders own the UFO story
-title_full: When insiders own the UFO story | Insider Books
+title_full: When insiders own the UFO story
 display_title_short: Author Stakes
 display_title: Author Stakes
 heading_title: When insiders own the UFO story
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Much Should The Books Count? | Lacatski
+parent_title: How Much Should The Books Count?
 parent_permalink: /insider-books/
 parent_nav_short_title: Insider Books
 parent_heading_title: How Much Should The Books Count?
@@ -247,7 +247,7 @@ next_link:
   permalink: /clearance-risk/
   short_title: Clearance Risk
   heading_title: Does clearance make Lacatski's claims stronger?
-date: '2026-06-09 02:56:57 '
+date: '2026-06-11 21:03:54 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_n
 
 ## Introduction
 
-One of the strongest arguments in favour of [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s books is that they were written by people who were unusually close to the events they describe. One of the strongest arguments against them is exactly the same thing.
-
+One of the strongest arguments in favour of James Lacatski’s books is that they were written by people who were unusually close to the events they describe. One of the strongest arguments against them is exactly the same thing.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1-dark.svg" | relative_url }}" alt="Author Stakes illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In debates about James Lacatski’s credibility, the issue is not merely whether *Skinwalkers at the Pentagon* and *Inside the U.S. Government Covert UFO Program* contain accurate information. The deeper question is whether readers are receiving an independent account of AAWSAP (the Advanced Aerospace Weapon System Applications Program) or a narrative controlled by the same small group that helped create, manage, investigate, promote, and later interpret that programme. That tension creates what can be called a narrative ownership problem: the principal public history of AAWSAP comes largely from people with a direct personal stake in how the programme is remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amazon.co.uk/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">Amazon UKSkinwalkers at the PentagonThe Advanced Aerospace Weapon System Applications Program or AAWSAP investigated the “Tic Tac” and ot...</span></span></span>
@@ -281,14 +280,13 @@ For supporters, these advantages make the books indispensable. Few other publicl
 
 However, access and independence are not the same thing. Historians generally prefer accounts from insiders to be balanced against records, critics, and external investigators because participants often have incentives—conscious or unconscious—to defend their own decisions and interpretations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCQRMGOc9M8" title="Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer">Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 397.1K &middot; Uploaded: August 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCQRMGOc9M8">Open on YouTube</a></p></div></div></div>
 
 ## How Skinwalker and Bigelow ties affect trust
 
 The narrative ownership issue becomes more significant because AAWSAP was not operating in an ordinary research environment.
 
-The programme was executed through Bigelow Aerospace Advanced Space Studies, a company linked to entrepreneur Robert Bigelow. Bigelow had long expressed interest in UFOs and paranormal phenomena and owned Skinwalker Ranch, which became a major focus of research activity connected to the same network of investigators. Reporting on the programme since 2017 has repeatedly highlighted the overlap between government-funded UFO investigations, Bigelow's organisations, and Skinwalker Ranch research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">KQEDSecret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span> Goodreads The result is a tightly connected ecosystem: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">199608691 inside the us government covert ufo program</span><span class="citation-popover-snippet">Inside the US Government Covert UFO Program: Initial...14 Oct 2023 — The Pentagon&#x27;s landmark UFO study ran from the Defense intelligence...</span></span></span>
+The programme was executed through Bigelow Aerospace Advanced Space Studies, a company linked to entrepreneur Robert Bigelow. Bigelow had long expressed interest in UFOs and paranormal phenomena and owned Skinwalker Ranch, which became a major focus of research activity connected to the same network of investigators. Reporting on the programme since 2017 has repeatedly highlighted the overlap between government-funded UFO investigations, Bigelow's organisations, and Skinwalker Ranch research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span> Goodreads The result is a tightly connected ecosystem: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">199608691 inside the us government covert ufo program</span><span class="citation-popover-snippet">Inside the US Government Covert UFO Program: Initial...14 Oct 2023 — The Pentagon&#x27;s landmark UFO study ran from the Defense intelligence...</span></span></span>
 
 * Lacatski became interested in Skinwalker Ranch before AAWSAP's creation.
 * Kelleher had worked within Bigelow-linked research efforts.
@@ -311,7 +309,6 @@ This dual role creates a challenge for readers. The books are not neutral govern
 
 That does not make the claims false. It does mean that the books should be read partly as participant testimony and partly as a case for why AAWSAP deserves recognition.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-2-dark.svg" | relative_url }}" alt="Author Stakes illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing independent record
 
@@ -325,23 +322,21 @@ What can be checked?What often cannot be checked?Existence of AAWSAPMany investi
 
 As a result, the authors effectively become custodians of much of the story. Their credibility becomes intertwined with the credibility of the evidence itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vENKtdxywzg" title="Is the Pentagon’s UFO dump a political distraction? | The Take" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vENKtdxywzg" target="_blank" rel="noopener noreferrer">Is the Pentagon’s UFO dump a political distraction? | The Take</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 15.3K &middot; Uploaded: May 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vENKtdxywzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vENKtdxywzg">Open on YouTube</a></p></div></div></div>
 
 ## Why AARO sharpened the dispute
 
 The Pentagon's All-domain Anomaly Resolution Office (AARO) intensified this debate.
 
-In its historical review, AARO acknowledged that AAWSAP existed and reported that it investigated not only UAP but also paranormal subjects associated with Skinwalker Ranch, including claims involving unusual entities, remote viewing, and consciousness-related phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+In its historical review, AARO acknowledged that AAWSAP existed and reported that it investigated not only UAP but also paranormal subjects associated with Skinwalker Ranch, including claims involving unusual entities, remote viewing, and consciousness-related phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 However, AARO's broader historical assessment concluded that it found no verified evidence supporting claims of recovered extraterrestrial technology or hidden alien programmes. Similar conclusions were publicly defended by former AARO director Sean Kirkpatrick. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon released ufo videos chase aliens</span><span class="citation-popover-snippet">The GuardianThe Pentagon released its UFO videos – so I went to...22 Apr 2026 — The spook was James Lacatski, an intelligence officer wh...</span></span></span>
 
 This creates a direct credibility tension.
 
-Lacatski, Kelleher, and Knapp present AAWSAP as a programme that uncovered information worthy of continued investigation and, in some instances, suggest access to extraordinary knowledge. AARO accepts the programme's existence but disputes the evidential conclusions that many UFO advocates draw from such accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Lacatski, Kelleher, and Knapp present AAWSAP as a programme that uncovered information worthy of continued investigation and, in some instances, suggest access to extraordinary knowledge. AARO accepts the programme's existence but disputes the evidential conclusions that many UFO advocates draw from such accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Because the principal public defence of AAWSAP comes from former insiders, critics argue that independent corroboration becomes even more important than insider testimony.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 20.3K &middot; Uploaded: January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
 
@@ -359,92 +354,49 @@ The credibility question is narrower:
 * Many of the most consequential claims cannot currently be independently verified.
 * The same people who experienced the events are often the people defining what those events mean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amazon.co.uk/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-title">Inside the U.S</span><span class="citation-popover-snippet">Government Covert UFO Program: New...This is the third book in the best-selling “Skinwalkers at the Pentagon” series and reveals the eng...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Government&#x27;s Covert UFO Program goes beyond the rise and fall of AAWSAP and the general.Read more...</span></span></span>
 
-For readers evaluating James Lacatski, this means the books should neither be dismissed nor treated as self-validating proof. Their greatest value lies in showing how AAWSAP participants understood their own work. Their greatest weakness is that the public record remains heavily dependent on the interpretations of a small circle of insiders whose personal histories, professional reputations, and long-standing connections to Skinwalker Ranch and the Bigelow research network are inseparable from the story they are telling. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">KQEDSecret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span>
-
+For readers evaluating James Lacatski, this means the books should neither be dismissed nor treated as self-validating proof. Their greatest value lies in showing how AAWSAP participants understood their own work. Their greatest weakness is that the public record remains heavily dependent on the interpretations of a small circle of insiders whose personal histories, professional reputations, and long-standing connections to Skinwalker Ranch and the Bigelow research network are inseparable from the story they are telling. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-3-dark.svg" | relative_url }}" alt="Author Stakes illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When insiders own the UFO story. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When insiders own the UFO story, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Explores how narratives are shaped and maintained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Examines authority, networks, and narrative ownership within UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
-        <p class="fr-book-desc">Shows the historical development of the Skinwalker-centered narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Illustrates the narrative ownership issue directly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -481,15 +433,15 @@ For readers evaluating James Lacatski, this means the books should neither be di
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +449,15 @@ For readers evaluating James Lacatski, this means the books should neither be di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +465,15 @@ For readers evaluating James Lacatski, this means the books should neither be di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +481,15 @@ For readers evaluating James Lacatski, this means the books should neither be di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +497,7 @@ For readers evaluating James Lacatski, this means the books should neither be di
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="author-stakes-when-insiders-own-the-ufo-story-james-lacatski-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insiders-own-the-ufo-story-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-insiders-own-the-ufo-story-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,101 +712,101 @@ For readers evaluating James Lacatski, this means the books should neither be di
 
 1. <a id="endnote-1"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK](https://www.amazon.co.uk/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK)  
+   Link: <a href="https://www.amazon.co.uk/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKSkinwalkers at the PentagonThe Advanced Aerospace Weapon System Applications Program or AAWSAP investigated the “Tic Tac” and ot...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kqed.org  
-   Link: [https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos](https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KQEDSecret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</p></details>
+   Link: <a href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: goodreads.com  
    Title: 199608691 inside the us government covert ufo program  
-   Link: [https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program](https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program)  
+   Link: <a href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government Covert UFO Program: Initial...14 Oct 2023 — The Pentagon&#x27;s landmark UFO study ran from the Defense intelligence...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: goodreads.com  
    Title: 59334389 skinwalkers at the pentagon  
-   Link: [https://www.goodreads.com/book/show/59334389-skinwalkers-at-the-pentagon](https://www.goodreads.com/book/show/59334389-skinwalkers-at-the-pentagon)  
+   Link: <a href="https://www.goodreads.com/book/show/59334389-skinwalkers-at-the-pentagon" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/59334389-skinwalkers-at-the-pentagon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the Pentagon: An Insiders&#x27; Account of...10 Oct 2021 — Skinwalkers at the Pentagon unmasks the massive scope of the Pentag...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM](https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM)  
+   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nto a mysterious craft without conventional propulsion systems that raised questions...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: [https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation](https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation)  
+   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Skinwalker Ranch Became a Hotbed of Paranormal...17 Jan 2020 — Reports persist of UFOs, crop circles, cattle mutilation—and shapeshi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Inside the DIAs Secretive UFO Investigation: WEAPONIZED: EP #38  
-   Link: [https://www.youtube.com/watch?v=ow7FqiegixQ](https://www.youtube.com/watch?v=ow7FqiegixQ)  
+   Link: <a href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ow7FqiegixQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon | Colm A. Kelleher...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Skinwalkers At The Pentagon | Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 225 Skinwalkers at the Pentagon...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: pentagon released ufo videos chase aliens  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe Pentagon released its UFO videos – so I went to...22 Apr 2026 — The spook was James Lacatski, an intelligence officer wh...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Covert UFO Program goes beyond the rise and fall of AAWSAP and the general.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
    Published: March 22, 2024  
 
 13. <a id="endnote-13"></a>
    Source: amazon.co.uk  
    Title: Inside the U.S  
-   Link: [https://www.amazon.co.uk/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC](https://www.amazon.co.uk/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC)  
+   Link: <a href="https://www.amazon.co.uk/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program: New...This is the third book in the best-selling “Skinwalkers at the Pentagon” series and reveals the eng...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
    Title: Inside the U.S  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541](https://journalofscientificexploration.org/index.php/jse/article/view/3541)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program: Initial...27 Dec 2024 — Hanks, M. (2024). Second Review: Inside the U.S. Government Covert UFO Program: I...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: play.anghami.com  
    Title: Read more  
-   Link: [https://play.anghami.com/episode/1031854710](https://play.anghami.com/episode/1031854710)  
+   Link: <a href="https://play.anghami.com/episode/1031854710" target="_blank" rel="noopener noreferrer nofollow">https://play.anghami.com/episode/1031854710</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the Pentagon - A conversa...Skinwalkers at the Pentagon unmasks the massive scope of the Pentagon&#x27;s landmark UFO study that ran from t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoSkinwalker Ranch, previously known as Sherman Ranch, is a property located in Utah...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker RanchRetrieved 2021-07-05. ^ Kelleher, Colm &amp; Knapp, George: Hunt for the Skinwalker... &quot;Skinwalkers at the Pentagon&quot;. Jou...</p></details>
    Published: July 5, 2021  
 
@@ -862,50 +814,50 @@ For readers evaluating James Lacatski, this means the books should neither be di
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/](https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsSkinwalker Ranch Experiencer Dr. James Lacatski admits AAWSAP program was reverse-en...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ebay.com  
-   Link: [https://www.ebay.com/itm/327136340276](https://www.ebay.com/itm/327136340276)  
+   Link: <a href="https://www.ebay.com/itm/327136340276" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/327136340276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SKINWALKERS AT THE PENTAGON BOOK GEORGE...Fast shipping. Arrived in perfect condition as described. Great price for a hard to find cd of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained](https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained)  
+   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
 
 21. <a id="endnote-21"></a>
    Source: theufodatabase.com  
-   Link: [https://theufodatabase.com/books/skinwalkers-at-the-pentagon](https://theufodatabase.com/books/skinwalkers-at-the-pentagon)  
+   Link: <a href="https://theufodatabase.com/books/skinwalkers-at-the-pentagon" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/books/skinwalkers-at-the-pentagon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the Pentagon... Skinwalkers at the Pentagon,&quot; written by James Lacatski, Colm Kelleher, and... Skinwalker Ranch and cowro...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/](https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/17aaxuo/we_can_draw_a_line_directly_from_james_lacatskis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lacatski&quot; or directly focused on him, so I did some Googling. Exclude &quot;skinwalker&quot; or &quot;skinwalkers&quot; (he authored...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations](https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations)  
+   Link: <a href="https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program: Initial Revelations · December 2024 · Journal of Scientific Exploration 38(4):707-710.Read more...</p></details>
    Published: December 2024  
 
 24. <a id="endnote-24"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP programThe pentagon via the defense intelligence agency created a ufo program called the a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/](https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1) · r/UFOs - He Ran The Pentagon&#x27;s...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ebay.co.uk  
-   Link: [https://www.ebay.co.uk/itm/286809845121](https://www.ebay.co.uk/itm/286809845121)  
+   Link: <a href="https://www.ebay.co.uk/itm/286809845121" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/286809845121</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S... Copyright 2019. All Rights Reserved. Carefully crafted by Kepa Design. New. It&#x27;s...Read more...</p></details>

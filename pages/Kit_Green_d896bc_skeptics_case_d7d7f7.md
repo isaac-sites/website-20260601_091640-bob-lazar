@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-kit-greens-uap-story/
 nav_short_title: Sceptics
 title: Where Does The Green Case Fall Short?
-title_full: Where Does The Green Case Fall Short? | Green
+title_full: Where Does The Green Case Fall Short?
 display_title_short: Sceptics
 display_title: Sceptics
 heading_title: Where Does The Green Case Fall Short?
@@ -289,7 +289,7 @@ next_link:
   permalink: /supporters-c7fa00/
   short_title: Supporters
   heading_title: Why Do Some Researchers Trust Green?
-date: '2026-06-09 03:00:09 '
+date: '2026-06-11 21:05:29 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview.webp
@@ -298,15 +298,14 @@ image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview-social.jpg
 
 ## Introduction
 
-The sceptical case against overclaiming [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) is not that his career is fake or that his UAP-related work is automatically worthless. It is that his verified credentials, intelligence background and proximity to classified or government-funded projects do not prove the strongest claims sometimes attached to his name: alien technology, recovered non-human bodies, or a hidden crash-retrieval programme. Green’s public record supports a narrower conclusion: he was a serious medical and intelligence professional who investigated unusual claims, including alleged physiological effects and controversial UFO-adjacent material, but the public evidence does not let readers safely jump from “Green looked into it” to “Green verified extraterrestrial technology”.
-
+The sceptical case against overclaiming Kit Green is not that his career is fake or that his UAP-related work is automatically worthless. It is that his verified credentials, intelligence background and proximity to classified or government-funded projects do not prove the strongest claims sometimes attached to his name: alien technology, recovered non-human bodies, or a hidden crash-retrieval programme. Green’s public record supports a narrower conclusion: he was a serious medical and intelligence professional who investigated unusual claims, including alleged physiological effects and controversial UFO-adjacent material, but the public evidence does not let readers safely jump from “Green looked into it” to “Green verified extraterrestrial technology”.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview.webp" | relative_url }}" alt="Overview image for Sceptics" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Green is often used as a credibility bridge. His name can make weakly documented claims sound institutionally anchored. A sceptical reading accepts the anchor while questioning the cargo attached to it: leaked memos, second-hand summaries, disputed patient narratives, and claims that remain outside peer-reviewed or official confirmation.
 
 ## Credentials are not a substitute for evidence
 
-Green’s conventional résumé is the strongest part of his credibility. A National Academies biographical sketch identifies Christopher Green as a former CIA senior division analyst and assistant national intelligence officer for science and technology, with later roles at General Motors, Wayne State University School of Medicine and Detroit Medical Center; it also lists expertise in neurophysiology, brain imaging, toxicology and forensic medicine. Those are not casual UFO-conference credentials. They place him in real institutional settings where unusual defence, intelligence and medical questions could plausibly cross his desk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHHe has served on numerous committees of the National Academies.... Biographical Sketches of Committee Members - Emerging Cogni...</span></span></span>
+Green’s conventional résumé is the strongest part of his credibility. A National Academies biographical sketch identifies Christopher Green as a former CIA senior division analyst and assistant national intelligence officer for science and technology, with later roles at General Motors, Wayne State University School of Medicine and Detroit Medical Center; it also lists expertise in neurophysiology, brain imaging, toxicology and forensic medicine. Those are not casual UFO-conference credentials. They place him in real institutional settings where unusual defence, intelligence and medical questions could plausibly cross his desk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHHe has served on numerous committees of the National Academies.... Biographical Sketches of Committee Members - Emerging Cogni...</span></span></span>
 
 The sceptical objection begins after that point. A verified intelligence or medical career can establish access, competence and seriousness, but it does not establish that any specific extraordinary claim is true. Green may be a credible person in a professional sense while particular claims linked to him remain weakly evidenced. In UAP debates, that difference is often blurred: “former CIA scientist” becomes a rhetorical shortcut for “this must be real”. Sceptics argue that this is an evidential category error.
 
@@ -326,7 +325,6 @@ That is especially important for the [AAWSAP]({{ 'aawsap/' | relative_url }})/AA
 
 The same caution applies to Green. A medical doctor studying alleged injuries, or a former intelligence officer being briefed on odd material, is not equivalent to official confirmation that the cause was extraterrestrial. Sceptics would say the more classified-adjacent the claim, the more important it becomes to separate access from proof.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-1-dark.svg" | relative_url }}" alt="Sceptics illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official findings cut against the strongest claims
 
@@ -342,7 +340,7 @@ For sceptics, that is the central point: the serious path forward is better evid
 
 ## Peer review exposes the gap in UAP injury claims
 
-One of the more distinctive Green-linked themes is alleged physiological or neurological harm connected to UAP encounters or anomalous exposures. This is more plausible as a research category than many alien-body claims, because humans can certainly be injured by radiation, [microwave exposure]({{ 'microwaves/' | relative_url }}), high-energy systems, toxins, aircraft, stress, misperception, or unknown environmental factors. The question is not whether injuries can happen; it is whether the evidence ties them specifically to UAP, let alone alien technology.
+One of the more distinctive Green-linked themes is alleged physiological or neurological harm connected to UAP encounters or anomalous exposures. This is more plausible as a research category than many alien-body claims, because humans can certainly be injured by radiation, microwave exposure, high-energy systems, toxins, aircraft, stress, misperception, or unknown environmental factors. The question is not whether injuries can happen; it is whether the evidence ties them specifically to UAP, let alone alien technology.
 
 The DIA document on “Anomalous Acute and Subacute Field Effects on Human Biological Tissues” is often cited in this area. Its own framing is broad: it discusses possible injurious effects from strong or exotic fields, including electromagnetic exposure and psychological or psychiatric effects. That makes it a speculative review of hazards, not a case-by-case proof that UAP caused particular injuries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
 
@@ -351,7 +349,6 @@ More recent UAP-friendly analysis also admits the weakness of the evidence base.
 The “Havana Syndrome” comparison adds another caution. The National Academies’ 2020 assessment treated directed pulsed radiofrequency energy as a plausible mechanism for some reported cases, but later medical and sceptical literature has remained contested, and some researchers argue that mass psychogenic illness, stress and other explanations have been underweighted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/12177" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesEmerging Cognitive Neuroscience and Related...Emerging Cognitive Neuroscience and Related Technologies, from the Natio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5932602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Atacama skeleton</span><span class="citation-popover-snippet">PMCThe Atacama skeleton</span></span></span>
 
 For Green, the fair sceptical conclusion is not “all injury cases are fake”. It is that [injury claims]({{ 'injury-claims/' | relative_url }}) need ordinary clinical rigour: pre-exposure baselines, imaging protocols, environmental measurements, differential diagnosis, independent review and clear timelines. Without those, “a person had symptoms after an anomalous event” remains a hypothesis generator, not proof of exotic technology.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EDyZvv3D3ws" title="Congress UFO Hearing - It&#x27;s even crazier than you think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer">Congress UFO Hearing - It&#x27;s even crazier than you think</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 190.9K &middot; Uploaded: July 2023 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EDyZvv3D3ws">Open on YouTube</a></p></div></div></div>
 
@@ -375,12 +372,10 @@ That example cuts both ways. It shows that serious scientists can bring useful t
 
 The New Yorker’s reporting on the modern Pentagon-UFO revival captured the broader pattern: taboo fell, officials became more willing to discuss UAP, and unresolved cases gained institutional attention. But renewed seriousness about UAP does not automatically validate the older folklore of alien bodies, secret vaults or reverse-engineered craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span><span class="citation-popover-snippet">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-2-dark.svg" | relative_url }}" alt="Sceptics illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unproven leap to alien technology
 
 The core sceptical objection is the leap from anomaly to aliens. Green-related claims often pass through several stages:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -397,7 +392,6 @@ NASA’s UAP report makes this point in more formal language: UAP study needs be
 
 Applied to Green, this means the public record supports a cautious statement: he investigated, discussed or was associated with unusual UAP-adjacent questions. It does not support the stronger statement that he publicly proved alien technology, non-human bodies, or a functioning hidden recovery programme.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o0_9mamk-DM" title="Kit Green on the Record. Richard Dolan Intelligent Disclosure." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o0_9mamk-DM" target="_blank" rel="noopener noreferrer">Kit Green on the Record. Richard Dolan Intelligent Disclosure.</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 68.7K &middot; Uploaded: August 2019 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o0_9mamk-DM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o0_9mamk-DM">Open on YouTube</a></p></div></div></div>
 
 ## What a fair sceptical assessment should not deny
@@ -408,7 +402,6 @@ There are legitimate reasons to study UAP-related claims: aviation safety, senso
 
 The better sceptical position is narrower and stronger: Green’s biography can make a claim worth checking, but it cannot carry the claim on its own. His involvement may increase the need for documentation, not reduce it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hFDxu0uho2M" title="Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer">Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 240.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hFDxu0uho2M">Open on YouTube</a></p></div></div></div>
 
 ## Where the Green case falls short
@@ -417,15 +410,18 @@ The Green case falls short when it is used as a shortcut from institutional cred
 
 The main weaknesses are:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * **Reliance on authority:** Green’s career is real, but credentials do not verify the strongest UFO claims attached to him.
 * **Second-hand and leaked material:** Some of the most dramatic claims depend on reported conversations, leaked documents, or summaries by other people.
 * **Weak chain of custody:** Alleged images, biological claims, materials and injury narratives often lack transparent provenance.
-* **Methodological gaps:** [UAP injury claims]({{ 'injury-claims/' | relative_url }}) are intriguing but frequently lack standardised clinical and environmental evidence.
+* **Methodological gaps:** UAP injury claims are intriguing but frequently lack standardised clinical and environmental evidence.
 * **Official non-confirmation:** Recent AARO and NASA reviews support continued UAP study but do not confirm extraterrestrial technology.
 * **Folklore contamination:** Cases such as the alien autopsy film show how ambiguous insider-linked remarks can be absorbed into already unreliable UFO mythology.
 
-The most defensible conclusion is therefore restrained. Kit Green is a credible professional figure in a narrow, documented sense. He is not, on the public record, a reliable proof-point for alien bodies, recovered spacecraft or hidden reverse-engineering. Sceptics do not need to dismiss him to reject those overclaims; they only need to insist that extraordinary claims require evidence stronger than credentials, proximity and repetition.
+</div>
 
+The most defensible conclusion is therefore restrained. Kit Green is a credible professional figure in a narrow, documented sense. He is not, on the public record, a reliable proof-point for alien bodies, recovered spacecraft or hidden reverse-engineering. Sceptics do not need to dismiss him to reject those overclaims; they only need to insist that extraordinary claims require evidence stronger than credentials, proximity and repetition.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-3-dark.svg" | relative_url }}" alt="Sceptics illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -546,15 +542,15 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +558,15 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +574,15 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +590,15 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,7 +606,7 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sceptics-078368-where-does-the-green-case-fall-short-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-the-green-case-fall-short-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-the-green-case-fall-short-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -826,152 +822,152 @@ The most defensible conclusion is therefore restrained. Kit Green is a credible 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI - NIHHe has served on numerous committees of the National Academies.... Biographical Sketches of Committee Members - Emerging Cogni...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHHe has served on numerous committees of the National Academies.... Biographical Sketches of Committee Members - Emerging Cogni...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6961165/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6961165/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6961165/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6961165/</a>  
 
 7. <a id="endnote-7"></a>
    Source: time.com  
    Title: How an Alien Autopsy Hoax Captured the World's Imagination for a Decade  
-   Link: [https://time.com/4376871/alien-autopsy-hoax-history/](https://time.com/4376871/alien-autopsy-hoax-history/)  
+   Link: <a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Atacama skeleton  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5932602/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5932602/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5932602/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5932602/</a>  
 
 9. <a id="endnote-9"></a>
    Source: med.stanford.edu  
    Title: bizarre skeleton sheds light on mutations of bone disease  
-   Link: [https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html](https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html)  
+   Link: <a href="https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/news/insights/2018/03/bizarre-skeleton-sheds-light-on-mutations-of-bone-disease.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Secret government UFO program reveals paranormal events  
-   Link: [https://www.youtube.com/watch?v=36_LRMHZouw](https://www.youtube.com/watch?v=36_LRMHZouw)  
+   Link: <a href="https://www.youtube.com/watch?v=36_LRMHZouw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36_LRMHZouw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Anomalous Acute and Subacute Field Effects on Human Biological Tissues  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/12177](https://www.nationalacademies.org/publications/12177)  
+   Link: <a href="https://www.nationalacademies.org/publications/12177" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/12177</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesEmerging Cognitive Neuroscience and Related...Emerging Cognitive Neuroscience and Related Technologies, from the Natio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thesolfoundation.org  
    Title: The Sol Foundation Anomalous Health Threats  
-   Link: [https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf](https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf)  
+   Link: <a href="https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889](https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889)  
+   Link: <a href="https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889</a>  
 
 19. <a id="endnote-19"></a>
    Source: richarddolanmembers.com  
    Title: Richard Dolan Members Dr. Kit Green, On the Record  
-   Link: [https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/](https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/)  
+   Link: <a href="https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/davis-wilson-memo/dr-kit-green-on-the-record/</a>  
 
 20. <a id="endnote-20"></a>
    Source: newyorker.com  
    Title: The New Yorker How the Pentagon Started Taking U.F.O.s Seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
 21. <a id="endnote-21"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 22. <a id="endnote-22"></a>
    Source: thesolfoundation.org  
-   Link: [https://thesolfoundation.org/white-papers/](https://thesolfoundation.org/white-papers/)  
+   Link: <a href="https://thesolfoundation.org/white-papers/" target="_blank" rel="noopener noreferrer nofollow">https://thesolfoundation.org/white-papers/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25032330/](https://pubmed.ncbi.nlm.nih.gov/25032330/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedEmerging Cognitive Neuroscience and Related...by National Research Council · 2008 · Cited by 78 — Emerging Cognitive Neuroscience...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25032330/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25032330/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Cognitive Neuroscience and Related...by National Research Council · 2008 · Cited by 78 — Emerging Cognitive Neuroscience...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: [https://www.youtube.com/watch?v=BSItX-WvGQ8](https://www.youtube.com/watch?v=BSItX-WvGQ8)  
+   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Congress UFO Hearing  
-   Link: [https://www.youtube.com/watch?v=EDyZvv3D3ws](https://www.youtube.com/watch?v=EDyZvv3D3ws)  
+   Link: <a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EDyZvv3D3ws</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret government UFO program reveals paranormal events...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/](https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/</a>  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYYspFPFK5I/](https://www.instagram.com/reel/DYYspFPFK5I/)  
+   Link: <a href="https://www.instagram.com/reel/DYYspFPFK5I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYYspFPFK5I/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375958491_Missing_Time_Found_Don%27t_worry_it%27s_just_a_dream_A_new_and_old_hypothesis_regarding_ETNHI_and_UFOUAP_associated_missing_time](https://www.researchgate.net/publication/375958491_Missing_Time_Found_Don%27t_worry_it%27s_just_a_dream_A_new_and_old_hypothesis_regarding_ETNHI_and_UFOUAP_associated_missing_time)  
+   Link: <a href="https://www.researchgate.net/publication/375958491_Missing_Time_Found_Don%27t_worry_it%27s_just_a_dream_A_new_and_old_hypothesis_regarding_ETNHI_and_UFOUAP_associated_missing_time" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375958491_Missing_Time_Found_Don%27t_worry_it%27s_just_a_dream_A_new_and_old_hypothesis_regarding_ETNHI_and_UFOUAP_associated_missing_time</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WTWOTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10158950415062549/](https://www.facebook.com/WTWOTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10158950415062549/)  
+   Link: <a href="https://www.facebook.com/WTWOTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10158950415062549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTWOTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10158950415062549/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382461850_An_Epistemological_Analysis_of_Microwave_Harassment_Claims_-_Targeted_Individuals_Non-Human_Intelligence_Havana_Syndrome_%27Burning_Or_Baloney](https://www.researchgate.net/publication/382461850_An_Epistemological_Analysis_of_Microwave_Harassment_Claims_-_Targeted_Individuals_Non-Human_Intelligence_Havana_Syndrome_%27Burning_Or_Baloney)  
+   Link: <a href="https://www.researchgate.net/publication/382461850_An_Epistemological_Analysis_of_Microwave_Harassment_Claims_-_Targeted_Individuals_Non-Human_Intelligence_Havana_Syndrome_%27Burning_Or_Baloney" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382461850_An_Epistemological_Analysis_of_Microwave_Harassment_Claims_-_Targeted_Individuals_Non-Human_Intelligence_Havana_Syndrome_%27Burning_Or_Baloney</a>

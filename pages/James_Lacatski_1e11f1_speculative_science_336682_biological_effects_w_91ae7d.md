@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /speculative-papers/
 nav_short_title: Bio Effects
 title: Can injury reports strengthen UAP claims?
-title_full: Can injury reports strengthen UAP claims? | Speculative Papers
+title_full: Can injury reports strengthen UAP claims?
 display_title_short: Bio Effects
 display_title: Bio Effects
 heading_title: Can injury reports strengthen UAP claims?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do The Technical Papers Prove Anything? | Lacatski
+parent_title: Do The Technical Papers Prove Anything?
 parent_permalink: /speculative-papers/
 parent_nav_short_title: Speculative Papers
 parent_heading_title: Do The Technical Papers Prove Anything?
@@ -247,7 +247,7 @@ next_link:
   permalink: /cloaking/
   short_title: Cloaking
   heading_title: When cloaking science becomes UFO overreach
-date: '2026-06-09 02:56:40 '
+date: '2026-06-11 21:03:44 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_biologica
 
 ## Introduction
 
-Among the speculative studies associated with [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s Advanced Aerospace Weapon System Applications Program (AAWSAP), the paper on biological effects is unusual because it deals with reported human injuries rather than exotic propulsion or theoretical physics. That makes it one of the more concrete parts of the AAWSAP paper collection. However, it also raises a difficult credibility question: do reports of burns, neurological symptoms, radiation-like effects or other medical problems strengthen claims that witnesses encountered a genuinely anomalous object?
-
+Among the speculative studies associated with James Lacatski’s Advanced Aerospace Weapon System Applications Program (AAWSAP), the paper on biological effects is unusual because it deals with reported human injuries rather than exotic propulsion or theoretical physics. That makes it one of the more concrete parts of the AAWSAP paper collection. However, it also raises a difficult credibility question: do reports of burns, neurological symptoms, radiation-like effects or other medical problems strengthen claims that witnesses encountered a genuinely anomalous object?
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-1-dark.svg" | relative_url }}" alt="Bio Effects illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer is mixed. Injury reports can potentially increase witness credibility because they move beyond simple observation and into measurable physical consequences. Yet medical symptoms alone do not establish what caused them. The biological-effects paper highlights an area that deserves investigation, but it does not prove that unidentified aerial phenomena (UAP) caused the reported injuries. For assessing James Lacatski's credibility, the paper is best viewed as evidence that AAWSAP examined alleged physiological effects seriously, not as proof that the underlying UAP claims were verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the dia reading room just dropped over 1500 pages</span><span class="citation-popover-snippet">RedditThe DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</span><span class="citation-popover-meta">Published: August 20, 2024</span></span></span>
+The answer is mixed. Injury reports can potentially increase witness credibility because they move beyond simple observation and into measurable physical consequences. Yet medical symptoms alone do not establish what caused them. The biological-effects paper highlights an area that deserves investigation, but it does not prove that unidentified aerial phenomena (UAP) caused the reported injuries. For assessing James Lacatski's credibility, the paper is best viewed as evidence that AAWSAP examined alleged physiological effects seriously, not as proof that the underlying UAP claims were verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the dia reading room just dropped over 1500 pages</span><span class="citation-popover-snippet">The DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</span><span class="citation-popover-meta">Published: August 20, 2024</span></span></span>
 
 ## What the biological-effects paper tried to connect
 
@@ -270,7 +269,6 @@ This approach differs from many other AAWSAP studies. Rather than asking whether
 
 The basic reasoning was straightforward:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * If multiple witnesses report similar symptoms after close encounters, those reports may deserve closer examination.
@@ -279,10 +277,9 @@ The basic reasoning was straightforward:
 
 </div>
 
-In principle, this is a more empirical line of inquiry than simply collecting sighting narratives. A damaged eye, documented skin injury or medically verified neurological condition can be studied in ways that a visual sighting alone cannot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the dia reading room just dropped over 1500 pages</span><span class="citation-popover-snippet">RedditThe DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</span><span class="citation-popover-meta">Published: August 20, 2024</span></span></span>
+In principle, this is a more empirical line of inquiry than simply collecting sighting narratives. A damaged eye, documented skin injury or medically verified neurological condition can be studied in ways that a visual sighting alone cannot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the dia reading room just dropped over 1500 pages</span><span class="citation-popover-snippet">The DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</span><span class="citation-popover-meta">Published: August 20, 2024</span></span></span>
 
 For supporters of Lacatski and AAWSAP, this focus on physiological effects is often presented as evidence that the programme was looking for measurable consequences rather than relying entirely on anecdotal stories.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PVA64wPqen8" title="Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP Disclosures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer">Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP Disclosures</a></p><p class="youtube-embed-meta">Channel: The Architecture of Secrecy &middot; Views: 437 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PVA64wPqen8">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +292,6 @@ Burns, headaches, dizziness, sleep disruption, cognitive complaints and neurolog
 This is where sceptics argue that the evidential leap becomes too large. A recurring symptom pattern may suggest that further investigation is warranted, but it does not identify the source of the exposure. Demonstrating causation would require much more than symptom clustering.
 
 Several questions become critical:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -323,7 +319,6 @@ A witness may be entirely sincere and genuinely injured while still being mistak
 
 The strongest cases would involve several elements appearing together:
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-2-dark.svg" | relative_url }}" alt="Bio Effects illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Multiple independent witnesses.
 2. Consistent descriptions of an event.
@@ -341,7 +336,6 @@ The biological-effects hypothesis becomes much more persuasive if investigators 
 
 Several forms of evidence would substantially strengthen the argument:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EEMJoZvN-dQ" title="The CIA’s UAP &amp; Alien Research! ‘Their Brains Looked Fried’ | Stanford’s Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EEMJoZvN-dQ" target="_blank" rel="noopener noreferrer">The CIA’s UAP &amp; Alien Research! ‘Their Brains Looked Fried’ | Stanford’s Garry Nolan</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 810.2K &middot; Uploaded: January 2026 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EEMJoZvN-dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EEMJoZvN-dQ">Open on YouTube</a></p></div></div></div>
 
 ### Prospective medical documentation
@@ -354,7 +348,7 @@ Retrospective reconstruction is inherently weaker because it relies heavily on r
 
 If unusual medical effects occurred alongside radar data, sensor recordings, environmental measurements or authenticated imagery, the evidential value would increase dramatically.
 
-Modern scientific UAP programmes increasingly emphasise multi-sensor data precisely because witness testimony alone is difficult to evaluate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Modern scientific UAP programmes increasingly emphasise multi-sensor data precisely because witness testimony alone is difficult to evaluate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 ### Control groups and comparison studies
 
@@ -362,13 +356,12 @@ To demonstrate that alleged UAP witnesses experience distinctive medical effects
 
 Without controls, it is difficult to determine whether reported symptoms occur at unusual rates or simply reflect common health complaints found throughout the general population.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-3-dark.svg" | relative_url }}" alt="Bio Effects illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_biological_effects_w_91ae7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reproducible biological markers
 
 The most compelling evidence would be objective markers repeatedly found across independent cases. These could include distinctive tissue damage, consistent laboratory abnormalities or identifiable exposure signatures.
 
-To date, no widely accepted biomarker unique to UAP exposure has been established in the scientific literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+To date, no widely accepted biomarker unique to UAP exposure has been established in the scientific literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 ## What this means for assessing James Lacatski
 
@@ -380,91 +373,47 @@ On the other hand, the paper does not provide the kind of rigorous causal eviden
 
 For readers evaluating Lacatski, the most defensible conclusion is a limited one. The biological-effects study supports the claim that AAWSAP investigated reports of human injuries associated with alleged UAP encounters. It does not establish that those encounters involved non-human technology, nor does it prove that the injuries were caused by an anomalous craft. The paper's significance lies in identifying a potentially testable category of evidence, while leaving the central causal question unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ow7FqiegixQ" title="Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer">Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 214.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ow7FqiegixQ">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Can injury reports strengthen UAP claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Can injury reports strengthen UAP claims?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful for assessing physical-evidence claims and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Provides tools for evaluating causation versus correlation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open New Insights on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New Insights">New Insights</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski</p>
-        
-        <p class="fr-book-desc">Directly connected to the scientific and medical claims under review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Introduces many of the reported human-effect narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=New+Insights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">New Insights</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -501,15 +450,15 @@ For readers evaluating Lacatski, the most defensible conclusion is a limited one
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +466,15 @@ For readers evaluating Lacatski, the most defensible conclusion is a limited one
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="https://i.ebayimg.com/images/g/2X0AAeSwAnhp02IF/s-l225.jpg" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +482,31 @@ For readers evaluating Lacatski, the most defensible conclusion is a limited one
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +514,7 @@ For readers evaluating Lacatski, the most defensible conclusion is a limited one
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="can-injury-reports-strengthen-uap-claims-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-injury-reports-strengthen-uap-claims-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-injury-reports-strengthen-uap-claims-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,91 +730,91 @@ For readers evaluating Lacatski, the most defensible conclusion is a limited one
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: the dia reading room just dropped over 1500 pages  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/](https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DIA Reading Room just dropped over 1500 pages...August 20, 2024 — “ This paper relates, summarizes, and analyzes evidence of u...</p></details>
    Published: August 20, 2024  
 
 2. <a id="endnote-2"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities Dr  
-   Link: [https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/](https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/)  
+   Link: <a href="https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher “Kit” Green: A Forensic Neurologist at the...In 2010, under the Defense Intelligence Agency&#x27;s AAWSAP contract, Green authore...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.15368](https://arxiv.org/abs/2403.15368)  
+   Link: <a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ychic and paranormal correlates to UAP interactions [22, 23, 24, 25], while...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/](https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>me book series was a way to legally bypass security oaths. The...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A History of Scientific Approaches to Unidentified...10 Apr 2024 — The topic of “Unidentified Anomalous Phenomena” (UAP) has histo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: github.com  
-   Link: [https://github.com/Tsukieomie/akwei-nsa-case-files/blob/main/LAYER18_KIT_GREEN_DEEP_PROFILE.md](https://github.com/Tsukieomie/akwei-nsa-case-files/blob/main/LAYER18_KIT_GREEN_DEEP_PROFILE.md)  
+   Link: <a href="https://github.com/Tsukieomie/akwei-nsa-case-files/blob/main/LAYER18_KIT_GREEN_DEEP_PROFILE.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Tsukieomie/akwei-nsa-case-files/blob/main/LAYER18_KIT_GREEN_DEEP_PROFILE.md</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tsukieomie/akwei-nsa-case-filesDr. Christopher &quot;Kit&quot; Green is arguably the single most important figure in the publicly documented histor...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PVA64wPqen8](https://www.youtube.com/watch?v=PVA64wPqen8)  
+   Link: <a href="https://www.youtube.com/watch?v=PVA64wPqen8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PVA64wPqen8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP DisclosuresTo expose the biggest secret in human history, Dr. James Lacatski didn&#x27;t break th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP personnel Luis Elizondo and James Lacatski... system “XViS” is being used to analyze UAP biological effects on humans, and UAP co...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae](https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae)  
+   Link: <a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher, a biochemist who worked extensively at the ranch, co-authored “Skinwalkers at the Pentagon”, revealing that AAWSAP documen...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expand and reconfigure current preliminary correlation project between...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reported During the Korean War in 1990. Haines (1990) provides 42...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — system “XViS” is being used to analyze UAP biological effects on humans, and UA...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/](https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/)  
+   Link: <a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>athan framework, with its highly integrated systems, provides a...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/](https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/)  
+   Link: <a href="https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or as officials call them, &quot;unidentified anomalous phenomena...Read more...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /debate/
 nav_short_title: Guarded comments
 title: Does Davis's silence help or hurt him?
-title_full: Does Davis's silence help or hurt him? | Debate
+title_full: Does Davis's silence help or hurt him?
 display_title_short: Guarded comments
 display_title: Guarded comments
 heading_title: Does Davis's silence help or hurt him?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Reasonable Readers Split On Davis | Davis
+parent_title: Why Reasonable Readers Split On Davis
 parent_permalink: /debate/
 parent_nav_short_title: Debate
 parent_heading_title: Why Reasonable Readers Split On Davis
@@ -253,7 +253,7 @@ next_link:
   permalink: /insider-circles/
   short_title: Insider circles
   heading_title: When does a source network become an echo chamber?
-date: '2026-06-09 03:03:30 '
+date: '2026-06-11 21:07:03 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comme
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s public reputation is shaped as much by what he does not say as by what he does. Unlike some UFO and UAP figures who make sweeping public claims in interviews, books or conference appearances, Davis has often spoken in fragments, indirect references, reported briefings and carefully qualified statements. Supporters argue that this restraint is exactly what would be expected from someone operating around classified programmes and sensitive government work. Sceptics argue that the same pattern allows dramatic implications to circulate without the burden of public proof.
-
+Eric Davis’s public reputation is shaped as much by what he does not say as by what he does. Unlike some UFO and UAP figures who make sweeping public claims in interviews, books or conference appearances, Davis has often spoken in fragments, indirect references, reported briefings and carefully qualified statements. Supporters argue that this restraint is exactly what would be expected from someone operating around classified programmes and sensitive government work. Sceptics argue that the same pattern allows dramatic implications to circulate without the burden of public proof.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1-dark.svg" | relative_url }}" alt="Guarded comments illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That tension sits at the centre of many credibility debates about Davis. His guarded style creates a vacuum that different audiences fill in different ways. To believers, silence can imply genuine access. To critics, silence can shield claims from scrutiny. The result is an unusual credibility problem: Davis is often discussed through leaked notes, reported conversations and second-hand descriptions rather than through a single, comprehensive public account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+That tension sits at the centre of many credibility debates about Davis. His guarded style creates a vacuum that different audiences fill in different ways. To believers, silence can imply genuine access. To critics, silence can shield claims from scrutiny. The result is an unusual credibility problem: Davis is often discussed through leaked notes, reported conversations and second-hand descriptions rather than through a single, comprehensive public account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 ## What Davis has and has not said publicly
 
@@ -274,12 +273,9 @@ One reason Davis remains a disputed figure is that his strongest alleged claims 
 
 In public reporting, Davis has been quoted making significant statements about anomalous materials and alleged retrieval programmes. The most widely cited example came from reporting in 2020, when he said he had briefed government bodies about retrievals from “off-world vehicles not made on this earth”. He also stated that some examined materials appeared beyond known human manufacturing capabilities, saying in one reported account that “we couldn't make it ourselves”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span>, Davis has generally stopped short of publicly presenting detailed evidence for those claims. He has not released physical artefacts, technical analyses proving non-human origin, or a comprehensive public chronology explaining exactly what he personally witnessed versus what he learned from others. Much of the discussion instead revolves around classified briefings, private conversations, alleged programme access and leaked documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span>
 
-The Wilson-Davis memo illustrates the pattern. The document, which purports to summarise a 2002 conversation between Davis and former Defence Intelligence Agency director Thomas Wilson, became one of the most discussed documents in modern UFO disclosure circles. Yet Davis has largely avoided offering a detailed public explanation of the memo's contents. In reported remarks, he has emphasised the risks associated with discussing potentially classified material rather than publicly walking through the document line by line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+The Wilson-Davis memo illustrates the pattern. The document, which purports to summarise a 2002 conversation between Davis and former Defence Intelligence Agency director Thomas Wilson, became one of the most discussed documents in modern UFO disclosure circles. Yet Davis has largely avoided offering a detailed public explanation of the memo's contents. In reported remarks, he has emphasised the risks associated with discussing potentially classified material rather than publicly walking through the document line by line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 This creates an unusual situation in which Davis's reputation often depends less on direct public testimony than on interpretations of what his reluctance to elaborate means.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9bch2wPkm5c" title="The Secret Memo That Changed EVERYTHING!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer">The Secret Memo That Changed EVERYTHING!</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 2.9K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9bch2wPkm5c">Open on YouTube</a></p></div></div></div>
 
 ## Why supporters read restraint as evidence of sensitivity
 
@@ -298,7 +294,6 @@ Several additional factors reinforce this view among believers:
 
 For supporters, the key credibility signal is not what Davis reveals but what he withholds. They argue that people fabricating stories usually seek attention through dramatic specifics, whereas Davis frequently leaves important details unsaid.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-2-dark.svg" | relative_url }}" alt="Guarded comments illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics read ambiguity as a warning sign
 
@@ -307,7 +302,6 @@ Critics view the same behaviour very differently.
 The sceptical concern is that ambiguity can create an appearance of insider knowledge without exposing claims to normal evidential standards. If a person suggests extraordinary information exists but cannot be publicly examined, outsiders have little ability to verify or falsify the claim.
 
 From this perspective, Davis's communication style can produce a self-reinforcing cycle:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -321,12 +315,11 @@ From this perspective, Davis's communication style can produce a self-reinforcin
 
 Sceptics argue that this dynamic can preserve a claim indefinitely without resolving whether it is true. The strongest criticism is not necessarily that Davis is knowingly misleading people. Rather, it is that the public is often being asked to evaluate implications rather than evidence.
 
-The Wilson-Davis memo again serves as the clearest example. The document has attracted intense attention because of what it appears to describe: alleged crash-retrieval and reverse-engineering programmes hidden even from senior officials. Yet the memo itself remains disputed, and public discussion has often focused on whether particular figures refuse to deny it rather than on independently verifiable proof. Critics see that as a weak foundation for extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+The Wilson-Davis memo again serves as the clearest example. The document has attracted intense attention because of what it appears to describe: alleged crash-retrieval and reverse-engineering programmes hidden even from senior officials. Yet the memo itself remains disputed, and public discussion has often focused on whether particular figures refuse to deny it rather than on independently verifiable proof. Critics see that as a weak foundation for extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 Another sceptical criticism is that ambiguity can blur the distinction between first-hand knowledge and second-hand reporting. Davis is often treated as an insider source, but readers are not always told clearly whether a given claim comes from his own direct observation, from briefings he received, from conversations with other officials, or from broader UFO research networks. When those categories become mixed together, credibility assessments become much harder.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvhMMhW-JN0" title="Some Thoughts on David Grusch - Alien Whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer">Some Thoughts on David Grusch - Alien Whistleblower</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvhMMhW-JN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvhMMhW-JN0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9bch2wPkm5c" title="The Secret Memo That Changed EVERYTHING!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer">The Secret Memo That Changed EVERYTHING!</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 2.9K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9bch2wPkm5c">Open on YouTube</a></p></div></div></div>
 
 ## The problem of reading meaning into silence
 
@@ -340,8 +333,6 @@ The pattern is visible in reactions to public reporting about alleged retrieval 
 
 The disagreement therefore concerns more than UFOs. It concerns how readers should evaluate partially inaccessible information. Should apparent proximity to classified discussions increase confidence, or should it increase caution because independent verification is impossible?
 
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-dark.svg" | relative_url }}" alt="Guarded comments illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does Davis's silence help or hurt him?
 
 The answer depends largely on what standard of credibility a reader is using.
@@ -352,9 +343,7 @@ If credibility means public verification, the effect is almost the opposite. The
 
 The result is that Davis occupies a distinctive position within the UAP [debate]({{ 'debate/' | relative_url }}). He is neither a purely public whistleblower nor a conventional scientific commentator presenting open data. Much of his influence comes from the perception that he knows more than he is willing or able to say. Whether that perception increases or decreases his credibility depends on how much weight a reader gives to institutional access versus publicly demonstrated evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o5V3mt_C_ZE" title="Jim Semivan: CIA Veteran on UAP Disclosure, Secrecy, &amp; Non-Human Intelligence | The Sol Forum #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o5V3mt_C_ZE" target="_blank" rel="noopener noreferrer">Jim Semivan: CIA Veteran on UAP Disclosure, Secrecy, &amp; Non-Human Intelligence | The Sol Forum #2</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o5V3mt_C_ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o5V3mt_C_ZE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-dark.svg" | relative_url }}" alt="Guarded comments illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +462,15 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +478,15 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +494,15 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +510,15 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +526,7 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="guarded-comments-does-davis-s-silence-help-or-hurt-him-eric-davis-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-davis-s-silence-help-or-hurt-him-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-davis-s-silence-help-or-hurt-him-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,95 +741,95 @@ The result is that Davis occupies a distinctive position within the UAP [debate]
 
 1. <a id="endnote-1"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/](https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis himself confirms that the Wilson-Davis Memo...Eric Davis himself confirms that the Wilson-Davis Memo was leaked from Apollo 1...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Eric Davis statements  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kcoaa3/eric_davis_statements_shooting_ourselves_in_the/](https://www.reddit.com/r/UFOs/comments/1kcoaa3/eric_davis_statements_shooting_ourselves_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kcoaa3/eric_davis_statements_shooting_ourselves_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kcoaa3/eric_davis_statements_shooting_ourselves_in_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shooting ourselves in the footEric Davis has made these claims before, what&#x27;s different and far more compelling is that he&#x27;s now elaborat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthEric Davis doesn&#x27;t work alone. They have teams of scientists. He... retrieved mat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo program materials vehicles  
-   Link: [https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/](https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — In speaking with the New York Times, Reid said he believes th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/](https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/)  
+   Link: <a href="https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>His longtime collaborator Eric Davis previously alleged that the recovered non-human...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pod.wave.co  
    Title: eric weinstein demands ufo secrets from pentagon scientist  
-   Link: [https://pod.wave.co/podcast/american-alchemy/eric-weinstein-demands-ufo-secrets-from-pentagon-scientist](https://pod.wave.co/podcast/american-alchemy/eric-weinstein-demands-ufo-secrets-from-pentagon-scientist)  
+   Link: <a href="https://pod.wave.co/podcast/american-alchemy/eric-weinstein-demands-ufo-secrets-from-pentagon-scientist" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/eric-weinstein-demands-ufo-secrets-from-pentagon-scientist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast NotesEric Weinstein Demands UFO Secrets From Pentagon Scientist8 Mar 2026 — 36:29 — Wilson-Davis memo discussion; Davis c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nymag.com  
    Title: ufo report pentagon has off world vehicles not from earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...24 Jul 2020 — The latest UFO report from the &#x27;Times&#x27; says a de...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: PETE R DOOCY: “Barack Obama said that aliens are real  
-   Link: [https://www.facebook.com/FoxNews/posts/peter-doocy-barack-obama-said-that-aliens-are-real-have-you-seen-any-evidence-of/1319351073388085/](https://www.facebook.com/FoxNews/posts/peter-doocy-barack-obama-said-that-aliens-are-real-have-you-seen-any-evidence-of/1319351073388085/)  
+   Link: <a href="https://www.facebook.com/FoxNews/posts/peter-doocy-barack-obama-said-that-aliens-are-real-have-you-seen-any-evidence-of/1319351073388085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/peter-doocy-barack-obama-said-that-aliens-are-real-have-you-seen-any-evidence-of/1319351073388085/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are definitely NOT classified information lmao. Everybody knows they are real. Earth is certainly not the only planet ever capable...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2020 — Davis also said he gave a classified briefing to a Defense Department agency this March during which he elaborated on “off...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DJUZMMpRCNn/](https://www.instagram.com/reel/DJUZMMpRCNn/)  
+   Link: <a href="https://www.instagram.com/reel/DJUZMMpRCNn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJUZMMpRCNn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d US government programs is telling a sitting member of Congress...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gvwire.com  
    Title: GV Wire'Not Made of This Earth': Pentagon's U.F.O  
-   Link: [https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/](https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/)  
+   Link: <a href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow">https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit Directed...23 Jul 2020 — And Eric W. Davis, an astrophysicist who worked as a subcontractor and then a consultant for the Pentagon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: github.com  
-   Link: [https://github.com/richgel999/uap_resources](https://github.com/richgel999/uap_resources)  
+   Link: <a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e Man-Made&quot; - interview conducted after his classified briefing:Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rashidumrani88/posts/the-ufo-debate-just-became-even-more-controversial-and-this-time-the-claims-are-/122191038746767903/](https://www.facebook.com/rashidumrani88/posts/the-ufo-debate-just-became-even-more-controversial-and-this-time-the-claims-are-/122191038746767903/)  
+   Link: <a href="https://www.facebook.com/rashidumrani88/posts/the-ufo-debate-just-became-even-more-controversial-and-this-time-the-claims-are-/122191038746767903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rashidumrani88/posts/the-ufo-debate-just-became-even-more-controversial-and-this-time-the-claims-are-/122191038746767903/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>man beings included “Grays,” “Nordics,” “Reptilians,” and “...Read more...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /oversight/
 nav_short_title: Closed briefings
 title: Why closed briefings kept the mystery alive
-title_full: Why closed briefings kept the mystery alive | Oversight
+title_full: Why closed briefings kept the mystery alive
 display_title_short: Closed briefings
 display_title: Closed briefings
 heading_title: Why closed briefings kept the mystery alive
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did the Whistleblower Process Prove? | Grusch
+parent_title: What Did the Whistleblower Process Prove?
 parent_permalink: /oversight/
 parent_nav_short_title: Oversight
 parent_heading_title: What Did the Whistleblower Process Prove?
@@ -247,7 +247,7 @@ next_link:
   permalink: /retaliation/
   short_title: Retaliation
   heading_title: Would retaliation make Grusch's claims true?
-date: '2026-06-09 02:53:38 '
+date: '2026-06-11 21:01:55 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_bri
 
 ## Introduction
 
-After [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s public testimony in 2023, the story moved into a phase that many supporters saw as crucial and many sceptics saw as frustrating. Members of Congress sought classified briefings, secure discussions and access to information that could not be discussed in open hearings. Those closed sessions suggested that at least some lawmakers believed the allegations were serious enough to investigate further. At the same time, they deepened a central problem in the Grusch debate: the public was repeatedly told that important information existed behind closed doors, yet little verifiable evidence emerged that outsiders could independently examine.
-
+After David Grusch’s public testimony in 2023, the story moved into a phase that many supporters saw as crucial and many sceptics saw as frustrating. Members of Congress sought classified briefings, secure discussions and access to information that could not be discussed in open hearings. Those closed sessions suggested that at least some lawmakers believed the allegations were serious enough to investigate further. At the same time, they deepened a central problem in the Grusch debate: the public was repeatedly told that important information existed behind closed doors, yet little verifiable evidence emerged that outsiders could independently examine.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1-dark.svg" | relative_url }}" alt="Closed briefings illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This created a lasting gap between official interest and [public proof]({{ 'public-proof/' | relative_url }}). For supporters, classified briefings implied that Congress was pursuing leads unavailable to ordinary citizens. For critics, the absence of publicly released documents, [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}) or independently verifiable data meant that the core crash-retrieval claims remained unproven despite growing political attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo hearing congress uap takeaways whistleblower conference david grusch 2023</span><span class="citation-popover-snippet">CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</span></span></span>
+This created a lasting gap between official interest and [public proof]({{ 'public-proof/' | relative_url }}). For supporters, classified briefings implied that Congress was pursuing leads unavailable to ordinary citizens. For critics, the absence of publicly released documents, physical evidence or independently verifiable data meant that the core crash-retrieval claims remained unproven despite growing political attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ufo hearing congress uap takeaways whistleblower conference david grusch 2023</span><span class="citation-popover-snippet">CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</span></span></span>
 
 ## What lawmakers sought after the hearing
 
@@ -269,7 +268,6 @@ During the July 2023 [House hearing]({{ 'house-hearing/' | relative_url }}), Gru
 That distinction mattered because Grusch's public case relied heavily on information he said had been provided by other officials and witnesses. His argument was not that he had personally recovered non-human craft. Instead, he claimed that, during his government work, he had interviewed people who described longstanding crash-retrieval and reverse-engineering programmes hidden from normal [oversight]({{ 'oversight/' | relative_url }}). According to Grusch, many of the names, locations and supporting materials were classified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cla...</span><span class="citation-popover-meta">Published: July 2021</span></span></span>
 
 As a result, lawmakers interested in testing his claims wanted access to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,7 +279,6 @@ As a result, lawmakers interested in testing his claims wanted access to:
 </div>
 
 The logic was straightforward. If the claims were false, classified investigators should eventually be able to determine that. If they were true, the most important evidence would almost certainly exist inside classified systems rather than public archives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mu9mw6GHPEM" title="House holds hearing on UFO transparency and whistleblower protection | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer">House holds hearing on UFO transparency and whistleblower protection | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 300.2K &middot; Uploaded: September 2025 &middot; Length: 2 hours 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mu9mw6GHPEM">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +294,6 @@ This argument became especially important because many of the strongest claims i
 
 The result was a credibility framework based largely on institutional behaviour. Rather than pointing to publicly available proof, supporters pointed to inspector-general channels, congressional interest, classified testimony and continued official engagement as reasons to take the claims seriously.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-2-dark.svg" | relative_url }}" alt="Closed briefings illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why frustration persisted without public corroboration
 
@@ -306,7 +302,6 @@ The same circumstances that encouraged supporters also generated persistent scep
 The central problem was that classified briefings are largely invisible to the public. Outsiders cannot normally examine what was shown, what was claimed, which witnesses were interviewed or what conclusions investigators reached. This makes it difficult to separate meaningful discoveries from speculation.
 
 In practical terms, the public could observe only a few things:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +316,6 @@ That final point remained decisive for many critics. Extraordinary allegations i
 
 Sceptics therefore argued that closed briefings risked creating a permanent evidential limbo. Claims could always be described as supported by classified information, while the public remained unable to assess the underlying material. The result was a situation where belief often depended on trust in institutions, witnesses or lawmakers rather than on evidence available for independent scrutiny.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y0Sjv30bCio" title="Key moments at House UFO transparency hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer">Key moments at House UFO transparency hearing</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.2M &middot; Uploaded: September 2025 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y0Sjv30bCio">Open on YouTube</a></p></div></div></div>
 
 ## The gap between oversight and proof
@@ -330,10 +324,9 @@ One of the most important distinctions in the Grusch story is the difference bet
 
 Congressional interest can indicate that allegations deserve investigation. It does not establish that the allegations are true. A classified briefing can demonstrate that officials are examining claims seriously. It does not automatically verify the content of those claims.
 
-This distinction became more visible as other government bodies weighed in. The Pentagon's All-domain Anomaly Resolution Office (AARO), which was tasked with reviewing historical UAP allegations, reported that it had found no verifiable evidence supporting claims that the US government possessed extraterrestrial technology or operated hidden reverse-engineering programmes. AARO argued that many long-running stories appeared to stem from misunderstanding, rumour or [circular reporting]({{ 'circular-reports/' | relative_url }}) rather than confirmed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</span></span></span>
+This distinction became more visible as other government bodies weighed in. The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), which was tasked with reviewing historical UAP allegations, reported that it had found no verifiable evidence supporting claims that the US government possessed extraterrestrial technology or operated hidden reverse-engineering programmes. AARO argued that many long-running stories appeared to stem from misunderstanding, rumour or circular reporting rather than confirmed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</span></span></span>
 
 Supporters of Grusch disputed those conclusions and questioned whether AARO had been given access to all relevant information. Critics, meanwhile, pointed to the reports as an example of investigators examining the claims and failing to substantiate them. The disagreement highlighted the core problem: most of the allegedly decisive information remained inaccessible to the public.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-3-dark.svg" | relative_url }}" alt="Closed briefings illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the mystery remained unresolved
@@ -346,9 +339,7 @@ Instead, the public saw an extended period of partial visibility. There were hea
 
 That unresolved state explains why closed briefings became such a significant part of the Grusch credibility debate. They suggested that official institutions were taking the allegations seriously enough to examine them. At the same time, they left ordinary observers facing the same basic question that existed after the original hearing: whether the most extraordinary claims rest on evidence that genuinely exists but remains hidden, or on information that has never been conclusively substantiated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8O47sJ91gTA" title="David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer">David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23</a></p><p class="youtube-embed-meta">Channel: Lee Morris &middot; Views: 101.7K &middot; Uploaded: July 2023 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8O47sJ91gTA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -362,16 +353,16 @@ That unresolved state explains why closed briefings became such a significant pa
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of UFO Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9HtZEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of UFO Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of UFO Encounters">The Psychology of UFO Encounters</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Barrett Williams, ChatGPT</p>
         
-        <p class="fr-book-desc">Directly relevant to the gap between classified briefings and public evidence.</p>
+        <p class="fr-book-desc">Unlock the Mysteries of UFOs with &quot;The Psychology of UFO Encounters&quot; Explore the fascinating intersection of science and the supernatural...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -379,16 +370,16 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hoaxes and Misidentifications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nVHOEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Hoaxes and Misidentifications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hoaxes and Misidentifications">UFO Hoaxes and Misidentifications</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Barrett Williams, ChatGPT</p>
         
-        <p class="fr-book-desc">Discusses classified discussions and disclosure tensions.</p>
+        <p class="fr-book-desc">Unlock the mysteries of the sky and explore the fascinating world of UFOs with &quot;UFO Hoaxes and Misidentifications.&quot; This thought-provokin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,16 +387,16 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Explains how classified environments create persistent public uncertainty.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -413,16 +404,16 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Recent UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oEVi0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Recent UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Charles River</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating claims that remain inaccessible to public scrutiny.</p>
+        <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -430,7 +421,7 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of UFO Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hoaxes and Misidentifications</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -467,15 +458,15 @@ That unresolved state explains why closed briefings became such a significant pa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daddy, What Did You Do in the Great War? 1915 WWI British Poster"><img src="{{ '/assets/images/marketplace-covers/ec0e279cb53e2d93b311.jpg' | relative_url }}" alt="Listing image for Daddy, What Did You Do in the Great War? 1915 WWI British Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Daddy, What Did You Do in the Great War? 1915 WWI British Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +474,47 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for But Did You Die Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d27ad0e3fab001dbc8.jpg' | relative_url }}" alt="Listing image for But Did You Die Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">But Did You Die Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: did poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,7 +522,7 @@ That unresolved state explains why closed briefings became such a significant pa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="closed-briefings-why-closed-briefings-kept-the-mystery-alive-david-grusch-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-closed-briefings-kept-the-mystery-alive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-closed-briefings-kept-the-mystery-alive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -714,132 +737,132 @@ That unresolved state explains why closed briefings became such a significant pa
 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing Hearing Date: July 26, 2023 10:00 am 2154 Rayburn. Unidentified Anomalous Phenomena: Implications on National Security...Read more...</p></details>
    Published: July 26, 2023  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: us hiding evidence alien intelligence ufo whistleblower claims  
-   Link: [https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims](https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims)  
+   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grusch replied that these programs do exist and are outside of congressional oversight. When asked if he was aware of imagery of crash si...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: economist.com  
    Title: why is americas congress being briefed on ufos  
-   Link: [https://www.economist.com/the-economist-explains/2024/01/11/why-is-americas-congress-being-briefed-on-ufos](https://www.economist.com/the-economist-explains/2024/01/11/why-is-americas-congress-being-briefed-on-ufos)  
+   Link: <a href="https://www.economist.com/the-economist-explains/2024/01/11/why-is-americas-congress-being-briefed-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/the-economist-explains/2024/01/11/why-is-americas-congress-being-briefed-on-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023 they gave classified briefings on artificial intelligence, Israel...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.northeastern.edu  
    Title: Global News Crashed UFOs?  
-   Link: [https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/](https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about [reverse engineering](&amp;#123;&amp;#123; &#x27;paper-trail/&#x27; | relative_url &amp;#125;&amp;#125;) from crashed UFOs and the...</p></details>
+   Link: <a href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-human &#x27;[biologics](&amp;#123;&amp;#123; &#x27;biologics/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: people.com  
-   Link: [https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655](https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655)  
+   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Air Force allegedly used disinformation against a...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — According to the unclassified complaint, in July 2021, Grusch had confidentially provided cla...</p></details>
    Published: July 2021  
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/](https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true&page=with%3Ablock-64c12aaa8f0890ba7a1f7a9f](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true&page=with%3Ablock-64c12aaa8f0890ba7a1f7a9f)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true&amp;page=with%3Ablock-64c12aaa8f0890ba7a1f7a9f" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true&amp;page=with%3Ablock-64c12aaa8f0890ba7a1f7a9f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/](https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grusch provided 11 hours of classified testimonyI want to start with I believe fully the credibility of David Grusch - can&#x27;t be 100% on h...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15b8x94/the_scif_was_immediately_denied_right/](https://www.reddit.com/r/UFOs/comments/15b8x94/the_scif_was_immediately_denied_right/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15b8x94/the_scif_was_immediately_denied_right/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15b8x94/the_scif_was_immediately_denied_right/</a>  
 
 16. <a id="endnote-16"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newlinesmag.com  
-   Link: [https://newlinesmag.com/argument/ufos-are-going-mainstream/](https://newlinesmag.com/argument/ufos-are-going-mainstream/)  
+   Link: <a href="https://newlinesmag.com/argument/ufos-are-going-mainstream/" target="_blank" rel="noopener noreferrer nofollow">https://newlinesmag.com/argument/ufos-are-going-mainstream/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: david grusch a former usaf intelligence officer testified in a 2023 congressiona  
-   Link: [https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/](https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/)  
+   Link: <a href="https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/david-grusch-a-former-usaf-intelligence-officer-testified-in-a-2023-congressiona/1336825204982411/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch, a former USAF intelligence officer, testified...David Grusch, a former USAF intelligence officer, testified in a 2023 cong...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/](https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/)  
+   Link: <a href="https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hiding Alien Tech &amp; Bodies” In June 2023, former U.S. intelligence officer David Grusch made headlines with his interview...Read more...</p></details>
    Published: June 2023  
 
 20. <a id="endnote-20"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9wHyoEOyT6Q](https://www.youtube.com/watch?v=9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftDuring a congressional hearing on July 26, 2023, David Grusch a former combat officer and vet...</p></details>
    Published: July 26, 2023  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mu9mw6GHPEM](https://www.youtube.com/watch?v=mu9mw6GHPEM)  
+   Link: <a href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mu9mw6GHPEM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch SCIF closed briefing Congress UAP David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing C-SPAN...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EQS Integrity LineDavid Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — In June 2023, Grusch publicly claimed that unnamed...</p></details>
-   Published: June 2023  
+   Published: June 2023

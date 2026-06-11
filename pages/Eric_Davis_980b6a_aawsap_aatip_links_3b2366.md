@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-eric-davis/
 nav_short_title: AAWSAP Links
 title: Do Pentagon Links Prove Too Much?
-title_full: Do Pentagon Links Prove Too Much? | Davis
+title_full: Do Pentagon Links Prove Too Much?
 display_title_short: AAWSAP Links
 display_title: AAWSAP Links
 heading_title: Do Pentagon Links Prove Too Much?
@@ -283,7 +283,7 @@ next_link:
   permalink: /debate/
   short_title: Debate
   heading_title: Why Reasonable Readers Split On Davis
-date: '2026-06-09 03:03:08 '
+date: '2026-06-11 21:06:54 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-overview.webp
@@ -294,9 +294,8 @@ image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-overview-socia
 
 Eric Davis’s links to AAWSAP and AATIP are real evidence of institutional proximity, but they do not prove the most dramatic claims often attached to him. The useful distinction is this: Davis can be tied to the Pentagon-linked contractor ecosystem that produced speculative aerospace studies for the Defense Intelligence Agency, including work on wormholes, [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}), [negative energy]({{ 'negative-energy/' | relative_url }}) and related topics. That makes him more documentably connected than many UFO/UAP commentators. It does not, by itself, establish that he had first-hand access to recovered non-human craft, a hidden reverse-engineering programme, or confirmed extraterrestrial materials.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-overview.webp" | relative_url }}" alt="Overview image for AAWSAP Links" loading="eager" decoding="sync" fetchpriority="high">
-For a credibility assessment, AAWSAP and AATIP matter because they show Davis operated inside a real, government-funded network. They also matter because later official review and sceptical reporting warn against treating that network as automatic validation. AARO’s 2024 historical report says the programme’s official purpose concerned future aerospace technologies, while some UFO and paranormal work occurred through the contractor and supportive programme figures rather than as a clearly authorised core mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">AAROUnclassified Final DSD AARO Historical Report...</span></span></span>
+For a credibility assessment, AAWSAP and AATIP matter because they show Davis operated inside a real, government-funded network. They also matter because later official review and sceptical reporting warn against treating that network as automatic validation. AARO’s 2024 historical report says the programme’s official purpose concerned future aerospace technologies, while some UFO and paranormal work occurred through the contractor and supportive programme figures rather than as a clearly authorised core mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span>
 
 ## What the programme paperwork actually shows
 
@@ -310,7 +309,6 @@ EarthTech International’s own publication list further supports Davis’s pres
 
 For credibility, that paperwork supports three careful conclusions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Verified connection:** Davis was connected to the AAWSAP-era technical study ecosystem.
@@ -319,7 +317,6 @@ For credibility, that paperwork supports three careful conclusions:
 
 </div>
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP Links illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Davis fits into the AAWSAP/AATIP network
 
@@ -327,7 +324,7 @@ Davis appears to fit best as a technical adviser and author within the Bigelow/B
 
 This matters because Davis’s credibility is often argued from association. Supporters point to the fact that he was not simply a podcast personality: he was part of a defence-linked contractor circle that produced reports for a real government customer. That is a legitimate credibility factor when assessing whether he had access to people, documents and discussions unavailable to the general public.
 
-But the same network also creates a source-contamination problem. AARO’s 2024 report says modern claims about hidden off-world technology largely originate from a consistent group of individuals tied to the cancelled AAWSAP/AATIP programme and related private-sector paranormal research efforts. AARO says those individuals worked with one another across various UAP-related efforts and did not provide empirical evidence to support the strongest claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">AAROUnclassified Final DSD AARO Historical Report...</span></span></span>
+But the same network also creates a source-contamination problem. AARO’s 2024 report says modern claims about hidden off-world technology largely originate from a consistent group of individuals tied to the cancelled AAWSAP/AATIP programme and related private-sector paranormal research efforts. AARO says those individuals worked with one another across various UAP-related efforts and did not provide empirical evidence to support the strongest claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span>
 
 That does not mean every person in the network is wrong, dishonest or irrelevant. It means the network cannot be treated as independent corroboration unless the claims can be traced to separate evidence streams. If Davis, Bigelow-linked researchers, former programme figures and later disclosure advocates are all drawing from overlapping conversations, then repetition across that circle may amplify a claim without independently verifying it.
 
@@ -340,7 +337,6 @@ That distinction changes the credibility value of Davis’s connection. A docume
 The War Zone’s analysis of the DIA research-title list makes the same practical point from another angle: the programme sponsored work across a wider range of topics than UFOs, and many listed studies came from people at academic institutions or reputable technical backgrounds even when the topics sounded exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That breadth is important. If a physicist wrote a [DIA paper]({{ 'dia-paper-b8f0a1/' | relative_url }}) on warp drives or wormholes, that supports their role in speculative aerospace research. It does not automatically support any separate claim about crash retrieval, alien materials, non-human pilots or secret reverse engineering.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X3CcaP3yAkc" title="Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer">Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 490.9K &middot; Uploaded: May 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X3CcaP3yAkc">Open on YouTube</a></p></div></div></div>
 
@@ -357,7 +353,6 @@ The credibility gain is strongest on these narrow questions:
 **Was his work technically literate rather than purely anecdotal?** Yes, the documents show dense theoretical physics discussion, even if the engineering practicality remains speculative.
 
 That last point should be handled carefully. Technical literacy is not the same as factual proof. A sophisticated paper on negative energy can show that Davis is capable of analysing exotic physics concepts; it cannot show that a particular UFO case involved exotic physics.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP Links illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The biggest weakness: proximity is not proof
@@ -380,7 +375,6 @@ AARO also says it found no empirical evidence that any US government investigati
 
 This does not close every question. AARO is itself disputed by some UAP advocates, and government reviews can be incomplete, overly narrow or constrained by classification. But it is still a major institutional counterweight to the argument that AAWSAP/AATIP links alone validate Davis’s strongest claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36Ty_S1qs20" title="Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer">Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 164.8K &middot; Uploaded: May 2019 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36Ty_S1qs20">Open on YouTube</a></p></div></div></div>
 
 ## What supporters and sceptics each get right
@@ -392,7 +386,6 @@ Supporters are also right that governments sometimes fund speculative research p
 Sceptics are right that this does not prove the UFO claims most readers care about. The AAWSAP/AATIP paperwork is strongest on programme existence, contract-linked research and Davis’s participation in speculative studies. It is weak on recovered craft, non-human origin, physical chain of custody and independent confirmation.
 
 Sceptics are also right to ask whether the same small group of people repeatedly reinforced one another’s beliefs. AARO’s circular-reporting criticism goes directly to source reliability, especially where a claim is said to have passed through briefings, private conversations, classified hints or unnamed insiders rather than through testable public evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sm9hv84KtcU" title="Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer">Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025</a></p><p class="youtube-embed-meta">Channel: Inside the Hall of Mirrors &middot; Views: 18.1K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sm9hv84KtcU">Open on YouTube</a></p></div></div></div>
 
@@ -408,11 +401,10 @@ The best way to use AAWSAP/AATIP evidence is to separate “access evidence” f
 
 This test leads to a balanced judgement: Davis’s AAWSAP/AATIP links raise his relevance, but they do not settle the truth of his most extraordinary UAP claims.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP Links illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
-AAWSAP and AATIP are meaningful credibility evidence for [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) only within a narrow frame. They show that he was part of a real Pentagon-linked advanced aerospace research ecosystem and that some of his speculative physics work became part of the DIA document trail. That is significant, and it separates him from people whose claimed insider status rests only on self-description.
+AAWSAP and AATIP are meaningful credibility evidence for Eric Davis only within a narrow frame. They show that he was part of a real Pentagon-linked advanced aerospace research ecosystem and that some of his speculative physics work became part of the DIA document trail. That is significant, and it separates him from people whose claimed insider status rests only on self-description.
 
 But those links prove less than many advocates imply. They do not show first-hand access to non-human craft, do not establish a verified crash-retrieval programme, and do not make every claim circulating in the AAWSAP/AATIP network independently corroborated. The strongest fair conclusion is that Davis had genuine institutional proximity to unusual government-funded research, while the evidential burden for the more extraordinary UAP claims remains largely unmet.
 
@@ -533,15 +525,15 @@ But those links prove less than many advocates imply. They do not show first-han
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2010 Topps Unrivaled Frank Gore #UAP-FG, Jersey Patch Auto #d /50 49ers"><img src="https://i.ebayimg.com/images/g/KbEAAeSwIdZpLK7o/s-l225.jpg" alt="Listing image for 2010 Topps Unrivaled Frank Gore #UAP-FG, Jersey Patch Auto #d /50 49ers" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer">2010 Topps Unrivaled Frank Gore #UAP-FG, Jersey Patch Auto #d /50 49ers</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +541,15 @@ But those links prove less than many advocates imply. They do not show first-han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 24 Pcs Hair Clip Butterfly Appliques Polyester Embroidery Decorative Patches"><img src="https://i.ebayimg.com/images/g/2acAAeSwKn9pk78r/s-l225.jpg" alt="Listing image for 24 Pcs Hair Clip Butterfly Appliques Polyester Embroidery Decorative Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer">24 Pcs Hair Clip Butterfly Appliques Polyester Embroidery Decorative Patches</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +557,15 @@ But those links prove less than many advocates imply. They do not show first-han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2007 Ultimate Collection Achievements /99 Tony Gonzalez #UAP-TG Patch HOF"><img src="https://i.ebayimg.com/images/g/kSQAAeSwPKtqBH3J/s-l225.jpg" alt="Listing image for 2007 Ultimate Collection Achievements /99 Tony Gonzalez #UAP-TG Patch HOF" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer">2007 Ultimate Collection Achievements /99 Tony Gonzalez #UAP-TG Patch HOF</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +573,15 @@ But those links prove less than many advocates imply. They do not show first-han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO I Want To Believe Iron/Sew On Patch 10cm x 7.5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/XoQAAOSwJvVnM28G/s-l225.jpg" alt="Listing image for UFO I Want To Believe Iron/Sew On Patch 10cm x 7.5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO I Want To Believe Iron/Sew On Patch 10cm x 7.5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,7 +589,7 @@ But those links prove less than many advocates imply. They do not show first-han
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="aawsap-links-do-pentagon-links-prove-too-much-eric-davis-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-pentagon-links-prove-too-much-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="do-pentagon-links-prove-too-much-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -813,116 +805,116 @@ But those links prove less than many advocates imply. They do not show first-han
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUnclassified Final DSD AARO Historical Report...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclassified Final DSD AARO Historical Report...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 3. <a id="endnote-3"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 5. <a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2018  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 11. <a id="endnote-11"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk](https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk)  
+   Link: <a href="https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk</a>  
 
 12. <a id="endnote-12"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 13. <a id="endnote-13"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488](https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488)  
+   Link: <a href="https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488</a>  
 
 14. <a id="endnote-14"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Dr. Eric Davis "There is a THERE there"  
-   Link: [https://www.youtube.com/watch?v=Sm9hv84KtcU](https://www.youtube.com/watch?v=Sm9hv84KtcU)  
+   Link: <a href="https://www.youtube.com/watch?v=Sm9hv84KtcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sm9hv84KtcU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video is relevant because it features an interview detailing Eric Davis&#x27;s firsthand involvement as a contractor for the Pentagon&#x27;s A...</p></details>
    Published: May 1, 2025  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Admits Secret Program AATIP Investigated UFOs | The Basement Office | New York Post...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=36Ty_S1qs20](https://www.youtube.com/watch?v=36Ty_S1qs20)  
+   Link: <a href="https://www.youtube.com/watch?v=36Ty_S1qs20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36Ty_S1qs20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Eric Davis &quot;There is a THERE there&quot; - UAP Hearing May 1, 2025...</p></details>
    Published: May 1, 2025  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=X3CcaP3yAkc](https://www.youtube.com/watch?v=X3CcaP3yAkc)  
+   Link: <a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X3CcaP3yAkc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. Davis...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO/UAP Disclosure Update with Eric W. Davis  
-   Link: [https://www.youtube.com/watch?v=KtE4kJ79yjc](https://www.youtube.com/watch?v=KtE4kJ79yjc)  
+   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AerospaceEngineering/comments/gruinp/in_this_extended_interview_from_episode_7_of_the/](https://www.reddit.com/r/AerospaceEngineering/comments/gruinp/in_this_extended_interview_from_episode_7_of_the/)  
+   Link: <a href="https://www.reddit.com/r/AerospaceEngineering/comments/gruinp/in_this_extended_interview_from_episode_7_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AerospaceEngineering/comments/gruinp/in_this_extended_interview_from_episode_7_of_the/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/](https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/](https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/)  
+   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/</a>

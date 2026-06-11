@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /documents/
 nav_short_title: DIRD reports
 title: Do the DIRD studies prove anything paranormal?
-title_full: Do the DIRD studies prove anything paranormal? | Documents
+title_full: Do the DIRD studies prove anything paranormal?
 display_title_short: DIRD reports
 display_title: DIRD reports
 heading_title: Do the DIRD studies prove anything paranormal?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Do The Public Records Really Prove? | Kelleher
+parent_title: What Do The Public Records Really Prove?
 parent_permalink: /documents/
 parent_nav_short_title: Documents
 parent_heading_title: What Do The Public Records Really Prove?
@@ -247,7 +247,7 @@ next_link:
   permalink: /missing-files/
   short_title: Missing files
   heading_title: What is still hidden in the BAASS record?
-date: '2026-06-09 03:06:43 '
+date: '2026-06-11 21:07:44 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855
 
 ## Introduction
 
-The Defence Intelligence Reference [Documents]({{ 'documents/' | relative_url }}), usually called DIRDs, are among the most frequently cited pieces of evidence in debates about [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }}), AAWSAP and claims of hidden government interest in exotic technologies. The documents are real, they were produced under a Defence Intelligence Agency-linked research effort, and their topics are often striking: warp drives, traversable wormholes, invisibility cloaking, advanced propulsion, negative energy, fusion concepts and other frontier subjects. The mistake is assuming that the existence of those papers proves that the underlying phenomena were demonstrated, operational or connected to verified UFO cases.
-
+The Defence Intelligence Reference [Documents]({{ 'documents/' | relative_url }}), usually called DIRDs, are among the most frequently cited pieces of evidence in debates about Colm Kelleher, AAWSAP and claims of hidden government interest in exotic technologies. The documents are real, they were produced under a Defence Intelligence Agency-linked research effort, and their topics are often striking: warp drives, traversable wormholes, invisibility cloaking, advanced propulsion, negative energy, fusion concepts and other frontier subjects. The mistake is assuming that the existence of those papers proves that the underlying phenomena were demonstrated, operational or connected to verified UFO cases.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-1-dark.svg" | relative_url }}" alt="DIRD reports illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What the released record actually shows is more limited and more interesting. The DIRDs demonstrate that a government-funded programme associated with Bigelow Aerospace Advanced Space Studies explored speculative scientific possibilities. They do not demonstrate that AAWSAP discovered non-human technology, validated paranormal claims, or confirmed that unusual UAP incidents involved the advanced concepts discussed in the reports. The gap between “research topic” and “proven capability” is central to understanding what the documents do and do not tell us about Kelleher's credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Government Agency: Defense Intelligence Agency Read more</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</span><span class="citation-popover-meta">Published: March 25, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe site is a civilian repository of federal records and contains millions of files spanning subjects from CIA programs...</span></span></span>
@@ -287,9 +286,6 @@ A common misunderstanding is that these documents were internal proof files or l
 
 That distinction matters. Defence agencies routinely commission speculative assessments because understanding future possibilities can be strategically useful even when no working technology exists. A study of a hypothetical propulsion method is not evidence that the propulsion method has been achieved.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7rM1gbWfnoU" title="The REAL Secret UFO Program | Advanced Aerospace Weapons Systems Application Program (AAWSAP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7rM1gbWfnoU" target="_blank" rel="noopener noreferrer">The REAL Secret UFO Program | Advanced Aerospace Weapons Systems Application Program (AAWSAP)</a></p><p class="youtube-embed-meta">Channel: Nice People</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7rM1gbWfnoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7rM1gbWfnoU">Open on YouTube</a></p></div></div></div>
-
 ## Why speculative topics attracted attention
 
 The unusual titles naturally became a focal point for UFO researchers. A list containing phrases such as "warp drive", "negative energy" and "wormholes" appears at first glance to resemble the language often used in discussions of extraordinary UAP performance.
@@ -310,7 +306,6 @@ The same pattern appears across many of the released studies. Papers discussing 
 
 As a result, the reports are often more cautious than later summaries imply. Reading the actual documents tends to reveal discussions of constraints, unknowns and technical barriers rather than declarations of breakthrough success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe site is a civilian repository of federal records and contains millions of files spanning subjects from CIA programs...</span></span></span>
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-2-dark.svg" | relative_url }}" alt="DIRD reports illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where technical study stops short of case proof
 
@@ -322,10 +317,9 @@ The released record lacks a public evidential chain connecting most DIRD topics 
 
 For readers assessing Kelleher's credibility, this distinction is crucial:
 
-* It is supported by [public records]({{ 'documents/' | relative_url }}) that AAWSAP explored speculative scientific concepts.
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* It is supported by public records that AAWSAP explored speculative scientific concepts.
 * It is supported by public records that BAASS produced substantial technical reporting.
 * It is not supported by the released DIRDs that any extraordinary UAP claim was scientifically proven.
 * It is not supported by the released DIRDs that recovered non-human technology was successfully analysed.
@@ -334,9 +328,7 @@ For readers assessing Kelleher's credibility, this distinction is crucial:
 
 The papers demonstrate inquiry rather than verification.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/51SSexPUK2U" title="New Files Reveal Government Funded Research Into Worm Holes, Anti Gravity &amp; Invisibility cloaks ! 👽" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=51SSexPUK2U" target="_blank" rel="noopener noreferrer">New Files Reveal Government Funded Research Into Worm Holes, Anti Gravity &amp; Invisibility cloaks ! 👽</a></p><p class="youtube-embed-meta">Channel: UFO SECTION 51</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=51SSexPUK2U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=51SSexPUK2U">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-dark.svg" | relative_url }}" alt="DIRD reports illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What sceptics and supporters take from the same documents
 
 The DIRDs are unusual because both supporters and sceptics point to the same source material while drawing different conclusions.
@@ -346,9 +338,6 @@ Supporters argue that the reports show government and contractor personnel were 
 Sceptics focus on a different point. They argue that commissioning studies is not evidence of successful science. In their view, the reports demonstrate that AAWSAP invested resources in highly speculative subjects without producing publicly available proof that the concepts worked or that they explained reported UAP encounters. Critics also note that theoretical exploration can coexist with weak evidential standards if investigators become too attached to extraordinary interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails to Answer</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
 
 The public record does not fully resolve that disagreement. What it does show is that the existence of the papers alone cannot settle debates about UFO reality, alien technology or paranormal claims.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## What the DIRDs reveal about Colm Kelleher's role
 
@@ -360,8 +349,6 @@ At the same time, the reports do not independently validate later claims associa
 
 This is where discussions of Kelleher often become overstated. Some advocates treat the papers as indirect proof that extraordinary case reports were correct. Some critics dismiss the entire programme because several topics appear speculative. The released documents support neither extreme interpretation.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-dark.svg" | relative_url }}" alt="DIRD reports illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_dird_limits_855f84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest conclusion the public record allows
 
 The DIRDs prove that a real defence-funded programme explored frontier aerospace and physics concepts under the AAWSAP umbrella. They show unusual research interests, substantial contractor output and a willingness to examine ideas outside conventional aerospace development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Government Agency: Defense Intelligence Agency Read more</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</span><span class="citation-popover-meta">Published: March 25, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black VaultThe site is a civilian repository of federal records and contains millions of files spanning subjects from CIA programs...</span></span></span>
@@ -487,15 +474,15 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +490,15 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible"><img src="{{ '/assets/images/marketplace-covers/c6fdd3f1f579d1b81b6c.jpg' | relative_url }}" alt="Listing image for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +506,15 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +522,15 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +538,7 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="dird-reports-do-the-dird-studies-prove-anything-paranormal-colm-kelleher-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-dird-studies-prove-anything-paranormal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-dird-studies-prove-anything-paranormal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -767,179 +754,179 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: The 4 Big Questions the Pentagon's New UFO Report Fails to Answer  
-   Link: [https://www.wired.com/story/questions-pentagon-ufo-report](https://www.wired.com/story/questions-pentagon-ufo-report)  
+   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A History of Scientific Approaches to Unidentified  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A History of Scientific Approaches to Unidentified...April 10, 2024 — 10 Apr 2024 — The topic of “Unidentified Anomalo...</p></details>
    Published: April 10, 2024  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MidMichiganNow/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1429701595862327/](https://www.facebook.com/MidMichiganNow/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1429701595862327/)  
+   Link: <a href="https://www.facebook.com/MidMichiganNow/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1429701595862327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MidMichiganNow/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1429701595862327/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>stry has ever had access to extraterrestrial technology. AARO has...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Electronic Reading RoomThis page is designed to allow access to records which have been previously released under the provisions of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: here is every known document released about aawsapaatip from the dia i also put  
-   Link: [https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/](https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/)  
+   Link: <a href="https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thegovernmentsecrets/posts/here-is-every-known-document-released-about-aawsapaatip-from-the-dia-i-also-put-/3255665211320409/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is every known document released about AAWSAP...5 Apr 2022 — Here is every known document released about AAWSAP/AATIP from the DIA...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/the-docs-were-taken-out-of-russia-over-30-years-ago-by-legendary-investigative-r/922774030129615/](https://www.facebook.com/NewsNationNow/posts/the-docs-were-taken-out-of-russia-over-30-years-ago-by-legendary-investigative-r/922774030129615/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-docs-were-taken-out-of-russia-over-30-years-ago-by-legendary-investigative-r/922774030129615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-docs-were-taken-out-of-russia-over-30-years-ago-by-legendary-investigative-r/922774030129615/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>erence Documents list found by George Knapp; against...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/](https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/)  
+   Link: <a href="https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themestimes/posts/nearly-38-million-files-were-removed-from-the-black-vault-hours-after-president-/964697886458700/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports, and many other federal files obtained through FOIA requests.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/](https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the AARO report says: “A consistent theme in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — One document, entitled &quot;Invisibility Cloaking: Theory and Exp...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Black Vault: Examining the DIA's AAWSAP/DIRD Files  
-   Link: [https://www.youtube.com/watch?v=kYvM-iR4Y_4](https://www.youtube.com/watch?v=kYvM-iR4Y_4)  
+   Link: <a href="https://www.youtube.com/watch?v=kYvM-iR4Y_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYvM-iR4Y_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the AAWSAP: Speculative Physics and Government Research...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: locationsunknown.org  
    Title: Government Agency: Defense Intelligence Agency Read more  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</p></details>
    Published: March 25, 2022  
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Advanced Aerospace Threat Identification Program...Mar 31, 2022 — As of March of 2022, all but one of the 38 DIRD rep...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comFOIA-00159-2018Requesting all &quot;Defense Intelligence Reference Documents&quot; created by Bigelow Aerospace. BAASS, or any pa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultIndex of /documents/dia/AAWSAP-DIRDsIndex of /documents/dia/AAWSAP-DIRDs. Name · Last modified · Size... DIRD_37-DIRD_Ane...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>38 of these “Defense Intelligence Reference Documents” or reports under AAWSAP.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/dia/](https://documents2.theblackvault.com/documents/dia/)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of /documents/diaIndex of /documents/dia; AAWSAP/, 2023-06-28 12:32; APP-0006-2018.pdf, 2023-09-03 08:57; DIA-FOIA-Backlog-2021.pdf, 2...</p></details>
    Published: June 28, 2023  
 
 20. <a id="endnote-20"></a>
    Source: theblackvault.com  
-   Title: ep 99 [aawsap documents](&#123;&#123; 'aawsap-gap-184c1c/' | relative_url &#125;&#125;) a deep dive  
-   Link: [https://www.theblackvault.com/documentarchive/podcast/ep-99-aawsap-documents-a-deep-dive/](https://www.theblackvault.com/documentarchive/podcast/ep-99-aawsap-documents-a-deep-dive/)  
+   Title: ep 99 aawsap documents a deep dive  
+   Link: <a href="https://www.theblackvault.com/documentarchive/podcast/ep-99-aawsap-documents-a-deep-dive/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/podcast/ep-99-aawsap-documents-a-deep-dive/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#99 – AAWSAP Documents – A Deep DiveApr 19, 2022 — Now, the government has released more than 1,500 pages of material on AAWSAP. Does it...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Black Vault  
-   Link: [https://en.wikipedia.org/wiki/The_Black_Vault](https://en.wikipedia.org/wiki/The_Black_Vault)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe site is a civilian repository of federal records and contains millions of files spanning subjects from CIA programs...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: yumpu.com  
-   Link: [https://www.yumpu.com/en/document/view/26182319/download-the-black-vault](https://www.yumpu.com/en/document/view/26182319/download-the-black-vault)  
+   Link: <a href="https://www.yumpu.com/en/document/view/26182319/download-the-black-vault" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/26182319/download-the-black-vault</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault31 Jan 2014 —... Documents and records regarding &quot;Caterpiller Inc.&quot; and sale of... documents released to the Associated...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024](https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All...8 May 2026 — AARO&#x27;s February 2024 mandated historical record report finds no...</p></details>
    Published: May 2026  
 
 25. <a id="endnote-25"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/](https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/)  
+   Link: <a href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The documents make clear that the AAWSAP was focused on studying the defense and military capabilities...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...r/HighStrangeness - UNCLASSIFIED / OPFICIAL USE ONLY Defense lle Intelligence Referen...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — (PUBLIC DOMAIN) - 25 March 2022 — The Defense Intelligence Agency releases D...</p></details>
    Published: March 2022  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
    Title: I went on Ar Xi V And Found Some of the Full Text of Papers  
-   Link: [https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/](https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>38 DIRDs generated under a contract with the Defense Intelligence Agency, for the Advanced Aerospace Weapon System Applications Program (...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/](https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
    Published: March 6, 2024  
 
 30. <a id="endnote-30"></a>
    Source: newsweek.com  
    Title: ufo cia documents black vault how download 1560830  
-   Link: [https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830](https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830)  
+   Link: <a href="https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Download the CIA&#x27;s &#x27;Entire&#x27; Collection of UFO...12 Jan 2021 — It is now possible for members of the public to download the docume...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramOn January 16, 2019, the DIA released a list of 38 research titles pursued...</p></details>
    Published: January 16, 2019  
 
 32. <a id="endnote-32"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — This research included: reviewing new cases and much ol...</p></details>
-   Published: May 2024  
+   Published: May 2024

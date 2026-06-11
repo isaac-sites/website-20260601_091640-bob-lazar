@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /craft-claims/
 nav_short_title: Proof gap
 title: What would prove recovered craft?
-title_full: What would prove recovered craft? | Craft Claims
+title_full: What would prove recovered craft?
 display_title_short: Proof gap
 display_title: Proof gap
 heading_title: What would prove recovered craft?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Is the Evidence for Recovered Craft? | Elizondo
+parent_title: Where Is the Evidence for Recovered Craft?
 parent_permalink: /craft-claims/
 parent_nav_short_title: Craft Claims
 parent_heading_title: Where Is the Evidence for Recovered Craft?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /kona-blue-767ca9/
   short_title: KONA BLUE
   heading_title: Did KONA BLUE prove anything?
-date: '2026-06-09 02:54:39 '
+date: '2026-06-11 21:02:40 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s most controversial claims are not about unidentified objects in the sky. They are about what happened after alleged encounters: recovered technology, crash retrieval programmes, biological samples, and secret efforts to study materials that he suggests are not made by any known human power. Those claims sit at the centre of the credibility debate around him because they require a much higher standard of proof than claims that unusual objects have been observed by military personnel.
-
+Luis Elizondo’s most controversial claims are not about unidentified objects in the sky. They are about what happened after alleged encounters: recovered technology, crash retrieval programmes, biological samples, and secret efforts to study materials that he suggests are not made by any known human power. Those claims sit at the centre of the credibility debate around him because they require a much higher standard of proof than claims that unusual objects have been observed by military personnel.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1-dark.svg" | relative_url }}" alt="Proof gap illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The basic tension is straightforward. Elizondo has repeatedly stated or implied that the United States possesses technology of unknown origin and that some material may not be attributable to any known nation. Yet no publicly available artefact, laboratory report, engineering analysis, chain-of-custody record, procurement trail, or independently verifiable document has demonstrated that a recovered craft of non-human origin exists. Supporters argue that the strongest evidence remains classified. Critics argue that extraordinary claims remain unsupported until inspectable evidence is produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeWritten Testimony of Luis ElizondoLet me be clear: UAP are real. Advanced technologies not made by our Governmen...</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">ex pentagon official discusses government hunt ufos exclusive 8712746</span><span class="citation-popover-snippet">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs21 Sept 2024 — Louis Elizondo tells PEOPLE that the US government has retrieved...</span></span></span>
@@ -288,7 +287,6 @@ Several facts are publicly established:
 
 These points support the argument that unusual aerial incidents have been treated as legitimate national-security issues.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wgM5V44eQHU" title="Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer">Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.2M &middot; Uploaded: August 2024 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wgM5V44eQHU">Open on YouTube</a></p></div></div></div>
 
 ### Evidence that does not exist publicly
@@ -296,7 +294,6 @@ These points support the argument that unusual aerial incidents have been treate
 The stronger recovered-craft narrative would require a different level of documentation.
 
 Publicly unavailable or unverified elements include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +319,6 @@ The November 2024 House hearing illustrates this problem clearly. Witnesses made
 
 For supporters, the hearing demonstrated that serious insiders are willing to go on the record. For sceptics, it demonstrated that extraordinary allegations are still being presented largely through assertion rather than disclosed proof.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-2-dark.svg" | relative_url }}" alt="Proof gap illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pentagon's Direct Rejection of the Retrieval Narrative
 
@@ -330,7 +326,7 @@ The strongest institutional challenge to Elizondo's recovered-technology claims 
 
 In March 2024, AARO released a major report examining decades of government investigations, classified and unclassified records, and interviews connected to UAP claims. The report concluded that investigators found no evidence that the US government or private contractors had possessed extraterrestrial technology or reverse-engineered alien craft. It also stated that no evidence had been found confirming extraterrestrial origin for investigated UAP cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</span></span></span>
 
-The report went further than simply saying evidence was unavailable. It argued that many reverse-engineering stories appeared to result from repeated circulation of unverified claims among believers. According to the report, several specific allegations examined by investigators could not be substantiated and some were directly disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The report went further than simply saying evidence was unavailable. It argued that many reverse-engineering stories appeared to result from repeated circulation of unverified claims among believers. According to the report, several specific allegations examined by investigators could not be substantiated and some were directly disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 This does not automatically disprove Elizondo's position. Critics of AARO argue that the office may not have received access to every compartmented programme or that witnesses have been unwilling to cooperate fully. Nevertheless, the report remains the most comprehensive official review currently available to the public, and its findings are plainly inconsistent with Elizondo's stronger claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</span></span></span>
 
@@ -343,7 +339,6 @@ That possibility cannot be completely dismissed. Governments routinely classify 
 The problem is that classification and proof are different things.
 
 A classified document can explain why evidence is unavailable, but it does not establish that the hidden evidence supports a particular conclusion. Outside observers cannot independently verify claims based solely on appeals to secret information. This is why investigators, journalists, scientists, and oversight bodies generally look for at least some combination of:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +354,6 @@ Without those elements, public assessment becomes largely a question of trust in
 
 That is especially important because intelligence and defence communities contain competing interpretations, incomplete information, rumours, compartmentalised programmes, and mistaken beliefs alongside genuine secrets. A security clearance or access to classified systems does not guarantee that every conclusion reached by a former official is correct.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M-qH3E7EC14" title="What a Pentagon Insider Discovered About UFOs with Lue Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M-qH3E7EC14" target="_blank" rel="noopener noreferrer">What a Pentagon Insider Discovered About UFOs with Lue Elizondo</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 373.5K &middot; Uploaded: October 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M-qH3E7EC14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M-qH3E7EC14">Open on YouTube</a></p></div></div></div>
 
 ## What Would Actually Change the Debate?
@@ -367,7 +361,6 @@ That is especially important because intelligence and defence communities contai
 The debate around recovered technology has reached a point where new interviews and repeated assertions are unlikely to settle the issue.
 
 Several forms of evidence would dramatically alter the credibility calculation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +376,6 @@ Not all of these would be required simultaneously. Even one well-documented brea
 
 The reason the argument remains unresolved is that none of those forms of evidence has yet emerged in a publicly verifiable way.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-3-dark.svg" | relative_url }}" alt="Proof gap illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Current Credibility Balance
 
@@ -393,9 +385,7 @@ The recovered-craft narrative is much harder to substantiate. Elizondo has publi
 
 As a result, the central question is not whether Elizondo has made extraordinary claims. He clearly has. The unresolved question is whether evidence strong enough to verify those claims will ever become available outside classified channels. Until that happens, the proof gap remains the defining weakness in the recovered-technology case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_9fUpxPtq3s" title="Luis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_9fUpxPtq3s" target="_blank" rel="noopener noreferrer">Luis</a></p><p class="youtube-embed-meta">Channel: Yami Safdie - Topic &middot; Views: 268.5K &middot; Uploaded: September 2025 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_9fUpxPtq3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_9fUpxPtq3s">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -409,16 +399,16 @@ As a result, the central question is not whether Elizondo has made extraordinary
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Direct source for Elizondo&#x27;s assertions about recovered technologies.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -426,16 +416,16 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Useful for understanding what evidence would be required for extraordinary conclusions.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -443,16 +433,16 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Addresses crash-retrieval allegations and government secrecy claims.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -460,16 +450,16 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Discusses investigations and claims involving advanced anomalous phenomena.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -477,7 +467,7 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -514,15 +504,15 @@ As a result, the central question is not whether Elizondo has made extraordinary
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +520,15 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +536,31 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +568,7 @@ As a result, the central question is not whether Elizondo has made extraordinary
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-would-prove-recovered-craft-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-recovered-craft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-prove-recovered-craft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -777,163 +783,163 @@ As a result, the central question is not whether Elizondo has made extraordinary
 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeWritten Testimony of Luis ElizondoLet me be clear: UAP are real. Advanced technologies not made by our Governmen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: people.com  
    Title: ex pentagon official discusses government hunt ufos exclusive 8712746  
-   Link: [https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746](https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746)  
+   Link: <a href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs21 Sept 2024 — Louis Elizondo tells PEOPLE that the US government has retrieved...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeUnidentified Anomalous Phenomena: Exposing the Truth13 Nov 2024 — Hearing Date: November 13, 2024 11:30 am 2154...</p></details>
    Published: November 13, 2024  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reverse-engineering of extraterrestrial technology. Experimentation on Alleged Extraterrestrial Spacecraft Sample: AARO has concluded tha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — have been reverse-engineering extraterrestrial technology. AARO...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/](https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/)  
+   Link: <a href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostEx-Pentagon official Luis Elizondo alleges US recovered...Aug 23, 2024 — A former Pentagon official alleged that the US gov...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Startling claims made at UFO hearing in Congress, but lack  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianStartling claims made at UFO hearing in Congress, but lack...November 14, 2024 — 13 Nov 2024 — The US government has conduct...</p></details>
    Published: November 14, 2024  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Luis](https://en.wikipedia.org/wiki/Luis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LuisLuis is a given name. It is the Spanish form of the originally Germanic name Hludowig or Chlodovech, which were introduced to the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CHdnmqIW9k4](https://www.youtube.com/watch?v=CHdnmqIW9k4)  
+   Link: <a href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CHdnmqIW9k4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on Unidentified Anomalous PhenomenaThis hearing is attended to help Congress and the American people to learn the extent of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon says...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: Luis Elizondo  
-   Link: [https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/](https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/)  
+   Link: <a href="https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DailyShow/comments/1fjjkqx/luis_elizondo_imminent_inside_the_pentagons_hunt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Pentagon&#x27;s Hunt for UFOsLuis claims two crafts crashed, one escaped, and non-human bodies were recovered. The silence from jou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: Luis Elizondo  
-   Link: [https://www.reddit.com/r/videos/comments/1fjqrj9/luis_elizondo_imminent_inside_the_pentagons_hunt/](https://www.reddit.com/r/videos/comments/1fjqrj9/luis_elizondo_imminent_inside_the_pentagons_hunt/)  
+   Link: <a href="https://www.reddit.com/r/videos/comments/1fjqrj9/luis_elizondo_imminent_inside_the_pentagons_hunt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/1fjqrj9/luis_elizondo_imminent_inside_the_pentagons_hunt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Imminent: Inside the Pentagon&#x27;s Hunt for...I&#x27;ve seen shorter interviews of Luis Elizondo and thought he seemed moderately credible, but...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on Unidentified Anomalous PhenomenaThe U.S. House of Representatives holds a joint subcommittee hearing on reports of Unide...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thebump.com  
-   Link: [https://www.thebump.com/b/luis-baby-name](https://www.thebump.com/b/luis-baby-name)  
+   Link: <a href="https://www.thebump.com/b/luis-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/luis-baby-name</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A variant of Lewis and Louis, Luis means “famous warrior” or &quot;glorious in battle.&quot;Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: es.momcozy.com  
-   Link: [https://es.momcozy.com/blogs/baby-names/luis](https://es.momcozy.com/blogs/baby-names/luis)  
+   Link: <a href="https://es.momcozy.com/blogs/baby-names/luis" target="_blank" rel="noopener noreferrer nofollow">https://es.momcozy.com/blogs/baby-names/luis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Name Meaning, Origin, Popularity InsightsLuis is predominantly a masculine name with Spanish and Portuguese origins, derived from th...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsPentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report.... A...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXfx3MEgc0L/](https://www.instagram.com/reel/DXfx3MEgc0L/)  
+   Link: <a href="https://www.instagram.com/reel/DXfx3MEgc0L/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXfx3MEgc0L/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNation on Instagram: &quot;UFO insider Luis Elizondo says...UFO insider Luis Elizondo says the so-called list of U.S. scientists who have...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tribune.com.pk  
-   Link: [https://tribune.com.pk/story/2509583/us-whistleblower-claims-we-are-not-alone-in-congressional-hearing-on-ufos-and-secret-programs](https://tribune.com.pk/story/2509583/us-whistleblower-claims-we-are-not-alone-in-congressional-hearing-on-ufos-and-secret-programs)  
+   Link: <a href="https://tribune.com.pk/story/2509583/us-whistleblower-claims-we-are-not-alone-in-congressional-hearing-on-ufos-and-secret-programs" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/2509583/us-whistleblower-claims-we-are-not-alone-in-congressional-hearing-on-ufos-and-secret-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US whistleblower claims &#x27;we are not alone&#x27; in...14 Nov 2024 — Elizondo claimed the U.S. government has access to technology “made off-wo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/](https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-an-exclusive-interview-with-newsnations-ross-coulthart-former-pentagon-inside/524487093291646/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>has recovered nonhuman biological specimens and advanced spacecraft. He told NewsNation&#x27;s Ross Coulthart that...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ndtv.com  
    Title: ex pentagon official claims us recovered non human specimens report 6517187  
-   Link: [https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187](https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187)  
+   Link: <a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comEx-Pentagon Official Claims US Recovered Non-Human...8 Sept 2024 — Luis Elizondo alleges that the government has recovered s...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/%40LuisLuis](https://www.youtube.com/%40LuisLuis)  
+   Link: <a href="https://www.youtube.com/%40LuisLuis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40LuisLuis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LuisLuis. @LuisLuis. 1.88M subscribers•200 videos. My name is Bologna, I&#x27;m 28 Luis, I live in years old....more. My name is Bologna, I&#x27;m...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nhpr.org  
    Title: New Hampshire Public Radio Experts testify before lawmakers that the U.S  
-   Link: [https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs](https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs)  
+   Link: <a href="https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is running...13 Nov 2024 — Mace noted that in his testimony, Elizondo stated that advanced technologies &quot;not made by our government or a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: legion.org  
    Title: uap are real congress pushes quest for transparency on ufos  
-   Link: [https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos](https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos)  
+   Link: <a href="https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UAP are real&#x27;: Congress pushes quest for transparency on...14 Nov 2024 — Luis Elizondo, a former senior intelligence official who ran a...</p></details>

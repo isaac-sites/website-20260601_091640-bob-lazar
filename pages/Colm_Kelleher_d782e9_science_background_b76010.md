@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Background
 title: Does Kelleher's Science Career Help His Case?
-title_full: Does Kelleher's Science Career Help His Case? | Kelleher
+title_full: Does Kelleher's Science Career Help His Case?
 display_title_short: Background
 display_title: Background
 heading_title: Does Kelleher's Science Career Help His Case?
@@ -289,7 +289,7 @@ next_link:
   permalink: /debate-020cbc/
   short_title: Debate
   heading_title: Why Supporters And Sceptics Disagree On Kelleher
-date: '2026-06-09 03:06:04 '
+date: '2026-06-11 21:07:41 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview-so
 
 ## Introduction
 
-[Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s science career does help his credibility, but only in a limited and specific way. It shows that he was not simply a paranormal enthusiast entering UFO debates from nowhere: he had a PhD in biochemistry, a research background in cell and molecular biology, and later management roles in private aerospace-linked research. That matters because his UAP work often claims to involve data collection, witness handling, biological effects and programme administration. It does not, however, prove that the most unusual claims linked to [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}), AAWSAP or alleged “hitchhiker” effects are true. Scientific training can improve how a person asks questions and organises evidence; it cannot turn private case files, anecdotal reports or unreleased data into publicly testable proof.
-
+Colm Kelleher’s science career does help his credibility, but only in a limited and specific way. It shows that he was not simply a paranormal enthusiast entering UFO debates from nowhere: he had a PhD in biochemistry, a research background in cell and molecular biology, and later management roles in private aerospace-linked research. That matters because his UAP work often claims to involve data collection, witness handling, biological effects and programme administration. It does not, however, prove that the most unusual claims linked to [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}), AAWSAP or alleged “hitchhiker” effects are true. Scientific training can improve how a person asks questions and organises evidence; it cannot turn private case files, anecdotal reports or unreleased data into publicly testable proof.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview.webp" | relative_url }}" alt="Overview image for Background" loading="eager" decoding="sync" fetchpriority="high">
 The fairest assessment is therefore double-edged. Kelleher’s scientific background strengthens his profile as an investigator and programme manager, especially compared with commentators who have no technical or institutional record. But his credentials do not remove the normal burden of evidence. The more extraordinary the claim, the more important it becomes to separate his verified career from the unresolved claims he has helped document, interpret or promote.
@@ -314,21 +313,17 @@ That matters because Kelleher’s later UAP-facing work often touched areas wher
 
 The limit is equally important. A PhD in biochemistry is not the same as expertise in aerospace engineering, sensor analysis, intelligence collection, atmospheric physics or forensic investigation of every unusual event. Nor does a record of peer-reviewed biomedical work automatically validate claims about non-human intelligence, exotic craft, paranormal phenomena or anomalous effects spreading from one person to another. It gives Kelleher a stronger starting position; it does not settle the case.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-dark.svg" | relative_url }}" alt="Background illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why his science career changes the credibility question
 
 Kelleher’s background shifts the question from “Is this just a UFO personality?” to “How far can scientific training carry claims made in a weak evidence environment?” That is a more useful frame. In public UAP culture, credentials are often used either too aggressively or too dismissively. Supporters may treat “scientist” as a shortcut to trust. Sceptics may point to paranormal subject matter and disregard the underlying career. Neither move is careful enough.
 
-His work with NIDS and BAASS sits in the awkward middle. Rice University’s profile says he led the NIDS team at Skinwalker Ranch and later became deputy administrator of BAASS, leading day-to-day execution of the AAWSAP contract with the Defense Intelligence Agency. The same profile says AAWSAP collected data not only on UAP performance but also on medical, physiological, psychological and paranormal effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+His work with NIDS and BAASS sits in the awkward middle. Rice University’s profile says he led the NIDS team at Skinwalker Ranch and later became deputy administrator of BAASS, leading day-to-day execution of the AAWSAP contract with the Defense Intelligence Agency. The same profile says AAWSAP collected data not only on UAP performance but also on medical, physiological, psychological and paranormal effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That gives his claims more institutional context than ordinary UFO storytelling. He was connected to a funded programme and to private organisations that tried to gather and organise reports. A Defense Intelligence Agency contract-status document confirms that BAASS performed under contract HHM402-08-C-0072, submitted monthly status reports, executed project-management plans and delivered 26 detailed research reports by 30 June 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
 
 But institutional context is not the same as public validation. The DIA [documents]({{ 'documents/' | relative_url }}) confirm that a contract existed, that reports were delivered and that the contractor was regarded as compliant at that stage. They do not show that the most dramatic interpretations of the data were correct. This distinction is central to Kelleher’s credibility: his access and administrative role are much better supported than the strongest paranormal or non-human explanations sometimes attached to the work.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-dark.svg" | relative_url }}" alt="Background illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What scientific expertise can and cannot prove
 
 Kelleher’s scientific training can plausibly strengthen three parts of his case.
@@ -349,7 +344,6 @@ It cannot erase domain mismatch. Biochemistry helps with some biological and med
 
 It cannot convert “unexplained” into “non-human”. Modern scientific and official UAP reviews repeatedly stress that unresolved cases often remain unresolved because the data are incomplete, not because an exotic explanation has been demonstrated. NASA’s 2023 UAP study called for rigorous, evidence-based study and better data-acquisition methods, while AARO’s 2024 historical review said there is a direct relationship between the amount and quality of case information and the ability to resolve reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-2-dark.svg" | relative_url }}" alt="Background illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AAWSAP example: real programme, limited public proof
 
@@ -361,9 +355,6 @@ But the same document also shows a credibility limit. The recommendation was aga
 
 For readers assessing Kelleher, that cuts both ways. The contract record supports his proximity and seriousness. It does not demonstrate that the programme produced publicly convincing evidence of extraordinary technology or paranormal effects. The best wording is not “debunked” or “proved”; it is “institutionally real, evidentially limited in public”.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WaXNjyxKYkg" title="Burden of Proof | Criminal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer">Burden of Proof | Criminal Evidence</a></p><p class="youtube-embed-meta">Channel: The Law Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WaXNjyxKYkg">Open on YouTube</a></p></div></div></div>
-
 ## How credentials shape public trust
 
 Kelleher’s scientific identity has clearly shaped how his UAP work is received. A claim presented by “a biochemist and former AAWSAP programme manager” lands differently from the same claim presented by an anonymous forum user or a television personality. His credentials make audiences more likely to give the material an initial hearing.
@@ -374,8 +365,8 @@ The danger is credential overreach. Scientific authority is strongest when the c
 
 Kelleher’s credibility therefore has to be assessed claim by claim. His biography is strongest when used to support statements such as “he had relevant scientific and programme-management experience” or “he was positioned to collect and organise unusual reports”. It is much weaker if used to imply “therefore the anomalous interpretation is probably correct”.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-dark.svg" | relative_url }}" alt="Background illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where sceptics and supporters reasonably diverge
 
 Supporters have a coherent argument: Kelleher is a serious figure because he combines scientific training, long-term field involvement and proximity to a funded government-linked programme. They can fairly say he is not a casual storyteller and that his background makes him more credible than many UAP commentators.
@@ -386,9 +377,6 @@ Sceptics have an equally coherent objection: inaccessible evidence cannot carry 
 
 Official reviews reinforce this caution. AARO’s 2024 historical report found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology, and it stressed that many unresolved cases lack actionable, researchable data. That does not directly disprove every Kelleher-associated claim, but it does set a high bar for treating dramatic UAP interpretations as established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-6 "Endnote 6")
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KNcI5u2qScY" title="Science Literacy: Bridging the Chasm Between Science &amp; Public Policy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KNcI5u2qScY" target="_blank" rel="noopener noreferrer">Science Literacy: Bridging the Chasm Between Science &amp; Public Policy</a></p><p class="youtube-embed-meta">Channel: Library of Congress</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KNcI5u2qScY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KNcI5u2qScY">Open on YouTube</a></p></div></div></div>
-
 ## The practical credibility takeaway
 
 Kelleher’s science career helps his case most when the question is about seriousness, access and investigative competence. It shows that he entered the UAP world with a genuine technical background and later occupied roles that are independently traceable through institutional and government records.
@@ -396,6 +384,8 @@ Kelleher’s science career helps his case most when the question is about serio
 It helps far less when the question is whether Skinwalker Ranch phenomena, AAWSAP medical-effect claims or broader anomalous interpretations have been proved. For that, the decisive issue is not Kelleher’s CV but the quality, availability and independent testability of the evidence.
 
 A balanced reader should therefore place Kelleher in a middle category. He is more credible than a purely media-made UFO personality because his scientific and programme roles are real. He is not, on that basis alone, a conclusive scientific authority on UAP origins, paranormal mechanisms or non-human technology. His background earns attention; the claims still have to earn belief.
+
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-dark.svg" | relative_url }}" alt="Background illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -514,15 +504,15 @@ A balanced reader should therefore place Kelleher in a middle category. He is mo
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="https://i.ebayimg.com/images/g/a84AAeSwZB1orLEU/s-l225.jpg" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: science patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +520,15 @@ A balanced reader should therefore place Kelleher in a middle category. He is mo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cartoon Rocket Ship Embroidered Patch - Iron or Sew on - Science Space Gift"><img src="https://i.ebayimg.com/images/g/OocAAOSwXDRnpTl4/s-l225.jpg" alt="Listing image for Cartoon Rocket Ship Embroidered Patch - Iron or Sew on - Science Space Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer">Cartoon Rocket Ship Embroidered Patch - Iron or Sew on - Science Space Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: science patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +536,31 @@ A balanced reader should therefore place Kelleher in a middle category. He is mo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wormhole Sew or Iron On Patch 9cm x 7.5cm Science Space Astronomy FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/qUgAAeSwFudodllC/s-l225.jpg" alt="Listing image for Wormhole Sew or Iron On Patch 9cm x 7.5cm Science Space Astronomy FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer">Wormhole Sew or Iron On Patch 9cm x 7.5cm Science Space Astronomy FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: science patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +568,7 @@ A balanced reader should therefore place Kelleher in a middle category. He is mo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-science-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science patch" data-ebay-reference="does-kelleher-s-science-career-help-his-case-science-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-kelleher-s-science-career-help-his-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-kelleher-s-science-career-help-his-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -777,153 +783,153 @@ A balanced reader should therefore place Kelleher in a middle category. He is mo
 
 1. <a id="endnote-1"></a>
    Source: simonandschuster.co.uk  
-   Link: [https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040](https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040)  
+   Link: <a href="https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040</a>  
 
 2. <a id="endnote-2"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s13062-016-0126-5](https://link.springer.com/article/10.1186/s13062-016-0126-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s13062-016-0126-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13062-016-0126-5</a>  
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2018  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2021  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2020  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2019  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2019.2  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 19. <a id="endnote-19"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Colm-Kelleher](https://www.researchgate.net/profile/Colm-Kelleher)  
+   Link: <a href="https://www.researchgate.net/profile/Colm-Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Colm-Kelleher</a>  
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
    Title: Colm Kelleher  
-   Link: [https://www.linkedin.com/in/colm-kelleher-834a05112](https://www.linkedin.com/in/colm-kelleher-834a05112)  
+   Link: <a href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colm-kelleher-834a05112</a>  
 
 24. <a id="endnote-24"></a>
    Source: sourcewatch.org  
    Title: Colm Kelleher  
-   Link: [https://www.sourcewatch.org/index.php/Colm_Kelleher](https://www.sourcewatch.org/index.php/Colm_Kelleher)  
+   Link: <a href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Colm_Kelleher</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v1](https://arxiv.org/html/2502.06794v1)  
+   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/12731551_Inactivation_of_NF-kappaB_by_EBV_BZLF-1-encoded_ZEBRA_protein_in_human_T-cells](https://www.researchgate.net/publication/12731551_Inactivation_of_NF-kappaB_by_EBV_BZLF-1-encoded_ZEBRA_protein_in_human_T-cells)  
+   Link: <a href="https://www.researchgate.net/publication/12731551_Inactivation_of_NF-kappaB_by_EBV_BZLF-1-encoded_ZEBRA_protein_in_human_T-cells" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12731551_Inactivation_of_NF-kappaB_by_EBV_BZLF-1-encoded_ZEBRA_protein_in_human_T-cells</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/741252253445623/posts/1012656999638479/](https://www.facebook.com/groups/741252253445623/posts/1012656999638479/)  
+   Link: <a href="https://www.facebook.com/groups/741252253445623/posts/1012656999638479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/741252253445623/posts/1012656999638479/</a>  
 
 28. <a id="endnote-28"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/author/show/162220.Colm_A_Kelleher](https://www.goodreads.com/author/show/162220.Colm_A_Kelleher)  
+   Link: <a href="https://www.goodreads.com/author/show/162220.Colm_A_Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/show/162220.Colm_A_Kelleher</a>  
 
 29. <a id="endnote-29"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/](https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/)  
+   Link: <a href="https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/](https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/</a>  
 
 31. <a id="endnote-31"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/EBV-infection-of-T-cells%3A-potential-role-in-Kelleher-Dreyfus/aac1cf5171825e72849ec3cebf58470554033239](https://www.semanticscholar.org/paper/EBV-infection-of-T-cells%3A-potential-role-in-Kelleher-Dreyfus/aac1cf5171825e72849ec3cebf58470554033239)  
+   Link: <a href="https://www.semanticscholar.org/paper/EBV-infection-of-T-cells%3A-potential-role-in-Kelleher-Dreyfus/aac1cf5171825e72849ec3cebf58470554033239" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/EBV-infection-of-T-cells%3A-potential-role-in-Kelleher-Dreyfus/aac1cf5171825e72849ec3cebf58470554033239</a>  
 
 32. <a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Exchange-of-digesta-via-duodenal-cannula-in-sheep%2C-Ivan-Lamand/1c1091f5f50e21ffe0e124b877804b4af5d52761](https://www.semanticscholar.org/paper/Exchange-of-digesta-via-duodenal-cannula-in-sheep%2C-Ivan-Lamand/1c1091f5f50e21ffe0e124b877804b4af5d52761)  
+   Link: <a href="https://www.semanticscholar.org/paper/Exchange-of-digesta-via-duodenal-cannula-in-sheep%2C-Ivan-Lamand/1c1091f5f50e21ffe0e124b877804b4af5d52761" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Exchange-of-digesta-via-duodenal-cannula-in-sheep%2C-Ivan-Lamand/1c1091f5f50e21ffe0e124b877804b4af5d52761</a>  
 
 33. <a id="endnote-33"></a>
    Source: wchstv.com  
-   Link: [https://wchstv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://wchstv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://wchstv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://wchstv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
 34. <a id="endnote-34"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>

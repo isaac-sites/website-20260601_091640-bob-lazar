@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Skinwalker
 title: Why Skinwalker Ranch Defines Kelleher's Reputation
-title_full: Why Skinwalker Ranch Defines Kelleher's Reputation | Kelleher
+title_full: Why Skinwalker Ranch Defines Kelleher's Reputation
 display_title_short: Skinwalker
 display_title: Skinwalker
 heading_title: Why Skinwalker Ranch Defines Kelleher's Reputation
@@ -283,7 +283,7 @@ prev_link:
   permalink: /human-effects/
   short_title: Human Effects
   heading_title: Should UAP Research Include Human Effects?
-date: '2026-06-09 03:05:46 '
+date: '2026-06-11 21:07:38 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-overview.webp
@@ -292,8 +292,7 @@ image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-overview-soci
 
 ## Introduction
 
-Skinwalker Ranch defines [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s reputation because it is both his most distinctive case and the clearest stress test of his evidence standards. Kelleher’s strongest claim to seriousness is that he was not merely a commentator: Rice University’s Archives of the Impossible says he led the National Institute for Discovery Science team at Skinwalker Ranch from 1996 to 2004, later became deputy administrator of Bigelow Aerospace Advanced Space Studies, and helped execute the Defense Intelligence Agency’s AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Skinwalker Ranch defines Colm Kelleher’s reputation because it is both his most distinctive case and the clearest stress test of his evidence standards. Kelleher’s strongest claim to seriousness is that he was not merely a commentator: Rice University’s Archives of the Impossible says he led the National Institute for Discovery Science team at Skinwalker Ranch from 1996 to 2004, later became deputy administrator of Bigelow Aerospace Advanced Space Studies, and helped execute the Defense Intelligence Agency’s AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-overview.webp" | relative_url }}" alt="Overview image for Skinwalker" loading="eager" decoding="sync" fetchpriority="high">
 The weakness is just as important. The ranch produced dramatic reports — lights, craft-like objects, mutilated cattle, strange animals, poltergeist effects and later “hitchhiker” claims — but the public record still lacks the kind of independent, repeatable evidence that would make those claims secure. Even sympathetic accounts often concede that the investigation generated far more testimony, field notes and [private files]({{ 'private-files/' | relative_url }}) than publicly testable proof. That tension is why Skinwalker Ranch is not a side episode in Kelleher’s career. It is the case that best explains both why UAP believers take him seriously and why sceptics remain unconvinced.
@@ -304,36 +303,32 @@ Before Skinwalker Ranch, Kelleher’s public profile was mainly scientific. The 
 
 That context matters because the ranch was never a clean laboratory case. It arrived already embedded in local folklore, family testimony, cattle-mutilation stories, regional UFO history and media attention. The key question for Kelleher was therefore not simply “did odd things happen?” but whether a privately funded scientific team could turn a mass of strange testimony into reliable evidence.
 
-Kelleher’s role at NIDS gave the case unusual credibility within paranormal and UAP circles. Unlike many UFO narratives built around anonymous witnesses or loose claims of insider access, Skinwalker had named investigators, a physical site, private funding, surveillance ambitions and a published account. Rice’s profile states that Kelleher led the NIDS team on the ranch between 1996 and 2004, then later helped run BAASS under the DIA’s AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Kelleher’s role at NIDS gave the case unusual credibility within paranormal and UAP circles. Unlike many UFO narratives built around anonymous witnesses or loose claims of insider access, Skinwalker had named investigators, a physical site, private funding, surveillance ambitions and a published account. Rice’s profile states that Kelleher led the NIDS team on the ranch between 1996 and 2004, then later helped run BAASS under the DIA’s AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But the same structure also created a credibility problem. NIDS was private, not a public academic laboratory. Its raw data, protocols, negative findings and internal debates were not made available in the way a mainstream scientific claim would normally require. The investigation could be presented as scientific in aspiration, yet the public mostly saw it through books, interviews, selective reports and later media retellings.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-dark.svg" | relative_url }}" alt="Skinwalker illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Kelleher and the Skinwalker story actually claimed
 
 The Skinwalker claims associated with Kelleher are unusually broad. They are not limited to unidentified lights or aircraft. The case family includes aerial phenomena, animal mutilations, strange creatures, apparent poltergeist activity, unusual electromagnetic effects, injuries or biological effects, and claims that phenomena followed people away from the ranch.
 
-This breadth is central to the problem. A narrowly framed UAP case can be tested against aviation data, radar records, sensor reliability and witness position. Skinwalker Ranch, by contrast, became a mixed-anomaly case. The same narrative space contains UFO-like objects, cryptid-like animals, physical traces, psychological stress, folklore and later claims of [human effects]({{ 'human-effects/' | relative_url }}). Rice’s description of Kelleher’s AAWSAP-related talk explicitly frames the programme as collecting data on medical, physiological, psychological and paranormal effects, and says he drew links between “nuts and bolts” UAPs, extraordinary creatures, poltergeist phenomena and paranormal events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This breadth is central to the problem. A narrowly framed UAP case can be tested against aviation data, radar records, sensor reliability and witness position. Skinwalker Ranch, by contrast, became a mixed-anomaly case. The same narrative space contains UFO-like objects, cryptid-like animals, physical traces, psychological stress, folklore and later claims of [human effects]({{ 'human-effects/' | relative_url }}). Rice’s description of Kelleher’s AAWSAP-related talk explicitly frames the programme as collecting data on medical, physiological, psychological and paranormal effects, and says he drew links between “nuts and bolts” UAPs, extraordinary creatures, poltergeist phenomena and paranormal events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That makes Kelleher’s Skinwalker work more ambitious than a standard UFO investigation. It also makes it harder to evaluate. If many categories of anomaly are allowed into the same explanatory frame, a weak finding in one category can be rhetorically supported by a striking anecdote in another. For supporters, this suggests a larger phenomenon that does not fit conventional categories. For sceptics, it suggests a case that becomes unfalsifiable because almost any oddity can be absorbed into the mythology.
 
 A concrete example is Kelleher’s own reported sighting at the ranch. Rice News quoted him describing a fast, silent, brightly lit object that came over Skinwalker Ridge, made a sharp hairpin turn above him, and then returned the way it came. He said the event changed things for him because he was there to investigate and document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.rice.edu">[Rice News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a first-hand claim, and it is more relevant to Kelleher’s credibility than stories he merely repeated from others. Yet it still leaves the reader with the same evidence gap: the public can assess his report as testimony, but not as independently verified sensor data.
 
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-dark.svg" | relative_url }}" alt="Skinwalker illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the ranch strengthened Kelleher’s authority among supporters
 
 For supporters, Skinwalker Ranch gives Kelleher three advantages over many UAP personalities.
 
 First, he had proximity. Kelleher was not a distant populariser recycling UFO lore. He was attached to the long-running private investigation of the site and later to the BAASS/AAWSAP structure. The DIA’s released contract-status material confirms that BAASS held aerospace contract HHM402-08-C-0072, submitted extensive monthly status reports, executed project management plans, and had delivered 26 detailed research reports by 30 June 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency That does not prove Skinwalker’s paranormal claims, but it does show that Kelleher’s later government-contractor context was real rather than invented.
 
-Second, the case had continuity. Skinwalker did not disappear after one book. It fed into later UAP discourse, including the distinction between AAWSAP and AATIP, arguments about biological effects, and claims that UAP events may overlap with broader anomalous phenomena. The New Yorker’s 2021 account helped bring the Bigelow-Reid-Lacatski-[Kelleher network]({{ 'corroboration/' | relative_url }}) into mainstream discussion about how the US government came to fund unconventional UAP-related work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Second, the case had continuity. Skinwalker did not disappear after one book. It fed into later UAP discourse, including the distinction between AAWSAP and AATIP, arguments about biological effects, and claims that UAP events may overlap with broader anomalous phenomena. The New Yorker’s 2021 account helped bring the Bigelow-Reid-Lacatski-Kelleher network into mainstream discussion about how the US government came to fund unconventional UAP-related work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Third, Kelleher’s interpretation is not a simple “aliens landed here” claim. His public framing often treats the ranch as a place where different categories of anomalous experience overlap. That makes his position more sophisticated than crude extraterrestrial certainty. It also fits the broader modern UAP turn away from flying-saucer folklore and towards questions about sensors, cognition, human effects, intelligence analysis and anomalous environments.
 
 The problem is that sophistication is not the same as proof. A broad hypothesis can be intellectually interesting while remaining weakly evidenced. Skinwalker made Kelleher influential because it gave him a dramatic, long-running case through which to argue that UAP should be studied alongside biological and paranormal effects. It did not give the public a clean evidential package that settles the matter.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Why the public evidence remains contested
 
@@ -341,7 +336,7 @@ The most damaging issue for Kelleher’s Skinwalker reputation is not that every
 
 A useful credibility distinction is between four levels of claim:
 
-* **Verified role:** Kelleher’s NIDS and [BAASS roles]({{ 'baass-role/' | relative_url }}) are publicly documented through institutional profiles and released government material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Verified role:** Kelleher’s NIDS and [BAASS roles]({{ 'baass-role/' | relative_url }}) are publicly documented through institutional profiles and released government material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,12 +348,11 @@ A useful credibility distinction is between four levels of claim:
 
 This layered distinction is vital because Skinwalker debates often collapse all four levels together. Supporters sometimes treat Kelleher’s verified programme role as if it validates the ranch’s most dramatic events. Sceptics sometimes treat the strangeness of the claims as if it erases the fact that real people, money and official structures were involved. Both shortcuts are misleading.
 
-The public evidence problem is openly acknowledged even in critical summaries of the case. IFLScience quotes Kelleher as saying that after years of Sherman family trauma and focused NIDS investigation, the team obtained very little physical evidence that could be considered conclusive proof of anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? | IFLScience</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? | IFLScience</span></span></span> That admission is important. It does not make Kelleher dishonest; in fact, it shows a degree of caution. But it does mean Skinwalker cannot bear the weight that believers sometimes place on it.
+The public evidence problem is openly acknowledged even in critical summaries of the case. IFLScience quotes Kelleher as saying that after years of Sherman family trauma and focused NIDS investigation, the team obtained very little physical evidence that could be considered conclusive proof of anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? &#124; IFLScience</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? &#124; IFLScience</span></span></span> That admission is important. It does not make Kelleher dishonest; in fact, it shows a degree of caution. But it does mean Skinwalker cannot bear the weight that believers sometimes place on it.
 
-Sceptical criticism focuses on that gap. Robert Sheaffer has argued that the NIDS monitoring effort failed to obtain proof of anything unusual and that the case relies heavily on stories emerging around the Sherman period and later Bigelow-funded investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> IFLScience summarises the sceptical position more bluntly: despite the claims, the team did not provide actual evidence sufficient to establish the phenomena publicly, and earlier long-term owners reportedly denied experiencing comparable events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? | IFLScience</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? | IFLScience</span></span></span>
+Sceptical criticism focuses on that gap. Robert Sheaffer has argued that the NIDS monitoring effort failed to obtain proof of anything unusual and that the case relies heavily on stories emerging around the Sherman period and later Bigelow-funded investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> IFLScience summarises the sceptical position more bluntly: despite the claims, the team did not provide actual evidence sufficient to establish the phenomena publicly, and earlier long-term owners reportedly denied experiencing comparable events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? &#124; IFLScience</span><span class="citation-popover-snippet">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? &#124; IFLScience</span></span></span>
 
 Barry Greenwood’s review in the Journal of Scientific Exploration is also relevant because it comes from within a UFO-research context rather than from casual debunking. Greenwood criticises the Skinwalker material as a mixture of dramatic paranormal claims, including UFOs, electromagnetic effects, cattle mutilations, portals, creatures and radiation-like effects, but describes representative stories as poorly documented and credibility-straining. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span><span class="citation-popover-snippet">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span></span></span>
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-2-dark.svg" | relative_url }}" alt="Skinwalker illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AAWSAP link raises the stakes but does not solve the ranch
@@ -373,9 +367,6 @@ The AAWSAP link also complicates Kelleher’s public credibility. On one hand, i
 
 For Kelleher, the fair assessment is therefore mixed. AAWSAP strengthens the claim that he had institutional access and programme-management responsibility. It does not independently establish that Skinwalker Ranch produced reliable evidence of non-human intelligence, portals, exotic physics or paranormal contagion.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wpn7BZQ7us0" title="UGC-NET Home Sci| Unit-5 Resource Management |Lecture-10 Research Methodology - Sampling Techniques" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wpn7BZQ7us0" target="_blank" rel="noopener noreferrer">UGC-NET Home Sci| Unit-5 Resource Management |Lecture-10 Research Methodology - Sampling Techniques</a></p><p class="youtube-embed-meta">Channel: Nurture NET</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wpn7BZQ7us0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wpn7BZQ7us0">Open on YouTube</a></p></div></div></div>
-
 ## Kelleher’s strongest and weakest credibility signals
 
 Skinwalker Ranch is Kelleher’s signature test case because it reveals his best and worst credibility signals at the same time.
@@ -386,9 +377,7 @@ His weakest signals are evidential. The ranch’s claims are unusually dramatic,
 
 The most balanced reading is that Kelleher comes across as a serious participant in an evidentially weak case. That combination is precisely why he is hard to categorise. He is not easily dismissed as someone with no access or no credentials. But his Skinwalker work also does not meet the standard that would normally be required for claims involving extraordinary creatures, unknown aerial technology, invisible forces or transferable paranormal effects.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Skinwalker should affect the reader’s view of Kelleher
 
 Skinwalker Ranch should neither destroy nor automatically validate Kelleher’s credibility. It should narrow the claim being made about him.
@@ -398,9 +387,6 @@ A careful reader can say that Kelleher is credible as a witness to the existence
 What Skinwalker does not justify is treating Kelleher as having publicly proved the ranch’s most extraordinary claims. The available public evidence does not allow that. The case remains too dependent on private data, anecdote, selective publication and contested interpretation.
 
 That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made him famous in UAP circles because it placed him at the centre of the most ambitious paranormal-UAP field investigation of the modern era. It also exposed the core weakness in his public evidential position: the stronger the claims become, the less the public record can independently support them.
-
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -519,15 +505,15 @@ That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5 Inch large Ghost guard iron on patch paranormal investigator"><img src="https://i.ebayimg.com/images/g/~bYAAeSwBpJoo37b/s-l225.jpg" alt="Listing image for 3.5 Inch large Ghost guard iron on patch paranormal investigator" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">3.5 Inch large Ghost guard iron on patch paranormal investigator</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +521,15 @@ That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch"><img src="https://i.ebayimg.com/images/g/ahgAAeSwotdpklmL/s-l225.jpg" alt="Listing image for Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +537,31 @@ That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]"><img src="https://i.ebayimg.com/images/g/sCsAAeSw9uxpt-9C/s-l225.jpg" alt="Listing image for I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,7 +569,7 @@ That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-skinwalker-ranch-defines-kelleher-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,237 +784,237 @@ That is why Skinwalker Ranch defines Kelleher’s reputation so sharply. It made
 
 1. <a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 2. <a id="endnote-2"></a>
    Source: deseret.com  
    Title: News FREQUENT FLIERS?  
-   Link: [https://www.deseret.com/1996/6/30/19251541/frequent-fliers/](https://www.deseret.com/1996/6/30/19251541/frequent-fliers/)  
+   Link: <a href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1996/6/30/19251541/frequent-fliers/</a>  
 
 3. <a id="endnote-3"></a>
    Source: news.rice.edu  
-   Link: [https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility](https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility)  
+   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 5. <a id="endnote-5"></a>
    Source: iflscience.com  
    Title: Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity? | IFLScience  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
 
 6. <a id="endnote-6"></a>
    Source: go.gale.com  
-   Link: [https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1](https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1)  
+   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA629606515&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/[Documents](https://www.dia.mil/Portals/110/[Documents)  
+   Link: <a href="https://www.dia.mil/Portals/110/[Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/[Documents</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2021  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2021.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2019  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2019.2  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2018  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/</a>  
 
 16. <a id="endnote-16"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
 
 17. <a id="endnote-17"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170053/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170053/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170053/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170053/</a>  
 
 18. <a id="endnote-18"></a>
    Source: deseret.com  
    Title: private ufo study takes a public turn  
-   Link: [https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn/](https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn/)  
+   Link: <a href="https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn/</a>  
 
 19. <a id="endnote-19"></a>
    Source: deseret.com  
    Title: universe reports on strange utah occurrences  
-   Link: [https://www.deseret.com/1996/12/12/19282354/universe-reports-on-strange-utah-occurrences/](https://www.deseret.com/1996/12/12/19282354/universe-reports-on-strange-utah-occurrences/)  
+   Link: <a href="https://www.deseret.com/1996/12/12/19282354/universe-reports-on-strange-utah-occurrences/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1996/12/12/19282354/universe-reports-on-strange-utah-occurrences/</a>  
 
 20. <a id="endnote-20"></a>
    Source: deseret.com  
    Title: no ufos or ets have dropped in at spooky ranch  
-   Link: [https://www.deseret.com/1997/4/27/19308958/no-ufos-or-ets-have-dropped-in-at-spooky-ranch/](https://www.deseret.com/1997/4/27/19308958/no-ufos-or-ets-have-dropped-in-at-spooky-ranch/)  
+   Link: <a href="https://www.deseret.com/1997/4/27/19308958/no-ufos-or-ets-have-dropped-in-at-spooky-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/4/27/19308958/no-ufos-or-ets-have-dropped-in-at-spooky-ranch/</a>  
 
 21. <a id="endnote-21"></a>
    Source: deseret.com  
    Title: mysteries of ufo ranch in spotlight  
-   Link: [https://www.deseret.com/2006/4/22/19949762/mysteries-of-ufo-ranch-in-spotlight/](https://www.deseret.com/2006/4/22/19949762/mysteries-of-ufo-ranch-in-spotlight/)  
+   Link: <a href="https://www.deseret.com/2006/4/22/19949762/mysteries-of-ufo-ranch-in-spotlight/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2006/4/22/19949762/mysteries-of-ufo-ranch-in-spotlight/</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
 25. <a id="endnote-25"></a>
    Source: utah.com  
    Title: what is skinwalker ranch and whats really going on there  
-   Link: [https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/](https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/)  
+   Link: <a href="https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
 
 28. <a id="endnote-28"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: [https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation](https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation)  
+   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 30. <a id="endnote-30"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
 31. <a id="endnote-31"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 32. <a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
 33. <a id="endnote-33"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1920313655478136977](https://x.com/grok/status/1920313655478136977)  
+   Link: <a href="https://x.com/grok/status/1920313655478136977" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1920313655478136977</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 35. <a id="endnote-35"></a>
    Source: strange-phenomenon.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.strange-phenomenon.com/zack-van-eyck-show-notes](https://www.strange-phenomenon.com/zack-van-eyck-show-notes)  
+   Link: <a href="https://www.strange-phenomenon.com/zack-van-eyck-show-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.strange-phenomenon.com/zack-van-eyck-show-notes</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
 
 37. <a id="endnote-37"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 38. <a id="endnote-38"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2021/08/the-new-yorkers-credulous-article-on-pentagon-ufos/](https://skepticalinquirer.org/2021/08/the-new-yorkers-credulous-article-on-pentagon-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2021/08/the-new-yorkers-credulous-article-on-pentagon-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/the-new-yorkers-credulous-article-on-pentagon-ufos/</a>  
 
 39. <a id="endnote-39"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: [https://www.intownmag.com/2025/03/archives-of-the-impossible/](https://www.intownmag.com/2025/03/archives-of-the-impossible/)  
+   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
 
 40. <a id="endnote-40"></a>
    Source: theguardian.com  
    Title: pentagon released ufo videos chase aliens  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Scientific Investigation of the Paranormal at Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=R9Z8x63t71M](https://www.youtube.com/watch?v=R9Z8x63t71M)  
+   Link: <a href="https://www.youtube.com/watch?v=R9Z8x63t71M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9Z8x63t71M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AAWSAP Program and Skinwalker Ranch Investigations...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: George Knapp and Colm Kelleher on Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=S38p5S18_6Y](https://www.youtube.com/watch?v=S38p5S18_6Y)  
+   Link: <a href="https://www.youtube.com/watch?v=S38p5S18_6Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S38p5S18_6Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of the Paranormal at Skinwalker Ranch...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: The AAWSAP Program and Skinwalker Ranch Investigations  
-   Link: [https://www.youtube.com/watch?v=TjT2Y7m4Z18](https://www.youtube.com/watch?v=TjT2Y7m4Z18)  
+   Link: <a href="https://www.youtube.com/watch?v=TjT2Y7m4Z18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TjT2Y7m4Z18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critically Examining the Evidence from Skinwalker Ranch...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Critically Examining the Evidence from Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=yW6P4S6z1k4](https://www.youtube.com/watch?v=yW6P4S6z1k4)  
+   Link: <a href="https://www.youtube.com/watch?v=yW6P4S6z1k4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6P4S6z1k4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the NIDS Research Methodology...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/](https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kio3m1/advanced_aerospace_weapon_system_applications/</a>  
 
 46. <a id="endnote-46"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/979637042/Contract-Status-24Aug090001](https://www.scribd.com/document/979637042/Contract-Status-24Aug090001)  
+   Link: <a href="https://www.scribd.com/document/979637042/Contract-Status-24Aug090001" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/979637042/Contract-Status-24Aug090001</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/](https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/</a>  
 
 48. <a id="endnote-48"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/](https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/)  
+   Link: <a href="https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/](https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/409486924678338/posts/1205934131700276/](https://www.facebook.com/groups/409486924678338/posts/1205934131700276/)  
+   Link: <a href="https://www.facebook.com/groups/409486924678338/posts/1205934131700276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/409486924678338/posts/1205934131700276/</a>

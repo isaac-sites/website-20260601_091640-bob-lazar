@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-erased-records-claim/
 description: Focused pages that expand on Erased Records.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_erased_records_claim_782854
-parent_title: Erased Records | Did Bob Lazar's Story Hold Up?
+parent_title: Erased Records
 parent_nav_short_title: Erased Records
 parent_permalink: /erased-records/
 ---

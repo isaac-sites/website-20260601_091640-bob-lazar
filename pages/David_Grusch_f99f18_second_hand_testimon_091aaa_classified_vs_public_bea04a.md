@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hearsay/
 nav_short_title: Public Proof
 title: Why Classified Evidence Cannot Settle Public Doubt
-title_full: Why Classified Evidence Cannot Settle Public Doubt | Hearsay
+title_full: Why Classified Evidence Cannot Settle Public Doubt
 display_title_short: Public Proof
 display_title: Public Proof
 heading_title: Why Classified Evidence Cannot Settle Public Doubt
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why First Hand Evidence Matters Here | Grusch
+parent_title: Why First Hand Evidence Matters Here
 parent_permalink: /hearsay/
 parent_nav_short_title: Hearsay
 parent_heading_title: Why First Hand Evidence Matters Here
@@ -247,7 +247,7 @@ prev_link:
   permalink: /custody-records/
   short_title: Custody Records
   heading_title: Where Would The Paper Trail Be?
-date: '2026-06-09 02:53:35 '
+date: '2026-06-11 21:01:52 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s credibility debate sits in an unusual space between national-security [oversight]({{ 'oversight/' | relative_url }}) and public evidence. Supporters argue that some of his most important information was delivered through classified channels to inspectors general, intelligence committees and cleared officials. Sceptics counter that extraordinary claims cannot be accepted simply because someone says the evidence exists behind closed doors. Both positions contain an element of truth.
-
+David Grusch’s credibility debate sits in an unusual space between national-security [oversight]({{ 'oversight/' | relative_url }}) and public evidence. Supporters argue that some of his most important information was delivered through classified channels to inspectors general, intelligence committees and cleared officials. Sceptics counter that extraordinary claims cannot be accepted simply because someone says the evidence exists behind closed doors. Both positions contain an element of truth.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-1-dark.svg" | relative_url }}" alt="Public Proof illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central issue is not whether classified information can be important. Governments routinely investigate sensitive allegations in secure settings. The problem is that classified disclosure and public proof are not the same thing. Grusch’s claims about alleged crash-retrieval and reverse-engineering programmes may be serious enough to justify official review, yet still remain unproven to the public if the underlying witnesses, documents, materials and technical findings cannot be independently examined. That tension explains why his testimony has generated congressional interest while leaving many observers unconvinced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">House Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer fo...</span><span class="citation-popover-meta">Published: July 23, 2023</span></span></span>
@@ -269,7 +268,6 @@ Grusch has consistently said that he supplied more detailed information through 
 From an oversight perspective, that matters. Congressional committees, inspectors general and cleared investigators are often expected to handle allegations involving sensitive military programmes, intelligence sources or classified technologies. A whistleblower who publicly disclosed everything they knew could potentially violate security laws or compromise legitimate government activities.
 
 However, classified disclosure has limits when the question becomes public credibility rather than institutional procedure. Outside observers cannot independently verify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,6 @@ Yet a procedural path is not the same as evidential confirmation. An allegation 
 One reason the Grusch story produces such different reactions is that oversight institutions and the general public ask different questions.
 
 Congressional investigators may ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +330,6 @@ The existence of a complaint, briefing or review does not necessarily reveal wha
 
 That uncertainty allows both supporters and critics to project conclusions beyond what has actually been disclosed.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-2-dark.svg" | relative_url }}" alt="Public Proof illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Public Doubt Persists Despite Closed Briefings
 
@@ -346,7 +342,6 @@ The strongest sceptical response is equally straightforward: if the public canno
 This is not merely a philosophical disagreement. It reflects a practical problem of chain of custody.
 
 To establish a claim as extraordinary as the possession of non-human technology, investigators would normally want access to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -362,7 +357,6 @@ To establish a claim as extraordinary as the possession of non-human technology,
 None of those elements have been publicly demonstrated in a way that allows independent verification.
 
 As a result, public debate often circles around trust rather than evidence. Supporters trust Grusch's credentials, access and apparent willingness to testify under oath. Critics argue that credentials cannot substitute for demonstrable proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Crashed UFOs?</span><span class="citation-popover-snippet">Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — As startling as his testimony was, Grusch did not offer firsthand accounts or corrobor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">ex intelligence official us government ufo</span><span class="citation-popover-snippet">Boston UniversityIs the Government Concealing UFO Craft and Dead...22 Jun 2023 — The world of UFO watchers is abuzz over former intellig...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7KzM1uePVpE" title="&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer">&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing</a></p><p class="youtube-embed-meta">Channel: 6abc Philadelphia &middot; Views: 1.6K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7KzM1uePVpE">Open on YouTube</a></p></div></div></div>
 
@@ -390,12 +384,11 @@ Examples include:
 
 **Physical materials.** Samples subjected to transparent, repeatable scientific analysis would move the discussion beyond testimony alone.
 
-**Corroborated technical findings.** Independent laboratories reaching similar conclusions would strengthen confidence that [unusual materials]({{ 'material-claims/' | relative_url }}) were not simply misidentified conventional technology.
+**Corroborated technical findings.** Independent laboratories reaching similar conclusions would strengthen confidence that unusual materials were not simply misidentified conventional technology.
 
 **Consistent institutional findings.** Agreement across inspectors general, congressional investigators, defence agencies and outside experts would reduce uncertainty created by competing claims.
 
 Without such evidence, the debate remains trapped between secrecy and belief.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-3-dark.svg" | relative_url }}" alt="Public Proof illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa_classified_vs_public_bea04a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Credibility Tension
@@ -422,16 +415,16 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book: Top Secret UFO Files: The Untold Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xz6vuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book: Top Secret UFO Files: The Untold Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By John Scott Chace</p>
         
-        <p class="fr-book-desc">Directly addresses the gap between official investigations and public proof.</p>
+        <p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -439,16 +432,16 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Shows how classified activity can generate speculation while limiting public verification.</p>
+        <p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -456,16 +449,16 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Could UFO&#x27;s be real? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3966518-M.jpg" alt="Cover for Could UFO&#x27;s be real?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Larry Koss</p>
         
-        <p class="fr-book-desc">Explains how secret programs operate and why public access is limited.</p>
+        <p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -473,16 +466,16 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Almanac of Alien Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RXX5BGt7QjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Almanac of Alien Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almanac of Alien Encounters">Almanac of Alien Encounters</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Eric Elfman</p>
         
-        <p class="fr-book-desc">Frames the difference between claims, authority and publicly testable evidence.</p>
+        <p class="fr-book-desc">A historical overview of alien encounters, from Archbishop Agobard of Lyons&#x27;s ninth-century encounter with the occupants of a &quot;cloudship&quot;...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -490,7 +483,7 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: Top Secret UFO Files: The Untold Truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Could UFO&#x27;s be real?</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -527,15 +520,15 @@ At present, neither side has fully resolved the problem. Classified disclosures 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +536,15 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010"><img src="{{ '/assets/images/marketplace-covers/43f101947a052715dbff.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +552,15 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/dca3b3f2a8ad218bfe80.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +568,15 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Alien | Kit Made With Real LEGO"><img src="{{ '/assets/images/marketplace-covers/4544821242366bb2d0e3.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Alien | Kit Made With Real LEGO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Alien | Kit Made With Real LEGO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +584,7 @@ At present, neither side has fully resolved the problem. Classified disclosures 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="public-proof-why-classified-evidence-cannot-settle-public-doubt-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-classified-evidence-cannot-settle-public-doubt-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-classified-evidence-cannot-settle-public-doubt-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -807,104 +800,104 @@ At present, neither side has fully resolved the problem. Classified disclosures 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Opening Statement  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening StatementJuly 23, 2023 — 25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer fo...</p></details>
    Published: July 23, 2023  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-[hearing](https://time.com/6298287/congress-ufo-[hearing)  
+   Link: <a href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-[hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.northeastern.edu  
    Title: Global News Crashed UFOs?  
-   Link: [https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/](https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/)  
+   Link: <a href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — As startling as his testimony was, Grusch did not offer firsthand accounts or corrobor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24-F-0266.pdf8 Jan 2024 — David Grusch for the purpose of conducting an oral history interview in support of the. Congressionally directe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims](https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims)  
+   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — UFO whistleblower tells Congress the US government is hiding evidence o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: uap ufo briefing house inspector general intelligence community  
-   Link: [https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/](https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/)  
+   Link: <a href="https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsLawmakers investigating UAPs, or UFOs, remain frustrated...Jan 12, 2024 — House lawmakers emerging from a classified, closed-doo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsUFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — Grusch served as a representative on two Pentagon task forc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bu.edu  
    Title: ex intelligence official us government ufo  
-   Link: [https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/](https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/)  
+   Link: <a href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityIs the Government Concealing UFO Craft and Dead...22 Jun 2023 — The world of UFO watchers is abuzz over former intellig...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear testim...</p></details>
    Published: June 26, 2023  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/](https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/)  
+   Link: <a href="https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government UAP crash retrieval and reverse...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/six-members-of-congress-demanded-answers-from-the-inspector-general-about-allege/853609413019217/](https://www.facebook.com/fox6news/posts/six-members-of-congress-demanded-answers-from-the-inspector-general-about-allege/853609413019217/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/six-members-of-congress-demanded-answers-from-the-inspector-general-about-allege/853609413019217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/six-members-of-congress-demanded-answers-from-the-inspector-general-about-allege/853609413019217/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cret UFO programs that whistleblower David Grusch...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/physicsisfun109/posts/947525991259579/](https://www.facebook.com/groups/physicsisfun109/posts/947525991259579/)  
+   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/947525991259579/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/947525991259579/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>int to Congress and the Intelligence Community Inspector...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/](https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/)  
+   Link: <a href="https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or UFO - crash sites, according to a former intelligence official speaking...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: metabunk.org  
-   Title: [david gruschs](&#123;&#123; 'how-credible-is-david-grusch/' | relative_url &#125;&#125;) dopsr cleared statement and ig complaint.12989  
-   Link: [https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/](https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/)  
+   Title: david gruschs dopsr cleared statement and ig complaint.12989  
+   Link: <a href="https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s DOPSR Cleared Statement and IG Complaint13 Jun 2023 — MonkeeSage said: I wonder if he actually did testify to Congress abo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower tells Congress the U.S. is concealing...Retired Maj. David Grusch&#x27;s highly anticipated testimony before a House Ove...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/](https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Grusch provided 11 hours of classified testimonyI want to start with I believe fully the credibility of David Grusch - can&#x27;t be 100% on h...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/](https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/)  
+   Link: <a href="https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>leging he was retaliated against after going to Congress with...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>

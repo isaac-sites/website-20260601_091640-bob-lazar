@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics-8407e0/
 nav_short_title: Raw Data Gap
 title: Where is the raw data behind the claims?
-title_full: Where is the raw data behind the claims? | Sceptics
+title_full: Where is the raw data behind the claims?
 display_title_short: Raw Data Gap
 display_title: Raw Data Gap
 heading_title: Where is the raw data behind the claims?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Are Sceptics Unconvinced by Taylor? | Taylor
+parent_title: Why Are Sceptics Unconvinced by Taylor?
 parent_permalink: /sceptics-8407e0/
 parent_nav_short_title: Sceptics
 parent_heading_title: Why Are Sceptics Unconvinced by Taylor?
@@ -253,7 +253,7 @@ next_link:
   permalink: /sensor-spikes/
   short_title: Sensor Spikes
   heading_title: Do ranch sensor spikes prove anything?
-date: '2026-06-09 03:10:36 '
+date: '2026-06-11 21:08:38 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1.webp
@@ -264,7 +264,6 @@ image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_da
 
 One of the most persistent sceptical criticisms of [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) is not that he lacks technical qualifications, but that the most dramatic claims associated with his investigations have not been accompanied by the full underlying datasets needed for independent verification. Viewers of *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* are shown selected measurements, sensor alerts, unusual readings, drone anomalies, GPS disruptions and apparent aerial phenomena. What they are generally not given are complete raw logs, calibration records, environmental baselines, instrument settings, chain-of-custody documentation and full datasets that outside specialists could inspect for themselves.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1-dark.svg" | relative_url }}" alt="Raw Data Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [sceptics]({{ 'sceptics-8407e0/' | relative_url }}), this is the central weakness in the public case. Scientific credibility depends less on who collected the data than on whether others can review, challenge and reproduce the findings. The criticism is therefore not mainly about Taylor's background. It is about the gap between televised evidence and releaseable evidence.
 
@@ -273,7 +272,6 @@ For [sceptics]({{ 'sceptics-8407e0/' | relative_url }}), this is the central wea
 Most of the evidence presented through the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch investigations reaches the public in a highly filtered form. Episodes typically show selected moments from experiments involving rockets, lidar scans, GPS systems, radio-frequency monitoring equipment, ground-penetrating radar, thermal cameras and other instruments.
 
 Viewers may see:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -315,10 +313,9 @@ If researchers claim that a sensor detected something genuinely unexplained, out
 
 In the UAP field, these requirements become even more important because many reported anomalies can arise from sensor artefacts, atmospheric effects, tracking errors or software interpretation problems.
 
-NASA's 2023 independent UAP study highlighted exactly these issues, stating that analysis is frequently hindered by poor calibration, missing metadata, lack of multiple measurements and insufficient baseline information. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> Sceptics therefore argue that the same standards should apply to Taylor's public [claims]({{ 'claims/' | relative_url }}). If an object appears to move strangely on camera, analysts need the original file rather than an edited television clip. If a sensor records an anomaly, analysts need the complete measurement record rather than a screenshot.
+NASA's 2023 independent UAP study highlighted exactly these issues, stating that analysis is frequently hindered by poor calibration, missing metadata, lack of multiple measurements and insufficient baseline information. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> Sceptics therefore argue that the same standards should apply to Taylor's public [claims]({{ 'claims/' | relative_url }}). If an object appears to move strangely on camera, analysts need the original file rather than an edited television clip. If a sensor records an anomaly, analysts need the complete measurement record rather than a screenshot.
 
 The key point is that independent review requires access to the information that generated the conclusion, not merely the conclusion itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoqCNj9v9O0" title="High-Tech Materials Discovered Deep in Mesa (Season 6) | The Secret of Skinwalker Ranch | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoqCNj9v9O0" target="_blank" rel="noopener noreferrer">High-Tech Materials Discovered Deep in Mesa (Season 6) | The Secret of Skinwalker Ranch | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 799.9K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoqCNj9v9O0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoqCNj9v9O0">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ Several recurring Skinwalker Ranch themes illustrate why critics keep returning 
 The programme has repeatedly featured GPS devices appearing to jump position, report incorrect altitude or behave unexpectedly around specific areas of the ranch.
 
 To evaluate such claims rigorously, independent specialists would normally want:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -354,7 +350,6 @@ Sceptics note that meaningful evaluation requires more than a detector briefly s
 
 A radiation specialist would typically want:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Instrument calibration certificates.
@@ -369,7 +364,6 @@ A radiation specialist would typically want:
 
 Without those records, outsiders cannot easily determine whether a measurement reflects a significant event, a transient fluctuation or an instrumentation issue.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-2-dark.svg" | relative_url }}" alt="Raw Data Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radio-frequency events
 
@@ -378,7 +372,6 @@ The ranch investigations frequently reference unusual radio-frequency signals an
 Again, sceptics focus on missing context rather than outright dismissal. Radio-frequency environments are often complex. Civilian communications systems, satellites, aircraft systems and terrestrial transmitters can generate unexpected readings.
 
 Independent analysts would normally request:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -392,7 +385,6 @@ Independent analysts would normally request:
 </div>
 
 The absence of comprehensive public releases means outside experts cannot perform that assessment themselves.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WSsi3Q-vZXg" title="Old Photos, New Evidence: Mesa Hides Advanced Tech Materials (S6) | The Secret of Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WSsi3Q-vZXg" target="_blank" rel="noopener noreferrer">Old Photos, New Evidence: Mesa Hides Advanced Tech Materials (S6) | The Secret of Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 785.6K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WSsi3Q-vZXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WSsi3Q-vZXg">Open on YouTube</a></p></div></div></div>
 
@@ -415,7 +407,6 @@ NASA's recent UAP work has repeatedly stressed transparency, metadata quality an
 
 For sceptics, that principle applies equally to Skinwalker Ranch. The debate is not primarily about whether Taylor is intelligent or experienced. It is about whether the evidence can stand apart from the investigator.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-3-dark.svg" | relative_url }}" alt="Raw Data Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supporters argue more data may exist than the public sees
 
@@ -423,7 +414,7 @@ Supporters of the ranch investigations often make a different argument.
 
 They note that a television programme cannot realistically publish every sensor log or technical file during an episode. They also argue that some information may be proprietary, connected to ongoing investigations or simply too large and specialised for broadcast presentation.
 
-Within fan communities, defenders frequently argue that the programme only shows a small fraction of the material collected and that substantial archives may exist behind the scenes. Some supporters also contend that repeated anomalous events across multiple seasons suggest the team is observing something worthy of further investigation even if every dataset has not been released publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker</span><span class="citation-popover-snippet">RedditOff The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">e-engineering UAP. Is Travis involved? r/skinwalkerranch...Read more...</span></span></span>
+Within fan communities, defenders frequently argue that the programme only shows a small fraction of the material collected and that substantial archives may exist behind the scenes. Some supporters also contend that repeated anomalous events across multiple seasons suggest the team is observing something worthy of further investigation even if every dataset has not been released publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker</span><span class="citation-popover-snippet">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">e-engineering UAP. Is Travis involved? r/skinwalkerranch...Read more...</span></span></span>
 
 That position does not necessarily resolve the sceptical objection, however. Critics respond that evidence unavailable for independent inspection cannot meaningfully strengthen a public scientific claim. An unseen dataset may exist, but outsiders cannot evaluate its quality until it is released.
 
@@ -431,12 +422,11 @@ That position does not necessarily resolve the sceptical objection, however. Cri
 
 One reason the raw-data criticism persists is that other UAP-focused scientific projects increasingly emphasise transparent data collection.
 
-Projects such as Harvard's Galileo Project have publicly described systems designed around calibrated sensors, data provenance, multimodal observations and structured archiving intended for external review. Their published discussions repeatedly identify missing metadata, fragmented observations and poor calibration as major weaknesses in previous UAP investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Projects such as Harvard's Galileo Project have publicly described systems designed around calibrated sensors, data provenance, multimodal observations and structured archiving intended for external review. Their published discussions repeatedly identify missing metadata, fragmented observations and poor calibration as major weaknesses in previous UAP investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 Sceptics argue that this comparison highlights the central issue. The question is not whether unusual events occur at the ranch. The question is whether the public has received enough information to evaluate those events independently.
 
 In that sense, the strongest challenge to Taylor's public proof is also one of the simplest: if the most compelling anomalies are as significant as claimed, many critics argue that the decisive next step would be release of the complete datasets, not additional dramatic footage.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nahw4UYcCcM" title="Aerial Radar Deployed 12,000 Feet in the Air (S6) | The Secret of Skinwalker Ranch | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nahw4UYcCcM" target="_blank" rel="noopener noreferrer">Aerial Radar Deployed 12,000 Feet in the Air (S6) | The Secret of Skinwalker Ranch | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 228.3K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nahw4UYcCcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nahw4UYcCcM">Open on YouTube</a></p></div></div></div>
 
@@ -571,15 +561,15 @@ Until more of the underlying sensor records, calibration information, metadata a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +577,15 @@ Until more of the underlying sensor records, calibration information, metadata a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +593,15 @@ Until more of the underlying sensor records, calibration information, metadata a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/7e41c81d7e4333fac25a.jpg' | relative_url }}" alt="Listing image for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +609,15 @@ Until more of the underlying sensor records, calibration information, metadata a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,7 +625,7 @@ Until more of the underlying sensor records, calibration information, metadata a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="raw-data-gap-where-is-the-raw-data-behind-the-claims-travis-taylor-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-is-the-raw-data-behind-the-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="where-is-the-raw-data-behind-the-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -851,166 +841,166 @@ Until more of the underlying sensor records, calibration information, metadata a
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: axios.com  
    Title: NASA releases new UAP report, and finds no evidence of aliens  
-   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
+   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Off The Ranch: "Show Us The Raw Data" with Skinwalker  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/](https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditOff The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</p></details>
    Published: June 16, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/](https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dotsg9/have_travis_or_eric_published_any_papers_on_swr/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e-engineering UAP. Is Travis involved? r/skinwalkerranch...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/](https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/](https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e? It would give the show a lot of credibility, unless they...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/](https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>make this as short as possible. I’m a bit concerned at the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/](https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/)  
+   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/uv5po6/travis_taylor_uapx_secret_of_skinwalker_ranch_and/](https://www.reddit.com/r/skinwalkerranch/comments/uv5po6/travis_taylor_uapx_secret_of_skinwalker_ranch_and/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/uv5po6/travis_taylor_uapx_secret_of_skinwalker_ranch_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/uv5po6/travis_taylor_uapx_secret_of_skinwalker_ranch_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>they are telling Travis Taylor about the tech they are using and...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: you should know that the people promoting ufos  
-   Link: [https://www.reddit.com/r/skeptic/comments/1fjk1k7/you_should_know_that_the_people_promoting_ufos/](https://www.reddit.com/r/skeptic/comments/1fjk1k7/you_should_know_that_the_people_promoting_ufos/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1fjk1k7/you_should_know_that_the_people_promoting_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1fjk1k7/you_should_know_that_the_people_promoting_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>operated from 1995-2004 and never presented any credible evidence for the supposed UFO and paranormal occurrences at Skinwal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: Why not publish in scientific journals?  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/](https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchI just started watching Secrets of Skinwalker Ranch, and I&#x27;m pretty intrigued. Initially I dismissed Skinwalker Ranch as...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/](https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 —... (UAP) is limited by poor data quality and incomplete data sets. Existing data are often fragmented, uncal...</p></details>
    Published: May 2025  
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement](https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement)  
+   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical](https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical)  
+   Link: <a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...14 Oct 2025 — The &quot;Triangle&quot; region of Skinwalker Ranch exhibits a constella...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/reviewing-some-equipment-being-utilized-at-the-skinwalker-ranch-for-experiments-/615926420183212/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/reviewing-some-equipment-being-utilized-at-the-skinwalker-ranch-for-experiments-/615926420183212/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/reviewing-some-equipment-being-utilized-at-the-skinwalker-ranch-for-experiments-/615926420183212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/reviewing-some-equipment-being-utilized-at-the-skinwalker-ranch-for-experiments-/615926420183212/</a>  
 
 25. <a id="endnote-25"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series](https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series)  
+   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor makes a very good point about the use of the word paranormal to describe what goes on at Skinwalker Ranch, though I&#x27;ll admit...Re...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt27545978/](https://www.imdb.com/title/tt27545978/)  
+   Link: <a href="https://www.imdb.com/title/tt27545978/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27545978/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 25, 2023 (United States); Filming locations · Skinwalker Ranch, Ballard, Utah, USA; Production companies · Prometheus...Read more...</p></details>
    Published: April 25, 2023  
 
 27. <a id="endnote-27"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: uah.edu  
-   Link: [https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch](https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch)  
+   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: salon.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial partner  
-   Link: [https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/](https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/)  
+   Link: <a href="https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP data considered by the study team comes from U.S. military aircraft. Analysis of this data is “hampered by poor sensor calibration, t...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And not one that would provide a meaningful return on investment. My motivation in...Read more...</p></details>

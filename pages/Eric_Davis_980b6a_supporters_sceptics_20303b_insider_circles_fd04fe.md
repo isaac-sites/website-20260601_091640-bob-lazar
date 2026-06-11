@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /debate/
 nav_short_title: Insider circles
 title: When does a source network become an echo chamber?
-title_full: When does a source network become an echo chamber? | Debate
+title_full: When does a source network become an echo chamber?
 display_title_short: Insider circles
 display_title: Insider circles
 heading_title: When does a source network become an echo chamber?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Reasonable Readers Split On Davis | Davis
+parent_title: Why Reasonable Readers Split On Davis
 parent_permalink: /debate/
 parent_nav_short_title: Debate
 parent_heading_title: Why Reasonable Readers Split On Davis
@@ -247,7 +247,7 @@ prev_link:
   permalink: /guarded-comments/
   short_title: Guarded comments
   heading_title: Does Davis's silence help or hurt him?
-date: '2026-06-09 03:03:21 '
+date: '2026-06-11 21:07:02 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circl
 
 ## Introduction
 
-One of the most persistent questions in the [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) credibility [debate]({{ 'debate/' | relative_url }}) is whether repeated UAP insider claims represent multiple independent sources or a relatively small network repeating and reinforcing the same underlying story. This matters because many of the strongest claims associated with Davis — alleged crash-retrieval programmes, hidden contractor projects, and recovered non-human technology — are not supported by publicly available physical evidence. Their apparent strength often comes from the number of insiders, officials, researchers and former government figures who seem to point in a similar direction.
-
+One of the most persistent questions in the Eric Davis credibility [debate]({{ 'debate/' | relative_url }}) is whether repeated UAP insider claims represent multiple independent sources or a relatively small network repeating and reinforcing the same underlying story. This matters because many of the strongest claims associated with Davis — alleged crash-retrieval programmes, hidden contractor projects, and recovered non-human technology — are not supported by publicly available physical evidence. Their apparent strength often comes from the number of insiders, officials, researchers and former government figures who seem to point in a similar direction.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1-dark.svg" | relative_url }}" alt="Insider circles illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Supporters argue that recurring names around Davis reflect genuine access to restricted information. Sceptics argue that the same small circle has circulated similar claims for decades, creating an appearance of corroboration without producing independent verification. The reliability question therefore becomes less about any single statement and more about how information moves through UAP insider networks.
@@ -274,7 +273,6 @@ Sceptics view the same pattern differently. They note that repeated references t
 
 This distinction is especially important in UAP cases because many claims involve restricted programmes that cannot be publicly inspected. Once documentary access is limited, credibility often shifts from evidence to networks of trust.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c8k1xa5P4Jg" title="U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer">U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’</a></p><p class="youtube-embed-meta">Channel: The Daily Wire &middot; Views: 52.3K &middot; Uploaded: July 2020 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c8k1xa5P4Jg">Open on YouTube</a></p></div></div></div>
 
 ## How repetition can inflate weak claims
@@ -282,7 +280,6 @@ This distinction is especially important in UAP cases because many claims involv
 A recurring problem in intelligence analysis, journalism and historical research is circular reporting. A claim may appear to be supported by several sources when, in reality, those sources trace back to the same origin.
 
 In the Davis debate, sceptics argue that this risk is unusually high because many headline claims involve:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,16 +291,15 @@ In the Davis debate, sceptics argue that this risk is unusually high because man
 
 </div>
 
-The Wilson-Davis memo illustrates the problem. The document, which appeared publicly years after its alleged creation, purports to summarise a 2002 conversation in which Wilson discussed being denied access to a deeply compartmentalised UFO-related programme. The memo became influential because it appeared to connect a senior military intelligence figure with crash-retrieval allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+The Wilson-Davis memo illustrates the problem. The document, which appeared publicly years after its alleged creation, purports to summarise a 2002 conversation in which Wilson discussed being denied access to a deeply compartmentalised UFO-related programme. The memo became influential because it appeared to connect a senior military intelligence figure with crash-retrieval allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
-However, the memo's evidential value remains disputed. Wilson has publicly denied the account, while Davis has generally declined to discuss authenticity in detail. Supporters view the denials as potentially consistent with secrecy obligations or damage-control behaviour. Sceptics argue that a document cannot become self-validating simply because it circulates widely within disclosure circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditComplete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</span><span class="citation-popover-meta">Published: June 13, 2021</span></span></span>
+However, the memo's evidential value remains disputed. Wilson has publicly denied the account, while Davis has generally declined to discuss authenticity in detail. Supporters view the denials as potentially consistent with secrecy obligations or damage-control behaviour. Sceptics argue that a document cannot become self-validating simply because it circulates widely within disclosure circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Complete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</span><span class="citation-popover-meta">Published: June 13, 2021</span></span></span>
 
 The reliability risk emerges when later claims appear to confirm the memo but ultimately derive from people already familiar with it. In that situation, apparent corroboration may actually be repetition.
 
 The same issue appears in reporting about alleged recovered craft. Davis's reported statements about briefings concerning "off-world vehicles" became widely cited after major media coverage in 2020. Those reports significantly increased public attention because they linked extraordinary claims to a known defence consultant rather than an anonymous source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span>
 
 Yet sceptics note that subsequent discussion often involved commentators and researchers already connected to the same disclosure ecosystem. The question therefore becomes whether later references constitute new evidence or merely reactions to the original claim.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-2-dark.svg" | relative_url }}" alt="Insider circles illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why insider status can cut both ways
@@ -320,7 +316,6 @@ This distinction matters because a source can be honest, technically qualified a
 
 For sceptics, the strongest caution is that many of the most dramatic UAP assertions associated with Davis remain largely testimonial. The chain of custody often runs through conversations, meetings, notes or classified briefings rather than publicly inspectable artefacts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yIqkazIZh9I" title="The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yIqkazIZh9I" target="_blank" rel="noopener noreferrer">The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 52.9K &middot; Uploaded: January 2024 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yIqkazIZh9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yIqkazIZh9I">Open on YouTube</a></p></div></div></div>
 
 ## What independent corroboration would need to show
@@ -328,7 +323,6 @@ For sceptics, the strongest caution is that many of the most dramatic UAP assert
 The central issue is not whether several people believe similar things. It is whether separate evidence streams converge without depending on the same network.
 
 For a crash-retrieval or reverse-engineering claim associated with Davis to move beyond the insider-circle problem, corroboration would ideally involve multiple elements:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,10 +335,9 @@ For a crash-retrieval or reverse-engineering claim associated with Davis to move
 
 </div>
 
-This is why debates over the Wilson-Davis memo remain unresolved. Even supporters who consider the document potentially authentic generally acknowledge that it is not equivalent to a verified government record. The memo may describe a real conversation, a mistaken account, an incomplete account or something else entirely. Publicly available evidence has not settled the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+This is why debates over the Wilson-Davis memo remain unresolved. Even supporters who consider the document potentially authentic generally acknowledge that it is not equivalent to a verified government record. The memo may describe a real conversation, a mistaken account, an incomplete account or something else entirely. Publicly available evidence has not settled the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 The same principle applies to broader claims about recovered technology. Repetition across interviews, podcasts, conferences and media reports can increase visibility, but it does not automatically increase evidential strength. Independent confirmation requires new information, not merely additional retellings.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-3-dark.svg" | relative_url }}" alt="Insider circles illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When does a source network become an echo chamber?
@@ -359,9 +352,7 @@ The key reliability risk surrounding Davis is therefore not necessarily fabricat
 
 That risk does not prove the claims are false. It does mean that readers assessing Davis's credibility should separate three different things: verified professional access, sincere insider testimony, and independently corroborated evidence. In the modern UAP debate, those categories are often discussed together, but they are not the same.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9bch2wPkm5c" title="The Secret Memo That Changed EVERYTHING!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer">The Secret Memo That Changed EVERYTHING!</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 2.9K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9bch2wPkm5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9bch2wPkm5c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -480,15 +471,15 @@ That risk does not prove the claims are false. It does mean that readers assessi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="https://i.ebayimg.com/images/g/hhQAAOSwq-Jemtmx/s-l225.jpg" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +487,15 @@ That risk does not prove the claims are false. It does mean that readers assessi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Michael Schenker Photo Original Black And White Press Promo November 1985"><img src="https://i.ebayimg.com/images/g/2IEAAOSwxQBnMgB1/s-l225.jpg" alt="Listing image for UFO Michael Schenker Photo Original Black And White Press Promo November 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Michael Schenker Photo Original Black And White Press Promo November 1985</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +503,15 @@ That risk does not prove the claims are false. It does mean that readers assessi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="https://i.ebayimg.com/images/g/~EEAAeSwJyFoFLyk/s-l225.jpg" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +519,15 @@ That risk does not prove the claims are false. It does mean that readers assessi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG"><img src="https://i.ebayimg.com/images/g/jpMAAeSwc51pci-9/s-l225.jpg" alt="Listing image for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +535,7 @@ That risk does not prove the claims are false. It does mean that readers assessi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="insider-circles-when-does-a-source-network-become-an-echo-chamber-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="when-does-a-source-network-become-an-echo-chamber-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,105 +751,105 @@ That risk does not prove the claims are false. It does mean that readers assessi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 2. <a id="endnote-2"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/](https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditComplete Summary of [Wilson Davis Memo](&amp;#123;&amp;#123; &#x27;wilson-memo/&#x27; | relative_url &amp;#125;&amp;#125;): r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</p></details>
    Published: June 13, 2021  
 
 4. <a id="endnote-4"></a>
    Source: podcasts.nu  
    Title: What Is The [Wilson Memo](&#123;&#123; 'wilson-memo/' | relative_url &#125;&#125;) and Is It Real?  
-   Link: [https://podcasts.nu/avsnitt/vetted-the-ufo-sleuth/what-is-the-wilson-memo-and-is-it-real-Z-1U0UXZY](https://podcasts.nu/avsnitt/vetted-the-ufo-sleuth/what-is-the-wilson-memo-and-is-it-real-Z-1U0UXZY)  
+   Link: <a href="https://podcasts.nu/avsnitt/vetted-the-ufo-sleuth/what-is-the-wilson-memo-and-is-it-real-Z-1U0UXZY" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.nu/avsnitt/vetted-the-ufo-sleuth/what-is-the-wilson-memo-and-is-it-real-Z-1U0UXZY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VettedDavis and Admiral Thomas Wilson. They discuss UFO crash retrieval programs that Admiral Wilson was being denied access to and much...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/](https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context on &quot;Wilson-Davis memo&quot;?: r/aliensI recently came across this doc just from surface level google searching, which for now has bee...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/149nmmh/i_just_read_the_wilsondavis_notes_that_were/](https://www.reddit.com/r/UFOs/comments/149nmmh/i_just_read_the_wilsondavis_notes_that_were/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/149nmmh/i_just_read_the_wilsondavis_notes_that_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/149nmmh/i_just_read_the_wilsondavis_notes_that_were/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dolan... Dolan doesn&#x27;t necessarily produce any additional hard evidence, but a denial...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nymag.com  
    Title: ufo report pentagon has off world vehicles not from earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...24 Jul 2020 — The latest UFO report from the &#x27;Times&#x27; says a de...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69](https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69)  
+   Link: <a href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe Wilson MemoThe document appeared to be the notes of a conversation that a physicist named Eric Dav...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: github.com  
-   Link: [https://github.com/richgel999/uap_resources](https://github.com/richgel999/uap_resources)  
+   Link: <a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis has been saying in public: There have been crashes, there&#x27;s an R&amp;D program, etc. It mentions Dr. Eric W Davis (...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: 2020 is going to get a lot crazier pentagon ufo program slides obtained and publ  
-   Link: [https://www.facebook.com/102edge/posts/2020-is-going-to-get-a-lot-crazier-pentagon-ufo-program-slides-obtained-and-publ/10158338252219280/](https://www.facebook.com/102edge/posts/2020-is-going-to-get-a-lot-crazier-pentagon-ufo-program-slides-obtained-and-publ/10158338252219280/)  
+   Link: <a href="https://www.facebook.com/102edge/posts/2020-is-going-to-get-a-lot-crazier-pentagon-ufo-program-slides-obtained-and-publ/10158338252219280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/102edge/posts/2020-is-going-to-get-a-lot-crazier-pentagon-ufo-program-slides-obtained-and-publ/10158338252219280/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO program...29 Jul 2020 — 2020 is going to get a lot crazier. Pentagon UFO program slides obtained and published by the NYT a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bild.de  
    Title: beweist dieses dokument dass die usa truemmer von ufos besitzen 80308326.bild  
-   Link: [https://www.bild.de/bild-plus/news/ausland/news-ausland/beweist-dieses-dokument-dass-die-usa-truemmer-von-ufos-besitzen-80308326.bild.html](https://www.bild.de/bild-plus/news/ausland/news-ausland/beweist-dieses-dokument-dass-die-usa-truemmer-von-ufos-besitzen-80308326.bild.html)  
+   Link: <a href="https://www.bild.de/bild-plus/news/ausland/news-ausland/beweist-dieses-dokument-dass-die-usa-truemmer-von-ufos-besitzen-80308326.bild.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bild.de/bild-plus/news/ausland/news-ausland/beweist-dieses-dokument-dass-die-usa-truemmer-von-ufos-besitzen-80308326.bild.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rätsel um dieses UFO-Papier im US-Kongress10 Jun 2022 — Angeblich handelt es sich beim &quot;Wilson-Davis-Memo&quot; um die Mitschrift eines Gesprä...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2Ev54fsDMdg](https://www.youtube.com/watch?v=2Ev54fsDMdg)  
+   Link: <a href="https://www.youtube.com/watch?v=2Ev54fsDMdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Ev54fsDMdg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteriöses UFO-Papier aufgetaucht: Beweis oder genialer...UFO-Begegnungen beschäftigen die Menschheit seit Jahrhunderten, US-Kampfpilot...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: creators.spotify.com  
-   Link: [https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa](https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa)  
+   Link: <a href="https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/vettedufo...No](https://creators.spotify.com/pod/profile/vettedufo...No) information is available for this page...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT](https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT)  
+   Link: <a href="https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis and Admiral Thomas Wilson concerning UFOs. It was reportedly found in the...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... Eric-Davis-meeting-with-Adm-Wilson. (PUBLIC DOMAIN) - May 2002 — Ret. Ar...</p></details>
    Published: May 2002  
 
 18. <a id="endnote-18"></a>
    Source: thecontactreport.com  
-   Link: [https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/](https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/)  
+   Link: <a href="https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/" target="_blank" rel="noopener noreferrer nofollow">https://thecontactreport.com/the-davis-wilson-memo-inside-the-most-controversial-ufo-document-of-the-modern-era/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These notes describe Wilson&#x27;s frustration after being denied access to a deeply...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: amazon.com  
    Title: Eric Davis and Admiral Thomas Wilson (UFO/UAP Documents of Interest).Read more  
-   Link: [https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT](https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT)  
+   Link: <a href="https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wilson-Davis Memo: An Interview About UAPs and...The Wilson-Davis Memo: An Interview About UAPs and Reverse Engineering Between Dr...</p></details>

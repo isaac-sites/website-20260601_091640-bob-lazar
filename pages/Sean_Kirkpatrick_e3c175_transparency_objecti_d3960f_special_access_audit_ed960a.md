@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /transparency/
 nav_short_title: Audit trail
 title: What did AARO actually check?
-title_full: What did AARO actually check? | Transparency
+title_full: What did AARO actually check?
 display_title_short: Audit trail
 display_title: Audit trail
 heading_title: What did AARO actually check?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can The Public Trust A Classified Review? | Kirkpatrick
+parent_title: Can The Public Trust A Classified Review?
 parent_permalink: /transparency/
 parent_nav_short_title: Transparency
 parent_heading_title: Can The Public Trust A Classified Review?
@@ -247,7 +247,7 @@ next_link:
   permalink: /disclosure-model/
   short_title: Disclosure model
   heading_title: The transparency process critics wanted instead
-date: '2026-06-09 02:58:48 '
+date: '2026-06-11 21:04:44 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_specia
 
 ## Introduction
 
-One of the most specific [transparency]({{ 'transparency/' | relative_url }}) criticisms directed at [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s tenure at the All-domain Anomaly Resolution Office (AARO) concerns neither his scientific qualifications nor the office’s formal authority. It concerns the audit trail. AARO stated that it examined classified and unclassified records, interviewed witnesses, and worked with officials responsible for overseeing highly restricted programmes, including Special Access Programmes (SAPs). It then concluded that it found no evidence of a hidden UAP reverse-engineering effort, no verified extraterrestrial technology, and no indication that relevant UAP programmes had been improperly concealed from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</span></span></span>
-
+One of the most specific [transparency]({{ 'transparency/' | relative_url }}) criticisms directed at Sean Kirkpatrick’s tenure at the All-domain Anomaly Resolution Office (AARO) concerns neither his scientific qualifications nor the office’s formal authority. It concerns the audit trail. AARO stated that it examined classified and unclassified records, interviewed witnesses, and worked with officials responsible for overseeing highly restricted programmes, including Special Access Programmes (SAPs). It then concluded that it found no evidence of a hidden UAP reverse-engineering effort, no verified extraterrestrial technology, and no indication that relevant UAP programmes had been improperly concealed from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1-dark.svg" | relative_url }}" alt="Audit trail illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For critics, however, the central problem is that the public cannot independently verify what was searched, which programmes were examined, which leads were rejected, or how deeply investigators penetrated compartmented systems. The dispute is therefore less about whether AARO claimed to have looked and more about whether outsiders can reconstruct what it actually checked.
@@ -270,7 +269,6 @@ This matters because some prominent UAP allegations, including those made by for
 
 The resulting argument is straightforward:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * AARO's conclusions carry weight because the office was granted access unavailable to the public.
@@ -280,9 +278,6 @@ The resulting argument is straightforward:
 </div>
 
 This is not necessarily an accusation that AARO failed to investigate. Rather, it is a challenge to the public's ability to verify that the investigation reached every relevant compartment.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoSZA7Meneg" title="Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer">Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure</a></p><p class="youtube-embed-meta">Channel: UAPsee &middot; Views: 1.3K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoSZA7Meneg">Open on YouTube</a></p></div></div></div>
 
 ## What AARO said about its access
 
@@ -294,6 +289,8 @@ AARO additionally concluded that many allegations traced back to misunderstandin
 
 From Kirkpatrick's perspective, this access was precisely why AARO's findings should be taken seriously. The office was created by Congress partly to examine claims that ordinary investigators could not easily reach because they involved classified systems and compartmented records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoSZA7Meneg" title="Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer">Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure</a></p><p class="youtube-embed-meta">Channel: UAPsee &middot; Views: 1.3K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoSZA7Meneg">Open on YouTube</a></p></div></div></div>
+
 ## The missing audit trail problem
 
 The transparency objection arises because AARO's public reports describe outcomes rather than providing a detailed chain of verification.
@@ -301,7 +298,6 @@ The transparency objection arises because AARO's public reports describe outcome
 A conventional public audit often leaves behind a visible trail: documents reviewed, databases searched, witnesses interviewed, methodologies used, rejected hypotheses, and decision records. In the UAP case, much of that information remains inaccessible because revealing it could itself expose classified programme structures.
 
 Critics therefore ask questions that the public report cannot fully answer:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -318,7 +314,6 @@ The public cannot independently inspect those steps. As a result, AARO's finding
 
 Importantly, this criticism does not automatically invalidate AARO's conclusions. A classified review can be rigorous and still leave little public evidence behind. The criticism instead concerns verifiability. Outsiders cannot easily distinguish between a comprehensive search and an incomplete one because the underlying search process is mostly hidden.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-2-dark.svg" | relative_url }}" alt="Audit trail illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kona Blue as a revealing example
 
@@ -332,15 +327,11 @@ For critics, the episode demonstrated something different: AARO could disclose d
 
 Thus, Kona Blue became evidence for both sides of the debate. It showed access, but it also highlighted how little of the underlying review process remained visible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## What a public audit trail would need to show
 
 The strongest transparency critics generally do not argue that every classified record should be released. Instead, they argue that confidence would increase if more of the investigative pathway were visible.
 
 A stronger public audit trail might include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,7 +345,6 @@ A stronger public audit trail might include:
 
 Such measures would not necessarily settle the debate. People who believe evidence remains hidden could still argue that critical compartments were missed. However, they would narrow the gap between "trust us, we checked" and "here is a visible record of what was checked."
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-3-dark.svg" | relative_url }}" alt="Audit trail illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for assessing Kirkpatrick's credibility
 
@@ -367,86 +357,44 @@ Critics respond that access alone does not eliminate the need for transparency. 
 As a result, the disagreement over Special Access Programmes is not simply a disagreement about UFOs. It is a disagreement about evidential standards. AARO asked the public to accept conclusions drawn from restricted systems. Critics accepted that those systems were restricted but questioned whether the resulting investigation left enough of an audit trail to justify confidence in its final verdict.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What did AARO actually check?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What did AARO actually check?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Examines how government investigations were conducted and what records existed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centers on disputes over access, testimony, and institutional credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Explains the realities and limitations of access inside highly restricted projects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for oversight, compartmentalization, and classified program management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -483,15 +431,15 @@ As a result, the disagreement over Special Access Programmes is not simply a dis
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Edward Steichen WWII Photograph 1945 National Archives"><img src="https://i.ebayimg.com/images/g/oQ8AAeSwhodpaSRl/s-l225.jpg" alt="Listing image for Edward Steichen WWII Photograph 1945 National Archives" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Edward Steichen WWII Photograph 1945 National Archives</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +447,15 @@ As a result, the disagreement over Special Access Programmes is not simply a dis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSPAAAL Original Political Poster South Africa Power Solidarity 1977 Near Mint"><img src="https://i.ebayimg.com/images/g/S~QAAOSwt65gbwg-/s-l225.jpg" alt="Listing image for OSPAAAL Original Political Poster South Africa Power Solidarity 1977 Near Mint" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">OSPAAAL Original Political Poster South Africa Power Solidarity 1977 Near Mint</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +463,31 @@ As a result, the disagreement over Special Access Programmes is not simply a dis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dorothea Lange/W. Miller WWII National Archives Prints [3] Japanese Civiilians"><img src="https://i.ebayimg.com/images/g/ygUAAeSwJ~dpY~Zo/s-l225.jpg" alt="Listing image for Dorothea Lange/W. Miller WWII National Archives Prints [3] Japanese Civiilians" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Dorothea Lange/W. Miller WWII National Archives Prints [3] Japanese Civiilians</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Government : Alfred Kubin : 1901 : Archival Art Print"><img src="https://i.ebayimg.com/images/g/yF0AAOSw1wtnGV1x/s-l225.jpg" alt="Listing image for Government : Alfred Kubin : 1901 : Archival Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Government : Alfred Kubin : 1901 : Archival Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +495,7 @@ As a result, the disagreement over Special Access Programmes is not simply a dis
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-aaro-actually-check-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-aaro-actually-check-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="what-did-aaro-actually-check-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,76 +711,76 @@ As a result, the disagreement over Special Access Programmes is not simply a dis
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — AARO has found no indications that any information wa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/](https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — In July, we established the All-domain Anomaly...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The All-domain Anomaly Resolution Office (AARO) first learned of the KONA BLUE program from interviews c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Although AARO continues to conduct interviews, research programs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/](https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/)  
+   Link: <a href="https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The allegations were made public by journalist Michael Shellenberger. Pentagon spokesperson Sue Gough stated that there is no record of s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZoSZA7Meneg](https://www.youtube.com/watch?v=ZoSZA7Meneg)  
+   Link: <a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZoSZA7Meneg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lNiPCV6cAP4](https://www.youtube.com/watch?v=lNiPCV6cAP4)  
+   Link: <a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lNiPCV6cAP4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower opening statement in House hearing on alleged covert government UAP program...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=VyK46wdMJkQ](https://www.youtube.com/watch?v=VyK46wdMJkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic [Senate Hearing](&amp;#123;&amp;#123; &#x27;senate-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EXri0KF2oZY](https://www.youtube.com/watch?v=EXri0KF2oZY)  
+   Link: <a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXri0KF2oZY</a>

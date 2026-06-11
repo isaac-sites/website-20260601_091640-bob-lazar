@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-luis-elizondo/
 nav_short_title: Biological Claims
 title: Why the Biological Claims Need Caution
-title_full: Why the Biological Claims Need Caution | Elizondo
+title_full: Why the Biological Claims Need Caution
 display_title_short: Biological Claims
 display_title: Biological Claims
 heading_title: Why the Biological Claims Need Caution
@@ -289,7 +289,7 @@ next_link:
   permalink: /congress/
   short_title: Congress
   heading_title: What Did Elizondo Tell Congress?
-date: '2026-06-09 02:53:56 '
+date: '2026-06-11 21:02:04 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview-
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s comments about non-human biological remains sit at the most fragile end of his public credibility. He has made, repeated, or endorsed claims that the United States has recovered non-human technology and biological samples from crashed craft, including claims linked to Roswell. But these are not the same kind of claim as “the [Navy videos]({{ 'navy-videos/' | relative_url }}) are real” or “UAP reports deserve investigation”. They require physical proof, clear custody records, independent laboratory work and public verification. None of that has yet been produced.
-
+Luis Elizondo’s comments about non-human biological remains sit at the most fragile end of his public credibility. He has made, repeated, or endorsed claims that the United States has recovered non-human technology and biological samples from crashed craft, including claims linked to Roswell. But these are not the same kind of claim as “the [Navy videos]({{ 'navy-videos/' | relative_url }}) are real” or “UAP reports deserve investigation”. They require physical proof, clear custody records, independent laboratory work and public verification. None of that has yet been produced.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview.webp" | relative_url }}" alt="Overview image for Biological Claims" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Elizondo’s authority comes partly from his claimed access to classified defence and intelligence channels, yet the biological-remains claims are precisely the sort of claim that cannot be responsibly accepted on insider status alone. In public sources, they remain a mixture of memoir assertion, interview statement, alleged classified knowledge, and disputed government-denial territory. A fair assessment is therefore cautious: the claims are significant because of who is making them, but weak because the evidence available to the public has not met the burden attached to them.
@@ -314,7 +313,6 @@ Elizondo has also been reported as claiming that biological remains and non-huma
 
 This leaves a credibility problem. Elizondo is not merely saying “some UAP remain unexplained”. He is asking the public to accept, at least provisionally, that a hidden recovery-and-biological-material architecture exists inside or around the US national-security state. That is an extraordinary institutional claim as well as an extraordinary biological claim. It implies not only recovered material, but long-term secrecy, controlled access, compartmented storage, scientific testing, and suppression or non-disclosure by multiple agencies and contractors.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-dark.svg" | relative_url }}" alt="Biological Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Roswell Raises the Stakes
 
@@ -325,7 +323,6 @@ The official US Air Force position is that the 1947 Roswell debris came from Pro
 That official explanation does not settle every reader’s doubts, and supporters of the Roswell alien-recovery story often argue that the Air Force reports were themselves damage control. But for Elizondo’s credibility, the key point is narrower: invoking Roswell places his claim directly against an existing official record that offers mundane explanations for both debris and body stories. A new claim that Roswell involved four non-human bodies therefore needs more than an appeal to classified knowledge or unnamed sources. It needs evidence strong enough to overturn a well-developed official counter-narrative.
 
 Roswell also creates a “story contamination” problem. The longer a case circulates in books, documentaries, conferences and online communities, the harder it becomes to distinguish original evidence from later reconstruction. [AARO]({{ 'aaro-b41c4f/' | relative_url }})’s 2024 historical report explicitly noted the persistence of narratives about recovered off-world craft and biological material, and said it investigated claims that the US government and contractors had recovered and hidden such material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22") For a Roswell-linked biological claim to be persuasive, it would have to show that the information is not simply a recycled version of older Roswell lore routed through newer insider language.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wgM5V44eQHU" title="Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer">Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.2M &middot; Uploaded: August 2024 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wgM5V44eQHU">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +336,6 @@ That does not make the claims false. Intelligence and defence matters can involv
 
 Elizondo’s November 2024 written testimony to the House Oversight Committee leaned heavily on secrecy, alleged suppression and the claim that certain UAP programmes operate without proper oversight. He stated that much of his government work on UAP remains classified and argued that excessive secrecy had hidden the fact that “we are not alone in the cosmos”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span> That is a striking public statement, but it still does not give the public the kind of biological verification that would be needed to move the remains claim from allegation to established fact.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-dark.svg" | relative_url }}" alt="Biological Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Undermines the Biological Claims
 
@@ -351,7 +347,6 @@ AARO also discussed [KONA BLUE]({{ 'kona-blue-767ca9/' | relative_url }}), a pro
 
 This matters because it offers a possible mechanism for confusion. Some people inside or near government may have discussed programmes designed to look for alleged biological samples. That is not the same as a programme that actually possessed biological samples. A proposal, an assumption, a rumour, a briefing, an oral-history project and a verified specimen are different evidential categories. Collapsing them together is one way extraordinary claims can become more certain in public retelling than the underlying evidence supports.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFRAvDOPZP0" title="UFO Expert: “We Have Proof They Exist,” with Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer">UFO Expert: “We Have Proof They Exist,” with Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 1.1M &middot; Uploaded: October 2024 &middot; Length: 2 hours 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFRAvDOPZP0">Open on YouTube</a></p></div></div></div>
 
 ## What Supporters Argue
@@ -361,7 +356,6 @@ Supporters of Elizondo tend to focus on his background, his willingness to speak
 A more careful supporter argument is not “Elizondo has proved alien bodies exist”. It is that his claims should trigger protected disclosure routes, inspector-general review, congressional access to classified records, and penalties for any office or contractor that unlawfully withholds information. On that view, the biological-remains claim is not something the public can yet verify, but it is serious enough to investigate.
 
 That argument has force as an oversight argument. Governments can hide programmes; contractors can hold sensitive materials; classification can be misused. But it still does not solve the biological evidence problem. Oversight interest is not proof. A hearing is not a laboratory result. A witness’s confidence is not a chain of custody.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g7-vKn-Qqbg" title="Former Pentagon insider shares details on UFOs in new book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer">Former Pentagon insider shares details on UFOs in new book</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 85.4K &middot; Uploaded: August 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g7-vKn-Qqbg">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +374,6 @@ For Elizondo’s biological claims to become credible in a public, scientific se
 **Fourth, falsification of ordinary explanations.** The sample would need to be shown not to be human, animal, microbial contamination, laboratory artefact, medical debris, or a terrestrial biological material altered by unusual environmental conditions. NASA’s UAP report made a similar point about witness reports and sensor data: credible witnesses can be useful, but without reproducible and calibrated evidence, reports do not allow firm conclusions about origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Until that kind of record exists publicly, the safest classification is not “debunked” and not “confirmed”. It is “unverified, high-impact testimony”.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-dark.svg" | relative_url }}" alt="Biological Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Credibility Takeaway
@@ -403,16 +396,16 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Directly discusses alleged non-human technology and biological material.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,16 +413,16 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash Retrievals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ykclyQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Crash Retrievals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash Retrievals">UFO Crash Retrievals</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Leonard Stringfield</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Focuses on claims involving recovered craft and bodies.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -437,16 +430,16 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Covers allegations of hidden evidence and recovery programmes.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,16 +447,16 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Provides a more cautious framework for extraordinary claims.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -471,7 +464,7 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+Retrievals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Retrievals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -508,15 +501,15 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +517,15 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +533,31 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +565,7 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-the-biological-claims-need-caution-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-biological-claims-need-caution-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-biological-claims-need-caution-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,177 +781,177 @@ The most balanced judgement is therefore cautious but not dismissive. Elizondo h
 1. <a id="endnote-1"></a>
    Source: people.com  
    Title: Ex-Pentagon Official Discusses Government's Hunt for UFOs (Exclusive)  
-   Link: [https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746](https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746)  
+   Link: <a href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Unidentified Anomalous Phenomena: Exposing the Truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 9. <a id="endnote-9"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: ladder of life detection  
-   Link: [https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/](https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/)  
+   Link: <a href="https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/</a>  
 
 12. <a id="endnote-12"></a>
    Source: astrobiology.nasa.gov  
    Title: life detection  
-   Link: [https://astrobiology.nasa.gov/research/life-detection/](https://astrobiology.nasa.gov/research/life-detection/)  
+   Link: <a href="https://astrobiology.nasa.gov/research/life-detection/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/research/life-detection/</a>  
 
 13. <a id="endnote-13"></a>
    Source: astrobiology.nasa.gov  
-   Link: [https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/](https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/)  
+   Link: <a href="https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/</a>  
 
 14. <a id="endnote-14"></a>
    Source: sma.nasa.gov  
    Title: wilhelm slides  
-   Link: [https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0](https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0)  
+   Link: <a href="https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0" target="_blank" rel="noopener noreferrer nofollow">https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: US has UFO retrieval program, alien bodies: Ex-Pentagon official  
-   Link: [https://www.youtube.com/watch?v=-bw3VfK_lsA](https://www.youtube.com/watch?v=-bw3VfK_lsA)  
+   Link: <a href="https://www.youtube.com/watch?v=-bw3VfK_lsA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-bw3VfK_lsA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Luis Elizondo  
-   Link: [https://www.youtube.com/watch?v=9gLPtRwXgCM](https://www.youtube.com/watch?v=9gLPtRwXgCM)  
+   Link: <a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gLPtRwXgCM</a>  
 
 21. <a id="endnote-21"></a>
    Source: thetimes.com  
    Title: pentagon ufo expert says secret group has non human material k9556s7rc  
-   Link: [https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc](https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc)  
+   Link: <a href="https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian UFO hearings: whistleblower David Grusch says 'non  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
 
 24. <a id="endnote-24"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/26621/chapter/4](https://www.nationalacademies.org/read/26621/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/26621/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26621/chapter/4</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
 
 27. <a id="endnote-27"></a>
    Source: foyles.co.uk  
    Title: luis elizondo  
-   Link: [https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA](https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA)  
+   Link: <a href="https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA" target="_blank" rel="noopener noreferrer nofollow">https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ybkUPaOqu6c](https://www.youtube.com/watch?v=ybkUPaOqu6c)  
+   Link: <a href="https://www.youtube.com/watch?v=ybkUPaOqu6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybkUPaOqu6c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo: Gov&#x27;t Has Biological UAP Samples...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Former Pentagon insider shares details on UFOs in new book  
-   Link: [https://www.youtube.com/watch?v=g7-vKn-Qqbg](https://www.youtube.com/watch?v=g7-vKn-Qqbg)  
+   Link: <a href="https://www.youtube.com/watch?v=g7-vKn-Qqbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g7-vKn-Qqbg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo discusses new book &quot;Imminent&quot; and the Pentagon&#x27;s UAP investigations...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Luis Elizondo: Gov't Has Biological UAP Samples  
-   Link: [https://www.youtube.com/watch?v=wULw64ZL1Bg](https://www.youtube.com/watch?v=wULw64ZL1Bg)  
+   Link: <a href="https://www.youtube.com/watch?v=wULw64ZL1Bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wULw64ZL1Bg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US has UFO retrieval program, alien bodies: Ex-Pentagon official...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/](https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/](https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/)  
+   Link: <a href="https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/](https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/)  
+   Link: <a href="https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/](https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/](https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/</a>  
 
 37. <a id="endnote-37"></a>
    Source: thenationaldesk.com  
-   Link: [https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-legacy/
 nav_short_title: Authority
 title: When real credentials make weak claims stronger
-title_full: When real credentials make weak claims stronger | Media Legacy
+title_full: When real credentials make weak claims stronger
 display_title_short: Authority
 display_title: Authority
 heading_title: When real credentials make weak claims stronger
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Did Media Turn Doty Into UFO Mythology? | Doty
+parent_title: How Did Media Turn Doty Into UFO Mythology?
 parent_permalink: /media-legacy/
 parent_nav_short_title: Media Legacy
 parent_heading_title: How Did Media Turn Doty Into UFO Mythology?
@@ -247,7 +247,7 @@ next_link:
   permalink: /mirage-men/
   short_title: Mirage Men
   heading_title: Did Mirage Men clarify Doty or deepen the fog?
-date: '2026-06-09 02:55:37 '
+date: '2026-06-11 21:03:07 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_
 
 ## Introduction
 
-One of the most powerful effects of [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s documentary appearances is not any single UFO claim. It is the transfer of authority that happens when a real former government investigator discusses extraordinary stories on camera. Viewers may begin with a verified fact — that Doty worked for the Air Force Office of Special Investigations (AFOSI) — and then unconsciously extend that credibility to claims about aliens, secret programmes or hidden government knowledge that require separate evidence.
-
+One of the most powerful effects of Richard Doty’s documentary appearances is not any single UFO claim. It is the transfer of authority that happens when a real former government investigator discusses extraordinary stories on camera. Viewers may begin with a verified fact — that Doty worked for the Air Force Office of Special Investigations (AFOSI) — and then unconsciously extend that credibility to claims about aliens, secret programmes or hidden government knowledge that require separate evidence.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism matters because many documentaries about Doty are not structured as formal investigations. They are built around interviews, personal testimony, archival material, mystery and ambiguity. In that format, authentic credentials can function as a shortcut. A viewer may reasonably conclude that Doty knows things ordinary people do not. The harder question is whether that institutional background proves the specific UFO-related claims being discussed. It does not. The central credibility issue is the gap between a documented AFOSI career and the evidential basis for claims that go far beyond AFOSI's publicly documented mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">air force office of special investigationsOSI provides professional investigative service to commanders of all Air Force activities. Its...</span></span></span>
@@ -269,7 +268,6 @@ Authority transfer happens when audiences treat a person's legitimate status in 
 With Doty, the process is unusually effective because the starting point is real. AFOSI is a genuine counterintelligence and criminal investigative organisation within the US Air Force. Its documented responsibilities include criminal investigations and counterintelligence work, not public UFO disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</span></span></span>
 
 That distinction is important because documentaries frequently present several different layers of information together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ The strongest documented fact in Doty's public story is his connection to AFOSI.
 
 Many documentaries implicitly encourage a chain of reasoning that looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Doty worked in AFOSI.
@@ -309,9 +306,6 @@ This distinction becomes especially important because Doty is not usually presen
 
 Sceptical commentators have repeatedly argued that Doty's documented involvement in disinformation-related activity should make viewers more cautious, not less cautious, when assessing later extraordinary claims. The central criticism is not that his AFOSI background is false, but that a real background does not resolve the question of whether subsequent stories are accurate. Issues in Science and Technology <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">mirage men a new chapter in ufology</span><span class="citation-popover-snippet">Mirage Men: A New Chapter in UFOlogy29 May 2014 —... disinformation campaign about UFOs and aliens to distract and deflect its closest c...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IROLRx0Bypw" title="Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer">Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IROLRx0Bypw">Open on YouTube</a></p></div></div></div>
-
 ## How documentaries blend credentials, confession and mystery
 
 The documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})* is one of the clearest examples of authority transfer operating in practice. The film presents Doty as a former AFOSI special agent while exploring allegations that military or intelligence-linked actors helped shape UFO mythology through deception and psychological operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</span></span></span>
@@ -321,7 +315,6 @@ What makes the film unusual is that it does not portray Doty simply as a whistle
 That creates a paradoxical effect.
 
 Normally, admitting involvement in deception would reduce credibility. In documentary storytelling, however, confession can increase perceived authenticity. Viewers may think:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,14 +328,12 @@ None of those conclusions necessarily follow from the evidence, but documentary 
 
 The result is a complicated credibility loop. Doty's willingness to discuss alleged manipulation can make him seem more trustworthy than someone who simply promotes UFO claims. Yet the same admissions can also be interpreted as evidence that caution is warranted. *Mirage Men* effectively leaves both interpretations available to the audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-2-dark.svg" | relative_url }}" alt="Authority illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the visual language of documentaries matters
 
 Authority transfer is not created only by facts. It is also created by presentation.
 
 Documentaries frequently use techniques that reinforce institutional credibility:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -377,7 +368,6 @@ Third, repeated appearances can create familiarity. Viewers may begin to recogni
 
 This does not mean documentaries deliberately mislead audiences. Rather, it shows how media exposure can alter credibility assessments independently of new evidence. A person may appear increasingly authoritative because they have become a recognised documentary character.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-3-dark.svg" | relative_url }}" alt="Authority illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A viewer's checklist for separating role from evidence
 
@@ -407,9 +397,6 @@ An admission of past deception may be important, but it does not automatically a
 
 Documentaries are designed to sustain attention. Ambiguity can make a story compelling without resolving whether the central claim is true.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RdAQnkDzGvc" title="Testing the limits of ChatGPT and discovering a dark side" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RdAQnkDzGvc" target="_blank" rel="noopener noreferrer">Testing the limits of ChatGPT and discovering a dark side</a></p><p class="youtube-embed-meta">Channel: KARE 11</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RdAQnkDzGvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RdAQnkDzGvc">Open on YouTube</a></p></div></div></div>
-
 ## Why this mechanism matters for Doty's credibility
 
 The authority-transfer effect helps explain why Richard Doty remains influential despite decades of controversy. His continuing relevance does not depend solely on the strength of any particular UFO claim. It also depends on the unusual combination of factors surrounding him: a verified connection to a real counterintelligence organisation, acknowledged links to disinformation allegations, and repeated documentary portrayals that position him between whistleblower, participant and unreliable narrator.
@@ -428,16 +415,16 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Shows how real intelligence credentials influence UFO credibility debates.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -445,16 +432,16 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that can transfer trust from role to claim.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -462,16 +449,16 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Provides tools for separating evidence from authority.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -479,16 +466,16 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Directly explains why credentials and authority affect belief.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -496,7 +483,7 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -533,15 +520,15 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +536,15 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +552,31 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,7 +584,7 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-real-credentials-make-weak-claims-stronger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-real-credentials-make-weak-claims-stronger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -796,63 +799,63 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
 
 1. <a id="endnote-1"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>air force office of special investigationsOSI provides professional investigative service to commanders of all Air Force activities. Its...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: issues.org  
-   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skeptoid.com  
    Title: mirage men a new chapter in ufology  
-   Link: [https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/](https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/)  
+   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A New Chapter in UFOlogy29 May 2014 —... disinformation campaign about UFOs and aliens to distract and deflect its closest c...</p></details>
    Published: May 2014  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: [https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations](https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations)  
+   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsOSI provides independent criminal investigative, counterintelligence and protective service...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: osi.af.mil  
    Title: mil Air Force Office of Special Investigations  
-   Link: [https://www.osi.af.mil/](https://www.osi.af.mil/)  
+   Link: <a href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: osi.af.mil  
    Title: afosi enters 2026 following year defined by results leaders say  
-   Link: [https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/](https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/)  
+   Link: <a href="https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>enters 2026 following year defined by results...12 Jan 2026 — Throughout the year, AFOSI closed multiple counterintelligence investigati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104502/air-force-office-of-special-investigations/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104502/air-force-office-of-special-investigations/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104502/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104502/air-force-office-of-special-investigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsAFOSI identifies, investigates and neutralizes criminal, terrorist, and espionage threats to Ai...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
 
 ### Additional References
@@ -860,50 +863,50 @@ For [supporters]({{ 'supporters/' | relative_url }}), those credentials suggest 
 12. <a id="endnote-12"></a>
    Source: fletc.gov  
    Title: air force office special investigations  
-   Link: [https://www.fletc.gov/air-force-office-special-investigations](https://www.fletc.gov/air-force-office-special-investigations)  
+   Link: <a href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fletc.gov/air-force-office-special-investigations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: afciviliancareers.com  
    Title: PA Q OSI  
-   Link: [https://afciviliancareers.com/paq-osi/](https://afciviliancareers.com/paq-osi/)  
+   Link: <a href="https://afciviliancareers.com/paq-osi/" target="_blank" rel="noopener noreferrer nofollow">https://afciviliancareers.com/paq-osi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PAQ OSI - office of special investigationsThe Air Force Office of Special Investigations (AFOSI) is a federal law enforcement and counter...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AirForceOSI/](https://www.facebook.com/AirForceOSI/)  
+   Link: <a href="https://www.facebook.com/AirForceOSI/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ment was reached after Special Agents discovered a contractor...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: primevideo.com  
-   Link: [https://www.primevideo.com/detail/0PV9DZ8J2IILBQ3QA2GXAVL96N](https://www.primevideo.com/detail/0PV9DZ8J2IILBQ3QA2GXAVL96N)  
+   Link: <a href="https://www.primevideo.com/detail/0PV9DZ8J2IILBQ3QA2GXAVL96N" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/detail/0PV9DZ8J2IILBQ3QA2GXAVL96N</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower #1In this gripping documentary, Richard Doty, a former U.S. Air Force... UFO encounters, government cover-ups, and dis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/](https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/)  
+   Link: <a href="https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Air Force Office of Special Investigations...OSI is one of the very few federal law enforcement agencies that is also ch...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/](https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A reminder that government agencies pump the...Long story short, [Bennewitz](&amp;#123;&amp;#123; &#x27;bennewitz/&#x27; | relative_url &amp;#125;&amp;#125;) was recording footage of genuine classified programs, so the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: patrick.spaceforce.mil  
-   Link: [https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/](https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/)  
+   Link: <a href="https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special InvestigationsThe Air Force Office of Special Investigations (OSI or AFOSI) is a U.S. federal law enforcement age...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/3oOHj0XOuOXVmhwuLCxjRe](https://open.spotify.com/episode/3oOHj0XOuOXVmhwuLCxjRe)  
+   Link: <a href="https://open.spotify.com/episode/3oOHj0XOuOXVmhwuLCxjRe" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3oOHj0XOuOXVmhwuLCxjRe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#104 RICHARD DOTY-Former AF Office Of Special...25 Feb 2024 — Listen to this episode from Total Disclosure Podcast on Spotify...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vetfriends.com  
-   Link: [https://www.vetfriends.com/units/4815/afosi](https://www.vetfriends.com/units/4815/afosi)  
+   Link: <a href="https://www.vetfriends.com/units/4815/afosi" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/units/4815/afosi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFOSI | U.S. Air Force UnitIts mission is to provide independent criminal investigations and counterintelligence services to protect Air...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/](https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /timeline/
 nav_short_title: KLAS reveal
 title: When Dennis became Bob Lazar on TV
-title_full: When Dennis became Bob Lazar on TV | Timeline
+title_full: When Dennis became Bob Lazar on TV
 display_title_short: KLAS reveal
 display_title: KLAS reveal
 heading_title: When Dennis became Bob Lazar on TV
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Lazar Became The Area 51 Whistleblower | Lazar
+parent_title: How Lazar Became The Area 51 Whistleblower
 parent_permalink: /timeline/
 parent_nav_short_title: Timeline
 parent_heading_title: How Lazar Became The Area 51 Whistleblower
@@ -253,7 +253,7 @@ next_link:
   permalink: /proof-gap/
   short_title: Proof gap
   heading_title: What the first Lazar story still could not prove
-date: '2026-06-09 02:52:21 '
+date: '2026-06-11 21:01:13 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity
 
 ## Introduction
 
-The November 1989 KLAS-TV broadcasts were the moment [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }}) stopped being an anonymous source called “Dennis” and became a publicly identifiable claimant whose biography, employment history and technical assertions could be scrutinised. Until then, viewers had largely encountered the story as a dramatic whistleblower account delivered from the shadows. Once Lazar appeared under his own name, the focus shifted. The central question was no longer only whether a secret programme existed near Area 51. It became whether Bob Lazar himself was a credible witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
-
+The November 1989 KLAS-TV broadcasts were the moment Bob Lazar stopped being an anonymous source called “Dennis” and became a publicly identifiable claimant whose biography, employment history and technical assertions could be scrutinised. Until then, viewers had largely encountered the story as a dramatic whistleblower account delivered from the shadows. Once Lazar appeared under his own name, the focus shifted. The central question was no longer only whether a secret programme existed near Area 51. It became whether Bob Lazar himself was a credible witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1-dark.svg" | relative_url }}" alt="KLAS reveal illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That change matters because many of the arguments that still surround Lazar today were fixed during those November broadcasts. His claims about a site called S-4, alleged reverse-engineering work on non-human craft, the involvement of government contractors, and his own scientific background were all presented in a form that would shape public discussion for decades. At the same time, the broadcasts opened the door to verification efforts that immediately exposed disputes over his education, employment records and professional history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">bob lazar</span><span class="citation-popover-snippet">Lazar, UFO HoaxsterOn November 11 and 13, 1989, viewers of KLAS-TV in Las Vegas, Nevada, heard an incredible story from news reporter Geo...</span></span></span>
@@ -278,7 +277,6 @@ The significance of the reveal was not merely theatrical. Anonymous whistleblowe
 
 Supporters often argue that this public step increased Lazar’s credibility because he exposed himself to ridicule, professional consequences and sustained scrutiny. Sceptics respond that publicity also increased the reach and durability of claims that were still largely unsupported by documentary evidence. Both sides agree on one point: the November broadcasts transformed a local anonymous interview into a national UFO controversy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-snippet">Nevada CurrentUFOs, the Pentagon, and the enigma of Bob Lazar1 Jun 2021 — Lazar surfaced publicly in 1989, when he was interviewed by my...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KjApDnCvh2c" title="Bob Lazar Interview 1989" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KjApDnCvh2c" target="_blank" rel="noopener noreferrer">Bob Lazar Interview 1989</a></p><p class="youtube-embed-meta">Channel: LyleLVNV &middot; Views: 301.2K &middot; Uploaded: September 2015 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KjApDnCvh2c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KjApDnCvh2c">Open on YouTube</a></p></div></div></div>
 
 ## How naming Lazar changed the burden of proof
@@ -289,7 +287,7 @@ This altered the discussion in several ways:
 
 * **Educational claims became central.** Lazar described himself as having advanced scientific training, and attention quickly turned to whether his educational history could be independently verified. Disputes over claimed attendance at institutions such as MIT and Caltech became a recurring feature of the controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Lear" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Lear</span><span class="citation-popover-snippet">John Lear</span></span></span>
 * **Employment records became evidence.** Lazar claimed involvement with highly classified work. Researchers therefore looked for records connecting him to Los Alamos National Laboratory, government contractors and related institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Area 51</span><span class="citation-popover-snippet">Area 51</span></span></span>
-* **The story became testable.** Critics could now compare Lazar's statements against known facts about security procedures, scientific terminology, military contracting and the history of Nevada test facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</span></span></span>
+* **The story became testable.** Critics could now compare Lazar's statements against known facts about security procedures, scientific terminology, military contracting and the history of Nevada test facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</span></span></span>
 * **Personal credibility became inseparable from the UFO claims.** If his background proved unreliable, critics argued, confidence in the larger narrative would weaken. Supporters often countered that classified programmes could obscure or erase records and that some supporting traces nevertheless existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-snippet">Nevada CurrentUFOs, the Pentagon, and the enigma of Bob Lazar1 Jun 2021 — Lazar surfaced publicly in 1989, when he was interviewed by my...</span></span></span>
 
 One of the earliest examples of this conflict involved Los Alamos. Critics pointed to official denials that Lazar had worked there in the capacity he described. Supporters highlighted a laboratory phone directory and local reporting that appeared to place a Robert Lazar at the facility, arguing that this at least supported part of his account. The debate over what exactly those records proved began almost immediately after the identity reveal and continues today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/B.o.B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ray Simmons Jr. (born November 15, 1988), known professionally as BoB, [note 1] is an American rapper, singer, songwriter, and record pro...</span><span class="citation-popover-meta">Published: November 15, 1988</span></span></span>
@@ -297,7 +295,6 @@ One of the earliest examples of this conflict involved Los Alamos. Critics point
 ## The vocabulary that the broadcasts fixed in place
 
 The November KLAS segments did more than identify Lazar. They established much of the language that would define the story in later decades.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-2-dark.svg" | relative_url }}" alt="KLAS reveal illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### S-4 as a distinct location
@@ -312,7 +309,6 @@ The broadcasts framed Lazar not as a conventional UFO witness but as a participa
 
 Because the claim involved engineering rather than observation alone, it invited questions about scientific competence, access, documentation and technical consistency. Those questions became a permanent feature of debates about Lazar's credibility.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hUy473Q5uHc" title="George Knapp (01-21-98) Bob Lazar and Area 51, Russian UFOs and Colonel Phillip Corso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hUy473Q5uHc" target="_blank" rel="noopener noreferrer">George Knapp (01-21-98) Bob Lazar and Area 51, Russian UFOs and Colonel Phillip Corso</a></p><p class="youtube-embed-meta">Channel: UPARS &middot; Views: 77.4K &middot; Uploaded: February 2015 &middot; Length: 1 hour 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hUy473Q5uHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hUy473Q5uHc">Open on YouTube</a></p></div></div></div>
 
 ### Government possession of non-human craft
@@ -320,7 +316,6 @@ Because the claim involved engineering rather than observation alone, it invited
 The broadcasts also helped popularise a specific disclosure narrative: that the United States government possessed multiple recovered craft and was secretly attempting to exploit their technology. Lazar's claim reportedly involved nine vehicles rather than a single recovered object. That scale made the allegation especially dramatic and widened the implications beyond a single crash-retrieval story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 Later whistleblower discussions and UFO disclosure debates would often revisit similar themes, but the KLAS reports helped establish one of the most influential early modern versions of that narrative.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5OHcJS7X6sc" title="I-Team: The man who sent shock waves through UFO circles 30 years ago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5OHcJS7X6sc" target="_blank" rel="noopener noreferrer">I-Team: The man who sent shock waves through UFO circles 30 years ago</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 40.9K &middot; Uploaded: May 2019 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5OHcJS7X6sc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5OHcJS7X6sc">Open on YouTube</a></p></div></div></div>
 
@@ -334,97 +329,54 @@ For supporters, Knapp's willingness to continue examining the story despite inst
 
 Either way, the KLAS coverage became the foundation upon which nearly all later Lazar media appearances were built.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-3-dark.svg" | relative_url }}" alt="KLAS reveal illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the November reveal still matters to credibility debates
 
 Many later arguments about Bob Lazar trace directly back to the November 1989 broadcasts. The reveal established a stable version of his story early enough that supporters often point to its long-term consistency. They argue that Lazar has repeated core elements of the account for decades with relatively few major changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-snippet">Nevada CurrentUFOs, the Pentagon, and the enigma of Bob Lazar1 Jun 2021 — Lazar surfaced publicly in 1989, when he was interviewed by my...</span></span></span>
 
-Critics draw a different lesson. Because the identity reveal exposed Lazar to fact-checking, they see the resulting disputes over education, employment and documentation as evidence that the story failed key credibility tests almost from the beginning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</span></span></span>
+Critics draw a different lesson. Because the identity reveal exposed Lazar to fact-checking, they see the resulting disputes over education, employment and documentation as evidence that the story failed key credibility tests almost from the beginning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</span></span></span>
 
 The November broadcasts therefore occupy a unique place in the Lazar [timeline]({{ 'timeline/' | relative_url }}). They were not simply another interview. They were the point at which an anonymous insider narrative became attached to a real person whose life could be investigated. From that moment onward, discussion of S-4, Area 51 and alleged recovered craft became inseparable from discussion of Bob Lazar's own record, qualifications and reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Area 51</span><span class="citation-popover-snippet">Area 51</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Dennis became Bob Lazar on TV. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Dennis became Bob Lazar on TV, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Discusses the transition from anonymity to public identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on witness evaluation and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-mxMAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By David Darlington</p>
-        
-        <p class="fr-book-desc">Explains the cultural impact of Area 51 publicity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
-        
-        <p class="fr-book-desc">Relates to how public identity affects credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -461,15 +413,15 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +429,15 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +445,15 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="{{ '/assets/images/marketplace-covers/cfb582b2b2b6021467bd.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +461,15 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,7 +477,7 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="klas-reveal-when-dennis-became-bob-lazar-on-tv-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-dennis-became-bob-lazar-on-tv-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="when-dennis-became-bob-lazar-on-tv-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,114 +693,114 @@ The November broadcasts therefore occupy a unique place in the Lazar [timeline](
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: George Knapp (television journalist)  
-   Link: [https://en.wikipedia.org/wiki/George_Knapp_%28television_journalist%29](https://en.wikipedia.org/wiki/George_Knapp_%28television_journalist%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Knapp_%28television_journalist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Knapp_%28television_journalist%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterOn November 11 and 13, 1989, viewers of KLAS-TV in Las Vegas, Nevada, heard an incredible story from news reporter Geo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: John Lear  
-   Link: [https://en.wikipedia.org/wiki/John_Lear](https://en.wikipedia.org/wiki/John_Lear)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_Lear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lear</a>  
 
 5. <a id="endnote-5"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkepticThe Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</p></details>
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Bob Lazar23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/B.o.B](https://en.wikipedia.org/wiki/B.o.B)  
+   Link: <a href="https://en.wikipedia.org/wiki/B.o.B" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/B.o.B</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ray Simmons Jr. (born November 15, 1988), known professionally as BoB, [note 1] is an American rapper, singer, songwriter, and record pro...</p></details>
    Published: November 15, 1988  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Bob cut  
-   Link: [https://en.wikipedia.org/wiki/Bob_cut](https://en.wikipedia.org/wiki/Bob_cut)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_cut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_cut</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob cutA bob cut, also known as a bob, is a short to medium length haircut, in which the hair is typically cut straight around the hea...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: knpr.org  
    Title: out there  
-   Link: [https://knpr.org/magazine-desert-companion/2014-11-01/out-there](https://knpr.org/magazine-desert-companion/2014-11-01/out-there)  
+   Link: <a href="https://knpr.org/magazine-desert-companion/2014-11-01/out-there" target="_blank" rel="noopener noreferrer nofollow">https://knpr.org/magazine-desert-companion/2014-11-01/out-there</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Public MediaOut there1 Nov 2014 — That first interview was broadcast in May 1989. Lazar&#x27;s face was hidden and he used a pseudonym...</p></details>
    Published: May 1989  
 
 10. <a id="endnote-10"></a>
    Source: nevadacurrent.com  
-   Link: [https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/](https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/)  
+   Link: <a href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada CurrentUFOs, the Pentagon, and the enigma of Bob Lazar1 Jun 2021 — Lazar surfaced publicly in 1989, when he was interviewed by my...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: welcometobob.com  
-   Link: [https://welcometobob.com/](https://welcometobob.com/)  
+   Link: <a href="https://welcometobob.com/" target="_blank" rel="noopener noreferrer nofollow">https://welcometobob.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BobDesigned to replace plastic bottles, Bob offers a sustainable, plastic reducing solution with its refillable body wash bars. The formu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/news/bob-lazar-ufo-claims-gain-215501635.html](https://www.aol.com/news/bob-lazar-ufo-claims-gain-215501635.html)  
+   Link: <a href="https://www.aol.com/news/bob-lazar-ufo-claims-gain-215501635.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/bob-lazar-ufo-claims-gain-215501635.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s UFO claims gain traction with &#x27;S4&#x27; successBob Lazar, who worked at the S-4 base near Area 51, claims to have seen alien space...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUtnYD4kQH1/?hl=en](https://www.instagram.com/reel/DUtnYD4kQH1/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DUtnYD4kQH1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUtnYD4kQH1/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WOOOOO!!!!!!What made Bob Lazar the perfect person to invite to Area 51 to possibly reverse engineer what could have been alien tech? But...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: in a shocking 1989 interview bob lazar revealed top secret information regarding  
-   Link: [https://www.facebook.com/ancientaliens/posts/in-a-shocking-1989-interview-bob-lazar-revealed-top-secret-information-regarding/1248153377337393/](https://www.facebook.com/ancientaliens/posts/in-a-shocking-1989-interview-bob-lazar-revealed-top-secret-information-regarding/1248153377337393/)  
+   Link: <a href="https://www.facebook.com/ancientaliens/posts/in-a-shocking-1989-interview-bob-lazar-revealed-top-secret-information-regarding/1248153377337393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientaliens/posts/in-a-shocking-1989-interview-bob-lazar-revealed-top-secret-information-regarding/1248153377337393/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a shocking 1989 interview, Bob Lazar revealed top...In a shocking 1989 interview, Bob Lazar revealed top-secret information regarding...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — One of Congress&#x27; most important responsibilities is oversight of the executi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/](https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Scientist, based on testimony by A51 Guard Fred Dunham and Los Alamos...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govGeorge-Knapp-Written-Testimony.pdf9 Sept 2025 — I&#x27;m George Knapp, Chief Investigative Reporter for KLAS-TV in Las Vegas—not a wh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: where is the original bob lazar dennis interview  
-   Link: [https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/](https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/rvfk3p/where_is_the_original_bob_lazar_dennis_interview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where is the original Bob Lazar “Dennis” interview?: r/ufoMay 1989: Lazar contacts George Knapp at KLAS-TV, claims to be CIA &#x27;whistleblo...</p></details>
    Published: May 1989  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: very rare 1989 radio interview with bob lazar  
-   Link: [https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/](https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/13p4y1u/very_rare_1989_radio_interview_with_bob_lazar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(includes...74 votes, 57 comments. Credit due to somebody I&#x27;ve lost track of, but inform yourself: Edit: found it! If you believe Bob, y...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/](https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/s4-the-bob-lazar-story-narrated-by-bob-lazar-himself-recounts-what-he-allegedly-/992022139871470/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 27, 2018 | Openminds.tv. 0 reactions.Read more...</p></details>
-   Published: November 27, 2018  
+   Published: November 27, 2018

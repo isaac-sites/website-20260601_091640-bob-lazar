@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-role-39b0f5/
 nav_short_title: Credential Gap
 title: When does a credential become endorsement?
-title_full: When does a credential become endorsement? | Media Role
+title_full: When does a credential become endorsement?
 display_title_short: Credential Gap
 display_title: Credential Gap
 heading_title: When does a credential become endorsement?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Scientist, Insider or TV Personality? | Taylor
+parent_title: Scientist, Insider or TV Personality?
 parent_permalink: /media-role-39b0f5/
 parent_nav_short_title: Media Role
 parent_heading_title: Scientist, Insider or TV Personality?
@@ -247,7 +247,7 @@ next_link:
   permalink: /media-shift/
   short_title: Media Shift
   heading_title: From garage rockets to ranch mysteries
-date: '2026-06-09 03:10:03 '
+date: '2026-06-11 21:08:27 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endor
 ## Introduction
 
 [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s Pentagon-linked credentials are real, but they are often interpreted by audiences in ways that go beyond what those credentials actually establish. His involvement with the US government's Unidentified Aerial Phenomena Task Force (UAPTF) gave him unusual visibility within the modern UFO debate, especially after it became public in 2022. At the same time, Taylor was already widely known as a television personality on programmes such as *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*. The result is a recurring credibility problem: viewers sometimes treat his government role as confirmation that the claims presented on television have official backing, while critics argue that the connection between the two is frequently overstated. The key question is not whether Taylor had genuine defence-related experience. He did. The more difficult question is what that experience actually validates, and where television promotion begins to blur the line between personal interpretation and institutional judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office of the Director of...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-1-dark.svg" | relative_url }}" alt="Credential Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When does a credential become endorsement?
@@ -276,7 +275,6 @@ Taylor's defence background confirms several things.
 
 It confirms that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * He possesses advanced scientific and engineering qualifications.
@@ -291,10 +289,9 @@ It does not confirm that:
 * The Pentagon endorsed the conclusions shown on *The Secret of Skinwalker Ranch*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 * Government investigators concluded that extraterrestrial explanations were correct.
 * Every anomalous event discussed by Taylor survived official scrutiny.
-* Television experiments were conducted under the standards normally associated with formal government investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span> Wikipedia The distinction matters because credibility debates often collapse these categories into one. Someone may reason that if Taylor worked on a P <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span> entagon UAP programme, then the unusual events he discusses on television must have been effectively validated by the US government. That conclusion does not follow from the available evidence.
+* Television experiments were conducted under the standards normally associated with formal government investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">Pentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span> Wikipedia The distinction matters because credibility debates often collapse these categories into one. Someone may reason that if Taylor worked on a P <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span> entagon UAP programme, then the unusual events he discusses on television must have been effectively validated by the US government. That conclusion does not follow from the available evidence.
 
 Official participation demonstrates involvement. It does not automatically transform personal interpretations into government findings.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EjzB6Dv-ZfY" title="OFF THE CHART FREQUENCIES UNCOVERED | The Secret of Skinwalker Ranch (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EjzB6Dv-ZfY" target="_blank" rel="noopener noreferrer">OFF THE CHART FREQUENCIES UNCOVERED | The Secret of Skinwalker Ranch (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 274.5K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EjzB6Dv-ZfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EjzB6Dv-ZfY">Open on YouTube</a></p></div></div></div>
 
@@ -308,8 +305,7 @@ Yet subsequent Pentagon clarifications added important nuance. According to stat
 
 That clarification did not erase Taylor's involvement. In fact, it confirmed that he genuinely contributed to the task force. What it changed was the perceived scope of authority.
 
-For [supporters]({{ 'supporters-58c2df/' | relative_url }}), the clarification still left the central point intact: Taylor had direct participation in a government UAP programme and therefore possessed unusual insight into the subject. For sceptics, the episode illustrated how media repetition can inflate a credential beyond its documented limits. The disagreement was less about whether Taylor participated and more about how audiences interpreted that participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span>
-
+For [supporters]({{ 'supporters-58c2df/' | relative_url }}), the clarification still left the central point intact: Taylor had direct participation in a government UAP programme and therefore possessed unusual insight into the subject. For sceptics, the episode illustrated how media repetition can inflate a credential beyond its documented limits. The disagreement was less about whether Taylor participated and more about how audiences interpreted that participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">Pentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-2-dark.svg" | relative_url }}" alt="Credential Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why television authority feels stronger than documentary evidence
@@ -326,7 +322,6 @@ Supporters respond that Taylor's presence is precisely what distinguishes the sh
 
 The important point is that neither interpretation automatically follows from the credential itself. The television format adds layers of perception that official records alone do not provide.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SFJrS0GSh_E" title="Amazing That The Skinwalker Ranch Team Records So Many UAPs And Anomalous Data!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SFJrS0GSh_E" target="_blank" rel="noopener noreferrer">Amazing That The Skinwalker Ranch Team Records So Many UAPs And Anomalous Data!</a></p><p class="youtube-embed-meta">Channel: JFree906 - The Freeman Files &middot; Views: 5.1K &middot; Uploaded: July 2025 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SFJrS0GSh_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SFJrS0GSh_E">Open on YouTube</a></p></div></div></div>
 
 ## Why official access can be mistaken for official validation
@@ -337,9 +332,7 @@ Taylor's case illustrates how that confusion develops.
 
 The sequence often works like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cAhDY7biYxM" title="Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 59.6K &middot; Uploaded: November 2022 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cAhDY7biYxM">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -356,13 +349,12 @@ Nothing publicly released by the Pentagon indicates that the Department of Defen
 
 The same principle applies across intelligence, defence and scientific institutions more generally. Governments frequently consult specialists who later express personal views, publish books, appear in documentaries or participate in commercial media. Those later activities may draw credibility from real experience, but they are not necessarily official statements.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-3-dark.svg" | relative_url }}" alt="Credential Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_media_persona_f07133_credential_endorseme_14251a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility effect on Travis Taylor's public image
 
 Taylor's credibility is strengthened by the fact that his defence and government-linked background can be independently verified. He is not merely claiming secret connections without documentary support. Public records, institutional biographies and Pentagon statements confirm that his involvement with defence-related work and the UAP Task Force was genuine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office of the Director of...</span></span></span>
 
-At the same time, the strongest criticism of his public image is not usually that the [credentials]({{ 'credentials/' | relative_url }}) are fabricated. Instead, critics argue that television exposure encourages audiences to treat those credentials as stronger evidence than they actually are. Some sceptical commentators have pointed to the overlap between his government role and his participation in highly speculative television content as a reason for caution when assessing claims presented on screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the travis taylor saga grows stranger and stupider</span><span class="citation-popover-snippet">30 Jun 2022 — ​In an interview last week with George Knapp, Taylor claimed to have served as the UAPTF&#x27;s “chief scientist,” but Pentagon...</span></span></span>
+At the same time, the strongest criticism of his public image is not usually that the [credentials]({{ 'credentials/' | relative_url }}) are fabricated. Instead, critics argue that television exposure encourages audiences to treat those credentials as stronger evidence than they actually are. Some sceptical commentators have pointed to the overlap between his government role and his participation in highly speculative television content as a reason for caution when assessing claims presented on screen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">Pentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">the travis taylor saga grows stranger and stupider</span><span class="citation-popover-snippet">30 Jun 2022 — ​In an interview last week with George Knapp, Taylor claimed to have served as the UAPTF&#x27;s “chief scientist,” but Pentagon...</span></span></span>
 
 That leaves Taylor in an unusual position within the UAP landscape. Unlike purely entertainment-based personalities, he possesses documented institutional experience. Unlike a current government spokesperson, however, he frequently operates in commercial media environments built around mystery, speculation and audience engagement.
 
@@ -485,15 +477,15 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +493,15 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New"><img src="{{ '/assets/images/marketplace-covers/8eb41688fee7f67681a7.jpg' | relative_url }}" alt="Listing image for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +509,15 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +525,15 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +541,7 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="credential-gap-when-does-a-credential-become-endorsement-travis-taylor-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-credential-become-endorsement-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-a-credential-become-endorsement-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,178 +757,178 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
 1. <a id="endnote-1"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office of the Director of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...29 Jun 2022 — Travis Taylor was said to be the “chief scientist.” According to LasVegasNow.com, Dr. Taylor played...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Force mad...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/](https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OPINION: Yes, Science Magazine Printed An Altered...1 Jul 2022 — The article quoted the Pentagon with a statement that seemed to downpla...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...21 Jun 2022 — On June 21, 2022, George Knapp with KLAS-TV exclusively published the identity of one of the scienti...</p></details>
    Published: June 21, 2022  
 
 7. <a id="endnote-7"></a>
    Source: jasoncolavito.com  
    Title: the travis taylor saga grows stranger and stupider  
-   Link: [https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider](https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider)  
+   Link: <a href="https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2022 — ​In an interview last week with George Knapp, Taylor claimed to have served as the UAPTF&#x27;s “chief scientist,” but Pentagon...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v-jD-wqirjQ](https://www.youtube.com/watch?v=v-jD-wqirjQ)  
+   Link: <a href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-jD-wqirjQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with...Dr. Travis Taylor&#x27;s scientific credentials are impressive, which h...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — [UAP],&#x27;7 Pentagon spokesperson Sue Gough told Popular Mechanics at the time. &quot;The mission of the ta...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/](https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRATCOM Reports Reveal Previously Unknown Effort...13 Dec 2022 — The Black Vault reached out to the former chief scientist for the UAP...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/](https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UAP Task Force: Heavily Redacted...12 May 2023 — The Black Vault has filed a FOIA request for videos of these presentations b...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. TaylorTaylor was the chief scientist on the Unidentified Aerial Phenomena Task Force (UAPTF). He is also a Principal Researc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 650K views...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cAhDY7biYxM](https://www.youtube.com/watch?v=cAhDY7biYxM)  
+   Link: <a href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cAhDY7biYxM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Streamed 3 years ago...more. Inside The Black Vault. 90K.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D4CrhcYXk_4](https://www.youtube.com/watch?v=D4CrhcYXk_4)  
+   Link: <a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4CrhcYXk_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkinWalker Ranch reality checkIn this video, Neptunium is reviewing the Skinwalker [Ranch TV](&amp;#123;&amp;#123; &#x27;ranch-tv/&#x27; | relative_url &amp;#125;&amp;#125;) show for a scientific reality check, Most...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Examining the credibility gap: TV persona vs Pentagon scientist  
-   Link: [https://www.youtube.com/watch?v=G5TkTEypJZ0](https://www.youtube.com/watch?v=G5TkTEypJZ0)  
+   Link: <a href="https://www.youtube.com/watch?v=G5TkTEypJZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G5TkTEypJZ0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: Science or spectacle?...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Secret of Skinwalker Ranch: Science or spectacle?  
-   Link: [https://www.youtube.com/watch?v=EjzB6Dv-ZfY](https://www.youtube.com/watch?v=EjzB6Dv-ZfY)  
+   Link: <a href="https://www.youtube.com/watch?v=EjzB6Dv-ZfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EjzB6Dv-ZfY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: Analyzing his technical credentials and UAP claims...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Travis Taylor: Analyzing his technical credentials and UAP claims  
-   Link: [https://www.youtube.com/watch?v=WJR2yge2Od4](https://www.youtube.com/watch?v=WJR2yge2Od4)  
+   Link: <a href="https://www.youtube.com/watch?v=WJR2yge2Od4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJR2yge2Od4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discussing the UAP Task Force and public scientific debate...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Discussing the UAP Task Force and public scientific debate  
-   Link: [https://www.youtube.com/watch?v=SFJrS0GSh_E](https://www.youtube.com/watch?v=SFJrS0GSh_E)  
+   Link: <a href="https://www.youtube.com/watch?v=SFJrS0GSh_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFJrS0GSh_E</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.org  
    Title: pentagon ufo study led researcher who believes supernatural  
-   Link: [https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</p></details>
+   Link: <a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: jasoncolavito.com  
    Title: foia documents reveal lex fridman sought to join pentagon ufo office  
-   Link: [https://www.jasoncolavito.com/blog/foia-documents-reveal-lex-fridman-sought-to-join-pentagon-ufo-office](https://www.jasoncolavito.com/blog/foia-documents-reveal-lex-fridman-sought-to-join-pentagon-ufo-office)  
+   Link: <a href="https://www.jasoncolavito.com/blog/foia-documents-reveal-lex-fridman-sought-to-join-pentagon-ufo-office" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/foia-documents-reveal-lex-fridman-sought-to-join-pentagon-ufo-office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Documents Reveal Lex Fridman Sought to Join...3 Apr 2025 — This reminds me a bit of when Travis Taylor admitted to secretly working...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelDr Travis TaylorDr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science and Engi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceHe was asked to be Chief Scientist and introduced to Congress with the title of Chief Scientis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: uah.edu  
-   Link: [https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch](https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch)  
+   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAH scientists brave curses, spooky anomalies to unravel...If that&#x27;s not enough, the ranch is also said to be cursed by an ancient Navah...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series](https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series)  
+   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor makes a very good point about the use of the word paranormal to describe what goes on at Skinwalker Ranch, though I&#x27;ll admit...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: for informational purposes only the pentagon released its second set of ufo file  
-   Link: [https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/](https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/)  
+   Link: <a href="https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its second set of UFO files on...A 2020 Freedom of Information Act (FOIA) request filed by a UFO disclosure organi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: UF O researcher and filmmaker Jon Stewart claims the U.S  
-   Link: [https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/](https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/)  
+   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; - Travis Taylor – Astrophysicist, former DoD UAP Task Force chief scientist: &quot;UAP propulsion defies physics, consistent with extraterre...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/](https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/)  
+   Link: <a href="https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chief scientist for the Pentagon&#x27;s UAP Task Force. “I would say other than the people who already knew on the task force, you&#x27;re the firs...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/](https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/)  
+   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>asserted that he was the &quot;chief scientist&quot; for a much-anticipated...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
    Title: Do we all agree that Skinwalker Ranch is a grift?  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/](https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m highly...It seems painfully evident that Skinwalker Ranch is one big grift. There is no mention of a science or research in any docu...</p></details>

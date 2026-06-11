@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /dia-papers/
 nav_short_title: Negative energy
 title: Why negative energy is not alien fuel
-title_full: Why negative energy is not alien fuel | DIA Papers
+title_full: Why negative energy is not alien fuel
 display_title_short: Negative energy
 display_title: Negative energy
 heading_title: Why negative energy is not alien fuel
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Do The DIA Papers Really Show? | Davis
+parent_title: What Do The DIA Papers Really Show?
 parent_permalink: /dia-papers/
 parent_nav_short_title: DIA Papers
 parent_heading_title: What Do The DIA Papers Really Show?
@@ -253,7 +253,7 @@ next_link:
   permalink: /warp-drive-bc4c41/
   short_title: Warp drive
   heading_title: Did the warp drive paper prove anything real?
-date: '2026-06-09 03:03:56 '
+date: '2026-06-11 21:07:16 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_ene
 
 ## Introduction
 
-The phrase “negative energy” sits at the centre of some of the most dramatic UFO-adjacent physics claims linked to [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}). In papers associated with the Defence Intelligence Agency’s Advanced Aerospace Weapon System Applications Program, Davis discussed traversable wormholes, [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}) and other extreme spacetime concepts. The crucial point, however, is that negative energy is not imaginary. It appears in real quantum physics. The problem is that the observed forms are tiny, highly constrained and radically different from the vast quantities required by science-fiction-style propulsion. The gap between “negative energy exists in limited laboratory contexts” and “UFOs are using spacetime drives” remains enormous and unbridged by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span> 2arXiv
-
+The phrase “negative energy” sits at the centre of some of the most dramatic UFO-adjacent physics claims linked to Eric Davis. In papers associated with the Defence Intelligence Agency’s Advanced Aerospace Weapon System Applications Program, Davis discussed traversable wormholes, [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}) and other extreme spacetime concepts. The crucial point, however, is that negative energy is not imaginary. It appears in real quantum physics. The problem is that the observed forms are tiny, highly constrained and radically different from the vast quantities required by science-fiction-style propulsion. The gap between “negative energy exists in limited laboratory contexts” and “UFOs are using spacetime drives” remains enormous and unbridged by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span> 2arXiv
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1-dark.svg" | relative_url }}" alt="Negative energy illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters for assessing Davis’s credibility. His DIRD discussions largely drew on published theoretical physics rather than claiming direct proof of alien propulsion. The controversy arises when later UFO commentary treats those theoretical discussions as evidence that exotic propulsion systems are feasible, imminent or secretly operational.
@@ -280,7 +279,6 @@ The Casimir effect does not demonstrate a practical source of limitless exotic f
 
 Davis’s [DIA paper]({{ 'dia-paper-b8f0a1/' | relative_url }}) explicitly worked within this established theoretical literature. Its references point readers toward mainstream discussions by Kip Thorne, Matt Visser, Miguel Alcubierre, Lawrence Ford and Thomas Roman rather than presenting new evidence that exotic propulsion already exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0QOKiDBMhmA" title="The Science That Makes Warp Speed IMPOSSIBLE | Leonard Susskind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0QOKiDBMhmA" target="_blank" rel="noopener noreferrer">The Science That Makes Warp Speed IMPOSSIBLE | Leonard Susskind</a></p><p class="youtube-embed-meta">Channel: SK Explains the Universe &middot; Views: 325 &middot; Uploaded: March 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0QOKiDBMhmA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0QOKiDBMhmA">Open on YouTube</a></p></div></div></div>
 
 ## Why quantum limits matter
@@ -293,18 +291,16 @@ These limits became particularly important because traversable wormholes and war
 
 Several recurring findings emerged from the literature:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Wormhole models often require sustained regions of negative energy.
 * Warp-drive metrics generally require violations of classical energy conditions.
 * Quantum inequalities place strong limits on how much negative energy can exist and for how long.
-* Many proposed geometries demand energy scales that are far beyond anything experimentally accessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivquantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
+* Many proposed geometries demand energy scales that are far beyond anything experimentally accessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">quantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
 
 </div>
 
 This is the point that often disappears when UFO discussions borrow terminology from theoretical physics. The obstacle is not simply that scientists have not yet built a [warp drive]({{ 'warp-drive-bc4c41/' | relative_url }}). The obstacle is that some of the mathematics suggests nature may actively prevent the required conditions from existing at useful scales.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pAk7C0HdGk0" title="Absolute or Relative Energy? &amp; Casimir Effect Negative Energy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pAk7C0HdGk0" target="_blank" rel="noopener noreferrer">Absolute or Relative Energy? &amp; Casimir Effect Negative Energy</a></p><p class="youtube-embed-meta">Channel: Independent Physics &middot; Views: 8.3K &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pAk7C0HdGk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pAk7C0HdGk0">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +313,6 @@ General relativity permits surprising mathematical solutions. Under certain assu
 But a mathematical solution is not an engineering design.
 
 Many theoretical papers investigate questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +328,6 @@ Those are legitimate scientific questions. Researchers explore them because unde
 
 Davis’s DIRD on wormholes and negative energy belongs largely in this tradition. It surveys possibilities suggested by theoretical physics. It does not present laboratory demonstrations, recovered hardware or verified propulsion systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span>
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-2-dark.svg" | relative_url }}" alt="Negative energy illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How UFO claims overstate the concept
 
@@ -341,10 +335,57 @@ The leap from quantum negative energy to UFO propulsion usually happens through 
 
 A common narrative runs as follows:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Negative energy appears in quantum theory.
+2. Negative energy is discussed in wormhole and warp-drive papers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">negative energy wormholes and warp</span><span class="citation-popover-snippet">Negative Energy, Wormholes and Warp Drive1 Jan 2000 — Negative Energy, Wormholes and Warp Drive. The construction of wormholes and warp d...</span></span></span>
+3. Some UFO reports describe extraordinary flight behaviour.
+4. Therefore UFOs may be using negative-energy propulsion.
+
+</div>
+
+Each step individually may be discussed in good faith. The problem is that the final conclusion does not follow automatically from the earlier premises.
+
+Several evidential gaps remain:
+
+**The scale gap.** Observed quantum effects involve microscopic conditions. Proposed warp systems often require astronomical energies or exotic configurations far beyond anything demonstrated experimentally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">The Advanced Aerospace Threat Identification Program... &quot;Traversable Wormholes, Stargates and Negative Energy&quot; ― Eric W. Davis...Read more...</span></span></span>
+
+**The engineering gap.** No verified method exists for producing, storing or controlling the required negative-energy distributions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">quantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
+
+**The observational gap.** No publicly available UFO case has produced direct physical measurements demonstrating a negative-energy field, spacetime distortion or wormhole mechanism.
+
+**The evidential gap.** Even if unidentified aerial phenomena exhibit unusual behaviour, that does not identify the underlying mechanism. Many different explanations remain possible, including sensor limitations, observational ambiguity, advanced but conventional technology, or phenomena not yet understood.
+
+As a result, negative energy often functions more as a speculative explanatory placeholder than as a demonstrated UFO propulsion system.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0tGU2pSLtwI" title="Post-Alcubierre Warp-Drives | Daniel Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0tGU2pSLtwI" target="_blank" rel="noopener noreferrer">Post-Alcubierre Warp-Drives | Daniel Davis</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 6.3K &middot; Uploaded: June 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0tGU2pSLtwI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0tGU2pSLtwI">Open on YouTube</a></p></div></div></div>
+
+## The debate inside speculative physics
+
+The story is not completely one-sided. Some researchers continue exploring whether the energy requirements might be reduced or reformulated.
+
+Over the years, papers by Chris Van Den Broeck, Serguei Krasnikov and others attempted to modify warp-drive models so that they would require less exotic matter than earlier calculations suggested. More recent work has explored whether certain classes of warp geometries could be constructed using positive-energy configurations or alternative spacetime structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ford_Motor_Company" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ford Motor Company</span><span class="citation-popover-snippet">Ford Motor CompanyFord is the second-largest American-based automaker, behind General Motors, and the sixth-largest in the world, with...</span></span></span>
+
+However, these developments should not be mistaken for proof that practical warp drives are becoming feasible.
+
+Many follow-up analyses continue to conclude that physically realistic warp-drive models violate key energy conditions or encounter severe theoretical constraints. Recent reviews of quantum energy inequalities and wormhole physics still emphasise how restrictive these limits remain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/10/7/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Wormhole Restrictions from Quantum Energy Inequalitiesby EA Kontou · 2024 · Cited by 5 — While the achronal ANEC seems to prohibit wo...</span></span></span>
+
+Even where researchers propose improvements, the discussion generally remains within speculative theoretical physics rather than aerospace engineering.
+
+That distinction is easy to lose when technical papers are summarised in headlines, podcasts or UFO documentaries.
+
+<img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-dark.svg" | relative_url }}" alt="Negative energy illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What this means for Eric Davis's credibility
+
+The negative-energy question illustrates a broader pattern in debates about Davis.
+
+Supporters argue that his work deserves more serious attention than casual dismissal because it engages with genuine theoretical physics and references mainstream scientific literature. His DIRDs were real government-contracted documents, and the concepts discussed were not invented by UFO enthusiasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span>
+
+Critics respond that citing accepted physics concepts does not validate the extraordinary conclusions sometimes attached to them. They note that the strongest parts of the literature concern mathematical possibilities, while the weakest link is the jump from possibility to practical technology. The existence of equations describing wormholes is not evidence that anyone has built one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">quantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
+
+For credibility assessment, the key distinction is between discussing speculative mechanisms and demonstrating them. Davis’s published work shows familiarity with advanced theoretical ideas. It does not, by itself, demonstrate that UFOs employ negative-energy propulsion, that such systems are technologically achievable, or that any government possesses functioning versions of them.
+
+The enduring attraction of negative energy in UFO discourse comes from the fact that it is neither pure fantasy nor established engineering. It occupies an unusual middle ground: a real feature of certain quantum calculations whose known forms are tiny and constrained, yet whose more dramatic theoretical implications continue to inspire speculation. That narrow opening between accepted physics and extraordinary possibility is precisely where many UFO technology claims attempt to operate, and where the evidence remains weakest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,15 +504,15 @@ A common narrative runs as follows:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice"><img src="https://i.ebayimg.com/images/g/Qw8AAOSwVANmPi53/s-l225.jpg" alt="Listing image for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +520,15 @@ A common narrative runs as follows:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny"><img src="https://i.ebayimg.com/images/g/R3UAAOSwTRhmB6B~/s-l225.jpg" alt="Listing image for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +536,15 @@ A common narrative runs as follows:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE"><img src="https://i.ebayimg.com/images/g/yCwAAOSwl69jbffu/s-l225.jpg" alt="Listing image for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +552,15 @@ A common narrative runs as follows:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bitcoin Warp Drive Faster Crypto Fu Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fMUAAeSwCfZp2SGk/s-l225.jpg" alt="Listing image for Bitcoin Warp Drive Faster Crypto Fu Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Bitcoin Warp Drive Faster Crypto Fu Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +568,7 @@ A common narrative runs as follows:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="negative-energy-why-negative-energy-is-not-alien-fuel-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-is-not-alien-fuel-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="why-negative-energy-is-not-alien-fuel-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -738,220 +779,169 @@ A common narrative runs as follows:
 </script>
 </section>
 
-2. Negative energy is discussed in wormhole and warp-drive papers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">negative energy wormholes and warp</span><span class="citation-popover-snippet">Negative Energy, Wormholes and Warp Drive1 Jan 2000 — Negative Energy, Wormholes and Warp Drive. The construction of wormholes and warp d...</span></span></span>
-3. Some UFO reports describe extraordinary flight behaviour.
-4. Therefore UFOs may be using negative-energy propulsion.
-
-</div>
-
-Each step individually may be discussed in good faith. The problem is that the final conclusion does not follow automatically from the earlier premises.
-
-Several evidential gaps remain:
-
-**The scale gap.** Observed quantum effects involve microscopic conditions. Proposed warp systems often require astronomical energies or exotic configurations far beyond anything demonstrated experimentally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">The Advanced Aerospace Threat Identification Program... &quot;Traversable Wormholes, Stargates and Negative Energy&quot; ― Eric W. Davis...Read more...</span></span></span>
-
-**The engineering gap.** No verified method exists for producing, storing or controlling the required negative-energy distributions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivquantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
-
-**The observational gap.** No publicly available UFO case has produced direct physical measurements demonstrating a negative-energy field, spacetime distortion or wormhole mechanism.
-
-**The evidential gap.** Even if unidentified aerial phenomena exhibit unusual behaviour, that does not identify the underlying mechanism. Many different explanations remain possible, including sensor limitations, observational ambiguity, advanced but conventional technology, or phenomena not yet understood.
-
-As a result, negative energy often functions more as a speculative explanatory placeholder than as a demonstrated UFO propulsion system.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0tGU2pSLtwI" title="Post-Alcubierre Warp-Drives | Daniel Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0tGU2pSLtwI" target="_blank" rel="noopener noreferrer">Post-Alcubierre Warp-Drives | Daniel Davis</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 6.3K &middot; Uploaded: June 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0tGU2pSLtwI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0tGU2pSLtwI">Open on YouTube</a></p></div></div></div>
-
-## The debate inside speculative physics
-
-The story is not completely one-sided. Some researchers continue exploring whether the energy requirements might be reduced or reformulated.
-
-Over the years, papers by Chris Van Den Broeck, Serguei Krasnikov and others attempted to modify warp-drive models so that they would require less exotic matter than earlier calculations suggested. More recent work has explored whether certain classes of warp geometries could be constructed using positive-energy configurations or alternative spacetime structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ford_Motor_Company" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ford Motor Company</span><span class="citation-popover-snippet">Ford Motor CompanyFord is the second-largest American-based automaker, behind General Motors, and the sixth-largest in the world, with...</span></span></span>
-
-However, these developments should not be mistaken for proof that practical warp drives are becoming feasible.
-
-Many follow-up analyses continue to conclude that physically realistic warp-drive models violate key energy conditions or encounter severe theoretical constraints. Recent reviews of quantum energy inequalities and wormhole physics still emphasise how restrictive these limits remain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-1997/10/7/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIWormhole Restrictions from Quantum Energy Inequalitiesby EA Kontou · 2024 · Cited by 5 — While the achronal ANEC seems to prohibit wo...</span></span></span>
-
-Even where researchers propose improvements, the discussion generally remains within speculative theoretical physics rather than aerospace engineering.
-
-That distinction is easy to lose when technical papers are summarised in headlines, podcasts or UFO documentaries.
-
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-dark.svg" | relative_url }}" alt="Negative energy illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What this means for Eric Davis's credibility
-
-The negative-energy question illustrates a broader pattern in debates about Davis.
-
-Supporters argue that his work deserves more serious attention than casual dismissal because it engages with genuine theoretical physics and references mainstream scientific literature. His DIRDs were real government-contracted documents, and the concepts discussed were not invented by UFO enthusiasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</span></span></span>
-
-Critics respond that citing accepted physics concepts does not validate the extraordinary conclusions sometimes attached to them. They note that the strongest parts of the literature concern mathematical possibilities, while the weakest link is the jump from possibility to practical technology. The existence of equations describing wormholes is not evidence that anyone has built one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivquantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</span></span></span>
-
-For credibility assessment, the key distinction is between discussing speculative mechanisms and demonstrating them. Davis’s published work shows familiarity with advanced theoretical ideas. It does not, by itself, demonstrate that UFOs employ negative-energy propulsion, that such systems are technologically achievable, or that any government possesses functioning versions of them.
-
-The enduring attraction of negative energy in UFO discourse comes from the fact that it is neither pure fantasy nor established engineering. It occupies an unusual middle ground: a real feature of certain quantum calculations whose known forms are tiny and constrained, yet whose more dramatic theoretical implications continue to inspire speculation. That narrow opening between accepted physics and extraordinary possibility is precisely where many UFO technology claims attempt to operate, and where the evidence remains weakest.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/gr-qc/9711030](https://arxiv.org/pdf/gr-qc/9711030)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivquantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</p></details>
+   Link: <a href="https://arxiv.org/pdf/gr-qc/9711030" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/gr-qc/9711030</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>quantum inequalities and singular negative energy densitiesby LH Ford · 1997 · Cited by 1 — More specifically, either the wormhole m...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alcubierre drive  
-   Link: [https://en.wikipedia.org/wiki/Alcubierre_drive](https://en.wikipedia.org/wiki/Alcubierre_drive)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alcubierre_drive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alcubierre_drive</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/4ac8wj/does_the_existence_of_the_casimir_effect_prove/](https://www.reddit.com/r/askscience/comments/4ac8wj/does_the_existence_of_the_casimir_effect_prove/)  
+   Link: <a href="https://www.reddit.com/r/askscience/comments/4ac8wj/does_the_existence_of_the_casimir_effect_prove/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/4ac8wj/does_the_existence_of_the_casimir_effect_prove/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>l that matters and is physically measurable is its variation...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2218-1997/10/7/291](https://www.mdpi.com/2218-1997/10/7/291)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIWormhole Restrictions from Quantum Energy Inequalitiesby EA Kontou · 2024 · Cited by 5 — While the achronal ANEC seems to prohibit wo...</p></details>
+   Link: <a href="https://www.mdpi.com/2218-1997/10/7/291" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/10/7/291</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wormhole Restrictions from Quantum Energy Inequalitiesby EA Kontou · 2024 · Cited by 5 — While the achronal ANEC seems to prohibit wo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: casimir.be  
-   Link: [https://www.casimir.be/](https://www.casimir.be/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Casimir — FurnitureArtistCasimir is a furnituremaker. His style strips his furniture to the essence, to what it was originally designed f...</p></details>
+   Link: <a href="https://www.casimir.be/" target="_blank" rel="noopener noreferrer nofollow">https://www.casimir.be/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FurnitureArtistCasimir is a furnituremaker. His style strips his furniture to the essence, to what it was originally designed f...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/IsaacArthur/comments/179us1j/casimir_effect_applications/](https://www.reddit.com/r/IsaacArthur/comments/179us1j/casimir_effect_applications/)  
+   Link: <a href="https://www.reddit.com/r/IsaacArthur/comments/179us1j/casimir_effect_applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IsaacArthur/comments/179us1j/casimir_effect_applications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Casimir Effect Applications: r/IsaacArthurIt reliably sticks two things together without glue, which isn&#x27;t what we wanted but might be a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/](https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis: r/UFOsEric Davis publicly stated that US government recovered off world vehicles. He gave briefing to some politicians few y...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Casimir (personnage)  
-   Link: [https://fr.wikipedia.org/wiki/Casimir_%28personnage%29](https://fr.wikipedia.org/wiki/Casimir_%28personnage%29)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Casimir_%28personnage%29" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Casimir_%28personnage%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Casimir (personnage)Casimir est un personnage de fiction français créé par Yves Brunier et Christophe Izard dans les années 1970. Casi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Casimir effect  
-   Link: [https://en.wikipedia.org/wiki/Casimir_effect](https://en.wikipedia.org/wiki/Casimir_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Casimir_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Casimir_effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Casimir effectThe Casimir effect shows that quantum field theory allows the energy density in very small regions of space to be negati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Threat Identification Program... &quot;Traversable Wormholes, Stargates and Negative Energy&quot; ― Eric W. Davis...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ford Motor Company  
-   Link: [https://en.wikipedia.org/wiki/Ford_Motor_Company](https://en.wikipedia.org/wiki/Ford_Motor_Company)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ford_Motor_Company" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ford_Motor_Company</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Motor CompanyFord is the second-largest American-based automaker, behind General Motors, and the sixth-largest in the world, with...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2405.05963v1](https://arxiv.org/html/2405.05963v1)  
+   Link: <a href="https://arxiv.org/html/2405.05963v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.05963v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wormhole restrictions from quantum energy inequalities9 May 2024 — While the achronal ANEC seems to prohibit wormholes as “shortcuts” 1 1...</p></details>
    Published: May 2024  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1302.2859](https://arxiv.org/abs/1302.2859)  
+   Link: <a href="https://arxiv.org/abs/1302.2859" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1302.2859</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>negative energy, e.g., the maintenance of traversable wormholes.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2311.12069](https://arxiv.org/pdf/2311.12069)  
+   Link: <a href="https://arxiv.org/pdf/2311.12069" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.12069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hyperwaveby L Pieri · 2023 — Warp-drives are solutions of general relativity widely considered unphysical due to high negative energy req...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: documents.theblackvault.com  
    Title: B.Read more  
-   Link: [https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf](https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: inspirehep.net  
-   Link: [https://inspirehep.net/literature/401657](https://inspirehep.net/literature/401657)  
+   Link: <a href="https://inspirehep.net/literature/401657" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/401657</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L.H.... Wormholes, Time Machines, and the Weak Energy Condition · M.S. Morris(. Caltech.).Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: inspirehep.net  
-   Link: [https://inspirehep.net/literature/470209](https://inspirehep.net/literature/470209)  
+   Link: <a href="https://inspirehep.net/literature/470209" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/470209</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantum field theory constrains traversable wormhole geometries · L.H....Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: inspirehep.net  
-   Link: [https://inspirehep.net/literature/450874](https://inspirehep.net/literature/450874)  
+   Link: <a href="https://inspirehep.net/literature/450874" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/450874</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford(. MIT, LNS and; Tufts U.). Thomas A. Roman(. Tufts U. and; Central Connecticut...Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: inspirehep.net  
-   Link: [https://inspirehep.net/literature/611021](https://inspirehep.net/literature/611021)  
+   Link: <a href="https://inspirehep.net/literature/611021" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/611021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable wormholes with arbitrarily small energy...by M Visser · 2003 · Cited by 670 — Traversable wormholes necessarily require viol...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/26058563](https://www.jstor.org/stable/26058563)  
+   Link: <a href="https://www.jstor.org/stable/26058563" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26058563</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Because negative energy is gravitationally repulsive, it would prevent the wormhole from...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scientificamerican.com  
    Title: negative energy wormholes and warp  
-   Link: [https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/](https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/)  
+   Link: <a href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Energy, Wormholes and Warp Drive1 Jan 2000 — Negative Energy, Wormholes and Warp Drive. The construction of wormholes and warp d...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: cropper.watch.aetnd.com  
-   Link: [https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf](https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf)  
+   Link: <a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wormholes, Stargates, and Negative EnergyA &quot;stargate&quot; is a special class of traversable wormhole solutions to Einstein&#x27;s general relativi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=141629](https://www.scirp.org/journal/paperinformation?paperid=141629)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=141629" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=141629</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Alcubierre Warp Drive ShipOne of the primary obstacles to realizing an Alcubierre drive is the requirement for negative ene...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sfu.ca  
-   Link: [https://www.sfu.ca/~adebened/funstuff/warpdrive.html](https://www.sfu.ca/~adebened/funstuff/warpdrive.html)  
+   Link: <a href="https://www.sfu.ca/~adebened/funstuff/warpdrive.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~adebened/funstuff/warpdrive.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics and Mathematics of Warp DriveThe problem is, this &quot;Casimir&quot; effect is very small and, if you include the energy associated wi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pdfcoffee.com  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/1964455_Constraints_on_Spatial_distributions_of_Negative_Energy](https://www.researchgate.net/publication/1964455_Constraints_on_Spatial_distributions_of_Negative_Energy)  
+   Link: <a href="https://www.researchgate.net/publication/1964455_Constraints_on_Spatial_distributions_of_Negative_Energy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/1964455_Constraints_on_Spatial_distributions_of_Negative_Energy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Article. Oct 2004. Thomas A. Roman. This essay reviews some of the recent progress in the area of energy...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N](https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N)  
+   Link: <a href="https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy fund here: [https://lnkd.in/e5uTgK3a](https://lnkd.in/e5uTgK3a).... NEW PDF...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: vixra.org  
-   Link: [https://vixra.org/abs/1307.0070](https://vixra.org/abs/1307.0070)  
+   Link: <a href="https://vixra.org/abs/1307.0070" target="_blank" rel="noopener noreferrer nofollow">https://vixra.org/abs/1307.0070</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n Alcubierre warp drive and they arrived at the result of $10$ times the mass...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: universetoday.com  
    Title: what rules actually prohibit us from building a warp drive  
-   Link: [https://www.universetoday.com/articles/what-rules-actually-prohibit-us-from-building-a-warp-drive](https://www.universetoday.com/articles/what-rules-actually-prohibit-us-from-building-a-warp-drive)  
+   Link: <a href="https://www.universetoday.com/articles/what-rules-actually-prohibit-us-from-building-a-warp-drive" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/what-rules-actually-prohibit-us-from-building-a-warp-drive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Mar 22, 2025 — Yes, the Casimir effect is this weird quantum interaction where local energy density can be negative, and in a sense the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/364505134/Ford-1991](https://www.scribd.com/document/364505134/Ford-1991)  
+   Link: <a href="https://www.scribd.com/document/364505134/Ford-1991" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/364505134/Ford-1991</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It summarizes and expands on previous work arguing that a negative energy...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)(PDF  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19. Antigravity for Aerospace Applications (PDF - 44 Pages) · 20...</p></details>

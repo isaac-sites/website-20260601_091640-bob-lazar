@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /influence/
 nav_short_title: Records Law
 title: The disclosure win that was not proof
-title_full: The disclosure win that was not proof | Influence
+title_full: The disclosure win that was not proof
 display_title_short: Records Law
 display_title: Records Law
 heading_title: The disclosure win that was not proof
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Grusch Shifted UAP Debate | Grusch
+parent_title: How Grusch Shifted UAP Debate
 parent_permalink: /influence/
 parent_nav_short_title: Influence
 parent_heading_title: How Grusch Shifted UAP Debate
@@ -247,7 +247,7 @@ prev_link:
   permalink: /house-hearing/
   short_title: House Hearing
   heading_title: Did the hearing change anything real?
-date: '2026-06-09 02:52:52 '
+date: '2026-06-11 21:01:39 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-1.webp
@@ -256,18 +256,16 @@ image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_pro
 
 ## Introduction
 
-One of the most important outcomes of the [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }}) episode was not evidence of hidden spacecraft. It was a change in government procedure. After Grusch alleged that information about UAPs (unidentified anomalous phenomena) had been withheld from Congress and hidden inside special-access programmes, lawmakers responded by trying to build a formal records-disclosure system. The result was a rare situation in which controversial UFO claims helped produce a real transparency mechanism, even while the underlying allegations remained unproven.
-
+One of the most important outcomes of the David Grusch episode was not evidence of hidden spacecraft. It was a change in government procedure. After Grusch alleged that information about UAPs (unidentified anomalous phenomena) had been withheld from Congress and hidden inside special-access programmes, lawmakers responded by trying to build a formal records-disclosure system. The result was a rare situation in which controversial UFO claims helped produce a real transparency mechanism, even while the underlying allegations remained unproven.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-1-dark.svg" | relative_url }}" alt="Records Law illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters when assessing Grusch's credibility. His claims about crash-retrieval programmes, non-human technology and [biologics]({{ 'biologics/' | relative_url }}) remain disputed and unsupported by publicly released [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}). However, his emergence helped accelerate congressional efforts to force agencies to identify, organise and review UAP-related records. The procedural change is verifiable. Whether the extraordinary claims behind it are true remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
+That distinction matters when assessing Grusch's credibility. His claims about crash-retrieval programmes, non-human technology and [biologics]({{ 'biologics/' | relative_url }}) remain disputed and unsupported by publicly released physical evidence. However, his emergence helped accelerate congressional efforts to force agencies to identify, organise and review UAP-related records. The procedural change is verifiable. Whether the extraordinary claims behind it are true remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
 
 ## What the Schumer–Rounds proposal tried to do
 
 In July 2023, shortly after Grusch's public allegations gained national attention, Senate Majority Leader Chuck Schumer and Senator Mike Rounds introduced the UAP Disclosure Act as an amendment to the National Defense Authorization Act (NDAA). The proposal was modelled partly on the framework used for the John F. Kennedy assassination records. Senate Democratic Leadership <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: young.senate.gov">[Senator Young]</a><span class="citation-popover" role="note"><span class="citation-popover-source">young.senate.gov</span><span class="citation-popover-snippet">Senator YoungModeled After JFK Assassination Records Collection Act...Young, Colleagues Introduce New Legislation To Declassify Governme...</span></span></span>
 
 The proposal went far beyond simply releasing a few reports. It attempted to create a structured disclosure regime with several major features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -282,7 +280,6 @@ The proposal went far beyond simply releasing a few reports. It attempted to cre
 The proposal was notable because it treated the secrecy question itself as a matter for investigation. Congress was not declaring that alien craft existed. Instead, lawmakers were building a process to determine whether records had been improperly withheld and whether historical UAP files should be opened to the public. Supporters described it as a transparency measure rather than an endorsement of extraterrestrial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
 
 For Grusch, this was politically significant. His allegations had moved beyond media interviews and hearings into proposed statutory language. Congress was effectively saying that claims of hidden UAP information were serious enough to justify a dedicated records-review framework, regardless of whether the claims were ultimately validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8XZpOFGlrmQ" title="Exclusive: Senator confident UAP Disclosure Amendment will stay in NDAA | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8XZpOFGlrmQ" target="_blank" rel="noopener noreferrer">Exclusive: Senator confident UAP Disclosure Amendment will stay in NDAA | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 107.0K &middot; Uploaded: September 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8XZpOFGlrmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8XZpOFGlrmQ">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +296,6 @@ Even in its reduced form, however, the final law still imposed real obligations.
 The enacted provisions required the National Archives and Records Administration (NARA) to establish a dedicated UAP Records Collection. Federal agencies were directed to identify, organise and prepare UAP-related records for disclosure and transfer. Agencies were also required to conduct reviews of records in their custody and coordinate with the archival process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
 
 In other words, the strongest disclosure ambitions were diluted, but the government still created a formal records-management system specifically for UAP material.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-2-dark.svg" | relative_url }}" alt="Records Law illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The archives requirement was a genuine policy change
@@ -319,7 +315,6 @@ The practical significance of the law was therefore procedural rather than revel
 
 None of those steps prove Grusch's allegations. They do, however, create mechanisms that future investigators can use to test them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6sA1sGL5pi0" title="Congress pushes for UFO disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6sA1sGL5pi0" target="_blank" rel="noopener noreferrer">Congress pushes for UFO disclosure</a></p><p class="youtube-embed-meta">Channel: Scripps News &middot; Views: 47.1K &middot; Uploaded: December 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6sA1sGL5pi0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6sA1sGL5pi0">Open on YouTube</a></p></div></div></div>
 
 ## Why records review matters for Grusch's credibility
@@ -334,7 +329,6 @@ Sceptics draw a different conclusion. They argue that governments often investig
 
 That distinction is crucial. A records law is evidence that allegations triggered oversight. It is not evidence that the allegations themselves were correct.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-3-dark.svg" | relative_url }}" alt="Records Law illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_uap_records_procedur_0e2f34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The tension between disclosure efforts and Pentagon findings
 
@@ -342,7 +336,7 @@ The procedural victory also unfolded alongside official findings that cut agains
 
 In 2024, the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) released a historical review stating that it found no verifiable evidence that the US government possessed extraterrestrial technology, operated hidden reverse-engineering programmes involving non-human craft, or concealed such programmes from Congress. AARO said it found no empirical support for longstanding claims about recovered alien vehicles or biological remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> [3AARO 3U.S.] Department of War
 
-For critics, this is the most important counterweight to the disclosure narrative. If official reviews continue finding no supporting evidence, then records legislation may ultimately reveal bureaucratic confusion, misidentified programmes or fragmented rumours rather than hidden spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — Aliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP Program...</span></span></span>
+For critics, this is the most important counterweight to the disclosure narrative. If official reviews continue finding no supporting evidence, then records legislation may ultimately reveal bureaucratic confusion, misidentified programmes or fragmented rumours rather than hidden spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Aliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP Program...</span></span></span>
 
 Supporters of Grusch respond that records-review systems exist precisely because official conclusions can be challenged. They argue that an archival process is valuable regardless of AARO's findings because it allows outside researchers, journalists and future investigators to examine more material directly rather than relying solely on executive-branch assurances. That argument does not prove Grusch right, but it explains why disclosure advocates viewed the records provisions as meaningful even after adverse Pentagon assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
 
@@ -356,9 +350,7 @@ At the same time, the creation of those mechanisms did not verify claims about r
 
 That is why the records legislation represents a procedural disclosure win rather than an evidential one. It changed how the government must handle UAP records. It did not settle whether David Grusch's underlying claims are true.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z8a0P617nqw" title="&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer">&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 37.6K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z8a0P617nqw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -372,16 +364,16 @@ That is why the records legislation represents a procedural disclosure win rathe
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Directly tied to the transparency and oversight themes surrounding UAP records.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -389,16 +381,16 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Covers alleged secrecy, documentation and government accountability questions.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -406,16 +398,16 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Explores classified programs, records and government secrecy frameworks.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -423,16 +415,16 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon Papers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bI4BxhtlMs8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Pentagon Papers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon Papers">The Pentagon Papers</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Neil Sheehan</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Provides historical perspective on government records battles and oversight.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +432,7 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,15 +469,15 @@ That is why the records legislation represents a procedural disclosure win rathe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +485,15 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +501,15 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +517,15 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +533,7 @@ That is why the records legislation represents a procedural disclosure win rathe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="records-law-the-disclosure-win-that-was-not-proof-david-grusch-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-disclosure-win-that-was-not-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-disclosure-win-that-was-not-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -756,182 +748,182 @@ That is why the records legislation represents a procedural disclosure win rathe
 
 1. <a id="endnote-1"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...14 Jul 2023 — The legislation introduced as an ame...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
    Published: October 20, 2024  
 
 3. <a id="endnote-3"></a>
    Source: young.senate.gov  
-   Link: [https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/](https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/)  
+   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Young, Colleagues Introduce New Legislation To Declassify Governme...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — lous Phenomena Disclosure Act of 2023&#x27;&#x27; or the &#x27;&#x27;UAP. 7. Disclosure... disclos...</p></details>
    Published: May 2023  
 
 5. <a id="endnote-5"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-[hearing](https://time.com/6298287/congress-ufo-[hearing)  
+   Link: <a href="https://time.com/6298287/congress-ufo-[hearing" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-[hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — UAP records received by NARA from federal age...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-04-2025](https://www.archives.gov/records-mgmt/memos/ac-04-2025)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — This memo is for federal agencies with UAP records responsive to sections 1841–1843 of the 2024...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecord Group 615: Unidentified Anomalous Phenomena...20 Feb 2026 — The 2024 National Defense Authorization Act requires...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA will make publicly releasable copies of these records available...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...6 Mar 2024 — Aliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP Program...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Aliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP Program...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — AARO has found no verifiable evidence that any U...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: [https://www.archives.gov/press/press-releases/2025/nr25-07](https://www.archives.gov/press/press-releases/2025/nr25-07)  
+   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Releases UAP RecordsApr 24, 2025 — The National Archives and Records Administration (NARA) today released new records r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress](https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress)  
+   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Act had aimed to rebuild public trust by uncovering government secrets about unidentified aerial phenomena (UAPs). This in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: blogs.lse.ac.uk  
    Title: thinking critically to evaluate the new news about ufos and aliens  
-   Link: [https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/](https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/)  
+   Link: <a href="https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsThinking critically to evaluate the new “news” about UFOs...2 Aug 2023 — “The military is running a UAP (UFO) retrieval (and re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: National Archives and Records Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration](https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records AdministrationThe National Archives and Records Administration (NARA) is an independent agency of the Un...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: A whistleblower claims the US has alien vehicles  
-   Link: [https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof](https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But...9 Jun 2023 — “To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the p...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: popularmechanics.com  
    Title: uap disclosure act  
-   Link: [https://www.popularmechanics.com/military/a46105999/uap-disclosure-act/](https://www.popularmechanics.com/military/a46105999/uap-disclosure-act/)  
+   Link: <a href="https://www.popularmechanics.com/military/a46105999/uap-disclosure-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a46105999/uap-disclosure-act/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know About the UAP Disclosure Act14 Dec 2023 — A proposed law that would have compelled the US government to colle...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript](https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[House Hearing](&amp;#123;&amp;#123; &#x27;house-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uniden...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: insidegovernmentcontracts.com  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Government ContractsImplications of the Unidentified Anomalous Phenomena...9 Jan 2024 — The more benign UAP provisions remaining...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/12/07/government-uap-records-repository-on-the-verge-of-becoming-law-opened-to-public-viewing/](https://defensescoop.com/2023/12/07/government-uap-records-repository-on-the-verge-of-becoming-law-opened-to-public-viewing/)  
+   Link: <a href="https://defensescoop.com/2023/12/07/government-uap-records-repository-on-the-verge-of-becoming-law-opened-to-public-viewing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/12/07/government-uap-records-repository-on-the-verge-of-becoming-law-opened-to-public-viewing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government UAP records repository on the verge of...7 Dec 2023 — The House-Senate conference version of the 2024 NDAA directs the creati...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: new to maximize transparency the national archives has released new records rel  
-   Link: [https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/](https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/-new-to-maximize-transparency-the-national-archives-has-released-new-records-rel/1064767475698845/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US National ArchivesThe UAP Disclosure Act of 2024 (NDAA FY 2024, Public Law 118-31, Sections 1841–1843) requires the Department of Defen...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8XZpOFGlrmQ](https://www.youtube.com/watch?v=8XZpOFGlrmQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8XZpOFGlrmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8XZpOFGlrmQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: Senator confident UAP Disclosure Amendment will...NewsNation&#x27;s Joe Khalil caught up with Sen. Mike Rounds, R-S.D., for an exc...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: newparadigminstitute.org  
    Title: Rounds-Schumer UAP Disclosure Act– Full Text On July 11, U.S  
-   Link: [https://newparadigminstitute.org/learn/library/uap-disclosure-act-of-2024-full-text/](https://newparadigminstitute.org/learn/library/uap-disclosure-act-of-2024-full-text/)  
+   Link: <a href="https://newparadigminstitute.org/learn/library/uap-disclosure-act-of-2024-full-text/" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/uap-disclosure-act-of-2024-full-text/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator Mike Rounds (R-SD) and Senate Majority Leader Chuck Schumer (D-NY) reintroduced the Unidentified Anomalous Phenomena Disclosure A...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: meritalk.com  
    Title: nara gives feds instructions on ufo records classification  
-   Link: [https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/](https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/)  
+   Link: <a href="https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nara-gives-feds-instructions-on-ufo-records-classification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 May 2024 — Under a new records management provision — which was tucked into the 2024 National Defense Authorization Act — NARA is requ...</p></details>
    Published: May 2024  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: [https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024](https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense Authorization Act for Fiscal Year 2024The National Defense Authorization Act for Fiscal Year 2024 (NDAA 2024) is a Un...</p></details>

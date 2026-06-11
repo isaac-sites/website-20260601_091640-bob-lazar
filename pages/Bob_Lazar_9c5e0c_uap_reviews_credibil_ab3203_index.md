@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-uap-reviews-credibil/
 description: Focused pages that expand on UAP Reviews.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203
-parent_title: UAP Reviews | Did Bob Lazar's Story Hold Up?
+parent_title: UAP Reviews
 parent_nav_short_title: UAP Reviews
 parent_permalink: /uap-reviews/
 ---

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /source-type/
 nav_short_title: Layered memo
 title: What did the Wilson Davis memo really show?
-title_full: What did the Wilson Davis memo really show? | Source Type
+title_full: What did the Wilson Davis memo really show?
 display_title_short: Layered memo
 display_title: Layered memo
 heading_title: What did the Wilson Davis memo really show?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Was Davis A Witness Or A Messenger? | Davis
+parent_title: Was Davis A Witness Or A Messenger?
 parent_permalink: /source-type/
 parent_nav_short_title: Source Type
 parent_heading_title: Was Davis A Witness Or A Messenger?
@@ -253,7 +253,7 @@ next_link:
   permalink: /secrecy-gap-5463d5/
   short_title: Secrecy gap
   heading_title: Can classification stand in for evidence?
-date: '2026-06-09 03:04:53 '
+date: '2026-06-11 21:07:27 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-1.webp
@@ -262,18 +262,16 @@ image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis
 
 ## Introduction
 
-The Wilson-Davis memo is often presented as one of the most important alleged UFO disclosure documents ever leaked. In reality, its value depends heavily on how readers separate different layers of reporting inside it. The document is not a photograph of a recovered craft, a government report, a laboratory record, or a signed official memorandum. It is widely described as notes attributed to physicist [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) following a 2002 conversation with former Defence Intelligence Agency official Thomas Wilson. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
-
+The Wilson-Davis memo is often presented as one of the most important alleged UFO disclosure documents ever leaked. In reality, its value depends heavily on how readers separate different layers of reporting inside it. The document is not a photograph of a recovered craft, a government report, a laboratory record, or a signed official memorandum. It is widely described as notes attributed to physicist Eric Davis following a 2002 conversation with former Defence Intelligence Agency official Thomas Wilson. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-1-dark.svg" | relative_url }}" alt="Layered memo illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because the memo contains several different kinds of information at once. Some parts are claims about a meeting that may or may not have occurred. Other parts are Wilson's alleged recollections of events from the late 1990s. Still other parts involve claims supposedly made by unnamed programme managers at an unidentified defence contractor. By the time readers reach the most dramatic allegations about recovered craft and reverse-engineering efforts, they are already several layers removed from direct observation. The memo therefore serves as a useful case study in the difference between first-hand access, second-hand testimony, and accumulated hearsay.
 
 ## What did the memo actually claim?
 
-According to the leaked notes, Davis met Wilson in 2002 and recorded a lengthy conversation about Wilson's earlier attempts to investigate an alleged deeply hidden special access programme. Wilson was reportedly described as having pursued rumours of a crash-retrieval effort while serving in senior intelligence positions, only to be denied access by programme gatekeepers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+According to the leaked notes, Davis met Wilson in 2002 and recorded a lengthy conversation about Wilson's earlier attempts to investigate an alleged deeply hidden special access programme. Wilson was reportedly described as having pursued rumours of a crash-retrieval effort while serving in senior intelligence positions, only to be denied access by programme gatekeepers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 The broad narrative has three stages:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -293,7 +291,7 @@ A more careful reading reveals several reporting layers.
 
 ### Layer one: the document itself
 
-At the most basic level, the leaked pages are simply notes. Even supporters generally describe them as notes attributed to Davis rather than a formal government record. The pages surfaced years later and are commonly said to have emerged from materials connected to the estate of Apollo astronaut Edgar Mitchell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditComplete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</span><span class="citation-popover-meta">Published: June 13, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">RedditThe alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span>
+At the most basic level, the leaked pages are simply notes. Even supporters generally describe them as notes attributed to Davis rather than a formal government record. The pages surfaced years later and are commonly said to have emerged from materials connected to the estate of Apollo astronaut Edgar Mitchell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Complete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</span><span class="citation-popover-meta">Published: June 13, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span>
 
 If authentic, this layer establishes only that someone created notes describing a conversation. It does not automatically establish that every statement recorded in the notes is accurate.
 
@@ -301,7 +299,7 @@ If authentic, this layer establishes only that someone created notes describing 
 
 The next layer concerns whether Wilson actually said what the notes attribute to him.
 
-The document's central narrative depends on the assumption that Wilson genuinely recounted these events to Davis. Yet Wilson has repeatedly denied the story's core claims. He has characterised the document as fiction and disputed major elements of the alleged conversation. He has also challenged details such as the claimed setting and his relationship with some individuals named in the notes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
+The document's central narrative depends on the assumption that Wilson genuinely recounted these events to Davis. Yet Wilson has repeatedly denied the story's core claims. He has characterised the document as fiction and disputed major elements of the alleged conversation. He has also challenged details such as the claimed setting and his relationship with some individuals named in the notes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
 
 This does not automatically prove the notes are false. People sometimes deny genuine conversations involving sensitive matters. However, Wilson's denials mean the memo cannot simply be treated as uncontested testimony.
 
@@ -311,17 +309,14 @@ Even if one assumes Wilson accurately told the story described in the notes, the
 
 According to the memo, Wilson allegedly learned about a hidden programme from people managing it. The claims about recovered technology therefore come from unnamed programme personnel as reported by Wilson and then recorded by Davis.
 
-That means the crash-retrieval allegations are not first-hand observations by Davis. They are not even clearly first-hand observations by Wilson. Instead, they are claims allegedly conveyed to Wilson by others and later relayed to Davis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Davis Wilson Memo An Introductory Guide pdf</span><span class="citation-popover-snippet">ScribdOverview of the Davis-Wilson Memo | PDF1) Vice Admiral Thomas Wilson met with physicist Eric Davis in 2002 and shared details about...</span></span></span>
+That means the crash-retrieval allegations are not first-hand observations by Davis. They are not even clearly first-hand observations by Wilson. Instead, they are claims allegedly conveyed to Wilson by others and later relayed to Davis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Davis Wilson Memo An Introductory Guide pdf</span><span class="citation-popover-snippet">Overview of the Davis-Wilson Memo &#124; PDF1) Vice Admiral Thomas Wilson met with physicist Eric Davis in 2002 and shared details about...</span></span></span>
 
 The chain therefore becomes:
 
-* Unidentified programme officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[* Alleged statements to Wilson.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">RedditThe alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span> * Wilson's alleged account to Davis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">RedditThe alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[* Davis&#x27;s alleged notes.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+* Unidentified programme officials. * Alleged statements to Wilson. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span> * Wilson's alleged account to Davis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the alleged wilson memo leak from 2002 has very</span><span class="citation-popover-snippet">The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</span></span></span> * Davis's alleged notes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 * Later public leak.
 
 Each step introduces opportunities for misunderstanding, memory errors, omissions, exaggeration or fabrication.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/23b44fxvz8I" title="Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer">Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 47.2K &middot; Uploaded: September 2022 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=23b44fxvz8I">Open on YouTube</a></p></div></div></div>
 
 ## First-hand notes versus second-hand programme claims
 
@@ -337,7 +332,6 @@ The memo illustrates why those are different questions.
 
 If the notes are authentic, Davis may have first-hand knowledge of:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Whether he met Wilson.
@@ -348,7 +342,6 @@ If the notes are authentic, Davis may have first-hand knowledge of:
 </div>
 
 Those are limited but potentially significant claims.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-2-dark.svg" | relative_url }}" alt="Layered memo illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What remains second-hand?
@@ -369,7 +362,7 @@ Several points are frequently raised.
 
 **The participants were not random UFO enthusiasts.** Wilson was a real senior intelligence official and Davis was a real physicist connected to government-funded advanced aerospace research. That gives the conversation more institutional significance than ordinary UFO rumours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the admiral wilson leak an analysis</span><span class="citation-popover-snippet">Comment submitted to The Black Vault: “I wish to state that I have no comment on the authenticity of the so-named Wilson Document...Read...</span></span></span>
 
-**Some peripheral elements appear broadly plausible.** Wilson has acknowledged at least one Pentagon meeting connected to UFO-related secrecy discussions involving Edgar Mitchell, even while rejecting the memo's larger narrative. Supporters argue that this overlap makes outright fabrication less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
+**Some peripheral elements appear broadly plausible.** Wilson has acknowledged at least one Pentagon meeting connected to UFO-related secrecy discussions involving Edgar Mitchell, even while rejecting the memo's larger narrative. Supporters argue that this overlap makes outright fabrication less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
 
 **Davis long avoided a direct authenticity ruling.** Rather than clearly declaring the document fake, he frequently declined comment, citing security obligations. Supporters view this as suggestive, though it falls far short of confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the admiral wilson leak an analysis</span><span class="citation-popover-snippet">Comment submitted to The Black Vault: “I wish to state that I have no comment on the authenticity of the so-named Wilson Document...Read...</span></span></span>
 
@@ -377,8 +370,7 @@ Several points are frequently raised.
 
 None of these points independently verify the retrieval claims. They are arguments about plausibility and context rather than proof.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ItRiw2HwvF0" title="Aliens are here, and they&#x27;re not our friends, John Lear says -- Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ItRiw2HwvF0" target="_blank" rel="noopener noreferrer">Aliens are here, and they&#x27;re not our friends, John Lear says -- Part 1</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ItRiw2HwvF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ItRiw2HwvF0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/23b44fxvz8I" title="Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer">Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 47.2K &middot; Uploaded: September 2022 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=23b44fxvz8I">Open on YouTube</a></p></div></div></div>
 
 ## Why critics see a cautionary example
 
@@ -394,16 +386,14 @@ Readers therefore begin from uncertainty about the document itself. <span class=
 
 ### Key witnesses deny central claims
 
-Wilson has publicly rejected the memo's account and disputed major details. Other officials named in relation to special access programme oversight have reportedly contradicted portions of the narrative as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
+Wilson has publicly rejected the memo's account and disputed major details. Other officials named in relation to special access programme oversight have reportedly contradicted portions of the narrative as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</span></span></span> | Report a UFO sighting
 
 For critics, that creates a straightforward problem: a document describing a conversation becomes difficult to rely upon when one of the alleged participants rejects its accuracy.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-3-dark.svg" | relative_url }}" alt="Layered memo illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_wilson_davis_layered_eff27b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No independent evidence accompanies the claims
 
 The memo contains descriptions of a purported programme but does not provide:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -418,9 +408,6 @@ The memo contains descriptions of a purported programme but does not provide:
 </div>
 
 The document therefore reports allegations without supplying the underlying evidence needed to test them.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2LPNLRA71U" title="UFO Govt Docs LEAKED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2LPNLRA71U" target="_blank" rel="noopener noreferrer">UFO Govt Docs LEAKED!</a></p><p class="youtube-embed-meta">Channel: TruthSeiker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2LPNLRA71U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2LPNLRA71U">Open on YouTube</a></p></div></div></div>
 
 ### Bureaucratic realism is not proof
 
@@ -446,7 +433,7 @@ Supporters see a leaked record of insiders discussing an unusually protected pro
 
 Its importance lies less in demonstrating the existence of recovered non-human technology than in showing how UFO disclosure debates often operate. Documents, conversations, recollections, classified-[access claims]({{ 'access-claims-85d1ab/' | relative_url }}) and institutional reputations become intertwined. The challenge is deciding which layer is actually carrying the evidential weight.
 
-For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis memo is strongest as evidence that influential people were discussing extraordinary claims. It is much weaker as direct evidence that those claims were true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the admiral wilson leak an analysis</span><span class="citation-popover-snippet">Comment submitted to The Black Vault: “I wish to state that I have no comment on the authenticity of the so-named Wilson Document...Read...</span></span></span>
+For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis memo is strongest as evidence that influential people were discussing extraordinary claims. It is much weaker as direct evidence that those claims were true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the admiral wilson leak an analysis</span><span class="citation-popover-snippet">Comment submitted to The Black Vault: “I wish to state that I have no comment on the authenticity of the so-named Wilson Document...Read...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -565,15 +552,15 @@ For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem"><img src="https://i.ebayimg.com/images/g/4RcAAeSwVdxokeMV/s-l225.jpg" alt="Listing image for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +568,15 @@ For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 UFO I want to believe. X Files 3 Inch Iron Or Sew On Patch Badge"><img src="https://i.ebayimg.com/images/g/zZ0AAOSwdg5dK6AP/s-l225.jpg" alt="Listing image for Area 51 UFO I want to believe. X Files 3 Inch Iron Or Sew On Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 UFO I want to believe. X Files 3 Inch Iron Or Sew On Patch Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,15 +584,31 @@ For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge"><img src="https://i.ebayimg.com/images/g/xGQAAOSwxktdbtEZ/s-l225.jpg" alt="Listing image for 3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052"><img src="https://i.ebayimg.com/images/g/2y4AAOSwbYFftP6g/s-l225.jpg" alt="Listing image for Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -613,7 +616,7 @@ For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-wilson-davis-memo-really-show-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-did-the-wilson-davis-memo-really-show-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,137 +831,137 @@ For readers assessing Eric Davis, that is the central lesson. The Wilson-Davis m
 
 1. <a id="endnote-1"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
    Title: Davis [Wilson Memo](&#123;&#123; 'wilson-memo/' | relative_url &#125;&#125;) An Introductory Guide pdf  
-   Link: [https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf](https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdOverview of the Davis-Wilson Memo | PDF1) Vice Admiral Thomas Wilson met with physicist Eric Davis in 2002 and shared details about...</p></details>
+   Link: <a href="https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/642671725/Davis-Wilson-Memo-An-Introductory-Guide-pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Davis-Wilson Memo | PDF1) Vice Admiral Thomas Wilson met with physicist Eric Davis in 2002 and shared details about...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69](https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69)  
+   Link: <a href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe Wilson MemoAs for Davis, he has refused to comment on the authenticity of the memo.... “I wouldn&#x27;...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/](https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditComplete Summary of [Wilson Davis Memo](&amp;#123;&amp;#123; &#x27;wilson-memo/&#x27; | relative_url &amp;#125;&amp;#125;): r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nz604l/complete_summary_of_wilson_davis_memo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Summary of Wilson Davis Memo: r/UFOsJune 13, 2021 — Admiral Wilson has denied having ever met Eric Davis or provided him...</p></details>
    Published: June 13, 2021  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: the alleged wilson memo leak from 2002 has very  
-   Link: [https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/](https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Killian documents authenticity issues  
-   Link: [https://en.wikipedia.org/wiki/Killian_documents_authenticity_issues](https://en.wikipedia.org/wiki/Killian_documents_authenticity_issues)  
+   Link: <a href="https://en.wikipedia.org/wiki/Killian_documents_authenticity_issues" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Killian_documents_authenticity_issues</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Killian documents controversy  
-   Link: [https://en.wikipedia.org/wiki/Killian_documents_controversy](https://en.wikipedia.org/wiki/Killian_documents_controversy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Killian_documents_controversy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Killian_documents_controversy</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/](https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context on &quot;Wilson-Davis memo&quot;?: r/aliensI recently came across this doc just from surface level google searching, which for now has bee...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/utao40/what_were_the_arguments_for_and_against_the/](https://www.reddit.com/r/UFOscience/comments/utao40/what_were_the_arguments_for_and_against_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/utao40/what_were_the_arguments_for_and_against_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/utao40/what_were_the_arguments_for_and_against_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What were the arguments for and against the authenticity of...The Wilson Memo got into a record means nothing, they even admitted that t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: thoughts on the wilson memo  
-   Link: [https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/](https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qhunx6/thoughts_on_the_wilson_memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsCan be found here: [https://m.imgur.com/a/ggIFTfQ](https://m.imgur.com/a/ggIFTfQ) In 2019 a document was &quot;leaked&quot; called the Wilson memo which details a meeting...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/](https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is taken after a 2002 meeting with former Admiral Thomas R. Wilson...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
    Title: The Wilson Davis UFO Transcript PDFThe Wilson Davis UFO Transcript.pdf  
-   Link: [https://www.scribd.com/document/419756939/The-Wilson-Davis-UFO-Transcript-pdf](https://www.scribd.com/document/419756939/The-Wilson-Davis-UFO-Transcript-pdf)  
+   Link: <a href="https://www.scribd.com/document/419756939/The-Wilson-Davis-UFO-Transcript-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/419756939/The-Wilson-Davis-UFO-Transcript-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf) or read online for free...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theblackvault.com  
    Title: the admiral wilson leak an analysis  
-   Link: [https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/](https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comment submitted to The Black Vault: “I wish to state that I have no comment on the authenticity of the so-named Wilson Document...Read...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM](https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM)  
+   Link: <a href="https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Wilson-Davis-Memo-Interview-Reverse-Engineering/dp/B0D1NKCMWM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>em to conform to the standards of other secret programs in the US government.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo](https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo)  
+   Link: <a href="https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com03. The Admiral Wilson MemoA document that records an alleged conversation between astrophysicist Dr. Eric Davis and Admiral Wi...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: exopaedia.org  
-   Link: [https://www.exopaedia.org/Wilson%2BMemo](https://www.exopaedia.org/Wilson%2BMemo)  
+   Link: <a href="https://www.exopaedia.org/Wilson%2BMemo" target="_blank" rel="noopener noreferrer nofollow">https://www.exopaedia.org/Wilson%2BMemo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilson MemoThe Wilson Document is a leaked UFO memorandum that Eric Davis typed up describing his meeting with Admiral Tom Wilson in 2002...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: creators.spotify.com  
-   Link: [https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa](https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa)  
+   Link: <a href="https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/vettedufo...No](https://creators.spotify.com/pod/profile/vettedufo...No) information is available for this page...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT](https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT)  
+   Link: <a href="https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis and Admiral Thomas Wilson concerning UFOs. It was reportedly found in the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Specifically, the President must provide a written finding that justifies co...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/disclosureparty/posts/take-a-peek-at-this-short-film-about-the-wilson-davis-memo-made-by-our-friends-a/122159368346145264/](https://www.facebook.com/disclosureparty/posts/take-a-peek-at-this-short-film-about-the-wilson-davis-memo-made-by-our-friends-a/122159368346145264/)  
+   Link: <a href="https://www.facebook.com/disclosureparty/posts/take-a-peek-at-this-short-film-about-the-wilson-davis-memo-made-by-our-friends-a/122159368346145264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/posts/take-a-peek-at-this-short-film-about-the-wilson-davis-memo-made-by-our-friends-a/122159368346145264/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis in 2002 after he met with a recently retired Admiral named Thomas R. Wilson. Wilson...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: richarddolanmembers.com  
    Title: eric davis appears to admit writing wilson davis memo  
-   Link: [https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/](https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/)  
+   Link: <a href="https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis Appears to Admit Writing Wilson/Davis Memo2 Sept 2024 — Physicist Dr. Eric Davis seems to have confirmed his authorship of the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt24415162/](https://www.imdb.com/title/tt24415162/)  
+   Link: <a href="https://www.imdb.com/title/tt24415162/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt24415162/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more, including reverse-engineering alien technology.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: lifeinjonestown.substack.com  
    Title: Life in Jonestown Reviving the W-D Memo  
-   Link: [https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo](https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo)  
+   Link: <a href="https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo" target="_blank" rel="noopener noreferrer nofollow">https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the W-D Memo - by Billy Cox - Life in JonestownWhen the Memo broke online in 2019, he denied knowing Davis and dismissed the notes as fic...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/us/episode/the-governments-reverse-engineered-ufos/umc.cmc.47g41chg8u512082ba9sp5el3?showId=umc.cmc.2hd4s0n1735lkh9ulfvhp6ylm](https://tv.apple.com/us/episode/the-governments-reverse-engineered-ufos/umc.cmc.47g41chg8u512082ba9sp5el3?showId=umc.cmc.2hd4s0n1735lkh9ulfvhp6ylm)  
+   Link: <a href="https://tv.apple.com/us/episode/the-governments-reverse-engineered-ufos/umc.cmc.47g41chg8u512082ba9sp5el3?showId=umc.cmc.2hd4s0n1735lkh9ulfvhp6ylm" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/the-governments-reverse-engineered-ufos/umc.cmc.47g41chg8u512082ba9sp5el3?showId=umc.cmc.2hd4s0n1735lkh9ulfvhp6ylm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎The Government&#x27;s Reverse-Engineered UFOsUFO investigative researcher Melinda Leslie analyzes top-secret notes on a meeting betw...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: open.spotify.com  
    Title: 3Sj4mp BV9ke KKBONz SKj TF  
-   Link: [https://open.spotify.com/episode/3Sj4mpBV9keKKBONzSKjTF](https://open.spotify.com/episode/3Sj4mpBV9keKKBONzSKjTF)  
+   Link: <a href="https://open.spotify.com/episode/3Sj4mpBV9keKKBONzSKjTF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3Sj4mpBV9keKKBONzSKjTF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comWilson/Davis Memo - The 237 PodcastA document that Eric Davis is said to have typed up describing a meeting with Admiral Thoma...</p></details>

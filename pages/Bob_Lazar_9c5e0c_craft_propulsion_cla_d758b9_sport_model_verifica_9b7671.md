@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /propulsion/
 nav_short_title: Sport Model
 title: How Much of the Sport Model Can Be Checked?
-title_full: How Much of the Sport Model Can Be Checked? | Propulsion
+title_full: How Much of the Sport Model Can Be Checked?
 display_title_short: Sport Model
 display_title: Sport Model
 heading_title: How Much of the Sport Model Can Be Checked?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Specific Was The Craft Claim? | Lazar
+parent_title: How Specific Was The Craft Claim?
 parent_permalink: /propulsion/
 parent_nav_short_title: Propulsion
 parent_heading_title: How Specific Was The Craft Claim?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /s-4-evidence/
   short_title: S 4 Evidence
   heading_title: What Evidence Exists for the S 4 Programme?
-date: '2026-06-09 02:52:10 '
+date: '2026-06-11 21:01:04 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_v
 
 ## Introduction
 
-One of the reasons [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }}) remains such a divisive figure is that he did not limit himself to broad claims about hidden UFO programmes. He described a specific craft in unusually concrete terms. According to Lazar, the vehicle he examined at the alleged S-4 facility near Area 51 was a recovered disc-shaped craft he called the “Sport Model”. He claimed to have entered parts of it, observed aspects of its [propulsion]({{ 'propulsion/' | relative_url }}) system, and watched it perform test flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
-
+One of the reasons Bob Lazar remains such a divisive figure is that he did not limit himself to broad claims about hidden UFO programmes. He described a specific craft in unusually concrete terms. According to Lazar, the vehicle he examined at the alleged S-4 facility near Area 51 was a recovered disc-shaped craft he called the “Sport Model”. He claimed to have entered parts of it, observed aspects of its [propulsion]({{ 'propulsion/' | relative_url }}) system, and watched it perform test flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-1-dark.svg" | relative_url }}" alt="Sport Model illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That specificity cuts both ways. Supporters argue that detailed descriptions are harder to invent and easier to challenge. Critics respond that the Sport Model remains entirely unverified despite decades of public discussion. No authenticated photographs, engineering records, technical diagrams, physical components, or independent witnesses with comparable first-hand access have publicly confirmed the craft's existence. The result is a strange evidential position: the Sport Model is one of the most detailed alleged reverse-engineered UFO descriptions ever presented to the public, yet almost every important feature remains dependent on Lazar's own testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
@@ -276,7 +275,7 @@ Another feature Lazar repeatedly described was the apparent absence of conventio
 
 The interior layout is one of the most frequently repeated parts of the Sport Model account because it gives readers something tangible to imagine and assess.
 
-According to Lazar, the craft contained three principal levels. The lowest level allegedly housed three [gravity amplifiers]({{ 'gravity-drive/' | relative_url }}) and associated guidance structures. Above that sat a middle level containing the reactor and operational area. A third upper section reportedly existed but was not fully accessible to him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[Alt Propulsion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">bob lazars sport model ufo the science and engineering claims</span><span class="citation-popover-snippet">In his account, this was not just a power source but the fundamental generator of the...Read more...</span></span></span>
+According to Lazar, the craft contained three principal levels. The lowest level allegedly housed three gravity amplifiers and associated guidance structures. Above that sat a middle level containing the reactor and operational area. A third upper section reportedly existed but was not fully accessible to him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[Alt Propulsion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">bob lazars sport model ufo the science and engineering claims</span><span class="citation-popover-snippet">In his account, this was not just a power source but the fundamental generator of the...Read more...</span></span></span>
 
 Several details have become particularly famous:
 
@@ -290,7 +289,6 @@ Supporters often point to the unusual nature of these descriptions. The layout d
 
 An additional problem is that the descriptions sometimes function more as narrative imagery than engineering documentation. Readers can visualise the reactor room, the small seats and the amplifiers, but there is little information about structural supports, maintenance access, manufacturing methods, instrumentation, environmental systems or other features normally expected in a working vehicle. Critics argue that the account provides memorable concepts without enough technical detail to allow meaningful independent reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: altpropulsion.com">[Alt Propulsion Engineering Conf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">altpropulsion.com</span><span class="citation-popover-title">bob lazars sport model ufo the science and engineering claims</span><span class="citation-popover-snippet">In his account, this was not just a power source but the fundamental generator of the...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kc10m6HFbDE" title="The Lazar Tape... and Excerpts from the Government Bible, 1991" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kc10m6HFbDE" target="_blank" rel="noopener noreferrer">The Lazar Tape... and Excerpts from the Government Bible, 1991</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 37.2K &middot; Uploaded: July 2023 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kc10m6HFbDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kc10m6HFbDE">Open on YouTube</a></p></div></div></div>
 
 ## Flight Behaviour and Operating Descriptions
@@ -300,7 +298,6 @@ Lazar's credibility debate is tied as much to how the Sport Model supposedly ope
 He claimed the craft used a gravity-based propulsion system rather than jets, rockets or aerodynamic lift. In his account, three amplifiers projected and directed a gravitational field. During long-range travel, the craft allegedly rotated so that its belly faced the intended destination, allowing it to "fall" toward a distortion in space-time rather than fly conventionally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 Lazar also described observable effects during operation. These included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +313,6 @@ These descriptions became influential within later UFO culture because they rese
 
 The counterargument is that similarity does not establish authenticity. Many reported UAP observations are themselves disputed, poorly documented or open to multiple interpretations. A resemblance between two unverified claims does not automatically strengthen either one. Critics also note that Lazar's descriptions have never produced a demonstrable engineering breakthrough, testable prototype or measurable phenomenon that independent researchers can reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-2-dark.svg" | relative_url }}" alt="Sport Model illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Independent Verification Has Been So Difficult
 
@@ -328,10 +324,9 @@ Researchers face several basic obstacles:
 
 **No verified technical records.** There are no publicly available engineering drawings, maintenance logs, test reports or procurement records that establish the existence of a craft matching Lazar's description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-**No confirmed S-4 documentation.** While Area 51 and Groom Lake are real classified facilities, the specific underground S-4 complex described by Lazar has never been publicly documented through official records. The existence of secret facilities in the region does not independently validate the particular installation he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">HowStuffWorksBob Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of...</span></span></span>
+**No confirmed S-4 documentation.** While Area 51 and Groom Lake are real classified facilities, the specific underground S-4 complex described by Lazar has never been publicly documented through official records. The existence of secret facilities in the region does not independently validate the particular installation he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Bob Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of...</span></span></span>
 
 **Limited corroborating witnesses.** Some individuals have supported portions of Lazar's broader narrative, particularly regarding his presence around classified environments. However, no publicly verified witness has emerged with equivalent first-hand knowledge of the Sport Model's interior, propulsion system and operational testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNDDsdOEUY4" title="We Recreated S4 with Bob Lazar! - The Making of Project Gravitaur VFX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNDDsdOEUY4" target="_blank" rel="noopener noreferrer">We Recreated S4 with Bob Lazar! - The Making of Project Gravitaur VFX</a></p><p class="youtube-embed-meta">Channel: Project Gravitaur &middot; Views: 194.3K &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNDDsdOEUY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNDDsdOEUY4">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +340,6 @@ This creates a subtle credibility issue. Repeated visual representations can mak
 
 In practical terms, the Sport Model occupies a position somewhere between a witness description and a technical design. It is detailed enough to inspire blueprints, animations and physical replicas, yet the underlying evidence remains almost entirely testimonial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fantastic-plastic.com/s4_sport_model_flying_saucer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fantastic-plastic.com">[Fantastic Plastic Models]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fantastic-plastic.com</span><span class="citation-popover-title">Fantastic Plastic Models S-4 Sport Model Flying Saucer by Testors Scale: 1:48</span><span class="citation-popover-snippet">Initial Release: 1996. Medium: Polystyrene Kit Rarity: 3. About the Design. In the mid-1990s, former U.S. government physicist Bob Lazar...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JXGYZEwO2Lo" title="The Success Of ’S4: The Bob Lazar Story’ | Mystery Wire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JXGYZEwO2Lo" target="_blank" rel="noopener noreferrer">The Success Of ’S4: The Bob Lazar Story’ | Mystery Wire</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 102.0K &middot; Uploaded: April 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JXGYZEwO2Lo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JXGYZEwO2Lo">Open on YouTube</a></p></div></div></div>
 
 ## What Would Strengthen the Sport Model Claim?
@@ -353,7 +347,6 @@ In practical terms, the Sport Model occupies a position somewhere between a witn
 The Sport Model remains one of the most testable parts of Lazar's larger narrative because it contains concrete assertions rather than general allegations.
 
 Evidence that would substantially strengthen the claim would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,90 +362,47 @@ None of those forms of evidence has emerged publicly in a way that has persuaded
 
 That does not prove the Sport Model never existed. Secret programmes can leave incomplete public records, and classified projects are often difficult to investigate. However, after decades of scrutiny, the Sport Model remains supported primarily by Lazar's own descriptions and by later reconstructions derived from those descriptions. For credibility assessment, that is the central verification gap: the craft is rich in narrative detail but poor in independently verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">Soz AI Note Taker The Lazar Tape</span><span class="citation-popover-snippet">and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-3-dark.svg" | relative_url }}" alt="Sport Model illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Much of the Sport Model Can Be Checked?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Much of the Sport Model Can Be Checked?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains Lazar&#x27;s most detailed public discussion of the craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Places the alleged craft story within the broader Area 51 setting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating detailed craft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Offers historical comparisons to claimed encounters with unusual craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -489,15 +439,15 @@ That does not prove the Sport Model never existed. Secret programmes can leave i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles"><img src="https://i.ebayimg.com/images/g/zP8AAeSw5A9puqOZ/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sport model UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: sport model UFO</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +455,15 @@ That does not prove the Sport Model never existed. Secret programmes can leave i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR SPORT MODEL UFO LAMP BY DESIGNSBYP3RRY GUEST ON JOE ROGAN EXPERIENCE"><img src="https://i.ebayimg.com/images/g/fQMAAeSwXBNqDHuN/s-l225.jpg" alt="Listing image for BOB LAZAR SPORT MODEL UFO LAMP BY DESIGNSBYP3RRY GUEST ON JOE ROGAN EXPERIENCE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP"><img src="https://i.ebayimg.com/images/g/Ds4AAeSwKOdp7K11/s-l225.jpg" alt="Listing image for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR SPORT MODEL UFO LAMP BY DESIGNSBYP3RRY GUEST ON JOE ROGAN EXPERIENCE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sport model UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: sport model UFO</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +471,31 @@ That does not prove the Sport Model never existed. Secret programmes can leave i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings."><img src="https://i.ebayimg.com/images/g/tuEAAOSw2WxkynUh/s-l225.jpg" alt="Listing image for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="https://i.ebayimg.com/images/g/9zgAAeSw9O9purBw/s-l225.jpg" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sport model UFO">Search <span data-ebay-domain-label>eBay.co.uk</span>: sport model UFO</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="https://i.ebayimg.com/images/g/8IUAAeSwdYJp8Q5a/s-l225.jpg" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +503,7 @@ That does not prove the Sport Model never existed. Secret programmes can leave i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sport+model+UFO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-sport-model-ufo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sport model UFO" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-sport-model-ufo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-of-the-sport-model-can-be-checked-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="how-much-of-the-sport-model-can-be-checked-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,106 +718,106 @@ That does not prove the Sport Model never existed. Secret programmes can leave i
 
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksBob Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 3. <a id="endnote-3"></a>
    Source: fantastic-plastic.com  
    Title: Fantastic Plastic Models S-4 Sport Model Flying Saucer by Testors Scale: 1:48  
-   Link: [https://fantastic-plastic.com/s4_sport_model_flying_saucer.html](https://fantastic-plastic.com/s4_sport_model_flying_saucer.html)  
+   Link: <a href="https://fantastic-plastic.com/s4_sport_model_flying_saucer.html" target="_blank" rel="noopener noreferrer nofollow">https://fantastic-plastic.com/s4_sport_model_flying_saucer.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Release: 1996. Medium: Polystyrene Kit Rarity: 3. About the Design. In the mid-1990s, former U.S. government physicist Bob Lazar...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fantastic-plastic.com  
-   Link: [https://fantastic-plastic.com/S-4%20SPORT%20MODEL%20PAGE.htm](https://fantastic-plastic.com/S-4%20SPORT%20MODEL%20PAGE.htm)  
+   Link: <a href="https://fantastic-plastic.com/S-4%20SPORT%20MODEL%20PAGE.htm" target="_blank" rel="noopener noreferrer nofollow">https://fantastic-plastic.com/S-4%20SPORT%20MODEL%20PAGE.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fantastic Plastic ModelsArea 54 S4 UFO &quot;Sport Model&quot; by TestorsUndaunted, Testors next &quot;blew the lid&quot; off the long-rumored UFO conspiracy...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sozai.app  
    Title: Soz AI Note Taker The Lazar Tape  
-   Link: [https://sozai.app/transcript/lazar-tape-government-bible-1991/](https://sozai.app/transcript/lazar-tape-government-bible-1991/)  
+   Link: <a href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow">https://sozai.app/transcript/lazar-tape-government-bible-1991/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Excerpts from the Government Bible, 1991April 27, 2026 — The interior level of the disc is divided into three levels. The lower level...</p></details>
    Published: April 27, 2026  
 
 6. <a id="endnote-6"></a>
    Source: gravitywarpdrive.com  
-   Link: [https://www.gravitywarpdrive.com/Flying_Disc_Operational_Specifications.htm](https://www.gravitywarpdrive.com/Flying_Disc_Operational_Specifications.htm)  
+   Link: <a href="https://www.gravitywarpdrive.com/Flying_Disc_Operational_Specifications.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gravitywarpdrive.com/Flying_Disc_Operational_Specifications.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gravity Warp Drive“Sport Model” Flying Disc Operational SpecificationsThe dimensions of the “Sport Model” are 16 feet tall and 52 feet, n...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: altpropulsion.com  
-   Title: [bob lazars](&#123;&#123; 'did-bob-lazars-story-hold-up/' | relative_url &#125;&#125;) sport model ufo the science and engineering claims  
-   Link: [https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/](https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/)  
+   Title: bob lazars sport model ufo the science and engineering claims  
+   Link: <a href="https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/bob-lazars-sport-model-ufo-the-science-and-engineering-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In his account, this was not just a power source but the fundamental generator of the...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: singjupost.com  
    Title: joe rogan podcast 2479 bob lazar luigi vendittelli transcript  
-   Link: [https://singjupost.com/joe-rogan-podcast-2479-bob-lazar-luigi-vendittelli-transcript/](https://singjupost.com/joe-rogan-podcast-2479-bob-lazar-luigi-vendittelli-transcript/)  
+   Link: <a href="https://singjupost.com/joe-rogan-podcast-2479-bob-lazar-luigi-vendittelli-transcript/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/joe-rogan-podcast-2479-bob-lazar-luigi-vendittelli-transcript/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar&#x27;s 1989 accounts of reverse-engineering alien “sport model” craft to life in stunning detail. The conversation explores the technica...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba](https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba)  
+   Link: <a href="https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>k cylindrical emitter units roughly 2 feet in...Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: col2.com  
-   Link: [https://col2.com/area-51-s4-station](https://col2.com/area-51-s4-station)  
+   Link: <a href="https://col2.com/area-51-s4-station" target="_blank" rel="noopener noreferrer nofollow">https://col2.com/area-51-s4-station</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51; visiting S-4 Station with Bob LazarInside the sport model UFO. In the lower level there are 3 emitters. They are hung right belo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: in 1989 bob lazar came forward with a remarkable story the us government had hir  
-   Link: [https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/](https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/)  
+   Link: <a href="https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryInPictures/posts/in-1989-bob-lazar-came-forward-with-a-remarkable-story-the-us-government-had-hir/3354973914765227/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1989, Bob Lazar came forward with a remarkable storyIn 1989, Bob Lazar came forward with a remarkable story: the US government had hir...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: when bob lazar first entered the main hangar storing the sport model craft his i  
-   Link: [https://www.facebook.com/61555475729274/posts/when-bob-lazar-first-entered-the-main-hangar-storing-the-sport-model-craft-his-i/122190179384182524/](https://www.facebook.com/61555475729274/posts/when-bob-lazar-first-entered-the-main-hangar-storing-the-sport-model-craft-his-i/122190179384182524/)  
+   Link: <a href="https://www.facebook.com/61555475729274/posts/when-bob-lazar-first-entered-the-main-hangar-storing-the-sport-model-craft-his-i/122190179384182524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555475729274/posts/when-bob-lazar-first-entered-the-main-hangar-storing-the-sport-model-craft-his-i/122190179384182524/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Bob Lazar first entered the main hangar storing...Bob Lazar described in 1989 the ship he worked on at S-4 (which he called The Spo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scalemates.com  
-   Link: [https://www.scalemates.com/fr/products/img/0/2/1/132021-34-instructions.pdf](https://www.scalemates.com/fr/products/img/0/2/1/132021-34-instructions.pdf)  
+   Link: <a href="https://www.scalemates.com/fr/products/img/0/2/1/132021-34-instructions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scalemates.com/fr/products/img/0/2/1/132021-34-instructions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area S4 UFO InstructionsThe craft Lazar claimed he worked on. - he called it the Sport Model - is modeled here. Done in 1/48th scale it h...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: printables.com  
-   Link: [https://www.printables.com/model/1393333-bob-lazars-sport-model-ufo](https://www.printables.com/model/1393333-bob-lazars-sport-model-ufo)  
+   Link: <a href="https://www.printables.com/model/1393333-bob-lazars-sport-model-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.printables.com/model/1393333-bob-lazars-sport-model-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The exterior skin of the disc is metal and has a coloring similar to unpolished...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Bob Lazar's allegations about alien technology being tested  
-   Link: [https://www.facebook.com/8NewsNOW/posts/bob-lazars-allegations-about-alien-technology-being-tested-in-the-nevada-desert-/10157199686291303/](https://www.facebook.com/8NewsNOW/posts/bob-lazars-allegations-about-alien-technology-being-tested-in-the-nevada-desert-/10157199686291303/)  
+   Link: <a href="https://www.facebook.com/8NewsNOW/posts/bob-lazars-allegations-about-alien-technology-being-tested-in-the-nevada-desert-/10157199686291303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/bob-lazars-allegations-about-alien-technology-being-tested-in-the-nevada-desert-/10157199686291303/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Model... Bob Lazar Tape And Excerpts From The Government Bible 1991... According to Lazar, the flying saucers used a technology b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18qjulg/3d_virtual_walkthru_of_s4_and_various_craft_as/](https://www.reddit.com/r/UFOs/comments/18qjulg/3d_virtual_walkthru_of_s4_and_various_craft_as/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18qjulg/3d_virtual_walkthru_of_s4_and_various_craft_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18qjulg/3d_virtual_walkthru_of_s4_and_various_craft_as/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This will be part of a documentary film that will be released in early...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: old 1991 vhs bob lazar explains alien reactor element 115 power source reel nost  
-   Link: [https://www.facebook.com/HollowTipsHungry/videos/old-1991-vhs-bob-lazar-explains-alien-reactor-element-115-power-source-reel-nost/1948422292420085/](https://www.facebook.com/HollowTipsHungry/videos/old-1991-vhs-bob-lazar-explains-alien-reactor-element-115-power-source-reel-nost/1948422292420085/)  
+   Link: <a href="https://www.facebook.com/HollowTipsHungry/videos/old-1991-vhs-bob-lazar-explains-alien-reactor-element-115-power-source-reel-nost/1948422292420085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HollowTipsHungry/videos/old-1991-vhs-bob-lazar-explains-alien-reactor-element-115-power-source-reel-nost/1948422292420085/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lower level is where the three gravity amplifiers and amplifier guides are located. These...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWN1wk8jrqC/](https://www.instagram.com/reel/DWN1wk8jrqC/)  
+   Link: <a href="https://www.instagram.com/reel/DWN1wk8jrqC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWN1wk8jrqC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cular disc appeared to be in excellent condition and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/C3sN6gRLdkh/?hl=en](https://www.instagram.com/p/C3sN6gRLdkh/?hl=en)  
+   Link: <a href="https://www.instagram.com/p/C3sN6gRLdkh/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C3sN6gRLdkh/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ere notably far too small for an adult human to fit in.Read more...</p></details>

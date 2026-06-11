@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /wilson-memo/
 nav_short_title: Gatekeeping
 title: Could contractors really block oversight?
-title_full: Could contractors really block oversight? | Wilson Memo
+title_full: Could contractors really block oversight?
 display_title_short: Gatekeeping
 display_title: Gatekeeping
 heading_title: Could contractors really block oversight?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The Wilson Davis Memo Still Divides Readers | Davis
+parent_title: Why The Wilson Davis Memo Still Divides Readers
 parent_permalink: /wilson-memo/
 parent_nav_short_title: Wilson Memo
 parent_heading_title: Why The Wilson Davis Memo Still Divides Readers
@@ -253,7 +253,7 @@ next_link:
   permalink: /wilson-denial/
   short_title: Wilson denial
   heading_title: Did the Las Vegas meeting happen?
-date: '2026-06-09 03:03:32 '
+date: '2026-06-11 21:07:04 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1.webp
@@ -264,18 +264,17 @@ image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gate
 
 One reason the Wilson-Davis memo has remained influential is that its most dramatic claim does not initially sound like science fiction. The document describes a familiar feature of the US national-security system: highly restricted programmes, compartmented access, private contractors, and “need-to-know” rules. Its central governance claim is that a defence contractor running an alleged crash-retrieval programme could deny access even to a senior intelligence official because he was not on the programme’s “bigot list” — the roster of people formally read into the compartment. If true, that would imply an extraordinary level of contractor gatekeeping over information that should arguably sit within government oversight. If false, it is still a sophisticated claim because it borrows heavily from real special-access procedures. The key credibility question is therefore not whether concepts like bigot lists exist. They do. The question is whether those real mechanisms could function in the way the memo describes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/BIGOT_list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">BIGOT list</span><span class="citation-popover-snippet">BIGOT list</span></span></span>
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1-dark.svg" | relative_url }}" alt="Gatekeeping illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the memo describes contractor control
 
-According to the memo attributed to [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}), Thomas Wilson said he traced rumours of a deeply hidden programme to an aerospace contractor operating under a Special Access Program (SAP). When he attempted to gain access, the contractor's representatives allegedly argued that his rank and existing clearances were irrelevant because he lacked a specific need to know and was not listed among the programme's authorised personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
+According to the memo attributed to Eric Davis, Thomas Wilson said he traced rumours of a deeply hidden programme to an aerospace contractor operating under a Special Access Program (SAP). When he attempted to gain access, the contractor's representatives allegedly argued that his rank and existing clearances were irrelevant because he lacked a specific need to know and was not listed among the programme's authorised personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
 
 The document presents the dispute as a clash between two different concepts of authority:
 
 * Wilson allegedly believed his position gave him legitimate oversight rights.
 * The programme managers allegedly argued that access depended solely on inclusion within the compartment.
 * The contractor supposedly maintained a tightly controlled access roster and treated that roster as decisive.
-* Wilson allegedly discovered that many names on the list were corporate scientists, engineers and managers rather than senior elected officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
+* Wilson allegedly discovered that many names on the list were corporate scientists, engineers and managers rather than senior elected officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
 
 This is one of the memo's most consequential passages because it shifts the story away from extraterrestrial claims and towards institutional control. The underlying allegation is not merely that secret technology existed, but that private-sector gatekeepers had become the practical custodians of the secret.
 
@@ -287,9 +286,7 @@ The term “bigot list” is not a UFO invention. It has a long history in milit
 
 In modern security systems, access generally depends on more than holding a high clearance. Personnel normally require:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y26ron2WYrA" title="No More Excuses: The Davis Wilson Notes | Richard Dolan Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y26ron2WYrA" target="_blank" rel="noopener noreferrer">No More Excuses: The Davis Wilson Notes | Richard Dolan Show</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 64.6K &middot; Uploaded: September 2022 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y26ron2WYrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y26ron2WYrA">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -319,7 +316,6 @@ Because of this, several aspects of the memo do not immediately trigger obvious 
 
 This bureaucratic realism is a major reason the memo acquired credibility among many UAP researchers. The story does not portray secrecy as magical. Instead, it relies on recognisable security practices and organisational behaviour.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-2-dark.svg" | relative_url }}" alt="Gatekeeping illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where bureaucratic realism stops short of proof
 
@@ -333,17 +329,15 @@ Several questions remain unresolved:
 
 The memo portrays contractor officials effectively overruling a senior intelligence officer. While Special Access Programs can be extraordinarily restrictive, they still exist within government authority structures. Critics argue that the story sometimes blurs the difference between denying operational access and escaping oversight altogether. A contractor cannot simply create sovereign authority independent of the government that funds and authorises the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/23b44fxvz8I" title="Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer">Oke Shannon | Los Alamos Labs, Admiral Wilson Leaks, UFOs &amp; Spirituality</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 47.2K &middot; Uploaded: September 2022 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=23b44fxvz8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=23b44fxvz8I">Open on YouTube</a></p></div></div></div>
 
 ### Is the roster described in the memo realistic?
 
-The memo reportedly describes a bigot list containing hundreds of names accumulated over time, largely composed of technical personnel and corporate staff. Supporters see this as consistent with a long-running engineering effort. Critics note that readers have no independent access to the alleged list, making the claim impossible to verify. The memo is effectively its own source for this detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
+The memo reportedly describes a bigot list containing hundreds of names accumulated over time, largely composed of technical personnel and corporate staff. Supporters see this as consistent with a long-running engineering effort. Critics note that readers have no independent access to the alleged list, making the claim impossible to verify. The memo is effectively its own source for this detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
 
 ### Does realistic jargon prove insider access?
 
 Not necessarily. Security terminology is not entirely obscure. Researchers, journalists, military personnel and defence contractors can become familiar with concepts such as SAPs, carve-outs, compartments and bigot lists. A document can therefore employ authentic language without documenting authentic events. The realism of the vocabulary increases plausibility but does not establish truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F5P04uI2hu0" title="The Ultimate Breakdown of the Admiral Wilson Leaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F5P04uI2hu0" target="_blank" rel="noopener noreferrer">The Ultimate Breakdown of the Admiral Wilson Leaks</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 38.7K &middot; Uploaded: May 2020 &middot; Length: 3 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F5P04uI2hu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F5P04uI2hu0">Open on YouTube</a></p></div></div></div>
 
@@ -351,12 +345,11 @@ Not necessarily. Security terminology is not entirely obscure. Researchers, jour
 
 The contractor-gatekeeping claim matters because it addresses a broader issue that extends beyond UFOs: who ultimately controls highly classified information?
 
-The memo's narrative suggests a scenario in which secrecy becomes self-protecting. Access is limited by a closed circle of programme managers, lawyers and security officials; the authorised personnel list becomes the practical source of authority; and officials outside the compartment struggle to determine what exists behind the barrier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
+The memo's narrative suggests a scenario in which secrecy becomes self-protecting. Access is limited by a closed circle of programme managers, lawyers and security officials; the authorised personnel list becomes the practical source of authority; and officials outside the compartment struggle to determine what exists behind the barrier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</span></span></span> | Report a UFO sighting
 
 That concern is not unique to the Wilson-Davis story. Debates over Special Access Programs have long involved tensions between secrecy, contractor involvement, congressional oversight and executive accountability. Official policy recognises the existence of unacknowledged and even waived SAPs that operate under exceptional reporting restrictions, although those programmes are still supposed to remain within legal oversight frameworks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
 This is where the memo achieves its greatest persuasive power. It embeds an extraordinary UFO allegation inside a governance problem that many readers already believe is possible: the risk that compartmentalisation and contractor control can make meaningful oversight difficult.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-3-dark.svg" | relative_url }}" alt="Gatekeeping illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this remains a credibility test for Eric Davis
@@ -484,15 +477,15 @@ Yet the key allegation remains unverified. No public documentation independently
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +493,15 @@ Yet the key allegation remains unverified. No public documentation independently
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +509,15 @@ Yet the key allegation remains unverified. No public documentation independently
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +525,15 @@ Yet the key allegation remains unverified. No public documentation independently
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +541,7 @@ Yet the key allegation remains unverified. No public documentation independently
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="gatekeeping-could-contractors-really-block-oversight-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-contractors-really-block-oversight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="could-contractors-really-block-oversight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,77 +757,77 @@ Yet the key allegation remains unverified. No public documentation independently
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: BIGOT list  
-   Link: [https://en.wikipedia.org/wiki/BIGOT_list](https://en.wikipedia.org/wiki/BIGOT_list)  
+   Link: <a href="https://en.wikipedia.org/wiki/BIGOT_list" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/BIGOT_list</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Special access program  
-   Link: [https://en.wikipedia.org/wiki/Special_access_program](https://en.wikipedia.org/wiki/Special_access_program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Special_access_program</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69](https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69)  
+   Link: <a href="https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/b80b4058-3f47-4b2a-8d61-b735c4c4bf69</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingThe Wilson MemoA “bigot list” is a list of people with access to a particular operation,²⁵... Wilson...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: twz.com  
    Title: special access programs and the pentagons ecosystem of secrecy  
-   Link: [https://www.twz.com/29092/special-access-programs-and-the-pentagons-ecosystem-of-secrecy](https://www.twz.com/29092/special-access-programs-and-the-pentagons-ecosystem-of-secrecy)  
+   Link: <a href="https://www.twz.com/29092/special-access-programs-and-the-pentagons-ecosystem-of-secrecy" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/29092/special-access-programs-and-the-pentagons-ecosystem-of-secrecy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneSpecial Access Programs And The Pentagon&#x27;s Ecosystem...1 Dec 2019 — SAPs are merely a set of security protocols limiting acc...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/jsc/chap2.html](https://sgp.fas.org/library/jsc/chap2.html)  
+   Link: <a href="https://sgp.fas.org/library/jsc/chap2.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/jsc/chap2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyRedefining Security: Chapter 2A single specially protected information control officer and channel would...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1993727752273584490?lang=en](https://x.com/grok/status/1993727752273584490?lang=en)  
+   Link: <a href="https://x.com/grok/status/1993727752273584490?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1993727752273584490?lang=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAP (Unacknowledged Special Access Program)- Bigoted: Refers to a &quot;bigot list&quot;—a roster of authorized personnel with need-to-know access...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: spreaker.com  
-   Link: [https://www.spreaker.com/episode/unacknowledged-special-access-programs-reverse-engineering-ufo-s-the-wilson-davis-memo-ep-8--57185966](https://www.spreaker.com/episode/unacknowledged-special-access-programs-reverse-engineering-ufo-s-the-wilson-davis-memo-ep-8--57185966)  
+   Link: <a href="https://www.spreaker.com/episode/unacknowledged-special-access-programs-reverse-engineering-ufo-s-the-wilson-davis-memo-ep-8--57185966" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/unacknowledged-special-access-programs-reverse-engineering-ufo-s-the-wilson-davis-memo-ep-8--57185966</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wilson-Davis MEMO- [EP:8]30 Sept 2022 — Unacknowledged Special Access Programs &amp; Reverse Engineering UFO&#x27;s- The Wilson-Davis memo and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metallicman.com  
-   Link: [https://metallicman.com/laoban4site/the-admiral-wilson-leak-evidence-of-saps-special-access-programs-reverse-engineering/](https://metallicman.com/laoban4site/the-admiral-wilson-leak-evidence-of-saps-special-access-programs-reverse-engineering/)  
+   Link: <a href="https://metallicman.com/laoban4site/the-admiral-wilson-leak-evidence-of-saps-special-access-programs-reverse-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://metallicman.com/laoban4site/the-admiral-wilson-leak-evidence-of-saps-special-access-programs-reverse-engineering/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Admiral Wilson Leak: Evidence of USAPs...23 Dec 2019 — The Admiral Wilson leak refers to notes where Wilson, a senior official, admi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/700649131/special-access-program-sap-overview-flash-cards/](https://quizlet.com/700649131/special-access-program-sap-overview-flash-cards/)  
+   Link: <a href="https://quizlet.com/700649131/special-access-program-sap-overview-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/700649131/special-access-program-sap-overview-flash-cards/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Special Access Program (SAP) Overview FlashcardsA program established for a specific class of classified information that imposes safegua...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: s3images.coroflot.com  
    Title: original pdf 221275 nvgq2smj2hkjowxdvimchyosb  
-   Link: [https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_nvgq2smj2hkjowxdvimchyosb.pdf](https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_nvgq2smj2hkjowxdvimchyosb.pdf)  
+   Link: <a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_nvgq2smj2hkjowxdvimchyosb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_nvgq2smj2hkjowxdvimchyosb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>called Miller ca. late June &#x27;97 and told that he/...Every SAP must have a bigot list that details who exactly has access to their progra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: s3images.coroflot.com  
    Title: original pdf 221275 wnexkpzl0axlmmqn4fujlxkve  
-   Link: [https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_wnexkpzl0axlmmqn4fujlxkve.pdf](https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_wnexkpzl0axlmmqn4fujlxkve.pdf)  
+   Link: <a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_wnexkpzl0axlmmqn4fujlxkve.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_wnexkpzl0axlmmqn4fujlxkve.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force UFO Reverse Engineering Programs30 Jan 2026 — wave bigoted Unacknowledged SAP is created and that&#x27;s public law.”... bigot list...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bibliotecapleyades.net  
    Title: ciencia extraterrestrialtech22  
-   Link: [https://www.bibliotecapleyades.net/ciencia3/ciencia_extraterrestrialtech22.htm](https://www.bibliotecapleyades.net/ciencia3/ciencia_extraterrestrialtech22.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia3/ciencia_extraterrestrialtech22.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia3/ciencia_extraterrestrialtech22.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Admiral Wilson Leak Documents6 Sept 2019 — The bigot list is, according to Wikipedia. &quot;is a list of personnel possessing appropriate...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: The Debrief It's Classified!  
-   Link: [https://thedebrief.org/its-classified-a-deep-dive-into-the-dark-world-of-keeping-secrets/](https://thedebrief.org/its-classified-a-deep-dive-into-the-dark-world-of-keeping-secrets/)  
+   Link: <a href="https://thedebrief.org/its-classified-a-deep-dive-into-the-dark-world-of-keeping-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/its-classified-a-deep-dive-into-the-dark-world-of-keeping-secrets/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive Into the Dark World of Keeping...21 Sept 2022 — Personnel who have approved access to a specific SAP are maintained in a dir...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: electrospaces.net  
    Title: the us classification system  
-   Link: [https://www.electrospaces.net/2013/09/the-us-classification-system.html](https://www.electrospaces.net/2013/09/the-us-classification-system.html)  
+   Link: <a href="https://www.electrospaces.net/2013/09/the-us-classification-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.electrospaces.net/2013/09/the-us-classification-system.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Sept 2013 — The United States government classifies information according to the degree which the unauthorized disclosure would damage...</p></details>

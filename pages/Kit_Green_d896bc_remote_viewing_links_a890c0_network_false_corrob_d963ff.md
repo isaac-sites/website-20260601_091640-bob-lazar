@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /remote-viewing/
 nav_short_title: Network Risk
 title: When Insider Networks Look Like Evidence
-title_full: When Insider Networks Look Like Evidence | Remote Viewing
+title_full: When Insider Networks Look Like Evidence
 display_title_short: Network Risk
 display_title: Network Risk
 heading_title: When Insider Networks Look Like Evidence
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Remote Viewing Help Or Hurt Green's Credibility? | Green
+parent_title: Did Remote Viewing Help Or Hurt Green's Credibility?
 parent_permalink: /remote-viewing/
 parent_nav_short_title: Remote Viewing
 parent_heading_title: Did Remote Viewing Help Or Hurt Green's Credibility?
@@ -247,7 +247,7 @@ next_link:
   permalink: /sri-origins/
   short_title: SRI Origins
   heading_title: What Green's SRI Link Really Proves
-date: '2026-06-09 03:01:07 '
+date: '2026-06-11 21:06:07 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false
 
 ## Introduction
 
-One of the most difficult credibility problems in the [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) story is separating genuine insider access from what can look like corroboration but may actually be repeated information circulating within the same small network. Green's links to figures such as Harold Puthoff, Jacques Vallée, Eric Davis and other researchers are real and historically documented. Those connections help explain why he appears repeatedly in UFO/UAP discussions, classified-adjacent rumours and remote-viewing history. They do not automatically strengthen the truth of the claims being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...March 23, 2026 — Christopher Green (“Kit Green”)...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
-
+One of the most difficult credibility problems in the Kit Green story is separating genuine insider access from what can look like corroboration but may actually be repeated information circulating within the same small network. Green's links to figures such as Harold Puthoff, Jacques Vallée, Eric Davis and other researchers are real and historically documented. Those connections help explain why he appears repeatedly in UFO/UAP discussions, classified-adjacent rumours and remote-viewing history. They do not automatically strengthen the truth of the claims being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...March 23, 2026 — Christopher Green (“Kit Green”)...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-1-dark.svg" | relative_url }}" alt="Network Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to assess Green's reliability, the key issue is not whether these individuals are intelligent, influential or well connected. The issue is whether multiple people are providing genuinely independent evidence, or whether the same ideas, stories and assumptions are being reinforced inside an overlapping community. In UFO and remote-viewing debates, network overlap can sometimes create the appearance of confirmation without delivering independent proof.
@@ -281,7 +280,7 @@ In practical terms, five people within one tightly connected research circle may
 
 The overlap between remote-viewing research and later UFO/UAP networks was not accidental.
 
-During the Cold War, intelligence agencies funded investigations into claims that appeared unconventional but potentially relevant to national security. Remote viewing emerged from that environment. CIA-linked funding reached Stanford Research Institute work involving Puthoff and Russell Targ, while Green appears in historical accounts as an early CIA contact connected to those discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...March 23, 2026 — Christopher Green (“Kit Green”)...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</span></span></span>
+During the Cold War, intelligence agencies funded investigations into claims that appeared unconventional but potentially relevant to national security. Remote viewing emerged from that environment. CIA-linked funding reached Stanford Research Institute work involving Puthoff and Russell Targ, while Green appears in historical accounts as an early CIA contact connected to those discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...March 23, 2026 — Christopher Green (“Kit Green”)...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</span></span></span>
 
 Over time, many figures associated with that ecosystem appeared again in UFO-related contexts:
 
@@ -296,7 +295,6 @@ The reality is often more complicated. In many cases, the same people appear rep
 
 That does not mean they are wrong. It means their agreement cannot automatically be treated as independent verification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gf_tKn9TaP8" title="Joe Rogan Experience #2314 - Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2314 - Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.6M &middot; Uploaded: May 2025 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gf_tKn9TaP8">Open on YouTube</a></p></div></div></div>
 
 ## Why Shared Contacts Are Not Corroboration
@@ -306,7 +304,6 @@ The strongest version of corroboration comes from sources that are genuinely ind
 For example, if a military sensor record, a pilot testimony and a contemporaneous government document all point to the same event without relying on one another, the evidential value increases.
 
 By contrast, network-based corroboration can produce a misleading effect:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -321,7 +318,6 @@ An audience may then see three apparent witnesses where there was really only on
 
 This problem is particularly relevant in UFO research because many claims involve:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Classified or allegedly classified information.
@@ -334,8 +330,7 @@ This problem is particularly relevant in UFO research because many claims involv
 
 Under those conditions, tracing information back to its origin becomes extremely difficult.
 
-The issue appears repeatedly in debates surrounding the Wilson-Davis documents, alleged crash-retrieval stories and other high-profile UAP narratives. Even when researchers identify multiple supporters of a claim, [sceptics]({{ 'sceptics-078368/' | relative_url }}) often ask whether those supporters possess independent evidence or simply belong to the same information network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the congressional uap hearings debrief.13077</span><span class="citation-popover-snippet">MetabunkThe Congressional UAP Hearings Debrief1 Aug 2023 — Wilson also states he talks to USDAT Jacques Gansler about the matter, who tel...</span></span></span>
-
+The issue appears repeatedly in debates surrounding the Wilson-Davis documents, alleged crash-retrieval stories and other high-profile UAP narratives. Even when researchers identify multiple supporters of a claim, [sceptics]({{ 'sceptics-078368/' | relative_url }}) often ask whether those supporters possess independent evidence or simply belong to the same information network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the congressional uap hearings debrief.13077</span><span class="citation-popover-snippet">The Congressional UAP Hearings Debrief1 Aug 2023 — Wilson also states he talks to USDAT Jacques Gansler about the matter, who tel...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-2-dark.svg" | relative_url }}" alt="Network Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Remote-Viewing Example Shows The Risk Clearly
@@ -346,7 +341,7 @@ Government involvement is real and well documented. [CIA records]({{ 'cia-record
 
 However, official interest and scientific validation proved to be very different questions.
 
-Supporters of the programme point to statistical findings, later meta-analyses and favourable evaluations by some researchers. Critics point to methodological problems, subjective interpretation, lack of operational usefulness and failures of replication. The final CIA-commissioned review concluded that the programme had not demonstrated practical intelligence value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">369604750 Remote Viewing a 1974 2022 systematic review and meta analysis</span><span class="citation-popover-snippet">ResearchGate(PDF) Remote Viewing: a 1974-2022 systematic review...March 20, 2023 — This is the first meta-analysis of all studies relate...</span><span class="citation-popover-meta">Published: March 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</span></span></span>
+Supporters of the programme point to statistical findings, later meta-analyses and favourable evaluations by some researchers. Critics point to methodological problems, subjective interpretation, lack of operational usefulness and failures of replication. The final CIA-commissioned review concluded that the programme had not demonstrated practical intelligence value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">369604750 Remote Viewing a 1974 2022 systematic review and meta analysis</span><span class="citation-popover-snippet">ResearchGate(PDF) Remote Viewing: a 1974-2022 systematic review...March 20, 2023 — This is the first meta-analysis of all studies relate...</span><span class="citation-popover-meta">Published: March 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</span></span></span>
 
 What matters here is the social structure around the debate.
 
@@ -357,7 +352,6 @@ Many of the most prominent advocates, researchers and commentators were connecte
 
 The same interpretive problem later appears in some UFO/UAP discussions involving overlapping personalities.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EhZ_ty3f4-M" title="Mind and Matter with Russell Targ (4K Reboot)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EhZ_ty3f4-M" target="_blank" rel="noopener noreferrer">Mind and Matter with Russell Targ (4K Reboot)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.8K &middot; Uploaded: February 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EhZ_ty3f4-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EhZ_ty3f4-M">Open on YouTube</a></p></div></div></div>
 
 ## Why Critics Focus On Network Effects
@@ -367,7 +361,6 @@ Sceptical researchers often pay close attention to social networks rather than o
 Their argument is not necessarily that Green, Puthoff, Vallée or others acted dishonestly. Instead, they argue that tightly connected groups can develop reinforcing belief structures.
 
 Several factors increase the risk:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,14 +378,12 @@ This concern appears frequently in public debates surrounding intelligence-linke
 
 The existence of the network is not disputed. The disagreement concerns what the network signifies.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-3-dark.svg" | relative_url }}" alt="Network Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_network_false_corrob_d963ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Safer Way To Weigh Green's Network Credibility
 
 For readers assessing Kit Green specifically, the safest approach is to separate network evidence from direct evidence.
 
 Green's associations are relevant because they demonstrate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,9 +416,7 @@ Applied to Green, this framework produces a more balanced assessment. His connec
 
 For credibility analysis, the network is therefore best treated as evidence of access and influence rather than evidence that the underlying UFO or anomalous claims are true.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgyYms376Mg" title="Scientific and Spiritual Implications of Psychic Abilities - Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer">Scientific and Spiritual Implications of Psychic Abilities - Russell Targ</a></p><p class="youtube-embed-meta">Channel: Science and Nonduality &middot; Views: 217.7K &middot; Uploaded: February 2015 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgyYms376Mg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -546,15 +535,15 @@ For credibility analysis, the network is therefore best treated as evidence of a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/2qMAAOSwBP5nqTHQ/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +551,15 @@ For credibility analysis, the network is therefore best treated as evidence of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~DwAAeSwkwBo-QUE/s-l225.jpg" alt="Listing image for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +567,15 @@ For credibility analysis, the network is therefore best treated as evidence of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster"><img src="https://i.ebayimg.com/images/g/2foAAOSwkhdnSejQ/s-l225.jpg" alt="Listing image for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +583,15 @@ For credibility analysis, the network is therefore best treated as evidence of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/d0cAAOSwcBJjrECV/s-l225.jpg" alt="Listing image for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,7 +599,7 @@ For credibility analysis, the network is therefore best treated as evidence of a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="network-risk-when-insider-networks-look-like-evidence-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-insider-networks-look-like-evidence-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="when-insider-networks-look-like-evidence-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -826,139 +815,139 @@ For credibility analysis, the network is therefore best treated as evidence of a
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jacques Vallée  
-   Link: [https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e](https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMThe CIA asked AIR to address a number of key objectives during the technical review of Star...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: the congressional uap hearings debrief.13077  
-   Link: [https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/](https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkThe Congressional UAP Hearings Debrief1 Aug 2023 — Wilson also states he talks to USDAT Jacques Gansler about the matter, who tel...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-congressional-uap-hearings-debrief.13077/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Congressional UAP Hearings Debrief1 Aug 2023 — Wilson also states he talks to USDAT Jacques Gansler about the matter, who tel...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15y2jya/psareminder_oke_shannon_corroborated_the/](https://www.reddit.com/r/UFOs/comments/15y2jya/psareminder_oke_shannon_corroborated_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15y2jya/psareminder_oke_shannon_corroborated_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15y2jya/psareminder_oke_shannon_corroborated_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PSA/Reminder: Oke Shannon corroborated the Wilson...... corroborated the Wilson-Davis Notes in September 2022: r/UFOs. Close search. Cl...</p></details>
    Published: September 2022  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 369604750 Remote Viewing a 1974 2022 systematic review and meta analysis  
-   Link: [https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369604750_Remote_Viewing_a_1974-2022_systematic_review_and_meta-analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Remote Viewing: a 1974-2022 systematic review...March 20, 2023 — This is the first meta-analysis of all studies relate...</p></details>
    Published: March 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Stargate Project (U.S. Army unit)  
-   Link: [https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargate Project (U.S. Army unit)The Stargate Project&#x27;s work primarily involved remote viewing, the purported ability to psychically &quot;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: The latest Why Files episode takes aim at disinformation  
-   Link: [https://www.reddit.com/r/UFOs/comments/18zx2xl/the_latest_why_files_episode_takes_aim_at/](https://www.reddit.com/r/UFOs/comments/18zx2xl/the_latest_why_files_episode_takes_aim_at/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe latest Why Files episode takes aim at disinformation...January 6, 2024 — r/aliens - (Serious) Ufology and the Curious Case of...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18zx2xl/the_latest_why_files_episode_takes_aim_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18zx2xl/the_latest_why_files_episode_takes_aim_at/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest Why Files episode takes aim at disinformation...January 6, 2024 — r/aliens - (Serious) Ufology and the Curious Case of...</p></details>
    Published: January 6, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/](https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &amp; Consciousness: r/UFOsConsciousness doesn&#x27;t cause wave function collapse in double slit experiment. It&#x27;s the act of measurement tha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/](https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy Email Communication from 2001...Alien Autopsy Email Communication from 2001 between Dr.... Vallee: &quot;there are undisclosed...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff: r/UFOsWhile educated, credentialed, and intelligent, Puthoff is at best credulous or worse manipulative. Everyone intereste...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theories... aliens.: 97 New theories linked a supposed UFO cover-up to alien abductions and cattle mutilations.: 87–9...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs](https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs)  
+   Link: <a href="https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374170335_Hyperconvergence_Religion_Politics_and_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hyperconvergence: Religion, Politics, and UFOs14 Sept 2023 — give a lecture for an organization calling itself &#x27;Alien Resistance&#x27; (...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573](https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationThe [Star Gate](&amp;#123;&amp;#123; &#x27;star-gate/&#x27; | relative_url &amp;#125;&amp;#125;) Archives: Reports of the United States...March 23, 2026 — Christopher Green (“Kit Green”)...</p></details>
    Published: March 23, 2026  
 
 15. <a id="endnote-15"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — The astrophysicist Eric Davis, who consulted with the Pentagon&#x27;s original UFO program and now works...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4](https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4)  
+   Link: <a href="https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Peculiar Truth about the CIA&#x27;s Project StargateTarg and Puthoff were so impressed with his abilities that they published papers about...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tonyd2wild/posts/2025-became-one-of-the-most-active-years-ever-recorded-for-ufo-and-uap-related-a/1380512116865568/](https://www.facebook.com/tonyd2wild/posts/2025-became-one-of-the-most-active-years-ever-recorded-for-ufo-and-uap-related-a/1380512116865568/)  
+   Link: <a href="https://www.facebook.com/tonyd2wild/posts/2025-became-one-of-the-most-active-years-ever-recorded-for-ufo-and-uap-related-a/1380512116865568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tonyd2wild/posts/2025-became-one-of-the-most-active-years-ever-recorded-for-ufo-and-uap-related-a/1380512116865568/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 became one of the most active years ever recorded...The researchers hunted down rumours about alien spacecraft and found, for insta...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bonus Fact: The CIA coined the term &quot;&quot;UFO&quot;&quot; in 1953 to replace &quot;&quot;flying saucer&quot;&quot; and sound...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... kit-greens-usaf-ufo-mentor.html. (PUBLIC DOMAIN) - 25 February... UFOs/...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
    Title: Since the Air Force was more  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...In this article, Keyhoe claimed that UFOs were alien spacecraft and that the US gov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — The Pentagon Started Taking UFOs Seriously. For decades, fly...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Aren&#x27;t Astronomers Paying More Attention To UFOs? Syed Ilyas...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: audible.co.uk  
-   Link: [https://www.audible.co.uk/author/Jacques-Vallee/B001K8JD8Q](https://www.audible.co.uk/author/Jacques-Vallee/B001K8JD8Q)  
+   Link: <a href="https://www.audible.co.uk/author/Jacques-Vallee/B001K8JD8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/author/Jacques-Vallee/B001K8JD8Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He has investigated reports of UFOs all over the...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/shawnryan762/posts/do-you-believe-in-remote-viewing-or-any-other-forms-of-parapsychology-shawnryans/1511586156155460/](https://www.facebook.com/shawnryan762/posts/do-you-believe-in-remote-viewing-or-any-other-forms-of-parapsychology-shawnryans/1511586156155460/)  
+   Link: <a href="https://www.facebook.com/shawnryan762/posts/do-you-believe-in-remote-viewing-or-any-other-forms-of-parapsychology-shawnryans/1511586156155460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryan762/posts/do-you-believe-in-remote-viewing-or-any-other-forms-of-parapsychology-shawnryans/1511586156155460/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d after a sci-fi show or is it just me.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.ycombinator.com  
-   Link: [https://news.ycombinator.com/item?id=42585418](https://news.ycombinator.com/item?id=42585418)  
+   Link: <a href="https://news.ycombinator.com/item?id=42585418" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=42585418</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was a CIA project that explored parasciencesStargate was a CIA project that explored parasciences: telepathy, twin telepathy, astral proj...</p></details>

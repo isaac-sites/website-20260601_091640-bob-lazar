@@ -304,7 +304,7 @@ next_link:
   title: Ramirez
   permalink: /how-credible-is-john-ramirez/
   short_title: Ramirez
-date: '2026-06-09 02:56:14 '
+date: '2026-06-11 21:03:21 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1-overview.webp
@@ -314,7 +314,6 @@ image: /assets/images/James_Lacatski_1e11f1-overview-social.jpg
 ## Introduction
 
 The key to assessing Lacatski is to separate three things: the verified programme, the published insider narrative, and the unverified claim that the US possessed a craft of [unknown origin]({{ 'unknown-origin/' | relative_url }}). The first is real. The second is important but self-interested. The third is the claim that makes him fascinating, and also the claim least publicly proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1-overview.webp" | relative_url }}" alt="Overview image for How Credible Is James Lacatski?" loading="eager" decoding="sync" fetchpriority="high">
 ## What can be verified about Lacatski’s official role?
@@ -332,7 +331,6 @@ AAWSAP’s public paper trail points in two directions at once. On paper, it fun
 The insider account is broader. Reviews of Lacatski, Colm Kelleher and George Knapp’s later books describe AAWSAP as involving a UAP database, technical studies, attempts at direct observation, historic cases near strategic sites, the Brazilian Colares incidents, Skinwalker Ranch, and a large historical UAP database associated with Jacques Vallée. That is a serious scope, but most of the underlying database and programme files remain unavailable to ordinary readers, which means the public has summaries, not the evidential foundation needed to independently audit the claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This creates the central tension in Lacatski’s credibility. Supporters can fairly say he worked near unusual government-funded material and helped publish a rare insider description of an acknowledged programme. Sceptics can fairly reply that a funded programme can study extraordinary claims without those claims being true, and that speculative deliverables do not become evidence merely because the DIA paid for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-1-dark.svg" | relative_url }}" alt="How Credible Is James Lacatski? illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest claim: a “craft of unknown origin”
@@ -353,7 +351,6 @@ For sceptics, the Skinwalker element is a major weakness. It blurs aerospace int
 
 Neither side can be dismissed out of hand. It is possible for unusual witness reports to deserve study even when they sound strange. It is also possible for a government-funded programme to become captured by the prior beliefs of a small network. Lacatski’s credibility depends heavily on whether readers think AAWSAP was an open-minded investigation of neglected anomalies or an under-scrutinised channel for paranormal speculation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qu8pudJk_-A" title="He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer">He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 327.8K &middot; Uploaded: November 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qu8pudJk_-A">Open on YouTube</a></p></div></div></div>
 
 ## KONA BLUE and the collapse of the stronger inference
@@ -372,7 +369,6 @@ AARO’s broader conclusion is also directly relevant: it reported no verifiable
 
 The fair caveat is that AARO’s conclusions are themselves disputed by many UFO advocates and some whistleblower-aligned figures. But for a public credibility assessment, AARO matters because it is the official body with a mandate to review historical UAP claims, interview witnesses and check alleged programmes against classified and unclassified records. Lacatski’s claims have not publicly overcome that institutional rebuttal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-2-dark.svg" | relative_url }}" alt="How Credible Is James Lacatski? illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters still take him seriously
 
@@ -382,7 +378,6 @@ Supporters also point to the unusual consistency between several public strands:
 
 The strongest supporter argument is not “Lacatski has proved alien craft exist”. It is more modest: a real intelligence-linked programme appears to have taken UAP and associated anomalies seriously enough to spend public money, collect data, produce reports and pursue protected access. That is enough to justify attention, though not enough to settle the truth of the most extraordinary claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cggMuAjFJcI" title="The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer">The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 238.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cggMuAjFJcI">Open on YouTube</a></p></div></div></div>
 
 ## Why sceptics remain unconvinced
@@ -391,8 +386,7 @@ The strongest sceptical argument is evidential, not personal. Lacatski’s most 
 
 Sceptics also question the quality of AAWSAP’s output. The FAS description of funded topics as speculative, the New Yorker’s reporting on paranormal investigators and doubtful officials, and AARO’s statement that DIA terminated the programme for lack of merit and utility all point in the same direction: institutional involvement does not equal institutional validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is also a source-network problem. Many claims around AAWSAP, Skinwalker Ranch, KONA BLUE and alleged recovered craft circulate through a relatively small community of insiders, contractors, journalists and advocates. That does not make them false, but it raises the risk of [circular reporting]({{ 'circular-reports-ae5e62/' | relative_url }}), where the same underlying belief or second-hand story is repeated through multiple channels until it looks independently corroborated. AARO explicitly raised this concern in relation to modern hidden-technology allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
-
+There is also a source-network problem. Many claims around AAWSAP, Skinwalker Ranch, KONA BLUE and alleged recovered craft circulate through a relatively small community of insiders, contractors, journalists and advocates. That does not make them false, but it raises the risk of circular reporting, where the same underlying belief or second-hand story is repeated through multiple channels until it looks independently corroborated. AARO explicitly raised this concern in relation to modern hidden-technology allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b3U0PVvv7RQ" title="Mystery Wire - Dr. James Lacatski, Dr. Colm Kelleher, George Knapp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b3U0PVvv7RQ" target="_blank" rel="noopener noreferrer">Mystery Wire - Dr. James Lacatski, Dr. Colm Kelleher, George Knapp</a></p><p class="youtube-embed-meta">Channel: Mystery Wire &middot; Views: 25.4K &middot; Uploaded: October 2021 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b3U0PVvv7RQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b3U0PVvv7RQ">Open on YouTube</a></p></div></div></div>
 
@@ -410,90 +404,47 @@ A balanced classification would look like this:
 
 The result is a split verdict. Lacatski is a significant and unusually well-positioned UAP figure, not a fringe personality with no paper trail. But his significance is not the same as proof. His public record strengthens the case that parts of the US government funded and explored extraordinary UAP-related questions; it does not, on currently available evidence, establish that the US recovered non-human technology.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-3-dark.svg" | relative_url }}" alt="How Credible Is James Lacatski? illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Credible Is James Lacatski?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Credible Is James Lacatski?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1InHoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Covers many figures and themes adjacent to Lacatski&#x27;s world.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides a contrasting evidence-focused perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
-        
-        <p class="fr-book-desc">Places AAWSAP within a broader history of official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Primary insider account connected to his credibility debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+College&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible College</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -530,15 +481,15 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +497,15 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +513,15 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +529,15 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,7 +545,7 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="how-credible-is-james-lacatski-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-james-lacatski-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-credible-is-james-lacatski-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,142 +761,142 @@ The result is a split verdict. Lacatski is a significant and unusually well-posi
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: The Advanced Aerospace Weapon System Applications Program (AAWSAP) Documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 4. <a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 5. <a id="endnote-5"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/](https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/</a>  
 
 6. <a id="endnote-6"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 8. <a id="endnote-8"></a>
    Source: audible.co.uk  
    Title: Dr. James Lacatski  
-   Link: [https://www.audible.co.uk/podcast/Dr-James-Lacatski-This-Is-Ufo-Disclosure-As-Far-As-It-Can-Go/B0GWKL665G](https://www.audible.co.uk/podcast/Dr-James-Lacatski-This-Is-Ufo-Disclosure-As-Far-As-It-Can-Go/B0GWKL665G)  
+   Link: <a href="https://www.audible.co.uk/podcast/Dr-James-Lacatski-This-Is-Ufo-Disclosure-As-Far-As-It-Can-Go/B0GWKL665G" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/podcast/Dr-James-Lacatski-This-Is-Ufo-Disclosure-As-Far-As-It-Can-Go/B0GWKL665G</a>  
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: [https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf](https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt](https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: dhs.gov  
    Title: 25 0723 foia dhs st foia log fy2024  
-   Link: [https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf](https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/video/watch/idRW667408032024RP1/](https://www.reuters.com/video/watch/idRW667408032024RP1/)  
+   Link: <a href="https://www.reuters.com/video/watch/idRW667408032024RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW667408032024RP1/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
    Title: no evidence space aliens so far pentagons ufo deep dive 2022 12 16  
-   Link: [https://www.reuters.com/business/aerospace-defense/no-evidence-space-aliens-so-far-pentagons-ufo-deep-dive-2022-12-16/](https://www.reuters.com/business/aerospace-defense/no-evidence-space-aliens-so-far-pentagons-ufo-deep-dive-2022-12-16/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/no-evidence-space-aliens-so-far-pentagons-ufo-deep-dive-2022-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/no-evidence-space-aliens-so-far-pentagons-ufo-deep-dive-2022-12-16/</a>  
 
 16. <a id="endnote-16"></a>
    Source: audible.co.uk  
-   Link: [https://www.audible.co.uk/pd/Skinwalkers-at-the-Pentagon-Audiobook/B0BT6LD49L](https://www.audible.co.uk/pd/Skinwalkers-at-the-Pentagon-Audiobook/B0BT6LD49L)  
+   Link: <a href="https://www.audible.co.uk/pd/Skinwalkers-at-the-Pentagon-Audiobook/B0BT6LD49L" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/pd/Skinwalkers-at-the-Pentagon-Audiobook/B0BT6LD49L</a>  
 
 17. <a id="endnote-17"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: James Lacatski  
-   Link: [https://www.reddit.com/r/UFOs/comments/1snfgf7/james_lacatski_latest_weaponized_appearance/](https://www.reddit.com/r/UFOs/comments/1snfgf7/james_lacatski_latest_weaponized_appearance/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1snfgf7/james_lacatski_latest_weaponized_appearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1snfgf7/james_lacatski_latest_weaponized_appearance/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/](https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/the-department-of-war-celebrates-the-launch-of-wargovufo-as-a-major-milestone-in/1428129306019997/</a>  
 
 20. <a id="endnote-20"></a>
    Source: metabunk.org  
    Title: George Knapp  
-   Link: [https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/](https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/)  
+   Link: <a href="https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon’s Secret UFO Program  
-   Link: [https://www.youtube.com/watch?v=Qu8pudJk_-A](https://www.youtube.com/watch?v=Qu8pudJk_-A)  
+   Link: <a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Dr. James Lacatski  
-   Link: [https://www.youtube.com/watch?v=rW02-PuPMJ8](https://www.youtube.com/watch?v=rW02-PuPMJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rW02-PuPMJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski AAWSAP interview UFO AAWSAP program lead Dr. James Lacatski has emails destroyed by DIA John Greenwald confirms...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Government UFO Boss  
-   Link: [https://www.youtube.com/watch?v=cggMuAjFJcI](https://www.youtube.com/watch?v=cggMuAjFJcI)  
+   Link: <a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cggMuAjFJcI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Mystery Wire  
-   Link: [https://www.youtube.com/watch?v=b3U0PVvv7RQ](https://www.youtube.com/watch?v=b3U0PVvv7RQ)  
+   Link: <a href="https://www.youtube.com/watch?v=b3U0PVvv7RQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b3U0PVvv7RQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played: Dr. James Lacatski (PART 1)...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire - Dr. James Lacatski, Dr. Colm Kelleher, George Knapp...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view](https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view)  
+   Link: <a href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/520728365/7-Invisibility-[Cloaking](https://www.scribd.com/document/520728365/7-Invisibility-[Cloaking)  
+   Link: <a href="https://www.scribd.com/document/520728365/7-Invisibility-[Cloaking" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/520728365/7-Invisibility-[Cloaking</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/uapsocial/posts/1354342729862076/](https://www.facebook.com/groups/uapsocial/posts/1354342729862076/)  
+   Link: <a href="https://www.facebook.com/groups/uapsocial/posts/1354342729862076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uapsocial/posts/1354342729862076/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/washingtonpost/posts/a-soon-to-be-released-government-report-finds-no-proof-of-ufos-but-cannot-provid/10161041861322293/](https://www.facebook.com/washingtonpost/posts/a-soon-to-be-released-government-report-finds-no-proof-of-ufos-but-cannot-provid/10161041861322293/)  
+   Link: <a href="https://www.facebook.com/washingtonpost/posts/a-soon-to-be-released-government-report-finds-no-proof-of-ufos-but-cannot-provid/10161041861322293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/washingtonpost/posts/a-soon-to-be-released-government-report-finds-no-proof-of-ufos-but-cannot-provid/10161041861322293/</a>  
 
 30. <a id="endnote-30"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>

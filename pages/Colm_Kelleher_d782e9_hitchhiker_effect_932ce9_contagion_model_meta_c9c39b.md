@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hitchhikers/
 nav_short_title: Contagion model
 title: Is the hitchhiker effect really contagious?
-title_full: Is the hitchhiker effect really contagious? | Hitchhikers
+title_full: Is the hitchhiker effect really contagious?
 display_title_short: Contagion model
 display_title: Contagion model
 heading_title: Is the hitchhiker effect really contagious?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Is The Hitchhiker Effect Claim? | Kelleher
+parent_title: What Is The Hitchhiker Effect Claim?
 parent_permalink: /hitchhikers/
 parent_nav_short_title: Hitchhikers
 parent_heading_title: What Is The Hitchhiker Effect Claim?
@@ -253,7 +253,7 @@ next_link:
   permalink: /health-claims/
   short_title: Health claims
   heading_title: Did hitchhiker reports point to real illness?
-date: '2026-06-09 03:08:32 '
+date: '2026-06-11 21:08:03 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_mo
 
 ## Introduction
 
-One of the more unusual aspects of [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s hitchhiker-effect narrative is his use of contagion language. Rather than describing alleged post-Skinwalker experiences as isolated paranormal events, he has repeatedly suggested that they may spread through social or household networks in a way that resembles transmission. In public discussions and in his 2022 *EdgeScience* article, Kelleher explicitly linked the [hitchhiker effect]({{ 'hitchhikers/' | relative_url }}) to “models of contagion”, arguing that experiences reported by investigators sometimes appeared to extend beyond the original witness and into families, workplaces or friendship circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">Colm A. Kelleher. Page 2. 20 / EDGESCIENCE #50 • JUNE 2022. Lacatski himself and his wife experienced a few, but not.Read more...</span><span class="citation-popover-meta">Published: JUNE 2022</span></span></span>
-
+One of the more unusual aspects of Colm Kelleher’s hitchhiker-effect narrative is his use of contagion language. Rather than describing alleged post-[Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) experiences as isolated paranormal events, he has repeatedly suggested that they may spread through social or household networks in a way that resembles transmission. In public discussions and in his 2022 *EdgeScience* article, Kelleher explicitly linked the hitchhiker effect to “models of contagion”, arguing that experiences reported by investigators sometimes appeared to extend beyond the original witness and into families, workplaces or friendship circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">Colm A. Kelleher. Page 2. 20 / EDGESCIENCE #50 • JUNE 2022. Lacatski himself and his wife experienced a few, but not.Read more...</span><span class="citation-popover-meta">Published: JUNE 2022</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1-dark.svg" | relative_url }}" alt="Contagion model illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key point is that Kelleher is not claiming a proven infectious disease. Instead, he is borrowing concepts from epidemiology and network science as a way of organising reports that seem, in his view, to cluster around particular people after exposure to a location or event. Whether that analogy clarifies the phenomenon or exaggerates it is one of the central disputes surrounding the hitchhiker effect.
@@ -275,7 +274,6 @@ Kelleher’s problem is partly a descriptive one. The hitchhiker claim does not 
 A contagion framework gives that pattern a structure.
 
 Instead of treating each report as independent, the model asks questions familiar to epidemiologists:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,9 +297,6 @@ Network science already studies how information, behaviours and beliefs move thr
 
 Applied to hitchhiker claims, a rigorous study might attempt to map:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lMelU1aOFVU" title="Pentagon Files Reveal Families Haunted by Unexplained Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lMelU1aOFVU" target="_blank" rel="noopener noreferrer">Pentagon Files Reveal Families Haunted by Unexplained Phenomena</a></p><p class="youtube-embed-meta">Channel: Into the Fog with Peter Laws &middot; Views: 640.9K &middot; Uploaded: February 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lMelU1aOFVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lMelU1aOFVU">Open on YouTube</a></p></div></div></div>
-
 1. The original witness or exposure event.
 2. Family and social connections.
 3. The timing of reported experiences.
@@ -316,7 +311,6 @@ This distinction is important. A network analysis can demonstrate that something
 
 The spread might reflect:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Shared observation of an external event.
@@ -329,7 +323,6 @@ The spread might reflect:
 </div>
 
 The method tests the pattern first and explains the cause second.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-2-dark.svg" | relative_url }}" alt="Contagion model illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between biological contagion and social contagion
@@ -350,8 +343,7 @@ If a social process is being proposed, the investigation becomes more about comm
 
 The public record has not yet established which interpretation, if either, best fits the reported cases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5uEBl2x78SI" title="Using network science to forecast the spread of emerging diseases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5uEBl2x78SI" target="_blank" rel="noopener noreferrer">Using network science to forecast the spread of emerging diseases</a></p><p class="youtube-embed-meta">Channel: Northeastern</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5uEBl2x78SI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5uEBl2x78SI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lMelU1aOFVU" title="Pentagon Files Reveal Families Haunted by Unexplained Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lMelU1aOFVU" target="_blank" rel="noopener noreferrer">Pentagon Files Reveal Families Haunted by Unexplained Phenomena</a></p><p class="youtube-embed-meta">Channel: Into the Fog with Peter Laws &middot; Views: 640.9K &middot; Uploaded: February 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lMelU1aOFVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lMelU1aOFVU">Open on YouTube</a></p></div></div></div>
 
 ## Where the infection metaphor can mislead
 
@@ -362,7 +354,6 @@ People immediately understand the idea of exposure, transmission and spread. The
 That is also where critics see a major problem.
 
 Describing reports as “contagious” can make an unproven pattern sound more biologically grounded than it actually is. The terminology may unintentionally imply:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -375,10 +366,9 @@ Describing reports as “contagious” can make an unproven pattern sound more b
 
 None of those points has been demonstrated publicly in relation to the hitchhiker effect.
 
-Sceptics therefore argue that the metaphor risks smuggling assumptions into the discussion. Once a case is framed as a contagion event, readers may start thinking in terms of infection before evidence of infection exists. Jason Colavito and other critics have argued that no public scientific demonstration has shown that experiences reported after [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }})-related investigations are causally linked to the ranch itself rather than to belief, expectation or coincidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/JasonColavito/status/1541157418838761476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-title">formerly Twitter)Skinwalker Ranch and the &#x27;hitchhiker effect</span><span class="citation-popover-snippet">X (formerly Twitter)Skinwalker Ranch and the &#x27;hitchhiker effect&#x27; - Jason ColavitoNo one making this claim has offered anything like scien...</span></span></span>
+Sceptics therefore argue that the metaphor risks smuggling assumptions into the discussion. Once a case is framed as a contagion event, readers may start thinking in terms of infection before evidence of infection exists. Jason Colavito and other critics have argued that no public scientific demonstration has shown that experiences reported after Skinwalker-related investigations are causally linked to the ranch itself rather than to belief, expectation or coincidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/JasonColavito/status/1541157418838761476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-title">formerly Twitter)Skinwalker Ranch and the &#x27;hitchhiker effect</span><span class="citation-popover-snippet">X (formerly Twitter)Skinwalker Ranch and the &#x27;hitchhiker effect&#x27; - Jason ColavitoNo one making this claim has offered anything like scien...</span></span></span>
 
 The same criticism appears in broader debates around UAP belief systems. Some commentators suggest that social contagion may explain parts of the phenomenon more effectively than any physical transmission process, comparing waves of UFO belief to other episodes of collective interpretation and cultural diffusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Document Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-title">HHRG 118 GO12 Wstate ShellenbergerM 20241113</span><span class="citation-popover-snippet">House Document RepositoryThe United States Department Of Defense And The...13 Nov 2024 — Other UAP skeptics say that some combination of...</span></span></span>
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-3-dark.svg" | relative_url }}" alt="Contagion model illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved credibility question
@@ -390,10 +380,6 @@ That instinct is not inherently unscientific. Epidemiology, network analysis and
 As a result, the contagion framework currently functions more as a hypothesis-generating model than a verified explanation. It offers a way of organising witness reports, but it does not yet establish that the hitchhiker effect is literally contagious, biologically transmissible or even a single coherent phenomenon.
 
 For readers assessing Kelleher’s credibility, that distinction matters. The underlying question is not whether clusters of unusual reports exist in his case narratives. It is whether the contagion metaphor identifies a real mechanism or merely provides an appealing structure for experiences that remain unexplained. The available public evidence does not yet resolve that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">Colm A. Kelleher. Page 2. 20 / EDGESCIENCE #50 • JUNE 2022. Lacatski himself and his wife experienced a few, but not.Read more...</span><span class="citation-popover-meta">Published: JUNE 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TIFz-XUBjqo" title="Damon Centola on how social networks affect health behaviors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TIFz-XUBjqo" target="_blank" rel="noopener noreferrer">Damon Centola on how social networks affect health behaviors</a></p><p class="youtube-embed-meta">Channel: scientificblogging</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TIFz-XUBjqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TIFz-XUBjqo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -512,15 +498,15 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon"><img src="https://i.ebayimg.com/images/g/odYAAeSwP9hpkhTl/s-l225.jpg" alt="Listing image for 2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +514,15 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta"><img src="https://i.ebayimg.com/images/g/V10AAOSw6XtmYL5~/s-l225.jpg" alt="Listing image for Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +530,15 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket"><img src="https://i.ebayimg.com/images/g/jPMAAeSwZohp1Qvr/s-l225.jpg" alt="Listing image for Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +546,15 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999"><img src="https://i.ebayimg.com/images/g/ECgAAeSwNw1p7Dwx/s-l225.jpg" alt="Listing image for Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot Of 6 Vintage Edition X-Files TV Guides From 1996 to 1999</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +562,7 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="contagion-model-is-the-hitchhiker-effect-really-contagious-colm-kelleher-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="is-the-hitchhiker-effect-really-contagious-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -792,91 +778,91 @@ For readers assessing Kelleher’s credibility, that distinction matters. The un
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Network-based diffusion analysis  
-   Link: [https://en.wikipedia.org/wiki/Network-based_diffusion_analysis](https://en.wikipedia.org/wiki/Network-based_diffusion_analysis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Network-based_diffusion_analysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Network-based_diffusion_analysis</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Three degrees of influence  
-   Link: [https://en.wikipedia.org/wiki/Three_degrees_of_influence](https://en.wikipedia.org/wiki/Three_degrees_of_influence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Three_degrees_of_influence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Three_degrees_of_influence</a>  
 
 3. <a id="endnote-3"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Document RepositoryThe United States Department Of Defense And The...13 Nov 2024 — Other UAP skeptics say that some combination of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Pentagon's Secret UFO Program, the Hitchhiker Effect,  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm A. Kelleher. Page 2. 20 / EDGESCIENCE #50 • JUNE 2022. Lacatski himself and his wife experienced a few, but not.Read more...</p></details>
    Published: JUNE 2022  
 
 5. <a id="endnote-5"></a>
    Source: x.com  
    Title: (formerly Twitter)Skinwalker Ranch and the 'hitchhiker effect'  
-   Link: [https://x.com/JasonColavito/status/1541157418838761476](https://x.com/JasonColavito/status/1541157418838761476)  
+   Link: <a href="https://x.com/JasonColavito/status/1541157418838761476" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JasonColavito/status/1541157418838761476</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Skinwalker Ranch and the &#x27;hitchhiker effect&#x27; - Jason ColavitoNo one making this claim has offered anything like scien...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Hitchhiker Effect  
-   Link: [https://www.youtube.com/shorts/RACc_k9eJpQ](https://www.youtube.com/shorts/RACc_k9eJpQ)  
+   Link: <a href="https://www.youtube.com/shorts/RACc_k9eJpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/RACc_k9eJpQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan &amp; David PaulidesDavid Paulides joins Joe Rogan to expose the unsettling reality of the &quot;Hitchhiker Effect.&quot; First made famous b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB](https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB)  
+   Link: <a href="https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker Effect - HOLOSKY PODCAST2 Mar 2026 — We break down the [Axelrod case](&amp;#123;&amp;#123; &#x27;axelrod-case/&#x27; | relative_url &amp;#125;&amp;#125;), the Witt family experiences, and the Kelleher household r...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2340648070/posts/10163134312978071/](https://www.facebook.com/groups/2340648070/posts/10163134312978071/)  
+   Link: <a href="https://www.facebook.com/groups/2340648070/posts/10163134312978071/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2340648070/posts/10163134312978071/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm A. Kelleher Ph.D. Notes from his interviewsSuch as The Hitch Hiker Effect, Poltergeists and Contagions... Model, Social Contagion M...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/815616659631794/posts/1126363685223755/](https://www.facebook.com/groups/815616659631794/posts/1126363685223755/)  
+   Link: <a href="https://www.facebook.com/groups/815616659631794/posts/1126363685223755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/815616659631794/posts/1126363685223755/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dangers of visiting Skinwalker RanchThe &quot;Hitchhiker Effect &quot; can be said to have had some grave links to this location as well as it seem...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cs.sfu.ca  
-   Link: [https://www.cs.sfu.ca/~oschulte/teaching/socialnetwork/papers/SNA-intro-mohsen.pdf](https://www.cs.sfu.ca/~oschulte/teaching/socialnetwork/papers/SNA-intro-mohsen.pdf)  
+   Link: <a href="https://www.cs.sfu.ca/~oschulte/teaching/socialnetwork/papers/SNA-intro-mohsen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.sfu.ca/~oschulte/teaching/socialnetwork/papers/SNA-intro-mohsen.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>School of Computing ScienceDifferent Aspects of Social Network Analysisby M Jamali · Cited by 369 — In this paper a state of the art surv...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/](https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/)  
+   Link: <a href="https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DISTURBING Truth About SkinWalker RanchCriticism Skeptical author Robert Sheaffer believes the phenomenon at Skinwalker to be &quot;almost...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61581735685073/posts/full-video-here-httpsyoutube7dqn5nebxow-five-pentagon-intelligence-officers-inve/122121796137057856/](https://www.facebook.com/61581735685073/posts/full-video-here-httpsyoutube7dqn5nebxow-five-pentagon-intelligence-officers-inve/122121796137057856/)  
+   Link: <a href="https://www.facebook.com/61581735685073/posts/full-video-here-httpsyoutube7dqn5nebxow-five-pentagon-intelligence-officers-inve/122121796137057856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61581735685073/posts/full-video-here-httpsyoutube7dqn5nebxow-five-pentagon-intelligence-officers-inve/122121796137057856/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/although-advances-in-ai-are-seen-by-president-trump-as-critical-to-the-nations-e/1425283482800227/](https://www.facebook.com/newshour/posts/although-advances-in-ai-are-seen-by-president-trump-as-critical-to-the-nations-e/1425283482800227/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/although-advances-in-ai-are-seen-by-president-trump-as-critical-to-the-nations-e/1425283482800227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/although-advances-in-ai-are-seen-by-president-trump-as-critical-to-the-nations-e/1425283482800227/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad enough before- now flooded with fake photos and unnecessary avatar enhancements to people, pets.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L335/](https://www.globalplayer.com/podcasts/42L335/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L335/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L335/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Everything with Curt Jaimungal - PodcastExploring theoretical physics, consciousness, Ai, and God in a technically rigorous m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/](https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker effect: Share your thoughts on how this can be...What are the ideas on how hitchhiker effect at skinwalker can be explained?...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: etheses.whiterose.ac.uk  
    Title: Ph D thesis andrew clark minor corrections  
-   Link: [https://etheses.whiterose.ac.uk/id/eprint/34458/1/PhD_thesis_andrew_clark_minor_corrections.pdf](https://etheses.whiterose.ac.uk/id/eprint/34458/1/PhD_thesis_andrew_clark_minor_corrections.pdf)  
+   Link: <a href="https://etheses.whiterose.ac.uk/id/eprint/34458/1/PhD_thesis_andrew_clark_minor_corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/34458/1/PhD_thesis_andrew_clark_minor_corrections.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Causal Foundations of Metamorphic Testingby AG Clark · 2023 · Cited by 3 — To this end, in this thesis, we draw on the fundamentally...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/](https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker Effect and Models of Contagio: r/skinwalkerranchParanormal &#x27;contagion&#x27; based less on proximity, relation or interaction, but...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-uap-injury-claims/
 description: Focused pages that expand on Injury Claims.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Kit_Green_d896bc_uap_injury_claims_5715d6
-parent_title: Injury Claims | How Credible Is Kit Green's UAP Story?
+parent_title: Injury Claims
 parent_nav_short_title: Injury Claims
 parent_permalink: /injury-claims/
 ---

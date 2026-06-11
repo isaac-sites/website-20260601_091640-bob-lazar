@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /afosi-record/
 nav_short_title: Bennewitz file
 title: Did AFOSI Confirm Paul Bennewitz?
-title_full: Did AFOSI Confirm Paul Bennewitz? | AFOSI Record
+title_full: Did AFOSI Confirm Paul Bennewitz?
 display_title_short: Bennewitz file
 display_title: Bennewitz file
 heading_title: Did AFOSI Confirm Paul Bennewitz?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Can Be Verified About Doty's Service? | Doty
+parent_title: What Can Be Verified About Doty's Service?
 parent_permalink: /afosi-record/
 parent_nav_short_title: AFOSI Record
 parent_heading_title: What Can Be Verified About Doty's Service?
@@ -253,7 +253,7 @@ next_link:
   permalink: /kirtland-files/
   short_title: Kirtland files
   heading_title: What the Kirtland Files Really Prove
-date: '2026-06-09 02:55:16 '
+date: '2026-06-11 21:03:04 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1.webp
@@ -262,14 +262,10 @@ image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_
 
 ## Introduction
 
-One of the most important questions in assessing [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s credibility is whether the Air Force Office of Special Investigations (AFOSI) ever confirmed Paul [Bennewitz]({{ 'bennewitz/' | relative_url }})’s belief that he had uncovered evidence of extraterrestrial activity near Kirtland Air Force Base. The available record points in a narrower direction. Official documents and multiple historical accounts show that AFOSI personnel, including Richard Doty, were involved with Bennewitz and took his reports seriously enough to meet with him. However, the evidence does not show that AFOSI officially endorsed his alien interpretation. Instead, the surviving record suggests a mixture of security concerns, uncertainty about what Bennewitz was observing, and efforts to manage a civilian who was focusing attention on sensitive military activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
-
+One of the most important questions in assessing Richard Doty’s credibility is whether the Air Force Office of Special Investigations (AFOSI) ever confirmed Paul [Bennewitz]({{ 'bennewitz/' | relative_url }})’s belief that he had uncovered evidence of extraterrestrial activity near Kirtland Air Force Base. The available record points in a narrower direction. Official documents and multiple historical accounts show that AFOSI personnel, including Richard Doty, were involved with Bennewitz and took his reports seriously enough to meet with him. However, the evidence does not show that AFOSI officially endorsed his alien interpretation. Instead, the surviving record suggests a mixture of security concerns, uncertainty about what Bennewitz was observing, and efforts to manage a civilian who was focusing attention on sensitive military activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1-dark.svg" | relative_url }}" alt="Bennewitz file illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because later retellings often blur the line between official contact and official confirmation. The fact that AFOSI engaged with Bennewitz is documented. The claim that AFOSI validated extraterrestrial conclusions is not.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IROLRx0Bypw" title="Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer">Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IROLRx0Bypw">Open on YouTube</a></p></div></div></div>
 
 ## The 10 November Kirtland Meeting
 
@@ -278,7 +274,6 @@ The best-known early episode occurred on 10 November 1980, after Bennewitz had c
 For [supporters]({{ 'supporters/' | relative_url }}) of Bennewitz, the meeting is sometimes cited as evidence that the military recognised the significance of what he had discovered. Yet the available descriptions of the event do not show officials concluding that extraterrestrial craft were involved. Rather, the meeting demonstrates that military personnel were willing to hear his presentation and assess whether any security issue existed. The distinction is important: listening to a briefing is not the same as endorsing its conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 From a credibility perspective, the meeting strengthens the claim that Bennewitz attracted genuine official attention. It does not strengthen the separate claim that AFOSI or the Air Force accepted his extraterrestrial explanation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_FCSff37ZI" title="Paul Bennewitz &amp; Alien Invasion (Dulce Base, Project Beta) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_FCSff37ZI" target="_blank" rel="noopener noreferrer">Paul Bennewitz &amp; Alien Invasion (Dulce Base, Project Beta) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.8K &middot; Uploaded: February 2021 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_FCSff37ZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_FCSff37ZI">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +287,6 @@ This limitation is significant when evaluating later claims. Some accounts imply
 
 In practical terms, AFOSI involvement established three things:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bennewitz was considered noteworthy enough to warrant attention.
@@ -303,18 +297,14 @@ In practical terms, AFOSI involvement established three things:
 
 It did not establish that alien transmissions, alien bases, or extraterrestrial craft had been verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-2-dark.svg" | relative_url }}" alt="Bennewitz file illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Contact Became Mistaken for Confirmation
 
 A major reason the [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}) remains controversial is that official engagement can easily be interpreted as validation. When a civilian researcher is invited onto a military base, meets intelligence personnel, and receives continued attention from government representatives, it is understandable that observers may assume his underlying claims have passed some form of official scrutiny.
 
-The historical record suggests a more complicated reality. Later reporting, memoirs, interviews, and investigations repeatedly describe a situation in which Bennewitz's concerns intersected with military security interests. Some researchers argue that officials sought to redirect his attention away from classified activities. Others go further and contend that deliberate disinformation was introduced into the situation. Regardless of which interpretation one accepts, neither position requires AFOSI to have believed that extraterrestrials were involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufouap.com">[UFOUAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufouap.com</span><span class="citation-popover-snippet">UFOUAPPaul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or shooting stars, o...</span></span></span> This is where Richard Doty's role becomes central. Doty has long been associated with claims that misleading information was provided to UFOresearchers during the 1980s. Critics argue that his involvement demonstrates why official contact should not be equated with official endorsement. In their view, the Bennewitz case is an example of how intelligence engagement can create an illusion of validation while serving entirely different objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
+The historical record suggests a more complicated reality. Later reporting, memoirs, interviews, and investigations repeatedly describe a situation in which Bennewitz's concerns intersected with military security interests. Some researchers argue that officials sought to redirect his attention away from classified activities. Others go further and contend that deliberate disinformation was introduced into the situation. Regardless of which interpretation one accepts, neither position requires AFOSI to have believed that extraterrestrials were involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufouap.com">[UFOUAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufouap.com</span><span class="citation-popover-snippet">Paul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or shooting stars, o...</span></span></span> This is where Richard Doty's role becomes central. Doty has long been associated with claims that misleading information was provided to UFOresearchers during the 1980s. Critics argue that his involvement demonstrates why official contact should not be equated with official endorsement. In their view, the Bennewitz case is an example of how intelligence engagement can create an illusion of validation while serving entirely different objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
 
-Supporters of Doty sometimes respond that security concerns around Kirtland were real and that Bennewitz may indeed have detected unusual military activity. Even under that more sympathetic interpretation, however, the available evidence still falls short of showing AFOSI confirmation of extraterrestrial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufouap.com">[UFOUAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufouap.com</span><span class="citation-popover-snippet">UFOUAPPaul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q30UFr_5ltA" title="Ancient Aliens: ALIEN REPTILES MANIPULATE HUMAN DNA (Season 14) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q30UFr_5ltA" target="_blank" rel="noopener noreferrer">Ancient Aliens: ALIEN REPTILES MANIPULATE HUMAN DNA (Season 14) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q30UFr_5ltA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q30UFr_5ltA">Open on YouTube</a></p></div></div></div>
+Supporters of Doty sometimes respond that security concerns around Kirtland were real and that Bennewitz may indeed have detected unusual military activity. Even under that more sympathetic interpretation, however, the available evidence still falls short of showing AFOSI confirmation of extraterrestrial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufouap.com">[UFOUAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufouap.com</span><span class="citation-popover-snippet">Paul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</span></span></span>
 
 ## What the Bennewitz File Actually Shows About Doty
 
@@ -323,7 +313,6 @@ For the broader question of Richard Doty's credibility, the Bennewitz record pro
 On the supportive side, the case demonstrates that Doty was not a fictional intelligence figure invented years later. Official records and multiple independent historical reconstructions place him within the AFOSI environment surrounding Bennewitz and Kirtland. His connection to the episode is substantially better documented than many of the extraordinary UFO narratives he later discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Greg%20Bishop%20-%20Project%20Beta%20-%20The%20Story%20of%20Paul%20Bennewitz%2C%20National%20Security%2C%20and%20the%20Creation%20of%20a%20Modern%20UFO%20myth.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">PROJEC T BETAOn</span><span class="citation-popover-snippet">PROJECT BETAOn November 17, 1980, Moore drove onto the base and to the nondescript AFOSI office to meet with Richard Doty. The interview...</span><span class="citation-popover-meta">Published: November 17, 1980</span></span></span>
 
 On the cautionary side, the same episode illustrates why institutional contact should not be mistaken for institutional confirmation. The documentary trail shows interaction, concern, and investigation. It does not show AFOSI issuing a finding that Bennewitz had discovered extraterrestrial communications or alien craft. Indeed, much of the later controversy stems from allegations that information circulating around the case became less reliable, not more reliable, as intelligence-linked figures became involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</span></span></span> The narrow evidence-based conclusion is therefore straightforward: AFOSI's documented contact with Paul Bennewitz confirms that his activities drew official attention and that Richard Doty was connected to that environment. It does not demonstrate that AFOSI validated Bennewitz's extraterrestrial interpretation, and treating official engagement as proof of alien claims goes beyond what the available record supports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.bookey.app/files/pdf/book/en/project-beta.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.bookey.app">[2cdn.bookey.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.bookey.app</span><span class="citation-popover-title">Project Beta PDFOn</span><span class="citation-popover-snippet">November 10, 1980, Paul Bennewitz presented his findings on potential extraterrestrial signals to high-ranking officials at Kirtland Air...</span><span class="citation-popover-meta">Published: November 10, 1980</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-3-dark.svg" | relative_url }}" alt="Bennewitz file illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -339,16 +328,16 @@ On the cautionary side, the same episode illustrates why institutional contact s
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Focused specifically on what officials did and did not confirm to Bennewitz.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -356,16 +345,16 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Explores how official contact became interpreted as validation.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -373,16 +362,16 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Places Bennewitz within broader government-UFO interactions.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,16 +379,16 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H5JTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
         </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+        <p class="fr-book-author">By David Michael Jacobs</p>
         
-        <p class="fr-book-desc">Examines how UFO interpretations grow beyond original events.</p>
+        
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,7 +396,7 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -444,15 +433,15 @@ On the cautionary side, the same episode illustrates why institutional contact s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed I Know What You Did Last Summer (1997) Movie Poster - Horror Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f29a45dd678c40acde6a.jpg' | relative_url }}" alt="Listing image for Framed I Know What You Did Last Summer (1997) Movie Poster - Horror Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Framed I Know What You Did Last Summer (1997) Movie Poster - Horror Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: did memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -460,15 +449,15 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Obama 2008 Yes We Did Shepard Fairy Stickers Moveon.org Election Memorabilia"><img src="{{ '/assets/images/marketplace-covers/cb5a7381c8625d9812a8.jpg' | relative_url }}" alt="Listing image for Obama 2008 Yes We Did Shepard Fairy Stickers Moveon.org Election Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Obama 2008 Yes We Did Shepard Fairy Stickers Moveon.org Election Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: did memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +465,15 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How Did They Do It? Computer Illusion in Film &amp; TV Entertainment Memorabilia SC"><img src="{{ '/assets/images/marketplace-covers/bb6e6c97c687848d6fa2.jpg' | relative_url }}" alt="Listing image for How Did They Do It? Computer Illusion in Film &amp; TV Entertainment Memorabilia SC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">How Did They Do It? Computer Illusion in Film &amp; TV Entertainment Memorabilia SC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: did memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +481,15 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1981 US Navy USS America SUEZ Canal We Did the Ditch Shirt Military Memorabilia"><img src="{{ '/assets/images/marketplace-covers/d3d40d6983e7e59beeee.jpg' | relative_url }}" alt="Listing image for 1981 US Navy USS America SUEZ Canal We Did the Ditch Shirt Military Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1981 US Navy USS America SUEZ Canal We Did the Ditch Shirt Military Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for did memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: did memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,7 +497,7 @@ On the cautionary side, the same episode illustrates why institutional contact s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did memorabilia -book -books -dvd" data-ebay-reference="bennewitz-file-did-afosi-confirm-paul-bennewitz-richard-doty-did-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-afosi-confirm-paul-bennewitz-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-afosi-confirm-paul-bennewitz-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,99 +713,99 @@ On the cautionary side, the same episode illustrates why institutional contact s
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 2. <a id="endnote-2"></a>
    Source: cdn.bookey.app  
    Title: Project Beta PDFOn  
-   Link: [https://cdn.bookey.app/files/pdf/book/en/project-beta.pdf](https://cdn.bookey.app/files/pdf/book/en/project-beta.pdf)  
+   Link: <a href="https://cdn.bookey.app/files/pdf/book/en/project-beta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.bookey.app/files/pdf/book/en/project-beta.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 10, 1980, Paul Bennewitz presented his findings on potential extraterrestrial signals to high-ranking officials at Kirtland Air...</p></details>
    Published: November 10, 1980  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: [mirage men](&#123;&#123; 'mirage-men/' | relative_url &#125;&#125;)  
-   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
+   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or shooting stars, o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ufouap.com  
-   Link: [https://www.ufouap.com/case-files/paul-bennewitz](https://www.ufouap.com/case-files/paul-bennewitz)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOUAPPaul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</p></details>
+   Link: <a href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/case-files/paul-bennewitz</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz – Case FileThey provided him with forged documents describing underground alien bases.... Whether the concealed mat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 6. <a id="endnote-6"></a>
    Source: avalonlibrary.net  
    Title: PROJEC T BETAOn  
-   Link: [https://avalonlibrary.net/ebooks/Greg%20Bishop%20-%20Project%20Beta%20-%20The%20Story%20of%20Paul%20Bennewitz%2C%20National%20Security%2C%20and%20the%20Creation%20of%20a%20Modern%20UFO%20myth.pdf](https://avalonlibrary.net/ebooks/Greg%20Bishop%20-%20Project%20Beta%20-%20The%20Story%20of%20Paul%20Bennewitz%2C%20National%20Security%2C%20and%20the%20Creation%20of%20a%20Modern%20UFO%20myth.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Greg%20Bishop%20-%20Project%20Beta%20-%20The%20Story%20of%20Paul%20Bennewitz%2C%20National%20Security%2C%20and%20the%20Creation%20of%20a%20Modern%20UFO%20myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Greg%20Bishop%20-%20Project%20Beta%20-%20The%20Story%20of%20Paul%20Bennewitz%2C%20National%20Security%2C%20and%20the%20Creation%20of%20a%20Modern%20UFO%20myth.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BETAOn November 17, 1980, Moore drove onto the base and to the nondescript AFOSI office to meet with Richard Doty. The interview...</p></details>
    Published: November 17, 1980  
 
 7. <a id="endnote-7"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_](https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_)  
+   Link: <a href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/](https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/)  
+   Link: <a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/shawnryanshow/posts/a-civilian-physicist-involved-in-uap-research-in-new-mexico-was-deliberately-dec/1087574879483505/](https://www.facebook.com/shawnryanshow/posts/a-civilian-physicist-involved-in-uap-research-in-new-mexico-was-deliberately-dec/1087574879483505/)  
+   Link: <a href="https://www.facebook.com/shawnryanshow/posts/a-civilian-physicist-involved-in-uap-research-in-new-mexico-was-deliberately-dec/1087574879483505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryanshow/posts/a-civilian-physicist-involved-in-uap-research-in-new-mexico-was-deliberately-dec/1087574879483505/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shawn Ryan Show&#x27;s postRichard Doty is also mentioned multiple times in Valle&#x27;s book. He is a retired Air Force Special investigations off...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media](https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media)  
+   Link: <a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of the Psyop, Part 1: UFOs and the Future of MediaPaul Bennewitz became ever more paranoid about alien surveillance, accusing his...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: greatdreams.com  
-   Link: [https://www.greatdreams.com/Falcon-Richard-Doty.htm](https://www.greatdreams.com/Falcon-Richard-Doty.htm)  
+   Link: <a href="https://www.greatdreams.com/Falcon-Richard-Doty.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.greatdreams.com/Falcon-Richard-Doty.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mental Destruction of Paul BennewitzTHE MENTAL DESTRUCTION OF PAUL BENNEWITZ. compiled by Dee Finney. Richard Doty was interviewed on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/alamogordocitywatch/posts/1624550448025609/](https://www.facebook.com/groups/alamogordocitywatch/posts/1624550448025609/)  
+   Link: <a href="https://www.facebook.com/groups/alamogordocitywatch/posts/1624550448025609/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alamogordocitywatch/posts/1624550448025609/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO thriller inspired by Air Force Project BluebookNo UFO reported, investigated, and evaluated by the Air Force was ever an indication o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN](https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...28 Feb 2025 — We dive into the story of Richard Doty—a former U.S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pod.wave.co  
    Title: 610 majestic 12 secret documents expose ufo cover up vol 1  
-   Link: [https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1](https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1)  
+   Link: <a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz, Linda Moulton Howe). Doty would “promise evidence, build trust, then pull the rug out,” leading to breakdowns or damaged...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: podcasts.happyscribe.com  
    Title: project beta pt d35917be 6a0f 419b 97a7 ec393c22336d  
-   Link: [https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d](https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d)  
+   Link: <a href="https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - Podcast TranscriptsAround 1980, Paul Bennewitz investigated the supposedly numerous UFO is flying over Kirtland military base.... Th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/923392188102686/posts/1953334195108475/](https://www.facebook.com/groups/923392188102686/posts/1953334195108475/)  
+   Link: <a href="https://www.facebook.com/groups/923392188102686/posts/1953334195108475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/923392188102686/posts/1953334195108475/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ct Blue Book were classified as &quot;identified,&quot; meaning they were...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Paul Bennewitz & Alien Invasion (Dulce Base, Project Beta)  
-   Link: [https://www.youtube.com/watch?v=O_FCSff37ZI](https://www.youtube.com/watch?v=O_FCSff37ZI)  
+   Link: <a href="https://www.youtube.com/watch?v=O_FCSff37ZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_FCSff37ZI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ngs from 1947-1969 The American government is unable to...Read more...</p></details>

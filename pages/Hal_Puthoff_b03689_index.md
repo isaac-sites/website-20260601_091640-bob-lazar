@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-index/
 description: Focused pages that expand on How Credible Is Hal Puthoff?.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Hal_Puthoff_b03689
 parent_title: How Credible Is Hal Puthoff?

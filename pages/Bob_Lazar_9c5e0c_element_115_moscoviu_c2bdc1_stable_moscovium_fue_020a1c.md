@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /element-115/
 nav_short_title: Stable fuel
 title: Could Element 115 ever be stable fuel?
-title_full: Could Element 115 ever be stable fuel? | Element 115
+title_full: Could Element 115 ever be stable fuel?
 display_title_short: Stable fuel
 display_title: Stable fuel
 heading_title: Could Element 115 ever be stable fuel?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Element 115 Vindicate Lazar? | Lazar
+parent_title: Did Element 115 Vindicate Lazar?
 parent_permalink: /element-115/
 parent_nav_short_title: Element 115
 parent_heading_title: Did Element 115 Vindicate Lazar?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /prediction-test/
   short_title: Prediction test
   heading_title: Was Element 115 really a prediction?
-date: '2026-06-09 02:52:14 '
+date: '2026-06-11 21:01:06 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-1.webp
@@ -258,7 +258,6 @@ image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscov
 
 Bob Lazar’s [Element 115]({{ 'element-115/' | relative_url }}) story does not stand or fall on the simple fact that element 115 exists. Modern nuclear physics already expected that additional superheavy elements would eventually be created and added to the periodic table. The crucial issue is much narrower: Lazar described a stable or long-lived isotope of Element 115 that could allegedly be stored, transported and used as fuel in an advanced [propulsion]({{ 'propulsion/' | relative_url }}) system. That requirement is far more demanding than merely showing that moscovium, the real element 115, can be synthesised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-1-dark.svg" | relative_url }}" alt="Stable fuel illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Today, every known isotope of moscovium is highly radioactive and decays extremely quickly. The longest-lived confirmed isotope survives for less than a second before transforming into lighter elements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Isotopes_of_moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Isotopes of moscovium</span><span class="citation-popover-snippet">Isotopes of moscovium</span></span></span> Supporters of Lazar often point to theoretical discussions of an “island of stability” as a possible answer. Critics respond that a theoretical possibility is not evidence that a practical, stable fuel isotope exists, let alone that it possesses the extraordinary gravity-related properties Lazar described. The gap between those two positions is where the real scientific debate sits.
 
@@ -267,7 +266,6 @@ Today, every known isotope of moscovium is highly radioactive and decays extreme
 Lazar's account requires much more than a new entry on the periodic table. In his description, Element 115 was allegedly a usable engineering material rather than a fleeting laboratory product.
 
 For the claim to work as described, several conditions would have to be true simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,7 +281,6 @@ The first requirement is the most basic. If no sufficiently long-lived isotope e
 
 This is why many physicists view the discovery of moscovium as only a partial overlap with Lazar's narrative. The existence of element 115 itself was never the most extraordinary part of the story. The extraordinary part was the alleged existence of a stable working isotope with unique engineering applications.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GVWf7MgEOSw" title="ELEMENT 115 KARANLIK ENERJİ Mİ? - UZAYLILARIN PROPULSIYON SİSTEMİ AÇIKLANDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GVWf7MgEOSw" target="_blank" rel="noopener noreferrer">ELEMENT 115 KARANLIK ENERJİ Mİ? - UZAYLILARIN PROPULSIYON SİSTEMİ AÇIKLANDI</a></p><p class="youtube-embed-meta">Channel: Bilim Arşivi &middot; Views: 127 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GVWf7MgEOSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GVWf7MgEOSw">Open on YouTube</a></p></div></div></div>
 
 ## Known moscovium half-lives versus storage
@@ -292,8 +289,7 @@ The real element 115, now named moscovium, was first synthesised through acceler
 
 The problem for Lazar's fuel claim is the behaviour of those atoms after creation.
 
-Known moscovium isotopes range from mass numbers 286 to 290. None are stable. The longest-lived confirmed isotope, moscovium-290, has a half-life of roughly 0.65 seconds. Other isotopes decay even faster, often in fractions of a second. Wikipedia ChemLin A half-life of less than a second is not a minor engineering obstacle. It means: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemlin.org/chemical-elements/moscovium-isotopes.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemlin.org">[chemlin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemlin.org</span><span class="citation-popover-title">Chem Lin Moscovium Isotopes</span><span class="citation-popover-snippet">ChemLinMoscovium Isotopes - List and PropertiesAt 650 ms, 290Mc has the longest half-life. All nuclides decay into the corresponding niho...</span></span></span>
-
+Known moscovium isotopes range from mass numbers 286 to 290. None are stable. The longest-lived confirmed isotope, moscovium-290, has a half-life of roughly 0.65 seconds. Other isotopes decay even faster, often in fractions of a second. Wikipedia ChemLin A half-life of less than a second is not a minor engineering obstacle. It means: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemlin.org/chemical-elements/moscovium-isotopes.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemlin.org">[chemlin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemlin.org</span><span class="citation-popover-title">Chem Lin Moscovium Isotopes</span><span class="citation-popover-snippet">Moscovium Isotopes - List and PropertiesAt 650 ms, 290Mc has the longest half-life. All nuclides decay into the corresponding niho...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -307,7 +303,6 @@ Known moscovium isotopes range from mass numbers 286 to 290. None are stable. Th
 To appreciate the scale of the problem, compare it with familiar radioactive materials. Even highly radioactive industrial and medical isotopes often remain useful because they survive for days, years or centuries. Lazar's alleged fuel would need to remain intact long enough to be stockpiled and repeatedly used. Known moscovium isotopes are many orders of magnitude away from that requirement.
 
 Supporters sometimes argue that scientists have only produced a few isotopes and therefore may not have discovered the correct one. Strictly speaking, that is true. Nuclear physicists do not claim every possible isotope of element 115 has been observed. The difficulty is that no known isotope comes remotely close to the stability implied by Lazar's account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Island of stability</span><span class="citation-popover-snippet">Island of stability</span></span></span>
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-2-dark.svg" | relative_url }}" alt="Stable fuel illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the island of stability can and cannot prove
@@ -326,7 +321,6 @@ The island of stability therefore provides a possible answer to one narrow objec
 
 It does not demonstrate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * That a stable isotope of element 115 exists.
@@ -338,7 +332,6 @@ It does not demonstrate:
 </div>
 
 Those are separate claims requiring separate evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9K1vlbubbFs" title="O SEGREDO DA ÁREA 51 QUE QUASE NINGUÉM CONSEGUE ENTENDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9K1vlbubbFs" target="_blank" rel="noopener noreferrer">O SEGREDO DA ÁREA 51 QUE QUASE NINGUÉM CONSEGUE ENTENDER</a></p><p class="youtube-embed-meta">Channel: Super Fato &middot; Views: 5.9K &middot; Uploaded: May 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9K1vlbubbFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9K1vlbubbFs">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +346,6 @@ For example, theoretical work has highlighted isotopes such as moscovium-291 as 
 This distinction often gets blurred in popular UFO discussions.
 
 A nucleus lasting several seconds would be a remarkable scientific achievement compared with one lasting milliseconds. It would not automatically become a practical fuel source. The leap from "more stable than expected" to "stable enough to power a spacecraft" remains enormous.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ymo4HORi35U" title="Moscovio (Elemento 115): ¿El Elemento de los OVNIs? La Verdad Científica Revelada 🔥" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ymo4HORi35U" target="_blank" rel="noopener noreferrer">Moscovio (Elemento 115): ¿El Elemento de los OVNIs? La Verdad Científica Revelada 🔥</a></p><p class="youtube-embed-meta">Channel: Sony Ericsson &middot; Views: 312 &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ymo4HORi35U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ymo4HORi35U">Open on YouTube</a></p></div></div></div>
 
@@ -373,7 +365,6 @@ The third is demonstrating the novel energy and gravity-related properties centr
 
 Current research into superheavy elements addresses only the first of those questions, and even there no confirmed stable moscovium isotope has been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob LazarIn 2003, scientists successfully synthesized an element with 115 protons, which they named &quot;Moscovium&quot;. Contrary to Lazar&#x27;s c...</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-3-dark.svg" | relative_url }}" alt="Stable fuel illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Lazar's credibility
 
@@ -386,86 +377,44 @@ At present, all confirmed moscovium isotopes decay rapidly, typically within fra
 As a result, the strongest evidence available today supports a limited conclusion: the periodic table eventually gained a real element 115, but the specific stable fuel required by Lazar's narrative remains unverified and absent from publicly known nuclear physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob LazarIn 2003, scientists successfully synthesized an element with 115 protons, which they named &quot;Moscovium&quot;. Contrary to Lazar&#x27;s c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could Element 115 ever be stable fuel?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could Element 115 ever be stable fuel?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14410532-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Addresses the realities of atomic behavior and element stability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains the original stable-fuel assertions discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The elements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14830146-M.jpg" alt="Cover for The elements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The elements">The elements</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides background on known elements and their properties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Periodic+Tales+by+Hugh+Aldersey-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Periodic Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14eMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Periodic Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Periodic+Tales+by+Hugh+Aldersey-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Periodic Tales">Periodic Tales</a>
-        </h4>
-        <p class="fr-book-author">By Hugh Aldersey-Williams</p>
-        
-        <p class="fr-book-desc">Adds context on how scientists understand elements and isotopes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Periodic+Tales+by+Hugh+Aldersey-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The elements</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -502,15 +451,15 @@ As a result, the strongest evidence available today supports a limited conclusio
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="{{ '/assets/images/marketplace-covers/cfb582b2b2b6021467bd.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="https://i.ebayimg.com/images/g/9zgAAeSw9O9purBw/s-l225.jpg" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +467,15 @@ As a result, the strongest evidence available today supports a limited conclusio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 30&quot;/75cm Long - 3d printed NEW"><img src="https://i.ebayimg.com/images/g/IoMAAeSwWz1p-Ynm/s-l225.jpg" alt="Listing image for SHADO UFO Skydiver 30&quot;/75cm Long - 3d printed NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 30&quot;/75cm Long - 3d printed NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +483,15 @@ As a result, the strongest evidence available today supports a limited conclusio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="{{ '/assets/images/marketplace-covers/32eaf37ac580c4bfbed4.jpg' | relative_url }}" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="https://i.ebayimg.com/images/g/JWQAAeSwd9to5S84/s-l225.jpg" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +499,15 @@ As a result, the strongest evidence available today supports a limited conclusio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="{{ '/assets/images/marketplace-covers/e10bcd19dc0cef39ab27.jpg' | relative_url }}" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="https://i.ebayimg.com/images/g/XdMAAeSwI0hpurgs/s-l225.jpg" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +515,7 @@ As a result, the strongest evidence available today supports a limited conclusio
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lazar+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lazar poster -book -books -dvd" data-ebay-reference="stable-fuel-could-element-115-ever-be-stable-fuel-bob-lazar-lazar-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-element-115-ever-be-stable-fuel-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="could-element-115-ever-be-stable-fuel-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -781,141 +730,141 @@ As a result, the strongest evidence available today supports a limited conclusio
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moscovium](https://en.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Isotopes of moscovium  
-   Link: [https://en.wikipedia.org/wiki/Isotopes_of_moscovium](https://en.wikipedia.org/wiki/Isotopes_of_moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Isotopes_of_moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Isotopes_of_moscovium</a>  
 
 3. <a id="endnote-3"></a>
    Source: chemlin.org  
    Title: Chem Lin Moscovium Isotopes  
-   Link: [https://www.chemlin.org/chemical-elements/moscovium-isotopes.php](https://www.chemlin.org/chemical-elements/moscovium-isotopes.php)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChemLinMoscovium Isotopes - List and PropertiesAt 650 ms, 290Mc has the longest half-life. All nuclides decay into the corresponding niho...</p></details>
+   Link: <a href="https://www.chemlin.org/chemical-elements/moscovium-isotopes.php" target="_blank" rel="noopener noreferrer nofollow">https://www.chemlin.org/chemical-elements/moscovium-isotopes.php</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium Isotopes - List and PropertiesAt 650 ms, 290Mc has the longest half-life. All nuclides decay into the corresponding niho...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Island of stability  
-   Link: [https://en.wikipedia.org/wiki/Island_of_stability](https://en.wikipedia.org/wiki/Island_of_stability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Island_of_stability</a>  
 
 5. <a id="endnote-5"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/science/doe-explainssuperheavy-elements](https://www.energy.gov/science/doe-explainssuperheavy-elements)  
+   Link: <a href="https://www.energy.gov/science/doe-explainssuperheavy-elements" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/science/doe-explainssuperheavy-elements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOE Explains...Superheavy ElementsSuperheavy elements are very unstable. They are highly radioactive, which means they emit energetic par...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: [Bob Lazar](&#123;&#123; 'did-bob-lazars-story-hold-up/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Title: Bob Lazar  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob LazarIn 2003, scientists successfully synthesized an element with 115 protons, which they named &quot;Moscovium&quot;. Contrary to Lazar&#x27;s c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scientificamerican.com  
    Title: chemists report new super  
-   Link: [https://www.scientificamerican.com/article/chemists-report-new-super/](https://www.scientificamerican.com/article/chemists-report-new-super/)  
+   Link: <a href="https://www.scientificamerican.com/article/chemists-report-new-super/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/chemists-report-new-super/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanChemists Report New Superheavy ElementsFeb 4, 2004 — Out of billions of candidates, the investigators detected four at...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rsc.org  
-   Link: [https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability](https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability)  
+   Link: <a href="https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society of ChemistryHave we reached the shores of the island of stability?Islands of stability are groups of super heavy elements w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scientificamerican.com  
    Title: Scientific American Superheavy Elements Are Breaking the Periodic Table  
-   Link: [https://www.scientificamerican.com/article/superheavy-elements-are-breaking-the-periodic-table/](https://www.scientificamerican.com/article/superheavy-elements-are-breaking-the-periodic-table/)  
+   Link: <a href="https://www.scientificamerican.com/article/superheavy-elements-are-breaking-the-periodic-table/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/superheavy-elements-are-breaking-the-periodic-table/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superheavy Elements Are Breaking the Periodic TableMay 14, 2024 — “Some theories predict a year half-life, or 100 or 1,000 days,” says Hi...</p></details>
    Published: May 14, 2024  
 
 10. <a id="endnote-10"></a>
    Source: scientificamerican.com  
    Title: the quest for superheavy elements and the island of stability  
-   Link: [https://www.scientificamerican.com/article/the-quest-for-superheavy-elements-and-the-island-of-stability/](https://www.scientificamerican.com/article/the-quest-for-superheavy-elements-and-the-island-of-stability/)  
+   Link: <a href="https://www.scientificamerican.com/article/the-quest-for-superheavy-elements-and-the-island-of-stability/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-quest-for-superheavy-elements-and-the-island-of-stability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Quest for Superheavy Elements and the Island of...Mar 1, 2018 — And the half-lives of some of the recently discovered superheavy ele...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/superheavy-element-117-island-of-stability/](https://www.scientificamerican.com/article/superheavy-element-117-island-of-stability/)  
+   Link: <a href="https://www.scientificamerican.com/article/superheavy-element-117-island-of-stability/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/superheavy-element-117-island-of-stability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 7, 2014 — This novel species, however, has an astonishingly long half-life of 11 hours, making it one of the longest-lived superheavy...</p></details>
    Published: May 7, 2014  
 
 12. <a id="endnote-12"></a>
    Source: scientificamerican.com  
    Title: new way of making superheavy elements may bring island of stability within  
-   Link: [https://www.scientificamerican.com/article/new-way-of-making-superheavy-elements-may-bring-island-of-stability-within/](https://www.scientificamerican.com/article/new-way-of-making-superheavy-elements-may-bring-island-of-stability-within/)  
+   Link: <a href="https://www.scientificamerican.com/article/new-way-of-making-superheavy-elements-may-bring-island-of-stability-within/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/new-way-of-making-superheavy-elements-may-bring-island-of-stability-within/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Way of Making Superheavy Elements May...Jul 24, 2024 — According to some models, the element should also be relatively long-lived, m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: element 115  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/element-115.htm](https://science.howstuffworks.com/space/aliens-ufos/element-115.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most stable isotope is moscovium-290, which has a half-life of 220 milliseconds.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
-   Link: [https://pubchem.ncbi.nlm.nih.gov/element/Moscovium](https://pubchem.ncbi.nlm.nih.gov/element/Moscovium)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds. It decays into n...</p></details>
+   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds. It decays into n...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: azom.com  
-   Link: [https://www.azom.com/article.aspx?ArticleID=7958](https://www.azom.com/article.aspx?ArticleID=7958)  
+   Link: <a href="https://www.azom.com/article.aspx?ArticleID=7958" target="_blank" rel="noopener noreferrer nofollow">https://www.azom.com/article.aspx?ArticleID=7958</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium - Discovery, Properties and ApplicationsJan 13, 2023 — However, isotope -289Mc is considered the most stable with a half-life o...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: webelements.com  
-   Link: [https://www.webelements.com/moscovium/isotopes.html](https://www.webelements.com/moscovium/isotopes.html)  
+   Link: <a href="https://www.webelements.com/moscovium/isotopes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.webelements.com/moscovium/isotopes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium » isotope dataIsotope, Mass / Da, Half-life, Mode of decay, Nuclear spin, Nuclear magnetic moment. 287Mc, 287, 0.0466 s, α to 2...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/element-115-power-system](https://www.envisioning.com/research/xenotech/element-115-power-system)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/element-115-power-system" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/element-115-power-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Element 115 Power Source | XenotechAccording to Lazar&#x27;s account, Element 115 serves as the central power source through a multi-stage pro...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: periodictable.com  
-   Link: [https://periodictable.com/Isotopes/115.291/index2.html](https://periodictable.com/Isotopes/115.291/index2.html)  
+   Link: <a href="https://periodictable.com/Isotopes/115.291/index2.html" target="_blank" rel="noopener noreferrer nofollow">https://periodictable.com/Isotopes/115.291/index2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope data for moscovium-291 in the Periodic TableDetailed decay information for the isotope moscovium-291 including decay chains and d...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pse-info.de  
-   Link: [https://pse-info.de/en/element/Mc](https://pse-info.de/en/element/Mc)  
+   Link: <a href="https://pse-info.de/en/element/Mc" target="_blank" rel="noopener noreferrer nofollow">https://pse-info.de/en/element/Mc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Periodic tableElement: Moscovium — Periodic tableMoscovium is an extremely radioactive element: its most stable known isotope, moscovium...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf](https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf)  
+   Link: <a href="https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating Element 115 Pulses in the Dual Sheet ModelElement 115, known as Moscovium (Mc), is a superheavy synthetic element that has cap...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: applets.kcvs.ca  
-   Link: [https://applets.kcvs.ca/IPTEI/pdf-elements/moscovium.pdf](https://applets.kcvs.ca/IPTEI/pdf-elements/moscovium.pdf)  
+   Link: <a href="https://applets.kcvs.ca/IPTEI/pdf-elements/moscovium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applets.kcvs.ca/IPTEI/pdf-elements/moscovium.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcvs.ca4.115 moscoviumMoscovium does not occur naturally in the Earth&#x27;s crust. The name moscovium and the symbol. Mc, are the accepted o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: intechbearing.com  
-   Link: [https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOooTRwGxVbZDlj1BZA_N6K2adef4DaHthUdtTa5Aax05jR9wCGA2](https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOooTRwGxVbZDlj1BZA_N6K2adef4DaHthUdtTa5Aax05jR9wCGA2)  
+   Link: <a href="https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOooTRwGxVbZDlj1BZA_N6K2adef4DaHthUdtTa5Aax05jR9wCGA2" target="_blank" rel="noopener noreferrer nofollow">https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOooTRwGxVbZDlj1BZA_N6K2adef4DaHthUdtTa5Aax05jR9wCGA2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One of them, or more, will be stable and it will have the exact properties that I said,” Lazar told Knapp. Bob...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/chemistry/moscovium-mc](https://www.ebsco.com/research-starters/chemistry/moscovium-mc)  
+   Link: <a href="https://www.ebsco.com/research-starters/chemistry/moscovium-mc" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/chemistry/moscovium-mc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most stable isotope is moscovium-289, with a half-life of about 220 milliseconds. It decays through...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: periodictable.com  
-   Link: [https://periodictable.com/Isotopes/115.287/index.html](https://periodictable.com/Isotopes/115.287/index.html)  
+   Link: <a href="https://periodictable.com/Isotopes/115.287/index.html" target="_blank" rel="noopener noreferrer nofollow">https://periodictable.com/Isotopes/115.287/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>500 ms, Spin? Parity? Show Decay Modes · Show Ultimate Decay Products. Atomic Weight, 287.191186. Abundance, None...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: physics.stackexchange.com  
    Title: can moscovium 299 exist and is it possible to predict how stable it will be  
-   Link: [https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be](https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be)  
+   Link: <a href="https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This question is off-topic. It is not currently accepting answers. We deal with mainstream physics here. Questions about the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: periodictable.com  
-   Link: [https://periodictable.com/Elements/115/data.html](https://periodictable.com/Elements/115/data.html)  
+   Link: <a href="https://periodictable.com/Elements/115/data.html" target="_blank" rel="noopener noreferrer nofollow">https://periodictable.com/Elements/115/data.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lifetime, 1.5 m. Decay Mode, AlphaEmission. Quantum Numbers, 4S3/2. Neutron Cross Section, N/A. Neutron Mass Absorption, N/A. Known Isoto...</p></details>

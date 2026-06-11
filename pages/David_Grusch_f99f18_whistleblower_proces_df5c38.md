@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-david-grusch/
 nav_short_title: Oversight
 title: What Did the Whistleblower Process Prove?
-title_full: What Did the Whistleblower Process Prove? | Grusch
+title_full: What Did the Whistleblower Process Prove?
 display_title_short: Oversight
 display_title: Oversight
 heading_title: What Did the Whistleblower Process Prove?
@@ -289,7 +289,7 @@ next_link:
   permalink: /proof-gap-7e7572/
   short_title: Proof Gap
   heading_title: Where Is the Public Evidence?
-date: '2026-06-09 02:52:36 '
+date: '2026-06-11 21:01:25 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-overview-s
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s whistleblower process proved something narrower, but still important, than many headlines implied. It showed that his allegations were serious enough to enter protected intelligence-community reporting channels, reach inspectors general and Congress, and help force a governance debate about whether UAP-related information had been kept outside proper oversight. It did not publicly prove that the United States possesses recovered non-human craft, biological remains, or a hidden reverse-engineering programme.
-
+David Grusch’s whistleblower process proved something narrower, but still important, than many headlines implied. It showed that his allegations were serious enough to enter protected intelligence-community reporting channels, reach inspectors general and Congress, and help force a governance debate about whether UAP-related information had been kept outside proper oversight. It did not publicly prove that the United States possesses recovered non-human craft, biological remains, or a hidden reverse-engineering programme.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-overview.webp" | relative_url }}" alt="Overview image for Oversight" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is the key to judging Grusch fairly. His formal complaints moved his story out of ordinary UFO media and into the machinery of classified oversight. They also gave supporters a reason to say the case deserved investigation rather than dismissal. But the public record still separates the process from the truth of the most extraordinary claims. An inspector-general pathway can validate that a whistleblower has made a protected disclosure, or that an allegation warrants lawful handling; it does not, by itself, establish that every factual claim inside the allegation is true. Grusch himself framed the matter as a congressional oversight issue based largely on information he said others had given him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">David Fravor Statement for House Oversight Committee</span></span></span>
@@ -311,7 +310,6 @@ Grusch’s July 2023 House opening statement is the cleanest public statement of
 The governance claim was therefore central from the start. Grusch was not only saying “there are extraordinary objects”; he was saying that information, funding, access and classified programmes had allegedly been structured in a way that prevented Congress from exercising proper oversight. In his statement, he said he had been tasked in 2019 to identify Special Access Programmes and Controlled Access Programmes relevant to the UAP Task Force’s congressionally mandated mission, and that he was later informed of a multi-decade crash-retrieval and reverse-engineering programme to which he was denied access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">David Fravor Statement for House Oversight Committee</span></span></span>
 
 That matters because an oversight complaint is judged differently from a [public proof]({{ 'public-proof/' | relative_url }}) claim. A whistleblower can be reporting suspected unlawful concealment, misuse of funds, reprisal or denial of access. The inspector-general process can then become a route for classified names, locations, programme titles or witness identities to be provided lawfully. It does not require those details to be made public, and it does not automatically turn the underlying allegations into verified public facts.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-1-dark.svg" | relative_url }}" alt="Oversight illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “urgent concern” sounds stronger than it proves
@@ -328,12 +326,15 @@ Grusch’s public testimony included a second thread: he said he suffered [retal
 
 For readers assessing Grusch, this creates two separate questions:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * **Was Grusch legally and procedurally entitled to report his concerns?** The public record strongly supports that he used recognised channels rather than simply leaking classified material.
-* **Were his [retaliation claims]({{ 'retaliation/' | relative_url }}) substantiated in a way the public can inspect?** The public record is much thinner. Some filings and summaries have circulated, but the underlying classified material, witness identities and investigative conclusions are not available in a complete public form.
+* **Were his retaliation claims substantiated in a way the public can inspect?** The public record is much thinner. Some filings and summaries have circulated, but the underlying classified material, witness identities and investigative conclusions are not available in a complete public form.
 * **Would retaliation prove the crash-retrieval claim?** No. It could show institutional hostility, mishandling or fear around classified access, but it would not by itself prove the alleged non-human origin of any material.
 
-This is why the complaint process raises Grusch’s seriousness without settling the case. It makes him harder to dismiss as merely a media personality, because he used a formal route designed for classified allegations. But it also leaves readers dependent on institutions whose outputs are partly secret and whose public statements do not yet converge.
+</div>
 
+This is why the complaint process raises Grusch’s seriousness without settling the case. It makes him harder to dismiss as merely a media personality, because he used a formal route designed for classified allegations. But it also leaves readers dependent on institutions whose outputs are partly secret and whose public statements do not yet converge.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4hnJ7m_PKIY" title="Former Department Of Defense Officer David Grusch: Government Is In Possession Of UAPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4hnJ7m_PKIY" target="_blank" rel="noopener noreferrer">Former Department Of Defense Officer David Grusch: Government Is In Possession Of UAPs</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 105.3K &middot; Uploaded: July 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4hnJ7m_PKIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4hnJ7m_PKIY">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +347,6 @@ At the hearing and in later reporting, the key governance issue was access. Grus
 That tension continued after the hearing. In January 2024, House lawmakers received a classified briefing from Intelligence Community Inspector General Thomas Monheim about UAP reporting transparency. CBS News reported that members emerged still frustrated in their effort to obtain more information about Grusch’s claims; the briefing confirmed continuing official interest, but did not publicly disclose decisive new evidence validating the crash-retrieval allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Lawmakers investigating UAPs, or UFOs, remain frustrated</span><span class="citation-popover-snippet">CBS News Lawmakers investigating UAPs, or UFOs, remain frustrated</span></span></span>
 
 This is the oversight process in miniature: it creates pressure, hearings, classified briefings and legislative attention, but the public often sees only the shadow of the evidence. For credibility, that cuts both ways. Supporters can say Grusch’s allegations are being taken seriously by the right institutions. Sceptics can reply that repeated briefings without public corroboration should not be treated as confirmation.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-2-dark.svg" | relative_url }}" alt="Oversight illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official process did not equal official validation
@@ -361,7 +361,6 @@ AARO’s report went further than a generic denial. It said some authentic class
 
 That does not end every dispute. Grusch’s supporters argue that AARO may not have had access to the right compartments, may have been misled, or may not have engaged properly with all relevant whistleblowers. But as public evidence, AARO’s report is a major counterweight: it is an official review explicitly addressing the same family of hidden reverse-engineering claims and finding no empirical support.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xnG4Mfak-Oc" title="UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer">UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 3.2M &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xnG4Mfak-Oc">Open on YouTube</a></p></div></div></div>
 
 ## What changed in Congress after the complaints
@@ -374,20 +373,18 @@ The final legislative outcome was narrower than many disclosure advocates wanted
 
 For Grusch’s credibility, this matters in a limited way. The legislation does not prove his central claims, but it shows that his allegations landed during a period when senior lawmakers considered UAP record control and declassification serious enough to legislate around. It moved the question from “Do you believe one whistleblower?” to “Are existing secrecy and records systems adequate for this category of claims?”
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-3-dark.svg" | relative_url }}" alt="Oversight illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A useful way to read the oversight evidence
 
 The oversight process is best read in layers.
 
-**First layer: verified institutional seriousness.** Grusch had relevant intelligence roles, appeared before a House committee, and used protected channels for classified complaints. The House hearing record and his submitted statement support that basic seriousness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">David Fravor Statement for House Oversight Committee</span></span></span>
+**First layer: verified institutional seriousness.** Grusch had relevant intelligence roles, appeared before a House committee, and used protected channels for classified complaints. The [House hearing]({{ 'house-hearing/' | relative_url }}) record and his submitted statement support that basic seriousness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">David Fravor Statement for House Oversight Committee</span></span></span>
 
 **Second layer: plausible oversight concern.** His allegation that UAP-related information was withheld from Congress fits the kind of issue the urgent-concern framework is designed to route safely. That does not mean the underlying UAP interpretation is correct; it means the alleged withholding, reprisal or access problem is institutionally recognisable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Third layer: unresolved evidential claim.** The extraordinary part — recovered non-human craft, [biologics]({{ 'biologics/' | relative_url }}) and a long-running reverse-engineering programme — remains unproven in public. Grusch said he was reporting what he had been told by others, while AARO later said it found no empirical evidence for the reverse-engineering narrative and identified misinterpretations of real classified programmes as a likely source of some claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">David Fravor Statement for House Oversight Committee</span></span></span>
 
 **Fourth layer: contested institutional trust.** Supporters distrust AARO and argue that Congress and inspectors general are better routes for hidden classified matters. Sceptics distrust the leap from protected complaint to extraordinary conclusion and point to the lack of public physical evidence, named first-hand custodians or declassified documents. Both reactions are understandable, because the process is partly public and partly sealed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9xiMWioOw_M" title="Skeptic: Whistleblower claim on UFOs isn&#x27;t &#x27;accurate&#x27; | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9xiMWioOw_M" target="_blank" rel="noopener noreferrer">Skeptic: Whistleblower claim on UFOs isn&#x27;t &#x27;accurate&#x27; | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 139.8K &middot; Uploaded: June 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9xiMWioOw_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9xiMWioOw_M">Open on YouTube</a></p></div></div></div>
 
@@ -411,16 +408,16 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Provides context for congressional and oversight interest in UAP claims.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,16 +425,16 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0XCcDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Shows what whistleblower processes can and cannot establish.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -445,16 +442,16 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Whistleblower%3A+My+Journey+to+Silicon+Valley+and+Fight+for+Justice+at+Uber+by+Susan+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uzC2zQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Whistleblower%3A+My+Journey+to+Silicon+Valley+and+Fight+for+Justice+at+Uber+by+Susan+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber">Whistleblower: My Journey to Silicon Valley and Fight for Jus...</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Susan Fowler</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Explains why procedural credibility differs from factual verification.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Whistleblower%3A+My+Journey+to+Silicon+Valley+and+Fight+for+Justice+at+Uber+by+Susan+Fowler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -462,16 +459,16 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon Papers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bI4BxhtlMs8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Pentagon Papers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon Papers">The Pentagon Papers</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Neil Sheehan</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Illustrates how official processes interact with hidden information.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+by+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -479,7 +476,7 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Whistleblower%3A+My+Journey+to+Silicon+Valley+and+Fight+for+Justice+at+Uber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -516,15 +513,15 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +529,15 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +545,31 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +577,7 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-did-the-whistleblower-process-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-whistleblower-process-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-whistleblower-process-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -780,149 +793,149 @@ The most careful conclusion is therefore balanced: Grusch’s whistleblower comp
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures](https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures)  
+   Link: <a href="https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures</a>  
 
 3. <a id="endnote-3"></a>
    Source: odni.gov  
-   Link: [https://www.odni.gov/index.php/ncsc-what-we-do/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa](https://www.odni.gov/index.php/ncsc-what-we-do/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa)  
+   Link: <a href="https://www.odni.gov/index.php/ncsc-what-we-do/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa</a>  
 
 4. <a id="endnote-4"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 5. <a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 6. <a id="endnote-6"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 7. <a id="endnote-7"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadershipuap_amendment.pdf  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: [https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025](https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025)  
+   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
    Published: april 2025  
 
 9. <a id="endnote-9"></a>
    Source: oversight.house.gov  
    Title: David Fravor Statement for House Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: oversight.house.gov  
    Title: Borland Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: oversight.house.gov  
    Title: Updated Testimony Gallaudet  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/](https://oversight.house.gov/)  
+   Link: <a href="https://oversight.house.gov/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/</a>  
 
 15. <a id="endnote-15"></a>
    Source: burchett.house.gov  
    Title: oversight committee announces uap hearing  
-   Link: [https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing](https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing)  
+   Link: <a href="https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing</a>  
 
 16. <a id="endnote-16"></a>
    Source: dni.gov  
    Title: June 2023  
-   Link: [https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf](https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/2023/June_2023.pdf</a>  
    Published: June 2023  
 
 17. <a id="endnote-17"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/ICIG-Whistleblower/](https://www.dni.gov/ICIG-Whistleblower/)  
+   Link: <a href="https://www.dni.gov/ICIG-Whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/ICIG-Whistleblower/</a>  
 
 18. <a id="endnote-18"></a>
    Source: dni.gov  
    Title: disclosure of urgent concern form  
-   Link: [https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf](https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf)  
+   Link: <a href="https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: CBS News Lawmakers investigating UAPs, or UFOs, remain frustrated  
-   Link: [https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/](https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/)  
+   Link: <a href="https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/uap-ufo-briefing-house-inspector-general-intelligence-community/</a>  
 
 20. <a id="endnote-20"></a>
    Source: insidegovernmentcontracts.com  
    Title: Inside Government Contracts Implications of the Unidentified Anomalous Phenomena  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
 
 22. <a id="endnote-22"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/](https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/)  
+   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EXri0KF2oZY](https://www.youtube.com/watch?v=EXri0KF2oZY)  
+   Link: <a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXri0KF2oZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OV-SQkEGIDw](https://www.youtube.com/watch?v=OV-SQkEGIDw)  
+   Link: <a href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV-SQkEGIDw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/pointless-lawmakers-say-they-didnt-learn-anything-in-a-classified-briefing-about/351145500625807/](https://www.facebook.com/NewsNationNow/posts/pointless-lawmakers-say-they-didnt-learn-anything-in-a-classified-briefing-about/351145500625807/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/pointless-lawmakers-say-they-didnt-learn-anything-in-a-classified-briefing-about/351145500625807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/pointless-lawmakers-say-they-didnt-learn-anything-in-a-classified-briefing-about/351145500625807/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wjhlTV11/posts/a-bipartisan-group-of-lawmakers-on-the-house-oversight-committee-say-a-high-prof/609303234648778/](https://www.facebook.com/wjhlTV11/posts/a-bipartisan-group-of-lawmakers-on-the-house-oversight-committee-say-a-high-prof/609303234648778/)  
+   Link: <a href="https://www.facebook.com/wjhlTV11/posts/a-bipartisan-group-of-lawmakers-on-the-house-oversight-committee-say-a-high-prof/609303234648778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wjhlTV11/posts/a-bipartisan-group-of-lawmakers-on-the-house-oversight-committee-say-a-high-prof/609303234648778/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1eudu2p/a_reminder_for_all_those_who_are_wondering_where/](https://www.reddit.com/r/UFOs/comments/1eudu2p/a_reminder_for_all_those_who_are_wondering_where/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1eudu2p/a_reminder_for_all_those_who_are_wondering_where/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1eudu2p/a_reminder_for_all_those_who_are_wondering_where/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/](https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2](https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024-2</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/meawwcom/posts/chuck-schumer-responded-to-the-pentagons-release-of-previously-undisclosed-ufo-f/1303539095240298/](https://www.facebook.com/meawwcom/posts/chuck-schumer-responded-to-the-pentagons-release-of-previously-undisclosed-ufo-f/1303539095240298/)  
+   Link: <a href="https://www.facebook.com/meawwcom/posts/chuck-schumer-responded-to-the-pentagons-release-of-previously-undisclosed-ufo-f/1303539095240298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/meawwcom/posts/chuck-schumer-responded-to-the-pentagons-release-of-previously-undisclosed-ufo-f/1303539095240298/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/](https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/)  
+   Link: <a href="https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/posts/david-grusch-testified-that-he-absolutely-believes-the-government-is-in-possessi/697593472406257/</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYmp0HEtr9D/](https://www.instagram.com/reel/DYmp0HEtr9D/)  
+   Link: <a href="https://www.instagram.com/reel/DYmp0HEtr9D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmp0HEtr9D/</a>

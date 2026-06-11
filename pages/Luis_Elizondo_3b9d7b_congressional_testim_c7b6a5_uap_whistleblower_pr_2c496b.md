@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /congress/
 nav_short_title: Whistleblowers
 title: Are UAP witnesses protected enough to speak?
-title_full: Are UAP witnesses protected enough to speak? | Congress
+title_full: Are UAP witnesses protected enough to speak?
 display_title_short: Whistleblowers
 display_title: Whistleblowers
 heading_title: Are UAP witnesses protected enough to speak?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Elizondo Tell Congress? | Elizondo
+parent_title: What Did Elizondo Tell Congress?
 parent_permalink: /congress/
 parent_nav_short_title: Congress
 parent_heading_title: What Did Elizondo Tell Congress?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /records-test/
   short_title: Records test
   heading_title: Can the UAP records trail test Elizondo's claims?
-date: '2026-06-09 02:54:32 '
+date: '2026-06-11 21:02:34 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whist
 
 ## Introduction
 
-One of [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s most consequential arguments is not that unidentified anomalous phenomena (UAP) exist, but that [Congress]({{ 'congress/' | relative_url }}) cannot properly evaluate extraordinary claims unless witnesses feel safe enough to speak openly. In his public testimony and interviews, he has repeatedly described a culture of secrecy, retaliation and intimidation surrounding UAP reporting. The oversight question is therefore broader than whether Elizondo’s own claims are correct. It is whether people with potentially relevant information can report it through lawful channels without risking their careers, security clearances or reputations.
-
+One of Luis Elizondo’s most consequential arguments is not that unidentified anomalous phenomena (UAP) exist, but that [Congress]({{ 'congress/' | relative_url }}) cannot properly evaluate extraordinary claims unless witnesses feel safe enough to speak openly. In his public testimony and interviews, he has repeatedly described a culture of secrecy, retaliation and intimidation surrounding UAP reporting. The oversight question is therefore broader than whether Elizondo’s own claims are correct. It is whether people with potentially relevant information can report it through lawful channels without risking their careers, security clearances or reputations.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1-dark.svg" | relative_url }}" alt="Whistleblowers illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That issue matters because congressional investigations depend on witness cooperation. If witnesses are genuinely discouraged from coming forward, lawmakers may receive an incomplete picture. If, however, retaliation claims are exaggerated or used as a shield against scrutiny, they can make dramatic allegations harder to test. The credibility stakes therefore run in both directions.
@@ -276,10 +275,9 @@ Supporters often point to this distinction when discussing his credibility. They
 
 The modern congressional approach to UAP oversight has increasingly focused on reporting mechanisms rather than simply collecting dramatic stories. Lawmakers from both parties have argued that Congress needs structured channels through which military personnel, intelligence officers, contractors and civil servants can submit information without violating classification rules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">uap amendment</span><span class="citation-popover-snippet">Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — anomalous phenomena witness and whistleblower testi-. 10 mony and afford protec...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-This concern predates Elizondo’s 2024 testimony. The National Defense Authorization Act provisions that created and expanded UAP reporting pathways included language intended to protect authorised disclosures. The Pentagon’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})) publicly states that authorised disclosures concerning UAP programmes are protected under existing law and are not invalidated by non-disclosure agreements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AAROSubmit A ReportNDAA for FY2023, section 1673(b)(1): An authorized disclosure shall not be subject to a nondisclosure agreement entere...</span></span></span>
+This concern predates Elizondo’s 2024 testimony. The National Defense Authorization Act provisions that created and expanded UAP reporting pathways included language intended to protect authorised disclosures. The Pentagon’s All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})) publicly states that authorised disclosures concerning UAP programmes are protected under existing law and are not invalidated by non-disclosure agreements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">Submit A ReportNDAA for FY2023, section 1673(b)(1): An authorized disclosure shall not be subject to a nondisclosure agreement entere...</span></span></span>
 
 The logic behind these protections is straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,14 +304,12 @@ Second, they create accountability. A witness who submits information through of
 
 This is why congressional interest in whistleblower protection does not automatically validate the underlying UAP claims. Lawmakers may support stronger protections precisely because they want a better evidential basis for evaluating those claims.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-2-dark.svg" | relative_url }}" alt="Whistleblowers illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How intimidation claims can be checked
 
 The strongest version of Elizondo’s argument would require evidence that retaliation occurred in identifiable, documentable ways.
 
 Potential indicators include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,9 +327,7 @@ Sceptics counter that this same difficulty creates a credibility problem. When a
 
 For this reason, congressional investigators generally place greater weight on closed-door testimony, classified briefings, documentation and corroborating witnesses than on public assertions alone.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k7NzR0payrs" title="FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer">FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 212.9K &middot; Uploaded: November 2024 &middot; Length: 2 hours 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k7NzR0payrs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How retaliation narratives can also be misused
 
 The intimidation issue cuts both ways. Genuine whistleblowers can face career risks, but claims of persecution can also become difficult to challenge.
@@ -349,8 +343,6 @@ The practical solution pursued by many lawmakers has been to focus on process ra
 
 That approach shifts the debate from extraterrestrial questions to institutional accountability.
 
-
-<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the issue matters for judging Elizondo’s credibility
 
 The intimidation allegation occupies an unusual place in assessments of Elizondo. Unlike claims about recovered technologies or non-human intelligence, it is not primarily a scientific question. It is a claim about bureaucratic behaviour and government oversight.
@@ -375,16 +367,16 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14809146-M.jpg" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
         </h4>
         <p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Central source for Elizondo&#x27;s allegations about suppression and reporting barriers.</p>
+        <p class="fr-book-desc">First published 2024. Subjects: UFOs, UAP, Unexplained phenomena, Unidentified flying objects -- Government Policy, Unidentified flying o...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,16 +384,16 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Includes accounts from insiders and whistleblower-style sources.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -409,16 +401,16 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers, UFOs or UAP? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers, UFOs or UAP?">Flying Saucers, UFOs or UAP?</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Central Intelligence Agency (Cia), Director of National Intelligence</p>
         
-        <p class="fr-book-desc">Emphasizes testimony from military and government personnel.</p>
+        <p class="fr-book-desc">First published 1953.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -426,16 +418,16 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0XCcDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Provides context for how classified disclosures, oversight and retaliation debates unfold.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -443,7 +435,7 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers, UFOs or UAP?</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -480,15 +472,15 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup"><img src="{{ '/assets/images/marketplace-covers/ab8d6b45eb56972399d7.jpg' | relative_url }}" alt="Listing image for International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +488,15 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup"><img src="{{ '/assets/images/marketplace-covers/44159a650cab4b20541d.jpg' | relative_url }}" alt="Listing image for International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +504,15 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info"><img src="{{ '/assets/images/marketplace-covers/8a9e1fd575db0598f1c8.jpg' | relative_url }}" alt="Listing image for Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +520,15 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†"><img src="{{ '/assets/images/marketplace-covers/09d9052eecf4bdc4c58f.jpg' | relative_url }}" alt="Listing image for WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +536,7 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="whistleblowers-are-uap-witnesses-protected-enough-to-speak-luis-elizondo-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-uap-witnesses-protected-enough-to-speak-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-uap-witnesses-protected-enough-to-speak-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -759,115 +751,115 @@ In that sense, whistleblower protection is not a side debate within the UAP cont
 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — This includes unwarranted criminal investigations, harassment, a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Written Testimony  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/written-testimony-elizondo/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/written-testimony-elizondo/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/written-testimony-elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/written-testimony-elizondo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeWritten Testimony - Elizondo - House Oversight CommitteeMedia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdf9 May 2023 — anomalous phenomena witness and whistleblower testi-. 10 mony and afford protec...</p></details>
    Published: May 2023  
 
 4. <a id="endnote-4"></a>
    Source: burchett.house.gov  
    Title: Representative Tim Burchett Rep  
-   Link: [https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers](https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers)  
+   Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burchett introduces bill protecting UAP whistleblowers12 Nov 2024 — The UAP Whistleblower Protection Act would provide protections to whi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROSubmit A ReportNDAA for FY2023, section 1673(b)(1): An authorized disclosure shall not be subject to a nondisclosure agreement entere...</p></details>
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportNDAA for FY2023, section 1673(b)(1): An authorized disclosure shall not be subject to a nondisclosure agreement entere...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeUnidentified Anomalous Phenomena: Exposing the Truth13 Nov 2024 — Hearing Date: November 13, 2024 11:30 am 2154...</p></details>
    Published: November 13, 2024  
 
 7. <a id="endnote-7"></a>
    Source: billtrack50.com  
-   Link: [https://www.billtrack50.com/billdetail/1752465](https://www.billtrack50.com/billdetail/1752465)  
+   Link: <a href="https://www.billtrack50.com/billdetail/1752465" target="_blank" rel="noopener noreferrer nofollow">https://www.billtrack50.com/billdetail/1752465</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US HR10111This bill, the UAP Whistleblower Protection Act, provides whistleblower protections to federal personnel who disclose the use o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: repcloakroom.house.gov  
-   Link: [https://repcloakroom.house.gov/amendment/amendments-to-h-r-4664-financial-services-and-general-government-appropriations-act-2024/](https://repcloakroom.house.gov/amendment/amendments-to-h-r-4664-financial-services-and-general-government-appropriations-act-2024/)  
+   Link: <a href="https://repcloakroom.house.gov/amendment/amendments-to-h-r-4664-financial-services-and-general-government-appropriations-act-2024/" target="_blank" rel="noopener noreferrer nofollow">https://repcloakroom.house.gov/amendment/amendments-to-h-r-4664-financial-services-and-general-government-appropriations-act-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4664 – Financial Services and General...Nov 8, 2023 — 4664 – Financial Services and General Government Appropriations Act, 2024... (UAP...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAARO will announce when a reporting mechanism is available to the public. What are the leading explanations to account for UAP r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spectrumlocalnews.com  
    Title: house hearing ufos uap government suppression  
-   Link: [https://spectrumlocalnews.com/us/snplus/politics/2024/11/13/house-hearing-ufos-uap-government-suppression](https://spectrumlocalnews.com/us/snplus/politics/2024/11/13/house-hearing-ufos-uap-government-suppression)  
+   Link: <a href="https://spectrumlocalnews.com/us/snplus/politics/2024/11/13/house-hearing-ufos-uap-government-suppression" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/us/snplus/politics/2024/11/13/house-hearing-ufos-uap-government-suppression</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectrum Local NewsWitnesses testify about efforts to suppress info on UFOs13 Nov 2024 — Luis Elizondo, former director of the Pentagon&#x27;s...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form](https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form)  
+   Link: <a href="https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The form, created by the All-domain Anomaly Resolution Office (AARO), is part of a federal investigation involving Congress and multiple...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71](https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71)  
+   Link: <a href="https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired U.S. Navy Rear Adm. Tim Gallaudet recounted an experience from 2015 where he observed a video of an inexplicable flying object du...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1](https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1)  
+   Link: <a href="https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cal parties listen to sworn testimony from Luis Elizondo, Michael Shellenberger...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cosmiclog.com  
    Title: congressional hearing fuels fresh debate about ufos  
-   Link: [https://cosmiclog.com/2024/11/13/congressional-hearing-fuels-fresh-debate-about-ufos/](https://cosmiclog.com/2024/11/13/congressional-hearing-fuels-fresh-debate-about-ufos/)  
+   Link: <a href="https://cosmiclog.com/2024/11/13/congressional-hearing-fuels-fresh-debate-about-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://cosmiclog.com/2024/11/13/congressional-hearing-fuels-fresh-debate-about-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 13, 2024 — An 11-page document that&#x27;s attributed to a Pentagon whistleblower has provided new cases in the controversy over unidentif...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: defensescoop.com  
    Title: military whistleblowers share new evidence alleged uap ufo hearing  
-   Link: [https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/](https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/)  
+   Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>protections for all national security whistleblowers. “The misdeeds... Next UAP disclosure hearing set, as lawmakers consider new whistl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSNews/posts/a-former-military-intelligence-officer-turned-whistleblower-told-house-lawmakers/685790633412784/](https://www.facebook.com/CBSNews/posts/a-former-military-intelligence-officer-turned-whistleblower-told-house-lawmakers/685790633412784/)  
+   Link: <a href="https://www.facebook.com/CBSNews/posts/a-former-military-intelligence-officer-turned-whistleblower-told-house-lawmakers/685790633412784/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/a-former-military-intelligence-officer-turned-whistleblower-told-house-lawmakers/685790633412784/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wmakers that Congress is being kept in the dark about unidentified...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — The U.S. House of Representatives holds a joint subcommittee hearing on reports of Unidentified Anomalous Phenomena...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: [https://www.rev.com/transcripts/house-uap-whistleblower-hearing](https://www.rev.com/transcripts/house-uap-whistleblower-hearing)  
+   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcrip...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...14 Nov 2024 — The classified report has been submitted to Congress, and the unclassifi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nvfge2/where_do_the_uap_whistleblower_disclosure_bills/](https://www.reddit.com/r/UFOs/comments/1nvfge2/where_do_the_uap_whistleblower_disclosure_bills/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nvfge2/where_do_the_uap_whistleblower_disclosure_bills/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nvfge2/where_do_the_uap_whistleblower_disclosure_bills/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>H.R. 5060 (119th Congress... whistleblowers, and allows for disciplinary action against officials who engage...Read more...</p></details>

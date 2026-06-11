@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /background-ef59e9/
 nav_short_title: AAWSAP Gap
 title: What AAWSAP Documents Really Show
-title_full: What AAWSAP Documents Really Show | Background
+title_full: What AAWSAP Documents Really Show
 display_title_short: AAWSAP Gap
 display_title: AAWSAP Gap
 heading_title: What AAWSAP Documents Really Show
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Kelleher's Science Career Help His Case? | Kelleher
+parent_title: Does Kelleher's Science Career Help His Case?
 parent_permalink: /background-ef59e9/
 parent_nav_short_title: Background
 parent_heading_title: Does Kelleher's Science Career Help His Case?
@@ -247,7 +247,7 @@ next_link:
   permalink: /science-record/
   short_title: Science Record
   heading_title: How Much Does Kelleher's Science Record Prove?
-date: '2026-06-09 03:08:56 '
+date: '2026-06-11 21:08:06 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_docu
 
 ## Introduction
 
-AAWSAP is one of the strongest documented links between [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }}) and a real US government-funded UFO-related programme. Unlike many claims in modern UFO discourse, the existence of the programme, its Pentagon funding, its contract structure and Bigelow Aerospace Advanced Space Studies' involvement are not matters of speculation. Official [documents]({{ 'documents/' | relative_url }}), contract records, congressional reporting and later Freedom of Information Act releases establish that a Defence Intelligence Agency (DIA) programme existed and that Kelleher held a senior role within the contractor organisation that carried out much of the work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">FY10 $12M also covers BAASS overhead, staff, facilities, IT, security, databases, etc.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">The Black VaultUNDER SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA. Its primary purpose...</span></span></span>
-
+AAWSAP is one of the strongest documented links between Colm Kelleher and a real US government-funded UFO-related programme. Unlike many claims in modern UFO discourse, the existence of the programme, its Pentagon funding, its contract structure and Bigelow Aerospace Advanced Space Studies' involvement are not matters of speculation. Official [documents]({{ 'documents/' | relative_url }}), contract records, congressional reporting and later Freedom of Information Act releases establish that a Defence Intelligence Agency (DIA) programme existed and that Kelleher held a senior role within the contractor organisation that carried out much of the work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">FY10 $12M also covers BAASS overhead, staff, facilities, IT, security, databases, etc.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">The Black VaultUNDER SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA. Its primary purpose...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central credibility question is not whether AAWSAP existed. It did. The harder question is what the surviving records actually demonstrate. Supporters often point to AAWSAP as evidence that unusual phenomena were taken seriously by intelligence officials. Sceptics generally agree on that point but argue that official interest is not the same thing as official confirmation. The surviving paper trail shows a government programme, delivered reports and genuine institutional access. It does not publicly prove the strongest claims sometimes associated with Kelleher, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}), paranormal effects or non-human intelligence.
@@ -281,7 +280,6 @@ Supporters often cite these documents as evidence that government researchers co
 Another frequently cited document is the so-called "Ten Month Report", described in reporting on AAWSAP as a large compilation of UAP-related material produced for the DIA. References to this report appear in official and journalistic accounts, but the complete document has not been publicly released. That creates an evidential problem. People can point to its existence, but outside observers cannot independently assess most of its contents, methods or conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 For Kelleher, this creates a recurring pattern. There is substantial evidence that reports were produced. There is much less public evidence demonstrating that the reports contained verified proof of extraordinary claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IV3yH3U51Bg" title="Hiding Something Big? ‘There Is an Issue with UAP They DON’T Want Us Talking About’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IV3yH3U51Bg" target="_blank" rel="noopener noreferrer">Hiding Something Big? ‘There Is an Issue with UAP They DON’T Want Us Talking About’</a></p><p class="youtube-embed-meta">Channel: IRONCLAD &middot; Views: 19.3K &middot; Uploaded: May 2026 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IV3yH3U51Bg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IV3yH3U51Bg">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +305,6 @@ Accounts from programme participants and released records suggest that AAWSAP ex
 
 These points strengthen Kelleher's credibility on a limited but important question: he was genuinely connected to a government-funded effort examining UAP-related issues.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Records Do Not Prove
 
@@ -321,9 +318,6 @@ A related problem is that many of the most dramatic claims remain dependent on w
 
 The proof gap therefore is not a claim that AAWSAP was fake. It is the gap between documented programme activity and demonstrated extraordinary conclusions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
-
 ## Why the AAWSAP Debate Became So Polarised
 
 AAWSAP sits at an unusual intersection of bureaucracy, secrecy and belief.
@@ -334,9 +328,7 @@ For critics, the same records suggest a different lesson. They note that governm
 
 The disagreement persists because both sides can point to genuine facts. The programme existed. Reports were produced. Government money was spent. Yet no released AAWSAP archive has publicly delivered the kind of unambiguous evidence that would settle debates about non-human intelligence or paranormal phenomena.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aJgwGssVCNI" title="Diana of Kara-Kara 📚 | A Gripping Mystery by Edgar Wallace 🔍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aJgwGssVCNI" target="_blank" rel="noopener noreferrer">Diana of Kara-Kara 📚 | A Gripping Mystery by Edgar Wallace 🔍</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aJgwGssVCNI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aJgwGssVCNI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AAWSAP Means for Assessing Kelleher
 
 AAWSAP strengthens one aspect of Kelleher's credibility while leaving another unresolved.
@@ -345,8 +337,6 @@ It strengthens credibility regarding access and involvement. Documentary evidenc
 
 At the same time, AAWSAP does not automatically validate every conclusion associated with his later public statements. The surviving record demonstrates research activity, not definitive proof of the most extraordinary interpretations. Readers evaluating Kelleher therefore need to separate two questions that are often merged together:
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Was he genuinely involved in a government-funded UAP programme?
 
 The documentary evidence strongly supports that.
@@ -355,6 +345,8 @@ The documentary evidence strongly supports that.
 The publicly available evidence does not currently demonstrate that.
 
 That distinction captures the core significance of the AAWSAP documents. They narrow doubts about Kelleher's institutional proximity to UAP investigations, but they do not eliminate the broader evidential gap that surrounds the strongest claims emerging from that world.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="RSA ANIMATE: Drive: The surprising truth about what motivates us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer">RSA ANIMATE: Drive: The surprising truth about what motivates us</a></p><p class="youtube-embed-meta">Channel: The RSA &middot; Views: 20.2M &middot; Uploaded: April 2010 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u6XAPnuFjJc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +465,15 @@ That distinction captures the core significance of the AAWSAP documents. They na
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +481,15 @@ That distinction captures the core significance of the AAWSAP documents. They na
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +497,15 @@ That distinction captures the core significance of the AAWSAP documents. They na
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +513,15 @@ That distinction captures the core significance of the AAWSAP documents. They na
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +529,7 @@ That distinction captures the core significance of the AAWSAP documents. They na
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aawsap-gap-184c1c-what-aawsap-documents-really-show-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-aawsap-documents-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-aawsap-documents-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,123 +744,123 @@ That distinction captures the core significance of the AAWSAP documents. They na
 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FY10 $12M also covers BAASS overhead, staff, facilities, IT, security, databases, etc.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...17 Nov 2009 — September 2008: DIA awarded the contract to...</p></details>
    Published: September 2008  
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyFOIA Request Log 202218 Jan 2024 — AAWSAP Contract HHM402-08-C-072 Bigelow Aerospace Advanced. Space Studies (...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 5. <a id="endnote-5"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While AATIP &quot;was the name of...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Black Vault: FOIA and UAP Transparency  
-   Link: [https://www.youtube.com/watch?v=IV3yH3U51Bg](https://www.youtube.com/watch?v=IV3yH3U51Bg)  
+   Link: <a href="https://www.youtube.com/watch?v=IV3yH3U51Bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IV3yH3U51Bg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating AAWSAP and UAP Credibility...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultUNDER SECRETARY OF DEFENSE17 Nov 2009 — System Application Program (AA WSAP) contract managed by DIA. Its primary purpose...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: locationsunknown.org  
    Title: Government Agency: Defense Intelligence Agency Read more  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)On March 25, 2022, the DIA finally completed the FOIA request and releas...</p></details>
    Published: March 25, 2022  
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian The Pentagon released its UFO videos  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechThe Advanced Aerospace Weapon System Applications Program (AAWSAP) and Advanced Aerospace Threat Identificati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>i Detectable Signatures of Unidentified Aerospace...16) James LacatsDi, Colm Kelleher, and George Knapp all collaborated on the developm...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vice.com  
    Title: leaked documents show pentagon was studying ufo related phenomena  
-   Link: [https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/](https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/)  
+   Link: <a href="https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked Documents Show Pentagon Was Studying UFO-...14 Feb 2020 — One BAASS report, leaked to McMillan by an unnamed source, previously a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nasawatch.com  
    Title: bigelow aerospace had a secret dod ufo study contract update  
-   Link: [https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/](https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/)  
+   Link: <a href="https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/" target="_blank" rel="noopener noreferrer nofollow">https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow Aerospace Had a Secret DoD UFO Study Contract...19 Dec 2017 — The Pentagon has officially confirmed that there was, in fact, a $...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeGeorge-Knapp-Written-Testimony.pdf9 Sept 2025 — Kelleher worked for Robert Bigelow, a successful developer and aerospa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: whats actually in the aawsap files the 20082010  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/](https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: independent.co.uk  
    Title: us defence nuking moon documents b2062135  
-   Link: [https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html](https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html)  
+   Link: <a href="https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/us-defence-nuking-moon-documents-b2062135.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US defence studied invisibility, nuking Moon, other...21 Apr 2022 — This company was run by Robert Bigelow, who according to Vice.com is...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uapedia.ai  
    Title: origins of aatip aawsap programs dirds  
-   Link: [https://www.uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/](https://www.uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/)  
+   Link: <a href="https://www.uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Origins of AATIP/AAWSAP: Programs &amp; DIRDs6 Mar 2026 — It was managed under DIA and executed under contract by Bigelow Aerospace Advanced...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Peer Review and Scientific Rigor in Paranormal Studies  
-   Link: [https://www.youtube.com/watch?v=u6XAPnuFjJc](https://www.youtube.com/watch?v=u6XAPnuFjJc)  
+   Link: <a href="https://www.youtube.com/watch?v=u6XAPnuFjJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u6XAPnuFjJc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video, featuring John Greenewald of The Black Vault, is particularly relevant as it details the process of using the Freedom of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/882716165/Aatip-History](https://www.scribd.com/document/882716165/Aatip-History)  
+   Link: <a href="https://www.scribd.com/document/882716165/Aatip-History" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/882716165/Aatip-History</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d subsidiary of BAS. - Separate...Read more...</p></details>

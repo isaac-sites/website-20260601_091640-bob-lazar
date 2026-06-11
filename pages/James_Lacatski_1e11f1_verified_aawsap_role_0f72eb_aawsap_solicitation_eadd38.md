@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-role/
 nav_short_title: Solicitation
 title: What did Lacatski's AAWSAP title actually prove?
-title_full: What did Lacatski's AAWSAP title actually prove? | Official Role
+title_full: What did Lacatski's AAWSAP title actually prove?
 display_title_short: Solicitation
 display_title: Solicitation
 heading_title: What did Lacatski's AAWSAP title actually prove?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Was Lacatski's Real Government Role? | Lacatski
+parent_title: What Was Lacatski's Real Government Role?
 parent_permalink: /official-role/
 parent_nav_short_title: Official Role
 parent_heading_title: What Was Lacatski's Real Government Role?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /baass-reports/
   short_title: BAASS reports
   heading_title: How much did the BAASS contract really show?
-date: '2026-06-09 02:56:55 '
+date: '2026-06-11 21:03:52 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_s
 
 ## Introduction
 
-The strongest publicly available evidence that [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }}) held genuine authority within the Advanced Aerospace Weapon System Applications Program (AAWSAP) comes not from later interviews, books, or UFO-related claims, but from the original government solicitation itself. The procurement record names him as both the Contracting Officer Representative (COR) and the Government Project Leader for the programme. That matters because those are formal acquisition and oversight roles within a US government contract, not honorary titles or retrospective descriptions. The solicitation therefore establishes that Lacatski was entrusted with managing and overseeing a real Defence Intelligence Agency (DIA) programme and its contractor relationship. What it does not establish is that any later extraordinary claims associated with UFOs, recovered technology, or non-human intelligence are true. The document proves authority and access; it does not validate conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
-
+The strongest publicly available evidence that James Lacatski held genuine authority within the Advanced Aerospace Weapon System Applications Program (AAWSAP) comes not from later interviews, books, or UFO-related claims, but from the original government solicitation itself. The procurement record names him as both the Contracting Officer Representative (COR) and the Government Project Leader for the programme. That matters because those are formal acquisition and oversight roles within a US government contract, not honorary titles or retrospective descriptions. The solicitation therefore establishes that Lacatski was entrusted with managing and overseeing a real Defence Intelligence Agency (DIA) programme and its contractor relationship. What it does not establish is that any later extraordinary claims associated with UFOs, recovered technology, or non-human intelligence are true. The document proves authority and access; it does not validate conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1-dark.svg" | relative_url }}" alt="Solicitation illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The named COR and Government Project Leader roles
@@ -272,7 +271,6 @@ The Government Project Leader designation adds another layer. Throughout the sol
 
 Taken together, these titles show that Lacatski was not a peripheral adviser. He occupied a documented position at the government–contractor interface, overseeing work performed under the AAWSAP contract and receiving the programme's core outputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rW02-PuPMJ8" title="Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer">Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 192.4K &middot; Uploaded: April 2026 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rW02-PuPMJ8">Open on YouTube</a></p></div></div></div>
 
 ## What procurement records can and cannot verify
@@ -280,7 +278,6 @@ Taken together, these titles show that Lacatski was not a peripheral adviser. He
 The AAWSAP solicitation is valuable because it is a contemporaneous government document rather than a later recollection. It demonstrates several specific facts.
 
 The document verifies that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +295,6 @@ It does not reveal the full content of classified work performed under the contr
 
 This distinction is central when evaluating credibility. Procurement records are excellent evidence of organisational authority, but they are weak evidence for the truth of substantive claims made years later about what was discovered.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-2-dark.svg" | relative_url }}" alt="Solicitation illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the solicitation matters more than later self-description
 
@@ -308,8 +304,7 @@ The AAWSAP solicitation is different because it predates the public controversy 
 
 This is one reason that even sceptical researchers generally acknowledge Lacatski's involvement with AAWSAP. The debate is not whether he had a documented role; the debate concerns what conclusions should be drawn from that role and from the information he later claimed to have encountered. The solicitation largely settles the first question while leaving the second unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cggMuAjFJcI" title="The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer">The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 238.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cggMuAjFJcI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2tVvN6RcyI4" title="AAWSAP &amp; AATIP: Why Confusion Continues To Reign and Questions Continue To Linger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2tVvN6RcyI4" target="_blank" rel="noopener noreferrer">AAWSAP &amp; AATIP: Why Confusion Continues To Reign and Questions Continue To Linger</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 14.4K &middot; Uploaded: October 2021 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2tVvN6RcyI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2tVvN6RcyI4">Open on YouTube</a></p></div></div></div>
 
 ## What the document suggests about government access
 
@@ -318,7 +313,6 @@ The solicitation also indicates that AAWSAP was not a casual study effort. The p
 Because Lacatski was identified as both COR and Government Project Leader, it is reasonable to infer that he had access to programme outputs, contractor reports, and government discussions associated with contract performance. That is a stronger evidential basis for insider status than simply holding a security clearance or expressing an interest in UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
 
 Yet readers should be careful not to extend the inference too far. The document demonstrates access to AAWSAP-related information. It does not demonstrate access to every classified UFO programme ever alleged to exist. Claims about crash retrievals, reverse engineering efforts, or hidden special-access programmes require separate evidence and cannot be established merely from the procurement record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-3-dark.svg" | relative_url }}" alt="Solicitation illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Formal authority is not the same as claim validation
@@ -331,91 +325,47 @@ At the same time, the solicitation cannot be used as proof that Lacatski's later
 
 For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP solicitation is among the strongest public records supporting his documented government role. It is much weaker as evidence for the extraordinary claims that later became associated with his public profile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2tVvN6RcyI4" title="AAWSAP &amp; AATIP: Why Confusion Continues To Reign and Questions Continue To Linger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2tVvN6RcyI4" target="_blank" rel="noopener noreferrer">AAWSAP &amp; AATIP: Why Confusion Continues To Reign and Questions Continue To Linger</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 14.4K &middot; Uploaded: October 2021 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2tVvN6RcyI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2tVvN6RcyI4">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ix3091Es7ao" title="More Evidence AAWSAP Was Tailored Just For BAASS?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ix3091Es7ao" target="_blank" rel="noopener noreferrer">More Evidence AAWSAP Was Tailored Just For BAASS?</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 5.6K &middot; Uploaded: April 2022 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ix3091Es7ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ix3091Es7ao">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What did Lacatski&#x27;s AAWSAP title actually prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What did Lacatski&#x27;s AAWSAP title actually prove?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Explains how government research programmes and oversight structures function.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Offers context on official authority and classified projects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Closely tied to the programme and Lacatski&#x27;s documented role.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
-        
-        <p class="fr-book-desc">Discusses programme management and insider perspectives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -452,15 +402,15 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,15 +418,15 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +434,15 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +450,15 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,7 +466,7 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="solicitation-what-did-lacatski-s-aawsap-title-actually-prove-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-lacatski-s-aawsap-title-actually-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-lacatski-s-aawsap-title-actually-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -732,79 +682,79 @@ For assessing Lacatski's credibility, this distinction is crucial. The AAWSAP so
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: Advanced Aerospace Weapon Systems Applications  
-   Link: [https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/](https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski. 15. DEFINED TERMS: Key personnel – defined as proposed management and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IC11 Nov 2024 — Note: It was later disclosed by AAWSAP personnel Luis Elizondo and James Lacatski that. AAWSAP was UAP-related. Is it pos...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view](https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view)  
+   Link: <a href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski. 15. DEFINED TERMS: Key personnel - defined as proposed management and lead science and...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880](https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — James Lacatski, who was appointed director of AAWSAP and who... La...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/](https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP DisclosuresJames Lacatski, who ran the AAWSAP program, has explained that his multi-volume b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf. Note: It was later disclosed by AAWSAP personnel Luis Elizondo and James Lacatski that. AAWSAP was UAP-related. Is it possible DARPA...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dhs.gov  
    Title: 25 0723 foia dhs st foia log fy2024  
-   Link: [https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf](https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski, AAWSAP (Advanced Aerospace Threat. Identification Program), AATIP (Advanced Aerospace Threat Identification Program), UF...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A few days ago, 161 classified UAP files were released...Stig Agermose ▻ The Black Vault - UFOs, Conspiracies, Cover-Ups and Controversies...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon’s Secret UFO Program  
-   Link: [https://www.youtube.com/watch?v=Qu8pudJk_-A](https://www.youtube.com/watch?v=Qu8pudJk_-A)  
+   Link: <a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 —... Dr. James Lacatski, who was the Contracting Officer&#x27;s Representative (COR) a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MiUDl_9v6Ag](https://www.youtube.com/watch?v=MiUDl_9v6Ag)  
+   Link: <a href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiUDl_9v6Ag</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vernment&#x27;s largest UFO investigation, confirmed that at least one...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Government UFO Boss  
-   Link: [https://www.youtube.com/watch?v=cggMuAjFJcI](https://www.youtube.com/watch?v=cggMuAjFJcI)  
+   Link: <a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cggMuAjFJcI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Dr. James Lacatski  
-   Link: [https://www.youtube.com/watch?v=rW02-PuPMJ8](https://www.youtube.com/watch?v=rW02-PuPMJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rW02-PuPMJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP &amp; AATIP: Why Confusion Continues To Reign and Questions Continue To Linger...</p></details>

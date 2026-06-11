@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: S 4 Claim
 title: Was S 4 More Than A Story?
-title_full: Was S 4 More Than A Story? | Lazar
+title_full: Was S 4 More Than A Story?
 display_title_short: S 4 Claim
 display_title: S 4 Claim
 heading_title: Was S 4 More Than A Story?
@@ -289,7 +289,7 @@ next_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: How Lazar Became The Area 51 Whistleblower
-date: '2026-06-09 02:51:40 '
+date: '2026-06-11 21:00:36 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview-social.jp
 
 ## Introduction
 
-[Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s S-4 workplace claim is the hinge of his Area 51 story. The question is not simply whether Area 51 exists — it does — but whether Lazar’s alleged hidden workplace near Papoose Lake can be shown to have existed in the form he described: a camouflaged facility where he says recovered non-human craft were stored and studied. The best evidence supports the broader setting of secret aviation activity around Groom Lake, but it does not independently verify Lazar’s S-4 facility, his claimed role there, or the presence of alien craft. Official records point strongly to classified aircraft testing, radar work, training ranges and foreign aircraft exploitation; Lazar’s specific Papoose Lake workplace remains unproven, disputed and dependent mainly on his own account and secondary retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
-
+Bob Lazar’s S-4 workplace claim is the hinge of his Area 51 story. The question is not simply whether Area 51 exists — it does — but whether Lazar’s alleged hidden workplace near Papoose Lake can be shown to have existed in the form he described: a camouflaged facility where he says recovered non-human craft were stored and studied. The best evidence supports the broader setting of secret aviation activity around Groom Lake, but it does not independently verify Lazar’s S-4 facility, his claimed role there, or the presence of alien craft. Official records point strongly to classified aircraft testing, radar work, training ranges and foreign aircraft exploitation; Lazar’s specific Papoose Lake workplace remains unproven, disputed and dependent mainly on his own account and secondary retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview.webp" | relative_url }}" alt="Overview image for S 4 Claim" loading="eager" decoding="sync" fetchpriority="high">
 ## What Lazar said about S-4
@@ -312,7 +311,6 @@ The claimed workplace is central to credibility because it is where Lazar says t
 
 There is also a subtle but important uncertainty in the location story. Some accounts present Papoose Lake as if Lazar named it straightforwardly from the beginning. Other reconstructions note that the exact site was inferred later by Lazar and associates from journey time, terrain clues and the layout he remembered, rather than from a public map label handed to him at the time. That does not disprove the claim, but it weakens the impression that the geography is a simple independently established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-dark.svg" | relative_url }}" alt="S 4 Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Area 51 records actually support
 
@@ -324,8 +322,7 @@ The current official description of the wider Nevada Test and Training Range als
 
 That is the part supporters often stress: Lazar placed his story in a real black-project ecosystem before the public had the same level of official acknowledgement now available. The later confirmation of Groom Lake’s role in classified aircraft history helps explain why his account became durable. It shows that the US government really did hide major aerospace programmes in that region.
 
-But the same records also set a limit. Declassified Area 51 records support secret aircraft and intelligence testing, not recovered extraterrestrial craft. The National Security Archive’s own framing says Area 51 is better understood as a government test site for secret aircraft projects including the U-2, OXCART and F-117, along with foreign radar and MiG work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
-
+But the same records also set a limit. Declassified [Area 51 records]({{ 'records-gap/' | relative_url }}) support secret aircraft and intelligence testing, not recovered extraterrestrial craft. The National Security Archive’s own framing says Area 51 is better understood as a government test site for secret aircraft projects including the U-2, OXCART and F-117, along with foreign radar and MiG work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UjqFaQq_7I" title="Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer">Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 7.0M &middot; Uploaded: November 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UjqFaQq_7I">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +338,6 @@ The same specialist critique also raises a bureaucratic point: Papoose Lake is n
 
 Supporters answer that a deeply compartmented programme might deliberately avoid ordinary signatures, use camouflage, exploit natural terrain, and keep even regular Groom personnel away. That is possible in principle, but it turns the site claim into a claim about extraordinary concealment rather than a claim supported by visible or documentary confirmation.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-dark.svg" | relative_url }}" alt="S 4 Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real secret landscape cuts both ways
 
@@ -353,7 +349,6 @@ Modern UAP reporting has not filled that gap. The All-domain Anomaly Resolution 
 
 This is why a balanced reading separates three propositions. First, Area 51 is real and historically important. Second, secret aircraft and weapons testing in that wider Nevada range is well documented. Third, Lazar’s S-4 facility containing non-human craft remains unverified. The first two points make the story’s setting plausible; they do not prove the central workplace claim.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GP916VVnXug" title="UFO legend Bob Lazar in 1989" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GP916VVnXug" target="_blank" rel="noopener noreferrer">UFO legend Bob Lazar in 1989</a></p><p class="youtube-embed-meta">Channel: KOIN 6 &middot; Views: 255.4K &middot; Uploaded: May 2019 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GP916VVnXug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GP916VVnXug">Open on YouTube</a></p></div></div></div>
 
 ## What would count as stronger evidence
@@ -364,7 +359,6 @@ The current public evidence does not reach that level. The pro-Lazar side relies
 
 The most careful conclusion is therefore narrower than either fan or debunker shorthand. S-4 is not disproved merely because it sounds extraordinary, and Area 51’s secrecy makes it understandable that people remain open to hidden compartments. But the known documentary record supports a secret aviation and testing environment, not Lazar’s specific hidden alien-craft workplace.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-3-dark.svg" | relative_url }}" alt="S 4 Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the site claim remains unresolved
 
@@ -374,74 +368,47 @@ For credibility assessment, the decisive point is that the setting does more wor
 
 That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part where the story becomes concrete enough to be checked, but where public confirmation remains absent. The strongest verified record points to secret human aerospace work around Groom Lake. The strongest version of Lazar’s claim requires a separate, concealed Papoose Lake installation and a recovered-craft programme for which no public documentary, physical or institutional evidence has yet been established.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgGO_O8k2nE" title="Filmmaker says US government worked with Russians at secret Nevada base | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer">Filmmaker says US government worked with Russians at secret Nevada base | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 466.2K &middot; Uploaded: May 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgGO_O8k2nE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was S 4 More Than A Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was S 4 More Than A Story?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Direct source for Lazar&#x27;s description of S-4 and alleged reverse-engineering work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Investigates documented Area 51 history and competing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Aliens and the Battle for the Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=scfrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Aliens and the Battle for the Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Aliens and the Battle for the Truth">UFOs, Aliens and the Battle for the Truth</a>
-        </h4>
-        <p class="fr-book-author">By Neil Nixon</p>
-        
-        <p class="fr-book-desc">Places Lazar&#x27;s claims within broader UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth+by+Neil+Nixon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Aliens+and+the+Battle+for+the+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Aliens and the Battle for the Truth</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,7 +421,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -478,15 +445,15 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Project Gravitaur / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/c73886f7d3e2591488b0.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Project Gravitaur / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster"><img src="https://i.ebayimg.com/images/g/bKkAAeSwldZqJ-y7/s-l225.jpg" alt="Listing image for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Project Gravitaur / Geek Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +461,15 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign"><img src="https://i.ebayimg.com/images/g/AHoAAOSwZd1VY5de/s-l225.jpg" alt="Listing image for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +477,15 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!"><img src="https://i.ebayimg.com/images/g/1zEAAeSwpZxpr-Dl/s-l225.jpg" alt="Listing image for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +493,15 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 POSTER 11 X 17 IN."><img src="https://i.ebayimg.com/images/g/klwAAeSwSoFp9PqN/s-l225.jpg" alt="Listing image for AREA 51 POSTER 11 X 17 IN." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 POSTER 11 X 17 IN.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for S4 UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: S4 UFO model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +509,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=S4+UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="S4 UFO model" data-ebay-reference="s-4-claim-was-s-4-more-than-a-story-bob-lazar-s4-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -758,115 +725,115 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
 1. <a id="endnote-1"></a>
    Source: otherhand.org  
    Title: Papoose – Pro  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nellis.af.mil  
    Title: Nellis Air Force Base  
-   Link: [https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/](https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/)  
+   Link: <a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Test and Training Range &gt; Nellis Air Force Base &gt; Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: otherhand.org  
    Title: Papoose – Con  
-   Link: [https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/](https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/)  
+   Link: <a href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow">https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Nevada Test and Training Range  
-   Link: [https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Department](https://en.wikipedia.org/wiki/Department)  
+   Link: <a href="https://en.wikipedia.org/wiki/Department" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Department</a>  
 
 8. <a id="endnote-8"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/area-51](https://www.military.com/base-guide/area-51)  
+   Link: <a href="https://www.military.com/base-guide/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/area-51</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt](https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: ia801800.us.archive.org  
-   Link: [https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf](https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf)  
+   Link: <a href="https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nsarchive.gwu.edu  
-   Link: [https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs](https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/department](https://dictionary.cambridge.org/dictionary/english/department)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/department" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/department</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mgGO_O8k2nE](https://www.youtube.com/watch?v=mgGO_O8k2nE)  
+   Link: <a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S4 The Bob Lazar Story | Forbidden Frontier #134...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Bob Lazar's Strongest Evidence? The Wednesday Night UFO Test  
-   Link: [https://www.youtube.com/watch?v=xOvbGoAir04](https://www.youtube.com/watch?v=xOvbGoAir04)  
+   Link: <a href="https://www.youtube.com/watch?v=xOvbGoAir04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xOvbGoAir04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: S4 The Bob Lazar Story | Forbidden Frontier #134  
-   Link: [https://www.youtube.com/watch?v=__KMwbMoNPk](https://www.youtube.com/watch?v=__KMwbMoNPk)  
+   Link: <a href="https://www.youtube.com/watch?v=__KMwbMoNPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__KMwbMoNPk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/](https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/)  
+   Link: <a href="https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/](https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/](https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/</a>  
 
 23. <a id="endnote-23"></a>
    Source: alpventures.com  
-   Link: [https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html](https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html)  
+   Link: <a href="https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/](https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en](https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en</a>

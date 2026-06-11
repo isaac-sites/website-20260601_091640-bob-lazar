@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-david-grusch/
 nav_short_title: Hearsay
 title: Why First Hand Evidence Matters Here
-title_full: Why First Hand Evidence Matters Here | Grusch
+title_full: Why First Hand Evidence Matters Here
 display_title_short: Hearsay
 display_title: Hearsay
 heading_title: Why First Hand Evidence Matters Here
@@ -289,7 +289,7 @@ next_link:
   permalink: /influence/
   short_title: Influence
   heading_title: How Grusch Shifted UAP Debate
-date: '2026-06-09 02:52:35 '
+date: '2026-06-11 21:01:24 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview-s
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s case is difficult to assess because its most dramatic claims are not public first-hand evidence. Grusch has verified UAP-related intelligence credentials and testified under oath, but his central allegation — a hidden US crash-retrieval and reverse-engineering programme involving non-human craft and biologics — is largely based on what he says other officials told him, not on material he has publicly handled, named, photographed or placed into an open evidential chain. In his own House opening statement, he said his testimony was based on information given to him by others, while adding that some of those people had supplied photography, official documentation and classified oral testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span> [Oversight]({{ 'oversight/' | relative_url }}) Committee
-
+David Grusch’s case is difficult to assess because its most dramatic claims are not public first-hand evidence. Grusch has verified UAP-related intelligence credentials and testified under oath, but his central allegation — a hidden US crash-retrieval and reverse-engineering programme involving non-human craft and [biologics]({{ 'biologics/' | relative_url }}) — is largely based on what he says other officials told him, not on material he has publicly handled, named, photographed or placed into an open evidential chain. In his own House opening statement, he said his testimony was based on information given to him by others, while adding that some of those people had supplied photography, official documentation and classified oral testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span> [Oversight]({{ 'oversight/' | relative_url }}) Committee
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview.webp" | relative_url }}" alt="Overview image for Hearsay" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. A whistleblower can be sincere, credentialled and procedurally important while still relaying claims that the public cannot verify. The core weakness in the Grusch story is therefore not simply “he has no proof”; it is that the alleged proof remains behind layers of classification, anonymity, intermediaries and institutional dispute. Until named first-hand custodians, documents, locations, samples or audit trails can be tested outside closed channels, the public case remains an unresolved oversight allegation rather than a demonstrated recovery programme.
@@ -310,28 +309,26 @@ Grusch’s public wording repeatedly places him in the role of investigator and 
 
 He also claimed he had tried to corroborate those accounts over four years and had been tasked in 2019 with identifying special access programmes and controlled access programmes relevant to the UAP Task Force mission. That gives his account more institutional weight than ordinary UFO rumour: he was describing a process inside intelligence oversight, not a story picked up from internet folklore. But it still leaves the central evidential hand-off unclear. The public cannot see who first possessed the alleged material, who examined it, where it was stored, which programme controlled it, or whether the same claims were independently generated rather than repeated through overlapping networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
 
-The most quoted example is his statement about “non-human [biologics]({{ 'biologics/' | relative_url }})”. When asked at the [hearing]({{ 'hearing/' | relative_url }}) whether bodies had been recovered from alleged craft, Grusch said biologics had come with some recoveries and that their non-human character was “the assessment of people with direct knowledge on the program” he had spoken to. That is a stronger formulation than a vague rumour, because it points to alleged direct witnesses. It is also still second-hand in the public record, because the assessors, materials, reports and chain of custody were not disclosed in open session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span><span class="citation-popover-snippet">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span></span></span>
+The most quoted example is his statement about “non-human biologics”. When asked at the [hearing]({{ 'hearing/' | relative_url }}) whether bodies had been recovered from alleged craft, Grusch said biologics had come with some recoveries and that their non-human character was “the assessment of people with direct knowledge on the program” he had spoken to. That is a stronger formulation than a vague rumour, because it points to alleged direct witnesses. It is also still second-hand in the public record, because the assessors, materials, reports and chain of custody were not disclosed in open session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span><span class="citation-popover-snippet">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span></span></span>
 
 This creates a double standard of access. Congress and inspectors general may have received more specific names or classified leads than the public has seen. The public, however, is being asked to evaluate a claim whose decisive evidence is said to exist elsewhere. That is why the same testimony can look serious from an oversight perspective and weak from an evidential perspective.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-1-dark.svg" | relative_url }}" alt="Hearsay illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hearsay Is Not Automatically Worthless
 
 Calling Grusch’s testimony “hearsay” can be accurate in a narrow evidential sense, but it can also oversimplify the issue. Intelligence and inspector-general systems often begin with reports from people who are not themselves holding the object, file or programme access at the moment of complaint. A whistleblower may be valuable because they can identify alleged witnesses, offices, programme names, funding channels or concealment mechanisms for investigators who do have legal access.
 
-That is the strongest version of the pro-Grusch argument. The Debrief’s original report said Grusch had provided classified details to the Intelligence Community Inspector General and congressional intelligence committees, and it quoted or described others who vouched for his credibility. It also reported that some current members of the alleged recovery programme had spoken to the Inspector General’s office and corroborated aspects of what Grusch had provided, though the public article did not disclose the identities, documents or [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}) needed for independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is the strongest version of the pro-Grusch argument. The Debrief’s original report said Grusch had provided classified details to the Intelligence Community Inspector General and congressional intelligence committees, and it quoted or described others who vouched for his credibility. It also reported that some current members of the alleged recovery programme had spoken to the Inspector General’s office and corroborated aspects of what Grusch had provided, though the public article did not disclose the identities, documents or physical evidence needed for independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The House hearing page itself lists Grusch as a former National Reconnaissance Office representative to the UAP Task Force, alongside former Navy witnesses Ryan Graves and David Fravor. That context helps explain why lawmakers treated the matter as more than entertainment: the witness had relevant official roles and was using formal channels, not merely making a media claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
+The [House hearing]({{ 'house-hearing/' | relative_url }}) page itself lists Grusch as a former National Reconnaissance Office representative to the UAP Task Force, alongside former Navy witnesses Ryan Graves and David Fravor. That context helps explain why lawmakers treated the matter as more than entertainment: the witness had relevant official roles and was using formal channels, not merely making a media claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">Oversight Committee Microsoft Word</span></span></span>
 
-The problem is that institutional seriousness is not the same as evidential completion. An inspector-general process can show that a complaint deserves investigation, that retaliation claims may warrant review, or that Congress should examine whether information was withheld. It does not, by itself, prove that the underlying extraordinary claim — recovered non-human technology — is true. The public record still lacks the ordinary markers of a testable chain: named first handlers, accession records, lab reports, photographs with provenance, transfer logs, contracting documents and independent technical review.
+The problem is that institutional seriousness is not the same as evidential completion. An inspector-general process can show that a complaint deserves investigation, that [retaliation]({{ 'retaliation/' | relative_url }}) claims may warrant review, or that Congress should examine whether information was withheld. It does not, by itself, prove that the underlying extraordinary claim — recovered non-human technology — is true. The public record still lacks the ordinary markers of a testable chain: named first handlers, accession records, lab reports, photographs with provenance, transfer logs, contracting documents and independent technical review.
 
 ## Where The Chain Of Custody Breaks
 
 A chain of custody is the documented route by which evidence moves from discovery to storage, examination, reporting and review. In a conventional investigation, that trail helps answer basic questions: who found the item, who controlled it, how contamination was prevented, who tested it, what methods were used, where it is now, and whether alternative explanations were excluded.
 
 In Grusch’s public case, the alleged chain has several missing links:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +343,6 @@ In Grusch’s public case, the alleged chain has several missing links:
 This is not a minor paperwork complaint. The stronger the claim, the more important provenance becomes. “A pilot saw something unusual” can be treated as an aviation-safety report. “The government possesses non-human craft and biological remains” requires a much higher evidential standard because it depends on physical custody and technical authentication.
 
 NASA’s independent UAP study made a related point in scientific terms. It said eyewitness accounts can be interesting and compelling but are not reproducible and usually lack enough information to make firm conclusions about a UAP’s origin; it argued for a rigorous, data-driven framework instead. That applies directly to the Grusch problem: testimony may justify investigation, but it cannot substitute for reproducible evidence and well-curated records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VoT-Fi33kJA" title="UFO Expert EXPLAINS The 40 First-Hand Knowledge Of Non-Human Craft AND Potential Bodies: Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VoT-Fi33kJA" target="_blank" rel="noopener noreferrer">UFO Expert EXPLAINS The 40 First-Hand Knowledge Of Non-Human Craft AND Potential Bodies: Interview</a></p><p class="youtube-embed-meta">Channel: The Hill &middot; Views: 201.6K &middot; Uploaded: July 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VoT-Fi33kJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VoT-Fi33kJA">Open on YouTube</a></p></div></div></div>
 
@@ -364,13 +360,12 @@ Supporters of Grusch object that AARO itself is not a neutral final judge. They 
 
 That criticism is worth taking seriously, but it does not remove the chain-of-custody problem. If AARO is wrong, the answer is not simply to assert that Grusch is right. The answer would be to produce a stronger evidential trail: witnesses with direct custody, documents with provenance, named programmes that can be audited, and materials that can be independently tested.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-2-dark.svg" | relative_url }}" alt="Hearsay illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Classified Names The Public Cannot Test
 
 Grusch’s defenders often say the strongest evidence cannot be public because it is classified. That may be true in part. Classified programmes can conceal names, locations, sources, methods, contractor relationships and technical capabilities for legitimate national-security reasons. But secrecy also creates a credibility trap: the more the public is told that decisive evidence exists only in closed rooms, the less able it is to separate genuine classified evidence from rumour protected by the language of classification.
 
-This is why Grusch’s case has two different audiences. For Congress, the claim is actionable if it identifies names, locations and records that authorised investigators can subpoena or inspect. For the public, the claim remains incomplete unless those same leads produce at least some verifiable outcome. A closed briefing may be appropriate for protecting sensitive details, but it cannot function as public proof unless something checkable emerges from it.
+This is why Grusch’s case has two different audiences. For Congress, the claim is actionable if it identifies names, locations and records that authorised investigators can subpoena or inspect. For the public, the claim remains incomplete unless those same leads produce at least some verifiable outcome. A closed briefing may be appropriate for protecting sensitive details, but it cannot function as [public proof]({{ 'public-proof/' | relative_url }}) unless something checkable emerges from it.
 
 The legislative response shows that lawmakers recognised the records problem. In July 2023, Senators Chuck Schumer and Mike Rounds introduced a UAP records measure modelled on the JFK assassination records process, aimed at creating a government UAP records collection and applying a presumption of disclosure. The proposal was not proof that Grusch’s claims were true; it was an attempt to build a mechanism for finding and releasing records if they existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span>
 
@@ -380,12 +375,11 @@ The eventual record-release provisions were narrower than some disclosure advoca
 
 One common misunderstanding is that an inspector-general finding that a complaint is “credible and urgent” proves the alien-retrieval claim. It does not. At most, it indicates that the complaint met a threshold for official handling and congressional notification. It may also support the view that Grusch was not simply making a frivolous allegation.
 
-The Debrief reported that the Intelligence Community Inspector General found Grusch’s complaint “credible and urgent” in 2022. Separately, Compass Rose, the law firm that represented him in the complaint process, said the complaint alleged [retaliation]({{ 'retaliation/' | relative_url }}) connected to his efforts to investigate and disclose alleged UAP information to Congress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Debrief reported that the Intelligence Community Inspector General found Grusch’s complaint “credible and urgent” in 2022. Separately, Compass Rose, the law firm that represented him in the complaint process, said the complaint alleged retaliation connected to his efforts to investigate and disclose alleged UAP information to Congress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The evidential caution is straightforward: a procedural threshold is not a finding that non-human craft exist. It does not publicly authenticate a sample, confirm a crash-retrieval programme, or identify a contractor warehouse. The “credible and urgent” language matters because it shows the complaint was treated seriously by an official channel. It should not be inflated into proof of the underlying extraordinary claim.
 
 That distinction is central to assessing Grusch fairly. Sceptics weaken their case if they ignore the seriousness of the formal process. Supporters weaken theirs if they treat process credibility as evidence credibility.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" title="Whistleblower opening statement in House hearing on alleged covert government UAP program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer">Whistleblower opening statement in House hearing on alleged covert government UAP program</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 115.3K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EXri0KF2oZY">Open on YouTube</a></p></div></div></div>
 
@@ -394,7 +388,6 @@ That distinction is central to assessing Grusch fairly. Sceptics weaken their ca
 The Grusch story would become much stronger if second-hand testimony led to first-hand, testable evidence. That does not necessarily require publishing every classified detail. Even limited disclosures could change the assessment if they established a reliable chain from allegation to evidence.
 
 The most important strengthening evidence would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,19 +403,16 @@ The case would weaken if further investigation shows that the same claims trace 
 
 The public position as of now sits between those poles. Grusch has not been publicly disproved in every classified detail, because many of the decisive details are not public. But he also has not publicly carried the evidential burden for the most extraordinary claims. The chain of custody remains asserted, not demonstrated.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-3-dark.svg" | relative_url }}" alt="Hearsay illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Best Current Assessment
 
-The most balanced reading is that Grusch is credible as a whistleblower who raised a serious oversight allegation through formal channels, but not yet credible as public proof of recovered non-human technology. His verified roles, oath-bound testimony and use of inspector-general channels make him relevant. The second-hand structure of his claims, the lack of public documents or materials, and the possibility of [circular reporting]({{ 'circular-reports/' | relative_url }}) keep the core allegation unresolved.
+The most balanced reading is that Grusch is credible as a whistleblower who raised a serious oversight allegation through formal channels, but not yet credible as public proof of recovered non-human technology. His verified roles, oath-bound testimony and use of inspector-general channels make him relevant. The second-hand structure of his claims, the lack of public documents or materials, and the possibility of circular reporting keep the core allegation unresolved.
 
 This matters because the Grusch case is often argued at the wrong level. The question is not only whether he is honest or dishonest. Honest people can relay mistaken interpretations of classified programmes. Officials with high clearances can be told dramatic claims by other officials. Real secrecy can produce false inferences as well as hidden truths. Conversely, the absence of public evidence does not prove that every classified lead is worthless.
 
 The right evidential standard is therefore neither blanket belief nor blanket dismissal. Grusch’s testimony justifies questions about oversight, classification, contractor accountability and whether Congress has been denied information. It does not, on the public record, establish a clean chain of custody for non-human craft or biologics. Until that chain is made visible enough to test, the central claim remains a serious allegation carried through second-hand testimony rather than a verified fact.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OV-SQkEGIDw" title="WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer">WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 25.7K &middot; Uploaded: July 2023 &middot; Length: 1 minute 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OV-SQkEGIDw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -436,16 +426,16 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Focuses heavily on witness testimony and official accounts.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,16 +443,16 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Directly relevant to assessing second-hand claims and evidential standards.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -470,16 +460,16 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Examines claims conveyed through insiders, sources and intermediaries.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -487,16 +477,16 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Explores how people evaluate testimony, patterns and beliefs.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -504,7 +494,7 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -541,15 +531,15 @@ The right evidential standard is therefore neither blanket belief nor blanket di
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/dca3b3f2a8ad218bfe80.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +547,15 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010"><img src="{{ '/assets/images/marketplace-covers/43f101947a052715dbff.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +563,15 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Alien | Kit Made With Real LEGO"><img src="{{ '/assets/images/marketplace-covers/4544821242366bb2d0e3.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Alien | Kit Made With Real LEGO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Alien | Kit Made With Real LEGO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +579,15 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,7 +595,7 @@ The right evidential standard is therefore neither blanket belief nor blanket di
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="hearsay-why-first-hand-evidence-matters-here-david-grusch-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-first-hand-evidence-matters-here-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-first-hand-evidence-matters-here-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -821,156 +811,156 @@ The right evidential standard is therefore neither blanket belief nor blanket di
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
 3. <a id="endnote-3"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 7. <a id="endnote-7"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 12. <a id="endnote-12"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: amendments-rules.house.gov  
    Title: GARCRO 115 xml240529153551283  
-   Link: [https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf](https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf)  
+   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian UFO hearings: whistleblower David Grusch says 'non  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
 
 16. <a id="endnote-16"></a>
    Source: thedebrief.org  
    Title: The Debrief The Pentagon's New UAP Report is Seriously Flawed  
-   Link: [https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/](https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/)  
+   Link: <a href="https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/</a>  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian US Congress passes stripped-down measure to release  
-   Link: [https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress](https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress</a>  
 
 18. <a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/](https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/)  
+   Link: <a href="https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: ufo alien vehicles us whistleblower evidence where is proof  
-   Link: [https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof](https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
 
 21. <a id="endnote-21"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: [https://www.rev.com/transcripts/house-uap-whistleblower-hearing](https://www.rev.com/transcripts/house-uap-whistleblower-hearing)  
+   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
 
 22. <a id="endnote-22"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/whistleblowers-testify-under-oath-regarding-craft-of-non-human-origin-and-military-encounters-with-uap/](https://thedebrief.org/whistleblowers-testify-under-oath-regarding-craft-of-non-human-origin-and-military-encounters-with-uap/)  
+   Link: <a href="https://thedebrief.org/whistleblowers-testify-under-oath-regarding-craft-of-non-human-origin-and-military-encounters-with-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/whistleblowers-testify-under-oath-regarding-craft-of-non-human-origin-and-military-encounters-with-uap/</a>  
 
 23. <a id="endnote-23"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/](https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/)  
+   Link: <a href="https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/</a>  
 
 24. <a id="endnote-24"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/](https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/)  
+   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EXri0KF2oZY](https://www.youtube.com/watch?v=EXri0KF2oZY)  
+   Link: <a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXri0KF2oZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: [https://www.youtube.com/watch?v=lcrCMLVk614](https://www.youtube.com/watch?v=lcrCMLVk614)  
+   Link: <a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OV-SQkEGIDw](https://www.youtube.com/watch?v=OV-SQkEGIDw)  
+   Link: <a href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV-SQkEGIDw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David Grusch...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: LIVE | Congress holds UFO hearing with retired Maj. David Grusch  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower opening statement in House hearing on alleged covert government UAP program...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/](https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/](https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/contradicting-david-gruschs-claim-is-science-writer-and-conspiracy-theory-debunk/3633670976856461/](https://www.facebook.com/NewsNationNow/posts/contradicting-david-gruschs-claim-is-science-writer-and-conspiracy-theory-debunk/3633670976856461/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/contradicting-david-gruschs-claim-is-science-writer-and-conspiracy-theory-debunk/3633670976856461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/contradicting-david-gruschs-claim-is-science-writer-and-conspiracy-theory-debunk/3633670976856461/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/](https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15aipkm/david_grusch_testified_before_us_congress_yes_us/</a>

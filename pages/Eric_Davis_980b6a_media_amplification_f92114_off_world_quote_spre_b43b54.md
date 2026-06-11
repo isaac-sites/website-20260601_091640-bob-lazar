@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-role/
 nav_short_title: Quote spread
 title: How one quote reshaped Davis's reputation
-title_full: How one quote reshaped Davis's reputation | Media Role
+title_full: How one quote reshaped Davis's reputation
 display_title_short: Quote spread
 display_title: Quote spread
 heading_title: How one quote reshaped Davis's reputation
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Coverage Changed Davis's Reputation | Davis
+parent_title: How Media Coverage Changed Davis's Reputation
 parent_permalink: /media-role/
 parent_nav_short_title: Media Role
 parent_heading_title: How Media Coverage Changed Davis's Reputation
@@ -247,7 +247,7 @@ prev_link:
   permalink: /official-spillover/
   short_title: Official spillover
   heading_title: Did official UAP news validate Davis?
-date: '2026-06-09 03:04:05 '
+date: '2026-06-11 21:07:18 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quo
 
 ## Introduction
 
-The phrase “off-world vehicles not made on this earth” did more than summarise a claim. It changed how many people understood [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}). Before July 2020, Davis was mainly known in specialist aerospace, defence-adjacent and UFO research circles. After the phrase appeared in major media coverage, he became associated in the public mind with alleged recovered alien craft and secret government retrieval programmes.
-
+The phrase “off-world vehicles not made on this earth” did more than summarise a claim. It changed how many people understood Eric Davis. Before July 2020, Davis was mainly known in specialist aerospace, defence-adjacent and UFO research circles. After the phrase appeared in major media coverage, he became associated in the public mind with alleged recovered alien craft and secret government retrieval programmes.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-1-dark.svg" | relative_url }}" alt="Quote spread illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What made the quote unusually influential was not simply its wording. It was the way it travelled. A statement that originally appeared inside a report full of qualifications, disputed interpretations and indirect sourcing was repeatedly condensed into headlines, social-media posts, television segments and secondary articles. As that happened, many of the original caveats faded. The result was that a single phrase became one of the most recognisable pieces of language in the modern UAP [debate]({{ 'debate/' | relative_url }}), often carrying more weight in public discussion than the evidence presented alongside it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
@@ -277,7 +276,6 @@ Several important limitations were present in the surrounding text:
 
 Those qualifications mattered because the article did not establish that alien vehicles had been recovered. It reported that certain individuals with government or contractor backgrounds believed such recoveries had happened or had discussed them in classified settings. The distinction between reporting a belief and proving a fact became increasingly blurred as the story spread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hjAyxA4sI1k" title="What the Heck Is Going on With These U.F.O. Stories?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hjAyxA4sI1k" target="_blank" rel="noopener noreferrer">What the Heck Is Going on With These U.F.O. Stories?</a></p><p class="youtube-embed-meta">Channel: The Ezra Klein Show &middot; Views: 173.2K &middot; Uploaded: June 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hjAyxA4sI1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hjAyxA4sI1k">Open on YouTube</a></p></div></div></div>
 
 ## How later summaries changed the emphasis
@@ -291,6 +289,68 @@ This shift happened through several stages:
 1. **The original report** presented the statement as part of a wider story about Pentagon UAP investigations.
 2. **Secondary reporting** elevated the quotation into the headline or lead paragraph.
 3. **Commentary and social media** treated the quotation itself as the main revelation.
+4. **Later discussions** often referenced the quote without revisiting the original article or its qualifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Pentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program confirms the gove...</span></span></span>
+
+A reader encountering the story at the fourth stage could easily come away with a stronger impression than a reader who saw the original article. The public memory became “Pentagon consultant says government has alien craft”, even though the underlying article was reporting claims and briefings rather than presenting publicly verified recovered vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentPentagon UFO unit to publicly release some findings after...24 Jul 2020 — A Pentagon UFO unit will make some investigatio...</span></span></span>
+
+This process illustrates a common pattern in controversial reporting. The shortest and most dramatic phrase survives repeated retelling, while uncertainty tends to disappear.
+
+## Why the wording was so powerful
+
+The phrase succeeded because it compressed several ideas into a few words.
+
+“Off-world” suggested a non-human origin without explicitly saying “alien”. “Vehicles” implied engineered craft rather than unexplained debris. “Not made on this earth” pushed the implication even further while still stopping short of a direct declaration of extraterrestrial manufacture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
+
+That ambiguity gave the quote unusual durability. Supporters could point to it as a carefully chosen insider description. Sceptics could note that it remained a claim without publicly available evidence. Yet both sides kept repeating it because it was memorable.
+
+The wording also benefited from its association with recognised institutions. The quote was linked in public coverage to the Pentagon, Senate briefings, classified discussions and defence contractors. Even though institutional association is not proof, those connections made the statement appear more authoritative than a typical UFO claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo For many readers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">off-world vehicles not made on this earth.” Mr. Davis said he also gave classified briefings on retrievals of unexplained objects to staf...</span></span></span>, the phrase sounded less like a rumour and more like an official disclosure, despite the absence of official confirmation that such vehicles existed.
+
+<img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-dark.svg" | relative_url }}" alt="Quote spread illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The gap between reputation and evidence
+
+For Eric Davis personally, the quote became a reputation-defining moment.
+
+Before 2020, discussions about Davis often centred on advanced propulsion concepts, speculative defence studies and his connections to figures such as Hal Puthoff and programmes associated with AAWSAP and AATIP. After the quote spread, many people primarily knew him as the scientist who allegedly briefed officials about recovered non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement... vehicles representing &quot;extraordinary technology&quot;. The videos further spurred interest in claims of secret gover...</span></span></span>
+
+The evidential situation, however, remained largely unchanged.
+
+Publicly available reporting established that:
+
+* Davis had worked on defence-related projects and studies.
+* He had connections to individuals involved in Pentagon UAP investigations.
+* Journalists reported that he gave classified briefings concerning alleged retrievals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span>
+
+What remained unverified was the central extraordinary claim itself:
+
+* No recovered “off-world vehicle” was publicly produced.
+* No official declassified document confirmed the existence of such craft.
+* No independently verifiable chain of custody was released for the alleged materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows</span><span class="citation-popover-snippet">Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</span></span></span>
+
+As a result, the quote increased Davis's visibility far more than it increased the publicly available evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xrv5yzNeoTQ" title="Dr. Eric Davis reveals the reason he believes the UFO Phenomenon is MALEVOLENT - Psicoactivo #793" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xrv5yzNeoTQ" target="_blank" rel="noopener noreferrer">Dr. Eric Davis reveals the reason he believes the UFO Phenomenon is MALEVOLENT - Psicoactivo #793</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 21.4K &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xrv5yzNeoTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xrv5yzNeoTQ">Open on YouTube</a></p></div></div></div>
+
+## Why sceptics focused on the quote
+
+Sceptical commentators often treated the phrase as an example of how extraordinary claims can gain momentum without corresponding proof.
+
+One recurring criticism was that the statement circulated widely because it came from someone presented as a knowledgeable insider, not because new evidence entered the public domain. Critics argued that the story depended heavily on authority, secrecy and inaccessible briefings. Since the claimed evidence remained classified or unseen, outside observers had little ability to evaluate it independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows</span><span class="citation-popover-snippet">Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</span></span></span>
+
+Another criticism concerned the relationship between media repetition and perceived credibility. Once the quote appeared in major outlets and was repeated across television, websites and social platforms, many readers assumed multiple independent confirmations existed when much of the discussion traced back to the same small set of original claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
+
+This does not prove the claim false. It does, however, highlight a central credibility problem: widespread repetition is not the same thing as corroboration.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gKDhESLlmz0" title="Dr. Eric Davis details how Presidents Bush Sr. &amp; Jimmy Carter got briefed on UFOs - Psicoactivo #790" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gKDhESLlmz0" target="_blank" rel="noopener noreferrer">Dr. Eric Davis details how Presidents Bush Sr. &amp; Jimmy Carter got briefed on UFOs - Psicoactivo #790</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 12.7K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gKDhESLlmz0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gKDhESLlmz0">Open on YouTube</a></p></div></div></div>
+
+## Why quotable phrases outlive caveats
+
+The lasting significance of the “off-world vehicles” quote is less about what it proved than about how information moves through modern UAP media.
+
+The original reporting contained qualifications, uncertainty and indirect sourcing. The phrase that survived public memory contained none of those things. It was vivid, concise and easy to repeat. As the story moved from investigative reporting into commentary, podcasts, documentaries, social media and later disclosure debates, the wording often became detached from the evidential limits attached to it in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">ufo report media</span><span class="citation-popover-snippet">Why &#x27;The New York Times,&#x27; &#x27;The Washington Post,&#x27; and...8 Jun 2023 — The story was written by Ralph Blumenthal, who spent more than 45 ye...</span></span></span>
+
+For understanding Eric Davis's public reputation, that journey matters as much as the claim itself. The quote helped transform him from a defence-linked researcher associated with speculative aerospace work into one of the most frequently cited alleged insiders in the crash-retrieval narrative. Whether readers see that as a sign of hidden knowledge or as a case study in [media amplification]({{ 'media-role/' | relative_url }}) depends largely on how much weight they place on testimony without publicly available proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+
+<img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-dark.svg" | relative_url }}" alt="Quote spread illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -409,11 +469,11 @@ This shift happened through several stages:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
@@ -425,11 +485,27 @@ This shift happened through several stages:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-quote-reshaped-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-one-quote-reshaped-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
@@ -668,179 +744,113 @@ This shift happened through several stages:
 </script>
 </section>
 
-4. **Later discussions** often referenced the quote without revisiting the original article or its qualifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Pentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program confirms the gove...</span></span></span>
-
-A reader encountering the story at the fourth stage could easily come away with a stronger impression than a reader who saw the original article. The public memory became “Pentagon consultant says government has alien craft”, even though the underlying article was reporting claims and briefings rather than presenting publicly verified recovered vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentPentagon UFO unit to publicly release some findings after...24 Jul 2020 — A Pentagon UFO unit will make some investigatio...</span></span></span>
-
-This process illustrates a common pattern in controversial reporting. The shortest and most dramatic phrase survives repeated retelling, while uncertainty tends to disappear.
-
-## Why the wording was so powerful
-
-The phrase succeeded because it compressed several ideas into a few words.
-
-“Off-world” suggested a non-human origin without explicitly saying “alien”. “Vehicles” implied engineered craft rather than unexplained debris. “Not made on this earth” pushed the implication even further while still stopping short of a direct declaration of extraterrestrial manufacture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
-
-That ambiguity gave the quote unusual durability. Supporters could point to it as a carefully chosen insider description. Sceptics could note that it remained a claim without publicly available evidence. Yet both sides kept repeating it because it was memorable.
-
-The wording also benefited from its association with recognised institutions. The quote was linked in public coverage to the Pentagon, Senate briefings, classified discussions and defence contractors. Even though institutional association is not proof, those connections made the statement appear more authoritative than a typical UFO claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo For many readers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">off-world vehicles not made on this earth.” Mr. Davis said he also gave classified briefings on retrievals of unexplained objects to staf...</span></span></span>, the phrase sounded less like a rumour and more like an official disclosure, despite the absence of official confirmation that such vehicles existed.
-
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-dark.svg" | relative_url }}" alt="Quote spread illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The gap between reputation and evidence
-
-For Eric Davis personally, the quote became a reputation-defining moment.
-
-Before 2020, discussions about Davis often centred on advanced propulsion concepts, speculative defence studies and his connections to figures such as Hal Puthoff and programmes associated with AAWSAP and AATIP. After the quote spread, many people primarily knew him as the scientist who allegedly briefed officials about recovered non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement... vehicles representing &quot;extraordinary technology&quot;. The videos further spurred interest in claims of secret gover...</span></span></span>
-
-The evidential situation, however, remained largely unchanged.
-
-Publicly available reporting established that:
-
-* Davis had worked on defence-related projects and studies.
-* He had connections to individuals involved in Pentagon UAP investigations.
-* Journalists reported that he gave classified briefings concerning alleged retrievals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span>
-
-What remained unverified was the central extraordinary claim itself:
-
-* No recovered “off-world vehicle” was publicly produced.
-* No official declassified document confirmed the existence of such craft.
-* No independently verifiable chain of custody was released for the alleged materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows</span><span class="citation-popover-snippet">Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</span></span></span>
-
-As a result, the quote increased Davis's visibility far more than it increased the publicly available evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xrv5yzNeoTQ" title="Dr. Eric Davis reveals the reason he believes the UFO Phenomenon is MALEVOLENT - Psicoactivo #793" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xrv5yzNeoTQ" target="_blank" rel="noopener noreferrer">Dr. Eric Davis reveals the reason he believes the UFO Phenomenon is MALEVOLENT - Psicoactivo #793</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 21.4K &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xrv5yzNeoTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xrv5yzNeoTQ">Open on YouTube</a></p></div></div></div>
-
-## Why sceptics focused on the quote
-
-Sceptical commentators often treated the phrase as an example of how extraordinary claims can gain momentum without corresponding proof.
-
-One recurring criticism was that the statement circulated widely because it came from someone presented as a knowledgeable insider, not because new evidence entered the public domain. Critics argued that the story depended heavily on authority, secrecy and inaccessible briefings. Since the claimed evidence remained classified or unseen, outside observers had little ability to evaluate it independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows</span><span class="citation-popover-snippet">Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</span></span></span>
-
-Another criticism concerned the relationship between media repetition and perceived credibility. Once the quote appeared in major outlets and was repeated across television, websites and social platforms, many readers assumed multiple independent confirmations existed when much of the discussion traced back to the same small set of original claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
-
-This does not prove the claim false. It does, however, highlight a central credibility problem: widespread repetition is not the same thing as corroboration.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gKDhESLlmz0" title="Dr. Eric Davis details how Presidents Bush Sr. &amp; Jimmy Carter got briefed on UFOs - Psicoactivo #790" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gKDhESLlmz0" target="_blank" rel="noopener noreferrer">Dr. Eric Davis details how Presidents Bush Sr. &amp; Jimmy Carter got briefed on UFOs - Psicoactivo #790</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 12.7K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gKDhESLlmz0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gKDhESLlmz0">Open on YouTube</a></p></div></div></div>
-
-## Why quotable phrases outlive caveats
-
-The lasting significance of the “off-world vehicles” quote is less about what it proved than about how information moves through modern UAP media.
-
-The original reporting contained qualifications, uncertainty and indirect sourcing. The phrase that survived public memory contained none of those things. It was vivid, concise and easy to repeat. As the story moved from investigative reporting into commentary, podcasts, documentaries, social media and later disclosure debates, the wording often became detached from the evidential limits attached to it in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">ufo report media</span><span class="citation-popover-snippet">Why &#x27;The New York Times,&#x27; &#x27;The Washington Post,&#x27; and...8 Jun 2023 — The story was written by Ralph Blumenthal, who spent more than 45 ye...</span></span></span>
-
-For understanding Eric Davis's public reputation, that journey matters as much as the claim itself. The quote helped transform him from a defence-linked researcher associated with speculative aerospace work into one of the most frequently cited alleged insiders in the crash-retrieval narrative. Whether readers see that as a sign of hidden knowledge or as a case study in [media amplification]({{ 'media-role/' | relative_url }}) depends largely on how much weight they place on testimony without publicly available proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
-
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-dark.svg" | relative_url }}" alt="Quote spread illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_off_world_quote_spre_b43b54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 2. <a id="endnote-2"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>off-world vehicles not made on this earth.” Mr. Davis said he also gave classified briefings on retrievals of unexplained objects to staf...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Disclosure movement  
-   Link: [https://en.wikipedia.org/wiki/Disclosure_movement](https://en.wikipedia.org/wiki/Disclosure_movement)  
+   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure movement... vehicles representing &quot;extraordinary technology&quot;. The videos further spurred interest in claims of secret gover...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</p></details>
    Published: July 24, 2020  
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo program materials vehicles  
-   Link: [https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/](https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program confirms the gove...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html](https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-pentagon-statement-findings-vehicle-research-a9636481.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentPentagon UFO unit to publicly release some findings after...24 Jul 2020 — A Pentagon UFO unit will make some investigatio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: vanityfair.com  
    Title: ufo report media  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4](https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOooqLv4IuUFJY1l4WZdi1boUHXnt4-JREfxrH1AOaHl_05Nyj1S4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;The New York Times,&#x27; &#x27;The Washington Post,&#x27; and...8 Jun 2023 — The story was written by Ralph Blumenthal, who spent more than 45 ye...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthThis is a quote based on the opinion of one guy. The astrophysicist Eric Davis, wh...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: complex.com  
-   Link: [https://www.complex.com/life/a/tracewilliamcowen/off-world-vehicles-not-made-on-this-earth-mentioned-in-new-report-on-pentagon-uap-research](https://www.complex.com/life/a/tracewilliamcowen/off-world-vehicles-not-made-on-this-earth-mentioned-in-new-report-on-pentagon-uap-research)  
+   Link: <a href="https://www.complex.com/life/a/tracewilliamcowen/off-world-vehicles-not-made-on-this-earth-mentioned-in-new-report-on-pentagon-uap-research" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/life/a/tracewilliamcowen/off-world-vehicles-not-made-on-this-earth-mentioned-in-new-report-on-pentagon-uap-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Off-World Vehicles Not Made on This Earth&#x27; Mentioned in...24 Jul 2020 — For the latest, we turn to a New York Timespiece published Thur...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — Davis, who now works for defense contractor Aerospace Corpora...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=gKDhESLlmz0](http://www.youtube.com/watch?v=gKDhESLlmz0)  
+   Link: <a href="http://www.youtube.com/watch?v=gKDhESLlmz0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gKDhESLlmz0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO Podcast Eric Davis Eric Davis &amp; Eric Weinstein Expose The UFO Problem | Pax River, Portals &amp; Withheld Videos That UFO Podcast...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: punkrockandufos.com  
    Title: In INTERVIEWS Tags Ralph-Blumenthal, ufos, pentagon, aliens, new  
-   Link: [https://www.punkrockandufos.com/blog/2017/12/19/behind-the-new-york-times-secret-pentagon-story-with-ralph-blumenthal](https://www.punkrockandufos.com/blog/2017/12/19/behind-the-new-york-times-secret-pentagon-story-with-ralph-blumenthal)  
+   Link: <a href="https://www.punkrockandufos.com/blog/2017/12/19/behind-the-new-york-times-secret-pentagon-story-with-ralph-blumenthal" target="_blank" rel="noopener noreferrer nofollow">https://www.punkrockandufos.com/blog/2017/12/19/behind-the-new-york-times-secret-pentagon-story-with-ralph-blumenthal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the New York Times secret Pentagon story with...19 Dec 2017 — Kean, no stranger to UFO stories, and Blumenthal, who has been...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: index.hr  
-   Link: [https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx](https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx)  
+   Link: <a href="https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he discovery of the remains of &quot;off-world vehicles not made on this earth&quot;.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: therooster.com  
    Title: Off-World Updates: What do UFO materials look like?  
-   Link: [https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/](https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/)  
+   Link: <a href="https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/" target="_blank" rel="noopener noreferrer nofollow">https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Aug 2020 — Eric Davis made comments that our government had recently obtained “off-world vehicles, not of this Earth.” That was a stra...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2020 — Davis also said he gave a classified briefing to a Defense Department agency this March during which he elaborated on “off...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/](https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/)  
+   Link: <a href="https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent of Defense in March about the retrieval of “off-world vehicles...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Dr. Eric Davis reveals the reason he believes the UFO Phenomenon is MALEVOLENT  
-   Link: [http://www.youtube.com/watch?v=Xrv5yzNeoTQ](http://www.youtube.com/watch?v=Xrv5yzNeoTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=Xrv5yzNeoTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Xrv5yzNeoTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Eric Davis details how Presidents Bush Sr. &amp; Jimmy Carter got briefed on UFOs - Psicoactivo #790...</p></details>

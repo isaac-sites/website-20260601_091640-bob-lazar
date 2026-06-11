@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-role/
 nav_short_title: Credential Stacking
 title: When credentials become implied proof
-title_full: When credentials become implied proof | Media Role
+title_full: When credentials become implied proof
 display_title_short: Credential Stacking
 display_title: Credential Stacking
 heading_title: When credentials become implied proof
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Coverage Changed Davis's Reputation | Davis
+parent_title: How Media Coverage Changed Davis's Reputation
 parent_permalink: /media-role/
 parent_nav_short_title: Media Role
 parent_heading_title: How Media Coverage Changed Davis's Reputation
@@ -247,7 +247,7 @@ next_link:
   permalink: /official-spillover/
   short_title: Official spillover
   heading_title: Did official UAP news validate Davis?
-date: '2026-06-09 03:03:53 '
+date: '2026-06-11 21:07:13 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_st
 
 ## Introduction
 
-One reason [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) became a prominent figure in modern UFO and UAP coverage is that many reports present his credentials in layers. Individually, several of those credentials are real and documentable: he has a PhD in physics, has worked on advanced aerospace concepts, has been associated with defence-adjacent research programmes, and authored technical papers funded through government-related contracts. The issue is not that the credentials are fabricated. The issue is how media coverage often combines them into a cumulative authority signal that can make readers assume more direct knowledge, institutional endorsement, or evidential backing than the public record actually demonstrates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Comments or questions pertaining to this document should be addressed to (3)(3) 10 USC 424:(b)(6).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span>
-
+One reason Eric Davis became a prominent figure in modern UFO and UAP coverage is that many reports present his credentials in layers. Individually, several of those credentials are real and documentable: he has a PhD in physics, has worked on advanced aerospace concepts, has been associated with defence-adjacent research programmes, and authored technical papers funded through government-related contracts. The issue is not that the credentials are fabricated. The issue is how media coverage often combines them into a cumulative authority signal that can make readers assume more direct knowledge, institutional endorsement, or evidential backing than the public record actually demonstrates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Comments or questions pertaining to this document should be addressed to (3)(3) 10 USC 424:(b)(6).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1-dark.svg" | relative_url }}" alt="Credential Stacking illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism matters because Davis's strongest UFO-related claims are often discussed alongside his professional background rather than alongside independently verifiable evidence. As a result, audiences may evaluate the claims through the status of the messenger rather than through the available documentation. In media studies, this is sometimes described as an authority effect: multiple indicators of expertise become psychologically fused into an impression of confirmation. In Davis's case, the effect is amplified by recurring references to Pentagon programmes, classified briefings, intelligence-linked projects and advanced physics research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span>
@@ -283,7 +282,6 @@ The most influential stories about Davis frequently use a specific rhetorical st
 
 A typical article does not simply identify him as a physicist. Instead, it may describe him as:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * an astrophysicist; * a Pentagon consultant;(#endnote-9 "Snippet: Davis...Read more") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalreview.com">[nationalreview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalreview.com</span><span class="citation-popover-snippet">more...</span></span></span>
@@ -298,9 +296,7 @@ Each description may have some factual basis when carefully qualified. Yet when 
 
 The July 2020 reporting surrounding the phrase "off-world vehicles not made on this earth" provides a clear example. Stories repeatedly foregrounded Davis's scientific and defence-linked background before presenting the extraordinary claim. Readers encountered a sequence of authority markers before reaching the evidential question of whether supporting proof had been made public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span> This structure creates a subtle logical shortcut:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c8k1xa5P4Jg" title="U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer">U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’</a></p><p class="youtube-embed-meta">Channel: The Daily Wire &middot; Views: 52.3K &middot; Uploaded: July 2020 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c8k1xa5P4Jg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -323,7 +319,6 @@ Coverage of Davis often compresses these distinctions. Headlines and summaries f
 
 The result is that readers may come away with an image of Davis as a senior insider speaking on behalf of government knowledge. Publicly available evidence supports a more limited conclusion: he participated in defence-adjacent research and consulting environments connected to UAP investigations. Whether that translated into direct access to the specific programmes he later discussed is often asserted rather than independently demonstrated in public reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">aatip list</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</span></span></span>
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-2-dark.svg" | relative_url }}" alt="Credential Stacking illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Classified briefings as a credibility amplifier
 
@@ -332,7 +327,6 @@ Another recurring authority signal is the reference to classified briefings.
 Reports in 2020 stated that Davis had briefed government officials and congressional staff concerning UAP-related matters. Those briefings became a major credibility marker in later coverage. The existence of a briefing is often treated as evidence that the underlying claims were validated. Yet those are separate questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalreview.com">[National Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalreview.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 A classified briefing can mean several different things:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -347,14 +341,13 @@ Media coverage frequently leaves these distinctions vague.
 
 For readers, the phrase "briefed senators" naturally suggests institutional endorsement. In reality, legislators and staff can receive briefings containing unverified claims, disputed allegations or preliminary information. The fact that a briefing occurred does not by itself establish the truth of the content. This is especially important in Davis's case because many of the most dramatic claims remain publicly unsupported by released evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows</span><span class="citation-popover-snippet">Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvmZUI7llHQ" title="House committee holds UFO hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer">House committee holds UFO hearing</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.1M &middot; Uploaded: July 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvmZUI7llHQ">Open on YouTube</a></p></div></div></div>
 
 ## The Wilson memo effect
 
 The so-called Wilson-Davis memo demonstrates how credential stacking can extend beyond formal biographies.
 
-The document, which surfaced publicly in 2019, purports to record notes from a conversation between Davis and former Admiral Thomas Wilson regarding alleged UFO reverse-engineering programmes. Supporters view the memo as one of the most important documents in modern UFO history. Critics point out that the document's claims remain unverified and that questions about provenance and corroboration persist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+The document, which surfaced publicly in 2019, purports to record notes from a conversation between Davis and former Admiral Thomas Wilson regarding alleged UFO reverse-engineering programmes. Supporters view the memo as one of the most important documents in modern UFO history. Critics point out that the document's claims remain unverified and that questions about provenance and corroboration persist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 Media discussions often introduce the memo by highlighting the status of both men involved:
 
@@ -363,8 +356,7 @@ Media discussions often introduce the memo by highlighting the status of both me
 
 The prestige of the participants can become part of the argument itself. Instead of focusing first on documentary verification, chain of custody or independent corroboration, discussion frequently begins with who allegedly participated in the conversation.
 
-This does not prove the memo false. It illustrates how authority signals can become intertwined with evidential evaluation. Readers may judge the document's credibility partly through the reputations attached to it rather than through the available authentication record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
-
+This does not prove the memo false. It illustrates how authority signals can become intertwined with evidential evaluation. Readers may judge the document's credibility partly through the reputations attached to it rather than through the available authentication record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-3-dark.svg" | relative_url }}" alt="Credential Stacking illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where authority stops short of verification
@@ -376,10 +368,9 @@ Davis's background can help establish that:
 * he moved within defence-adjacent research circles;
 * he possessed technical expertise in specialised fields;
 * he interacted with people involved in UAP-related programmes;
-* he was taken seriously enough to participate in certain discussions and studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Comments or questions pertaining to this document should be addressed to (3)(3) 10 USC 424:(b)(6).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Authors: Richard К. Obousy, Ph.D. President, Richard Obousy Consulting, LLC. Eric W. Davis, Ph.D. Senior Research Physicist.Read more...</span></span></span>
+* he was taken seriously enough to participate in certain discussions and studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Comments or questions pertaining to this document should be addressed to (3)(3) 10 USC 424:(b)(6).Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">Authors: Richard К. Obousy, Ph.D. President, Richard Obousy Consulting, LLC. Eric W. Davis, Ph.D. Senior Research Physicist.Read more...</span></span></span>
 
 Those points do not by themselves establish that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,7 +384,6 @@ Those points do not by themselves establish that:
 The gap between those two categories is where many media narratives become blurred.
 
 Supporters argue that Davis's credentials make him more likely to have encountered genuine insider information than an ordinary UFO commentator. Critics counter that extraordinary claims still require independent evidence regardless of who delivers them. Both positions can be simultaneously true: credentials may increase the importance of a claim without proving the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">reports... More:ExtraterrestrialsAliensNational Press ClubInvestigationsPentagon...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/slLm4WhYhq0" title="David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer">David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs</a></p><p class="youtube-embed-meta">Channel: Newsweek &middot; Views: 236.1K &middot; Uploaded: July 2023 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=slLm4WhYhq0">Open on YouTube</a></p></div></div></div>
 
@@ -524,15 +514,15 @@ That distinction is easy to lose in media coverage because authority signals are
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +530,15 @@ That distinction is easy to lose in media coverage because authority signals are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ That distinction is easy to lose in media coverage because authority signals are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +562,15 @@ That distinction is easy to lose in media coverage because authority signals are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,7 +578,7 @@ That distinction is easy to lose in media coverage because authority signals are
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="credential-stacking-when-credentials-become-implied-proof-eric-davis-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-implied-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-credentials-become-implied-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -804,129 +794,129 @@ That distinction is easy to lose in media coverage because authority signals are
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 2. <a id="endnote-2"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comments or questions pertaining to this document should be addressed to (3)(3) 10 USC 424:(b)(6).Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fas.org  
    Title: aatip list  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — Eric Davis, who has also written on “psychic tele...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo program materials vehicles  
-   Link: [https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/](https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsPentagon Has &#x27;Off-World Vehicles Not Made on This Earth26 Jul 2020 — An astrophysicist who consulted on the UFO program...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports... More:ExtraterrestrialsAliensNational Press ClubInvestigationsPentagon...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: info.publicintelligence.net  
-   Link: [https://info.publicintelligence.net/DIA-WarpDrives.pdf](https://info.publicintelligence.net/DIA-WarpDrives.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors: Richard К. Obousy, Ph.D. President, Richard Obousy Consulting, LLC. Eric W. Davis, Ph.D. Senior Research Physicist.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPentagon UFO unit to publicly release some findings23 Jul 2020 — Davis also said he gave a classified briefing to a Defense...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Again. Perhaps.If his claim is true, and he actually briefed people about retrievals from “off-world vehicles not made on this earth,” th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs)... Studies conducted by mainstream phy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ric W. Davis - The Black Vault. Bob Solack and 2 others.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT](https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT)  
+   Link: <a href="https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis and Admiral Thomas Wilson (UFO/UAP Documents of Interest)...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DamonMacWilson/posts/this-week-i-had-the-opportunity-to-testify-before-the-house-national-security-de/1531367915660179/](https://www.facebook.com/DamonMacWilson/posts/this-week-i-had-the-opportunity-to-testify-before-the-house-national-security-de/1531367915660179/)  
+   Link: <a href="https://www.facebook.com/DamonMacWilson/posts/this-week-i-had-the-opportunity-to-testify-before-the-house-national-security-de/1531367915660179/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DamonMacWilson/posts/this-week-i-had-the-opportunity-to-testify-before-the-house-national-security-de/1531367915660179/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Damon M. Wilson&#x27;s postDavis served up some thrilling religious iconography after a podcaster asked who he&#x27;d like to interrogate about cla...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/](https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making sense of AATIP, AWSAP, AIMSOG and Lue ElizondoIt contains summaries of papers written by Puthoff and Eric Davis... Davis where Da...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion](https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion)  
+   Link: <a href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the AAWSAP-AATIP ConfusionThis 74-page paper has evolved into an examination of the distinction between AAWSAP and AATIP (the names fo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — In speaking with the New York Times, Reid said he believes th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: github.com  
-   Link: [https://github.com/richgel999/uap_resources](https://github.com/richgel999/uap_resources)  
+   Link: <a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis has been saying in public: There have been crashes, there&#x27;s an R&amp;D program, etc. It mentions Dr. Eric W Davis (...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)Also according to Dr  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, these papers that were submitted were about various topics, including (but not limited to) [warp drives](&amp;#123;&amp;#123; &#x27;warp-drive-bc4c41/&#x27; | relative_url &amp;#125;&amp;#125;), propulsion systems, etc.Re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/](https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DIRDs here are in reference to the AWWSAP-BAASS program ran by the DWO in the DIA. This...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: index.hr  
-   Link: [https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx](https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx)  
+   Link: <a href="https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, an astrophysicist who has worked as a subcontractor and then as a consultant for the Pentagon&#x27;s UFO program since 2007, argued tha...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Defense Intelligence Reference. Document for the... ○ [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson...&quot;](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson...&quot;)...</p></details>

@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-james-lacatski/
 nav_short_title: Insider Books
 title: How Much Should The Books Count?
-title_full: How Much Should The Books Count? | Lacatski
+title_full: How Much Should The Books Count?
 display_title_short: Insider Books
 display_title: Insider Books
 heading_title: How Much Should The Books Count?
@@ -289,7 +289,7 @@ next_link:
   permalink: /kona-blue-4679d7/
   short_title: KONA BLUE
   heading_title: What Did KONA BLUE Actually Show?
-date: '2026-06-09 02:56:21 '
+date: '2026-06-11 21:03:27 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview
 
 ## Introduction
 
-[James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s books should count as important insider evidence, but not as proof of his most extraordinary claims. They matter because Lacatski was not a detached commentator: he was directly associated with the DIA-managed Advanced Aerospace Weapon System Applications Program, or AAWSAP, and his co-authors include Colm Kelleher and George Knapp, both closely tied to the Skinwalker Ranch and Bigelow Aerospace research ecosystem. That gives the books unusual access value. It also creates a credibility risk. The public is being asked to trust a narrative written by people who helped build, defend, interpret, and extend the programme whose importance is under debate. AARO, the Pentagon’s UAP office, later accepted that AAWSAP existed and that its contractor conducted UFO and paranormal research, but it also reported that it found no empirical evidence for recovered extraterrestrial craft or beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
-
+James Lacatski’s books should count as important insider evidence, but not as proof of his most extraordinary claims. They matter because Lacatski was not a detached commentator: he was directly associated with the DIA-managed Advanced Aerospace Weapon System Applications Program, or AAWSAP, and his co-authors include Colm Kelleher and George Knapp, both closely tied to the Skinwalker Ranch and Bigelow Aerospace research ecosystem. That gives the books unusual access value. It also creates a credibility risk. The public is being asked to trust a narrative written by people who helped build, defend, interpret, and extend the programme whose importance is under debate. AARO, the Pentagon’s UAP office, later accepted that AAWSAP existed and that its contractor conducted UFO and paranormal research, but it also reported that it found no empirical evidence for recovered extraterrestrial craft or beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview.webp" | relative_url }}" alt="Overview image for Insider Books" loading="eager" decoding="sync" fetchpriority="high">
 ## What the books add
@@ -311,7 +310,6 @@ The strongest evidential value of the books is not that they prove non-human tec
 That distinction is crucial. The books are useful as testimony about what Lacatski and his colleagues say AAWSAP was. They are much weaker as independently auditable evidence that the programme’s extraordinary interpretations were correct. For example, the public can compare the books’ general claims with some released programme materials, including the public [solicitation]({{ 'solicitation/' | relative_url }}) and many of the Defense Intelligence Reference Documents, but the deeper databases, case files, raw sensor material, interview records and internal analytic judgements remain largely unavailable to ordinary readers. FOIA-linked archives show that 37 of 38 DIRD reports were released after a long request process, but those documents are mostly speculative aerospace and advanced-technology studies rather than a public evidential file proving a recovered craft or non-human origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 The most dramatic book claim is the reported 2011 statement that the United States possessed a “craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})” and had accessed its interior. The claim is prominent enough to appear in public book descriptions and Google Books metadata, which attribute it to a meeting involving Lacatski, a US senator and an agency under secretary. But even here the public evidence is the book’s assertion, not a released photograph, chain-of-custody record, engineering file, material sample, congressional transcript or named facility record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-1-dark.svg" | relative_url }}" alt="Insider Books illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the record remains unavailable
@@ -326,7 +324,6 @@ The missing record is especially important because the books often ask readers t
 
 This is why the books should be treated as leads, not verdicts. They help identify what to ask for: contract records, tasking documents, programme management files, databases, case-selection criteria, analytical standards, sensor data, material-analysis reports, congressional briefings, and records of any alleged recovered [craft claim]({{ 'craft-claim/' | relative_url }}). Without those layers, the public can evaluate coherence, motive, plausibility and consistency, but not the underlying truth of the most consequential assertions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q42441-1l8k" title="The Next Steps in UFO Research with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer">The Next Steps in UFO Research with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 29.0K &middot; Uploaded: February 2022 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q42441-1l8k">Open on YouTube</a></p></div></div></div>
 
 ## How self-interest affects credibility
@@ -338,7 +335,6 @@ That creates several credibility risks. The authors have an understandable incen
 AARO’s account intensifies this concern. It says AAWSAP/AATIP was cancelled after its deliverables were completed because of DIA and DoD concerns, that the scientific papers were not thoroughly peer reviewed, and that AARO had not uncovered other substantive UAP case work beyond reviews of older and private cases, observer interviews and paranormal work at the Utah property. It also says a later proposed DHS effort, KONA BLUE, was based on advocates’ assumption that off-world technology existed, but that no extraterrestrial craft or bodies were collected and no material was transferred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
 
 A fair assessment must also acknowledge that AARO is not a neutral literary reviewer. It is a government office defending its own official assessment, and many UAP advocates distrust it. But AARO’s critique is still evidentially relevant because it claims to have reviewed classified and unclassified archives, interviewed witnesses, and checked alleged programmes against special-access and controlled-access programme records. Its report states that interviewee accounts can initiate an investigation, but final assessments require provable facts. That principle is exactly the standard the Lacatski books struggle to meet on their most dramatic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-2-dark.svg" | relative_url }}" alt="Insider Books illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The books are strongest on access, weakest on auditability
@@ -353,7 +349,6 @@ The best way to use Lacatski’s books is to separate three layers.
 
 This layered approach avoids two common mistakes. Believers sometimes treat the books’ insider status as if it automatically authenticates the claims. Sceptics sometimes dismiss the books entirely because they contain paranormal material and self-interested framing. The better reading is more precise: they are valuable evidence about the AAWSAP network’s beliefs, priorities, internal narrative and claimed experiences, but they are not a public proof package for recovered non-human craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6Wud0LzFQY" title="Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer">Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 99.4K &middot; Uploaded: December 2023 &middot; Length: 3 hours 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6Wud0LzFQY">Open on YouTube</a></p></div></div></div>
 
 ## What would make the books count for more?
@@ -364,7 +359,6 @@ More broadly, the books would count for more if the released record showed a con
 
 The public should therefore treat the Lacatski books as a starting point for scrutiny, not the end of scrutiny. They help explain why AAWSAP became so influential in modern UAP discourse, why Skinwalker Ranch became entangled with government-funded aerospace inquiry, and why a small group of insiders continues to shape claims about hidden reverse-engineering programmes. They do not, on their own, overcome the need for verifiable records, independent corroboration and a clear chain of custody.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-3-dark.svg" | relative_url }}" alt="Insider Books illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility takeaway
 
@@ -372,91 +366,47 @@ Lacatski’s books count more than ordinary UFO memoirs because they are tied to
 
 For Lacatski’s credibility, the books strengthen the case that he had meaningful programme access and that AAWSAP’s inner circle genuinely pursued a broad UAP-and-anomalies agenda. They do not publicly prove the strongest claim associated with him: that the United States possessed and entered a craft of unknown origin. Until that claim is supported by independently testable documentation or corroborated official records, the books remain important insider narratives rather than decisive evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BSItX-WvGQ8" title="UFOs Unlocked: Inside the Pentagon’s secret files | This Is America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer">UFOs Unlocked: Inside the Pentagon’s secret files | This Is America</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 99.7K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BSItX-WvGQ8">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to How Much Should The Books Count?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for How Much Should The Books Count?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Offers another insider-based account for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how insider narratives gain authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides independent testimony outside the AAWSAP authorship circle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Directly addresses the evidential value of insider testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,15 +443,15 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +459,15 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +475,15 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +491,15 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +507,7 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="insider-books-how-much-should-the-books-count-james-lacatski-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-should-the-books-count-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-much-should-the-books-count-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,145 +723,145 @@ For Lacatski’s credibility, the books strengthen the case that he had meaningf
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/](https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/</a>  
 
 3. <a id="endnote-3"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR](https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR)  
+   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
 
 4. <a id="endnote-4"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ](https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/PrePublication/](https://www.dia.mil/PrePublication/)  
+   Link: <a href="https://www.dia.mil/PrePublication/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/PrePublication/</a>  
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: The Advanced Aerospace Weapon System Applications Program (AAWSAP) Documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 7. <a id="endnote-7"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK](https://www.amazon.com/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK)  
+   Link: <a href="https://www.amazon.com/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLF8JWK</a>  
 
 8. <a id="endnote-8"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf](https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
    Title: Tic Tac Full Report1  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: amazon.it  
-   Link: [https://www.amazon.it/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR](https://www.amazon.it/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR)  
+   Link: <a href="https://www.amazon.it/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
 
 14. <a id="endnote-14"></a>
    Source: amazon.it  
-   Link: [https://www.amazon.it/Inside-U-S-Government-Covert-Program-ebook/dp/B0FT1M2ZCM](https://www.amazon.it/Inside-U-S-Government-Covert-Program-ebook/dp/B0FT1M2ZCM)  
+   Link: <a href="https://www.amazon.it/Inside-U-S-Government-Covert-Program-ebook/dp/B0FT1M2ZCM" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/Inside-U-S-Government-Covert-Program-ebook/dp/B0FT1M2ZCM</a>  
 
 15. <a id="endnote-15"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: publication security review  
-   Link: [https://www.war.gov/Contact/Help-Center/Article/Article/2762947/publication-security-review/](https://www.war.gov/Contact/Help-Center/Article/Article/2762947/publication-security-review/)  
+   Link: <a href="https://www.war.gov/Contact/Help-Center/Article/Article/2762947/publication-security-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Contact/Help-Center/Article/Article/2762947/publication-security-review/</a>  
 
 17. <a id="endnote-17"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 18. <a id="endnote-18"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 19. <a id="endnote-19"></a>
    Source: locationsunknown.org  
    Title: Locations Unknown Defense Intelligence Reference Documents — Locations Unknown  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 20. <a id="endnote-20"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/](https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/)  
+   Link: <a href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/</a>  
 
 21. <a id="endnote-21"></a>
    Source: abebooks.com  
    Title: Skinwalkers at the Pentagon  
-   Link: [https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp](https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp)  
+   Link: <a href="https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp</a>  
 
 22. <a id="endnote-22"></a>
    Source: brainly.com  
-   Link: [https://brainly.com/question/66171077](https://brainly.com/question/66171077)  
+   Link: <a href="https://brainly.com/question/66171077" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/66171077</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a6Wud0LzFQY](https://www.youtube.com/watch?v=a6Wud0LzFQY)  
+   Link: <a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6Wud0LzFQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: [https://www.youtube.com/watch?v=BSItX-WvGQ8](https://www.youtube.com/watch?v=BSItX-WvGQ8)  
+   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Craft of unknown origin subject of secret study, former US intelligence official confirms...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: [https://www.youtube.com/watch?v=6XD4gQS_-qY](https://www.youtube.com/watch?v=6XD4gQS_-qY)  
+   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Steps in UFO Research with Colm Kelleher...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/Prepublication-Review/](https://www.nsa.gov/Helpful-Links/Prepublication-Review/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/Prepublication-Review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/Prepublication-Review/</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Next Steps in UFO Research with Colm Kelleher  
-   Link: [https://www.youtube.com/watch?v=q42441-1l8k](https://www.youtube.com/watch?v=q42441-1l8k)  
+   Link: <a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q42441-1l8k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: desertcart.in  
-   Link: [https://www.desertcart.in/products/571015704-inside-the-us-government-covert-ufo-program-initial-revelations-paperback-october-7-2023](https://www.desertcart.in/products/571015704-inside-the-us-government-covert-ufo-program-initial-revelations-paperback-october-7-2023)  
+   Link: <a href="https://www.desertcart.in/products/571015704-inside-the-us-government-covert-ufo-program-initial-revelations-paperback-october-7-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.desertcart.in/products/571015704-inside-the-us-government-covert-ufo-program-initial-revelations-paperback-october-7-2023</a>  
 
 29. <a id="endnote-29"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/](https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/</a>  
 
 31. <a id="endnote-31"></a>
    Source: audible.com  
-   Link: [https://www.audible.com/search?searchAuthor=James+Lacatski&srsltid=AfmBOop9AMhabKh5rkmuo-csgxcsFsNBqxqVrKQLkJ68rrrl_U-LhWAb](https://www.audible.com/search?searchAuthor=James+Lacatski&srsltid=AfmBOop9AMhabKh5rkmuo-csgxcsFsNBqxqVrKQLkJ68rrrl_U-LhWAb)  
+   Link: <a href="https://www.audible.com/search?searchAuthor=James+Lacatski&amp;srsltid=AfmBOop9AMhabKh5rkmuo-csgxcsFsNBqxqVrKQLkJ68rrrl_U-LhWAb" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/search?searchAuthor=James+Lacatski&amp;srsltid=AfmBOop9AMhabKh5rkmuo-csgxcsFsNBqxqVrKQLkJ68rrrl_U-LhWAb</a>  
 
 32. <a id="endnote-32"></a>
    Source: audible.com  
-   Link: [https://www.audible.com/search?searchAuthor=James+Lacatski&srsltid=AfmBOopSsABdEnlH_mkgWMYaJZ7kPjQKEx4NcuVXdpvjdyjj82azmCkm](https://www.audible.com/search?searchAuthor=James+Lacatski&srsltid=AfmBOopSsABdEnlH_mkgWMYaJZ7kPjQKEx4NcuVXdpvjdyjj82azmCkm)  
+   Link: <a href="https://www.audible.com/search?searchAuthor=James+Lacatski&amp;srsltid=AfmBOopSsABdEnlH_mkgWMYaJZ7kPjQKEx4NcuVXdpvjdyjj82azmCkm" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/search?searchAuthor=James+Lacatski&amp;srsltid=AfmBOopSsABdEnlH_mkgWMYaJZ7kPjQKEx4NcuVXdpvjdyjj82azmCkm</a>

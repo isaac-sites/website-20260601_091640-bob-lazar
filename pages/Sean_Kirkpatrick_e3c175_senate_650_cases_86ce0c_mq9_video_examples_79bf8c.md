@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /senate-hearing/
 nav_short_title: MQ 9 Videos
 title: Why Two Drone Videos Changed The Hearing
-title_full: Why Two Drone Videos Changed The Hearing | Senate Hearing
+title_full: Why Two Drone Videos Changed The Hearing
 display_title_short: MQ 9 Videos
 display_title: MQ 9 Videos
 heading_title: Why Two Drone Videos Changed The Hearing
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Did 650 UAP Cases Matter? | Kirkpatrick
+parent_title: Why Did 650 UAP Cases Matter?
 parent_permalink: /senate-hearing/
 parent_nav_short_title: Senate Hearing
 parent_heading_title: Why Did 650 UAP Cases Matter?
@@ -253,7 +253,7 @@ next_link:
   permalink: /triage/
   short_title: Triage
   heading_title: How Did AARO Decide Which Cases Mattered?
-date: '2026-06-09 02:57:46 '
+date: '2026-06-11 21:04:16 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_
 
 ## Introduction
 
-Two short MQ-9 Reaper drone videos became some of the most important exhibits in [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s April 2023 Senate testimony because they illustrated a distinction that sat at the centre of his approach to UAP investigations. An object could remain unidentified without being evidence of extraordinary technology, and a video that appeared extraordinary at first glance could later receive a conventional explanation. Rather than presenting either clip as proof of alien craft or revolutionary physics, Kirkpatrick used them to demonstrate how the Pentagon’s All-domain Anomaly Resolution Office (AARO) evaluated evidence and set thresholds for stronger claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">CHARACTERISTICS. PERFORMANCE.Read more</span><span class="citation-popover-snippet">AAROThe US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
-
+Two short MQ-9 Reaper drone videos became some of the most important exhibits in Sean Kirkpatrick’s April 2023 Senate testimony because they illustrated a distinction that sat at the centre of his approach to UAP investigations. An object could remain unidentified without being evidence of extraordinary technology, and a video that appeared extraordinary at first glance could later receive a conventional explanation. Rather than presenting either clip as proof of alien craft or revolutionary physics, Kirkpatrick used them to demonstrate how the Pentagon’s All-domain Anomaly Resolution Office (AARO) evaluated evidence and set thresholds for stronger claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">CHARACTERISTICS. PERFORMANCE.Read more</span><span class="citation-popover-snippet">The US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-1-dark.svg" | relative_url }}" alt="MQ 9 Videos illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [supporters]({{ 'supporters-0a40e4/' | relative_url }}), the videos showed that AARO was willing to admit uncertainty when a case could not be resolved. For critics, they highlighted how limited public evidence often was. Either way, the paired examples revealed the standard Kirkpatrick repeatedly emphasised during discussions of the more than 650 UAP cases under review: unidentified does not automatically mean anomalous, and anomalous-looking footage is not automatically proof of something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon aaro ufo hearing april 2023</span><span class="citation-popover-snippet">SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</span><span class="citation-popover-meta">Published: april 2023</span></span></span>
+For [supporters]({{ 'supporters-0a40e4/' | relative_url }}), the videos showed that AARO was willing to admit uncertainty when a case could not be resolved. For critics, they highlighted how limited public evidence often was. Either way, the paired examples revealed the standard Kirkpatrick repeatedly emphasised during discussions of the more than 650 UAP cases under review: unidentified does not automatically mean anomalous, and anomalous-looking footage is not automatically proof of something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon aaro ufo hearing april 2023</span><span class="citation-popover-snippet">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</span><span class="citation-popover-meta">Published: april 2023</span></span></span>
 
 ## The Middle East orb that stayed unidentified
 
@@ -278,7 +277,6 @@ This was an important distinction in Kirkpatrick’s public messaging. AARO desc
 
 The orb became a useful example because it challenged both extremes of the debate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It was not identified with confidence.
@@ -289,7 +287,6 @@ The orb became a useful example because it challenged both extremes of the debat
 </div>
 
 That position reflected Kirkpatrick’s broader argument that unresolved cases should be treated as unresolved, rather than automatically assigned either mundane or exotic explanations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j6qTR_Lxe1Q" title="Orb-shaped UFO seen over Iraq in stunning video released by Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer">Orb-shaped UFO seen over Iraq in stunning video released by Pentagon</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 393.0K &middot; Uploaded: April 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j6qTR_Lxe1Q">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +300,6 @@ According to AARO's analysis, the footage was captured by an MQ-9's forward-look
 
 The significance of the clip was not that investigators instantly solved it. Rather, it demonstrated that an apparently anomalous visual feature could weaken under deeper technical analysis. What initially appeared to be unusual behaviour became less remarkable once analysts considered imaging limitations, infrared interpretation and the characteristics of the recording system itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod working to better understand resolve anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — Kirkpatrick, AARO... An MQ-9 forward-looking infra...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-2-dark.svg" | relative_url }}" alt="MQ 9 Videos illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the contrast revealed about Kirkpatrick's evidence threshold
 
@@ -311,18 +307,16 @@ Taken together, the two MQ-9 videos offered perhaps the clearest public demonstr
 
 The Middle East orb remained unidentified, yet AARO did not regard it as evidence of extraordinary technology. The South Asia object initially looked more unusual, yet technical analysis pointed toward a conventional explanation. The lesson was that neither identification status nor visual impressiveness alone determined how AARO judged a case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken by an MQ...</span></span></span>
 
-Kirkpatrick repeatedly argued that stronger conclusions required more than intriguing footage. Investigators wanted multiple data sources, sensor corroboration, contextual information, performance measurements and evidence that could survive technical scrutiny. A single video clip could raise questions, but it rarely settled them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon aaro ufo hearing april 2023</span><span class="citation-popover-snippet">SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</span><span class="citation-popover-meta">Published: april 2023</span></span></span>
+Kirkpatrick repeatedly argued that stronger conclusions required more than intriguing footage. Investigators wanted multiple data sources, sensor corroboration, contextual information, performance measurements and evidence that could survive technical scrutiny. A single video clip could raise questions, but it rarely settled them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon aaro ufo hearing april 2023</span><span class="citation-popover-snippet">Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</span><span class="citation-popover-meta">Published: april 2023</span></span></span>
 
 This approach also helps explain why Kirkpatrick resisted claims that hundreds of [unresolved UAP]({{ 'unresolved-uap-d5436d/' | relative_url }}) reports constituted evidence of non-human technology. In his view, many cases fell into one of two categories:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h08VAydTJ_A" title="DECLASSIFIED VIDEO: UFO FILES - Middle East Object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h08VAydTJ_A" target="_blank" rel="noopener noreferrer">DECLASSIFIED VIDEO: UFO FILES - Middle East Object</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.1K &middot; Uploaded: April 2023 &middot; Length: 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h08VAydTJ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h08VAydTJ_A">Open on YouTube</a></p></div></div></div>
 
 1. Insufficient information to identify the object.
 2. Initially unusual appearances later explained through better analysis.
 
-The MQ-9 examples illustrated both possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">CHARACTERISTICS. PERFORMANCE.Read more</span><span class="citation-popover-snippet">AAROThe US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
-
+The MQ-9 examples illustrated both possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">CHARACTERISTICS. PERFORMANCE.Read more</span><span class="citation-popover-snippet">The US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E2qvyxhdPQA" title="Unidentified Aerial Phenomena Task Force Chief Reveals Shocking Video Findings To Senate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer">Unidentified Aerial Phenomena Task Force Chief Reveals Shocking Video Findings To Senate</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 486.7K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E2qvyxhdPQA">Open on YouTube</a></p></div></div></div>
 
@@ -330,94 +324,51 @@ The MQ-9 examples illustrated both possibilities. <span class="citation-link-wra
 
 For evaluating Sean Kirkpatrick’s credibility, the videos are significant because they show how he handled ambiguity in a public setting. He did not present the orb as proof of something extraordinary merely because it lacked an identification. Nor did he claim certainty where analysts were still reviewing evidence. At the same time, he publicly discussed a case that remained unresolved rather than insisting every report already had a mundane answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken by an MQ...</span></span></span>
 
-Supporters view this as evidence of a disciplined analytical approach. They argue that the paired videos demonstrated a willingness to separate mystery from anomaly and to distinguish unanswered questions from evidence of exotic technology. Critics, by contrast, contend that the public received only limited data and that outside analysts could not independently verify all of AARO’s conclusions. Some researchers later proposed alternative explanations for the Middle East orb, while others argued that the available footage was too sparse to support any firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">isnt that a balloon deflating a dod ufo video</span><span class="citation-popover-snippet">bellingcatIsn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 —... video of a metallic, spherical orb flying over the Middle East...</span></span></span>
+Supporters view this as evidence of a disciplined analytical approach. They argue that the paired videos demonstrated a willingness to separate mystery from anomaly and to distinguish unanswered questions from evidence of exotic technology. Critics, by contrast, contend that the public received only limited data and that outside analysts could not independently verify all of AARO’s conclusions. Some researchers later proposed alternative explanations for the Middle East orb, while others argued that the available footage was too sparse to support any firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">isnt that a balloon deflating a dod ufo video</span><span class="citation-popover-snippet">Isn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 —... video of a metallic, spherical orb flying over the Middle East...</span></span></span>
 
-Yet the broader point of the hearing remained consistent: the videos were presented less as revelations than as case studies in evidence standards. Within the wider discussion of the 650 UAP cases, they showed the threshold Kirkpatrick believed had to be crossed before investigators could move from “unidentified” to “genuinely anomalous”. On the public record, neither MQ-9 example met that threshold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia | U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East, and while AARO asses...</span></span></span>
-
+Yet the broader point of the hearing remained consistent: the videos were presented less as revelations than as case studies in evidence standards. Within the wider discussion of the 650 UAP cases, they showed the threshold Kirkpatrick believed had to be crossed before investigators could move from “unidentified” to “genuinely anomalous”. On the public record, neither MQ-9 example met that threshold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East, and while AARO asses...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-3-dark.svg" | relative_url }}" alt="MQ 9 Videos illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_mq9_video_examples_79bf8c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Two Drone Videos Changed The Hearing. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Two Drone Videos Changed The Hearing, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses heavily on pilot encounters and military evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides context for government interpretation of videos and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explores how unusual observations can remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Introduces evidence categories and interpretation challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,15 +405,15 @@ Yet the broader point of the hearing remained consistent: the videos were presen
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +421,15 @@ Yet the broader point of the hearing remained consistent: the videos were presen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +437,15 @@ Yet the broader point of the hearing remained consistent: the videos were presen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +453,15 @@ Yet the broader point of the hearing remained consistent: the videos were presen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +469,7 @@ Yet the broader point of the hearing remained consistent: the videos were presen
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="mq-9-videos-why-two-drone-videos-changed-the-hearing-sean-kirkpatrick-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-two-drone-videos-changed-the-hearing-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-two-drone-videos-changed-the-hearing-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,121 +685,121 @@ Yet the broader point of the hearing remained consistent: the videos were presen
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: CHARACTERISTICS. PERFORMANCE.Read more  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROThe US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Department of Defense &amp; the UAP MissionDecember 14, 2023 — 19 Apr 2023 — South Asia, 2023: MQ-9 observed UAP object apparently...</p></details>
    Published: December 14, 2023  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — Kirkpatrick, AARO... An MQ-9 forward-looking infra...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: pentagon aaro ufo hearing april 2023  
-   Link: [https://www.space.com/pentagon-aaro-ufo-hearing-april-2023](https://www.space.com/pentagon-aaro-ufo-hearing-april-2023)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</p></details>
+   Link: <a href="https://www.space.com/pentagon-aaro-ufo-hearing-april-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-aaro-ufo-hearing-april-2023</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon has &#x27;no credible evidence&#x27; of aliens or UFOs that...19 Apr 2023 — The director of the Pentagon&#x27;s new UFO office shot down...</p></details>
    Published: april 2023  
 
 4. <a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/880273/middle-east-object](https://www.dvidshub.net/video/880273/middle-east-object)  
+   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East ObjectA video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was taken by an MQ...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/videoid/880273/](https://www.war.gov/Multimedia/videoid/880273/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880273/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War12 Jul 2022 — This clip was taken by an MQ-9 in the Middle East, and while AARO asses...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG...This clip was taken by an MQ-9 in the Middle East...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: 106rqw.ang.af.mil  
-   Link: [https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/](https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/)  
+   Link: <a href="https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/" target="_blank" rel="noopener noreferrer nofollow">https://www.106rqw.ang.af.mil/News/Video/videoid/880271/dvpTag/Objectives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ang AFVideoAn MQ-9 forward-looking infrared video sensor captured this footage in South Asia as it was recording another MQ-9. After anal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bellingcat.com  
    Title: isnt that a balloon deflating a dod ufo video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatIsn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 —... video of a metallic, spherical orb flying over the Middle East...</p></details>
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isn&#x27;t That A Balloon? Deflating a DoD UFO Video24 Oct 2023 —... video of a metallic, spherical orb flying over the Middle East...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/r/tw42u9](https://www.dvidshub.net/r/tw42u9)  
+   Link: <a href="https://www.dvidshub.net/r/tw42u9" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/r/tw42u9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Object19 Apr 2023 — This clip was taken by an MQ-9 in the Middle East, and while AARO assesses the object in the clip is not...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/](https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROs Videos: The US Government cannot identify...An MQ-9 forward-looking infrared video sensor captured this footage in South Asia as i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sencanada.ca  
-   Link: [https://sencanada.ca/en/about/](https://sencanada.ca/en/about/)  
+   Link: <a href="https://sencanada.ca/en/about/" target="_blank" rel="noopener noreferrer nofollow">https://sencanada.ca/en/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About the SenateThe Senate is the Upper House in Canada&#x27;s bicameral parliamentary democracy. It unites a diverse group of accomplished Ca...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing](https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing)  
+   Link: <a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying to bring down...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: the video caught by an infrared camera aboard the platform in 2013 was reported  
-   Link: [https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/](https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/)  
+   Link: <a href="https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WDTV5News/posts/the-video-caught-by-an-infrared-camera-aboard-the-platform-in-2013-was-reported-/1401468618694557/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video, caught by an infrared camera aboard...The video, caught by an infrared camera aboard the platform in 2013, was reported by th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: metabunk.org  
    Title: The hi-tech camera picks up the movement, switching targets from  
-   Link: [https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/](https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/)  
+   Link: <a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP...22 Apr 2023 — The footage was shot on July 12, 2022 from an American MQ-9 Reaper...</p></details>
    Published: July 12, 2022  
 
 17. <a id="endnote-17"></a>
    Source: europeafrica.army.mil  
    Title: mil African Lion Middle East Object. Defense Media Activity  
-   Link: [https://www.europeafrica.army.mil/What-We-Do/Exercises/African-Lion/?dvpTag=object&dvpmoduleid=55722&videoid=880273](https://www.europeafrica.army.mil/What-We-Do/Exercises/African-Lion/?dvpTag=object&dvpmoduleid=55722&videoid=880273)  
+   Link: <a href="https://www.europeafrica.army.mil/What-We-Do/Exercises/African-Lion/?dvpTag=object&amp;dvpmoduleid=55722&amp;videoid=880273" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/What-We-Do/Exercises/African-Lion/?dvpTag=object&amp;dvpmoduleid=55722&amp;videoid=880273</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LionMiddle East Object. Defense Media Activity - Proper. April 19, 2023 | 0:24... Sean Kirkpatrick, director... orb-like object cross t...</p></details>
    Published: April 19, 2023  
 
 18. <a id="endnote-18"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: [https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/](https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/)  
+   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Apr 2023 — A “Reaper” drone, being operated in the Middle East by the US military, identified a strange “metallic orb” flying through...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedebrief.org  
    Title: The Debrief Has the Mystery Behind One of the U.S  
-   Link: [https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/](https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/)  
+   Link: <a href="https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military&#x27;s UAP...26 Oct 2023 — Screenshot of an unreconciled UAP captured with electro-optical sensors aboard an MQ-9 Reaper, shown duri...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: brewminate.com  
    Title: the missile the orb and the limits of what we know  
-   Link: [https://brewminate.com/the-missile-the-orb-and-the-limits-of-what-we-know/](https://brewminate.com/the-missile-the-orb-and-the-limits-of-what-we-know/)  
+   Link: <a href="https://brewminate.com/the-missile-the-orb-and-the-limits-of-what-we-know/" target="_blank" rel="noopener noreferrer nofollow">https://brewminate.com/the-missile-the-orb-and-the-limits-of-what-we-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Missile, the Orb, and the Limits of What We Know19 Sept 2025 — On September 9–10, members of Congress were shown video of a U.S...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: new mosul orb foia video reveals kirkpatrick  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lrfvar/new_mosul_orb_foia_video_reveals_kirkpatrick/](https://www.reddit.com/r/UFOs/comments/1lrfvar/new_mosul_orb_foia_video_reveals_kirkpatrick/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lrfvar/new_mosul_orb_foia_video_reveals_kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lrfvar/new_mosul_orb_foia_video_reveals_kirkpatrick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Likely Lied...The video was first shown during the April 2023 Senate/AARO hearing with Kirsten Gillibrand chairing, where Kirkpatrick pr...</p></details>
-   Published: April 2023  
+   Published: April 2023

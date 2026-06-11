@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /serpo/
 nav_short_title: Email Trail
 title: Who Really Launched the Serpo Story?
-title_full: Who Really Launched the Serpo Story? | Serpo
+title_full: Who Really Launched the Serpo Story?
 display_title_short: Email Trail
 display_title: Email Trail
 heading_title: Who Really Launched the Serpo Story?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Project Serpo Reveal About Doty's Claims? | Doty
+parent_title: What Does Project Serpo Reveal About Doty's Claims?
 parent_permalink: /serpo/
 parent_nav_short_title: Serpo
 parent_heading_title: What Does Project Serpo Reveal About Doty's Claims?
@@ -247,7 +247,7 @@ next_link:
   permalink: /howe-meeting/
   short_title: Howe Meeting
   heading_title: The Manila Folder That Proved Too Little
-date: '2026-06-09 02:55:48 '
+date: '2026-06-11 21:03:11 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_emai
 
 ## Introduction
 
-The credibility of Project [Serpo]({{ 'serpo/' | relative_url }}) depends heavily on a question that is often overlooked in retellings of the story: who actually introduced it into the UFO community, and through what chain of sources? Unlike many older UFO narratives that centred on named witnesses, leaked documents, or public interviews, Serpo emerged through anonymous emails sent to a private UFO discussion list run by former government employee Victor Martinez in late 2005. The story spread rapidly across websites, forums, newsletters, and conferences, but the underlying source chain remained unusually opaque. That matters because, for assessing [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})'s credibility, the strongest evidence is not the tale itself but the way the tale was distributed, amplified, modified, and defended. The Serpo case became a test of whether repeated insider-style claims could create the appearance of corroboration without producing independently verifiable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
-
+The credibility of Project [Serpo]({{ 'serpo/' | relative_url }}) depends heavily on a question that is often overlooked in retellings of the story: who actually introduced it into the UFO community, and through what chain of sources? Unlike many older UFO narratives that centred on named witnesses, leaked documents, or public interviews, Serpo emerged through anonymous emails sent to a private UFO discussion list run by former government employee Victor Martinez in late 2005. The story spread rapidly across websites, forums, newsletters, and conferences, but the underlying source chain remained unusually opaque. That matters because, for assessing Richard Doty's credibility, the strongest evidence is not the tale itself but the way the tale was distributed, amplified, modified, and defended. The Serpo case became a test of whether repeated insider-style claims could create the appearance of corroboration without producing independently verifiable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-1-dark.svg" | relative_url }}" alt="Email Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Really Launched the Serpo Story?
@@ -278,7 +277,6 @@ One complication for later researchers is that much of the original email traffi
 
 That weak archival trail became a major obstacle when investigators later attempted to determine who was actually behind the communications.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p_dWL97DITA" title="Why Did These Astronauts Choose to Stay on an Alien World?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p_dWL97DITA" target="_blank" rel="noopener noreferrer">Why Did These Astronauts Choose to Stay on an Alien World?</a></p><p class="youtube-embed-meta">Channel: Beard Laws Studio &middot; Views: 848 &middot; Uploaded: June 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p_dWL97DITA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p_dWL97DITA">Open on YouTube</a></p></div></div></div>
 
 ## Anonymous Sources and Claimed Insiders
@@ -291,7 +289,6 @@ Researchers examining the source trail repeatedly noted that many claims ultimat
 
 This distinction is crucial. Twelve witnesses independently describing the same classified programme would be significant. One anonymous source generating a series of claims that are then repeated by multiple enthusiasts, websites, and commentators is a very different evidential situation.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-2-dark.svg" | relative_url }}" alt="Email Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Richard Doty Connection
 
@@ -301,8 +298,7 @@ Researchers noted similarities between the Serpo narrative and accounts connecte
 
 The most serious allegation is that Doty himself was involved in creating or operating some of the identities used in the Serpo releases. This claim has circulated widely among sceptical UFO researchers and appears in several later discussions of the case. Some accounts assert that supposedly independent corroborating sources were actually connected to the same underlying operator. However, the evidence for exactly which accounts were controlled by whom remains disputed, and not every claim about the source network has been independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1k7sp4z/serious_the_origins_of_the_project_serpo_story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">serious the origins of the project serpo story</span><span class="citation-popover-snippet">Serious) The origins of the Project Serpo story: r/aliensThe Serpo story first appeared online in late 2005, when a series of strange...</span></span></span>
 
-Even so, the possibility matters because Doty's documented history already includes acknowledged involvement in disinformation activities directed at members of the UFO community during the Paul [Bennewitz affair]({{ 'bennewitz/' | relative_url }}). That history means critics approach later anonymous insider stories associated with him with heightened caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
-
+Even so, the possibility matters because Doty's documented history already includes acknowledged involvement in disinformation activities directed at members of the UFO community during the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair. That history means critics approach later anonymous insider stories associated with him with heightened caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIx44GSOfHw" title="&#x27;They Also Found a Live Alien&#x27; Ep. 4 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIx44GSOfHw" target="_blank" rel="noopener noreferrer">&#x27;They Also Found a Live Alien&#x27; Ep. 4 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 2.2M &middot; Uploaded: September 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIx44GSOfHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIx44GSOfHw">Open on YouTube</a></p></div></div></div>
 
@@ -312,12 +308,11 @@ One reason Serpo gained traction was the sheer volume of discussion surrounding 
 
 Yet none of that automatically strengthened the underlying evidence.
 
-A common mistake in evaluating extraordinary claims is to confuse widespread repetition with independent confirmation. In the Serpo case, many later references ultimately pointed back to Martinez's mailing list and the original anonymous communications. The number of people discussing the claims increased dramatically, but the number of verifiable firsthand sources did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nostradamus.fandom.com/wiki/Project_Serpo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nostradamus.fandom.com">[Nostradamus Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nostradamus.fandom.com</span><span class="citation-popover-snippet">Nostradamus WikiProject Serpo | Nostradamus Wiki - FandomAccording to the most common version of the story, an alien survived a crash nea...</span></span></span>
+A common mistake in evaluating extraordinary claims is to confuse widespread repetition with independent confirmation. In the Serpo case, many later references ultimately pointed back to Martinez's mailing list and the original anonymous communications. The number of people discussing the claims increased dramatically, but the number of verifiable firsthand sources did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nostradamus.fandom.com/wiki/Project_Serpo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nostradamus.fandom.com">[Nostradamus Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nostradamus.fandom.com</span><span class="citation-popover-snippet">Nostradamus WikiProject Serpo &#124; Nostradamus Wiki - FandomAccording to the most common version of the story, an alien survived a crash nea...</span></span></span>
 
 This created what researchers sometimes describe as a circular sourcing problem. Website A cites Website B. Website B cites an archived email. The archived email cites Anonymous. The apparent network of evidence expands, but the underlying source remains unchanged.
 
 For readers trying to assess credibility, the crucial question is not how many times a claim appears online but how many independent evidential paths lead back to verifiable origins. In the Serpo case, investigators repeatedly found the source chain narrowing rather than widening when examined closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoBefore I go into the details of Project Serpo, let me explain that I&#x27;ve been a recipient of Vict...</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-3-dark.svg" | relative_url }}" alt="Email Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_email_source_c_b6b454-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Source Chain Reveals About Credibility
@@ -328,9 +323,7 @@ For believers, the source secrecy can be interpreted as evidence that classified
 
 From a credibility standpoint, the key lesson is that the Serpo narrative expanded far faster than its evidential foundation. The email trail generated a large mythology, but the chain of custody behind the claims remained narrow, disputed, and heavily dependent on anonymous intermediaries. That imbalance continues to shape assessments of both Project Serpo and Richard Doty's role in the story's spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dtg54m_ghXo" title="UFOs Revisited: Project Serpo | Episode 13 | The Secret Human Exchange with Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dtg54m_ghXo" target="_blank" rel="noopener noreferrer">UFOs Revisited: Project Serpo | Episode 13 | The Secret Human Exchange with Aliens</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 1.9K &middot; Uploaded: November 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dtg54m_ghXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dtg54m_ghXo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -344,16 +337,16 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Directly relevant to anonymous sourcing, information operations and UFO myth creation.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -361,16 +354,16 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Explains mechanisms by which insider-style claims moved through UFO communities.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -378,16 +371,16 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fit, Failure &amp; the Hall of Fame on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/472798-M.jpg" alt="Cover for Fit, Failure &amp; the Hall of Fame" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fit, Failure &amp; the Hall of Fame">Fit, Failure &amp; the Hall of Fame</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Useful for understanding how communities build credibility around opaque claims.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,16 +388,16 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
         </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Useful for understanding how communities build credibility around opaque claims.</p>
+        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,7 +405,7 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fit, Failure &amp; the Hall of Fame</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -449,15 +442,15 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +458,15 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +474,15 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +490,15 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +506,7 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="email-trail-who-really-launched-the-serpo-story-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-really-launched-the-serpo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-really-launched-the-serpo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,143 +722,142 @@ From a credibility standpoint, the key lesson is that the Serpo narrative expand
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
-   Link: [https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience](https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
 
 2. <a id="endnote-2"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/serpo/index_serpo.htm](https://www.bibliotecapleyades.net/sociopolitica/serpo/index_serpo.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/serpo/index_serpo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/serpo/index_serpo.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo - The Zeta Reticuli Exchange ProgramJan 3, 2008 — The information is currently being released in installments on a private...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO06.htm](https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO06.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO06.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO06.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo - Information from UFO MagazineWe have no source data apart from Anonymous&#x27;s very first message to Victor Martinez on 1 Nov...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: alessandragemmo.com  
    Title: the mystery of project serpo  
-   Link: [https://alessandragemmo.com/the-mystery-of-project-serpo/](https://alessandragemmo.com/the-mystery-of-project-serpo/)  
+   Link: <a href="https://alessandragemmo.com/the-mystery-of-project-serpo/" target="_blank" rel="noopener noreferrer nofollow">https://alessandragemmo.com/the-mystery-of-project-serpo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 17, 2025 — The source of the emails remains anonymous, and no official government documents have surfaced to confirm any such mission...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: raffery.com  
    Title: project serpo the zeta reticuli alien exchange explained  
-   Link: [https://raffery.com/project-serpo-the-zeta-reticuli-alien-exchange-explained/](https://raffery.com/project-serpo-the-zeta-reticuli-alien-exchange-explained/)  
+   Link: <a href="https://raffery.com/project-serpo-the-zeta-reticuli-alien-exchange-explained/" target="_blank" rel="noopener noreferrer nofollow">https://raffery.com/project-serpo-the-zeta-reticuli-alien-exchange-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: The Zeta Reticuli Alien Exchange ExplainedApr 27, 2025 — These messages were signed by someone calling himself “Anonymous...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cdn.preterhuman.net  
-   Link: [https://cdn.preterhuman.net/texts/alien.ufo/Anon%20-%20Project%20Serpo-Posted%20Information.pdf](https://cdn.preterhuman.net/texts/alien.ufo/Anon%20-%20Project%20Serpo-Posted%20Information.pdf)  
+   Link: <a href="https://cdn.preterhuman.net/texts/alien.ufo/Anon%20-%20Project%20Serpo-Posted%20Information.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.preterhuman.net/texts/alien.ufo/Anon%20-%20Project%20Serpo-Posted%20Information.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page...</p></details>
 
-9. Serpo: Posted Information. 9 of 42 [http://www.serpo.org/information.html](http://www.serpo.org/information.html). [Project Aquarius]({{ 'aquarius-trail/' | relative_url }}) briefing...Read more
-
+9. Serpo: Posted Information. 9 of 42 [http://www.serpo.org/information.html](http://www.serpo.org/information.html). Project Aquarius briefing...Read more
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 8. <a id="endnote-8"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/serpo/updates_specialreports.htm](https://www.bibliotecapleyades.net/sociopolitica/serpo/updates_specialreports.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/serpo/updates_specialreports.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/serpo/updates_specialreports.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo - The Zeta Reticuli Exchange Program7 July 2006 — Victor Martinez&#x27;s “Anonymous” immediately told him the name of the retire...</p></details>
    Published: July 2006  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: serious the origins of the project serpo story  
-   Link: [https://www.reddit.com/r/aliens/comments/1k7sp4z/serious_the_origins_of_the_project_serpo_story/](https://www.reddit.com/r/aliens/comments/1k7sp4z/serious_the_origins_of_the_project_serpo_story/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1k7sp4z/serious_the_origins_of_the_project_serpo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1k7sp4z/serious_the_origins_of_the_project_serpo_story/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Serious) The origins of the Project Serpo story: r/aliensThe Serpo story first appeared online in late 2005, when a series of strange...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: the origins of the project serpo story  
-   Link: [https://www.reddit.com/r/ufo/comments/1k7sq4q/the_origins_of_the_project_serpo_story/](https://www.reddit.com/r/ufo/comments/1k7sq4q/the_origins_of_the_project_serpo_story/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1k7sq4q/the_origins_of_the_project_serpo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1k7sq4q/the_origins_of_the_project_serpo_story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/ufoThe Serpo story first appeared online in late 2005, when a series of strange, anonymous emails started landing in the inboxes of UFO...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/](https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t seems pretty far fetched, but I am intrigued by it. Do you...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/7x47x9/project_serpo_fact_or_fiction_various/](https://www.reddit.com/r/HighStrangeness/comments/7x47x9/project_serpo_fact_or_fiction_various/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/7x47x9/project_serpo_fact_or_fiction_various/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/7x47x9/project_serpo_fact_or_fiction_various/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: fact or fiction? (various): r/HighStrangenessVictor Martinez, the e-mail information coordinator, is a former federal emp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/](https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TTSA and Project Serpo Connection: r/ufoThe first mention of a &#x27;Project Serpo&#x27; was in a UFO email list maintained by enthusiast Vict...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt](https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lved with secret UFO investigation and contact with extraterrestrials.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm](https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Statement on Project SerpoBefore I go into the details of Project Serpo, let me explain that I&#x27;ve been a recipient of Vict...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nostradamus.fandom.com  
-   Link: [https://nostradamus.fandom.com/wiki/Project_Serpo](https://nostradamus.fandom.com/wiki/Project_Serpo)  
+   Link: <a href="https://nostradamus.fandom.com/wiki/Project_Serpo" target="_blank" rel="noopener noreferrer nofollow">https://nostradamus.fandom.com/wiki/Project_Serpo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nostradamus WikiProject Serpo | Nostradamus Wiki - FandomAccording to the most common version of the story, an alien survived a crash nea...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/369033872/doty-serpo-pdf](https://www.scribd.com/document/369033872/doty-serpo-pdf)  
+   Link: <a href="https://www.scribd.com/document/369033872/doty-serpo-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/369033872/doty-serpo-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty Serpo PDF | PDF | Defense Intelligence AgencyAnonymous Witness Report: Describes insights from a retired special agent about their e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: info-quest.org  
-   Link: [https://www.info-quest.org/documents/alienexchange.html](https://www.info-quest.org/documents/alienexchange.html)  
+   Link: <a href="https://www.info-quest.org/documents/alienexchange.html" target="_blank" rel="noopener noreferrer nofollow">https://www.info-quest.org/documents/alienexchange.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledANONYMOUS Subject: [exopolitics] More on Project Serpo... Subject: [exopolitics] Richard Doty and Project Serpo: &quot;Public Acclima...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/](https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/)  
+   Link: <a href="https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/</a>  
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/160417125/The-SERPO-Proect](https://www.scribd.com/document/160417125/The-SERPO-Proect)  
+   Link: <a href="https://www.scribd.com/document/160417125/The-SERPO-Proect" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160417125/The-SERPO-Proect</a>  
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
    Title: project serpo the exchange program between humans and aliens c0e8386da4f2  
-   Link: [https://medium.com/%40katejohanson10/project-serpo-the-exchange-program-between-humans-and-aliens-c0e8386da4f2](https://medium.com/%40katejohanson10/project-serpo-the-exchange-program-between-humans-and-aliens-c0e8386da4f2)  
+   Link: <a href="https://medium.com/%40katejohanson10/project-serpo-the-exchange-program-between-humans-and-aliens-c0e8386da4f2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katejohanson10/project-serpo-the-exchange-program-between-humans-and-aliens-c0e8386da4f2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Exchange Program Between Humans and AliensIn 2005, an anonymous source sent a series of emails to a UFO Discussion Group led by forme...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: anomalien.com  
    Title: project serpo the secret exchange between aliens and humans  
-   Link: [https://anomalien.com/project-serpo-the-secret-exchange-between-aliens-and-humans/](https://anomalien.com/project-serpo-the-secret-exchange-between-aliens-and-humans/)  
+   Link: <a href="https://anomalien.com/project-serpo-the-secret-exchange-between-aliens-and-humans/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/project-serpo-the-secret-exchange-between-aliens-and-humans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: The Secret Exchange Between Aliens and...13 Nov 2020 — In 2005, an anonymous source sent a series of emails to a UFO Disc...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: unofficialtexmurphy.com  
-   Link: [https://unofficialtexmurphy.com/viewtopic.php?t=541](https://unofficialtexmurphy.com/viewtopic.php?t=541)  
+   Link: <a href="https://unofficialtexmurphy.com/viewtopic.php?t=541" target="_blank" rel="noopener noreferrer nofollow">https://unofficialtexmurphy.com/viewtopic.php?t=541</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>real with 1-18 pages of Serpo Project if anyone heard of it on it due it a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hybridsrising.com  
    Title: Project SERPO-The Gift That Keeps on Giving  
-   Link: [https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html](https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html)  
+   Link: <a href="https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html" target="_blank" rel="noopener noreferrer nofollow">https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fake videos with images of UFOs and “aliens.” An example of one widely spread hoax is the faked alien “photograph” related to Project SER...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ufodigest.com  
    Title: UFO Digest THE LATE, GREAT PLANET SERPO  
-   Link: [https://www.ufodigest.com/article/the-late-great-planet-serpo-part-ii/](https://www.ufodigest.com/article/the-late-great-planet-serpo-part-ii/)  
+   Link: <a href="https://www.ufodigest.com/article/the-late-great-planet-serpo-part-ii/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/the-late-great-planet-serpo-part-ii/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE LATE, GREAT PLANET SERPO - PART IISep 7, 2014 — The postings were to Internet forums that cover conspiracy theories and UFOs, and a c...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theedgeofreality.proboards.com  
    Title: project serpo human exchange program  
-   Link: [https://theedgeofreality.proboards.com/thread/3501/project-serpo-human-exchange-program](https://theedgeofreality.proboards.com/thread/3501/project-serpo-human-exchange-program)  
+   Link: <a href="https://theedgeofreality.proboards.com/thread/3501/project-serpo-human-exchange-program" target="_blank" rel="noopener noreferrer nofollow">https://theedgeofreality.proboards.com/thread/3501/project-serpo-human-exchange-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SERPO: THE HUMAN/ALIEN EXCHANGE...May 5, 2013 — “Anonymous” introduced an UFO Internet thread list to Victor Martinez in 2005, 2006, 200...</p></details>
-   Published: May 5, 2013  
+   Published: May 5, 2013

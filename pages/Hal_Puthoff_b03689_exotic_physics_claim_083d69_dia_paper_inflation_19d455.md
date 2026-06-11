@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /exotic-physics/
 nav_short_title: DIA paper list
 title: Did Pentagon papers prove exotic propulsion?
-title_full: Did Pentagon papers prove exotic propulsion? | Exotic Physics
+title_full: Did Pentagon papers prove exotic propulsion?
 display_title_short: DIA paper list
 display_title: DIA paper list
 heading_title: Did Pentagon papers prove exotic propulsion?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Physics Ends and Speculation Begins | Puthoff
+parent_title: Where Physics Ends and Speculation Begins
 parent_permalink: /exotic-physics/
 parent_nav_short_title: Exotic Physics
 parent_heading_title: Where Physics Ends and Speculation Begins
@@ -253,7 +253,7 @@ next_link:
   permalink: /vacuum-propulsion/
   short_title: Vacuum propulsion
   heading_title: Can vacuum physics really explain UAP propulsion?
-date: '2026-06-09 03:01:30 '
+date: '2026-06-11 21:06:25 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_i
 ## Introduction
 
 The much-circulated list of 38 Defence Intelligence Reference Documents (DIRDs) is one of the most frequently cited pieces of evidence used to argue that the Pentagon took exotic propulsion, warp drives, wormholes, antigravity-like concepts, and other frontier physics seriously. In a narrow sense, that claim is true. The documents were real, they were produced under a Defence Intelligence Agency-linked programme, and several were written by scientists associated with [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})'s professional network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1-dark.svg" | relative_url }}" alt="DIA paper list illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The more important question is whether those papers proved that such technologies exist, explain UAP, or were based on recovered non-human systems. The public evidence does not support those stronger conclusions. The papers show official interest in speculative aerospace concepts and possible future technologies. They do not demonstrate that the concepts worked, that they were experimentally validated, or that they explained any specific UAP case. Much of the controversy around Hal Puthoff's credibility comes from the gap between those two very different claims.
@@ -275,7 +274,6 @@ The DIRDs emerged from the Advanced Aerospace Weapon System Applications Program
 For supporters of Puthoff, the significance is straightforward. These were not random internet essays. They were commissioned under a government contract and written by credentialed researchers. Puthoff himself authored the DIRD titled *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering*, which examined whether future manipulation of spacetime or vacuum energy might theoretically enable revolutionary propulsion systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 The existence of the documents therefore establishes several points that are often disputed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,6 @@ What the papers do *not* establish is equally important:
 
 The distinction sounds obvious, but much of the public debate collapses these categories together.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5MdkMMBoj5o" title="Physics of UAP/UFO, Alcubierre Warp Drives, &amp; Spacetime Metric Engineering with Dr. Matthew Szydagis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5MdkMMBoj5o" target="_blank" rel="noopener noreferrer">Physics of UAP/UFO, Alcubierre Warp Drives, &amp; Spacetime Metric Engineering with Dr. Matthew Szydagis</a></p><p class="youtube-embed-meta">Channel: Kent Bye &middot; Views: 163.8K &middot; Uploaded: June 2021 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5MdkMMBoj5o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5MdkMMBoj5o">Open on YouTube</a></p></div></div></div>
 
 ## Why the paper titles create an illusion of proof
@@ -317,7 +314,6 @@ The same logic applies to the DIRDs.
 
 In online UAP discussions, a common rhetorical move is:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The Pentagon funded a paper about warp drives.
@@ -329,7 +325,6 @@ In online UAP discussions, a common rhetorical move is:
 Each step adds an inference that is not contained in the original evidence.
 
 The document trail supports step one. It does not independently establish steps two or three.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-2-dark.svg" | relative_url }}" alt="DIA paper list illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Puthoff's role gets amplified
@@ -344,7 +339,6 @@ A researcher can be respected enough to receive funding for an exploratory study
 
 Critics argue that Puthoff's reputation sometimes benefits from a subtle shift in presentation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A speculative paper becomes described as a Pentagon study.
@@ -358,9 +352,7 @@ Those stages are not equivalent.
 
 The strongest evidence from the DIRDs is that Puthoff occupied a position where unconventional ideas received official attention. The weakest leap is the claim that this attention validates the extraordinary interpretations frequently attached to UAP.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFmjBqbXOkw" title="UAP, AATIP &amp; Gravitomagnetic Propulsion | Gary Stephenson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFmjBqbXOkw" target="_blank" rel="noopener noreferrer">UAP, AATIP &amp; Gravitomagnetic Propulsion | Gary Stephenson</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 18.7K &middot; Uploaded: August 2022 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFmjBqbXOkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFmjBqbXOkw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-dark.svg" | relative_url }}" alt="DIA paper list illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AARO's peer-review caveat matters
 
 The most significant official pushback came from the All-domain Anomaly Resolution Office (AARO).
@@ -381,8 +373,8 @@ AARO's language effectively places the DIRDs in a specific category:
 
 For readers trying to assess Puthoff's credibility, that is an important distinction. The documents support the claim that he participated in defence-linked research on advanced concepts. They do not support the claim that his preferred propulsion concepts have been experimentally confirmed.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFmjBqbXOkw" title="UAP, AATIP &amp; Gravitomagnetic Propulsion | Gary Stephenson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFmjBqbXOkw" target="_blank" rel="noopener noreferrer">UAP, AATIP &amp; Gravitomagnetic Propulsion | Gary Stephenson</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 18.7K &middot; Uploaded: August 2022 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFmjBqbXOkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFmjBqbXOkw">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-dark.svg" | relative_url }}" alt="DIA paper list illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The broader credibility question
 
 The DIRD catalogue is often presented as a hidden treasure trove proving that governments secretly know far more about [exotic physics]({{ 'exotic-physics/' | relative_url }}) than they admit publicly.
@@ -396,10 +388,6 @@ Sceptics see something different. They argue that the DIRDs resemble a collectio
 The strongest evidence-based conclusion lies between those positions.
 
 The DIA-linked paper list demonstrates genuine official interest in exotic aerospace concepts and confirms that Hal Puthoff played a role in that ecosystem. It does not demonstrate that warp drives, spacetime engineering, negative mass propulsion, or related concepts explain UAP. The main credibility risk comes not from the existence of the papers, but from the tendency to treat exploratory government-funded research as if it were proof of extraordinary technological realities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Defense_Intelligence_Agency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Defense Intelligence Agency</span><span class="citation-popover-snippet">Defense Intelligence AgencyThe Defense Intelligence Agency (DIA) is an intelligence agency and combat support agency of the United Sta...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -518,15 +506,15 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prove Yourself Inspirational Quote Print Blue Watercolour Poster"><img src="{{ '/assets/images/marketplace-covers/71da741d8b0718bd7d67.jpg' | relative_url }}" alt="Listing image for Prove Yourself Inspirational Quote Print Blue Watercolour Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft Model Kit Revell 04544 Space Shuttle Atlantis 1:144 Scale Complete"><img src="https://i.ebayimg.com/images/g/EiUAAeSwLqJp9gFg/s-l225.jpg" alt="Listing image for Spacecraft Model Kit Revell 04544 Space Shuttle Atlantis 1:144 Scale Complete" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prove Yourself Inspirational Quote Print Blue Watercolour Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Spacecraft Model Kit Revell 04544 Space Shuttle Atlantis 1:144 Scale Complete</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prove poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: prove poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +522,15 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prove yourself Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1d1a12bc76d695d8886a.jpg' | relative_url }}" alt="Listing image for Prove yourself Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model"><img src="https://i.ebayimg.com/images/g/nGAAAeSwwplp3h4Y/s-l225.jpg" alt="Listing image for Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prove yourself Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Saturn V Rocket Model Kit – Apollo NASA Space Rocket – Detailed Display Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prove poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: prove poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +538,15 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c78a7af4a0add57f9b1b.jpg' | relative_url }}" alt="Listing image for Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AOSHIMA 1/600 SPACE RUNAWAY IDEON ROGG-MACK VINTAGE PLASTIC MODEL KIT"><img src="https://i.ebayimg.com/images/g/A6YAAeSw6RNqKBgW/s-l225.jpg" alt="Listing image for AOSHIMA 1/600 SPACE RUNAWAY IDEON ROGG-MACK VINTAGE PLASTIC MODEL KIT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">AOSHIMA 1/600 SPACE RUNAWAY IDEON ROGG-MACK VINTAGE PLASTIC MODEL KIT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prove poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: prove poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +554,15 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c1fbcd510413cbf6b9fa.jpg' | relative_url }}" alt="Listing image for Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-15 A-2 Space Shuttle Special Hobby 1:48 Plastic Model Kit"><img src="https://i.ebayimg.com/images/g/jEYAAeSwM-tqKbjC/s-l225.jpg" alt="Listing image for X-15 A-2 Space Shuttle Special Hobby 1:48 Plastic Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Prove Them Wrong Ultra Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">X-15 A-2 Space Shuttle Special Hobby 1:48 Plastic Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for prove poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: prove poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,7 +570,7 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=prove+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="prove poster -book -books -dvd" data-ebay-reference="dia-paper-list-did-pentagon-papers-prove-exotic-propulsion-hal-puthoff-prove-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-pentagon-papers-prove-exotic-propulsion-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="did-pentagon-papers-prove-exotic-propulsion-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -798,105 +786,105 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — These scientific papers were never thoroughly peer re...</p></details>
    Published: March 9, 2024  
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The AARO report points out that UAP sightings and beliefs tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/](https://www.dia.mil/)  
+   Link: <a href="https://www.dia.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Electronic Reading RoomThis page is designed to allow access to records which have been previously released under the provisions of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Mass Propulsion3 Jan 2011 — The Defense Intelligence Reference Document provides non-substantive but authoritative reference inf...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dia.org  
-   Link: [https://dia.org/](https://dia.org/)  
+   Link: <a href="https://dia.org/" target="_blank" rel="noopener noreferrer nofollow">https://dia.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detroit Institute of Arts MuseumThe DIA connects people to art with programs, resources, and a diverse collection—among the top six in th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Defense Intelligence Agency  
-   Link: [https://en.wikipedia.org/wiki/Defense_Intelligence_Agency](https://en.wikipedia.org/wiki/Defense_Intelligence_Agency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Defense_Intelligence_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defense_Intelligence_Agency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyThe Defense Intelligence Agency (DIA) is an intelligence agency and combat support agency of the United Sta...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500420001-2.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500420001-2.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500420001-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500420001-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOVIET AND CZECHSLOVAKIAN PARAPSYCHOLOGY...AGENCY. AMERICA. DEFENSE INTELLIGENCE AGENCY. SOVIET AND CZECHOSLOVAKIAN. PARAPSYCHOLOGY RESE...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechThe Advanced Aerospace Weapon System Applications Program (AAWSAP) and Advanced Aerospace Threat Identificati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: diaglobal.org  
-   Link: [https://www.diaglobal.org/](https://www.diaglobal.org/)  
+   Link: <a href="https://www.diaglobal.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.diaglobal.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drug Information Association: The Global Network for Health...DIA is a global association that mobilizes life science professionals from...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 06 DIRD Space Access Where Weve Been and Where We Could Go  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Reference Document Space AccessAll of the material, structural, and thermodynamic details related to the sharper configurati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: governmentattic.org  
-   Link: [https://www.governmentattic.org/8docs/DIArbcwiw_1983-016.pdf](https://www.governmentattic.org/8docs/DIArbcwiw_1983-016.pdf)  
+   Link: <a href="https://www.governmentattic.org/8docs/DIArbcwiw_1983-016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/8docs/DIArbcwiw_1983-016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Description of document: Defense Intelligence Agency report, Reference Book on. Chemical Warfare Information (Worldwide), 31 January. 198...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — a DIA contract, known as the Advanced Aerospace Weapon System. Applications Program (AAWSAP), to ge...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Phenomena (UAP) encounter. Research into reported UAP...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a6Wud0LzFQY](https://www.youtube.com/watch?v=a6Wud0LzFQY)  
+   Link: <a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6Wud0LzFQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics of UAP/UFO, Alcubierre Warp Drives, &amp; Spacetime Metric Engineering with Dr. Matthew Szydagis...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newspaceeconomy.ca  
    Title: UAP Declassified: An Objective Look at the U.S  
-   Link: [https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/](https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/23/uap-declassified-an-objective-look-at-the-u-s-governments-official-data-from-aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s...23 Sept 2025 — Congress tasked AARO with scouring archives, conducting interviews, and delivering a definitive historical...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: defence intelligence reference documents DIRDs  
-   Link: [https://archive.org/details/defence-intelligence-reference-documents_DIRDs](https://archive.org/details/defence-intelligence-reference-documents_DIRDs)  
+   Link: <a href="https://archive.org/details/defence-intelligence-reference-documents_DIRDs" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/defence-intelligence-reference-documents_DIRDs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Refence Documents / DIRDs: various15 Jun 2023 — A series of Defense Intelligence Reference Documents (DIRDs.) To lo...</p></details>

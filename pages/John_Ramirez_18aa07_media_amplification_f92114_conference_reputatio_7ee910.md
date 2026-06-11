@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-reach/
 nav_short_title: Conference Halo
 title: What conference billing can and cannot prove
-title_full: What conference billing can and cannot prove | Media Reach
+title_full: What conference billing can and cannot prove
 display_title_short: Conference Halo
 display_title: Conference Halo
 heading_title: What conference billing can and cannot prove
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How UFO Media Built His Profile | Ramirez
+parent_title: How UFO Media Built His Profile
 parent_permalink: /media-reach/
 parent_nav_short_title: Media Reach
 parent_heading_title: How UFO Media Built His Profile
@@ -247,7 +247,7 @@ next_link:
   permalink: /gaia-framing/
   short_title: Gaia Framing
   heading_title: Does polished streaming make claims stronger?
-date: '2026-06-09 02:59:31 '
+date: '2026-06-11 21:05:11 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_
 
 ## Introduction
 
-[John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s visibility in the UFO/UAP world has not come primarily from formal hearings, published investigations or documentary releases. It has grown through a conference circuit that places him alongside former military personnel, intelligence-linked figures, experiencers, documentary filmmakers, abductee researchers, disclosure activists and long-time UFO personalities. In that setting, audience perception can be shaped as much by association as by evidence.
-
+John Ramirez’s visibility in the UFO/UAP world has not come primarily from formal hearings, published investigations or documentary releases. It has grown through a conference circuit that places him alongside former military personnel, intelligence-linked figures, experiencers, documentary filmmakers, abductee researchers, disclosure activists and long-time UFO personalities. In that setting, audience perception can be shaped as much by association as by evidence.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-1-dark.svg" | relative_url }}" alt="Conference Halo illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to assess Ramirez’s credibility, conference appearances matter for a specific reason: they can expand influence without necessarily adding verification. Being invited onto a conference stage may indicate that organisers believe a speaker will attract interest, but it does not automatically confirm the accuracy of that speaker’s claims. The distinction becomes especially important in a UFO event culture where participants often have very different evidential standards, backgrounds and track records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_UFO_Conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Conference</span><span class="citation-popover-snippet">National UFO Conference</span></span></span>
@@ -270,7 +269,6 @@ In Ramirez's case, conference organisers frequently introduce him through his pu
 
 That background gives him a stronger institutional profile than many conference speakers. However, conference billing does not establish that his UFO-related claims were obtained through official duties, nor does it demonstrate that those claims have been independently verified. The audience is often presented with both facts and inferences at the same time:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A verifiable point: Ramirez held intelligence-community positions and later became active in UFO media.
@@ -280,7 +278,6 @@ That background gives him a stronger institutional profile than many conference 
 </div>
 
 When these elements are presented together in a conference setting, many attendees may naturally treat them as parts of one evidential package even when they are supported by different levels of documentation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V0MxcIULCdk" title="11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V0MxcIULCdk" target="_blank" rel="noopener noreferrer">11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 31.6K &middot; Uploaded: November 2022 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V0MxcIULCdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V0MxcIULCdk">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +298,6 @@ Conference appearances help broaden his audience in several ways:
 **Access to disclosure-oriented audiences.** Many UFO conferences attract attendees who already suspect government secrecy around UFOs. Within that environment, a retired intelligence officer can receive attention simply by appearing to confirm existing expectations.
 
 This dynamic helps explain why Ramirez became a familiar name within UFO circles despite the absence of a single defining case, document release or whistleblower filing tied specifically to him.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-2-dark.svg" | relative_url }}" alt="Conference Halo illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why mixed line-ups blur evidentiary thresholds
@@ -324,7 +320,6 @@ Ramirez's public presentations illustrate this tension. Discussions associated w
 
 Conference formats rarely separate those categories with the rigour expected in journalism, intelligence analysis or academic review. As a result, audiences may absorb a broad sense of credibility without a clear map of which claims are supported and which remain speculative.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spPi05s6TKk" title="Ex-CIA Officer Reveals: Alien Technology Is 1,000 Years Beyond Our Imagination!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spPi05s6TKk" target="_blank" rel="noopener noreferrer">Ex-CIA Officer Reveals: Alien Technology Is 1,000 Years Beyond Our Imagination!</a></p><p class="youtube-embed-meta">Channel: X-File Findings &middot; Views: 106 &middot; Uploaded: October 2025 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spPi05s6TKk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spPi05s6TKk">Open on YouTube</a></p></div></div></div>
 
 ## The conference halo effect around intelligence credentials
@@ -340,7 +335,6 @@ For [supporters]({{ 'supporters-124489/' | relative_url }}), Ramirez's intellige
 For [sceptics]({{ 'sceptics-70c753/' | relative_url }}), the same dynamic creates a risk of over-reading credentials. They argue that expertise in intelligence work does not automatically confer expertise in alien biology, UFO propulsion, hybridisation theories or future disclosure forecasts.
 
 The credibility question therefore becomes narrower than many conference discussions suggest: does Ramirez's professional background provide evidence for his specific UFO claims, or does it mainly make those claims more attention-grabbing?
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-3-dark.svg" | relative_url }}" alt="Conference Halo illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_conference_reputatio_7ee910-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Influence versus verification in UFO events
@@ -359,9 +353,7 @@ What it cannot demonstrate by itself is that his more extraordinary claims are a
 
 The strongest evidence regarding Ramirez still comes from verifiable aspects of his career and public record. The weakest areas remain the claims that depend on unnamed sources, indirect knowledge, personal interpretation or speculative frameworks. UFO conferences tend to place all of those elements into the same public presentation, which is why reputational blending has become such a significant part of understanding his place in modern UFO discourse.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c-Ujo0EVRxk" title="Geolocation: Episode 143" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c-Ujo0EVRxk" target="_blank" rel="noopener noreferrer">Geolocation: Episode 143</a></p><p class="youtube-embed-meta">Channel: josemonkey &middot; Views: 1.2K &middot; Uploaded: August 2023 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c-Ujo0EVRxk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c-Ujo0EVRxk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -480,15 +472,15 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +488,15 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +504,15 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +520,15 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +536,7 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="conference-halo-what-conference-billing-can-and-cannot-prove-john-ramirez-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-conference-billing-can-and-cannot-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-conference-billing-can-and-cannot-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,136 +752,136 @@ The strongest evidence regarding Ramirez still comes from verifiable aspects of 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: National UFO Conference  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Conference](https://en.wikipedia.org/wiki/National_UFO_Conference)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Conference" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Conference</a>  
 
 2. <a id="endnote-2"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired](https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting... Leave Us a Voicemail...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer John Ramirez On UFOs & Aliensr/aliens  
-   Link: [https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Event rumours - John Ramirez... r/aliens - Serious US Department of War releases UFO and potential alien life files.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/](https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rograms, etc. r/UFOs. •...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: John Lear  
-   Link: [https://en.wikipedia.org/wiki/John_Lear](https://en.wikipedia.org/wiki/John_Lear)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_Lear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lear</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=V0MxcIULCdk](https://www.youtube.com/watch?v=V0MxcIULCdk)  
+   Link: <a href="https://www.youtube.com/watch?v=V0MxcIULCdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V0MxcIULCdk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the...Martin was the keynote speaker at the Pine Bush, UFO Conference in 2022.... 11-2...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SGK1fpUx84g](https://www.youtube.com/watch?v=SGK1fpUx84g)  
+   Link: <a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.youtube.com/watch?v=nS_Insp7i_Y](https://www.youtube.com/watch?v=nS_Insp7i_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: 12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA & More  
-   Link: [https://www.youtube.com/watch?v=Ku9GsJ94Dt4](https://www.youtube.com/watch?v=Ku9GsJ94Dt4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WARNING: CIA Insider Reveals the 2027 Arrival Date...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=spPi05s6TKk](https://www.youtube.com/watch?v=spPi05s6TKk)  
+   Link: <a href="https://www.youtube.com/watch?v=spPi05s6TKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spPi05s6TKk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geolocation: Episode 143...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Geolocation: Episode 143  
-   Link: [https://www.youtube.com/watch?v=c-Ujo0EVRxk](https://www.youtube.com/watch?v=c-Ujo0EVRxk)  
+   Link: <a href="https://www.youtube.com/watch?v=c-Ujo0EVRxk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c-Ujo0EVRxk</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/KF1fzxg07p0?t=135](https://youtu.be/KF1fzxg07p0?t=135)  
+   Link: <a href="https://youtu.be/KF1fzxg07p0?t=135" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/KF1fzxg07p0?t=135</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>says Ret. CIA Officer John...22 Dec 2022 — 1605743307669192704 #ufoscoop #ufotwitter #luiselizondo #LuisElizondo #uap #ufo #skinwalker #...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/274408531587/posts/10160778147556588/](https://www.facebook.com/groups/274408531587/posts/10160778147556588/)  
+   Link: <a href="https://www.facebook.com/groups/274408531587/posts/10160778147556588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/274408531587/posts/10160778147556588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTACT in the DESERTBREAKING (well earlier on): President Directs Release of UFO/Alien Files – What This Really Means The Post That&#x27;s Br...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1824271954968461/posts/2018029215592733/](https://www.facebook.com/groups/1824271954968461/posts/2018029215592733/)  
+   Link: <a href="https://www.facebook.com/groups/1824271954968461/posts/2018029215592733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1824271954968461/posts/2018029215592733/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Name the UFOlogists from the 2010 Pontefract UFO...Name the UFOlogists from the 2010 Pontefract UFO Conference...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtu.be  
    Title: 8ZHWc Mndj KI  
-   Link: [https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi](https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi)  
+   Link: <a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets. 32K...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RegentTheaterLA/posts/former-us-department-of-defense-insider-luis-elizondo-brings-his-persona-non-gra/1307587041466431/](https://www.facebook.com/RegentTheaterLA/posts/former-us-department-of-defense-insider-luis-elizondo-brings-his-persona-non-gra/1307587041466431/)  
+   Link: <a href="https://www.facebook.com/RegentTheaterLA/posts/former-us-department-of-defense-insider-luis-elizondo-brings-his-persona-non-gra/1307587041466431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RegentTheaterLA/posts/former-us-department-of-defense-insider-luis-elizondo-brings-his-persona-non-gra/1307587041466431/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former U.S. Department of Defense insider Luis Elizondo...q=luis%20elizondo%20book&amp;tbm=nw s&amp;source=sh/x/gs/m2/5 K #joerogan #LuisElizond...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PsMikeSignorelli/posts/the-ufouap-files-have-been-released-and-once-again-the-internet-is-obsessed-with/1543088473841091/](https://www.facebook.com/PsMikeSignorelli/posts/the-ufouap-files-have-been-released-and-once-again-the-internet-is-obsessed-with/1543088473841091/)  
+   Link: <a href="https://www.facebook.com/PsMikeSignorelli/posts/the-ufouap-files-have-been-released-and-once-again-the-internet-is-obsessed-with/1543088473841091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsMikeSignorelli/posts/the-ufouap-files-have-been-released-and-once-again-the-internet-is-obsessed-with/1543088473841091/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike SignorelliBut does it say that it has anything to do with aliens or UFOs? • Could there be any sort of pattern to UFO sightings that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DY-tTrkmeqS/](https://www.instagram.com/p/DY-tTrkmeqS/)  
+   Link: <a href="https://www.instagram.com/p/DY-tTrkmeqS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY-tTrkmeqS/</a>  
 
 21. <a id="endnote-21"></a>
    Source: gaia.com  
    Title: Watch John Ramirez: CIA Agent's Close Encounters The CIA's UFO Admission Video  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Phenomena: The History of UFOs · The CIA&#x27;s UFO Admission. S2:Ep1 14 mins. CIA UFO Document Dump Video. Gaia News · CIA UFO...Read...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf](https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf)  
+   Link: <a href="https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t encounters, animal mutilations, government cover-ups, alleged alien abductions...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW_nzZcBf6e/](https://www.instagram.com/reel/DW_nzZcBf6e/)  
+   Link: <a href="https://www.instagram.com/reel/DW_nzZcBf6e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW_nzZcBf6e/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is your take on UFO disclosure? I do see a purpose for a slow titration of...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: One of the world's largest UFO conferences is returning  
-   Link: [https://www.facebook.com/nbcpalmsprings/posts/the-roggin-report-one-of-the-worlds-largest-ufo-conferences-is-returning-to-indi/1405153594967118/](https://www.facebook.com/nbcpalmsprings/posts/the-roggin-report-one-of-the-worlds-largest-ufo-conferences-is-returning-to-indi/1405153594967118/)  
+   Link: <a href="https://www.facebook.com/nbcpalmsprings/posts/the-roggin-report-one-of-the-worlds-largest-ufo-conferences-is-returning-to-indi/1405153594967118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcpalmsprings/posts/the-roggin-report-one-of-the-worlds-largest-ufo-conferences-is-returning-to-indi/1405153594967118/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#ufos #ufo #aliens #alien #ufology #ufosighting #area #ufologia #ufosightings #ovnis #ovni #extraterrestrial #ancientaliens #ufofiles #...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DLIQOR3s4QT/](https://www.instagram.com/p/DLIQOR3s4QT/)  
+   Link: <a href="https://www.instagram.com/p/DLIQOR3s4QT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLIQOR3s4QT/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rogan #UAP #UFO #Aliens #AlienTechnology #JRE #Podcast #Space...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ebrd.com  
    Title: supplementary biodiversity baseline assessment  
-   Link: [https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/comms-and-bis/supplementary-biodiversity-baseline-assessment.pdf](https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/comms-and-bis/supplementary-biodiversity-baseline-assessment.pdf)  
+   Link: <a href="https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/comms-and-bis/supplementary-biodiversity-baseline-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/comms-and-bis/supplementary-biodiversity-baseline-assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2019 —... Alien Invasive Vascular Plant Species... speaker. The methodology used during the field survey combined both walkover t...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /statements/
 nav_short_title: MJ 12 papers
 title: Why MJ 12 Is Doty's Document Problem
-title_full: Why MJ 12 Is Doty's Document Problem | Statements
+title_full: Why MJ 12 Is Doty's Document Problem
 display_title_short: MJ 12 papers
 display_title: MJ 12 papers
 heading_title: Why MJ 12 Is Doty's Document Problem
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Consistent Are Doty's Public Stories? | Doty
+parent_title: How Consistent Are Doty's Public Stories?
 parent_permalink: /statements/
 parent_nav_short_title: Statements
 parent_heading_title: How Consistent Are Doty's Public Stories?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /claim-boundaries/
   short_title: Claim boundaries
   heading_title: Where Does Doty's Story Change Shape?
-date: '2026-06-09 02:55:03 '
+date: '2026-06-11 21:03:01 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_proven
 
 ## Introduction
 
-The Majestic 12, or MJ-12, papers sit at the centre of one of the longest-running document disputes in UFO history. They are important to [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s credibility because they illustrate a recurring problem in his public role: claims presented with an insider flavour often arrive with weak, disputed or broken chains of custody. In other words, readers are asked to trust the source before the source has established where the material came from.
-
+The Majestic 12, or MJ-12, papers sit at the centre of one of the longest-running document disputes in UFO history. They are important to Richard Doty’s credibility because they illustrate a recurring problem in his public role: claims presented with an insider flavour often arrive with weak, disputed or broken chains of custody. In other words, readers are asked to trust the source before the source has established where the material came from.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1-dark.svg" | relative_url }}" alt="MJ 12 papers illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [supporters]({{ 'supporters/' | relative_url }}) of UFO disclosure, the MJ-12 papers are sometimes treated as early evidence of a hidden government programme dealing with recovered craft and non-human technology. For critics, they are a textbook example of why provenance matters more than dramatic content. Doty becomes relevant because his name appears repeatedly around the wider ecosystem that promoted, discussed or allegedly circulated MJ-12-related material, even while he has acknowledged involvement in UFO-related disinformation operations during the same era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
@@ -272,15 +271,13 @@ Doty's credibility becomes entangled with that debate because he was already lin
 
 For many observers, MJ-12 is therefore not simply a question of whether a secret committee existed. It is a test case for whether claims associated with Doty can be independently traced, verified and separated from known disinformation activity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3IO_yW4Zpg" title="Majestic 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer">Majestic 12</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 30.0K &middot; Uploaded: September 2014 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3IO_yW4Zpg">Open on YouTube</a></p></div></div></div>
 
 ## What the MJ-12 Papers Claimed
 
-The most famous MJ-12 papers, including the so-called [Eisenhower Briefing]({{ 'eisenhower-papers/' | relative_url }}) Document, described a highly classified group allegedly formed under President Harry Truman. According to the documents, this committee oversaw investigations into crashed flying saucers, recovered debris and non-human occupants. The papers named senior military officers, scientists and government officials as members of the alleged programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesThe documents told of UFOs crashes at Roswell, surviving aliens, MJ-12, and a UFO cover-up.... footage of a ho...</span></span></span>
+The most famous MJ-12 papers, including the so-called Eisenhower Briefing Document, described a highly classified group allegedly formed under President Harry Truman. According to the documents, this committee oversaw investigations into crashed flying saucers, recovered debris and non-human occupants. The papers named senior military officers, scientists and government officials as members of the alleged programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesThe documents told of UFOs crashes at Roswell, surviving aliens, MJ-12, and a UFO cover-up.... footage of a ho...</span></span></span>
 
 These claims mattered because they appeared to provide documentary support for several major UFO narratives:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +290,6 @@ These claims mattered because they appeared to provide documentary support for s
 </div>
 
 For believers, the papers seemed to offer what UFO research had long lacked: written records that looked official. For [sceptics]({{ 'sceptics/' | relative_url }}), the appearance of official language was never enough. They argued that authenticity depends on provenance, archival consistency, document history and forensic examination, not simply on classified styling or insider terminology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6fMNn4f07S8" title="Operation Majestic 12: The Document Leak That Spawned a Thousand Conspiracy Theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6fMNn4f07S8" target="_blank" rel="noopener noreferrer">Operation Majestic 12: The Document Leak That Spawned a Thousand Conspiracy Theories</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 134.9K &middot; Uploaded: November 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6fMNn4f07S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6fMNn4f07S8">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +307,6 @@ This is where Doty's broader credibility problem becomes relevant.
 
 His public image is built partly on insider access and partly on stories about hidden information channels. Yet provenance standards exist precisely because insider claims are difficult to verify. If a document's history cannot be established independently, then confidence in the document becomes dependent on confidence in the people promoting it. For a figure associated with admitted deception in UFO circles, that is a serious evidential weakness rather than a strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-2-dark.svg" | relative_url }}" alt="MJ 12 papers illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Doty, Linda Moulton Howe and the Insider Pipeline
 
@@ -324,7 +319,6 @@ Whether one interprets this episode as deliberate deception, intelligence manipu
 That distinction matters because later defenders of Doty sometimes argue that false information may have been mixed with genuine secrets. The problem is that such an argument weakens ordinary verification standards. Once a source is permitted to explain contradictions by invoking hidden layers of truth and deception, it becomes increasingly difficult to determine which claims deserve confidence and which do not.
 
 The MJ-12 controversy demonstrates that challenge in a particularly visible way. The documents became influential not because their origins were clear but because they appeared to come from somewhere important.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mxg-A0EKDIw" title="Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary | Alien Dominion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer">Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary | Alien Dominion</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 39.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mxg-A0EKDIw">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +338,6 @@ If a public figure's [authority]({{ 'authority/' | relative_url }}) rests partly
 * The source needs trustworthy documents to support his claims.
 
 Neither side fully resolves the weakness in the other.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-3-dark.svg" | relative_url }}" alt="MJ 12 papers illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why MJ-12 Still Matters in Assessing Doty
@@ -367,16 +360,16 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Directly intersects with MJ-12 controversies and questions around document provenance.</p>
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -384,16 +377,16 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Provides context for the information environment surrounding MJ-12 promotion.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,16 +394,16 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Strong framework for testing extraordinary document claims.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -418,16 +411,16 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Recent UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oEVi0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Recent UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
         </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+        <p class="fr-book-author">By Charles River</p>
         
-        <p class="fr-book-desc">Explains how disputed documents gain authority inside belief communities.</p>
+        <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -435,7 +428,7 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -472,15 +465,15 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Wall Print Art Poster Gift Vivid Unidentified Flying Object Conspiracy"><img src="{{ '/assets/images/marketplace-covers/d83dcf32345918db5e24.jpg' | relative_url }}" alt="Listing image for UFO Alien Wall Print Art Poster Gift Vivid Unidentified Flying Object Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Wall Print Art Poster Gift Vivid Unidentified Flying Object Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +481,15 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO/CONSPIRACY KILLS POSTER - DESIGNERS REPUBLIC - ICONIC - A3 - 29.8cm x 42.2cm"><img src="{{ '/assets/images/marketplace-covers/78dc0dfd89c45cc1b628.jpg' | relative_url }}" alt="Listing image for UFO/CONSPIRACY KILLS POSTER - DESIGNERS REPUBLIC - ICONIC - A3 - 29.8cm x 42.2cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO/CONSPIRACY KILLS POSTER - DESIGNERS REPUBLIC - ICONIC - A3 - 29.8cm x 42.2cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +497,15 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="{{ '/assets/images/marketplace-covers/668c2ae48edb9f618f04.jpg' | relative_url }}" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +513,15 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy"><img src="{{ '/assets/images/marketplace-covers/ccfa4937124d6cb6d226.jpg' | relative_url }}" alt="Listing image for UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Wall Print Art Poster Gift Unidentified Flying Object Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO conspiracy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO conspiracy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +529,7 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+conspiracy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO conspiracy poster -book -books" data-ebay-reference="mj-12-papers-why-mj-12-is-doty-s-document-problem-richard-doty-ufo-conspiracy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mj-12-is-doty-s-document-problem-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-mj-12-is-doty-s-document-problem-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,116 +745,116 @@ The result is that MJ-12 functions less as proof for or against extraterrestrial
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://en.wikipedia.org/wiki/Majestic_12](https://en.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesThe documents told of UFOs crashes at Roswell, surviving aliens, MJ-12, and a UFO cover-up.... footage of a ho...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Mystery of Majestic 12  
-   Link: [https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/](https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK14 May 2024 — Several government departments refuted their authenticity, the FBI declaring them “completely bogus.” The Natio...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 June 2024 — Majestic 12 or &quot;MJ-12&quot; Reference Report · The document was...</p></details>
    Published: June 2024  
 
 5. <a id="endnote-5"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/search?SearchableText=Majestic](https://vault.fbi.gov/search?SearchableText=Majestic)  
+   Link: <a href="https://vault.fbi.gov/search?SearchableText=Majestic" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=Majestic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>fbi.gov2 items matching your search termsMajestic 12 In 1988, two FBI offices received similar versions of a memo titled “Operation Majes...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view](https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view)  
+   Link: <a href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/view</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Part 01 (Final)Majestic 12 Part 01 (Final). Download PDF. — PDF document, 798 kB (818115 bytes). Document Viewer.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: muckrock.com  
    Title: fbi majestic 12  
-   Link: [https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/](https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/)  
+   Link: <a href="https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/news/archives/2017/jun/05/fbi-majestic-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Weary: FBI&#x27;s real-life &quot;X-Files&quot; document one of...5 Jun 2017 — The FBI file on Majestic-12 may be the Bureau&#x27;s most X-Filesy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIt prominently features Richard Doty, a retired special agent who worked... MJ Twelve&quot; memo mentioning...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.howstuffworks.com  
    Title: majestic 12  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm](https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1216 Apr 2024 — The document is believed to be a hoax, but the identity and motive of the perpetrator remain unknown. Jerome Clark. In th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: khouse.org  
    Title: majestic 12  
-   Link: [https://www.khouse.org/personal_update/articles/2003/majestic-12](https://www.khouse.org/personal_update/articles/2003/majestic-12)  
+   Link: <a href="https://www.khouse.org/personal_update/articles/2003/majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://www.khouse.org/personal_update/articles/2003/majestic-12</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12Mar 1, 2003 — A board of suitably qualified persons to be answerable directly and only to the President, to be known as Majest...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15q1ws8/eisenhower_briefing_document/](https://www.reddit.com/r/UFOs/comments/15q1ws8/eisenhower_briefing_document/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15q1ws8/eisenhower_briefing_document/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15q1ws8/eisenhower_briefing_document/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EISENHOWER BRIEFING DOCUMENT?: r/UFOsResearchers (like the late Stanton Friedman) maintain it is authentic, while the FBI marked its pa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/majestic](https://www.merriam-webster.com/dictionary/majestic)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/majestic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/majestic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJESTIC Definition &amp; Meaning4 days ago — The meaning of MAJESTIC is having or exhibiting majesty: stately. How to use majestic in a sen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iowastatedaily.com  
-   Link: [https://iowastatedaily.com/215762/uncategorized/majestic-12-and-the-ufo-cover-up/](https://iowastatedaily.com/215762/uncategorized/majestic-12-and-the-ufo-cover-up/)  
+   Link: <a href="https://iowastatedaily.com/215762/uncategorized/majestic-12-and-the-ufo-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/215762/uncategorized/majestic-12-and-the-ufo-cover-up/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12 and the UFO cover-upThe document fails to acknowledge an entire series of government documents dealing with the Roswell incid...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: classicalmidi.co.uk  
-   Link: [https://www.classicalmidi.co.uk/ufo/ufo6.htm](https://www.classicalmidi.co.uk/ufo/ufo6.htm)  
+   Link: <a href="https://www.classicalmidi.co.uk/ufo/ufo6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.classicalmidi.co.uk/ufo/ufo6.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO event, (1) as related from people&#x27;s own experiences.Howe states that Doty confirmed the existence of a secret government group called...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eyeofthepsychic.com  
-   Link: [https://www.eyeofthepsychic.com/majestic12/](https://www.eyeofthepsychic.com/majestic12/)  
+   Link: <a href="https://www.eyeofthepsychic.com/majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/majestic12/</a>  
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5](https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5)  
+   Link: <a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12: UFO Files That Shook and Divided the World...Allegedly a top-secret panel formed in 1947 by President Harry Truman, MJ-12 w...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: topsecret files leak again and majestic 12 officials are making moves no one can  
-   Link: [https://www.facebook.com/latrojasalsa/posts/topsecret-files-leak-again-and-majestic-12-officials-are-making-moves-no-one-can/1274597964855800/](https://www.facebook.com/latrojasalsa/posts/topsecret-files-leak-again-and-majestic-12-officials-are-making-moves-no-one-can/1274597964855800/)  
+   Link: <a href="https://www.facebook.com/latrojasalsa/posts/topsecret-files-leak-again-and-majestic-12-officials-are-making-moves-no-one-can/1274597964855800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latrojasalsa/posts/topsecret-files-leak-again-and-majestic-12-officials-are-making-moves-no-one-can/1274597964855800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TOP‑SECRET Files Leak Again — And Majestic 12...They include a 1952 briefing to President Eisenhower about the Majestic 12... New Majes...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=f_Vp_7Ilyg4](https://www.youtube.com/watch?v=f_Vp_7Ilyg4)  
+   Link: <a href="https://www.youtube.com/watch?v=f_Vp_7Ilyg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_Vp_7Ilyg4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Mirage Men](&amp;#123;&amp;#123; &#x27;mirage-men/&#x27; | relative_url &amp;#125;&amp;#125;) Full Documentary is directly relevant because it features former AFOSI agent Richard Doty detailing how fabricated files...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — that USAF considers both the MJ-12 group and its documents to be “bogus.” We...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pod.wave.co  
    Title: 610 majestic 12 secret documents expose ufo cover up vol 1  
-   Link: [https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1](https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1)  
+   Link: <a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wave.co610: Majestic 12 | Secret Documents Expose UFO Cover-Up...Sep 6, 2025 — Richard Doty, an Air Force OSI agent, was active in sowin...</p></details>

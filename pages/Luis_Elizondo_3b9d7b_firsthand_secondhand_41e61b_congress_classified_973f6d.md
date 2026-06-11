@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /source-trail/
 nav_short_title: Under Oath
 title: What can Congress test under secrecy?
-title_full: What can Congress test under secrecy? | Source Trail
+title_full: What can Congress test under secrecy?
 display_title_short: Under Oath
 display_title: Under Oath
 heading_title: What can Congress test under secrecy?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Elizondo Know First Hand? | Elizondo
+parent_title: What Did Elizondo Know First Hand?
 parent_permalink: /source-trail/
 parent_nav_short_title: Source Trail
 parent_heading_title: What Did Elizondo Know First Hand?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /secure-emails/
   short_title: Secure Emails
   heading_title: Can the missing Navy emails prove anything?
-date: '2026-06-09 02:54:16 '
+date: '2026-06-11 21:02:21 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s November 2024 Congressional testimony sits at the centre of a recurring problem in the modern UAP debate: how much weight should be given to claims made under oath when the evidence behind those claims is said to remain classified? His appearance before a House Oversight hearing raised the stakes because false statements to [Congress]({{ 'congress/' | relative_url }}) can carry serious consequences, and because lawmakers were formally examining allegations of hidden UAP programmes. Yet the hearing also highlighted a structural limitation. Many of Elizondo’s strongest claims rested not on publicly available documents or physical evidence, but on information he said could not be fully disclosed in an open session. The result is a debate in which Congress, journalists and the public are often asked to assess access, credibility and institutional position rather than directly inspect the underlying evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Press Release...</span></span></span>
-
+Luis Elizondo’s November 2024 Congressional testimony sits at the centre of a recurring problem in the modern UAP debate: how much weight should be given to claims made under oath when the evidence behind those claims is said to remain classified? His appearance before a House Oversight hearing raised the stakes because false statements to [Congress]({{ 'congress/' | relative_url }}) can carry serious consequences, and because lawmakers were formally examining allegations of hidden UAP programmes. Yet the hearing also highlighted a structural limitation. Many of Elizondo’s strongest claims rested not on publicly available documents or physical evidence, but on information he said could not be fully disclosed in an open session. The result is a debate in which Congress, journalists and the public are often asked to assess access, credibility and institutional position rather than directly inspect the underlying evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Press Release...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-1-dark.svg" | relative_url }}" alt="Under Oath illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension matters when evaluating Elizondo’s credibility. Supporters argue that sworn testimony from former officials should be treated differently from internet rumours or anonymous stories. Critics respond that testimony alone is not proof, particularly when the most extraordinary claims remain unavailable for independent verification. The classified-evidence problem sits directly between those positions.
@@ -269,7 +268,6 @@ At the House hearing titled *Unidentified Anomalous Phenomena: Exposing the Trut
 The hearing was significant because these claims were made within a formal Congressional setting rather than in a television interview, podcast or commercial media appearance. Members of Congress questioned witnesses in a public record, and written statements became part of official hearing materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Press Release...</span></span></span>
 
 However, the hearing also exposed an important distinction within Elizondo’s testimony: <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[oversight.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Elizondo</span><span class="citation-popover-snippet">Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Greetings, Chairwoman Mace, Chairman Grothman, Ranking Members. Connol...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +291,6 @@ The key question therefore becomes: what exactly is being sworn to?
 
 A witness can truthfully swear that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * They were told certain information.
@@ -306,7 +303,6 @@ A witness can truthfully swear that:
 Those statements are not identical to swearing that the underlying claim itself has been independently proven.
 
 For Elizondo, this distinction matters because much of the debate concerns what he says he learned through government access rather than what the public can directly examine.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k7NzR0payrs" title="FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer">FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 212.9K &middot; Uploaded: November 2024 &middot; Length: 2 hours 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k7NzR0payrs">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +320,6 @@ Critics argue that secrecy can also shield weak claims from scrutiny. If evidenc
 
 This problem becomes especially visible when discussing alleged recovered technologies or hidden programmes. Public audiences cannot easily determine:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Whether the underlying evidence exists.
@@ -336,7 +331,6 @@ This problem becomes especially visible when discussing alleged recovered techno
 </div>
 
 As a result, the debate often shifts away from evidence itself and towards judgments about institutional credibility.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-2-dark.svg" | relative_url }}" alt="Under Oath illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Congress faces a different problem from the public
@@ -361,7 +355,6 @@ In theory, Congress could become convinced by evidence that citizens never see. 
 
 That gap often frustrates both sides of the UAP debate. Disclosure advocates argue that oversight bodies should reveal more. Sceptics argue that public claims should not be treated as established until supporting evidence becomes available outside classified channels.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fvz6FW0sIow" title="UAP Witness Statements | November 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fvz6FW0sIow" target="_blank" rel="noopener noreferrer">UAP Witness Statements | November 2024</a></p><p class="youtube-embed-meta">Channel: IFLScience &middot; Views: 10.5K &middot; Uploaded: November 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fvz6FW0sIow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fvz6FW0sIow">Open on YouTube</a></p></div></div></div>
 
 ## The Pentagon response highlights the credibility gap
@@ -381,7 +374,6 @@ Because much of the disputed material is allegedly classified, neither side can 
 
 That is why the argument increasingly revolves around trust, access and credibility rather than transparent evidence. The disagreement is not simply about what happened. It is about who should be believed when the underlying material remains inaccessible.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-3-dark.svg" | relative_url }}" alt="Under Oath illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_congress_classified_973f6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What oversight would need to verify without revealing secrets
 
@@ -398,7 +390,6 @@ One witness can be mistaken. Multiple witnesses with direct access to the same m
 ### Technical review
 
 Claims about advanced technologies require expert evaluation. Engineers, intelligence specialists, aerospace scientists and programme auditors would need access to underlying material rather than summaries or second-hand descriptions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CHdnmqIW9k4" title="House Hearing on Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer">House Hearing on Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: The Union Herald &middot; Views: 108 &middot; Uploaded: November 2024 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CHdnmqIW9k4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CHdnmqIW9k4">Open on YouTube</a></p></div></div></div>
 
@@ -432,16 +423,16 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Addresses classified information, oversight and restricted disclosures.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -449,16 +440,16 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Explores how classified activities become public knowledge.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -466,16 +457,16 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Provides context for classified programs and oversight limitations.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -483,16 +474,16 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar System UAP 1013 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar System UAP 1013">Radar System UAP 1013</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses claims that depend on classified sources and insider testimony.</p>
+        
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -500,7 +491,7 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -537,15 +528,15 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TACTICAL PATCH - â€œYOU CANâ€™T KILL WHAT YOU CANâ€™T FINDâ€� 8x9CM ðŸª–SCRATCH"><img src="{{ '/assets/images/marketplace-covers/1275fe52ef33d49e2ea0.jpg' | relative_url }}" alt="Listing image for TACTICAL PATCH - â€œYOU CANâ€™T KILL WHAT YOU CANâ€™T FINDâ€� 8x9CM ðŸª–SCRATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer">TACTICAL PATCH - â€œYOU CANâ€™T KILL WHAT YOU CANâ€™T FINDâ€� 8x9CM ðŸª–SCRATCH</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what can patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: what can patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +544,15 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can I Do To P**s You Off Today iron on/sew on cloth patch (cp)"><img src="{{ '/assets/images/marketplace-covers/3abdb3fc029c3079e677.jpg' | relative_url }}" alt="Listing image for What Can I Do To P**s You Off Today iron on/sew on cloth patch (cp)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer">What Can I Do To P**s You Off Today iron on/sew on cloth patch (cp)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what can patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: what can patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +560,15 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BIKER PATCH Funny Patch &quot;WHAT CAN I DO TO PISS YOU OFF TODAY&quot; - 4x1.5IN"><img src="{{ '/assets/images/marketplace-covers/a1be3ddc64c697d0cfdb.jpg' | relative_url }}" alt="Listing image for BIKER PATCH Funny Patch &quot;WHAT CAN I DO TO PISS YOU OFF TODAY&quot; - 4x1.5IN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer">BIKER PATCH Funny Patch &quot;WHAT CAN I DO TO PISS YOU OFF TODAY&quot; - 4x1.5IN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what can patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: what can patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +576,15 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What More Can We Do - Patch - 228th Assault Helicopter Bn - Vietnam War, xxxx Y"><img src="{{ '/assets/images/marketplace-covers/1f7f67750ba1edbf03c3.jpg' | relative_url }}" alt="Listing image for What More Can We Do - Patch - 228th Assault Helicopter Bn - Vietnam War, xxxx Y" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer">What More Can We Do - Patch - 228th Assault Helicopter Bn - Vietnam War, xxxx Y</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what can patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: what can patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,7 +592,7 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+can+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what can patch" data-ebay-reference="under-oath-what-can-congress-test-under-secrecy-luis-elizondo-what-can-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-congress-test-under-secrecy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-can-congress-test-under-secrecy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -817,98 +808,98 @@ The 2024 hearing therefore illustrates both the strength and weakness of Congres
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Elizondo  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Greetings, Chairwoman Mace, Chairman Grothman, Ranking Members. Connol...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeUnidentified Anomalous Phenomena: Exposing the Truth13 Nov 2024 — Hearing Date: November 13, 2024 11:30 am 2154 Raybur...</p></details>
    Published: November 13, 2024  
 
 3. <a id="endnote-3"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/](https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/)  
+   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Release...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: stripes.com  
    Title: house lawmakers ufos pentagon 15838770  
-   Link: [https://www.stripes.com/theaters/us/2024-11-13/house-lawmakers-ufos-pentagon-15838770.html](https://www.stripes.com/theaters/us/2024-11-13/house-lawmakers-ufos-pentagon-15838770.html)  
+   Link: <a href="https://www.stripes.com/theaters/us/2024-11-13/house-lawmakers-ufos-pentagon-15838770.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2024-11-13/house-lawmakers-ufos-pentagon-15838770.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stars and Stripes&#x27;UAP are real&#x27;: Congress pushes quest for transparency on...13 Nov 2024 — UFOs and the secrecy surrounding them were ex...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: burchett.house.gov  
    Title: house oversight committee announces uap hearing  
-   Link: [https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing](https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing)  
+   Link: <a href="https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight Committee announces UAP hearingNov 8, 2024 — The House Committee on Oversight and Accountability announced it will hold a joint...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nhpr.org  
    Title: New Hampshire Public Radio Experts testify before lawmakers that the U.S  
-   Link: [https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs](https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs)  
+   Link: <a href="https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-11-13/experts-testify-before-lawmakers-that-the-u-s-is-running-secret-uap-programs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is running...13 Nov 2024 — Elizondo&#x27;s written testimony was brief and alleged that a secretive arms race is playing out on the global st...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/](https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/)  
+   Link: <a href="https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The allegations were made public by journalist Michael Shellenberger. Pentagon spokesperson Sue Gough stated that there is no record of s...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1](https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1)  
+   Link: <a href="https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Transcript-Congressional-Elizondo-Documents-Interest/dp/B0DPDG47T1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>cal parties listen to sworn testimony from Luis Elizondo, Michael Shellenberger...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: defensescoop.com  
    Title: uap lawmakers urge pentagon be more transparent investigations  
-   Link: [https://defensescoop.com/2024/11/14/uap-lawmakers-urge-pentagon-be-more-transparent-investigations/](https://defensescoop.com/2024/11/14/uap-lawmakers-urge-pentagon-be-more-transparent-investigations/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-lawmakers-urge-pentagon-be-more-transparent-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-lawmakers-urge-pentagon-be-more-transparent-investigations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers urge Pentagon to be more transparent about...14 Nov 2024 — Republican lawmakers pledged to intensify their efforts to ensure t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/former-pentagon-official-lue-elizondo-believes-hes-seen-alien-technology-that-a-/861145252959160/](https://www.facebook.com/NewsNationNow/posts/former-pentagon-official-lue-elizondo-believes-hes-seen-alien-technology-that-a-/861145252959160/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/former-pentagon-official-lue-elizondo-believes-hes-seen-alien-technology-that-a-/861145252959160/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-pentagon-official-lue-elizondo-believes-hes-seen-alien-technology-that-a-/861145252959160/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t a surgeon with Veterans Affairs removed from a military...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/luis-elizando-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582166330857055/](https://www.facebook.com/NewsNationNow/posts/luis-elizando-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582166330857055/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/luis-elizando-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582166330857055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/luis-elizando-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582166330857055/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mans.” For many people following the UFO disclosure movement...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MyNBC5/posts/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-offic/682185377282516/](https://www.facebook.com/MyNBC5/posts/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-offic/682185377282516/)  
+   Link: <a href="https://www.facebook.com/MyNBC5/posts/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-offic/682185377282516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyNBC5/posts/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-offic/682185377282516/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r Department of Defense official, revealed claims of the US...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: legion.org  
    Title: uap are real congress pushes quest for transparency on ufos  
-   Link: [https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos](https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos)  
+   Link: <a href="https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/news/2024/november/uap-are-real-congress-pushes-quest-for-transparency-on-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UAP are real&#x27;: Congress pushes quest for transparency on...14 Nov 2024 — The House Oversight and Accountability Committee on Wednesday...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: ufo [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) tell congress we are not alone in the cosmos video  
-   Link: [https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video](https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblowers tell Congress &#x27;we are not alone in the...13 Nov 2024 — Today&#x27;s event featured testimony from current US military pers...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — Ex-defense department official said government employees had...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wsj.com  
    Title: house ufo hearing pentagon b3631f71  
-   Link: [https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71](https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71)  
+   Link: <a href="https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/house-ufo-hearing-pentagon-b3631f71</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Pentagon Official on UFOs: &#x27;We Are Not Alone&#x27;13 Nov 2024 — Ex-government and military officials testify in latest congressional he...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: san.com  
    Title: congress holds hearing to pull back the curtain on ufos experts testify  
-   Link: [https://san.com/cc/congress-holds-hearing-to-pull-back-the-curtain-on-ufos-experts-testify/](https://san.com/cc/congress-holds-hearing-to-pull-back-the-curtain-on-ufos-experts-testify/)  
+   Link: <a href="https://san.com/cc/congress-holds-hearing-to-pull-back-the-curtain-on-ufos-experts-testify/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/congress-holds-hearing-to-pull-back-the-curtain-on-ufos-experts-testify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy Mace, R-S.C., delivered the opening statement at a House Oversight Committee hearing on the subject on Wednesday, Nov. 13. “...Rea...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /influence-20a41a/
 nav_short_title: Evidence Gap
 title: When Media Amplifies UAP Claims Beyond Verifiable Proof
-title_full: When Media Amplifies UAP Claims Beyond Verifiable Proof | Influence
+title_full: When Media Amplifies UAP Claims Beyond Verifiable Proof
 display_title_short: Evidence Gap
 display_title: Evidence Gap
 heading_title: When Media Amplifies UAP Claims Beyond Verifiable Proof
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Elizondo Changed the UAP Debate | Elizondo
+parent_title: How Elizondo Changed the UAP Debate
 parent_permalink: /influence-20a41a/
 parent_nav_short_title: Influence
 parent_heading_title: How Elizondo Changed the UAP Debate
@@ -247,7 +247,7 @@ next_link:
   permalink: /media-strategy/
   short_title: Media Strategy
   heading_title: How Luis Elizondo's Media Presence Shaped UAP Discourse
-date: '2026-06-09 02:54:18 '
+date: '2026-06-11 21:02:23 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-1.webp
@@ -258,7 +258,6 @@ image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_e
 
 Since stepping into the public spotlight in 2017, **Luis Elizondo** has been a prominent voice in the modern UAP (Unidentified Anomalous Phenomena) discourse, amplified by mainstream media, books, TV interviews and political appearances. Within that media‑driven narrative, a persistent and contentious theme has been the **gap between some of Elizondo’s most dramatic claims about UAPs and the independently verifiable evidence available in the public domain**. This gap—where media coverage often outpaced what could be substantiated—has become a central fault line in assessing his [influence]({{ 'influence-20a41a/' | relative_url }}) within UAP disclosure culture. This page focuses specifically on **where claims intersect with evidence, where they do not, and why that matters** for both public understanding and credible reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Claims of Non‑Human Materials and Biologics
 
@@ -266,8 +265,7 @@ A recurring and high‑profile element of Elizondo’s UAP commentary involves *
 
 Earlier claims, dating to 2024, go further: Elizondo has publicly stated that spacecraft, vehicles of unknown origin, and even **biological specimens allegedly recovered from crashes such as at Roswell in 1947** were known to U.S. authorities and studied. In such interviews he has described the U.S. as having been “aware” of extraterrestrial life for decades, including biological material taken from alleged UAP encounter cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-snippet">www.ndtv.comEx-Pentagon Official Claims US Recovered Non-Human Specimens: ReportSeptember 8, 2024...</span><span class="citation-popover-meta">Published: September 8, 2024</span></span></span>
 
-**Verification gap:** None of these assertions has been independently validated through release of physical evidence, transparent chain‑of‑custody records, or peer‑reviewed scientific analysis. Government bodies tasked with UAP research, including the Pentagon’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), have explicitly stated they have **not found any verifiable evidence of extraterrestrial activity or possession of non‑human materials**. This is a key contrast between sensational claims and surfaceable proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmurders.com/physics/Details/Luis_Elizondo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmurders.com">[Murdering UAP Experts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmurders.com</span><span class="citation-popover-title">Murdering UAP Experts Luis Elizondo | Murdering UAP Experts</span><span class="citation-popover-snippet">Murdering UAP Experts Luis Elizondo | Murdering UAP Experts</span></span></span>
-
+**Verification gap:** None of these assertions has been independently validated through release of physical evidence, transparent chain‑of‑custody records, or peer‑reviewed scientific analysis. Government bodies tasked with UAP research, including the Pentagon’s All‑domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), have explicitly stated they have **not found any verifiable evidence of extraterrestrial activity or possession of non‑human materials**. This is a key contrast between sensational claims and surfaceable proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmurders.com/physics/Details/Luis_Elizondo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmurders.com">[Murdering UAP Experts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmurders.com</span><span class="citation-popover-title">Murdering UAP Experts Luis Elizondo &#124; Murdering UAP Experts</span><span class="citation-popover-snippet">Murdering UAP Experts Luis Elizondo &#124; Murdering UAP Experts</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PBRtoEKAsl0" title="Investigator explains sightings listed in Pentagon UFO report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PBRtoEKAsl0" target="_blank" rel="noopener noreferrer">Investigator explains sightings listed in Pentagon UFO report</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 6.0K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PBRtoEKAsl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PBRtoEKAsl0">Open on YouTube</a></p></div></div></div>
 
@@ -281,18 +279,16 @@ Elizondo’s early public emergence was built in part on the release of military
 
 Separate from official footage, Elizondo has occasionally referenced or displayed imagery that was later identified as **unverified or misclassified**. In at least one case of public backlash reported by independent outlets, a photo Elizondo highlighted was criticised for lacking verification and not being clearly labelled as such, underscoring the tension between raising awareness and presenting tentatively sourced material as evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.ie">[unexplained.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.ie</span><span class="citation-popover-snippet">Unexplained Mysteries, Phenomena &amp; DisappearancesMay 3, 2025...</span><span class="citation-popover-meta">Published: May 3, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Claiming UAP Encounters
 
-In congressional testimony and written submissions, Elizondo has made striking assertions—such as the U.S. holding **advanced technologies “not made by our government or any other government”**—but **these remain unaccompanied by corroborating documentation or open data**. Committees and oversight investigations have noted that, despite these claims, no direct evidence was presented that would meet standard evidentiary thresholds for extraordinary phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksl.com">[KSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksl.com</span><span class="citation-popover-title">Plenty of claims but no proof at latest UFO congressional hearing | KSL.com</span><span class="citation-popover-snippet">KSLPlenty of claims but no proof at latest UFO congressional hearing | KSL.comNovember 15, 2024...</span><span class="citation-popover-meta">Published: November 15, 2024</span></span></span>
+In congressional testimony and written submissions, Elizondo has made striking assertions—such as the U.S. holding **advanced technologies “not made by our government or any other government”**—but **these remain unaccompanied by corroborating documentation or open data**. Committees and oversight investigations have noted that, despite these claims, no direct evidence was presented that would meet standard evidentiary thresholds for extraordinary phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksl.com">[KSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksl.com</span><span class="citation-popover-title">Plenty of claims but no proof at latest UFO congressional hearing &#124; KSL.com</span><span class="citation-popover-snippet">Plenty of claims but no proof at latest UFO congressional hearing &#124; KSL.comNovember 15, 2024...</span><span class="citation-popover-meta">Published: November 15, 2024</span></span></span>
 
 ## Government and Expert Response
 
 A critical part of this evidence gap lies in **official responses from defence and scientific authorities**. While the topic of UAPs has transitioned into mainstream government examination, including NASA panels and congressional hearings, these bodies have repeatedly emphasised that **lack of data quality, lack of physical evidence, and incomplete investigation results** prevent conclusive linkage to non‑human origins or technologies. For example, a NASA advisory panel explicitly stated there is **no convincing evidence for extraterrestrial life in connection with the UAPs currently under study**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-snippet">Ars TechnicaNASA panel: No convincing evidence for extraterrestrial life connected with UAPs - Ars TechnicaJune 1, 2023...</span><span class="citation-popover-meta">Published: June 1, 2023</span></span></span>
 
 Similarly, the U.S. Department of Defence and AARO have publicly clarified that, **to date, they have not found verifiable information to substantiate any claims of programmes related to possession or reverse‑engineering of extraterrestrial materials**. This disconnect frames much of the sceptical pushback within both journalism and scientific commentary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eozxt_HnPu4" title="TFTRH #52 - Luis Elizondo: UFOs, UAPs, AATIP, and TTSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eozxt_HnPu4" target="_blank" rel="noopener noreferrer">TFTRH #52 - Luis Elizondo: UFOs, UAPs, AATIP, and TTSA</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 45.5K &middot; Uploaded: March 2021 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eozxt_HnPu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eozxt_HnPu4">Open on YouTube</a></p></div></div></div>
 
@@ -306,15 +302,12 @@ When high‑profile figures like Elizondo make claims about UAP phenomena, **med
 
 **3. Scepticism and Credibility:** The absence of verifiable evidence for the more sensational parts of Elizondo’s claims has fuelled scepticism not just among scientific critics but within broader public conversations. Critics note that *presenting vivid narratives without parallel transparency in evidence* can weaken credibility, even when the underlying issue—improving reporting mechanisms for UAPs—is itself legitimate.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_evidence_ga_1e3b44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Navigating the Disclosure Culture
 
 The gap between media prominence and verifiable proof in Elizondo’s case illustrates a broader feature of UAP culture today: **a tension between urgency to disclose and the patience required for methodical evidence gathering**. While Elizondo has helped elevate UAP topics into mainstream defence and policy discussion, **the record of verifiable evidence supporting the most extraordinary claims remains sparse or nonexistent in the public record**. Understanding this gap is essential for balanced assessment of his role in shaping the discourse and for discerning what future research or disclosures would need to demonstrate to move beyond testimony into verified discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V6Pc48yXWyI" title="What Luis Elizondo got very wrong about the UFO videos." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V6Pc48yXWyI" target="_blank" rel="noopener noreferrer">What Luis Elizondo got very wrong about the UFO videos.</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 47.7K &middot; Uploaded: August 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V6Pc48yXWyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V6Pc48yXWyI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -328,16 +321,16 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Contains many of the claims being compared against public evidence.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -345,16 +338,16 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Useful for evaluating standards of proof and unexplained reports.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -362,16 +355,16 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Presents witness testimony while remaining focused on documented cases.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -379,16 +372,16 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Addresses how people assess extraordinary claims and uncertain evidence.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,7 +389,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -433,15 +426,15 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="https://i.ebayimg.com/images/g/1dQAAOSwiI5j3Q-f/s-l225.jpg" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +442,15 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="https://i.ebayimg.com/images/g/3CIAAeSwtJZpFEmr/s-l225.jpg" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +458,15 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/NJgAAeSwhxRpMHWG/s-l225.jpg" alt="Listing image for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +474,15 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,7 +490,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="evidence-gap-when-media-amplifies-uap-claims-beyond-verifiable-proof-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -712,60 +705,60 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Title: [Luis Elizondo](&#123;&#123; 'how-credible-is-luis-elizondo/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Title: Luis Elizondo  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
 2. <a id="endnote-2"></a>
    Source: ibtimes.co.uk  
    Title: former pentagon official uap files non human technology 1799769  
-   Link: [https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769](https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769)  
+   Link: <a href="https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKEx-Pentagon Official: UAP Files Expose &#x27;Non-Human&#x27; Technology and Government Cover-Up Going Back to 1940s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ndtv.com  
-   Link: [https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187](https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187)  
+   Link: <a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comEx-Pentagon Official Claims US Recovered Non-Human Specimens: ReportSeptember 8, 2024...</p></details>
    Published: September 8, 2024  
 
 4. <a id="endnote-4"></a>
    Source: unexplained.ie  
-   Link: [https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/](https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/)  
+   Link: <a href="https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Mysteries, Phenomena &amp; DisappearancesMay 3, 2025...</p></details>
    Published: May 3, 2025  
 
 5. <a id="endnote-5"></a>
    Source: ksl.com  
    Title: Plenty of claims but no proof at latest UFO congressional hearing | KSL.com  
-   Link: [https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing](https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KSLPlenty of claims but no proof at latest UFO congressional hearing | KSL.comNovember 15, 2024...</p></details>
+   Link: <a href="https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plenty of claims but no proof at latest UFO congressional hearing | KSL.comNovember 15, 2024...</p></details>
    Published: November 15, 2024  
 
 6. <a id="endnote-6"></a>
    Source: uapmurders.com  
    Title: Murdering UAP Experts Luis Elizondo | Murdering UAP Experts  
-   Link: [https://uapmurders.com/physics/Details/Luis_Elizondo/](https://uapmurders.com/physics/Details/Luis_Elizondo/)  
+   Link: <a href="https://uapmurders.com/physics/Details/Luis_Elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/physics/Details/Luis_Elizondo/</a>  
 
 7. <a id="endnote-7"></a>
    Source: arstechnica.com  
-   Link: [https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/](https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/)  
+   Link: <a href="https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNASA panel: No convincing evidence for extraterrestrial life connected with UAPs - Ars TechnicaJune 1, 2023...</p></details>
    Published: June 1, 2023  
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens](https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens)  
+   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government has concealed evidence of unidentified aerial phenomena (UAPs) and extraterrestrial life for decades. Drawing inspiration from...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Pentagon released its UFO videos – so I went to the US to chase aliens  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I found | Alien life | The GuardianApril 22, 2026 — Image: A night-vision camera shows a silhouette of a man holding a torch...</p></details>
    Published: April 22, 2026  
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 13, 2024 — Image: four men in suits stand with their right hands raised [Input] Tim Gallaudet, Luis Elizondo, Michael Shellenber...</p></details>
    Published: November 13, 2024  
 
@@ -773,66 +766,66 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
 
 11. <a id="endnote-11"></a>
    Source: gbnews.com  
-   Link: [https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material](https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material)  
+   Link: <a href="https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material" target="_blank" rel="noopener noreferrer nofollow">https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO news: Pentagon expert claims ‘non-human material’ has been recovered as he issues warning to humanityAugust 22, 2024 — PENTAGON UFO E...</p></details>
    Published: August 22, 2024  
 
 12. <a id="endnote-12"></a>
    Source: skeptic.org.uk  
-   Link: [https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/](https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/)  
+   Link: <a href="https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJuly 23, 2021 — THE MUCH-HYPED UAP REPORT’S LACK OF SUBSTANCE WILL DO LITTLE TO DETER AVID UFO BELIEVERS By Nigel Watson 23rd...</p></details>
    Published: July 23, 2021  
 
 13. <a id="endnote-13"></a>
    Source: newsweek.com  
    Title: ufo uap craft found covered whistleblower claims 1804733  
-   Link: [https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733](https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733)  
+   Link: <a href="https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has UFOs of ‘Non-Human Origin’, Ex-Intelligence Officer Claims - NewsweekJune 6, 2023 — U.S. HAS UFOS OF ‘NON-HUMAN ORIGIN’, EX-INTELLIGE...</p></details>
    Published: June 6, 2023  
 
 14. <a id="endnote-14"></a>
    Source: paranormalinsight.co.uk  
    Title: Lue Elizondo’s UFO Photos Debunked: Is His Credibility in Question?  
-   Link: [https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust](https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust)  
+   Link: <a href="https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lue elizondo uap ufo ufo disclosure May 02, 2025 Image Has Lue Elizondo&#x27;s Credibility Taken a Hit After Recent UFO...</p></details>
    Published: May 2, 2025  
 
 15. <a id="endnote-15"></a>
    Source: disclosurearchives.com  
    Title: government source who has made on-the-record clai  
-   Link: [https://disclosurearchives.com/uap-whistleblower-testimony](https://disclosurearchives.com/uap-whistleblower-testimony)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[UAP whistleblower](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;) testimony — named officials on the record · Disclosure ArchivesTopical hub · UAP whistleblower testimony UAP WHISTLEBLO...</p></details>
+   Link: <a href="https://disclosurearchives.com/uap-whistleblower-testimony" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/uap-whistleblower-testimony</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP whistleblower testimony — named officials on the record · Disclosure ArchivesTopical hub · UAP whistleblower testimony UAP WHISTLEBLO...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uapedia.ai  
    Title: Non-Human Intelligence (NHI): Lifting the Veil  
-   Link: [https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/](https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/)  
+   Link: <a href="https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 2023 broadcast segments, former intelligence officer David Charles Grusch alleged legacy crash‑retrieval and reverse‑engineeri...</p></details>
    Published: June 2023  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Investigator explains sightings listed in Pentagon UFO report  
-   Link: [https://www.youtube.com/watch?v=PBRtoEKAsl0](https://www.youtube.com/watch?v=PBRtoEKAsl0)  
+   Link: <a href="https://www.youtube.com/watch?v=PBRtoEKAsl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBRtoEKAsl0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo Mick West UFO evidence verification analysis Discussing the David Grusch UFO Whistleblower Saga with Pete Dominick Mick West...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: conspirafy.com  
    Title: UAP & the Grusch Whistleblower Claims  
-   Link: [https://conspirafy.com/conspiracies/uap-grusch-whistleblower](https://conspirafy.com/conspiracies/uap-grusch-whistleblower)  
+   Link: <a href="https://conspirafy.com/conspiracies/uap-grusch-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/uap-grusch-whistleblower</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sofia Reyes· May 12, 2026 Reviewed by:Dr. Elena Marsh· May 12, 2026 TL;DR Copy TLDR Grusch is a credentialed IC officer; he filed a prote...</p></details>
    Published: May 12, 2026  
 
 19. <a id="endnote-19"></a>
    Source: uapedia.ai  
    Title: The Six Observables – Elizondo Model  
-   Link: [https://uapedia.ai/wiki/the-five-observables-elizondo-model/](https://uapedia.ai/wiki/the-five-observables-elizondo-model/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPediaOctober 28, 2025 — THE SIX OBSERVABLES – ELIZONDO MODEL The “Six Observables” (originally “Five Observables”) are a descriptive fr...</p></details>
+   Link: <a href="https://uapedia.ai/wiki/the-five-observables-elizondo-model/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-five-observables-elizondo-model/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2025 — THE SIX OBSERVABLES – ELIZONDO MODEL The “Six Observables” (originally “Five Observables”) are a descriptive fr...</p></details>
    Published: October 28, 2025  
 
 20. <a id="endnote-20"></a>
    Source: uapedia.ai  
    Title: roswell 1947 documents and disputes  
-   Link: [https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/](https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/)  
+   Link: <a href="https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2023, former intelligence officer David Grusch testified before the House Oversight Committee that he was briefed on long-runnin...</p></details>
-   Published: July 2023  
+   Published: July 2023

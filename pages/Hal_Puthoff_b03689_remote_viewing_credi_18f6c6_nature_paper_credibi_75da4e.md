@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /remote-viewing-c5c5e3/
 nav_short_title: Nature paper
 title: Did the Nature paper prove anything?
-title_full: Did the Nature paper prove anything? | Remote Viewing
+title_full: Did the Nature paper prove anything?
 display_title_short: Nature paper
 display_title: Nature paper
 heading_title: Did the Nature paper prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Remote Viewing Help or Hurt His Credibility? | Puthoff
+parent_title: Did Remote Viewing Help or Hurt His Credibility?
 parent_permalink: /remote-viewing-c5c5e3/
 parent_nav_short_title: Remote Viewing
 parent_heading_title: Did Remote Viewing Help or Hurt His Credibility?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /control-flaws/
   short_title: Control flaws
   heading_title: Could ordinary clues explain the results?
-date: '2026-06-09 03:02:48 '
+date: '2026-06-11 21:06:43 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1.webp
@@ -258,20 +258,18 @@ image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_pape
 
 The 1974 *Nature* paper associated with [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) remains one of the strongest pieces of evidence used by supporters when arguing that his early remote-viewing work was taken seriously by mainstream institutions. It did not prove that psychic perception was real, nor did it settle the scientific debate. What it did achieve was something more limited but still important: it moved remote-viewing claims out of the realm of tabloid stories and into one of the world's most prestigious scientific journals. That publication gave Puthoff and his Stanford Research Institute (SRI) research programme a level of visibility and credibility that few paranormal investigations ever received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1-dark.svg" | relative_url }}" alt="Nature paper illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The credibility question is therefore not whether the paper existed or whether it mattered. Both points are clear. The real question is what the paper actually claimed, how much weight publication in *Nature* should carry, and why later criticism prevented it from becoming a lasting scientific validation of [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}).
 
 ## What the 1974 paper actually claimed
 
-In October 1974, Russell Targ and Harold Puthoff published a paper in *Nature* titled *Information transmission under conditions of sensory shielding*. The paper described experiments conducted at SRI involving individuals who allegedly obtained information about distant targets while isolated from ordinary sensory cues. The researchers reported results that they believed were difficult to explain through conventional means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">nature18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</span></span></span>
+In October 1974, Russell Targ and Harold Puthoff published a paper in *Nature* titled *Information transmission under conditions of sensory shielding*. The paper described experiments conducted at SRI involving individuals who allegedly obtained information about distant targets while isolated from ordinary sensory cues. The researchers reported results that they believed were difficult to explain through conventional means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</span></span></span>
 
-The wording of the paper is often overlooked in later retellings. The authors did not announce that psychic functioning had been conclusively demonstrated. Instead, they stated that their experiments produced results "suggesting" the existence of an anomalous perceptual process. That cautious language reflected a standard scientific practice: reporting observed effects without claiming that all alternative explanations had been eliminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureNatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</span></span></span>
+The wording of the paper is often overlooked in later retellings. The authors did not announce that psychic functioning had been conclusively demonstrated. Instead, they stated that their experiments produced results "suggesting" the existence of an anomalous perceptual process. That cautious language reflected a standard scientific practice: reporting observed effects without claiming that all alternative explanations had been eliminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</span></span></span>
 
 Several experiments discussed in the paper involved Uri Geller, whose apparent paranormal abilities had already attracted international attention. The researchers argued that, under controlled conditions, Geller appeared capable of reproducing drawings or describing information that he should not have been able to access through normal sensory channels. The paper also discussed experiments involving other subjects and target-identification procedures intended to reduce ordinary information leakage. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irenaroglic.si">[2irenaroglic.si]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irenaroglic.si</span><span class="citation-popover-snippet">information transmission under conditions of sensory shieldingby HE Puthoff · 1974 · Cited by 359 — Uri Geller in which we examined his a...</span></span></span>
 
 For supporters, the key point was straightforward: respected researchers at a major research institution had reported statistically unusual results and had persuaded *Nature*'s editors and reviewers that the work deserved publication. For critics, publication meant only that the experiments were interesting enough to discuss publicly, not that the underlying paranormal interpretation had been established.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V6Pn6WGahYI" title="Remote Viewing From the Inside Out with Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V6Pn6WGahYI" target="_blank" rel="noopener noreferrer">Remote Viewing From the Inside Out with Russell Targ</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 57.7K &middot; Uploaded: March 2022 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V6Pn6WGahYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V6Pn6WGahYI">Open on YouTube</a></p></div></div></div>
 
@@ -279,16 +277,15 @@ For supporters, the key point was straightforward: respected researchers at a ma
 
 The importance of the paper was institutional as much as scientific.
 
-At the time, paranormal research was often dismissed without serious engagement. A paper appearing in *Nature* instantly changed the conversation. It signalled that the work was worthy of scrutiny by the broader scientific community rather than being confined to occult publications or fringe newsletters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/274680a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureInformation transmission in remote viewing experimentsby D MARKS · 1978 · Cited by 50 — TARG AND PUTHOFF 1–3 have described investi...</span></span></span>
+At the time, paranormal research was often dismissed without serious engagement. A paper appearing in *Nature* instantly changed the conversation. It signalled that the work was worthy of scrutiny by the broader scientific community rather than being confined to occult publications or fringe newsletters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/274680a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby D MARKS · 1978 · Cited by 50 — TARG AND PUTHOFF 1–3 have described investi...</span></span></span>
 
 Several credibility effects followed:
 
 * **Association with a leading journal:** *Nature* was already one of the world's most influential scientific publications. Having a paper accepted there gave Puthoff and Targ a level of legitimacy unavailable to most parapsychology researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/319444a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Remote viewing exposedby D MARKS · 1986 · Cited by 18 — Targ, R. &amp; Puthoff, H. Nature 251, 602–607 (1974). Article ADS CAS Google Scholar...</span></span></span>
-* **Visibility inside government circles:** The publication arrived during a period of Cold War concern about possible Soviet research into psychic phenomena. A peer-reviewed paper in a major journal made it easier for officials to justify continued interest in the topic. Declassified CIA records later circulated versions of the work and discussed the research programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIACIA-RDP79-00999A000200010002-3In certain situations significant information transmission can take place under shielded conditions. Fac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">INFORMATION TRANSMISSION UNDER CONDITIONS OF...INFORMATION TRANSMISSION UNDER CONDITIONS OF SENSORY SHIELDING by Dr. Harold E. Puthoff a...</span></span></span>
+* **Visibility inside government circles:** The publication arrived during a period of Cold War concern about possible Soviet research into psychic phenomena. A peer-reviewed paper in a major journal made it easier for officials to justify continued interest in the topic. Declassified CIA records later circulated versions of the work and discussed the research programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA-RDP79-00999A000200010002-3In certain situations significant information transmission can take place under shielded conditions. Fac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">INFORMATION TRANSMISSION UNDER CONDITIONS OF...INFORMATION TRANSMISSION UNDER CONDITIONS OF SENSORY SHIELDING by Dr. Harold E. Puthoff a...</span></span></span>
 * **Protection against immediate dismissal:** Critics could attack the conclusions, but they could not simply claim the research never existed or had never undergone peer review. The publication became a permanent reference point in debates over remote viewing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/292388a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Rebuttal of criticisms of remote viewing experimentsby H PUTHOFF · 1981 · Cited by 16 — Rebuttal of criticisms of remote viewing experime...</span></span></span>
 
 For assessing Puthoff's later credibility in UFO and UAP discussions, this matters because it established a recurring theme. He was not merely a promoter of speculative ideas from outside professional science. He had participated in research that reached major institutions, attracted government funding and appeared in elite journals. Supporters continue to cite that history as evidence that he should not be dismissed as a purely fringe figure.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-2-dark.svg" | relative_url }}" alt="Nature paper illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a Nature publication was not the same as proof
@@ -301,9 +298,7 @@ The 1974 paper immediately attracted attention because the claims were extraordi
 
 This distinction became increasingly important as critics attempted to repeat or analyse the experiments. The existence of a *Nature* paper demonstrated that something unusual had been reported. It did not demonstrate that the reported effect was genuine psychic perception.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WF_PyqbQZRE" title="Remote Viewing Magic, Russel Targ: EP 319" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WF_PyqbQZRE" target="_blank" rel="noopener noreferrer">Remote Viewing Magic, Russel Targ: EP 319</a></p><p class="youtube-embed-meta">Channel: Connecting with Coincidence &middot; Views: 6.9K &middot; Uploaded: October 2023 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WF_PyqbQZRE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WF_PyqbQZRE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-dark.svg" | relative_url }}" alt="Nature paper illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where critics believed the case weakened
 
 The strongest challenges focused less on fraud allegations and more on experimental design.
@@ -316,21 +311,17 @@ The dispute did not end quickly. In 1981, Puthoff and Targ published a rebuttal 
 
 For sceptics, the subsequent criticism is at least as important as the original publication. Their argument is that the paper gained prestige from appearing in *Nature*, but the underlying evidence never achieved the level of replication and methodological robustness needed to convince mainstream science.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WF_PyqbQZRE" title="Remote Viewing Magic, Russel Targ: EP 319" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WF_PyqbQZRE" target="_blank" rel="noopener noreferrer">Remote Viewing Magic, Russel Targ: EP 319</a></p><p class="youtube-embed-meta">Channel: Connecting with Coincidence &middot; Views: 6.9K &middot; Uploaded: October 2023 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WF_PyqbQZRE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WF_PyqbQZRE">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-dark.svg" | relative_url }}" alt="Nature paper illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the paper means for judging Puthoff today
 
 The 1974 publication can be interpreted in two very different ways, depending on what question is being asked.
 
 If the question is whether Puthoff was a serious researcher with genuine institutional backing, the paper supports that view. The work was conducted at SRI, discussed by intelligence agencies, published in a leading journal and debated by professional scientists. Those are verifiable facts rather than later myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp79-00999a000200010008-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">INFORMATION TRANSMISSION UNDER CONDITIONS OF...INFORMATION TRANSMISSION UNDER CONDITIONS OF SENSORY SHIELDING. Document Type... Targ Ha...</span></span></span>
 
-If the question is whether the paper proved remote viewing, the answer is much less favourable. The paper reported suggestive findings, not conclusive proof. Subsequent critiques argued that methodological weaknesses could explain the results, and the broader scientific community never accepted remote viewing as an established phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">nature18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureNatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</span></span></span>
+If the question is whether the paper proved remote viewing, the answer is much less favourable. The paper reported suggestive findings, not conclusive proof. Subsequent critiques argued that methodological weaknesses could explain the results, and the broader scientific community never accepted remote viewing as an established phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</span></span></span>
 
 That tension is central to understanding Puthoff's credibility profile. The *Nature* paper gave him a documented record of participating in research that influential institutions considered worth examining. At the same time, the controversy surrounding that research established a pattern that critics still point to today: involvement in claims that attract official interest and occasional positive findings, but that remain scientifically disputed decades later. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Nature. 1974 Oct 18;251(5476):602-7. doi: 10.1038/251602a0. Authors. R Targ, H Puthoff. PMID...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgyYms376Mg" title="Scientific and Spiritual Implications of Psychic Abilities - Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer">Scientific and Spiritual Implications of Psychic Abilities - Russell Targ</a></p><p class="youtube-embed-meta">Channel: Science and Nonduality &middot; Views: 217.7K &middot; Uploaded: February 2015 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgyYms376Mg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -449,15 +440,15 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Journal Pro-Science Poster Paperback Found Image Press I"><img src="https://i.ebayimg.com/images/g/Pn4AAeSw4UBqGgt1/s-l225.jpg" alt="Listing image for Vintage Journal Pro-Science Poster Paperback Found Image Press I" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Journal Pro-Science Poster Paperback Found Image Press I</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science journal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science journal poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +456,15 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1967 Advert Science Journal Global Weather Cell Microcosm"><img src="https://i.ebayimg.com/images/g/F0sAAeSwemZpiz0W/s-l225.jpg" alt="Listing image for Original 1967 Advert Science Journal Global Weather Cell Microcosm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1967 Advert Science Journal Global Weather Cell Microcosm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science journal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science journal poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +472,15 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tesla Science Journal - Will Robots Rule the World - 4 Poster"><img src="https://i.ebayimg.com/images/g/xQMAAOSwH4tkuo9n/s-l225.jpg" alt="Listing image for Tesla Science Journal - Will Robots Rule the World - 4 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer">Tesla Science Journal - Will Robots Rule the World - 4 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science journal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science journal poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +488,15 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Framed American Phrenology Journal. Brain Parts Head Mind Science 259"><img src="https://i.ebayimg.com/images/g/JEsAAOSwYV9e823l/s-l225.jpg" alt="Listing image for Art Print Framed American Phrenology Journal. Brain Parts Head Mind Science 259" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer">Art Print Framed American Phrenology Journal. Brain Parts Head Mind Science 259</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science journal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science journal poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +504,7 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nature-paper-did-the-nature-paper-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+journal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-nature-paper-prove-anything-science-journal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science journal poster" data-ebay-reference="did-the-nature-paper-prove-anything-science-journal-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,132 +719,131 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/251602a0](https://www.nature.com/articles/251602a0)  
+   Link: <a href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251602a0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RUSSELL TARG &amp;; HAROLD PUTHOFF. Nature volume 251, pages 602–607 (...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: irenaroglic.si  
-   Link: [https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc](https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc)  
+   Link: <a href="https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc" target="_blank" rel="noopener noreferrer nofollow">https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>information transmission under conditions of sensory shieldingby HE Puthoff · 1974 · Cited by 359 — Uri Geller in which we examined his a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: science new flap over uri  
-   Link: [https://time.com/archive/6878192/science-new-flap-over-uri/](https://time.com/archive/6878192/science-new-flap-over-uri/)  
+   Link: <a href="https://time.com/archive/6878192/science-new-flap-over-uri/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6878192/science-new-flap-over-uri/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science: New Flap Over Uri03 Nov 1974 — The Nature article emphasized experiments at the Stanford Research Institute involving the contro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/251559a0.pdf](https://www.nature.com/articles/251559a0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nature18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</p></details>
+   Link: <a href="https://www.nature.com/articles/251559a0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251559a0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Oct 1974 — WE publish this week a paper by Drs R. Targ and H. Puthoff (page 602) which is bound to create something of.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/](https://www.nature.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</p></details>
+   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIACIA-RDP79-00999A000200010002-3In certain situations significant information transmission can take place under shielded conditions. Fac...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP79-00999A000200010002-3In certain situations significant information transmission can take place under shielded conditions. Fac...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION TRANSMISSION UNDER CONDITIONS OF...INFORMATION TRANSMISSION UNDER CONDITIONS OF SENSORY SHIELDING by Dr. Harold E. Puthoff a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp79-00999a000200010008-7](https://www.cia.gov/readingroom/document/cia-rdp79-00999a000200010008-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79-00999a000200010008-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79-00999a000200010008-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION TRANSMISSION UNDER CONDITIONS OF...INFORMATION TRANSMISSION UNDER CONDITIONS OF SENSORY SHIELDING. Document Type... Targ Ha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/274680a0](https://www.nature.com/articles/274680a0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureInformation transmission in remote viewing experimentsby D MARKS · 1978 · Cited by 50 — TARG AND PUTHOFF 1–3 have described investi...</p></details>
+   Link: <a href="https://www.nature.com/articles/274680a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/274680a0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Information transmission in remote viewing experimentsby D MARKS · 1978 · Cited by 50 — TARG AND PUTHOFF 1–3 have described investi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/319444a0](https://www.nature.com/articles/319444a0)  
+   Link: <a href="https://www.nature.com/articles/319444a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/319444a0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewing exposedby D MARKS · 1986 · Cited by 18 — Targ, R. &amp; Puthoff, H. Nature 251, 602–607 (1974). Article ADS CAS Google Scholar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/292388a0](https://www.nature.com/articles/292388a0)  
+   Link: <a href="https://www.nature.com/articles/292388a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/292388a0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuttal of criticisms of remote viewing experimentsby H PUTHOFF · 1981 · Cited by 16 — Rebuttal of criticisms of remote viewing experime...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: remote.com  
-   Link: [https://remote.com/en-gb/](https://remote.com/en-gb/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote — Global Employment Infrastructure | EOR, Payroll...Need to hire anyone, anywhere? We handle the employment contract, taxes, bene...</p></details>
+   Link: <a href="https://remote.com/en-gb/" target="_blank" rel="noopener noreferrer nofollow">https://remote.com/en-gb/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Employment Infrastructure | EOR, Payroll...Need to hire anyone, anywhere? We handle the employment contract, taxes, bene...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nature.org  
-   Link: [https://www.nature.org/en-us/](https://www.nature.org/en-us/)  
+   Link: <a href="https://www.nature.org/en-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.org/en-us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ervation in more than 80 countries and territories.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/284191a0](https://www.nature.com/articles/284191a0)  
+   Link: <a href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/284191a0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuttal of criticisms of remote viewing experiments. H. PUTHOFF; R. TARG. Nature (1981). You have full access to this article...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
    Title: Browse Articles Browse the archive of articles on Nature  
-   Link: [https://www.nature.com/nature/articles](https://www.nature.com/nature/articles)  
+   Link: <a href="https://www.nature.com/nature/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature/articles</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/4423858/](https://pubmed.ncbi.nlm.nih.gov/4423858/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/4423858/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1974 Oct 18;251(5476):602-7. doi: 10.1038/251602a0. Authors. R Targ, H Puthoff. PMID...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/7254336/](https://pubmed.ncbi.nlm.nih.gov/7254336/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRebuttal of criticisms of remote viewing experimentsRebuttal of criticisms of remote viewing experiments. Nature. 1981 Jul 23;292(5...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuttal of criticisms of remote viewing experimentsRebuttal of criticisms of remote viewing experiments. Nature. 1981 Jul 23;292(5...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: [https://en.wikipedia.org/wiki/Remote_viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingThe alleged paranormal ability to perceive a remote or hidden subject without support of the senses. Year proposed, 1970...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/7360248/](https://pubmed.ncbi.nlm.nih.gov/7360248/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7360248/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7360248/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Nature](https://en.wikipedia.org/wiki/Nature)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNature is an inherent character or constitution, [1] particularly of the ecosphere or the universe as a whole.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: library.harvard.edu  
-   Link: [https://library.harvard.edu/services-tools/nature](https://library.harvard.edu/services-tools/nature)  
+   Link: <a href="https://library.harvard.edu/services-tools/nature" target="_blank" rel="noopener noreferrer nofollow">https://library.harvard.edu/services-tools/nature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>provides access to many types of science research and news. It includes access to: Nature, the international science research journal.Rea...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/BF01961270](https://link.springer.com/article/10.1007/BF01961270)  
+   Link: <a href="https://link.springer.com/article/10.1007/BF01961270" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01961270</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>viewing | Cellular and Molecular Life Sciencesby C Scott · 1988 · Cited by 3 — Puthoff, H., and Targ, R., Rebuttal of criticisms of remot...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jspr.spr.ac.uk  
-   Link: [https://jspr.spr.ac.uk/index.php/jspr/article/view/38/54](https://jspr.spr.ac.uk/index.php/jspr/article/view/38/54)  
+   Link: <a href="https://jspr.spr.ac.uk/index.php/jspr/article/view/38/54" target="_blank" rel="noopener noreferrer nofollow">https://jspr.spr.ac.uk/index.php/jspr/article/view/38/54</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Information transmission under conditions of sensory shielding. Nature, 251(5476), 602–607. [https://doi.org/10.1038/251602a...&quot;](https://doi.org/10.1038/251602a...&quot;)...</p></details>
 
 0. More Inform
 
-
 24. <a id="endnote-24"></a>
    Source: merriam-webster.com  
    Title: NATUR E Definition & Meaning6 days ago — 1  
-   Link: [https://www.merriam-webster.com/dictionary/nature](https://www.merriam-webster.com/dictionary/nature)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/nature" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/nature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The external world in its entirety. 2. Natural scenery. Enjoyed the beauties of nature. 3. a: disposition, temperament. It was his natur...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: phys.org  
-   Link: [https://phys.org/journals/nature/](https://phys.org/journals/nature/)  
+   Link: <a href="https://phys.org/journals/nature/" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/journals/nature/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, first published on 4 November 1869, is ranked the world s most cited interdisciplinary scientific journal by the Science Edition of the...</p></details>
    Published: November 1869  
 
@@ -861,54 +851,54 @@ That tension is central to understanding Puthoff's credibility profile. The *Nat
 
 26. <a id="endnote-26"></a>
    Source: newdualism.org  
-   Link: [https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm](https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm)  
+   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-Initiated Remote Viewing At Stanford Research Institute[6] R. Targ and H. E. Puthoff, &quot;Information Transfer under Conditions of Senso...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theosophical.org  
-   Link: [https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities](https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities)  
+   Link: <a href="https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities" target="_blank" rel="noopener noreferrer nofollow">https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E. Puthoff. &quot;Information Transmission under Conditions of Sensory Shielding.&quot; Nature, 252 (Oct. 1974), 602-607. Zeilinger, Anton.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: open.library.ubc.ca  
-   Link: [https://open.library.ubc.ca/media/download/pdf/24/1.0368989/4](https://open.library.ubc.ca/media/download/pdf/24/1.0368989/4)  
+   Link: <a href="https://open.library.ubc.ca/media/download/pdf/24/1.0368989/4" target="_blank" rel="noopener noreferrer nofollow">https://open.library.ubc.ca/media/download/pdf/24/1.0368989/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>geller and the reception of parapsychology in the 1970sby JO Green · 2018 · Cited by 2 — In 1973, an article entitled &quot;Information Transm...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf](https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kammann offer criticism of the SRI experiments in &#x27;remote viewing&#x27;, the abil- ity of certain individuals to access...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: chriscarosa.com  
    Title: the stargate folly its never about the science its always about the funding  
-   Link: [https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/](https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/)  
+   Link: <a href="https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/" target="_blank" rel="noopener noreferrer nofollow">https://chriscarosa.com/2022/04/the-stargate-folly-its-never-about-the-science-its-always-about-the-funding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stargate Folly – It&#x27;s Never About The Science...26 Apr 2022 — The fruits of that study would be published in a paper titled “Informa...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
    Title: 15945437 Rebuttal of criticisms of remote viewing experiments  
-   Link: [https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments](https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments)  
+   Link: <a href="https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rebuttal of criticisms of remote viewing experimentsPDF | On Aug 1, 1981, H Puthoff and others published Rebuttal of criticisms of...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding](https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding)  
+   Link: <a href="https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sion accuracy by up to 40%, highlighting the role of sensory input in cognitive...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Information-transmission-under-conditions-of-Targ-Puthoff/c1a4db03518167f6b5df3ecea132f6cd7cb0db2e](https://www.semanticscholar.org/paper/Information-transmission-under-conditions-of-Targ-Puthoff/c1a4db03518167f6b5df3ecea132f6cd7cb0db2e)  
+   Link: <a href="https://www.semanticscholar.org/paper/Information-transmission-under-conditions-of-Targ-Puthoff/c1a4db03518167f6b5df3ecea132f6cd7cb0db2e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Information-transmission-under-conditions-of-Targ-Puthoff/c1a4db03518167f6b5df3ecea132f6cd7cb0db2e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>off · Published in Nature 18 October 1974 · Psychology.Read more...</p></details>
    Published: October 1974  
 
 34. <a id="endnote-34"></a>
    Source: andresdelgadoron.substack.com  
    Title: when psychic spies underwent scientific  
-   Link: [https://andresdelgadoron.substack.com/p/when-psychic-spies-underwent-scientific](https://andresdelgadoron.substack.com/p/when-psychic-spies-underwent-scientific)  
+   Link: <a href="https://andresdelgadoron.substack.com/p/when-psychic-spies-underwent-scientific" target="_blank" rel="noopener noreferrer nofollow">https://andresdelgadoron.substack.com/p/when-psychic-spies-underwent-scientific</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychic Spies Underwent Scientific TestingAppraising &quot;Information transmission under conditions of sensory shielding,&quot; published in Natur...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/900977492/Information-Transmission-Under-Conditions-of-Senso](https://www.scribd.com/document/900977492/Information-Transmission-Under-Conditions-of-Senso)  
+   Link: <a href="https://www.scribd.com/document/900977492/Information-Transmission-Under-Conditions-of-Senso" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/900977492/Information-Transmission-Under-Conditions-of-Senso</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It has been cited 167 times...Read more...</p></details>

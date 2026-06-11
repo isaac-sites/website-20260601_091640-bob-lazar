@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-remote-viewing/
 description: Focused pages that expand on Remote Viewing.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Hal_Puthoff_b03689_remote_viewing_credi_18f6c6
-parent_title: Remote Viewing | How Credible Is Hal Puthoff?
+parent_title: Remote Viewing
 parent_nav_short_title: Remote Viewing
 parent_permalink: /remote-viewing-c5c5e3/
 ---

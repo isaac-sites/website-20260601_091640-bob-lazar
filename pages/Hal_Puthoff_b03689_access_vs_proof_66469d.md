@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-hal-puthoff/
 nav_short_title: Access vs Proof
 title: Does Insider Access Prove His UFO Claims?
-title_full: Does Insider Access Prove His UFO Claims? | Puthoff
+title_full: Does Insider Access Prove His UFO Claims?
 display_title_short: Access vs Proof
 display_title: Access vs Proof
 heading_title: Does Insider Access Prove His UFO Claims?
@@ -289,7 +289,7 @@ next_link:
   permalink: /bigelow-links/
   short_title: Bigelow Links
   heading_title: Why the Bigelow Network Matters
-date: '2026-06-09 03:01:11 '
+date: '2026-06-11 21:06:11 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview.webp
@@ -299,7 +299,6 @@ image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview-social.
 ## Introduction
 
 [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s government-linked access makes him more relevant than a casual UFO commentator, but it does not prove his strongest UFO claims. The public record supports a narrower conclusion: Puthoff has worked around real defence, intelligence and contractor-funded research networks, including CIA-linked remote-viewing work at Stanford Research Institute, Bigelow-linked AAWSAP/AATIP activity, To The Stars Academy, and later UAP-related materials claims. What the public record does not establish is that he personally accessed recovered non-human craft, bodies, or a verified reverse-engineering programme. That distinction matters because much of Puthoff’s authority in UAP debates comes from proximity to classified or semi-classified systems, while the most extraordinary claims still rely on private sourcing, inference, disputed programme histories, and contested chains of custody. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview.webp" | relative_url }}" alt="Overview image for Access vs Proof" loading="eager" decoding="sync" fetchpriority="high">
 ## Verified institutional links
@@ -312,7 +311,6 @@ Puthoff was also associated with To The Stars Academy, the private organisation 
 
 These links matter because they establish access to people, contracts, documents, claims and technical conversations that ordinary members of the public would not have had. They are also the strongest part of the case for taking Puthoff seriously as a UAP-world insider. The mistake is to treat that access as if it automatically transfers credibility to every claim he repeats.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-1-dark.svg" | relative_url }}" alt="Access vs Proof illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where proximity becomes inference
 
@@ -323,7 +321,6 @@ The AAWSAP example shows the difference. The programme was real, funded and defe
 AARO’s 2024 historical report makes this distinction even more explicit. It says many modern claims about hidden reverse-engineering programmes came from people connected to AAWSAP/AATIP or later private UAP efforts, but that AARO found no empirical evidence that the US government or private companies were reverse-engineering extraterrestrial technology. AARO also reported that none of the interviewees it assessed had first-hand knowledge of the alleged hidden programmes they described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 That finding is contested by some UAP advocates, who argue that AARO’s access, framing or willingness to pursue classified leads may have been insufficient. But for assessing Puthoff’s public credibility, the key point is more basic: a documented programme, a classified environment, or a defence contractor relationship is not itself proof of the claim that the programme found non-human craft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mqldQHXofgE" title="CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer">CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: THIRD EYE DROPS with Michael Phillip &middot; Views: 177.5K &middot; Uploaded: September 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mqldQHXofgE">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +339,6 @@ AARO’s discussion of KONA BLUE is especially relevant to the access-versus-pro
 That is a crucial credibility mechanism. In UAP circles, the existence of a proposed programme can be retold as evidence that the government had something to hide. Yet the public record described by AARO points to a different possibility: advocates believed hidden material existed and tried to create a secure programme into which it could be moved. If that interpretation is right, the programme proposal proves belief, lobbying and bureaucratic movement, not possession of alien material.
 
 This does not make the people involved dishonest by default. It does, however, show how the UAP ecosystem can turn suspicion into structure. A group of experienced people may believe there is hidden technology; they seek official protection or funding; the paper trail then becomes evidence, to later audiences, that the hidden technology must have existed. That is the circularity sceptics worry about.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-2-dark.svg" | relative_url }}" alt="Access vs Proof illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recent claims still depend on second-hand sourcing
@@ -367,7 +363,6 @@ A careful reader should separate three layers:
 
 The 2021 ODNI UAP assessment offers a useful middle position. It said many reported UAP probably represented physical objects, and that some appeared to show unusual flight characteristics, but it also stressed limited high-quality reporting, possible sensor errors or misperception, and the need for more rigorous analysis. That is a very different evidential posture from “government insiders have proved non-human technology”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Prelimary Assessment UAP 20210625</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gvtzivRF6ZQ" title="&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer">&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 44.7K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gvtzivRF6ZQ">Open on YouTube</a></p></div></div></div>
 
 ## What strengthens or weakens Puthoff’s credibility here
@@ -378,7 +373,6 @@ He is weaker when the question becomes whether that government access proves the
 
 Supporters can reasonably object that official reviews may miss deeply buried programmes, that classification can prevent public proof, and that serious insiders would not risk reputation without reason. Those are arguments for continued investigation and lawful disclosure, not proof. Sceptics can reasonably object that decades of claims have still not produced public, independently testable evidence. That is a serious weakness for any claim as extraordinary as recovered non-human technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gf_tKn9TaP8" title="Joe Rogan Experience #2314 - Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2314 - Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.6M &middot; Uploaded: May 2025 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gf_tKn9TaP8">Open on YouTube</a></p></div></div></div>
 
 ## Bottom line
@@ -386,7 +380,6 @@ Supporters can reasonably object that official reviews may miss deeply buried pr
 Insider access makes Hal Puthoff relevant; it does not make his strongest UFO claims proven. His verified career gives him more standing than a casual commentator, and his proximity to real programmes helps explain why he remains influential in UAP circles. But the evidential burden rises with the scale of the claim. A defence contract, a classified-adjacent project, an Army testing agreement, or a network of former officials can show that people inside the system took a subject seriously. They cannot, on their own, establish recovered alien craft, bodies, or reverse-engineered non-human technology.
 
 The most balanced reading is that Puthoff’s access is a reason to examine his claims carefully, not a reason to accept them automatically. His credibility is strongest as evidence of institutional interest and weakest where public proof depends on second-hand testimony, assumed hidden programmes, privately held materials, or claims that official reviews say they could not substantiate.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-3-dark.svg" | relative_url }}" alt="Access vs Proof illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -507,15 +500,15 @@ The most balanced reading is that Puthoff’s access is a reason to examine his 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;"><img src="https://i.ebayimg.com/images/g/Y0gAAOSw0LlnzfYK/s-l225.jpg" alt="Listing image for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +516,15 @@ The most balanced reading is that Puthoff’s access is a reason to examine his 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="https://i.ebayimg.com/images/g/~EEAAeSwJyFoFLyk/s-l225.jpg" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +532,31 @@ The most balanced reading is that Puthoff’s access is a reason to examine his 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG"><img src="https://i.ebayimg.com/images/g/jpMAAeSwc51pci-9/s-l225.jpg" alt="Listing image for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="https://i.ebayimg.com/images/g/bLgAAeSwIDhqDxIn/s-l225.jpg" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +564,7 @@ The most balanced reading is that Puthoff’s access is a reason to examine his 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-insider-access-prove-his-ufo-claims-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="does-insider-access-prove-his-ufo-claims-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,110 +779,110 @@ The most balanced reading is that Puthoff’s access is a reason to examine his 
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/</a>  
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims](https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims)  
+   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
 
 9. <a id="endnote-9"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company](https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company)  
+   Link: <a href="https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company</a>  
 
 10. <a id="endnote-10"></a>
    Source: fox5ny.com  
    Title: FOX 5 New York UFO insider claims US has bodies of 4 different alien  
-   Link: [https://www.fox5ny.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft](https://www.fox5ny.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft)  
+   Link: <a href="https://www.fox5ny.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/ufo-insider-claims-us-bodies-alien-species-spacecraft</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: [https://en.wikipedia.org/wiki/Remote_viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
 
 12. <a id="endnote-12"></a>
    Source: history.co.uk  
    Title: hal puthoff  
-   Link: [https://www.history.co.uk/shows/unidentified/cast/hal-puthoff](https://www.history.co.uk/shows/unidentified/cast/hal-puthoff)  
+   Link: <a href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/cast/hal-puthoff</a>  
 
 13. <a id="endnote-13"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
 
 14. <a id="endnote-14"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: 'America recovered 4 ALIEN species…': Ex-CIA insider drops explosive UFO claim  
-   Link: [https://www.youtube.com/watch?v=gvtzivRF6ZQ](https://www.youtube.com/watch?v=gvtzivRF6ZQ)  
+   Link: <a href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gvtzivRF6ZQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Physicist on [Ultraterrestrials](&amp;#123;&amp;#123; &#x27;ultraterrestrials/&#x27; | relative_url &amp;#125;&amp;#125;): The Classified Truth About UFOs? | Dr. Hal Puthoff...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mqldQHXofgE](https://www.youtube.com/watch?v=mqldQHXofgE)  
+   Link: <a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqldQHXofgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Dr. Hal Puthoff is at the forefront of propulsion research...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Co-founder Dr. Hal Puthoff is at the forefront of propulsion research  
-   Link: [https://www.youtube.com/watch?v=YuuIZhP3xFI](https://www.youtube.com/watch?v=YuuIZhP3xFI)  
+   Link: <a href="https://www.youtube.com/watch?v=YuuIZhP3xFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YuuIZhP3xFI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking: Former CIA Scientist Claims America Recovered 4 Alien Species From UFO Crashes...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gf_tKn9TaP8](https://www.youtube.com/watch?v=Gf_tKn9TaP8)  
+   Link: <a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gf_tKn9TaP8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/](https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/)  
+   Link: <a href="https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/](https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/)  
+   Link: <a href="https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/</a>  
 
 22. <a id="endnote-22"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/852968363/23-F-0922-4](https://www.scribd.com/document/852968363/23-F-0922-4)  
+   Link: <a href="https://www.scribd.com/document/852968363/23-F-0922-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852968363/23-F-0922-4</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/](https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/</a>

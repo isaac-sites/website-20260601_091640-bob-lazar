@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-prediction-2027/
 description: Focused pages that expand on 2027 Claim.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: John_Ramirez_18aa07_prediction_2027_32e6af
-parent_title: 2027 Claim | How Credible Is John Ramirez?
+parent_title: 2027 Claim
 parent_nav_short_title: 2027 Claim
 parent_permalink: /2027-claim/
 ---

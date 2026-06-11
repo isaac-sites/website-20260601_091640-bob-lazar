@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /ultraterrestrials/
 nav_short_title: Origin Menu
 title: Does a Wider UAP Theory Help or Hurt?
-title_full: Does a Wider UAP Theory Help or Hurt? | Ultraterrestrials
+title_full: Does a Wider UAP Theory Help or Hurt?
 display_title_short: Origin Menu
 display_title: Origin Menu
 heading_title: Does a Wider UAP Theory Help or Hurt?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Is Puthoff Really Claiming? | Puthoff
+parent_title: What Is Puthoff Really Claiming?
 parent_permalink: /ultraterrestrials/
 parent_nav_short_title: Ultraterrestrials
 parent_heading_title: What Is Puthoff Really Claiming?
@@ -253,7 +253,7 @@ next_link:
   permalink: /sensor-tests/
   short_title: Sensor Tests
   heading_title: The Test That Could Make UAP Claims Stronger
-date: '2026-06-09 03:03:00 '
+date: '2026-06-11 21:06:50 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu
 
 ## Introduction
 
-[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s “[ultraterrestrial]({{ 'ultraterrestrials/' | relative_url }})” framework is unusual because it does not commit to a single explanation for unidentified anomalous phenomena (UAP). Instead, it offers a menu of possibilities: extraterrestrial visitors, hidden terrestrial intelligences, ancient surviving civilisations, interdimensional entities, time travellers, or combinations of several categories. Puthoff argues that investigators should not assume that every genuinely anomalous case must point to spacecraft arriving from another star system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[thejournalofcosmology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-title">ULTRATERRESTRIA L MODELSby HE Puthoff · Cited by 16 — ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">H. E. Puthoff, Ph.D. Institute for Advanced Studies at Austin puthoff@aol.com. Page 2. Journal of Cosmology, Vol. 29, No. 1, pp. 20001...</span></span></span>
-
+[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s “ultraterrestrial” framework is unusual because it does not commit to a single explanation for unidentified anomalous phenomena (UAP). Instead, it offers a menu of possibilities: extraterrestrial visitors, hidden terrestrial intelligences, ancient surviving civilisations, interdimensional entities, time travellers, or combinations of several categories. Puthoff argues that investigators should not assume that every genuinely anomalous case must point to spacecraft arriving from another star system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[thejournalofcosmology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-title">ULTRATERRESTRIA L MODELSby HE Puthoff · Cited by 16 — ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">H. E. Puthoff, Ph.D. Institute for Advanced Studies at Austin puthoff@aol.com. Page 2. Journal of Cosmology, Vol. 29, No. 1, pp. 20001...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1-dark.svg" | relative_url }}" alt="Origin Menu illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That broader framing has attracted both interest and criticism. Supporters argue that it avoids premature conclusions and reflects the unresolved state of the evidence. Critics argue that the wider the menu becomes, the harder it is to test. If almost any strange report can be fitted into one of many possible origin theories, the central problem becomes proving that any particular explanation is correct rather than merely imaginable. That tension sits at the heart of the credibility debate around Puthoff’s ultraterrestrial model.
@@ -295,10 +294,9 @@ Consider a hypothetical UAP displaying unusual manoeuvres.
 
 A believer could interpret the same observation as:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[* advanced extraterrestrial technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Time traveler UFO hypothesis</span><span class="citation-popover-snippet">Time-traveler UFO hypothesisThe proposal that unidentified flying objects are humans traveling from the future using advanced technology...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[* hidden Earth-based technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">estrial Models...</span></span></span>
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* advanced extraterrestrial technology, <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Time traveler UFO hypothesis</span><span class="citation-popover-snippet">Time-traveler UFO hypothesisThe proposal that unidentified flying objects are humans traveling from the future using advanced technology...</span></span></span> * hidden Earth-based technology, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">estrial Models...</span></span></span>
 * interdimensional transit,
 * time-travel technology, <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Time traveler UFO hypothesis</span><span class="citation-popover-snippet">Time-traveler UFO hypothesisThe proposal that unidentified flying objects are humans traveling from the future using advanced technology...</span></span></span>
 * a non-human intelligence manipulating perception,
@@ -311,9 +309,6 @@ The observed event alone may not distinguish among them.
 This creates what sceptics view as the central methodological problem. A theory becomes difficult to falsify when almost any outcome can be absorbed into the model. If a craft appears physical, it may be extraterrestrial. If it appears to vanish, it may be interdimensional. If it resembles historical folklore, it may be ultraterrestrial. If evidence is sparse, secrecy becomes part of the explanation.
 
 The result is a framework that can expand to accommodate new claims faster than those claims can be independently verified.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKGw7soZTnI" title="Have UltraTerrestrials been here all along?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer">Have UltraTerrestrials been here all along?</a></p><p class="youtube-embed-meta">Channel: Lehto Files &middot; Views: 69.5K &middot; Uploaded: October 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKGw7soZTnI">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between Possibility and Evidence
 
@@ -339,7 +334,6 @@ Supporters also point to a practical issue: if investigators do not know what th
 
 In this reading, the ultraterrestrial framework is not evidence that hidden intelligences exist. It is an argument that existing assumptions may be too narrow.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-2-dark.svg" | relative_url }}" alt="Origin Menu illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Would Actually Separate the Theories?
 
@@ -350,7 +344,6 @@ Different origin theories would require different forms of proof.
 ### Evidence for extraterrestrial origins
 
 The strongest indicators would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,15 +356,13 @@ The strongest indicators would include:
 
 At present, no publicly available evidence meets that standard.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gf_tKn9TaP8" title="Joe Rogan Experience #2314 - Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2314 - Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.6M &middot; Uploaded: around May 2025 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gf_tKn9TaP8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKGw7soZTnI" title="Have UltraTerrestrials been here all along?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer">Have UltraTerrestrials been here all along?</a></p><p class="youtube-embed-meta">Channel: Lehto Files &middot; Views: 69.5K &middot; Uploaded: October 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKGw7soZTnI">Open on YouTube</a></p></div></div></div>
 
 ### Evidence for crypto-terrestrial or hidden-Earth origins
 
 A hidden terrestrial civilisation would require evidence of infrastructure.
 
 Examples might include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -388,7 +379,6 @@ Again, no publicly accepted evidence currently establishes such a civilisation.
 
 Time-travel explanations would need:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * demonstrable manipulation of causality,
@@ -400,14 +390,12 @@ Time-travel explanations would need:
 
 Such evidence remains absent from the public record.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-3-dark.svg" | relative_url }}" alt="Origin Menu illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Evidence for interdimensional explanations
 
 This category is especially difficult because the underlying concept lacks a settled scientific definition.
 
 Investigators would need:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -431,10 +419,6 @@ If readers treat it as a taxonomy of unresolved hypotheses, the picture changes.
 The difficulty is that public UFO discussions often blur the line between those two positions. A menu of possibilities can easily be mistaken for evidence that all the listed possibilities are equally likely.
 
 That is where the proof problem becomes most important. The broader Puthoff's origin framework becomes, the greater the burden on researchers to show what evidence would eliminate competing explanations. Without that narrowing process, the theory remains an open-ended map of possibilities rather than a demonstrated account of what UAP actually are.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -553,15 +537,15 @@ That is where the proof problem becomes most important. The broader Puthoff's or
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print"><img src="https://i.ebayimg.com/images/g/gc0AAeSwFxxpqA0o/s-l225.jpg" alt="Listing image for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +553,15 @@ That is where the proof problem becomes most important. The broader Puthoff's or
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE"><img src="https://i.ebayimg.com/images/g/5C0AAOSwLvFh5Fx1/s-l225.jpg" alt="Listing image for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +569,15 @@ That is where the proof problem becomes most important. The broader Puthoff's or
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton"><img src="https://i.ebayimg.com/images/g/HAMAAeSwmDRpm32n/s-l225.jpg" alt="Listing image for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,15 +585,15 @@ That is where the proof problem becomes most important. The broader Puthoff's or
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for alien Paul movie film character Original Art Print Signed Drawing"><img src="https://i.ebayimg.com/images/g/M8UAAOSwbtNjrVoa/s-l225.jpg" alt="Listing image for alien Paul movie film character Original Art Print Signed Drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">alien Paul movie film character Original Art Print Signed Drawing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -617,7 +601,7 @@ That is where the proof problem becomes most important. The broader Puthoff's or
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="origin-menu-does-a-wider-uap-theory-help-or-hurt-hal-puthoff-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-a-wider-uap-theory-help-or-hurt-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="does-a-wider-uap-theory-help-or-hurt-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -833,124 +817,124 @@ That is where the proof problem becomes most important. The broader Puthoff's or
 1. <a id="endnote-1"></a>
    Source: thejournalofcosmology.com  
    Title: ULTRATERRESTRIA L MODELSby HE Puthoff · Cited by 16 — ULTRATERRESTRIAL MODELS  
-   Link: [https://thejournalofcosmology.com/Puthoff.pdf](https://thejournalofcosmology.com/Puthoff.pdf)  
+   Link: <a href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thejournalofcosmology.com/Puthoff.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>H. E. Puthoff, Ph.D. Institute for Advanced Studies at Austin puthoff@aol.com. Page 2. Journal of Cosmology, Vol. 29, No. 1, pp. 20001...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: thejournalofcosmology.com  
    Title: Journal of Cosmology, Volume 29 Contents1  
-   Link: [https://thejournalofcosmology.com/indexVol29CONTENTS.htm](https://thejournalofcosmology.com/indexVol29CONTENTS.htm)  
+   Link: <a href="https://thejournalofcosmology.com/indexVol29CONTENTS.htm" target="_blank" rel="noopener noreferrer nofollow">https://thejournalofcosmology.com/indexVol29CONTENTS.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff PhD, Ultraterrestrial Models, Under consideration in this paper are two seminal statements and their concomitants, currently...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Hal Puthoff's paper  
-   Link: [https://www.reddit.com/r/aliens/comments/wdre7v/hal_puthoffs_paper_its_both_ultraterrestrials_and/](https://www.reddit.com/r/aliens/comments/wdre7v/hal_puthoffs_paper_its_both_ultraterrestrials_and/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/wdre7v/hal_puthoffs_paper_its_both_ultraterrestrials_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/wdre7v/hal_puthoffs_paper_its_both_ultraterrestrials_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a huge leap forward for disclosure. He is THE scientist who has been in the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Interdimensional UFO hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis](https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/](https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/)  
+   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/y2lu1o/are_older_hidden_earthbased_civilizations_sharing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>estrial Models...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: 'Ultraterrestrial Models' (H  
-   Link: [https://www.reddit.com/r/UFOs/comments/1d6h57o/ultraterrestrial_models_h_puthoff_2022_discusses/](https://www.reddit.com/r/UFOs/comments/1d6h57o/ultraterrestrial_models_h_puthoff_2022_discusses/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d6h57o/ultraterrestrial_models_h_puthoff_2022_discusses/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6h57o/ultraterrestrial_models_h_puthoff_2022_discusses/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Puthoff, 2022) discusses...&#x27;Ultraterrestrial Models&#x27; (H. Puthoff, 2022) discusses hypothetical UAP origins including ancient occult grou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/wd1850/hal_puthoffs_muchanticipated_paper_on_the/](https://www.reddit.com/r/UFOs/comments/wd1850/hal_puthoffs_muchanticipated_paper_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wd1850/hal_puthoffs_muchanticipated_paper_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wd1850/hal_puthoffs_muchanticipated_paper_on_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff&#x27;s much-anticipated paper on the ultraterrestrial...There is an unidentified phenomenon interacting with the current human po...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Cryptoterrestrial hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis](https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptoterrestrial hypothesisDemonic UFO hypothesis · Hollow Earth hypothesis · Ancient aliens hypothesis · Silurian hypothesis · Time...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Time traveler UFO hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis](https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Time-traveler_UFO_hypothesis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time-traveler UFO hypothesisThe proposal that unidentified flying objects are humans traveling from the future using advanced technology...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Hal Puthoff's [Ultraterrestrials](&#123;&#123; 'ultraterrestrials/' | relative_url &#125;&#125;) Paper PART 2 | Science of the Strange  
-   Link: [https://www.youtube.com/watch?v=SKGw7soZTnI](https://www.youtube.com/watch?v=SKGw7soZTnI)  
+   Link: <a href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SKGw7soZTnI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - The Interdimensional &amp; Ultraterrestrial Hypothesis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Jacques Vallée  
-   Link: [https://www.youtube.com/watch?v=vVkaGvR7k6U](https://www.youtube.com/watch?v=vVkaGvR7k6U)  
+   Link: <a href="https://www.youtube.com/watch?v=vVkaGvR7k6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vVkaGvR7k6U</a>  
 
 12. <a id="endnote-12"></a>
    Source: finance.yahoo.com  
-   Link: [https://finance.yahoo.com/quote/HAL/](https://finance.yahoo.com/quote/HAL/)  
+   Link: <a href="https://finance.yahoo.com/quote/HAL/" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/quote/HAL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Company (HAL) Stock Price, News, Quote &amp;...Halliburton (HAL) reported solid Q1 earnings with $5.40 billion in revenue, surpassing estima...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufogaragepodcast.com  
    Title: Hal Puthoff  
-   Link: [https://ufogaragepodcast.com/hal-puthoff-extraterrestrial-models/?srsltid=AfmBOopfWxWPPE6aaHH6nHL2jlvkOV8mZzwV1MEBS-SQN7msVODptox-](https://ufogaragepodcast.com/hal-puthoff-extraterrestrial-models/?srsltid=AfmBOopfWxWPPE6aaHH6nHL2jlvkOV8mZzwV1MEBS-SQN7msVODptox-)  
+   Link: <a href="https://ufogaragepodcast.com/hal-puthoff-extraterrestrial-models/?srsltid=AfmBOopfWxWPPE6aaHH6nHL2jlvkOV8mZzwV1MEBS-SQN7msVODptox-" target="_blank" rel="noopener noreferrer nofollow">https://ufogaragepodcast.com/hal-puthoff-extraterrestrial-models/?srsltid=AfmBOopfWxWPPE6aaHH6nHL2jlvkOV8mZzwV1MEBS-SQN7msVODptox-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultraterrestrial Models - UFO Garage PodcastSep 14, 2022 — A highly technologically advanced civilization of beings secretly co-existing...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: tvtropes.org  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Main/Ultraterrestrials](https://tvtropes.org/pmwiki/pmwiki.php/Main/Ultraterrestrials)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Ultraterrestrials" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/Ultraterrestrials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UltraterrestrialsThe ultraterrestrials are an alien race that, well, isn&#x27;t really alien. In fact, they originate from Earth, just like us...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/paranormalphilippinesoriginal/posts/ultraterrestrial-models-h-e-puthoff-phd-institute-for-advanced-studies-at-austin/766308915525511/](https://www.facebook.com/paranormalphilippinesoriginal/posts/ultraterrestrial-models-h-e-puthoff-phd-institute-for-advanced-studies-at-austin/766308915525511/)  
+   Link: <a href="https://www.facebook.com/paranormalphilippinesoriginal/posts/ultraterrestrial-models-h-e-puthoff-phd-institute-for-advanced-studies-at-austin/766308915525511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalphilippinesoriginal/posts/ultraterrestrial-models-h-e-puthoff-phd-institute-for-advanced-studies-at-austin/766308915525511/</a>  
 
 16. <a id="endnote-16"></a>
    Source: jasoncolavito.com  
    Title: hal puthoff publishes pitiful paper proposing plans to probe ultraterrestrials  
-   Link: [https://www.jasoncolavito.com/blog/hal-puthoff-publishes-pitiful-paper-proposing-plans-to-probe-ultraterrestrials](https://www.jasoncolavito.com/blog/hal-puthoff-publishes-pitiful-paper-proposing-plans-to-probe-ultraterrestrials)  
+   Link: <a href="https://www.jasoncolavito.com/blog/hal-puthoff-publishes-pitiful-paper-proposing-plans-to-probe-ultraterrestrials" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/hal-puthoff-publishes-pitiful-paper-proposing-plans-to-probe-ultraterrestrials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff Publishes Pitiful Paper Proposing Plans to...Aug 1, 2022 — When Puthoff gets down to brass tacks in examining how to look fo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mqldQHXofgE](https://www.youtube.com/watch?v=mqldQHXofgE)  
+   Link: <a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqldQHXofgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Physicist on Ultraterrestrials: The Classified Truth About...Hal Puthoff released a fascinating paper titled Ultraterrestrial Models...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98](https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98)  
+   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild Flower Press. Spotlight, 7NEWS. (2022). UFO &amp; UAP “Need to Know” News Documentary...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: grahamenglish.com  
-   Link: [https://grahamenglish.com/ultraterrestrial-hypothesis/](https://grahamenglish.com/ultraterrestrial-hypothesis/)  
+   Link: <a href="https://grahamenglish.com/ultraterrestrial-hypothesis/" target="_blank" rel="noopener noreferrer nofollow">https://grahamenglish.com/ultraterrestrial-hypothesis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the Ultraterrestrial Hypothesis and explore myths, cryptids, and science behind the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bleav.com  
-   Link: [https://bleav.com/shows/bible-mysteries/episodes/episode-116-extra-or-ultra-terrestrial-part-2/](https://bleav.com/shows/bible-mysteries/episodes/episode-116-extra-or-ultra-terrestrial-part-2/)  
+   Link: <a href="https://bleav.com/shows/bible-mysteries/episodes/episode-116-extra-or-ultra-terrestrial-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://bleav.com/shows/bible-mysteries/episodes/episode-116-extra-or-ultra-terrestrial-part-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bible Mysteries: Episode 116: Extra or Ultra Terrestrial Part 2Dec 5, 2022 — entitled Ultraterrestrial Models which was published in Jour...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/](https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/)  
+   Link: <a href="https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s finally been published and it triggered Jason Colavito into a...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/ufos-and-time-travel-are-we-the-aliens-were-looking-for-8fa10e31f446](https://medium.com/predict/ufos-and-time-travel-are-we-the-aliens-were-looking-for-8fa10e31f446)  
+   Link: <a href="https://medium.com/predict/ufos-and-time-travel-are-we-the-aliens-were-looking-for-8fa10e31f446" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/ufos-and-time-travel-are-we-the-aliens-were-looking-for-8fa10e31f446</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Time Travel: Are We the Aliens We&#x27;re Looking...Hal Puthoff&#x27;s ultraterrestrial lens (“ancient aliens” as future humans)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: static.foxnews.com  
-   Link: [https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf](https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf)  
+   Link: <a href="https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cryptoterrestrial hypothesisJun 3, 2024 — Extraterrestrial aliens or our intertemporal descendants who “arrived” on Earth from elsewhere...</p></details>

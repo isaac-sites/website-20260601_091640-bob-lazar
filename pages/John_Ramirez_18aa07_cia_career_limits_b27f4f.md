@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-john-ramirez/
 nav_short_title: CIA Career
 title: What Does His CIA Career Prove?
-title_full: What Does His CIA Career Prove? | Ramirez
+title_full: What Does His CIA Career Prove?
 display_title_short: CIA Career
 display_title: CIA Career
 heading_title: What Does His CIA Career Prove?
@@ -289,7 +289,7 @@ next_link:
   permalink: /claim-types/
   short_title: Claim Types
   heading_title: Which Ramirez Claims Are Strongest?
-date: '2026-06-09 02:58:54 '
+date: '2026-06-11 21:04:49 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-overview-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-overview-soci
 
 ## Introduction
 
-[John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s CIA career is the strongest part of his public credibility, but it does not prove his UFO or UAP claims. Public biographies repeatedly describe him as a former CIA officer who served from 1984 to 2009, with work across the Directorate of Science and Technology, the Directorate of Intelligence and the ODNI National [Counterproliferation]({{ 'threat-work/' | relative_url }}) Center. Those details make his background more substantial than that of a casual UFO commentator. They also explain why audiences take him seriously when he discusses classified culture, sensors, intelligence compartmentalisation and government secrecy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
-
+John Ramirez’s CIA career is the strongest part of his public credibility, but it does not prove his UFO or UAP claims. Public biographies repeatedly describe him as a former CIA officer who served from 1984 to 2009, with work across the Directorate of Science and Technology, the Directorate of Intelligence and the ODNI National Counterproliferation Center. Those details make his background more substantial than that of a casual UFO commentator. They also explain why audiences take him seriously when he discusses classified culture, sensors, intelligence compartmentalisation and government secrecy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-overview.webp" | relative_url }}" alt="Overview image for CIA Career" loading="eager" decoding="sync" fetchpriority="high">
 The limit is equally important. A plausible intelligence career is not the same as verified access to hidden UAP programmes, crash retrievals, alien biology, human hybrids or future disclosure planning. Ramirez’s career may support a narrower claim — that he understands parts of the US intelligence system — but it cannot, on its own, authenticate his most extraordinary public assertions. That distinction is the key to judging him fairly.
@@ -308,12 +307,11 @@ The limit is equally important. A plausible intelligence career is not the same 
 
 The standard public résumé attached to Ramirez says he spent 25 years in US intelligence, from 1984 to 2009. Coast to Coast AM’s biography says he served in the CIA Directorate of Science and Technology, the Directorate of Intelligence and the ODNI National Counterproliferation Center, specialising in ballistic missile defence systems and signals analysis of weapon-system radars. It also describes him as having served as Chief of Base at an overseas technical collection facility and as Chief of the Electronic Intelligence Analysis Branch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
-That is a specific and career-plausible profile. The CIA’s own public description of its organisation includes a Directorate of Analysis and a Directorate of Science and Technology, while ODNI describes the current National Counterproliferation and Biosecurity Center as an office aligned under the Director of National Intelligence and focused on weapons of mass destruction, delivery systems, related technologies and expertise. Ramirez’s claimed work in missile defence, radar and technical collection therefore fits recognisable intelligence-community categories rather than sounding like an invented paranormal title. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/careers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIACIA CareersWhen you&#x27;re a part of the Nation&#x27;s premier intelligence agency, your opportunities for personal and professional growth are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/about/organization/directorate-of-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIADirectorate of AnalysisA career in the Directorate of Analysis means anticipating and quickly assessing evolving international develop...</span></span></span>
+That is a specific and career-plausible profile. The CIA’s own public description of its organisation includes a Directorate of Analysis and a Directorate of Science and Technology, while ODNI describes the current National Counterproliferation and Biosecurity Center as an office aligned under the Director of National Intelligence and focused on weapons of mass destruction, delivery systems, related technologies and expertise. Ramirez’s claimed work in missile defence, radar and technical collection therefore fits recognisable intelligence-community categories rather than sounding like an invented paranormal title. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/careers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA CareersWhen you&#x27;re a part of the Nation&#x27;s premier intelligence agency, your opportunities for personal and professional growth are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/about/organization/directorate-of-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Directorate of AnalysisA career in the Directorate of Analysis means anticipating and quickly assessing evolving international develop...</span></span></span>
 
 The Anomaly Archives entry for Ramirez gives a similar résumé and describes him as a founding member of the ODNI counterproliferation centre, a signals-intelligence specialist and a multi-discipline collection requirements strategist for counterproliferation equities. This adds another public-source repetition of the broad career outline, although it is still not the same as an official personnel file or a declassified duty-history record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalyarchives.org/collections/file/ramirez-john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalyarchives.org">[Anomaly Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalyarchives.org</span><span class="citation-popover-title">Anomaly Archives Ramirez, John</span><span class="citation-popover-snippet">Anomaly Archives Ramirez, John</span></span></span>
 
 The useful reading is therefore cautious but not dismissive. Ramirez’s claimed career background is not merely “a man on the internet says he was CIA”. It is a repeated, reasonably detailed public biography that aligns with real institutional structures. The public record is much weaker, however, on the exact duties, clearances, compartments and UAP-related access that would be needed to turn that résumé into proof of his UFO claims.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-1-dark.svg" | relative_url }}" alt="CIA Career illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What His CIA Roles Could Plausibly Support
@@ -331,7 +329,6 @@ That kind of background can make Ramirez a useful commentator on process. He may
 * why an intelligence officer might hear rumours without being formally “[read into]({{ 'read-into/' | relative_url }})” a programme.
 
 But these are process-based credibility points, not claim-based proof. His background can make some of his explanations about intelligence culture more informed. It does not automatically validate claims about non-human intelligence, alien hybrids, secret reverse-engineering programmes or a specific future disclosure date.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10iB9C9szTo" title="CIA Officer FINALLY Breaks Silence on UFO &amp; Alien Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10iB9C9szTo" target="_blank" rel="noopener noreferrer">CIA Officer FINALLY Breaks Silence on UFO &amp; Alien Evidence</a></p><p class="youtube-embed-meta">Channel: Voyager &middot; Views: 782.1K &middot; Uploaded: August 2023 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10iB9C9szTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10iB9C9szTo">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +350,6 @@ There is also a practical reason not to overread silence or vagueness. Former in
 
 That cuts both ways. It may explain why a former officer avoids naming sources or disclosing details. But it also means the public cannot simply accept “I cannot say more” as evidence. Classification limits may explain missing proof; they do not replace it.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-2-dark.svg" | relative_url }}" alt="CIA Career illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Official UAP Reporting Narrows the Claim
 
@@ -362,7 +358,6 @@ The strongest institutional counterweight to Ramirez-style claims is not a debun
 That does not prove every unresolved case is mundane. ODNI and DOD reporting continues to acknowledge UAP reports, unresolved cases and the need for better data. The 2024 consolidated annual report was published as part of continuing government UAP reporting rather than as a declaration that the subject is closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 The effect on Ramirez’s credibility is specific: official reporting leaves room for anomalous observations, reporting failures and national-security questions, but it does not publicly support the more expansive claims often associated with him. A careful reader should therefore separate three levels of claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,7 +369,6 @@ The effect on Ramirez’s credibility is specific: official reporting leaves roo
 
 That structure is more useful than simply calling him credible or not credible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nS_Insp7i_Y" title="Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42</a></p><p class="youtube-embed-meta">Channel: Area52 &middot; Views: 984.1K &middot; Uploaded: June 2025 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nS_Insp7i_Y">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between Ramirez and Formal Whistleblower Channels
@@ -384,7 +378,6 @@ Ramirez is often discussed alongside other UAP insiders, but his public posture 
 Ramirez’s public profile, by contrast, is built mainly through interviews, podcasts, conference-style appearances and UFO-media platforms. That does not make him automatically wrong. It does mean the evidential trail is less formal and more personality-driven. The reader is usually asked to weigh his career, demeanour and claimed insider knowledge rather than a released complaint, sworn testimony, documentary package or official finding.
 
 This distinction is important because the UFO field often treats all “former government insiders” as if they carry the same evidential status. They do not. A retired officer making broad public claims from memory, inference or unnamed conversations is not the same as a current programme witness producing documents under legal protection. Ramirez’s CIA background may make him notable; it does not place his UAP claims at the highest evidential tier.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ZHWcMndjKI" title="John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer">John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 32.2K &middot; Uploaded: June 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ZHWcMndjKI">Open on YouTube</a></p></div></div></div>
 
@@ -396,90 +389,47 @@ The credibility limit is that none of those roles, as publicly described, requir
 
 A balanced reader should therefore treat Ramirez as an intelligence-linked UAP personality, not as proof of disclosure. His career is relevant background. It is not a substitute for corroboration. The strongest claim that can safely be made is modest: Ramirez appears to be a former intelligence professional whose résumé gives him some authority on how secret systems work, but his most extraordinary UFO claims remain publicly unverified.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-3-dark.svg" | relative_url }}" alt="CIA Career illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Does His CIA Career Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Does His CIA Career Prove?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xVjhAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Craft of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Allen Dulles</p>
-        
-        <p class="fr-book-desc">Helps readers understand what intelligence careers actually involve and what they do not prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legacy of Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=obptf9pGlbUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Legacy of Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
-        </h4>
-        <p class="fr-book-author">By Tim Weiner</p>
-        
-        <p class="fr-book-desc">Provides broader context for evaluating CIA credentials and institutional claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Useful comparison point for weighing official credentials against evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spycraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
-        </h4>
-        <p class="fr-book-author">By Robert Wallace</p>
-        
-        <p class="fr-book-desc">Illustrates technical intelligence work similar to roles often cited in Ramirez biographies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legacy+of+Ashes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legacy of Ashes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -516,15 +466,15 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97"><img src="https://i.ebayimg.com/images/g/yPoAAOSwvGZh05QJ/s-l225.jpg" alt="Listing image for Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer">Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +482,15 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Central Intelligence Agency CIA SEG Patch (FC)"><img src="https://i.ebayimg.com/images/g/xkkAAOSwM-Ni4WPX/s-l225.jpg" alt="Listing image for Central Intelligence Agency CIA SEG Patch (FC)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer">Central Intelligence Agency CIA SEG Patch (FC)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +498,15 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/7e41c81d7e4333fac25a.jpg' | relative_url }}" alt="Listing image for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11"><img src="https://i.ebayimg.com/images/g/55gAAeSwgMRo1NYR/s-l225.jpg" alt="Listing image for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +514,15 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Badge Patch Heat Stick Patch"><img src="https://i.ebayimg.com/images/g/mDYAAOSwcx5ZZebs/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Badge Patch Heat Stick Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Badge Patch Heat Stick Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,7 +530,7 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="cia-career-what-does-his-cia-career-prove-john-ramirez-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-his-cia-career-prove-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="what-does-his-cia-career-prove-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -796,164 +746,164 @@ A balanced reader should therefore treat Ramirez as an intelligence-linked UAP p
 1. <a id="endnote-1"></a>
    Source: coasttocoastam.com  
    Title: john ramirez  
-   Link: [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dni.gov  
    Title: National Counterproliferation and Biosecurity Center History  
-   Link: [https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center](https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center)  
+   Link: <a href="https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBC is one of four centers under the Office of the Director of National Intelligence. It was founded in 2005 Based on recommendations fr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/careers](https://www.cia.gov/careers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIACIA CareersWhen you&#x27;re a part of the Nation&#x27;s premier intelligence agency, your opportunities for personal and professional growth are...</p></details>
+   Link: <a href="https://www.cia.gov/careers" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/careers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA CareersWhen you&#x27;re a part of the Nation&#x27;s premier intelligence agency, your opportunities for personal and professional growth are...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/about/organization/directorate-of-analysis/](https://www.cia.gov/about/organization/directorate-of-analysis/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIADirectorate of AnalysisA career in the Directorate of Analysis means anticipating and quickly assessing evolving international develop...</p></details>
+   Link: <a href="https://www.cia.gov/about/organization/directorate-of-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/about/organization/directorate-of-analysis/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directorate of AnalysisA career in the Directorate of Analysis means anticipating and quickly assessing evolving international develop...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: odni.gov  
    Title: national counterproliferation and biosecurity center  
-   Link: [https://www.odni.gov/index.php/ncsc-newsroom/205-about/organization/national-counterproliferation-and-biosecurity-center?start=5](https://www.odni.gov/index.php/ncsc-newsroom/205-about/organization/national-counterproliferation-and-biosecurity-center?start=5)  
+   Link: <a href="https://www.odni.gov/index.php/ncsc-newsroom/205-about/organization/national-counterproliferation-and-biosecurity-center?start=5" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-newsroom/205-about/organization/national-counterproliferation-and-biosecurity-center?start=5</a>  
 
 6. <a id="endnote-6"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
 
 7. <a id="endnote-7"></a>
    Source: podscan.fm  
    Title: Former CIA Officer Confirms Alien Hybrids are Real  
-   Link: [https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42](https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42)  
+   Link: <a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 10. <a id="endnote-10"></a>
    Source: oversight.house.gov  
    Title: Opening Statement  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/careers/static/DigitalBrochure_DA.pdf](https://www.cia.gov/careers/static/DigitalBrochure_DA.pdf)  
+   Link: <a href="https://www.cia.gov/careers/static/DigitalBrochure_DA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/careers/static/DigitalBrochure_DA.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
    Title: CIA RDP87B01034R000600160003 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP87B01034R000600160003-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP87B01034R000600160003-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP87B01034R000600160003-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP87B01034R000600160003-0.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: Borland Written Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: dni.gov  
    Title: ncsc history  
-   Link: [https://www.dni.gov/index.php/ncsc-who-we-are/ncsc-history](https://www.dni.gov/index.php/ncsc-who-we-are/ncsc-history)  
+   Link: <a href="https://www.dni.gov/index.php/ncsc-who-we-are/ncsc-history" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncsc-who-we-are/ncsc-history</a>  
 
 16. <a id="endnote-16"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/nctc-who-we-are/history](https://www.dni.gov/index.php/nctc-who-we-are/history)  
+   Link: <a href="https://www.dni.gov/index.php/nctc-who-we-are/history" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/history</a>  
 
 17. <a id="endnote-17"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/ncbc-who-we-are/history](https://www.dni.gov/index.php/ncbc-who-we-are/history)  
+   Link: <a href="https://www.dni.gov/index.php/ncbc-who-we-are/history" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncbc-who-we-are/history</a>  
 
 18. <a id="endnote-18"></a>
    Source: dni.gov  
    Title: FY2023 Consolidated Annual Report UAP Oct2023  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf](https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: anomalyarchives.org  
    Title: Anomaly Archives Ramirez, John  
-   Link: [https://anomalyarchives.org/collections/file/ramirez-john/](https://anomalyarchives.org/collections/file/ramirez-john/)  
+   Link: <a href="https://anomalyarchives.org/collections/file/ramirez-john/" target="_blank" rel="noopener noreferrer nofollow">https://anomalyarchives.org/collections/file/ramirez-john/</a>  
 
 21. <a id="endnote-21"></a>
    Source: columbialawreview.org  
-   Link: [https://columbialawreview.org/wp-content/uploads/2016/04/Casey-Kevin.pdf](https://columbialawreview.org/wp-content/uploads/2016/04/Casey-Kevin.pdf)  
+   Link: <a href="https://columbialawreview.org/wp-content/uploads/2016/04/Casey-Kevin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://columbialawreview.org/wp-content/uploads/2016/04/Casey-Kevin.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: en.wikisource.org  
    Title: UAP Reporting  
-   Link: [https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting](https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting)  
+   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: National Counterproliferation and Biosecurity Center  
-   Link: [https://en.wikipedia.org/wiki/National_Counterproliferation_and_Biosecurity_Center](https://en.wikipedia.org/wiki/National_Counterproliferation_and_Biosecurity_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Counterproliferation_and_Biosecurity_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Counterproliferation_and_Biosecurity_Center</a>  
 
 24. <a id="endnote-24"></a>
    Source: wiki.sussywussy.de  
    Title: National Counterproliferation Center  
-   Link: [https://wiki.sussywussy.de/content/wikipedia_en_all_maxi_2024-01/A/National_Counterproliferation_Center](https://wiki.sussywussy.de/content/wikipedia_en_all_maxi_2024-01/A/National_Counterproliferation_Center)  
+   Link: <a href="https://wiki.sussywussy.de/content/wikipedia_en_all_maxi_2024-01/A/National_Counterproliferation_Center" target="_blank" rel="noopener noreferrer nofollow">https://wiki.sussywussy.de/content/wikipedia_en_all_maxi_2024-01/A/National_Counterproliferation_Center</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.youtube.com/watch?v=nS_Insp7i_Y](https://www.youtube.com/watch?v=nS_Insp7i_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v6wGLH1uSOo](https://www.youtube.com/watch?v=v6wGLH1uSOo)  
+   Link: <a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6wGLH1uSOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: 12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA & More  
-   Link: [https://www.youtube.com/watch?v=Ku9GsJ94Dt4](https://www.youtube.com/watch?v=Ku9GsJ94Dt4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/yahoonews/posts/a-former-cia-senior-officer-with-top-secret-level-clearance-has-been-accused-of-/1372173121435036/](https://www.facebook.com/yahoonews/posts/a-former-cia-senior-officer-with-top-secret-level-clearance-has-been-accused-of-/1372173121435036/)  
+   Link: <a href="https://www.facebook.com/yahoonews/posts/a-former-cia-senior-officer-with-top-secret-level-clearance-has-been-accused-of-/1372173121435036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yahoonews/posts/a-former-cia-senior-officer-with-top-secret-level-clearance-has-been-accused-of-/1372173121435036/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/](https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-test-pilot-at-the-lowest-point-of-his-career-had-an-encounter-in-his-backyard-/1002418148831869/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Central.Intelligence.Agency/posts/as-a-cia-technical-targeting-analyst-youll-use-data-science-and-analysis-to-unco/1330686352420145/](https://www.facebook.com/Central.Intelligence.Agency/posts/as-a-cia-technical-targeting-analyst-youll-use-data-science-and-analysis-to-unco/1330686352420145/)  
+   Link: <a href="https://www.facebook.com/Central.Intelligence.Agency/posts/as-a-cia-technical-targeting-analyst-youll-use-data-science-and-analysis-to-unco/1330686352420145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Central.Intelligence.Agency/posts/as-a-cia-technical-targeting-analyst-youll-use-data-science-and-analysis-to-unco/1330686352420145/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Central.Intelligence.Agency/posts/at-cia-technology-and-innovation-arent-just-buzzwords-the-directorates-of-scienc/1258449189643862/](https://www.facebook.com/Central.Intelligence.Agency/posts/at-cia-technology-and-innovation-arent-just-buzzwords-the-directorates-of-scienc/1258449189643862/)  
+   Link: <a href="https://www.facebook.com/Central.Intelligence.Agency/posts/at-cia-technology-and-innovation-arent-just-buzzwords-the-directorates-of-scienc/1258449189643862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Central.Intelligence.Agency/posts/at-cia-technology-and-innovation-arent-just-buzzwords-the-directorates-of-scienc/1258449189643862/</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTI-QspDxlf/](https://www.instagram.com/reel/DTI-QspDxlf/)  
+   Link: <a href="https://www.instagram.com/reel/DTI-QspDxlf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTI-QspDxlf/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-reach/
 nav_short_title: Gaia Framing
 title: Does polished streaming make claims stronger?
-title_full: Does polished streaming make claims stronger? | Media Reach
+title_full: Does polished streaming make claims stronger?
 display_title_short: Gaia Framing
 display_title: Gaia Framing
 heading_title: Does polished streaming make claims stronger?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How UFO Media Built His Profile | Ramirez
+parent_title: How UFO Media Built His Profile
 parent_permalink: /media-reach/
 parent_nav_short_title: Media Reach
 parent_heading_title: How UFO Media Built His Profile
@@ -253,7 +253,7 @@ next_link:
   permalink: /podcast-halo/
   short_title: Podcast Halo
   heading_title: How podcasts turn credentials into credibility
-date: '2026-06-09 02:59:32 '
+date: '2026-06-11 21:05:12 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1.webp
@@ -262,18 +262,16 @@ image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premiu
 
 ## Introduction
 
-[John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s move from podcast guest to recurring figure on Gaia illustrates a recurring problem in UFO and disclosure media: high production values can make a claim feel more authoritative without adding new evidence. Gaia presents Ramirez not as a casual commentator but as a former intelligence insider discussing hidden knowledge, extraterrestrial contact and government secrecy. The result is a viewing experience that resembles a premium documentary series rather than an informal interview. That distinction matters because many viewers instinctively associate polished presentation with stronger verification.
-
+John Ramirez’s move from podcast guest to recurring figure on Gaia illustrates a recurring problem in UFO and disclosure media: high production values can make a claim feel more authoritative without adding new evidence. Gaia presents Ramirez not as a casual commentator but as a former intelligence insider discussing hidden knowledge, extraterrestrial contact and government secrecy. The result is a viewing experience that resembles a premium documentary series rather than an informal interview. That distinction matters because many viewers instinctively associate polished presentation with stronger verification.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1-dark.svg" | relative_url }}" alt="Gaia Framing illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [supporters]({{ 'supporters-124489/' | relative_url }}), Gaia gives Ramirez space to explain ideas that mainstream broadcasters would rarely air. For [sceptics]({{ 'sceptics-70c753/' | relative_url }}), the platform demonstrates how narrative packaging can increase perceived credibility while leaving the underlying evidential questions largely unchanged. The key issue is not whether Gaia is professional. It is whether professionalism in presentation should be confused with independent corroboration.
 
 ## How Gaia presents Ramirez to viewers
 
-Gaia has featured Ramirez in its long-running UFO and paranormal programming, particularly through the series *Cosmic Disclosure*. Promotional material introduces him through his intelligence and technical background before moving into claims about extraterrestrial contact, hybrids, disclosure and non-human intelligence. Gaia's episode descriptions frame him as a former CIA specialist discussing both classified environments and personal encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">GaiaWatch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
+Gaia has featured Ramirez in its long-running UFO and paranormal programming, particularly through the series *Cosmic Disclosure*. Promotional material introduces him through his intelligence and technical background before moving into claims about extraterrestrial contact, hybrids, disclosure and non-human intelligence. Gaia's episode descriptions frame him as a former CIA specialist discussing both classified environments and personal encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
 
 This presentation style is significant because it places several different categories of information side by side:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -286,8 +284,7 @@ This presentation style is significant because it places several different categ
 
 When these categories appear within the same professionally produced programme, viewers may not always distinguish between documented biography and unverified claims. The authority of one can appear to transfer to the other.
 
-Gaia's promotional ecosystem also tends to highlight the most dramatic aspects of Ramirez's appearances. Social-media clips associated with Gaia have emphasised topics such as human-alien hybrids, reptilian entities, genetic manipulation and direct contact experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookFormer CIA, John Ramirez, suggest our human DNA might...Former CIA, John Ramirez, suggest our human DNA might be a combination o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Former CIA Officer John Ramirez: We are ALL Aliens...He went into detail about the existence of UFO sightings and recovery of a non- hum...</span></span></span> These clips are designed for engagement and circulation, helping transform longer interviews into shareable moments that travel through UFO-focused online communities.
-
+Gaia's promotional ecosystem also tends to highlight the most dramatic aspects of Ramirez's appearances. Social-media clips associated with Gaia have emphasised topics such as human-alien hybrids, reptilian entities, genetic manipulation and direct contact experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Former CIA, John Ramirez, suggest our human DNA might...Former CIA, John Ramirez, suggest our human DNA might be a combination o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Former CIA Officer John Ramirez: We are ALL Aliens...He went into detail about the existence of UFO sightings and recovery of a non- hum...</span></span></span> These clips are designed for engagement and circulation, helping transform longer interviews into shareable moments that travel through UFO-focused online communities.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r_bPaXLrXJw" title="&quot;We Were BROUGHT Here &amp; FORGOT The Reason Why&quot; - Former CIA Agent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r_bPaXLrXJw" target="_blank" rel="noopener noreferrer">&quot;We Were BROUGHT Here &amp; FORGOT The Reason Why&quot; - Former CIA Agent</a></p><p class="youtube-embed-meta">Channel: Gaia &middot; Views: 460.0K &middot; Uploaded: October 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r_bPaXLrXJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r_bPaXLrXJw">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +293,6 @@ Gaia's promotional ecosystem also tends to highlight the most dramatic aspects o
 A podcast appearance and a professionally edited streaming episode create different psychological impressions even when the factual content is nearly identical.
 
 Gaia's productions typically use:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +308,7 @@ These features can create what media researchers sometimes call an "authority ef
 
 A viewer encountering Ramirez through *Cosmic Disclosure* may see a former intelligence officer in a carefully produced environment and assume that the programme has independently verified the extraordinary statements being discussed. Yet Gaia's role is primarily that of a broadcaster and content producer, not an investigative verification body. The platform packages claims; it does not necessarily prove them.
 
-This distinction becomes especially important with subjects such as Ramirez's references to extraterrestrial contact, human hybrids or future disclosure timelines. The visual and narrative framing can make these claims feel closer to established findings than the publicly available evidence actually supports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">GaiaWatch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
+This distinction becomes especially important with subjects such as Ramirez's references to extraterrestrial contact, human hybrids or future disclosure timelines. The visual and narrative framing can make these claims feel closer to established findings than the publicly available evidence actually supports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
 
 ## Gaia's business model rewards compelling narratives
 
@@ -323,7 +319,6 @@ Gaia is a subscription streaming service focused on spirituality, alternative hi
 That does not mean every guest is unreliable, nor does it mean every claim presented is false. It does mean that Gaia's content strategy is built around subjects that conventional media often avoid.
 
 Within that framework, Ramirez is a particularly valuable guest. He combines three elements that attract audiences:
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-2-dark.svg" | relative_url }}" alt="Gaia Framing illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -343,7 +338,7 @@ The central credibility question is not whether Ramirez appears convincing on Ga
 
 In most cases, the answer appears limited.
 
-When Gaia promotes Ramirez discussing extraterrestrial contact experiences, hybrid-human theories or hidden government knowledge, viewers are generally hearing Ramirez's account rather than seeing newly released documents, physical evidence or independently verified records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">GaiaWatch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span> The production may be more sophisticated than a podcast interview, but the evidential structure often remains similar: a witness or insider figure recounting information.
+When Gaia promotes Ramirez discussing extraterrestrial contact experiences, hybrid-human theories or hidden government knowledge, viewers are generally hearing Ramirez's account rather than seeing newly released documents, physical evidence or independently verified records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span> The production may be more sophisticated than a podcast interview, but the evidential structure often remains similar: a witness or insider figure recounting information.
 
 This distinction is especially important because some of Ramirez's most widely circulated statements involve claims that are difficult or impossible for outsiders to verify. Assertions about classified conversations, unnamed sources, secret programmes or future disclosure events often rely on trust in the speaker rather than publicly accessible evidence.
 
@@ -351,17 +346,15 @@ Supporters argue that this is unavoidable when discussing genuinely classified s
 
 The practical result is that Gaia frequently increases visibility without necessarily increasing evidential weight.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/El5QcDe9L2I" title="GS-15 CIA Officer Reveals Insider UFO Knowledge for Researchers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=El5QcDe9L2I" target="_blank" rel="noopener noreferrer">GS-15 CIA Officer Reveals Insider UFO Knowledge for Researchers</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 22.9K &middot; Uploaded: November 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=El5QcDe9L2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=El5QcDe9L2I">Open on YouTube</a></p></div></div></div>
 
 ## Audience reactions reveal the credibility divide
 
 Responses to Gaia clips featuring Ramirez show how sharply divided audiences remain.
 
-Supportive viewers often focus on his intelligence background and perceive his appearances as insider testimony finally reaching the public. Critics, by contrast, frequently point to the lack of documentary support for claims involving hybrids, reptilian beings, disclosure deadlines or genetic theories. Discussions on UFO-focused forums and social-media reposts commonly revolve around whether Ramirez should be viewed as a genuine whistleblower, a speculative commentator or something in between. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditFormer CIA Signal Specialist John Ramirez shares...September 7, 2023 — Look, I know John Ramirez is actually a reptilian agent tha...</span><span class="citation-popover-meta">Published: September 7, 2023</span></span></span>
+Supportive viewers often focus on his intelligence background and perceive his appearances as insider testimony finally reaching the public. Critics, by contrast, frequently point to the lack of documentary support for claims involving hybrids, reptilian beings, disclosure deadlines or genetic theories. Discussions on UFO-focused forums and social-media reposts commonly revolve around whether Ramirez should be viewed as a genuine whistleblower, a speculative commentator or something in between. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Former CIA Signal Specialist John Ramirez shares...September 7, 2023 — Look, I know John Ramirez is actually a reptilian agent tha...</span><span class="citation-popover-meta">Published: September 7, 2023</span></span></span>
 
 The debate itself illustrates the effect of premium packaging. Many arguments are not about newly discovered evidence. They are about the credibility signals surrounding the messenger:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -374,18 +367,16 @@ The debate itself illustrates the effect of premium packaging. Many arguments ar
 
 These factors can increase trust among viewers, even when the factual basis of the claims remains largely unchanged.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-3-dark.svg" | relative_url }}" alt="Gaia Framing illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does polished streaming make claims stronger?
 
 Not necessarily.
 
-Gaia has undeniably helped elevate Ramirez from a recurring podcast guest into a more polished alternative-media personality. Through professional production, recurring series appearances and subscription-streaming presentation, the platform gives his claims a documentary-like atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">GaiaWatch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
+Gaia has undeniably helped elevate Ramirez from a recurring podcast guest into a more polished alternative-media personality. Through professional production, recurring series appearances and subscription-streaming presentation, the platform gives his claims a documentary-like atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</span></span></span>
 
 What Gaia does not automatically provide is independent corroboration.
 
 A viewer assessing Ramirez's credibility still faces the same core questions that exist outside Gaia's ecosystem:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -399,9 +390,7 @@ A viewer assessing Ramirez's credibility still faces the same core questions tha
 
 The strongest lesson from Gaia's treatment of Ramirez is therefore not about whether his claims are true or false. It is about how presentation affects perception. Professional packaging can make extraordinary claims appear more established than they are, and viewers who separate production quality from evidence are usually in a better position to evaluate what Ramirez is actually offering: a mixture of verifiable background, personal testimony, insider framing and claims that remain largely uncorroborated in the public record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-b97V-Wkw0" title="John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer">John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 30.7K &middot; Uploaded: December 2021 &middot; Length: 1 hour 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-b97V-Wkw0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -520,15 +509,15 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO Mug We Come To Probe Funny Alien Mug Novelty Gift Joke"><img src="{{ '/assets/images/marketplace-covers/af3c313f8c9054a9d16d.jpg' | relative_url }}" alt="Listing image for Funny UFO Mug We Come To Probe Funny Alien Mug Novelty Gift Joke" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Funny UFO Mug We Come To Probe Funny Alien Mug Novelty Gift Joke</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +525,15 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Mug â€œDone With Earthâ€� Funny Coffee Cup Novelty Space Mug Sci-Fi Gift"><img src="{{ '/assets/images/marketplace-covers/1f24d22f9b1c31552fd6.jpg' | relative_url }}" alt="Listing image for Alien UFO Mug â€œDone With Earthâ€� Funny Coffee Cup Novelty Space Mug Sci-Fi Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Mug â€œDone With Earthâ€� Funny Coffee Cup Novelty Space Mug Sci-Fi Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +541,15 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Starry Night - 11oz Coffee Mug"><img src="{{ '/assets/images/marketplace-covers/b2f82ef192c5588792f4.jpg' | relative_url }}" alt="Listing image for UFO Starry Night - 11oz Coffee Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">UFO Starry Night - 11oz Coffee Mug</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +557,15 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Mug #3 - Gerry Anderson Ed Straker ITC - FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/4a9bc61ab116732e9085.jpg' | relative_url }}" alt="Listing image for UFO SHADO Mug #3 - Gerry Anderson Ed Straker ITC - FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Mug #3 - Gerry Anderson Ed Straker ITC - FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +573,7 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo mug" data-ebay-reference="gaia-framing-does-polished-streaming-make-claims-stronger-john-ramirez-ufo-mug" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-polished-streaming-make-claims-stronger-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="does-polished-streaming-make-claims-stronger-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -799,131 +788,131 @@ The strongest lesson from Gaia's treatment of Ramirez is therefore not about whe
 
 1. <a id="endnote-1"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GaiaWatch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</p></details>
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close Encounters - GaiaIn this and coming episodes, Ramirez reveals his direct contact experiences wi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/](https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFormer CIA, John Ramirez, suggest our human DNA might...Former CIA, John Ramirez, suggest our human DNA might be a combination o...</p></details>
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-suggest-our-human-dna-might-be-a-combination-of-non-huma/1618096969706780/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA, John Ramirez, suggest our human DNA might...Former CIA, John Ramirez, suggest our human DNA might be a combination o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/](https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/-former-cia-officer-john-ramirez-we-are-all-aliens-watch-the-full-episode-what-i/914509068012230/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Officer John Ramirez: We are ALL Aliens...He went into detail about the existence of UFO sightings and recovery of a non- hum...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Gaia, Inc  
-   Link: [https://en.wikipedia.org/wiki/Gaia%2C_Inc](https://en.wikipedia.org/wiki/Gaia%2C_Inc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gaia%2C_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gaia%2C_Inc</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/](https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFormer CIA Signal Specialist John Ramirez shares...September 7, 2023 — Look, I know John Ramirez is actually a reptilian agent tha...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Signal Specialist John Ramirez shares...September 7, 2023 — Look, I know John Ramirez is actually a reptilian agent tha...</p></details>
    Published: September 7, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/](https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eason 20: Ep5) but I don&#x27;t know for sure, just googled...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/](https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: Explore the Unexplained with Open Minds  
-   Link: [https://www.facebook.com/Gaia/posts/explore-the-unexplained-with-open-minds-mysterious-sightings-investigations-you-/1409583464541723/](https://www.facebook.com/Gaia/posts/explore-the-unexplained-with-open-minds-mysterious-sightings-investigations-you-/1409583464541723/)  
+   Link: <a href="https://www.facebook.com/Gaia/posts/explore-the-unexplained-with-open-minds-mysterious-sightings-investigations-you-/1409583464541723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Gaia/posts/explore-the-unexplained-with-open-minds-mysterious-sightings-investigations-you-/1409583464541723/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GaiaJust dropped today on Gaia -- my interview with George Noory on Beyond Belief on the strange phenomena in the Alaska Triangle!Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/williamshatner/posts/a-gentle-reminder-that-tomorrow-i-will-be-live-tweeting-the-unxplained-at-9pm-et/10158403613236737/](https://www.facebook.com/williamshatner/posts/a-gentle-reminder-that-tomorrow-i-will-be-live-tweeting-the-unxplained-at-9pm-et/10158403613236737/)  
+   Link: <a href="https://www.facebook.com/williamshatner/posts/a-gentle-reminder-that-tomorrow-i-will-be-live-tweeting-the-unxplained-at-9pm-et/10158403613236737/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/williamshatner/posts/a-gentle-reminder-that-tomorrow-i-will-be-live-tweeting-the-unxplained-at-9pm-et/10158403613236737/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>it&#x27;s about UFOs🛸 &amp; when my show is over sit tight &amp; watch...A gentle reminder that tomorrow I will be live tweeting The UnXplained at 9p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.facebook.com/SpiritLinkGaia/posts/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/1756131396517620/](https://www.facebook.com/SpiritLinkGaia/posts/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/1756131396517620/)  
+   Link: <a href="https://www.facebook.com/SpiritLinkGaia/posts/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/1756131396517620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpiritLinkGaia/posts/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/1756131396517620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezThis post shows a video of Richard on “Cosmic Disclosure” series from Gaia TV with Emery Smith, where he speaks about the sam...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SammyHagar/posts/a-clip-from-cosmic-disclosure-on-the-gaia-network-we-are-gaia-timtactics-ig-is-o/1193569588789472/](https://www.facebook.com/SammyHagar/posts/a-clip-from-cosmic-disclosure-on-the-gaia-network-we-are-gaia-timtactics-ig-is-o/1193569588789472/)  
+   Link: <a href="https://www.facebook.com/SammyHagar/posts/a-clip-from-cosmic-disclosure-on-the-gaia-network-we-are-gaia-timtactics-ig-is-o/1193569588789472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SammyHagar/posts/a-clip-from-cosmic-disclosure-on-the-gaia-network-we-are-gaia-timtactics-ig-is-o/1193569588789472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Be sure to follow me on Gaia...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/](https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/posts/-i-want-disclosures-just-as-much-as-everybody-out-there-does-after-fighting-for-/792046843591787/](https://www.facebook.com/GaiaUnexplained/posts/-i-want-disclosures-just-as-much-as-everybody-out-there-does-after-fighting-for-/792046843591787/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/-i-want-disclosures-just-as-much-as-everybody-out-there-does-after-fighting-for-/792046843591787/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/-i-want-disclosures-just-as-much-as-everybody-out-there-does-after-fighting-for-/792046843591787/</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: GS-15 CIA Officer Reveals Insider UFO Knowledge for Researchers  
-   Link: [https://www.youtube.com/watch?v=El5QcDe9L2I](https://www.youtube.com/watch?v=El5QcDe9L2I)  
+   Link: <a href="https://www.youtube.com/watch?v=El5QcDe9L2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=El5QcDe9L2I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez | CIA Officers Experiences with &#x27;The Phenomenon&#x27;...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: John Ramirez | CIA Officers Experiences with 'The Phenomenon'  
-   Link: [https://www.youtube.com/watch?v=F-b97V-Wkw0](https://www.youtube.com/watch?v=F-b97V-Wkw0)  
+   Link: <a href="https://www.youtube.com/watch?v=F-b97V-Wkw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F-b97V-Wkw0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena](https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Cryptoterrestrial Hypothesis: A Case for...PDF | Recent years have seen increasing public attention and indeed concern regardi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: johnramirez.org  
-   Link: [https://johnramirez.org/about/](https://johnramirez.org/about/)  
+   Link: <a href="https://johnramirez.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://johnramirez.org/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About – John RamirezEvangelist John Ramirez tells his true-life story of how he was trained to be a high-ranking warlock in a satanic wor...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW9JT47DCHd/](https://www.instagram.com/reel/DW9JT47DCHd/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramFormer CIA, John Ramirez, suggest our human DNA might...Gaia Unexplained | Former CIA, John Ramirez, suggest our human DNA migh...</p></details>
+   Link: <a href="https://www.instagram.com/reel/DW9JT47DCHd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW9JT47DCHd/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA, John Ramirez, suggest our human DNA might...Gaia Unexplained | Former CIA, John Ramirez, suggest our human DNA migh...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=r_bPaXLrXJw](https://www.youtube.com/watch?v=r_bPaXLrXJw)  
+   Link: <a href="https://www.youtube.com/watch?v=r_bPaXLrXJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r_bPaXLrXJw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;We Were BROUGHT Here &amp; FORGOT The Reason Why&quot;... John Ramirez shares information on human-ET hybrids... Answer life&#x27;s deeper questions...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXDQrArCEP1/](https://www.instagram.com/reel/DXDQrArCEP1/)  
+   Link: <a href="https://www.instagram.com/reel/DXDQrArCEP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXDQrArCEP1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ligence that isn&#x27;t just &#x27;lizard people.&#x27; They&#x27;ve been here...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DLIQOR3s4QT/](https://www.instagram.com/p/DLIQOR3s4QT/)  
+   Link: <a href="https://www.instagram.com/p/DLIQOR3s4QT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLIQOR3s4QT/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t decades in classified programs and says there are a few...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: static.foxnews.com  
-   Link: [https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf](https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf)  
+   Link: <a href="https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.foxnews.com/foxnews.com/content/uploads/2024/06/ThecryptoterrestrialhypothesisLomasetal.J2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cryptoterrestrial hypothesis3 Jun 2024 — CIA officer John Ramirez claimed that the authorities conducted biological tests and “were able...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: podnews.net  
-   Link: [https://podnews.net/podcast/irb5o/episodes](https://podnews.net/podcast/irb5o/episodes)  
+   Link: <a href="https://podnews.net/podcast/irb5o/episodes" target="_blank" rel="noopener noreferrer nofollow">https://podnews.net/podcast/irb5o/episodes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>frequency of UFO sightings around the world. Watch the...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: 11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA & More  
-   Link: [https://www.youtube.com/watch?v=V0MxcIULCdk](https://www.youtube.com/watch?v=V0MxcIULCdk)  
+   Link: <a href="https://www.youtube.com/watch?v=V0MxcIULCdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V0MxcIULCdk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez Gaia Cosmic Disclosure TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History HISTORY...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/Cv40HWftfon/](https://www.instagram.com/reel/Cv40HWftfon/)  
+   Link: <a href="https://www.instagram.com/reel/Cv40HWftfon/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cv40HWftfon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ch more by tapping the link in our bio. ⁠Read more...</p></details>

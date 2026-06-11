@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /los-alamos/
 nav_short_title: LAMPF Roles
 title: Could LAMPF Experience Explain Lazar's Technical Persona?
-title_full: Could LAMPF Experience Explain Lazar's Technical Persona? | Los Alamos
+title_full: Could LAMPF Experience Explain Lazar's Technical Persona?
 display_title_short: LAMPF Roles
 display_title: LAMPF Roles
 heading_title: Could LAMPF Experience Explain Lazar's Technical Persona?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Los Alamos Really Prove? | Lazar
+parent_title: What Does Los Alamos Really Prove?
 parent_permalink: /los-alamos/
 parent_nav_short_title: Los Alamos
 parent_heading_title: What Does Los Alamos Really Prove?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /jet-car-story/
   short_title: Jet Car Story
   heading_title: Did a Local Newspaper Accidentally Boost Lazar's Credibility?
-date: '2026-06-09 02:51:55 '
+date: '2026-06-11 21:00:50 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technicia
 
 ## Introduction
 
-One of the most persistent arguments in the [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }}) debate is that his time around the Los Alamos Meson Physics Facility, or LAMPF, could explain why he appeared technically convincing without proving that he was the research physicist he later claimed to be. This distinction is central to assessing his credibility. The available evidence suggests that Lazar had some genuine connection to the Los Alamos technical environment. What remains disputed is the nature of that role. Large accelerator facilities rely on far more than theoretical physicists, and someone working as a technician, contractor, electronics specialist or support engineer can acquire substantial scientific fluency without holding senior research credentials. Understanding LAMPF’s working culture helps explain why the technician-versus-physicist question remains one of the most important unresolved parts of Lazar’s background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Alamos Neutron Science Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Los Alamos Neutron Science CenterIt was the most powerful linear accelerator in the world when it was opened in June 1972. The technol...</span><span class="citation-popover-meta">Published: June 1972</span></span></span>
-
+One of the most persistent arguments in the Bob Lazar debate is that his time around the Los Alamos Meson Physics Facility, or LAMPF, could explain why he appeared technically convincing without proving that he was the research physicist he later claimed to be. This distinction is central to assessing his credibility. The available evidence suggests that Lazar had some genuine connection to the Los Alamos technical environment. What remains disputed is the nature of that role. Large accelerator facilities rely on far more than theoretical physicists, and someone working as a technician, contractor, electronics specialist or support engineer can acquire substantial scientific fluency without holding senior research credentials. Understanding LAMPF’s working culture helps explain why the technician-versus-physicist question remains one of the most important unresolved parts of Lazar’s background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Los Alamos Neutron Science Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Los Alamos Neutron Science CenterIt was the most powerful linear accelerator in the world when it was opened in June 1972. The technol...</span><span class="citation-popover-meta">Published: June 1972</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-1-dark.svg" | relative_url }}" alt="LAMPF Roles illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What LAMPF Was and How It Operated
@@ -269,7 +268,6 @@ LAMPF was not a small laboratory project. When it opened in the early 1970s, it 
 A common public image of a national laboratory is that it consists mainly of scientists conducting experiments. In practice, accelerator facilities operate through a large technical workforce that extends far beyond research physicists.
 
 Modern descriptions of LANSCE and accelerator operations at Los Alamos still show this structure clearly. The Accelerator Operations and Technology division includes physicists, engineers, operators, technicians, maintenance personnel and systems specialists working together on accelerator performance and reliability. Current accelerator operations roles explicitly describe coordination among scientists, engineers, technicians and experimenters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/engage/organizations/physical-sciences/accelerator-operations-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Los Alamos National LaboratoryAccelerator Operations and TechnologyAOT Division supports neutron science, medical research, and national...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/jobs/view/accelerator-alternate-operations-shift-supervisor-engineered-systems-tec-5-at-los-alamos-national-laboratory-4374183363" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn Within an environment like LAMPF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Accelerator Alternate Operations Shift Supervisor...Serve as a focal point for communications among everyone involved with the LANSCE ac...</span></span></span>, a technically skilled worker might spend years:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -288,19 +286,17 @@ These responsibilities can create genuine expertise. A technician responsible fo
 
 That distinction is important when evaluating Lazar. Demonstrated familiarity with laboratory equipment, radiation concepts or particle-accelerator terminology does not automatically establish that someone conducted original physics research or held senior scientific status. It may instead reflect experience gained through technical support work inside an advanced facility.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gagYiTT9VGE" title="The Bob Lazar Story: What They Got Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gagYiTT9VGE" target="_blank" rel="noopener noreferrer">The Bob Lazar Story: What They Got Wrong</a></p><p class="youtube-embed-meta">Channel: NeverLeaveScience &middot; Views: 863 &middot; Uploaded: April 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gagYiTT9VGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gagYiTT9VGE">Open on YouTube</a></p></div></div></div>
 
 ## Why Contractor Status Matters
 
 Much of the debate surrounding Lazar’s Los Alamos period revolves around the possibility that he worked through a contractor rather than as a direct laboratory physicist.
 
-Critics such as Stanton Friedman argued that directory records associated Lazar with Kirk-Mayer, a contractor known to provide technical personnel to Los Alamos. Supporters often cite the existence of [Los Alamos directory]({{ 'directory-debate/' | relative_url }}) entries as proof that Lazar worked there. Sceptics generally do not dispute that he may have been physically present in the laboratory environment. Their argument is narrower: being present at Los Alamos is not the same thing as being employed as a staff physicist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bob Lazar- physicist as Los Alamos: r/UFOs</span><span class="citation-popover-snippet">RedditBob Lazar- physicist as Los Alamos: r/UFOsJune 12, 2021 — How did he become a physicist? Here&#x27;s a good short article by Stanton Fr...</span><span class="citation-popover-meta">Published: June 12, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">Bob Lazar, S-4, and the UAP Info WarsClaim: Lazar worked at Los Alamos as a physicist. Record status: The 1982 phone directory and press...</span></span></span>
+Critics such as Stanton Friedman argued that directory records associated Lazar with Kirk-Mayer, a contractor known to provide technical personnel to Los Alamos. Supporters often cite the existence of Los Alamos directory entries as proof that Lazar worked there. Sceptics generally do not dispute that he may have been physically present in the laboratory environment. Their argument is narrower: being present at Los Alamos is not the same thing as being employed as a staff physicist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bob Lazar- physicist as Los Alamos: r/UFOs</span><span class="citation-popover-snippet">Bob Lazar- physicist as Los Alamos: r/UFOsJune 12, 2021 — How did he become a physicist? Here&#x27;s a good short article by Stanton Fr...</span><span class="citation-popover-meta">Published: June 12, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-snippet">Bob Lazar, S-4, and the UAP Info WarsClaim: Lazar worked at Los Alamos as a physicist. Record status: The 1982 phone directory and press...</span></span></span>
 
 This distinction is particularly important in large research institutions because contractors frequently work alongside permanent staff. They may appear in directories, possess access credentials and operate sophisticated equipment while remaining outside the formal scientific hierarchy.
 
 In practical terms, a contractor-based role would fit several pieces of the available evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +309,6 @@ In practical terms, a contractor-based role would fit several pieces of the avai
 
 The contractor interpretation therefore occupies an important middle ground between two extreme positions: that Lazar invented his Los Alamos connection entirely, or that he was a senior research physicist whose career history was systematically removed.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-2-dark.svg" | relative_url }}" alt="LAMPF Roles illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Practical Skill Is Not the Same as Scientific Authority
 
@@ -322,7 +317,6 @@ One reason Lazar's story remains persuasive to many people is that he appears co
 The difficulty is that practical engineering skill and scientific authority are different forms of expertise.
 
 A research physicist is typically judged through:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -335,7 +329,6 @@ A research physicist is typically judged through:
 </div>
 
 A technician or engineering specialist is more often judged through:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -351,14 +344,12 @@ In public discussion these categories often blur together. Someone who can build
 
 This helps explain why the Los Alamos newspaper description of Lazar as a physicist remains controversial. The article demonstrates that he was presented publicly in that way. It does not independently verify the academic and employment credentials usually associated with the title. The gap between social reputation and documented qualification sits at the centre of the technician-versus-physicist dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">May 10, 2026 — Robert Scott Lazar is an American who, since 1989, has claimed to have been part of a classified US government project con...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-3-dark.svg" | relative_url }}" alt="LAMPF Roles illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could LAMPF Experience Explain Lazar’s Technical Persona?
 
 The strongest argument for the significance of LAMPF is not that it proves Lazar’s later claims about S-4 or extraterrestrial technology. It is that it provides a plausible mechanism for the technical persona he later displayed.
 
 A person working around a major accelerator facility could realistically acquire:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,7 +366,6 @@ That kind of environment can produce someone who sounds far more technically imp
 
 For supporters, this strengthens Lazar’s credibility because it shows he was not simply inventing a scientific identity from nothing. For sceptics, it offers a more conventional explanation for his technical fluency. In this view, Lazar’s apparent expertise reflects real exposure to advanced laboratory work, but not necessarily the elite scientific status implied by his later biography.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/736KXgHbJ80" title="The Search for Understanding: The Los Alamos Meson Physics Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=736KXgHbJ80" target="_blank" rel="noopener noreferrer">The Search for Understanding: The Los Alamos Meson Physics Facility</a></p><p class="youtube-embed-meta">Channel: Historian Alan B. Carr &middot; Views: 1.2K &middot; Uploaded: December 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=736KXgHbJ80" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=736KXgHbJ80">Open on YouTube</a></p></div></div></div>
 
 ## What The LAMPF Question Actually Resolves
@@ -389,86 +379,44 @@ What it does not clearly establish is that he held the academic credentials, res
 As a result, LAMPF remains one of the most revealing parts of the Lazar record. It neither fully validates nor fully collapses his claims. Instead, it points toward a more complicated possibility: that genuine experience inside a major scientific facility may have contributed to the technical credibility that later made his far more extraordinary claims difficult for many listeners to dismiss.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could LAMPF Experience Explain Lazar&#x27;s Technical Persona?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could LAMPF Experience Explain Lazar&#x27;s Technical Persona?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Directly relates to questions about Lazar&#x27;s technical background and claimed scientific work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Shows how technical specialists operate within secret research programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-mxMAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By David Darlington</p>
-        
-        <p class="fr-book-desc">Explores the environment that made Lazar&#x27;s story influential.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+David+Darlington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The making of the atomic bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6919988-M.jpg" alt="Cover for The making of the atomic bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
-        </h4>
-        <p class="fr-book-author">By Richard Rhodes</p>
-        
-        <p class="fr-book-desc">First published 1986. Subjects: National Book Award Winner, open_syllabus_project, Long Now Manual for Civilization, award:national_book_...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -505,11 +453,11 @@ As a result, LAMPF remains one of the most revealing parts of the Lazar record. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandia USAF Los Alamos Lab NASA Security Police Tonopah Pantex Patch &amp; Stickers"><img src="https://i.ebayimg.com/images/g/hEwAAeSwSCBqH4g9/s-l225.jpg" alt="Listing image for Sandia USAF Los Alamos Lab NASA Security Police Tonopah Pantex Patch &amp; Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP2 2001 Patch 4&quot;"><img src="https://i.ebayimg.com/images/g/a7sAAOSwc3lnOPXF/s-l225.jpg" alt="Listing image for Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP2 2001 Patch 4&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Sandia USAF Los Alamos Lab NASA Security Police Tonopah Pantex Patch &amp; Stickers</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP2 2001 Patch 4&quot;</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
         <div class="fr-book-actions">
@@ -521,11 +469,11 @@ As a result, LAMPF remains one of the most revealing parts of the Lazar record. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;"><img src="https://i.ebayimg.com/images/g/ef0AAOSwCmZnOPS5/s-l225.jpg" alt="Listing image for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sandia Labs Weapon Intern Los Alamos Manhattan Project Tonopah Usaf Patch"><img src="https://i.ebayimg.com/images/g/WykAAeSwtuxqIJKk/s-l225.jpg" alt="Listing image for Sandia Labs Weapon Intern Los Alamos Manhattan Project Tonopah Usaf Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Sandia Labs Weapon Intern Los Alamos Manhattan Project Tonopah Usaf Patch</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
         <div class="fr-book-actions">
@@ -537,11 +485,27 @@ As a result, LAMPF remains one of the most revealing parts of the Lazar record. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP1 2000 Patch 4&quot;"><img src="https://i.ebayimg.com/images/g/Sp4AAOSwem5nOPcS/s-l225.jpg" alt="Listing image for Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP1 2000 Patch 4&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage"><img src="https://i.ebayimg.com/images/g/af4AAOSwYCdjbYkj/s-l225.jpg" alt="Listing image for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos National Laboratory &quot;Pit Manufacturing Project&quot; SP1 2000 Patch 4&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS FIRE SAFETY SERVICE DEPARTMENT PATCH NEW MEXICO NM LABORATORY DOE OLD"><img src="https://i.ebayimg.com/images/g/C6AAAOSwr9VjbYiH/s-l225.jpg" alt="Listing image for LOS ALAMOS FIRE SAFETY SERVICE DEPARTMENT PATCH NEW MEXICO NM LABORATORY DOE OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS FIRE SAFETY SERVICE DEPARTMENT PATCH NEW MEXICO NM LABORATORY DOE OLD</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="could-lampf-experience-explain-lazar-s-technical-persona-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
         <div class="fr-book-actions">
@@ -769,145 +733,145 @@ As a result, LAMPF remains one of the most revealing parts of the Lazar record. 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Los Alamos Neutron Science Center  
-   Link: [https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center](https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos Neutron Science CenterIt was the most powerful linear accelerator in the world when it was opened in June 1972. The technol...</p></details>
    Published: June 1972  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1044580399000418](https://www.sciencedirect.com/science/article/abs/pii/S1044580399000418)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1044580399000418" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1044580399000418</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Selection and Qualification Processes at a High-...by W Sommer · 1999 · Cited by 10 — The accelerator at the Los Alamos Neutro...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0022311582908273](https://www.sciencedirect.com/science/article/pii/0022311582908273)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022311582908273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022311582908273</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of the LAMPF accelerator as a fusion materials-...by WF Sommer · 1981 · Cited by 5 — Anderson Los Alamos Meson Physics Facility (LAM...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/jobs/view/accelerator-alternate-operations-shift-supervisor-engineered-systems-tec-5-at-los-alamos-national-laboratory-4374183363](https://www.linkedin.com/jobs/view/accelerator-alternate-operations-shift-supervisor-engineered-systems-tec-5-at-los-alamos-national-laboratory-4374183363)  
+   Link: <a href="https://www.linkedin.com/jobs/view/accelerator-alternate-operations-shift-supervisor-engineered-systems-tec-5-at-los-alamos-national-laboratory-4374183363" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/jobs/view/accelerator-alternate-operations-shift-supervisor-engineered-systems-tec-5-at-los-alamos-national-laboratory-4374183363</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerator Alternate Operations Shift Supervisor...Serve as a focal point for communications among everyone involved with the LANSCE ac...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Bob Lazar- physicist as Los Alamos: r/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/](https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBob Lazar- physicist as Los Alamos: r/UFOsJune 12, 2021 — How did he become a physicist? Here&#x27;s a good short article by Stanton Fr...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar- physicist as Los Alamos: r/UFOsJune 12, 2021 — How did he become a physicist? Here&#x27;s a good short article by Stanton Fr...</p></details>
    Published: June 12, 2021  
 
 6. <a id="endnote-6"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/](https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/)  
+   Link: <a href="https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/bob-lazar-s-4-and-the-uap-info-wars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar, S-4, and the UAP Info WarsClaim: Lazar worked at Los Alamos as a physicist. Record status: The 1982 phone directory and press...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — Robert Scott Lazar is an American who, since 1989, has claimed to have been part of a classified US government project con...</p></details>
    Published: May 10, 2026  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/](https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>he worked at Los Alamos National Laboratory...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/t21w02/bob_lazar_and_the_aerogel_that_was_used_to/](https://www.reddit.com/r/StrangeEarth/comments/t21w02/bob_lazar_and_the_aerogel_that_was_used_to/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/t21w02/bob_lazar_and_the_aerogel_that_was_used_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/t21w02/bob_lazar_and_the_aerogel_that_was_used_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>raft for only a few years, he shouldn&#x27;t still be pulling...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/](https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar worked at Los Alamos National Laboratory&quot; is...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/](https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1eou72c/a_critical_review_of_the_area_51_entry_control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Scientist, based on testimony by A51 Guard Fred Dunham and Los Alamos...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/](https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knapps door and tell a story and then have a media frenzy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0168900294915814](https://www.sciencedirect.com/science/article/abs/pii/0168900294915814)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0168900294915814" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0168900294915814</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A LAMPF controls retrospective: the good, the bad, and “it...by SC Schaller · 1994 · Cited by 3 — LAMPF (Los Alamos Meson Physics Facili...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lansce.lanl.gov  
    Title: Los Alamos Neutron Science Center LANSCE HIstory  
-   Link: [https://lansce.lanl.gov/about/history.php](https://lansce.lanl.gov/about/history.php)  
+   Link: <a href="https://lansce.lanl.gov/about/history.php" target="_blank" rel="noopener noreferrer nofollow">https://lansce.lanl.gov/about/history.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos Neutron Science CenterLANSCE HIstory - Los Alamos Neutron Science CenterThe Los Alamos Meson Physics Facility (LAMPF), as it w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lanl.gov  
-   Link: [https://www.lanl.gov/engage/organizations/physical-sciences/accelerator-operations-technology](https://www.lanl.gov/engage/organizations/physical-sciences/accelerator-operations-technology)  
+   Link: <a href="https://www.lanl.gov/engage/organizations/physical-sciences/accelerator-operations-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/organizations/physical-sciences/accelerator-operations-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryAccelerator Operations and TechnologyAOT Division supports neutron science, medical research, and national...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lss.fnal.gov  
-   Link: [https://lss.fnal.gov/conf/C730717/p273.pdf](https://lss.fnal.gov/conf/C730717/p273.pdf)  
+   Link: <a href="https://lss.fnal.gov/conf/C730717/p273.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lss.fnal.gov/conf/C730717/p273.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to build a meson factory at Los Alamos based on a linear accelerator capable of producing 1 mA of protons at 800. MeV energy...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/](https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/)  
+   Link: <a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce of Element-115 from Area 51, and that he has it to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gaia.com  
    Title: scientists claim of ufo fuel source verified decades later  
-   Link: [https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later](https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later)  
+   Link: <a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later9 Jun 2022 — In 1989 Bob Lazar claimed that [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;) powered antimatter gen...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: indeed.com  
-   Link: [https://www.indeed.com/q-accelerator-operator-physics-jobs.html](https://www.indeed.com/q-accelerator-operator-physics-jobs.html)  
+   Link: <a href="https://www.indeed.com/q-accelerator-operator-physics-jobs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indeed.com/q-accelerator-operator-physics-jobs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n, Postdoctoral Researcher and more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: indeed.com  
-   Link: [https://www.indeed.com/q-accelerator-physics-l-los-alamos%2C-nm-jobs.html](https://www.indeed.com/q-accelerator-physics-l-los-alamos%2C-nm-jobs.html)  
+   Link: <a href="https://www.indeed.com/q-accelerator-physics-l-los-alamos%2C-nm-jobs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indeed.com/q-accelerator-physics-l-los-alamos%2C-nm-jobs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tdoctoral Researcher, Postdoctoral Research Associate, Operator and more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: proceedings.jacow.org  
-   Link: [https://proceedings.jacow.org/l70/papers/a-8.pdf](https://proceedings.jacow.org/l70/papers/a-8.pdf)  
+   Link: <a href="https://proceedings.jacow.org/l70/papers/a-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://proceedings.jacow.org/l70/papers/a-8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interim Report on the Construction of the Los Alamos...The construction of the Los Alamos Meson Physics Facility is proceeding at a sati...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: losalamosreporter.com  
    Title: lanl lansce has unique capabilities for science and national security  
-   Link: [https://losalamosreporter.com/2022/06/13/lanl-lansce-has-unique-capabilities-for-science-and-national-security/](https://losalamosreporter.com/2022/06/13/lanl-lansce-has-unique-capabilities-for-science-and-national-security/)  
+   Link: <a href="https://losalamosreporter.com/2022/06/13/lanl-lansce-has-unique-capabilities-for-science-and-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2022/06/13/lanl-lansce-has-unique-capabilities-for-science-and-national-security/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL: LANSCE Has Unique Capabilities For Science And...13 Jun 2022 — In early June 1972, the world&#x27;s most intense proton beam was delive...</p></details>
    Published: June 1972  
 
 23. <a id="endnote-23"></a>
    Source: otherhand.org  
    Title: looking at the bob lazar story from the perspective of 2018  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/](https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He was there often enough to get listed in the LANL phone directory, with the denotation “K/M” next to his name, indicating his affiliati...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos InterviewInterview – Lazar in Los Alamos The following is the transcript of a recorded telephone interview that took place on...</p></details>
    Published: May 25, 1996  
 
 25. <a id="endnote-25"></a>
    Source: sci.news  
    Title: science ununpentium element 115 01340  
-   Link: [https://www.sci.news/physics/science-ununpentium-element-115-01340.html](https://www.sci.news/physics/science-ununpentium-element-115-01340.html)  
+   Link: <a href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/physics/science-ununpentium-element-115-01340.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ununpentium: Scientists Confirm Existence of Element 11528 Aug 2013 — An international team of physicists has found new evidence for the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret facility called S4 near Area 51, whe...</p></details>

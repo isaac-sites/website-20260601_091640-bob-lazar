@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credentials/
 nav_short_title: Verified record
 title: What Taylor's Credentials Really Prove
-title_full: What Taylor's Credentials Really Prove | Credentials
+title_full: What Taylor's Credentials Really Prove
 display_title_short: Verified record
 display_title: Verified record
 heading_title: What Taylor's Credentials Really Prove
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Taylor's Credentials Prove His UAP Claims? | Taylor
+parent_title: Do Taylor's Credentials Prove His UAP Claims?
 parent_permalink: /credentials/
 parent_nav_short_title: Credentials
 parent_heading_title: Do Taylor's Credentials Prove His UAP Claims?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /task-force-role/
   short_title: Task Force role
   heading_title: How Far Did Taylor's Government Role Go?
-date: '2026-06-09 03:12:13 '
+date: '2026-06-11 21:09:00 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_
 ## Introduction
 
 [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) is unusual among public UFO and UAP personalities because a large part of his technical background can be independently verified. He is not simply a television presenter or commentator claiming scientific expertise. Public records, university biographies, patent databases, professional profiles and defence-industry announcements all support the broad outline of his education and engineering career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of AlabamaBeginning in 2019, he played a leading role in the Unidentified Aerial P...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://patents.justia.com/inventor/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.justia.com">[Justia Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.justia.com</span><span class="citation-popover-snippet">This listing includes patent applications that are pending as well as patents that...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1-dark.svg" | relative_url }}" alt="Verified record illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That verified record matters when assessing credibility. It suggests Taylor has genuine experience in fields relevant to aerospace systems, optics, sensors and military technology. At the same time, it is important not to blur two separate questions. The first is whether Taylor possesses real technical qualifications. The second is whether his UAP interpretations are correct. The available evidence strongly supports the first proposition. It does not automatically establish the second.
@@ -272,7 +271,6 @@ His career claims are also partly verifiable. Public biographies describe work s
 
 One of the strongest pieces of independently checkable evidence is his patent record. Patent databases list Taylor as an inventor or co-inventor on technical filings involving:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Optical matched-filter systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</span></span></span>
@@ -285,17 +283,13 @@ One of the strongest pieces of independently checkable evidence is his patent re
 
 Patents do not prove that every invention became operational or revolutionary. However, they do demonstrate participation in real engineering work subject to formal review and documentation. That is a stronger form of verification than résumé claims alone.
 
-His publication record also shows involvement in technical research. Research profiles and citation databases list papers dealing with optical physics, laser-related subjects, spacecraft engineering and related fields. The volume is modest compared with leading academic specialists in those disciplines, but it supports the conclusion that Taylor has engaged in genuine scientific and engineering work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Travis-Taylor-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateTravis TAYLOR | Engineer | Doctor of PhilosophySkills and Expertise: Quantum Entanglement, Spacecraft Turbulence, Rocket Prop...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJpyBM50rac" title="Travis Taylor Reveals HUGE Secrets | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJpyBM50rac" target="_blank" rel="noopener noreferrer">Travis Taylor Reveals HUGE Secrets | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.4M &middot; Uploaded: June 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJpyBM50rac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJpyBM50rac">Open on YouTube</a></p></div></div></div>
+His publication record also shows involvement in technical research. Research profiles and citation databases list papers dealing with optical physics, laser-related subjects, spacecraft engineering and related fields. The volume is modest compared with leading academic specialists in those disciplines, but it supports the conclusion that Taylor has engaged in genuine scientific and engineering work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Travis-Taylor-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Travis TAYLOR &#124; Engineer &#124; Doctor of PhilosophySkills and Expertise: Quantum Entanglement, Spacecraft Turbulence, Rocket Prop...</span></span></span>
 
 ## Why aerospace and optical expertise matters for UAP claims
 
 Taylor's educational background is particularly relevant because many UAP cases revolve around sensor interpretation rather than direct visual observation.
 
 Modern military UAP incidents frequently involve combinations of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -316,7 +310,6 @@ His reported involvement with the UAP [Task Force]({{ 'task-force/' | relative_u
 
 For supporters, the combination of advanced technical education, defence work and UAP Task Force participation makes Taylor more credible than many UFO media figures whose expertise is largely self-described.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-2-dark.svg" | relative_url }}" alt="Verified record illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where expertise stops and proof begins
 
@@ -334,23 +327,19 @@ A useful comparison is aviation accident investigation. An experienced aerospace
 
 The same principle applies to UAP claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJpyBM50rac" title="Travis Taylor Reveals HUGE Secrets | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJpyBM50rac" target="_blank" rel="noopener noreferrer">Travis Taylor Reveals HUGE Secrets | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.4M &middot; Uploaded: June 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJpyBM50rac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJpyBM50rac">Open on YouTube</a></p></div></div></div>
 
 ## The Skinwalker Ranch problem
 
 The limits of expertise become particularly visible in Taylor's television work.
 
-On *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*, Taylor often presents hypotheses about unusual measurements, equipment malfunctions or unexplained observations. Supporters argue that his technical training helps separate genuine anomalies from obvious mistakes. Critics argue that the programme frequently moves from anomaly to speculation without enough publicly available data for independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/shows/the-secret-of-[skinwalker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">He is the newest member of this</span><span class="citation-popover-snippet">HISTORYTravis Taylor - The Secret of Skinwalker Ranch Cast - History.comFor the past twenty-five years, Taylor has worked on various hi-t...</span></span></span>
+On *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*, Taylor often presents hypotheses about unusual measurements, equipment malfunctions or unexplained observations. Supporters argue that his technical training helps separate genuine anomalies from obvious mistakes. Critics argue that the programme frequently moves from anomaly to speculation without enough publicly available data for independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/shows/the-secret-of-[skinwalker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">He is the newest member of this</span><span class="citation-popover-snippet">Travis Taylor - The Secret of Skinwalker Ranch Cast - History.comFor the past twenty-five years, Taylor has worked on various hi-t...</span></span></span>
 
 The credibility issue here is not whether Taylor understands instrumentation. The issue is whether viewers receive enough information to reproduce or validate the conclusions.
 
 For example, claims involving radiation spikes, signal interference, unusual aerial objects or equipment failures may be interesting. Yet unless the underlying measurements, calibration procedures, environmental controls and raw datasets are available, outside experts cannot fully assess them.
 
 In that situation, technical authority can easily become mixed with evidential authority. The audience may conclude that a claim is stronger because a credentialled scientist made it, even when the supporting data remain limited.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## What sceptics and supporters each get right
 
@@ -366,19 +355,17 @@ Supporters are correct that:
 
 [Sceptics]({{ 'sceptics-8407e0/' | relative_url }}) are correct that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Credentials do not demonstrate non-human technology.
 * Expertise does not eliminate the possibility of misinterpretation.
 * Many cited UAP cases remain unavailable for independent review.
 * Television investigations are not equivalent to peer-reviewed scientific studies.
-* Appeals to authority are not substitutes for publicly testable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">SciencePentagon UFO study led by researcher who believes in... - ScienceIn fact, Taylor did serve in a lead role with the government&#x27;s U...</span></span></span>
+* Appeals to authority are not substitutes for publicly testable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Pentagon UFO study led by researcher who believes in... - ScienceIn fact, Taylor did serve in a lead role with the government&#x27;s U...</span></span></span>
 
 </div>
 
 The strongest evidence in Taylor's favour concerns his professional and technical background. The weakest part of the case is the attempt to use that background as proof that extraordinary UAP interpretations must therefore be correct.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-3-dark.svg" | relative_url }}" alt="Verified record illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Taylor's credentials really prove
@@ -510,15 +497,15 @@ For readers assessing credibility, the most defensible position is that Taylor's
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +513,15 @@ For readers assessing credibility, the most defensible position is that Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +529,15 @@ For readers assessing credibility, the most defensible position is that Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +545,15 @@ For readers assessing credibility, the most defensible position is that Taylor's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +561,7 @@ For readers assessing credibility, the most defensible position is that Taylor's
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="verified-record-what-taylor-s-credentials-really-prove-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-taylor-s-credentials-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-taylor-s-credentials-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,121 +777,121 @@ For readers assessing credibility, the most defensible position is that Taylor's
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
 2. <a id="endnote-2"></a>
    Source: patents.justia.com  
-   Link: [https://patents.justia.com/inventor/travis-taylor](https://patents.justia.com/inventor/travis-taylor)  
+   Link: <a href="https://patents.justia.com/inventor/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://patents.justia.com/inventor/travis-taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This listing includes patent applications that are pending as well as patents that...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: patents.justia.com  
    Title: Patents Travis S  
-   Link: [https://patents.justia.com/inventor/travis-s-taylor](https://patents.justia.com/inventor/travis-s-taylor)  
+   Link: <a href="https://patents.justia.com/inventor/travis-s-taylor" target="_blank" rel="noopener noreferrer nofollow">https://patents.justia.com/inventor/travis-s-taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Inventions, Patents and Patent ApplicationsTravis S. Taylor has filed for patents to protect the following inventions. This listin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Travis-Taylor-6](https://www.researchgate.net/profile/Travis-Taylor-6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateTravis TAYLOR | Engineer | Doctor of PhilosophySkills and Expertise: Quantum Entanglement, Spacecraft Turbulence, Rocket Prop...</p></details>
+   Link: <a href="https://www.researchgate.net/profile/Travis-Taylor-6" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Travis-Taylor-6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis TAYLOR | Engineer | Doctor of PhilosophySkills and Expertise: Quantum Entanglement, Spacecraft Turbulence, Rocket Prop...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: He is the newest member of this  
-   Link: [https://www.history.com/shows/the-secret-of-[skinwalker](https://www.history.com/shows/the-secret-of-[skinwalker)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORYTravis Taylor - The Secret of Skinwalker Ranch Cast - History.comFor the past twenty-five years, Taylor has worked on various hi-t...</p></details>
+   Link: <a href="https://www.history.com/shows/the-secret-of-[skinwalker" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-[skinwalker</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor - The Secret of Skinwalker Ranch Cast - History.comFor the past twenty-five years, Taylor has worked on various hi-t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor - Space Symposium - April 13th - 16th, 2026From 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: encyclopediaofalabama.org  
    Title: Encyclopedia of Alabama Travis S. Taylor  
-   Link: [https://encyclopediaofalabama.org/article/taylor-travis-s/](https://encyclopediaofalabama.org/article/taylor-travis-s/)  
+   Link: <a href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/taylor-travis-s/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of AlabamaBeginning in 2019, he played a leading role in the Unidentified Aerial P...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: prnewswire.com  
    Title: PR Newswire Dr. Travis S. Taylor Joins Radiance Technologies  
-   Link: [https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html](https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor Joins Radiance Technologies - PR NewswireApril 21, 2022 — With a 20-year career supporting NASA, the U.S. Army Space and...</p></details>
    Published: April 21, 2022  
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
    Title: Linked In Travis Taylor  
-   Link: [https://www.linkedin.com/in/travis-taylor-8375915a](https://www.linkedin.com/in/travis-taylor-8375915a)  
+   Link: <a href="https://www.linkedin.com/in/travis-taylor-8375915a" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/travis-taylor-8375915a</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor - Space Luminary at PwC | LinkedInTaylor works as a Space Luminary at PwC. Previously, Dr. Taylor has worked on various pro...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: executivegov.com  
    Title: Executive Gov Radiance Technologies Appoints TV Personality Dr  
-   Link: [https://www.executivegov.com/articles/radiance-technologies-appoints-travis-s-taylor-as-principal-research-scientist](https://www.executivegov.com/articles/radiance-technologies-appoints-travis-s-taylor-as-principal-research-scientist)  
+   Link: <a href="https://www.executivegov.com/articles/radiance-technologies-appoints-travis-s-taylor-as-principal-research-scientist" target="_blank" rel="noopener noreferrer nofollow">https://www.executivegov.com/articles/radiance-technologies-appoints-travis-s-taylor-as-principal-research-scientist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor...April 22, 2022 — With more than 20 years of experience supporting NASA, the U.S. Army Space and Missile Defense Comma...</p></details>
    Published: April 22, 2022  
 
 11. <a id="endnote-11"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciencePentagon UFO study led by researcher who believes in... - ScienceIn fact, Taylor did serve in a lead role with the government&#x27;s U...</p></details>
+   Link: <a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO study led by researcher who believes in... - ScienceIn fact, Taylor did serve in a lead role with the government&#x27;s U...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wJpyBM50rac](https://www.youtube.com/watch?v=wJpyBM50rac)  
+   Link: <a href="https://www.youtube.com/watch?v=wJpyBM50rac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wJpyBM50rac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor Reveals HUGE Secrets | Ancient Aliens | HistoryCheck out this epic compilation of Travis Taylor&#x27;s biggest moments. See more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kidlit.tv  
    Title: storymakers location dr travis taylor  
-   Link: [https://www.kidlit.tv/2017/06/storymakers-location-dr-travis-taylor/](https://www.kidlit.tv/2017/06/storymakers-location-dr-travis-taylor/)  
+   Link: <a href="https://www.kidlit.tv/2017/06/storymakers-location-dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.kidlit.tv/2017/06/storymakers-location-dr-travis-taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StoryMakers On Location: Dr. Travis Taylor at TLA28 Jun 2017 — Travis S. Taylor or “Doc” Taylor as his friends call him has a doctorate i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Evaluating UAP Claims: Scientific Rigor vs. Entertainment  
-   Link: [https://www.youtube.com/watch?v=k2oYJ_m_g2U](https://www.youtube.com/watch?v=k2oYJ_m_g2U)  
+   Link: <a href="https://www.youtube.com/watch?v=k2oYJ_m_g2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k2oYJ_m_g2U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Expertise and the UAP Discussion...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1pg4t2s/is_travis_taylor_a_quantum_physicist_as_shown_in/](https://www.reddit.com/r/skinwalkerranch/comments/1pg4t2s/is_travis_taylor_a_quantum_physicist_as_shown_in/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1pg4t2s/is_travis_taylor_a_quantum_physicist_as_shown_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1pg4t2s/is_travis_taylor_a_quantum_physicist_as_shown_in/</a>  
 
 17. <a id="endnote-17"></a>
    Source: scholar.google.com  
    Title: Scholar Travis S. Taylor  
-   Link: [https://scholar.google.com/citations?hl=en&user=2rfJ2bgAAAAJ](https://scholar.google.com/citations?hl=en&user=2rfJ2bgAAAAJ)  
+   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=2rfJ2bgAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=2rfJ2bgAAAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ScholarTravis S. TaylorIntroduction to rocket science and engineering. TS Taylor. CRC Press, 2017. 99, 2017; Secure near field co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor on the Science of UAPs  
-   Link: [https://www.youtube.com/watch?v=kYJ4J70-o5M](https://www.youtube.com/watch?v=kYJ4J70-o5M)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ4J70-o5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ4J70-o5M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating UAP Claims: Scientific Rigor vs. Entertainment...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Scientific Method in UAP Research  
-   Link: [https://www.youtube.com/watch?v=yYyT552-k8g](https://www.youtube.com/watch?v=yYyT552-k8g)  
+   Link: <a href="https://www.youtube.com/watch?v=yYyT552-k8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yYyT552-k8g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Anomalous Phenomena: Evidence and Standards...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jasoncolavito.com  
    Title: travis taylor admits to being a paid government ufo researcher  
-   Link: [https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher](https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher)  
+   Link: <a href="https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Aerospace Expertise and the UAP Discussion  
-   Link: [https://www.youtube.com/watch?v=Tq_Yl0n4h2A](https://www.youtube.com/watch?v=Tq_Yl0n4h2A)  
+   Link: <a href="https://www.youtube.com/watch?v=Tq_Yl0n4h2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tq_Yl0n4h2A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Method in UAP Research...</p></details>

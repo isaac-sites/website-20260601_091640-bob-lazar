@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-supporters-sceptics/
 description: Focused pages that expand on Debate.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Eric_Davis_980b6a_supporters_sceptics_20303b
-parent_title: Debate | How Credible Is Eric Davis?
+parent_title: Debate
 parent_nav_short_title: Debate
 parent_permalink: /debate/
 ---

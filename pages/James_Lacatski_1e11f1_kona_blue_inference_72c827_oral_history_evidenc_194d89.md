@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /kona-blue-4679d7/
 nav_short_title: Oral History
 title: Was KONA BLUE chasing evidence or holding it?
-title_full: Was KONA BLUE chasing evidence or holding it? | KONA BLUE
+title_full: Was KONA BLUE chasing evidence or holding it?
 display_title_short: Oral History
 display_title: Oral History
 heading_title: Was KONA BLUE chasing evidence or holding it?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did KONA BLUE Actually Show? | Lacatski
+parent_title: What Did KONA BLUE Actually Show?
 parent_permalink: /kona-blue-4679d7/
 parent_nav_short_title: KONA BLUE
 parent_heading_title: What Did KONA BLUE Actually Show?
@@ -253,7 +253,7 @@ next_link:
   permalink: /proof-gap-f29c4d/
   short_title: Proof Gap
   heading_title: Does a proposed programme prove recovered craft?
-date: '2026-06-09 02:56:38 '
+date: '2026-06-11 21:03:43 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_hist
 
 ## Introduction
 
-Within the wider debate over KONA BLUE and alleged recovered UAP materials, one of the most revealing features of the proposal was not a laboratory, warehouse or reverse-engineering facility. It was an oral-history programme. The proposal envisioned interviewing retired officials, military personnel, contractors and intelligence-linked figures in order to locate information that advocates believed already existed elsewhere. That distinction matters when assessing [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }}) and related claims. The oral-history effort suggests that KONA BLUE was designed to search for evidence and leads, not to manage a stockpile of proven recovered technology already under its control. Publicly released records show a programme structured around gathering testimony, documents, photographs, reports and possible samples from outside sources. They do not show that KONA BLUE possessed such materials itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
-
+Within the wider debate over KONA BLUE and alleged recovered UAP materials, one of the most revealing features of the proposal was not a laboratory, warehouse or reverse-engineering facility. It was an oral-history programme. The proposal envisioned interviewing retired officials, military personnel, contractors and intelligence-linked figures in order to locate information that advocates believed already existed elsewhere. That distinction matters when assessing James Lacatski and related claims. The oral-history effort suggests that KONA BLUE was designed to search for evidence and leads, not to manage a stockpile of proven recovered technology already under its control. Publicly released records show a programme structured around gathering testimony, documents, photographs, reports and possible samples from outside sources. They do not show that KONA BLUE possessed such materials itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-1-dark.svg" | relative_url }}" alt="Oral History illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Was KONA BLUE chasing evidence or holding it?
@@ -276,27 +275,25 @@ For readers evaluating Lacatski's credibility, this is an important evidential d
 
 ## Who the oral-history effort aimed to reach
 
-The proposal described an interview programme directed at what it called an already identified group of former insiders. According to the released documents, the target population included retired or previously highly placed individuals from government, the armed services, defence contractors and the intelligence community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The proposal described an interview programme directed at what it called an already identified group of former insiders. According to the released documents, the target population included retired or previously highly placed individuals from government, the armed services, defence contractors and the intelligence community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The wording is significant because it reveals the expected source of information. KONA BLUE's planners were not primarily looking to gather new eyewitness reports from the public. Instead, they were seeking testimony from people believed to have had access to sensitive programmes, restricted technologies or historical records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The wording is significant because it reveals the expected source of information. KONA BLUE's planners were not primarily looking to gather new eyewitness reports from the public. Instead, they were seeking testimony from people believed to have had access to sensitive programmes, restricted technologies or historical records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 In practical terms, the oral-history effort appears to have been conceived as an intelligence-gathering exercise. Participants would be asked what they knew, who else might know more, where records might be stored, and whether supporting evidence existed. Such an approach is common when investigators suspect that knowledge is dispersed across multiple organisations and decades of personnel turnover.
 
 The proposal therefore reveals an assumption: advocates believed there was a hidden trail that could be reconstructed through former insiders. Whether that assumption was correct is a separate question.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VBE_K8kk1E" title="Bigelow/Lacatski Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer">Bigelow/Lacatski Connection</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 139.2K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VBE_K8kk1E">Open on YouTube</a></p></div></div></div>
 
 ## Claims, records, photographs and samples as leads
 
-One of the most discussed passages in the released material describes the intended scope of the oral-history project. The proposal stated that investigators would seek information concerning the location of advanced aerospace technology and biological samples, including records, files, reports, photographs and physical samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+One of the most discussed passages in the released material describes the intended scope of the oral-history project. The proposal stated that investigators would seek information concerning the location of advanced aerospace technology and biological samples, including records, files, reports, photographs and physical samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-This list is often cited by supporters as evidence that programme planners were pursuing something more substantial than rumours. The proposal explicitly contemplated the possibility that documentary records and physical evidence might exist. If nothing beyond stories were expected, there would be little reason to mention files, photographs and samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+This list is often cited by supporters as evidence that programme planners were pursuing something more substantial than rumours. The proposal explicitly contemplated the possibility that documentary records and physical evidence might exist. If nothing beyond stories were expected, there would be little reason to mention files, photographs and samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 At the same time, sceptics emphasise a different point: the language concerns locating such material, not documenting material already in hand. The proposal treated these items as investigative targets. It did not present them as inventoried assets under KONA BLUE control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 This distinction is central to the evidence trail:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,12 +306,10 @@ This distinction is central to the evidence trail:
 
 The proposal therefore describes a chain of inquiry rather than a completed evidential case.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-2-dark.svg" | relative_url }}" alt="Oral History illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why testimony is not the same as possession
 
 A recurring problem in UAP debates is the tendency to blur together three different categories of evidence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -328,17 +323,15 @@ The oral-history component of KONA BLUE sat primarily in the second category. It
 
 This is particularly relevant to James Lacatski because his public statements and writings have often been interpreted as implying that insiders possessed knowledge of recovered technologies. The KONA BLUE proposal shows that programme advocates were sufficiently uncertain about the location and accessibility of that information that they planned a structured search for it. That fact neither disproves nor confirms the underlying claims. It simply shows that advocates regarded the evidence trail as incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">t established to protect the retrieval and...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p_tOpf5QGjg" title="Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer">Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 491.1K &middot; Uploaded: March 2026 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p_tOpf5QGjg">Open on YouTube</a></p></div></div></div>
 
 ## What AARO says happened to the evidence trail
 
-AARO's historical review reaches a conclusion that directly affects how the oral-history plan should be interpreted. According to AARO, KONA BLUE never became an operational Special Access Program, never received funding for its proposed mission, and never obtained any data or material under DHS authority. AARO further states that no extraterrestrial craft or bodies were ever collected through the programme and that such material was assumed to exist by programme advocates rather than demonstrated through programme operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — All pertinent DHS records have been searched and no additional information associated with the KONA BLUE PSAP has been disco...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+AARO's historical review reaches a conclusion that directly affects how the oral-history plan should be interpreted. According to AARO, KONA BLUE never became an operational Special Access Program, never received funding for its proposed mission, and never obtained any data or material under DHS authority. AARO further states that no extraterrestrial craft or bodies were ever collected through the programme and that such material was assumed to exist by programme advocates rather than demonstrated through programme operations. [aaro.mil+2U.S. Department of War]
 
-That assessment does not establish that all underlying claims were false. Rather, it establishes that the oral-history initiative never progressed far enough to test many of those claims. The proposed interviews, document collection efforts and searches for physical evidence were largely plans on paper rather than completed investigative work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">t established to protect the retrieval and...Read more...</span></span></span>
+That assessment does not establish that all underlying claims were false. Rather, it establishes that the oral-history initiative never progressed far enough to test many of those claims. The proposed interviews, document collection efforts and searches for physical evidence were largely plans on paper rather than completed investigative work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — All pertinent DHS records have been searched and no additional information associated with the KONA BLUE PSAP has been disco...</span></span></span>
 
 As a result, the evidential value of the oral-history proposal lies less in what it discovered than in what it reveals about the thinking of its architects. They believed important information might exist within retired official, military, contractor and intelligence networks. They designed a mechanism to locate it. Publicly available records, however, do not show that the mechanism was ever fully implemented or that it produced verified recovered materials.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yY-iebpKygk" title="Pentagon&#x27;s new UFO files show no evidence of aliens found" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s new UFO files show no evidence of aliens found</a></p><p class="youtube-embed-meta">Channel: 13WHAM ABC News &middot; Views: 27.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yY-iebpKygk">Open on YouTube</a></p></div></div></div>
 
@@ -346,96 +339,53 @@ As a result, the evidential value of the oral-history proposal lies less in what
 
 The oral-history plan strengthens one narrow conclusion and weakens another.
 
-It strengthens the conclusion that figures associated with KONA BLUE, including Lacatski, were pursuing what they regarded as a serious search for hidden information. The proposal was structured around identifying witnesses, tracing records and locating evidence through people believed to possess insider knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+It strengthens the conclusion that figures associated with KONA BLUE, including Lacatski, were pursuing what they regarded as a serious search for hidden information. The proposal was structured around identifying witnesses, tracing records and locating evidence through people believed to possess insider knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-It weakens the stronger inference sometimes made in public discussions: that KONA BLUE itself proves the existence of recovered non-human craft or biological material. The released documents show a programme attempting to find and assemble evidence, not one demonstrably holding such evidence. According to AARO's findings, the programme never obtained the materials it hoped to investigate and never advanced beyond the proposal stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — All pertinent DHS records have been searched and no additional information associated with the KONA BLUE PSAP has been disco...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+It weakens the stronger inference sometimes made in public discussions: that KONA BLUE itself proves the existence of recovered non-human craft or biological material. The released documents show a programme attempting to find and assemble evidence, not one demonstrably holding such evidence. According to AARO's findings, the programme never obtained the materials it hoped to investigate and never advanced beyond the proposal stage. [aaro.mil+2U.S. Department of War]
 
 For credibility assessment, the oral-history initiative is therefore best understood as an investigative roadmap. It documents what programme advocates thought might be discoverable and where they believed the trail could lead. It does not, by itself, establish that the destination had already been reached.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-3-dark.svg" | relative_url }}" alt="Oral History illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_oral_history_evidenc_194d89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was KONA BLUE chasing evidence or holding it?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was KONA BLUE chasing evidence or holding it?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly relates to evaluating oral histories and official accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines witness accounts versus corroborating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores how narratives and testimony shape belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Contains many insider narratives and testimony-based claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -472,15 +422,15 @@ For credibility assessment, the oral-history initiative is therefore best unders
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +438,15 @@ For credibility assessment, the oral-history initiative is therefore best unders
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/2f6977ce9c3a24a0a22d.jpg' | relative_url }}" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +454,15 @@ For credibility assessment, the oral-history initiative is therefore best unders
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/57566fa8b3425dd211dc.jpg' | relative_url }}" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +470,15 @@ For credibility assessment, the oral-history initiative is therefore best unders
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/0f27da51925b1ad78203.jpg' | relative_url }}" alt="Listing image for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +486,7 @@ For credibility assessment, the oral-history initiative is therefore best unders
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="oral-history-was-kona-blue-chasing-evidence-or-holding-it-james-lacatski-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kona-blue-chasing-evidence-or-holding-it-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-kona-blue-chasing-evidence-or-holding-it-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,81 +702,81 @@ For credibility assessment, the oral-history initiative is therefore best unders
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t established to protect the retrieval and...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The oral history project will include gathering all informa...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — All pertinent DHS records have been searched and no additional information associated with the KONA BLUE PSAP has been disco...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO/status/1780336742240809181](https://x.com/DoD_AARO/status/1780336742240809181)  
+   Link: <a href="https://x.com/DoD_AARO/status/1780336742240809181" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO/status/1780336742240809181</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Record Report Volume 1 includes...AARO&#x27;s Historical Record Report Volume 1 includes discussion of KONA BLUE, a prospec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: inverse.com  
-   Link: [https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report](https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report)  
+   Link: <a href="https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/kona-blue-top-secret-program-investigate-human-consciousness-anomalies-new-uap-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE: Top-Secret Government Program To...8 Mar 2024 — KONA BLUE, as the report explains, was allegedly a top-secret program to inve...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/](https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>story based off the memory of retired members of the program”.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — This belief was foundational for the KONA BLUE proposal, based on the proposal documents... reports, photographs, a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 whose release of three UAP videos shaped...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: socialecologies.wordpress.com  
-   Link: [https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/](https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/)  
+   Link: <a href="https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue and the Architecture of Invisible Power6 Dec 2025 — Kona Blue was built to study anomalies, exotic technologies, physiological effec...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims  
-   Link: [https://www.youtube.com/watch?v=p_tOpf5QGjg](https://www.youtube.com/watch?v=p_tOpf5QGjg)  
+   Link: <a href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p_tOpf5QGjg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s new UFO files show no evidence of aliens found...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoThe Oral History Initiative section of the KONA BLUE proposal was to collect data...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Bigelow/Lacatski Connection  
-   Link: [https://www.youtube.com/watch?v=8VBE_K8kk1E](https://www.youtube.com/watch?v=8VBE_K8kk1E)  
+   Link: <a href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8VBE_K8kk1E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: [https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf](https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapon System Application Program (AAWSAP)/Advanced Aerospace...Read more...</p></details>

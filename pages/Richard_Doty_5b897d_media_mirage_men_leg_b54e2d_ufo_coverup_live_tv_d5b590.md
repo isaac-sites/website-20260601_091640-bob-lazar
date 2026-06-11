@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-legacy/
 nav_short_title: TV Claims
 title: How TV turned secrecy into evidence
-title_full: How TV turned secrecy into evidence | Media Legacy
+title_full: How TV turned secrecy into evidence
 display_title_short: TV Claims
 display_title: TV Claims
 heading_title: How TV turned secrecy into evidence
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Did Media Turn Doty Into UFO Mythology? | Doty
+parent_title: How Did Media Turn Doty Into UFO Mythology?
 parent_permalink: /media-legacy/
 parent_nav_short_title: Media Legacy
 parent_heading_title: How Did Media Turn Doty Into UFO Mythology?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /mirage-men/
   short_title: Mirage Men
   heading_title: Did Mirage Men clarify Doty or deepen the fog?
-date: '2026-06-09 02:55:05 '
+date: '2026-06-11 21:03:03 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-1.webp
@@ -258,16 +258,14 @@ image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coveru
 
 When *UFO Cover-Up? Live* aired across the United States in October 1988, it brought intelligence-flavoured UFO claims into mainstream television at a scale that earlier UFO books and conferences could not match. The programme presented alleged insiders, secret documents, anonymous sources and claims of hidden government knowledge as part of a prime-time entertainment event. For many viewers, it was their first exposure to ideas that would later become staples of UFO culture: Area 51, Majestic-12, underground bases, recovered craft and claims of long-running official secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-1-dark.svg" | relative_url }}" alt="TV Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For assessing [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})'s credibility, the broadcast matters less as evidence of alien contact than as evidence of how intelligence-themed UFO narratives were packaged and received. It sits at the point where stories circulating among researchers, informants and self-described insiders moved from niche networks into mass media. That transition helped create the environment in which figures linked to alleged government knowledge could acquire public [authority]({{ 'authority/' | relative_url }}) even when many of the underlying claims remained unverified or were later challenged.
+For assessing Richard Doty's credibility, the broadcast matters less as evidence of alien contact than as evidence of how intelligence-themed UFO narratives were packaged and received. It sits at the point where stories circulating among researchers, informants and self-described insiders moved from niche networks into mass media. That transition helped create the environment in which figures linked to alleged government knowledge could acquire public [authority]({{ 'authority/' | relative_url }}) even when many of the underlying claims remained unverified or were later challenged.
 
 ## What *UFO Cover-Up? Live* put before a mass audience
 
 Hosted by actor Mike Farrell and broadcast as a television special, *UFO Cover-Up? Live* presented UFO secrecy as a hidden national story rather than a fringe curiosity. The programme mixed witness testimony, dramatic presentation and claims of insider access. It is especially notable because it helped introduce Area 51 and the Majestic-12 narrative to a broad television audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">UFO reports and disinformationOn October 14, 1988, the television broadcast UFO Cover Up? Live introduced the stories of Majestic 12 a...</span><span class="citation-popover-meta">Published: October 14, 1988</span></span></span>
 
 Several themes that later became central to modern disclosure culture appeared in recognisable form:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,7 +281,6 @@ The programme aired during a period when stories associated with Paul [Bennewitz
 
 One reason the broadcast became influential is that television in the late 1980s carried a different cultural weight from later internet media. A claim presented on a nationally distributed television special could appear more credible to viewers simply because it had passed through network-level production and distribution. That perception often blurred the distinction between documented evidence and dramatic storytelling.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SMsABOawulU" title="Ancient Aliens: Area 51&#x27;s Greatest Mystery (Season 20) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SMsABOawulU" target="_blank" rel="noopener noreferrer">Ancient Aliens: Area 51&#x27;s Greatest Mystery (Season 20) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 128.3K &middot; Uploaded: August 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SMsABOawulU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SMsABOawulU">Open on YouTube</a></p></div></div></div>
 
 ## How shadowed sources and insider theatre shaped reception
@@ -296,10 +293,9 @@ That approach is important when considering figures such as Richard Doty. Much o
 
 The programme also emerged during the same period in which John Lear's allegations about government-alien cooperation, underground facilities and Majestic-12 were gaining attention. Lear's widely circulated 1987-88 writings claimed that the US government had concealed extraterrestrial contact for decades and described a sprawling secret infrastructure surrounding alien activity. Those claims became highly influential despite lacking independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Later researchers and critics argued that some of these narratives incorporated misinformation, rumours and forged or dubious documents. Mark Pilkington's later work on the [Bennewitz affair]({{ 'bennewitz/' | relative_url }}) and the wider "[Mirage Men]({{ 'mirage-men/' | relative_url }})" theme suggested that parts of the UFO mythology may have been shaped by deliberate manipulation as well as sincere belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
+Later researchers and critics argued that some of these narratives incorporated misinformation, rumours and forged or dubious documents. Mark Pilkington's later work on the Bennewitz affair and the wider "[Mirage Men]({{ 'mirage-men/' | relative_url }})" theme suggested that parts of the UFO mythology may have been shaped by deliberate manipulation as well as sincere belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
 
 Seen from that perspective, *UFO Cover-Up? Live* was not merely reporting on UFO claims. It was helping construct a media environment in which claims linked to intelligence insiders acquired cultural power regardless of whether they could be independently substantiated.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-2-dark.svg" | relative_url }}" alt="TV Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the broadcast still matters for assessing Doty
@@ -308,9 +304,7 @@ The significance of *UFO Cover-Up? Live* today lies less in whether its specific
 
 Richard Doty's later public image developed within a media ecosystem that rewarded three overlapping characteristics:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5_KDFTlJ0E" title="UFO Cover Up Live 1988" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5_KDFTlJ0E" target="_blank" rel="noopener noreferrer">UFO Cover Up Live 1988</a></p><p class="youtube-embed-meta">Channel: ItalicNY 1975 &middot; Views: 2.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5_KDFTlJ0E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5_KDFTlJ0E">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -328,13 +322,11 @@ The opposite reaction emerged as well. Once Doty became associated with allegati
 
 *UFO Cover-Up? Live* helped establish that pattern. The programme treated hidden access as inherently dramatic and potentially evidential, creating a template later repeated across documentaries, cable specials, podcasts and streaming productions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TDEHuiQlEiQ" title="Reliving the UFO Cover-Up Live Experience from 1988" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TDEHuiQlEiQ" target="_blank" rel="noopener noreferrer">Reliving the UFO Cover-Up Live Experience from 1988</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 1.4K &middot; Uploaded: November 2024 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TDEHuiQlEiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TDEHuiQlEiQ">Open on YouTube</a></p></div></div></div>
 
 ## From television spectacle to the modern disclosure era
 
 Looking back, the broadcast appears strikingly modern. Many of the techniques used in current UFO documentaries were already present:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,7 +344,6 @@ That continuity makes *UFO Cover-Up? Live* historically important. It was an ear
 
 The broadcast remains a useful case study because it shows how UFO culture moved from specialist circles into mass entertainment. It also illustrates the central tension that still surrounds Doty: the gap between a real connection to intelligence institutions and the much harder task of proving extraordinary claims about what those institutions supposedly knew.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-3-dark.svg" | relative_url }}" alt="TV Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_ufo_coverup_live_tv_d5b590-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -367,16 +358,16 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Directly relevant to televised UFO narratives and insider theatre.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -384,16 +375,16 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Represents the era when UFO claims entered mainstream popular culture.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,16 +392,16 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Examines how secrecy narratives gain public attention.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -418,16 +409,16 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Contrasts television presentation with documentary evidence claims.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -435,7 +426,7 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -472,15 +463,15 @@ The broadcast remains a useful case study because it shows how UFO culture moved
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +479,15 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +495,15 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +511,15 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,7 +527,7 @@ The broadcast remains a useful case study because it shows how UFO culture moved
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="tv-claims-how-tv-turned-secrecy-into-evidence-richard-doty-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-tv-turned-secrecy-into-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-tv-turned-secrecy-into-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,117 +742,117 @@ The broadcast remains a useful case study because it shows how UFO culture moved
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live](https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationOn October 14, 1988, the television broadcast UFO Cover Up? Live introduced the stories of Majestic 12 a...</p></details>
    Published: October 14, 1988  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: John Lear  
-   Link: [https://en.wikipedia.org/wiki/John_Lear](https://en.wikipedia.org/wiki/John_Lear)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_Lear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lear</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TDEHuiQlEiQ](https://www.youtube.com/watch?v=TDEHuiQlEiQ)  
+   Link: <a href="https://www.youtube.com/watch?v=TDEHuiQlEiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TDEHuiQlEiQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cover-Up? Live - TV Special Promo (1988)...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: UFO Cover-Up? Live  
-   Link: [https://www.youtube.com/watch?v=ZeFbj5YAmlw](https://www.youtube.com/watch?v=ZeFbj5YAmlw)  
+   Link: <a href="https://www.youtube.com/watch?v=ZeFbj5YAmlw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZeFbj5YAmlw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cover Up Live 1988...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=s3txquR-Iic](https://www.youtube.com/watch?v=s3txquR-Iic)  
+   Link: <a href="https://www.youtube.com/watch?v=s3txquR-Iic" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s3txquR-Iic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary](https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary)  
+   Link: <a href="https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed by Dan Farah, the film includes testimonies from 34 military and intelligence veterans, corroborated by notable political figure...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary](https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary)  
+   Link: <a href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Featuring interviews with 34 individuals, including prominent U.S. political and intelligence figures, it seeks to shift the UFO narrativ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Richard Doty  
-   Link: [https://www.youtube.com/watch?v=b578RetPArw](https://www.youtube.com/watch?v=b578RetPArw)  
+   Link: <a href="https://www.youtube.com/watch?v=b578RetPArw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b578RetPArw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 Alien and UFO Cover UpsTop 20 Alien and UFO Cover Ups | Full Movie | Documentary - Richard Doty... Experts Reveal What Really Hap...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SMsABOawulU](https://www.youtube.com/watch?v=SMsABOawulU)  
+   Link: <a href="https://www.youtube.com/watch?v=SMsABOawulU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SMsABOawulU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aims have been made about an extraterrestrial presence on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science.howstuffworks.com  
    Title: john lear  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/john-lear.htm](https://science.howstuffworks.com/space/aliens-ufos/john-lear.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/john-lear.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/john-lear.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lear and the Dark Side... for his controversial claims about extraterrestrial life and government cover-ups.... John Lear&#x27;s theories abo...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/coverup.htm](https://sacred-texts.com/ufo/coverup.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/coverup.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/coverup.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveTHe UFO Coverup... aliens walking up to Wing Commander General Gordon Williams. August 25, 1988 THE UFO COVER...</p></details>
    Published: August 25, 1988  
 
 14. <a id="endnote-14"></a>
    Source: lorehaven.com  
-   Link: [https://lorehaven.com/speculativefaith/the-alien-work-of-god-part-i/](https://lorehaven.com/speculativefaith/the-alien-work-of-god-part-i/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lorehaven: The &quot;Alien Work&quot; Of God Part IIn the Halo universe, the Covenant are several alien races that are banded... If you look up E...</p></details>
+   Link: <a href="https://lorehaven.com/speculativefaith/the-alien-work-of-god-part-i/" target="_blank" rel="noopener noreferrer nofollow">https://lorehaven.com/speculativefaith/the-alien-work-of-god-part-i/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Alien Work&quot; Of God Part IIn the Halo universe, the Covenant are several alien races that are banded... If you look up E...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/](https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/)  
+   Link: <a href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1j431gy/ufo_disclosure_director_talks_about_the/](https://www.reddit.com/r/UFOs/comments/1j431gy/ufo_disclosure_director_talks_about_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j431gy/ufo_disclosure_director_talks_about_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j431gy/ufo_disclosure_director_talks_about_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;Disclosure&#x27; Director Talks About the Documentary!UFO Disclosure appears to have a new psychological reaction from society that is fa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rosettasister.wordpress.com  
-   Link: [https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/](https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/)  
+   Link: <a href="https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOTY: AFOSI Counter-IntelligenceSep 4, 2019 —... Richard Doty tells you about UFOs.”I was born on February 15, 1950... ” He said that w...</p></details>
    Published: February 15, 1950  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jwTCwebi-6Q](https://www.youtube.com/watch?v=jwTCwebi-6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwTCwebi-6Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Area 51 Employee Reveals Secrets from the BaseRick Doti, a man who claims to know everything there is about the secret goings-on a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ObscureMedia/comments/1afnldb/ufo_coverup_live_1988_lovingly_upscaled_from_a/](https://www.reddit.com/r/ObscureMedia/comments/1afnldb/ufo_coverup_live_1988_lovingly_upscaled_from_a/)  
+   Link: <a href="https://www.reddit.com/r/ObscureMedia/comments/1afnldb/ufo_coverup_live_1988_lovingly_upscaled_from_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ObscureMedia/comments/1afnldb/ufo_coverup_live_1988_lovingly_upscaled_from_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Cover-Up? Live! (1988) - Lovingly upscaled...UFO Cover-Up: Live! Hosted by Mike Farrell. I remember watching it as a kid and being e...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/10sszjz/whats_the_craziest_richard_doty_story_youve_heard/](https://www.reddit.com/r/aliens/comments/10sszjz/whats_the_craziest_richard_doty_story_youve_heard/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/10sszjz/whats_the_craziest_richard_doty_story_youve_heard/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10sszjz/whats_the_craziest_richard_doty_story_youve_heard/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed alien races. What could they possibly want from a...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JOEROGAN/posts/the-age-of-disclosure-is-one-of-the-best-documentaries-on-the-whole-ufo-phenomen/1422114429278987/](https://www.facebook.com/JOEROGAN/posts/the-age-of-disclosure-is-one-of-the-best-documentaries-on-the-whole-ufo-phenomen/1422114429278987/)  
+   Link: <a href="https://www.facebook.com/JOEROGAN/posts/the-age-of-disclosure-is-one-of-the-best-documentaries-on-the-whole-ufo-phenomen/1422114429278987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JOEROGAN/posts/the-age-of-disclosure-is-one-of-the-best-documentaries-on-the-whole-ufo-phenomen/1422114429278987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking government officials revealing the truth about what...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/yes-the-guy-who-told-the-world-about-area-51-was-really-named-lazar/10157557587821057/](https://www.facebook.com/SYFY/posts/yes-the-guy-who-told-the-world-about-area-51-was-really-named-lazar/10157557587821057/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/yes-the-guy-who-told-the-world-about-area-51-was-really-named-lazar/10157557587821057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/yes-the-guy-who-told-the-world-about-area-51-was-really-named-lazar/10157557587821057/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the 90s. We have airforce Pilots who will tell you they seen...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /transparency/
 nav_short_title: Independence
 title: Could AARO investigate its own system?
-title_full: Could AARO investigate its own system? | Transparency
+title_full: Could AARO investigate its own system?
 display_title_short: Independence
 display_title: Independence
 heading_title: Could AARO investigate its own system?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can The Public Trust A Classified Review? | Kirkpatrick
+parent_title: Can The Public Trust A Classified Review?
 parent_permalink: /transparency/
 parent_nav_short_title: Transparency
 parent_heading_title: Can The Public Trust A Classified Review?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /disclosure-model/
   short_title: Disclosure model
   heading_title: The transparency process critics wanted instead
-date: '2026-06-09 02:58:41 '
+date: '2026-06-11 21:04:42 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_i
 
 ## Introduction
 
-One of the most persistent criticisms of the All-domain Anomaly Resolution Office (AARO) under [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }}) was not primarily about its technical competence. It was about whether an office located inside the United States defence and intelligence structure could convincingly investigate allegations directed at that same structure.
-
+One of the most persistent criticisms of the All-domain Anomaly Resolution Office (AARO) under Sean Kirkpatrick was not primarily about its technical competence. It was about whether an office located inside the United States defence and intelligence structure could convincingly investigate allegations directed at that same structure.
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-1-dark.svg" | relative_url }}" alt="Independence illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [supporters]({{ 'supporters-0a40e4/' | relative_url }}) of AARO, its position inside the Pentagon was a strength. The office had access to classified records, sensitive programmes, military reporting channels and intelligence officials that an outside body could never reach. For critics, the same arrangement created an unavoidable credibility problem: if the central allegation was that information about unidentified anomalous phenomena (UAP) had been concealed within defence or intelligence systems, then an office reporting through those systems could appear to be investigating its own institution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
@@ -273,7 +272,6 @@ That structure mattered because some of the most prominent UAP allegations were 
 In ordinary circumstances, internal investigations are common across government. Defence departments routinely investigate security failures, intelligence mistakes and procurement problems through offices located inside the same institution. However, UAP allegations involved claims of extraordinary secrecy and compartmentalisation. Critics therefore argued that a review conducted entirely within the defence establishment would struggle to overcome perceptions of institutional self-protection, even if investigators acted in good faith.
 
 The issue was less about individual misconduct and more about institutional incentives. A finding that no hidden programme existed would inevitably be viewed differently when issued by the organisation accused of possessing the alleged information than if it came from an external body with separate reporting lines.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eoPeh03hLPI" title="🌎 Pentagon&#x27;s AARO Testifies To Senate | National Security Concerns!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eoPeh03hLPI" target="_blank" rel="noopener noreferrer">🌎 Pentagon&#x27;s AARO Testifies To Senate | National Security Concerns!</a></p><p class="youtube-embed-meta">Channel: WorldCam &middot; Views: 3.9K &middot; Uploaded: November 2024 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eoPeh03hLPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eoPeh03hLPI">Open on YouTube</a></p></div></div></div>
 
@@ -296,12 +294,11 @@ Without internal placement, supporters argued, AARO would have been unable to:
 
 </div>
 
-These were not trivial advantages. AARO stated that, in preparing its historical review, it examined classified and unclassified archives, conducted interviews and worked with officials responsible for oversight of controlled and special-access programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 — In completing this report, AARO reviewed all officia...</span></span></span>
+These were not trivial advantages. AARO stated that, in preparing its historical review, it examined classified and unclassified archives, conducted interviews and worked with officials responsible for oversight of controlled and special-access programmes. [U.S. Department of War+2U.S. Department of War]
 
 From this perspective, independence without access would have produced a different problem. An outside commission might have appeared more neutral but would likely have lacked the authority to inspect the very classified systems that UAP whistleblowers claimed contained the relevant evidence.
 
 Supporters therefore viewed AARO's institutional position as the reason its conclusions deserved attention rather than a reason to dismiss them.
-
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-2-dark.svg" | relative_url }}" alt="Independence illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why access did not answer independence concerns
@@ -311,7 +308,6 @@ The central criticism was that access and independence are not the same thing.
 AARO repeatedly emphasised that it had reviewed historical records, searched archives and worked with programme oversight officials before concluding that it found no evidence of hidden extraterrestrial technology or undisclosed crash-retrieval efforts. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> Critics generally did not dispute that AARO had greater access than journalists, private researchers or members of the public. Instead, they questioned whether the office had sufficient independence to test the most serious allegations against the institutions providing that access.
 
 Several concerns emerged:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,7 +319,6 @@ Several concerns emerged:
 </div>
 
 This created a circular trust problem. AARO argued that its access enabled it to check sensitive claims. Critics responded that the very need to trust AARO's internal access was the issue under dispute.
-
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-3-dark.svg" | relative_url }}" alt="Independence illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_aaro_independence_pr_85503d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The special-access programme question
@@ -342,95 +337,51 @@ The independence issue is important because it affects how Sean Kirkpatrick's co
 
 Critics often frame the problem as structural rather than personal. Kirkpatrick's scientific and intelligence background gave him expertise and access, but it also tied him to the defence establishment in the eyes of those who already distrusted that establishment. His conclusions therefore faced a higher burden of persuasion among audiences convinced that government secrecy itself was the core issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
 
-Supporters reach the opposite conclusion. They argue that Kirkpatrick's position inside the system was precisely what allowed him to investigate claims seriously and that no external investigator could have matched AARO's access to classified information. From this perspective, criticisms of institutional placement risk becoming unfalsifiable because any official finding can be dismissed as part of the alleged cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 — In completing this report, AARO reviewed all officia...</span></span></span>
+Supporters reach the opposite conclusion. They argue that Kirkpatrick's position inside the system was precisely what allowed him to investigate claims seriously and that no external investigator could have matched AARO's access to classified information. From this perspective, criticisms of institutional placement risk becoming unfalsifiable because any official finding can be dismissed as part of the alleged cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</span></span></span>
 
 The resulting dispute remains unresolved. AARO's internal location gave it investigative powers unavailable to outsiders, but it also ensured that some critics would never view its findings as fully independent. That tension sits at the heart of the broader [transparency]({{ 'transparency/' | relative_url }}) debate surrounding AARO and remains one of the most significant challenges to the public credibility of the office during Sean Kirkpatrick's tenure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoSZA7Meneg" title="Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer">Historic Senate Hearing on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure</a></p><p class="youtube-embed-meta">Channel: UAPsee &middot; Views: 1.3K &middot; Uploaded: April 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoSZA7Meneg">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could AARO investigate its own system?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could AARO investigate its own system?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Illustrates the credibility challenges surrounding investigations inside secret defense environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Highlights disputes between official conclusions and testimony from insiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Helps readers understand whether agencies can effectively scrutinize their own systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Provides a useful comparison with earlier internal government UFO review efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -467,15 +418,15 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New"><img src="{{ '/assets/images/marketplace-covers/8eb41688fee7f67681a7.jpg' | relative_url }}" alt="Listing image for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Tooker : Government Bureau : 1956 : Archival Quality Art Print"><img src="https://i.ebayimg.com/images/g/F-MAAOSw7hNixyt7/s-l225.jpg" alt="Listing image for George Tooker : Government Bureau : 1956 : Archival Quality Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">George Tooker : Government Bureau : 1956 : Archival Quality Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +434,15 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1936 Soviet Map of Nazi Germany – Pre-WWII Intelligence on Borders &amp; Government"><img src="https://i.ebayimg.com/images/g/5FcAAOSwEiZnvApv/s-l225.jpg" alt="Listing image for 1936 Soviet Map of Nazi Germany – Pre-WWII Intelligence on Borders &amp; Government" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">1936 Soviet Map of Nazi Germany – Pre-WWII Intelligence on Borders &amp; Government</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +450,15 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Government Bureau : George Tooker : Archival Art Print"><img src="https://i.ebayimg.com/images/g/JdYAAOSwLcZmWLwe/s-l225.jpg" alt="Listing image for Government Bureau : George Tooker : Archival Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Government Bureau : George Tooker : Archival Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +466,15 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for George Tooker : Government Bureau : 1956 : Archival Quality Art Print"><img src="https://i.ebayimg.com/images/g/F-MAAOSw7hNixyt7/s-l225.jpg" alt="Listing image for George Tooker : Government Bureau : 1956 : Archival Quality Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">George Tooker : Government Bureau : 1956 : Archival Quality Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +482,7 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="independence-could-aaro-investigate-its-own-system-sean-kirkpatrick-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-aaro-investigate-its-own-system-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="could-aaro-investigate-its-own-system-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,127 +698,127 @@ The resulting dispute remains unresolved. AARO's internal location gave it inves
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-d...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/](https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 — In completing this report, AARO reviewed all officia...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: govwhitepapers.com  
-   Link: [https://govwhitepapers.com/whitepapers/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap](https://govwhitepapers.com/whitepapers/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap)  
+   Link: <a href="https://govwhitepapers.com/whitepapers/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://govwhitepapers.com/whitepapers/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government...6 Mar 2024 — In completing this report, AARO reviewed all official... officials responsible for controlled and special acc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Brief to SASC DoD UAP Mission April 19 2023 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Department of Defense &amp; the UAP Mission19 Apr 2023 — Department of Defense. Office of Prepublication and Security Review. UAP Repo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24-F-0266.pdf8 Jan 2024 — Inhofe National Defense Authorization Act for Fiscal Year 2023 authorizes AARO to receive reporting about U.S...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportThese reports will be used to inform AARO&#x27;s congressionally directed Historical Record Report. This form is intended as an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — All-Domain Anomaly Resolution Office Director Sean Kirkpatrick he...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
    Published: March 22, 2024  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, who led the All-domain Anomaly Resolution Office (Aaro) since its inception in 2022, argues that these theorists perpetuate...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ri0hv5/aaro_job_posting_lists_knowledge_of_deception/](https://www.reddit.com/r/UFOs/comments/1ri0hv5/aaro_job_posting_lists_knowledge_of_deception/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ri0hv5/aaro_job_posting_lists_knowledge_of_deception/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ri0hv5/aaro_job_posting_lists_knowledge_of_deception/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO job posting lists &quot;knowledge of deception activities&quot;...The Pentagon announced that AARO will &quot;consolidate&quot; and &quot;facilitate&quot; the re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
-   Link: [https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/](https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/)  
+   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...In 2026, unidentified aerial phenomena have become a serious topic within officia...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report-8d3982/&#x27; | relative_url &amp;#125;&amp;#125;) points out that UAP sightings and beliefs tha...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO focuses on unexplained reports of objects or phenomena from pilots and other mil...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: twz.com  
    Title: broken aaro pentagon uap offices role questioned following shootdowns  
-   Link: [https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns](https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns)  
+   Link: <a href="https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Broken AARO? Pentagon UAP Office&#x27;s Role Questioned...15 Feb 2023 — Concerns about odd aerial objects that might pose threats to the U.S...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: greydynamics.com  
-   Link: [https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/](https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/)  
+   Link: <a href="https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uding the release of historical documents and guidance on UAP reporting for...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/](https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y officials on UFO crash recovery and the physical retrieval of UFOs...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — AARO investigated numerous named, and described, but unnamed programs alleged to invo...</p></details>

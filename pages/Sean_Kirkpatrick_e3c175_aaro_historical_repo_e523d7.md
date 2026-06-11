@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-sean-kirkpatrick-debunk-ufo/
 nav_short_title: AARO Report
 title: Did AARO Close The Crash Retrieval Story?
-title_full: Did AARO Close The Crash Retrieval Story? | Kirkpatrick
+title_full: Did AARO Close The Crash Retrieval Story?
 display_title_short: AARO Report
 display_title: AARO Report
 heading_title: Did AARO Close The Crash Retrieval Story?
@@ -283,7 +283,7 @@ next_link:
   permalink: /aaro-role/
   short_title: AARO Role
   heading_title: How Much Authority Did AARO Give Him?
-date: '2026-06-09 02:57:36 '
+date: '2026-06-11 21:04:07 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overview.webp
@@ -292,8 +292,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overvi
 
 ## Introduction
 
-[Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s strongest public support for his sceptical position on alien crash retrievals is the 2024 AARO historical report. It did not simply say “no aliens”; it reviewed decades of US government UAP records, interviews and alleged programme names, then concluded that AARO found no empirical evidence that the US government or private companies had recovered, hidden or reverse-engineered extraterrestrial technology. It also argued that many modern retrieval claims grew from misidentified classified programmes, second-hand accounts and circular reporting among a relatively small network of UAP believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war publishes second release of unidentified anomalous phenomena</span><span class="citation-popover-snippet">department of war publishes second release of unidentified anomalous phenomena</span></span></span>(#endnote-21 "Endnote 21")
-
+Sean Kirkpatrick’s strongest public support for his sceptical position on alien crash retrievals is the 2024 AARO historical report. It did not simply say “no aliens”; it reviewed decades of US government UAP records, interviews and alleged programme names, then concluded that AARO found no empirical evidence that the US government or private companies had recovered, hidden or reverse-engineered extraterrestrial technology. It also argued that many modern retrieval claims grew from misidentified classified programmes, second-hand accounts and circular reporting among a relatively small network of UAP believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war publishes second release of unidentified anomalous phenomena</span><span class="citation-popover-snippet">department of war publishes second release of unidentified anomalous phenomena</span></span></span>(#endnote-21 "Endnote 21")
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overview.webp" | relative_url }}" alt="Overview image for AARO Report" loading="eager" decoding="sync" fetchpriority="high">
 That makes the report central to any credibility assessment of Kirkpatrick. It is the most detailed official rebuttal to the modern “crash retrieval” story, including claims about non-human biologics, secret special access programmes and alien materials. But it does not end every reasonable question. Its conclusions depend partly on classified access and internal interviews that the public cannot fully audit. The result is a strong official finding, not a universally accepted public proof.
@@ -307,7 +306,6 @@ For Kirkpatrick, this distinction matters. His position was not that every UAP c
 The report’s most important claim for the retrieval debate was narrower and more testable than a general statement about UFO sightings. AARO said it found no empirical evidence that the US government or private industry had been reverse-engineering extraterrestrial technology, and that claims involving named people, locations, documents and technology tests were inaccurate based on the information provided to date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war publishes second release of unidentified anomalous phenomena</span><span class="citation-popover-snippet">department of war publishes second release of unidentified anomalous phenomena</span></span></span>(#endnote-21 "Endnote 21")
 
 That is why the report became such a flashpoint. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick’s approach see it as the first serious official attempt to run the crash-retrieval narrative through programme records, security channels and industry interviews. Critics see it as an insider review asking the public to trust the same national-security system accused of hiding the evidence.
-
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-1-dark.svg" | relative_url }}" alt="AARO Report illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reverse-engineering claims checked
@@ -329,7 +327,6 @@ The report also addressed physical-material claims. AARO said a sample alleged t
 
 For a mainstream reader, the key point is not that AARO proved every UAP case mundane. It is that the retrieval story depends on particular claims about materials, programmes, documents, facilities and people. AARO says it checked many of those anchors and found misidentification, denial, ordinary materials or insufficient evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qD-5ZXrH6ts" title="There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qD-5ZXrH6ts" target="_blank" rel="noopener noreferrer">There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 20.6K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qD-5ZXrH6ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qD-5ZXrH6ts">Open on YouTube</a></p></div></div></div>
 
 ## KONA BLUE shows why the story is complicated
@@ -342,7 +339,6 @@ That wording matters. KONA BLUE was not presented by AARO as a successful retrie
 
 This is the sort of evidence that both sides interpret differently. Sceptics argue KONA BLUE confirms Kirkpatrick’s “circular reporting” model: people who already believed in hidden alien technology attempted to create a programme to investigate or acquire it, and later references to the proposal became evidence in the rumour chain. Some disclosure advocates argue the proposal’s existence still shows that serious insiders believed there was something to recover. The evidential difference is crucial: insider belief is not the same thing as recovered hardware.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-2-dark.svg" | relative_url }}" alt="AARO Report illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why classified evidence remains a problem
 
@@ -354,7 +350,6 @@ This matters because the crash-retrieval claim is itself a claim about secrecy. 
 
 The fair assessment is therefore conditional. AARO significantly weakens public crash-retrieval claims by showing that several named or described leads do not hold up under official review. It does not, by itself, make every classified uncertainty disappear, especially where the public cannot see the primary records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B0qi5GOROUQ" title="Pentagon UFO Hunter Says Alien &quot;Religion&quot; Has Infiltrated US Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B0qi5GOROUQ" target="_blank" rel="noopener noreferrer">Pentagon UFO Hunter Says Alien &quot;Religion&quot; Has Infiltrated US Government</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 29.0K &middot; Uploaded: June 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B0qi5GOROUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B0qi5GOROUQ">Open on YouTube</a></p></div></div></div>
 
 ## How it affects Kirkpatrick’s credibility
@@ -365,7 +360,6 @@ Kirkpatrick’s own public commentary matches the report’s core theory. In Sci
 
 That consistency helps his credibility, but it also creates a criticism. Because Kirkpatrick became personally associated with the “no evidence of aliens” conclusion before and after leaving AARO, critics can portray the report as confirming his prior scepticism rather than independently testing the claims. The better question is not whether he is sceptical; he plainly is. The better question is whether the report’s evidence supports that scepticism. On the public record, it does so more strongly than any single media interview or opinion piece.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-3-dark.svg" | relative_url }}" alt="AARO Report illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did AARO close the crash retrieval story?
 
@@ -375,91 +369,47 @@ The report also shifts the reader’s attention to what would be needed to overt
 
 For Kirkpatrick’s credibility, the historical report is a major point in his favour, but not a magic seal of finality. It supports his sceptical position more strongly than his title alone ever could. It also leaves the unresolved democratic problem at the centre of UAP politics: when claims concern classified programmes, the public is asked to evaluate conclusions without seeing much of the underlying classified evidence. That does not make the alien retrieval claim true. It does explain why AARO’s report weakened the story substantially without ending the argument.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGVQ5858dZs" title="SpaceTime with Dr. Sean Kirkpatrick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer">SpaceTime with Dr. Sean Kirkpatrick</a></p><p class="youtube-embed-meta">Channel: National Security Space Association &middot; Views: 2.4K &middot; Uploaded: March 2024 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGVQ5858dZs">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did AARO Close The Crash Retrieval Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did AARO Close The Crash Retrieval Story?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides historical context for official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Offers claims and perspectives contrasted by AARO&#x27;s historical review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Discusses crash retrieval and secrecy narratives addressed by AARO.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides key historical and official claims that later reviews attempted to assess.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -496,15 +446,15 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +462,15 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/57566fa8b3425dd211dc.jpg' | relative_url }}" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +478,15 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/2f6977ce9c3a24a0a22d.jpg' | relative_url }}" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +494,15 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/0f27da51925b1ad78203.jpg' | relative_url }}" alt="Listing image for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,7 +510,7 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap patch" data-ebay-reference="aaro-report-8d3982-did-aaro-close-the-crash-retrieval-story-sean-kirkpatrick-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-aaro-close-the-crash-retrieval-story-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-aaro-close-the-crash-retrieval-story-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,159 +726,159 @@ For Kirkpatrick’s credibility, the historical report is a major point in his f
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: US Government UAP-Related Program/Activity Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D](https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0266.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: PIA Section 1  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_PIA_Section_1.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2024%20FOIAs/24-F-0922.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: department of war publishes second release of unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/](https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/</a>  
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/?releaseDate=Release](https://www.war.gov/ufo/?releaseDate=Release)  
+   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
 18. <a id="endnote-18"></a>
    Source: time.com  
    Title: congress ufo hearing  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
 19. <a id="endnote-19"></a>
    Source: unexplained.co  
    Title: the ufo metal that finally got a real lab test  
-   Link: [https://www.unexplained.co/news/the-ufo-metal-that-finally-got-a-real-lab-test](https://www.unexplained.co/news/the-ufo-metal-that-finally-got-a-real-lab-test)  
+   Link: <a href="https://www.unexplained.co/news/the-ufo-metal-that-finally-got-a-real-lab-test" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/the-ufo-metal-that-finally-got-a-real-lab-test</a>  
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 21. <a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 22. <a id="endnote-22"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S. Government's UFO Hunter  
-   Link: [https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/](https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/)  
+   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
 
 23. <a id="endnote-23"></a>
    Source: scientificamerican.com  
    Title: Stories by Sean Kirkpatrick Opinion  
-   Link: [https://www.scientificamerican.com/author/sean-kirkpatrick/](https://www.scientificamerican.com/author/sean-kirkpatrick/)  
+   Link: <a href="https://www.scientificamerican.com/author/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/sean-kirkpatrick/</a>  
 
 24. <a id="endnote-24"></a>
    Source: scientificamerican.com  
    Title: the governments former ufo hunter has a lot to say  
-   Link: [https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/](https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/)  
+   Link: <a href="https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Pentagon UFO Hunter Says Alien "Religion" Has Infiltrated US Government  
-   Link: [https://www.youtube.com/watch?v=B0qi5GOROUQ](https://www.youtube.com/watch?v=B0qi5GOROUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=B0qi5GOROUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B0qi5GOROUQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: There's 'no evidence of aliens': Former Pentagon leader | News Nation Live  
-   Link: [https://www.youtube.com/watch?v=qD-5ZXrH6ts](https://www.youtube.com/watch?v=qD-5ZXrH6ts)  
+   Link: <a href="https://www.youtube.com/watch?v=qD-5ZXrH6ts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qD-5ZXrH6ts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s new UFO files show no evidence of aliens found...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/](https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/)  
+   Link: <a href="https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/](https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen](https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen)  
+   Link: <a href="https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen</a>  
 
 32. <a id="endnote-32"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L](https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L)  
+   Link: <a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScientificAmerican/posts/an-office-in-the-pentagon-investigated-ufosand-the-paranormalover-a-decade-ago-s/921839503147656/](https://www.facebook.com/ScientificAmerican/posts/an-office-in-the-pentagon-investigated-ufosand-the-paranormalover-a-decade-ago-s/921839503147656/)  
+   Link: <a href="https://www.facebook.com/ScientificAmerican/posts/an-office-in-the-pentagon-investigated-ufosand-the-paranormalover-a-decade-ago-s/921839503147656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScientificAmerican/posts/an-office-in-the-pentagon-investigated-ufosand-the-paranormalover-a-decade-ago-s/921839503147656/</a>  
 
 34. <a id="endnote-34"></a>
    Source: wemoral.com  
-   Link: [https://wemoral.com/whistleblower/david-grusch-uap](https://wemoral.com/whistleblower/david-grusch-uap)  
+   Link: <a href="https://wemoral.com/whistleblower/david-grusch-uap" target="_blank" rel="noopener noreferrer nofollow">https://wemoral.com/whistleblower/david-grusch-uap</a>

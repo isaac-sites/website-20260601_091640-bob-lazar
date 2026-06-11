@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-james-lacatski/
 nav_short_title: Speculative Papers
 title: Do The Technical Papers Prove Anything?
-title_full: Do The Technical Papers Prove Anything? | Lacatski
+title_full: Do The Technical Papers Prove Anything?
 display_title_short: Speculative Papers
 display_title: Speculative Papers
 heading_title: Do The Technical Papers Prove Anything?
@@ -283,7 +283,7 @@ prev_link:
   permalink: /skinwalker/
   short_title: Skinwalker
   heading_title: Does Skinwalker Ranch Help Or Hurt Him?
-date: '2026-06-09 02:56:19 '
+date: '2026-06-11 21:03:25 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview.webp
@@ -292,22 +292,20 @@ image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview-
 
 ## Introduction
 
-The DIA-funded technical papers linked to [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }}) and AAWSAP prove something real, but narrower than many UFO/UAP discussions imply. They show that a US defence-intelligence programme paid for speculative studies on future aerospace threats, including warp drives, invisibility cloaking, wormholes, negative energy, exotic propulsion, directed energy, [biological effects]({{ 'bio-effects/' | relative_url }}) and advanced materials. They do not, by themselves, prove that any extraordinary craft existed, that the US had recovered non-human technology, or that Lacatski’s later claims about hidden UAP realities are established fact.
-
+The DIA-funded technical papers linked to James Lacatski and AAWSAP prove something real, but narrower than many UFO/UAP discussions imply. They show that a US defence-intelligence programme paid for speculative studies on future aerospace threats, including [warp drives]({{ 'warp-drive/' | relative_url }}), invisibility [cloaking]({{ 'cloaking/' | relative_url }}), wormholes, negative energy, exotic propulsion, directed energy, biological effects and advanced materials. They do not, by themselves, prove that any extraordinary craft existed, that the US had recovered non-human technology, or that Lacatski’s later claims about hidden UAP realities are established fact.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview.webp" | relative_url }}" alt="Overview image for Speculative Papers" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because the 38 research titles are among the most tangible public artefacts from AAWSAP. They are easier to verify than private insider claims, but also easier to overread. They demonstrate programme ambition, intellectual risk-taking and an unusual appetite for fringe-adjacent physics. Their evidential value is mainly about what AAWSAP was willing to explore, not what it successfully proved. The strongest reading is cautious: the papers support Lacatski’s claim that AAWSAP was a serious, funded effort with technical deliverables, while leaving the central UAP claims unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs - Federation of American Scientists...</span></span></span>
 
 ## What the 38 Research Titles Covered
 
-The public list of AAWSAP/AATIP technical studies is striking because it sits between recognisable aerospace forecasting and science-fiction-sounding speculation. The Federation of American Scientists reported in 2019 that the Defense Intelligence Agency had released a list of 38 funded research titles under FOIA, describing many as highly conjectural and “well beyond” ordinary science, engineering or military intelligence. The same release identified topics such as [warp drive]({{ 'warp-drive/' | relative_url }}), invisibility [cloaking]({{ 'cloaking/' | relative_url }}) and “Traversable Wormholes, Stargates, and Negative Energy”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs - Federation of American Scientists...</span></span></span>
+The public list of AAWSAP/AATIP technical studies is striking because it sits between recognisable aerospace forecasting and science-fiction-sounding speculation. The Federation of American Scientists reported in 2019 that the Defense Intelligence Agency had released a list of 38 funded research titles under FOIA, describing many as highly conjectural and “well beyond” ordinary science, engineering or military intelligence. The same release identified topics such as [warp drive]({{ 'warp-drive/' | relative_url }}), invisibility cloaking and “Traversable Wormholes, Stargates, and Negative Energy”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs - Federation of American Scientists...</span></span></span>
 
 The DIA list itself shows the range. Some titles sound like conventional future-weapons or aerospace work: high-energy laser weapons, hypersonic tracking, biomaterials, metamaterials, unmanned spacecraft control, ultracapacitors, magnetohydrodynamic propulsion and advanced nuclear propulsion concepts. Others move much further towards speculative physics: antigravity, negative mass propulsion, quantum vacuum energy, high-frequency gravitational wave communications, traversable wormholes and negative energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA 00159 2018</span></span></span>
 
 That mixture is important for judging Lacatski. AAWSAP was not simply a pile of alien-themed essays, but neither was it a normal incremental aerospace study programme. The original statement of objectives framed the work as an attempt to understand future foreign aerospace threats out to roughly 2050, with a focus on breakthrough technologies that could create discontinuities in existing trends. It asked for technical studies in areas such as lift, propulsion, control, power generation, spatial and temporal translation, materials, signature reduction, human interface and human effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">SOW Aerospace</span><span class="citation-popover-snippet">SOW Aerospace</span></span></span>
 
 For a reader assessing Lacatski, this means the papers support one modest proposition strongly: AAWSAP was genuinely tasked, at least on paper, with surveying advanced aerospace ideas at the edge of plausibility. They do not show that the ideas worked. A paper about negative mass propulsion is not evidence of negative mass propulsion being demonstrated. A paper about wormholes is not evidence that wormholes were observed. A paper about cloaking is not proof of an invisible craft.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-1-dark.svg" | relative_url }}" alt="Speculative Papers illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Speculative Topics Are Not Confirmation
@@ -320,7 +318,6 @@ But that is a long way from proof. The All-domain Anomaly Resolution Office, or 
 
 That assessment is not the last word for everyone. Supporters of Lacatski and AAWSAP may argue that AARO lacked access to all relevant classified material, misunderstood the programme’s deeper purpose, or treated unconventional data too dismissively. Even so, for public credibility analysis, AARO’s point is central: the technical papers are not peer-reviewed confirmations of exotic craft. They are deliverables from a government-funded exploratory contract.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ow7FqiegixQ" title="Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer">Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 214.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ow7FqiegixQ">Open on YouTube</a></p></div></div></div>
 
 ## The Papers That Most Shaped Public Perception
@@ -329,24 +326,22 @@ The memorable titles matter because they changed how AAWSAP was understood by th
 
 “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions” is a good example. It sounds like pure science fiction, yet warp-drive models do have a technical basis in speculative general relativity, especially after Miguel Alcubierre’s 1994 theoretical proposal. That does not make warp drive practical; it means the paper belongs to a known tradition of mathematical speculation about spacetime metrics. The evidential question is not whether the title sounds strange, but whether it produced testable, validated results. Publicly, there is no evidence that it did.
 
-“Invisibility Cloaking: Theory and Experiments” is a different kind of example. Cloaking research has a legitimate basis in metamaterials and wave manipulation, but real-world cloaking is limited, frequency-dependent and far from the popular idea of a vehicle simply vanishing. The DIA-linked paper’s cover information identifies it as an AAWSA programme product and directs comments to James T. Lacatski as programme manager, which is useful for anchoring Lacatski’s administrative connection to these deliverables. It does not show that AAWSAP had invisibility technology suitable for UAP-like craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Invisibility Cloaking</span><span class="citation-popover-snippet">DIA Invisibility Cloaking</span></span></span>
+“Invisibility Cloaking: Theory and Experiments” is a different kind of example. Cloaking research has a legitimate basis in metamaterials and wave manipulation, but real-world cloaking is limited, frequency-dependent and far from the popular idea of a vehicle simply vanishing. The DIA-linked paper’s cover information identifies it as an AAWSA programme product and directs comments to James T. Lacatski as programme manager, which is useful for anchoring Lacatski’s administrative connection to these deliverables. It does not show that AAWSAP had invisibility technology suitable for UAP-like craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Invisibility Cloaking</span><span class="citation-popover-snippet">DIA Invisibility Cloaking</span></span></span>
 
 The biological-effects paper is especially relevant to UAP credibility because it appears closer to the phenomenon itself. Popular Mechanics reported on “Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues”, describing it as a study of signs, symptoms and possible biophysics of injury from exposure to anomalous systems. A DIA release of a related title states that the report discussed historical cases in which humans were said to have been injured near anomalous airborne vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Inside the Pentagon&#x27;s Secret UFO Program</span><span class="citation-popover-snippet">Popular Mechanics Inside the Pentagon&#x27;s Secret UFO Program</span></span></span>
 
 This paper is more evidentially interesting than a general warp-drive survey because it tries to connect witness effects to possible physical mechanisms. But it still does not prove the underlying vehicle claims. Medical pattern-matching can suggest that certain reported injuries resemble known exposure effects, such as electromagnetic or thermal injury. It cannot, without strong chain-of-custody case evidence, establish that an anomalous craft caused them.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-2-dark.svg" | relative_url }}" alt="Speculative Papers illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Supporters Read the Papers
 
 Supporters of Lacatski tend to see the technical papers as evidence that AAWSAP was more serious than sceptics admit. The argument is not simply “the government studied UFOs, therefore UFOs are alien”. A stronger supporter argument runs like this: a DIA-managed programme hired people with scientific and intelligence backgrounds, produced more than a thousand pages of technical work, explored mechanisms that could in principle map onto reported UAP performance, and did so under a future-threat frame that would make sense if unusual aerospace observations were being taken seriously.
 
-From that perspective, the titles are not random curiosities. [Warp drives]({{ 'warp-drive/' | relative_url }}), metric engineering, negative energy, antigravity, metamaterials, signature reduction, biological effects and hypersonic tracking line up with recurring UAP claims: extreme acceleration, unusual propulsion, low observability, transmedium movement, close-range physiological effects and sensor difficulties. The papers can therefore be read as a mechanism catalogue: AAWSAP was asking, “If reports like these describe a real technology, what physics or engineering might be relevant?”
+From that perspective, the titles are not random curiosities. Warp drives, metric engineering, negative energy, antigravity, metamaterials, signature reduction, biological effects and hypersonic tracking line up with recurring UAP claims: extreme acceleration, unusual propulsion, low observability, transmedium movement, close-range physiological effects and sensor difficulties. The papers can therefore be read as a mechanism catalogue: AAWSAP was asking, “If reports like these describe a real technology, what physics or engineering might be relevant?”
 
 That is the best pro-Lacatski use of the papers. They support the view that he was involved in a programme that did not treat UAP-style performance claims as mere folklore. They also show that the official aerospace-threat language was broad enough to house highly unconventional questions. AARO itself acknowledges that, although UFO/UAP investigation was not specifically outlined in the contract statement of work, the selected private organisation conducted UFO research with support from the DIA programme manager. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
 But even the supporter reading has limits. A mechanism catalogue is not a demonstration. A set of theoretical papers may show that AAWSAP was trying to interpret unusual reports through advanced physics, but it does not show that the reports were accurate, that the mechanisms were feasible, or that any recovered technology existed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F8owqkrtHe8" title="$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer">$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story</a></p><p class="youtube-embed-meta">Channel: Wisdom Land &middot; Views: 36.3K &middot; Uploaded: December 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F8owqkrtHe8">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +355,6 @@ AARO’s later assessment sharpened that criticism. It said AAWSAP/AATIP’s exp
 
 For Lacatski’s credibility, the sceptical reading cuts two ways. It does not erase his verified programme role. It does, however, weakens any argument that the papers alone validate his most extraordinary claims. If anything, the papers may show that AAWSAP had a permissive intellectual culture in which extraordinary hypotheses could be explored without the ordinary public markers of scientific validation.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-3-dark.svg" | relative_url }}" alt="Speculative Papers illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What They Prove, What They Suggest, and What They Leave Open
 
@@ -370,10 +364,9 @@ They **prove** that DIA-funded work under the AAWSAP/AATIP umbrella included a f
 
 They **suggest** that AAWSAP’s leadership and contractor network were interested in possible mechanisms behind UAP-like reports: exotic propulsion, spacetime manipulation, signature reduction, unusual materials, directed energy and biological effects. That is relevant to Lacatski because it shows the programme’s ambition was not limited to cataloguing sightings. It sought possible explanatory physics, however speculative.
 
-They **do not prove** that UAP are non-human craft, that a recovered vehicle existed, that the US had reverse-engineered exotic technology, or that any of the speculative mechanisms had been demonstrated. AARO’s public review directly contradicts the stronger interpretation, saying it found no empirical evidence for US government or private-sector reverse-engineering of extraterrestrial technology and that many claims were linked to [circular reporting]({{ 'circular-reports-ae5e62/' | relative_url }}) or misidentified sensitive programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
+They **do not prove** that UAP are non-human craft, that a recovered vehicle existed, that the US had reverse-engineered exotic technology, or that any of the speculative mechanisms had been demonstrated. AARO’s public review directly contradicts the stronger interpretation, saying it found no empirical evidence for US government or private-sector reverse-engineering of extraterrestrial technology and that many claims were linked to circular reporting or misidentified sensitive programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
 They **leave open** a narrower question: whether classified or unreleased AAWSAP material contains stronger case evidence than the public technical papers. Lacatski’s supporters often place weight on unavailable records, insider testimony and classification barriers. That argument cannot be dismissed purely by pointing to paper titles, but it also cannot be validated by them. Publicly, the technical papers remain evidence of funded inquiry, not evidence of extraordinary conclusions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rW02-PuPMJ8" title="Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer">Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 192.4K &middot; Uploaded: April 2026 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rW02-PuPMJ8">Open on YouTube</a></p></div></div></div>
 
@@ -386,86 +379,44 @@ The same papers also impose a credibility ceiling. Because many titles are theor
 The most balanced judgement is that the papers make AAWSAP more real but not more conclusive. They reveal a programme willing to ask highly unusual technical questions under a defence-intelligence frame. They do not answer the central UAP question. In Lacatski’s credibility profile, they are supporting context, not a smoking gun.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Do The Technical Papers Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Do The Technical Papers Prove Anything?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
-        
-        <p class="fr-book-desc">Explores speculative technologies such as cloaking and advanced propulsion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fSw6DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
-        
-        <p class="fr-book-desc">Discusses long-term technological possibilities relevant to AAWSAP themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open New Insights on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New Insights">New Insights</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski</p>
-        
-        <p class="fr-book-desc">Addresses engineering, physics, and speculative research themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=New+Insights+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Explains the program that commissioned many technical papers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=New+Insights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">New Insights</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -502,15 +453,15 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut Floating in space NASA Poster, Space Engineering Art Print"><img src="https://i.ebayimg.com/images/g/97kAAOSwnRljKzTA/s-l225.jpg" alt="Listing image for Astronaut Floating in space NASA Poster, Space Engineering Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Astronaut Floating in space NASA Poster, Space Engineering Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +469,15 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Futuristic Sci-Fi Art Print, Alien Architecture Space Poster Abstract A14"><img src="https://i.ebayimg.com/images/g/8H0AAOSwMaVn9k7P/s-l225.jpg" alt="Listing image for Retro Futuristic Sci-Fi Art Print, Alien Architecture Space Poster Abstract A14" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Futuristic Sci-Fi Art Print, Alien Architecture Space Poster Abstract A14</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +485,15 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for space technology csa images Framed Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/iqUAAeSwcIBp1~VH/s-l225.jpg" alt="Listing image for space technology csa images Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">space technology csa images Framed Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +501,15 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/NuIAAeSwrLVp2SLi/s-l225.jpg" alt="Listing image for aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">aerospace technology or space engin Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +517,7 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="speculative-papers-do-the-technical-papers-prove-anything-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-technical-papers-prove-anything-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="do-the-technical-papers-prove-anything-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,136 +733,136 @@ The most balanced judgement is that the papers make AAWSAP more real but not mor
 1. <a id="endnote-1"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American ScientistsMore Light on Black Program to Track UFOs - Federation of American Scientists...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
    Title: SOW Aerospace  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 6. <a id="endnote-6"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/aftergood.html](https://sgp.fas.org/aftergood.html)  
+   Link: <a href="https://sgp.fas.org/aftergood.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/aftergood.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 8. <a id="endnote-8"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 13. <a id="endnote-13"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: info.publicintelligence.net  
    Title: DIA Invisibility Cloaking  
-   Link: [https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf](https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-InvisibilityCloaking.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Inside the Pentagon's Secret UFO Program  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 16. <a id="endnote-16"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk](https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk)  
+   Link: <a href="https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk</a>  
 
 17. <a id="endnote-17"></a>
    Source: info.publicintelligence.net  
    Title: DIA Warp Drives  
-   Link: [https://info.publicintelligence.net/DIA-WarpDrives.pdf](https://info.publicintelligence.net/DIA-WarpDrives.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/6074b690-9ce8-46aa-adf5-46e7c5817c6b/data](https://enigmalabs.io/library/6074b690-9ce8-46aa-adf5-46e7c5817c6b/data)  
+   Link: <a href="https://enigmalabs.io/library/6074b690-9ce8-46aa-adf5-46e7c5817c6b/data" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6074b690-9ce8-46aa-adf5-46e7c5817c6b/data</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon's Secret UFO Program  
-   Link: [https://www.youtube.com/watch?v=Qu8pudJk_-A](https://www.youtube.com/watch?v=Qu8pudJk_-A)  
+   Link: <a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Government UFO Boss  
-   Link: [https://www.youtube.com/watch?v=cggMuAjFJcI](https://www.youtube.com/watch?v=cggMuAjFJcI)  
+   Link: <a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cggMuAjFJcI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Inside the DIAs Secretive UFO Investigation: WEAPONIZED: EP #38  
-   Link: [https://www.youtube.com/watch?v=ow7FqiegixQ](https://www.youtube.com/watch?v=ow7FqiegixQ)  
+   Link: <a href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ow7FqiegixQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran The Pentagon&#x27;s Secret UFO Program - And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Dr. James Lacatski  
-   Link: [https://www.youtube.com/watch?v=rW02-PuPMJ8](https://www.youtube.com/watch?v=rW02-PuPMJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=rW02-PuPMJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rW02-PuPMJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Earthquake - Dr. Lacatski&#x27;s Bombshell &amp; AARO&#x27;s Shaky Ground: WEAPONIZED: EP #39...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/](https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/)  
+   Link: <a href="https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/](https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/)  
+   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>

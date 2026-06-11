@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /human-effects/
 nav_short_title: DIA injury paper
 title: What the DIA injury paper really proves
-title_full: What the DIA injury paper really proves | Human Effects
+title_full: What the DIA injury paper really proves
 display_title_short: DIA injury paper
 display_title: DIA injury paper
 heading_title: What the DIA injury paper really proves
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Should UAP Research Include Human Effects? | Kelleher
+parent_title: Should UAP Research Include Human Effects?
 parent_permalink: /human-effects/
 parent_nav_short_title: Human Effects
 parent_heading_title: Should UAP Research Include Human Effects?
@@ -247,7 +247,7 @@ next_link:
   permalink: /medical-records/
   short_title: Medical records
   heading_title: How should UAP injury claims be checked?
-date: '2026-06-09 03:06:50 '
+date: '2026-06-11 21:07:47 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper
 
 ## Introduction
 
-The Defence Intelligence Agency paper most often cited in debates about UFO-related injuries is not important because it proves that unidentified anomalous phenomena harmed people. It is important because it shows that a government-linked research effort considered the question serious enough to analyse in technical and medical terms. That distinction matters when assessing [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s credibility.
-
+The Defence Intelligence Agency paper most often cited in debates about UFO-related injuries is not important because it proves that unidentified anomalous phenomena harmed people. It is important because it shows that a government-linked research effort considered the question serious enough to analyse in technical and medical terms. That distinction matters when assessing Colm Kelleher’s credibility.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-1-dark.svg" | relative_url }}" alt="DIA injury paper illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The document, *Anomalous Acute and Subacute Field Effects on Human Biological Tissues*, is frequently presented online as evidence that the US government confirmed UFO injuries. It does not do that. Instead, it reviews reported cases, discusses possible mechanisms such as electromagnetic and microwave exposure, and argues that unusual medical effects could potentially provide clues about advanced aerospace technologies. The gap between reported injuries and proven UAP causation is the central issue. That gap is also where most arguments over Kelleher’s human-effects claims now sit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
@@ -267,7 +266,6 @@ The document, *Anomalous Acute and Subacute Field Effects on Human Biological Ti
 The paper emerged from the Advanced Aerospace Weapon System Applications Program (AAWSAP), the Defence Intelligence Agency-funded effort associated with Bigelow Aerospace Advanced Space Studies. It was one of a series of Defence Intelligence Reference [Documents]({{ 'documents/' | relative_url }}) commissioned to explore advanced aerospace and defence-related topics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the advanced aerospace weapon system applications program aawsap documentation</span><span class="citation-popover-snippet">The Black VaultThe Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Bio...</span></span></span>
 
 Its stated purpose was to review reported medical effects associated with exposure to what it called “anomalous advanced aerospace systems”. The paper discusses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +300,6 @@ This is the causation gap.
 
 To close that gap, investigators would ideally need several forms of evidence occurring together:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jForZhK4XeQ" title="Can Humans Perceive Non-Human Technology? | Colm Kelleher and JMG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jForZhK4XeQ" target="_blank" rel="noopener noreferrer">Can Humans Perceive Non-Human Technology? | Colm Kelleher and JMG</a></p><p class="youtube-embed-meta">Channel: JMG Clips &middot; Views: 4.3K &middot; Uploaded: February 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jForZhK4XeQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jForZhK4XeQ">Open on YouTube</a></p></div></div></div>
 
 1. A well-documented anomalous event.
@@ -335,7 +332,6 @@ The medical reality of those symptoms does not by itself identify the cause.
 
 In mainstream exposure science, investigators generally separate three questions:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Did symptoms occur?
@@ -345,7 +341,6 @@ In mainstream exposure science, investigators generally separate three questions
 </div>
 
 The DIA paper is strongest on the first two questions and weakest on the third. It explores what certain injuries might look like if advanced field effects were involved, but it does not produce publicly available evidence demonstrating that UAP were the confirmed source in the cases discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-2-dark.svg" | relative_url }}" alt="DIA injury paper illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Problems with historical UFO injury databases
@@ -363,9 +358,7 @@ The paper therefore combines two different kinds of evidence:
 
 Those are not equivalent forms of evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hFDxu0uho2M" title="Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer">Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 240.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hFDxu0uho2M">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-dark.svg" | relative_url }}" alt="DIA injury paper illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the document affects Kelleher's credibility
 
 For Colm Kelleher, the DIA paper cuts both ways.
@@ -380,7 +373,6 @@ The difficulty comes when stronger conclusions are drawn from the report than th
 
 The document provides evidence that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Government-funded researchers reviewed reports of alleged UAP-related injuries.
@@ -392,8 +384,8 @@ The document provides evidence that:
 
 Those are meaningful findings.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hFDxu0uho2M" title="Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer">Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 240.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hFDxu0uho2M">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-dark.svg" | relative_url }}" alt="DIA injury paper illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_dia_injury_paper_gap_7d2349-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What the paper does not support
 
 The document does not publicly demonstrate that:
@@ -414,10 +406,6 @@ The DIA paper remains notable because it pushed discussion into an unusual area:
 Yet the document's greatest limitation is also what makes it controversial. It presents a framework for investigating possible exposure effects without publicly establishing that the alleged exposures originated from genuine UAP.
 
 For readers assessing Colm Kelleher, that means the paper neither vindicates nor debunks his broader human-effects narrative. Instead, it occupies an intermediate position. It shows that the issue was treated seriously enough to receive formal analysis, while simultaneously illustrating how far the evidence still falls short of proving that unidentified anomalous phenomena caused the injuries under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SepUU1uDExA" title="Emergent Spacetime and Anomalous Observations | Dr. Kevin Knuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SepUU1uDExA" target="_blank" rel="noopener noreferrer">Emergent Spacetime and Anomalous Observations | Dr. Kevin Knuth</a></p><p class="youtube-embed-meta">Channel: Biolumination</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SepUU1uDExA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SepUU1uDExA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -536,15 +524,15 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +540,15 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +556,15 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +572,15 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +588,7 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books" data-ebay-reference="dia-injury-paper-what-the-dia-injury-paper-really-proves-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-dia-injury-paper-really-proves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-dia-injury-paper-really-proves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -816,109 +804,109 @@ For readers assessing Colm Kelleher, that means the paper neither vindicates nor
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.space.com/ufo-report-human-biological-injuries](https://www.space.com/ufo-report-human-biological-injuries)  
+   Link: <a href="https://www.space.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-report-human-biological-injuries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1500 pages of UFO-related reports declassified by US...13 Apr 2022 — One standout document from the collection is a report titled Anomal...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportWith its low level of human activity, it is a low “clutter” environment for identifying anomalie...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Bio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.livescience.com/ufo-report-human-biological-injuries](https://www.livescience.com/ufo-report-human-biological-injuries)  
+   Link: <a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceUFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2022/04/the-pentagon-ufo-program-documents.html](https://www.blueblurrylines.com/2022/04/the-pentagon-ufo-program-documents.html)  
+   Link: <a href="https://www.blueblurrylines.com/2022/04/the-pentagon-ufo-program-documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/04/the-pentagon-ufo-program-documents.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Blurry LinesThe Pentagon UFO Program: Documents Released7 Apr 2022 — Media focus has centered on the 38-page DIRD authored by Dr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufotrail.blogspot.com  
    Title: the ufo injury study that wasnt  
-   Link: [https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html](https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html)  
+   Link: <a href="https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html" target="_blank" rel="noopener noreferrer nofollow">https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Injury Study That Wasn&#x27;t12 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled Anomalous Acute and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Agency Advanced Aerospace...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Apr 24, 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon](https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon)  
+   Link: <a href="https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Consciousness and the UAP PhenomenonAnomalous Acute and Subacute Field E%ects on Human Biological Tissues. (FOIA release on UFO inj...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WNCNTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10160551063759750/](https://www.facebook.com/WNCNTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10160551063759750/)  
+   Link: <a href="https://www.facebook.com/WNCNTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10160551063759750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WNCNTV/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10160551063759750/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A newly-released Pentagon report says some witnesses...UFO encounters left witnesses with radiation burns, brain problems &amp; damaged nerv...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/749718453/On-the-AAWSAP-AATIP-Confusion](https://www.scribd.com/document/749718453/On-the-AAWSAP-AATIP-Confusion)  
+   Link: <a href="https://www.scribd.com/document/749718453/On-the-AAWSAP-AATIP-Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/749718453/On-the-AAWSAP-AATIP-Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP vs AATIP: Unraveling Confusion | PDFSubacute Field Effects on Human Biological Tissues,” [Link] Electronic... exotic “explanation...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thesolfoundation.org  
-   Link: [https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf](https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf)  
+   Link: <a href="https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesolfoundation.org/wp-content/uploads/2024/07/Sol_WhitePaper_Vol1N4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Health ThreatsAnomalous Phenomena (UAP) has prompted renewed interest in their national secu- rity implications While much atte...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc](https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc)  
+   Link: <a href="https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Admits to the Possible Reality of ExtraterrestrialsAnomalous acute and subacute field effects on human biological tissues. Retri...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues](https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues)  
+   Link: <a href="https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues</a>  
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1](https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1)  
+   Link: <a href="https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1</a>  
 
 21. <a id="endnote-21"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled Ano...</p></details>

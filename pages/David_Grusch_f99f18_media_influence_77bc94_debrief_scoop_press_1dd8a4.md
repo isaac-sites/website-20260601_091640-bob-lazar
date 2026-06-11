@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /influence/
 nav_short_title: First Scoop
 title: Why Grusch's first scoop split the press
-title_full: Why Grusch's first scoop split the press | Influence
+title_full: Why Grusch's first scoop split the press
 display_title_short: First Scoop
 display_title: First Scoop
 heading_title: Why Grusch's first scoop split the press
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Grusch Shifted UAP Debate | Grusch
+parent_title: How Grusch Shifted UAP Debate
 parent_permalink: /influence/
 parent_nav_short_title: Influence
 parent_heading_title: How Grusch Shifted UAP Debate
@@ -247,7 +247,7 @@ next_link:
   permalink: /house-hearing/
   short_title: House Hearing
   heading_title: Did the hearing change anything real?
-date: '2026-06-09 02:52:47 '
+date: '2026-06-11 21:01:34 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_p
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s first major public appearance did not begin with a congressional [hearing]({{ 'hearing/' | relative_url }}) or a Pentagon announcement. It began with a June 2023 article in *The Debrief*, an independent outlet that published claims that the US government possessed recovered craft of “non-human origin” and had withheld information from Congress. The story spread rapidly because it combined extraordinary allegations with an unusual source: a former intelligence official who said he had filed complaints through official channels. Yet the publication path itself became part of the credibility debate. Major newspapers reportedly reviewed versions of the story but did not publish it at that stage, raising questions about what journalists considered verified, what remained hearsay, and why some outlets saw a major story while others saw an evidential gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...In a Debrief exclusive, Ralph Blumenthal and Leslie Kean report that a former official says the U.S. has r...</span></span></span>
-
+David Grusch’s first major public appearance did not begin with a congressional [hearing]({{ 'hearing/' | relative_url }}) or a Pentagon announcement. It began with a June 2023 article in *The Debrief*, an independent outlet that published claims that the US government possessed recovered craft of “non-human origin” and had withheld information from Congress. The story spread rapidly because it combined extraordinary allegations with an unusual source: a former intelligence official who said he had filed complaints through official channels. Yet the publication path itself became part of the credibility debate. Major newspapers reportedly reviewed versions of the story but did not publish it at that stage, raising questions about what journalists considered verified, what remained [hearsay]({{ 'hearsay/' | relative_url }}), and why some outlets saw a major story while others saw an evidential gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...In a Debrief exclusive, Ralph Blumenthal and Leslie Kean report that a former official says the U.S. has r...</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1-dark.svg" | relative_url }}" alt="First Scoop illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result was a revealing moment in modern UAP coverage. The media attention was real, the political consequences were real, and the reporting triggered wider discussion about government transparency. But widespread coverage did not settle the truth of Grusch’s claims. Instead, it exposed a sharp divide between the news value of an insider allegation and the standards required to establish that the allegation was true.
@@ -282,14 +281,13 @@ One of the most revealing aspects of the episode emerged after publication, when
 
 The reasons described were largely journalistic rather than ideological.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x_9gTDXF9Vc" title="David Grusch UFO/UAP bombshells: Ross Coulthart reveals the inside story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer">David Grusch UFO/UAP bombshells: Ross Coulthart reveals the inside story</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 4.1M &middot; Uploaded: July 2023 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x_9gTDXF9Vc">Open on YouTube</a></p></div></div></div>
 
 ### The evidence was mostly second-hand
 
 The central challenge was that Grusch was not claiming to have personally recovered a craft or directly handled alien technology. His account was largely based on information he said had been provided by other officials and programme participants over several years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</span></span></span>
 
-From a newsroom perspective, that creates a verification problem. A journalist can verify that a source held a government position. A journalist can verify that complaints were filed. It is much harder to verify claims about deeply classified programmes when the alleged [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}) remains inaccessible and the key witnesses remain unnamed or unavailable to the public.
+From a newsroom perspective, that creates a verification problem. A journalist can verify that a source held a government position. A journalist can verify that complaints were filed. It is much harder to verify claims about deeply classified programmes when the alleged physical evidence remains inaccessible and the key witnesses remain unnamed or unavailable to the public.
 
 This distinction became central to sceptical responses. Critics argued that the story depended heavily on trusted intermediaries describing what other trusted intermediaries had said. As journalist Garrett Graff reportedly put it, many UFO stories begin to resemble an elaborate “game of telephone” once investigators try to trace them back to direct evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</span></span></span>
 
@@ -301,14 +299,12 @@ That distinction matters because it is often lost in later discussions. The situ
 
 Kean and Blumenthal later said they felt pressure to publish quickly because Grusch’s identity was beginning to leak and there were concerns about harassment and growing online speculation. Those circumstances reportedly encouraged a faster publication route through an outlet prepared to move immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</span></span></span>
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-2-dark.svg" | relative_url }}" alt="First Scoop illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFO reporting carries a history problem
 
 Mainstream editors were also operating within a field shaped by decades of disputed UFO claims. Extraordinary stories about recovered alien craft have appeared repeatedly since the mid-twentieth century, usually without producing publicly verifiable physical proof.
 
 That history does not automatically make new claims false. However, it raises the evidential threshold for publication. Editors know that many earlier claims involving crash retrievals, secret programmes or hidden bodies eventually proved unverifiable, exaggerated or unsupported. For that reason, an allegation involving non-human vehicles naturally faces greater scrutiny than an ordinary government whistleblower story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">whistleblower ufo alien tech spacecraft</span><span class="citation-popover-snippet">The GuardianUS urged to reveal UFO evidence after claim that it has...6 Jun 2023 — In an interview with the Debrief journalists Leslie K...</span></span></span>
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-3-dark.svg" | relative_url }}" alt="First Scoop illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What media attention did and did not prove
@@ -325,7 +321,6 @@ What became easier to verify after publication included:
 * The fact that senior lawmakers and investigators took the allegations seriously enough to seek further information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...In a Debrief exclusive, Ralph Blumenthal and Leslie Kean report that a former official says the U.S. has r...</span></span></span>
 
 What remained unverified included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +339,6 @@ Supporters argued that the story’s significance lay in the credibility of the 
 
 Sceptics argued that the story demonstrated only that officials believed or repeated certain claims, not that those claims were true. They pointed out that institutional credentials do not eliminate the possibility of error, misinformation or misunderstanding within classified environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">whistleblower ufo alien tech spacecraft</span><span class="citation-popover-snippet">The GuardianUS urged to reveal UFO evidence after claim that it has...6 Jun 2023 — In an interview with the Debrief journalists Leslie K...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e189sJymxjo" title="Bombshell UFO claim made by whistleblower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e189sJymxjo" target="_blank" rel="noopener noreferrer">Bombshell UFO claim made by whistleblower</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 630.5K &middot; Uploaded: June 2023 &middot; Length: 1 minute 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e189sJymxjo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e189sJymxjo">Open on YouTube</a></p></div></div></div>
 
 ## Why the publication story became part of the credibility debate
@@ -357,9 +351,7 @@ The result was a rare case in which the reporting process itself became a subjec
 
 That debate continues to shape how Grusch’s credibility is assessed. The *Debrief* article undeniably changed the public conversation around UAP transparency and congressional oversight. It helped move the issue from specialist UFO circles into mainstream political discussion. Yet the very reasons the story became influential are also the reasons it remains contested: it offered a credible-seeming insider account of extraordinary allegations without providing the public evidence that would decisively confirm them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...In a Debrief exclusive, Ralph Blumenthal and Leslie Kean report that a former official says the U.S. has r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tuq-x4Hj2bs" title="SPJ-NE: Leslie Kean on covering UFOs and Surviving Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tuq-x4Hj2bs" target="_blank" rel="noopener noreferrer">SPJ-NE: Leslie Kean on covering UFOs and Surviving Death</a></p><p class="youtube-embed-meta">Channel: NewEnglandSPJ &middot; Views: 4.6K &middot; Uploaded: March 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tuq-x4Hj2bs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tuq-x4Hj2bs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -373,16 +365,16 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dM0REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Phenomenon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Phenomenon">The UFO Phenomenon</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Robert Davis</p>
         
-        <p class="fr-book-desc">Kean&#x27;s work is central to understanding why some UFO reporting entered mainstream journalism.</p>
+        <p class="fr-book-desc">A comprehensive perspective of evidence, and future directions associated with the UFO phenomenon Includes review and analysis of studies...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,16 +382,16 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Explores media, sources and disclosure narratives surrounding modern UAP reporting.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,16 +399,16 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+the+President%27s+Men+by+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All the President&#x27;s Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EEA7CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All the President&#x27;s Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Literature+Richard+Michael+Rasmussen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Literature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ttPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Literature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+the+President%27s+Men+by+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All the President&#x27;s Men">All the President&#x27;s Men</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Literature+Richard+Michael+Rasmussen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Literature">The UFO Literature</a>
         </h4>
-        <p class="fr-book-author">By Carl Bernstein, Bob Woodward</p>
+        <p class="fr-book-author">By Richard Michael Rasmussen</p>
         
-        <p class="fr-book-desc">Useful comparison for understanding sourcing, verification and investigative reporting standards.</p>
+        
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+the+President%27s+Men+by+Carl+Bernstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Literature+Richard+Michael+Rasmussen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +416,16 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Finally%21%21+the+Truth+about+after+LIFE%2Cghosts%2Ctimetravel+and+UFO+Mechanism+Is+Revealed+by+ALIENS+to+LOSIM%2C+an+African+Man+Who+Had+an+Extra+Ordinary+Encounter+with+Extra+Terrestrials+Carina+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finally!! the Truth about after LIFE,ghosts,timetravel and UFO Mechanism Is Revealed by ALIENS to LOSIM, an African Man Who Had an Extra Ordinary Encounter with Extra Terrestrials on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=Finally%21%21+the+Truth+about+after+LIFE%2Cghosts%2Ctimetravel+and+UFO+Mechanism+Is+Revealed+by+ALIENS+to+LOSIM%2C+an+African+Man+Who+Had+an+Extra+Ordinary+Encounter+with+Extra+Terrestrials+Carina+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finally!! the Truth about after LIFE,ghosts,timetravel and UFO Mechanism Is Revealed by ALIENS to LOSIM, an African Man Who Had an Extra Ordinary Encounter with Extra Terrestrials">Finally!! the Truth about after LIFE,ghosts,timetravel and UF...</a>
         </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+        <p class="fr-book-author">By Carina Marcel</p>
         
-        <p class="fr-book-desc">Examines how credibility and belief form around extraordinary claims.</p>
+        <p class="fr-book-desc">First published 2017.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Finally%21%21+the+Truth+about+after+LIFE%2Cghosts%2Ctimetravel+and+UFO+Mechanism+Is+Revealed+by+ALIENS+to+LOSIM%2C+an+African+Man+Who+Had+an+Extra+Ordinary+Encounter+with+Extra+Terrestrials+Carina+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,7 +433,7 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+the+President%27s+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All the President&#x27;s Men</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Phenomenon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Phenomenon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Literature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Literature</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -478,15 +470,15 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +486,15 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +502,15 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +518,15 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +534,7 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="first-scoop-why-grusch-s-first-scoop-split-the-press-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-first-scoop-split-the-press-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-grusch-s-first-scoop-split-the-press-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -758,135 +750,135 @@ That debate continues to shape how Grusch’s credibility is assessed. The *Debr
 1. <a id="endnote-1"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...In a Debrief exclusive, Ralph Blumenthal and Leslie Kean report that a former official says the U.S. has r...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media](https://www.vanityfair.com/news/2023/06/ufo-report-media)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government possesses &quot;intact and partially intact craft of non-human origin&quot; that have been hidden from Congress. The report, which origi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: theguardian.com  
    Title: whistleblower ufo alien tech spacecraft  
-   Link: [https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)  
+   Link: <a href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS urged to reveal UFO evidence after claim that it has...6 Jun 2023 — In an interview with the Debrief journalists Leslie K...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: newsweek.com  
    Title: Did U.S  
-   Link: [https://www.newsweek.com/did-us-government-admit-finding-alien-spacecraft-1805664](https://www.newsweek.com/did-us-government-admit-finding-alien-spacecraft-1805664)  
+   Link: <a href="https://www.newsweek.com/did-us-government-admit-finding-alien-spacecraft-1805664" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/did-us-government-admit-finding-alien-spacecraft-1805664</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Admit to Possession of &#x27;Alien...9 Jun 2023 — Debrief&#x27;s report, co-authored by journalists Leslie Kean and Ralph Blumenthal, a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/07/ufo-hearing-congress](https://www.vanityfair.com/news/2023/07/ufo-hearing-congress)  
+   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
    Title: The Guardian A whistleblower claims the US has alien vehicles  
-   Link: [https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof](https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2023 — 9 Jun 2023 — Experts in UFO lore suggest the assertions should be taken with a grain of salt and demand to see evid...</p></details>
    Published: June 9, 2023  
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
    Title: ufo congressional hearing what to know  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-congressional-hearing-what-to-know](https://www.theguardian.com/us-news/2023/jul/26/ufo-congressional-hearing-what-to-know)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-congressional-hearing-what-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-congressional-hearing-what-to-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO congressional hearing: what to know and how we got...26 Jul 2023 — David Grusch, a whistleblower ex-intelligence official, is among...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vanityfair.com  
    Title: ufo report media  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOop4XMMb044nPBkFyeKHbaSFrschfGnfuLcGcPbWJsjIczjbzgiD](https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOop4XMMb044nPBkFyeKHbaSFrschfGnfuLcGcPbWJsjIczjbzgiD)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOop4XMMb044nPBkFyeKHbaSFrschfGnfuLcGcPbWJsjIczjbzgiD" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOop4XMMb044nPBkFyeKHbaSFrschfGnfuLcGcPbWJsjIczjbzgiD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;The New York Times,&#x27; &#x27;The Washington Post,&#x27; and...8 Jun 2023 — The Post had been trying to further report the story that the report...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-[retaliation](https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-[retaliation)  
+   Link: <a href="https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-[retaliation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-[retaliation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says he faced &#x27;brutal&#x27; retaliation after going...Former intelligence officer, David Grusch, faced a congressional hear...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ralphbuncheinstitute.org  
-   Link: [https://ralphbuncheinstitute.org/ufo/](https://ralphbuncheinstitute.org/ufo/)  
+   Link: <a href="https://ralphbuncheinstitute.org/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Event: The Reality of UFOs/UAPApr 1, 2026 — Kean and Blumenthal broke the story of whistleblower David Grusch in The Debrief in 2023, whi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo](https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo)  
+   Link: <a href="https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanity Fair&#x27;s Post8 Jun 2023 — On Monday, a headline-grabbing story about UFOs began to light up certain corners of the internet. In the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/2023-a-year-of-energy-breakthroughs-space-discoveries-and-whistleblower-allegations/](https://thedebrief.org/2023-a-year-of-energy-breakthroughs-space-discoveries-and-whistleblower-allegations/)  
+   Link: <a href="https://thedebrief.org/2023-a-year-of-energy-breakthroughs-space-discoveries-and-whistleblower-allegations/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/2023-a-year-of-energy-breakthroughs-space-discoveries-and-whistleblower-allegations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2023: A Year of Energy Breakthroughs, Space Discoveries...Dec 28, 2023 — In this 2023 year-end roundup edition, we&#x27;ll be looking at seve...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: relics from non human spacecraft a scientists perspective  
-   Link: [https://thedebrief.org/relics-from-non-human-spacecraft-a-scientists-perspective/](https://thedebrief.org/relics-from-non-human-spacecraft-a-scientists-perspective/)  
+   Link: <a href="https://thedebrief.org/relics-from-non-human-spacecraft-a-scientists-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/relics-from-non-human-spacecraft-a-scientists-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relics from Non-Human Spacecraft: A Scientist&#x27;s Perspective6 Jun 2023 — Today, a report by whistleblower David Grusch was published by Th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/tag/leslie-kean/](https://thedebrief.org/tag/leslie-kean/)  
+   Link: <a href="https://thedebrief.org/tag/leslie-kean/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/tag/leslie-kean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leslie Kean ArchivesA former intelligence official, David Charles Grusch, has come forward and filed a complaint with the Intelligence Co...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: stories.uq.edu.au  
-   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/](https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/-a-military-whistleblower-risks-it-all-to-reveal-new-ufo-evidence-exclusively-on/627352506338437/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hiding Alien Tech &amp; Bodies” In June 2023, former U.S. intelligence officer David Grusch made headlines with his interview...Read more...</p></details>
    Published: June 2023  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: entertainment.slashdot.org  
    Title: why major newspapers didnt publish ufo retrieval story  
-   Link: [https://entertainment.slashdot.org/story/23/07/02/1922237/why-major-newspapers-didnt-publish-ufo-retrieval-story](https://entertainment.slashdot.org/story/23/07/02/1922237/why-major-newspapers-didnt-publish-ufo-retrieval-story)  
+   Link: <a href="https://entertainment.slashdot.org/story/23/07/02/1922237/why-major-newspapers-didnt-publish-ufo-retrieval-story" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/23/07/02/1922237/why-major-newspapers-didnt-publish-ufo-retrieval-story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Newspapers Didn&#x27;t Publish &#x27;UFO Retrieval&#x27; StoryJul 2, 2023 — The Post had been trying to further report the story that the reporter...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vox.com  
    Title: What's up with those claims the US has recovered UFOs?  
-   Link: [https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal](https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vox10 Jun 2023 — According to Vanity Fair&#x27;s Charlotte Klein, Kean and Blumenthal brought the story to the Times, but the paper turned it...</p></details>
+   Link: <a href="https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2023 — According to Vanity Fair&#x27;s Charlotte Klein, Kean and Blumenthal brought the story to the Times, but the paper turned it...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyThe article delves into the ongoing intrigue surrounding U.F.O. photography and the challenges of verifying visual evidence am...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: UF O whistleblower Matthew Brown, a former U.S  
-   Link: [https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-matthew-brown-a-former-us-national-security-official-said-hes-/711830601223960/](https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-matthew-brown-a-former-us-national-security-official-said-hes-/711830601223960/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-matthew-brown-a-former-us-national-security-official-said-hes-/711830601223960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ufo-whistleblower-matthew-brown-a-former-us-national-security-official-said-hes-/711830601223960/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>national...Grusch&#x27;s highly anticipated testimony before a House Oversight subcommittee was Congress&#x27; latest foray into the world of UAPs...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/slashdot/posts/monday-us-senator-marco-rubio-said-government-workers-with-high-security-clearan/583052734017813/](https://www.facebook.com/slashdot/posts/monday-us-senator-marco-rubio-said-government-workers-with-high-security-clearan/583052734017813/)  
+   Link: <a href="https://www.facebook.com/slashdot/posts/monday-us-senator-marco-rubio-said-government-workers-with-high-security-clearan/583052734017813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/slashdot/posts/monday-us-senator-marco-rubio-said-government-workers-with-high-security-clearan/583052734017813/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the paper, but didn&#x27;t think it was ready for publication;...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: statmodeling.stat.columbia.edu  
    Title: slate runs embarrassingly bad article on ufos  
-   Link: [https://statmodeling.stat.columbia.edu/2023/07/25/slate-runs-embarrassingly-bad-article-on-ufos/](https://statmodeling.stat.columbia.edu/2023/07/25/slate-runs-embarrassingly-bad-article-on-ufos/)  
+   Link: <a href="https://statmodeling.stat.columbia.edu/2023/07/25/slate-runs-embarrassingly-bad-article-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2023/07/25/slate-runs-embarrassingly-bad-article-on-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leslie Kean and Ralph Blumenthal—published an article in the Debrief in which a former intelligence official named David Grusch claimed t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1grenxw/why_did_the_new_york_times_and_washington_post/](https://www.reddit.com/r/UFOs/comments/1grenxw/why_did_the_new_york_times_and_washington_post/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1grenxw/why_did_the_new_york_times_and_washington_post/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1grenxw/why_did_the_new_york_times_and_washington_post/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orted on the recent UAP hearing in Congress. As a media professor...</p></details>

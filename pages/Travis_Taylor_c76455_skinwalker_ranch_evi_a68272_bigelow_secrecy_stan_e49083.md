@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /skinwalker-4c0f0b/
 nav_short_title: Bigelow secrecy
 title: Taylor's own test for hidden data
-title_full: Taylor's own test for hidden data | Skinwalker
+title_full: Taylor's own test for hidden data
 display_title_short: Bigelow secrecy
 display_title: Bigelow secrecy
 heading_title: Taylor's own test for hidden data
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Skinwalker Ranch Strengthen or Weaken Taylor? | Taylor
+parent_title: Does Skinwalker Ranch Strengthen or Weaken Taylor?
 parent_permalink: /skinwalker-4c0f0b/
 parent_nav_short_title: Skinwalker
 parent_heading_title: Does Skinwalker Ranch Strengthen or Weaken Taylor?
@@ -247,7 +247,7 @@ next_link:
   permalink: /the-homestead-2-radiation-incident/
   short_title: The Homestead 2 Radiation Incident
   heading_title: Did the radiation scare prove anything?
-date: '2026-06-09 03:11:59 '
+date: '2026-06-11 21:08:54 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_s
 ## Introduction
 
 One of the most revealing comments [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) has made about [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) was not a claim about UFOs, radiation spikes or underground structures. It was a criticism of the ranch's earlier owners. Discussing the Robert Bigelow era, Taylor argued that if the underlying data and methods were never released, then the work was scientifically difficult to evaluate because other researchers could not repeat it. That point matters far beyond the Bigelow years. It creates a standard that can also be applied to Taylor's own television-era investigations.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-1-dark.svg" | relative_url }}" alt="Bigelow secrecy illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to judge Taylor's credibility, this is a useful test. It shifts the discussion away from whether unusual events happened and towards a more basic question: can outsiders examine the evidence, inspect the data and attempt independent verification? Taylor himself has repeatedly framed repeatability as a core scientific requirement. The challenge is that many of the same criticisms aimed at the secretive Bigelow period have also been directed at the later History Channel investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channel&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor...&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor di...</span></span></span>
@@ -269,7 +268,6 @@ For readers trying to judge Taylor's credibility, this is a useful test. It shif
 This has had a lasting effect on how later claims are judged. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) of the ranch often argue that vast amounts of evidence remain hidden, classified or privately held. Critics counter that extraordinary claims cannot be assessed if the underlying records are inaccessible. The result is a long-running debate built partly around missing information rather than available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</span></span></span>
 
 The issue is not merely academic. Bigelow-era investigations are frequently cited as background support for current claims. Books, documentaries and interviews often refer to years of observations by scientists, security personnel and contractors. However, many of the most dramatic stories remain difficult to evaluate because outsiders cannot inspect the complete datasets, instrument logs, video archives or chain of custody for reported incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denofgeek.com">[Den of Geek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denofgeek.com</span><span class="citation-popover-title">government funded paranormal study revealed in skinwalker documentary</span><span class="citation-popover-snippet">Den of GeekGovernment Funded Paranormal Study Revealed In...14 Sept 2018 — The recent documentary Hunt for the Skinwalker chronicles dis...</span></span></span> WIRED Even some reporting sympathetic to the ranch acknowledges this problem. Accounts of NIDS and later Bigelow-linked programmes describe extensi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">In 1995, he established the National Institute for Discovery Science (NIDS) to study paranormal phenomena, including the mysterious event...</span></span></span> ve investigations but also note that years of monitoring failed to produce publicly accepted proof of paranormal activity. Critics such as Robert Sheaffer and other sceptical commentators have repeatedly pointed to that gap between extraordinary stories and publicly available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?</span><span class="citation-popover-snippet">research into the spooky more generally. Skinwalker Ranch became Bigelow&#x27;s personal playground and NIDSCi claimed to have experienced man...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VwfaAz9kxcc" title="Skinwalker Ranch (Pt 1) NIDS, Robert Bigelow, Werewolf, UFOs, Bigfoot | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VwfaAz9kxcc" target="_blank" rel="noopener noreferrer">Skinwalker Ranch (Pt 1) NIDS, Robert Bigelow, Werewolf, UFOs, Bigfoot | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 531.5K &middot; Uploaded: July 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VwfaAz9kxcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VwfaAz9kxcc">Open on YouTube</a></p></div></div></div>
 
@@ -285,7 +283,6 @@ This also fits with how Taylor has described his own approach to UFO and paranor
 
 The key point is that Taylor's benchmark was not belief. It was transparency and reproducibility.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-2-dark.svg" | relative_url }}" alt="Bigelow secrecy illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How that standard reflects back on the show
 
@@ -295,13 +292,11 @@ The programme presents numerous measurements, experiments and anomalies. Viewers
 
 Critics argue that much of the evidence shown on television exists in a similar position to the earlier Bigelow material: intriguing but incomplete. Audiences usually see edited segments rather than full datasets. Raw telemetry, calibration records, complete video archives and negative results are rarely published in a form that allows external researchers to conduct rigorous review. As a result, outsiders are often being asked to trust the interpretation of the investigation team rather than independently verify it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
 
-This does not mean the television-era evidence is equivalent to the Bigelow-era secrecy. The modern programme has unquestionably released more footage, more experiment descriptions and more public discussion than the largely closed NIDS period. Viewers can at least see some of the investigative process. Brandon Fugal has also spoken publicly about sensor networks, cameras and data collection systems installed after he acquired the ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">skinwalker ranch ufo sightings uap robert bigelow poltergeist 1491532</span><span class="citation-popover-snippet">NewsweekSkinwalker Ranch Owner Reveals UFO Hotspot Is Wired...Mar 10, 2020 — The secret owner of Skinwalker Ranch has been revealed and...</span></span></span>
+This does not mean the television-era evidence is equivalent to the Bigelow-era secrecy. The modern programme has unquestionably released more footage, more experiment descriptions and more public discussion than the largely closed NIDS period. Viewers can at least see some of the investigative process. Brandon Fugal has also spoken publicly about sensor networks, cameras and data collection systems installed after he acquired the ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">skinwalker ranch ufo sightings uap robert bigelow poltergeist 1491532</span><span class="citation-popover-snippet">Skinwalker Ranch Owner Reveals UFO Hotspot Is Wired...Mar 10, 2020 — The secret owner of Skinwalker Ranch has been revealed and...</span></span></span>
 
 However, Taylor's own benchmark creates a higher bar than simply showing selected results on television. If unreleased Bigelow records "might as well never have happened" scientifically, [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argue that the same logic applies whenever crucial supporting material remains unavailable for independent scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channel&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor...&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor di...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A6-_UZMGXG0" title="Skinwalker Ranch Biologist Reveals What They Didn’t Air" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A6-_UZMGXG0" target="_blank" rel="noopener noreferrer">Skinwalker Ranch Biologist Reveals What They Didn’t Air</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 69.2K &middot; Uploaded: April 2026 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A6-_UZMGXG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A6-_UZMGXG0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-dark.svg" | relative_url }}" alt="Bigelow secrecy illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility tension this creates
 
 This issue produces one of the strongest credibility tensions surrounding Taylor.
@@ -312,8 +307,8 @@ Critics reach a different conclusion. They argue that Taylor identified a genuin
 
 This matters because Skinwalker Ranch has become part of the wider UAP disclosure conversation. Claims made on the ranch are often discussed alongside debates about classified programmes, hidden evidence and government secrecy. Taylor's own statement cuts through much of that rhetoric. It suggests that hidden evidence, however intriguing, carries limited scientific weight until others can inspect it.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A6-_UZMGXG0" title="Skinwalker Ranch Biologist Reveals What They Didn’t Air" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A6-_UZMGXG0" target="_blank" rel="noopener noreferrer">Skinwalker Ranch Biologist Reveals What They Didn’t Air</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 69.2K &middot; Uploaded: April 2026 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A6-_UZMGXG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A6-_UZMGXG0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-dark.svg" | relative_url }}" alt="Bigelow secrecy illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_bigelow_secrecy_stan_e49083-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Bigelow comparison ultimately shows
 
 The most significant value of Taylor's criticism is that it provides a consistent standard for evaluating competing claims.
@@ -323,10 +318,6 @@ If the Bigelow years are criticised because the underlying records remain inacce
 Those questions do not automatically disprove Skinwalker Ranch claims. Nor do they prove them. They simply move the discussion from personalities and television narratives to evidence handling.
 
 For assessing Travis Taylor's credibility, that may be the most useful takeaway. His own words establish that secret evidence is not enough. The unresolved question is how fully the investigations he later became associated with have met the standard he set for the investigators who came before him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channel&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor...&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor di...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xAzKqfmPBww" title="Dr. Travis Taylor: UFOs, Ancient Texts &amp; Simulation Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xAzKqfmPBww" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor: UFOs, Ancient Texts &amp; Simulation Theory</a></p><p class="youtube-embed-meta">Channel: William Henry</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xAzKqfmPBww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xAzKqfmPBww">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -445,15 +436,15 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery"><img src="https://i.ebayimg.com/images/g/ENYAAeSw~adp4DE3/s-l225.jpg" alt="Listing image for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,15 +452,15 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers"><img src="https://i.ebayimg.com/images/g/yj0AAeSw7cFqD11m/s-l225.jpg" alt="Listing image for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +468,31 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pick/Make/Build Your Own Horror/Gore Movie DVD Bundle/Collection FREE POST"><img src="https://i.ebayimg.com/images/g/GuYAAOSww5hoWtCU/s-l225.jpg" alt="Listing image for Pick/Make/Build Your Own Horror/Gore Movie DVD Bundle/Collection FREE POST" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Pick/Make/Build Your Own Horror/Gore Movie DVD Bundle/Collection FREE POST</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017"><img src="https://i.ebayimg.com/images/g/7-EAAeSwc8BpDjQ6/s-l225.jpg" alt="Listing image for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,7 +500,7 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="taylor-s-own-test-for-hidden-data-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="taylor-s-own-test-for-hidden-data-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,105 +716,105 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: [https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science](https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos](https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos)  
+   Link: <a href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1995, he established the National Institute for Discovery Science (NIDS) to study paranormal phenomena, including the mysterious event...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: iflscience.com  
    Title: Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>research into the spooky more generally. Skinwalker Ranch became Bigelow&#x27;s personal playground and NIDSCi claimed to have experienced man...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 7. <a id="endnote-7"></a>
    Source: newsweek.com  
    Title: skinwalker ranch ufo sightings uap robert bigelow poltergeist 1491532  
-   Link: [https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532](https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekSkinwalker Ranch Owner Reveals UFO Hotspot Is Wired...Mar 10, 2020 — The secret owner of Skinwalker Ranch has been revealed and...</p></details>
+   Link: <a href="https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/skinwalker-ranch-ufo-sightings-uap-robert-bigelow-poltergeist-1491532</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Owner Reveals UFO Hotspot Is Wired...Mar 10, 2020 — The secret owner of Skinwalker Ranch has been revealed and...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channel&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor...&#x27;High strangeness&#x27;: Brandon Fugal and Dr Travis Taylor di...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: denofgeek.com  
    Title: government funded paranormal study revealed in skinwalker documentary  
-   Link: [https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/](https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/)  
+   Link: <a href="https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Den of GeekGovernment Funded Paranormal Study Revealed In...14 Sept 2018 — The recent documentary Hunt for the Skinwalker chronicles dis...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/500312439016444/posts/801913815522970/](https://www.facebook.com/groups/500312439016444/posts/801913815522970/)  
+   Link: <a href="https://www.facebook.com/groups/500312439016444/posts/801913815522970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/801913815522970/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow connection to Skinwalker Ranch investigatedMany of the same things have happened in various episodes of the Skinwalker Ranch show...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/dk/653453128/skinwalker-ranch-flash-cards/](https://quizlet.com/dk/653453128/skinwalker-ranch-flash-cards/)  
+   Link: <a href="https://quizlet.com/dk/653453128/skinwalker-ranch-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/dk/653453128/skinwalker-ranch-flash-cards/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/](https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: in july 2019 before drilling could begin the team conducted one last radiation s  
-   Link: [https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/](https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, before drilling could begin, the team...Skinwalker Ranch. Through a subsidiary called BAASS, Bigelow&#x27;s team continued inve...</p></details>
    Published: july 2019  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: our conversation with travis taylor and jay stratton experts from the history ch  
-   Link: [https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/](https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/)  
+   Link: <a href="https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our conversation with Travis Taylor and Jay Stratton...The Shermans&#x27; nightmare ranch was Bigelow&#x27;s playground, and in 1996 the eccentric...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: when ex cia agent andy bustamante and investigative journalist paul beban return  
-   Link: [https://www.facebook.com/HISTORY/posts/when-ex-cia-agent-andy-bustamante-and-investigative-journalist-paul-beban-return/1140646390961669/](https://www.facebook.com/HISTORY/posts/when-ex-cia-agent-andy-bustamante-and-investigative-journalist-paul-beban-return/1140646390961669/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/when-ex-cia-agent-andy-bustamante-and-investigative-journalist-paul-beban-return/1140646390961669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/when-ex-cia-agent-andy-bustamante-and-investigative-journalist-paul-beban-return/1140646390961669/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Ex-CIA agent Andy Bustamante and Investigative...Skinwalker Ranch: In 1996, Bigelow purchased Skinwalker Ranch, a 480-acre property...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=A6-_UZMGXG0](https://www.youtube.com/watch?v=A6-_UZMGXG0)  
+   Link: <a href="https://www.youtube.com/watch?v=A6-_UZMGXG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A6-_UZMGXG0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Biologist Reveals What They Didn&#x27;t AirBen Woodruff, biologist and researcher at Skinwalker Ranch, joins me to discuss wh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/the-team-at-skinwalkerranch-is-encountering-baffling-phenomena-but-is-it-safe-to/10156759295336184/](https://www.facebook.com/HISTORY/posts/the-team-at-skinwalkerranch-is-encountering-baffling-phenomena-but-is-it-safe-to/10156759295336184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/the-team-at-skinwalkerranch-is-encountering-baffling-phenomena-but-is-it-safe-to/10156759295336184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/the-team-at-skinwalkerranch-is-encountering-baffling-phenomena-but-is-it-safe-to/10156759295336184/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navajo call them yee naaldlooshii—skinwalkers. Shape-shifters. Dark witches. Spirits in the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: muckrock.com  
    Title: files on skinwalker ranch federal bureau of investigation 70145  
-   Link: [https://www.muckrock.com/foi/united-states-of-america-10/files-on-skinwalker-ranch-federal-bureau-of-investigation-70145/](https://www.muckrock.com/foi/united-states-of-america-10/files-on-skinwalker-ranch-federal-bureau-of-investigation-70145/)  
+   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/files-on-skinwalker-ranch-federal-bureau-of-investigation-70145/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/files-on-skinwalker-ranch-federal-bureau-of-investigation-70145/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Files on &quot;Skinwalker Ranch&quot; (Federal Bureau of...Mar 1, 2019 — A copy of all files, communications, memorandums and reports relating to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: utah.com  
    Title: what is skinwalker ranch and whats really going on there  
-   Link: [https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/](https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/)  
+   Link: <a href="https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Skinwalker Ranch, and What&#x27;s Really Going on...17 Mar 2023 — The Shermans&#x27; nightmare ranch was Bigelow&#x27;s playground, and in 1996...</p></details>

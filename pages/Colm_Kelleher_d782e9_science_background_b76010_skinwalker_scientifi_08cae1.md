@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /background-ef59e9/
 nav_short_title: Skinwalker Limits
 title: Can Skinwalker Ranch Claims Be Scientifically Tested?
-title_full: Can Skinwalker Ranch Claims Be Scientifically Tested? | Background
+title_full: Can Skinwalker Ranch Claims Be Scientifically Tested?
 display_title_short: Skinwalker Limits
 display_title: Skinwalker Limits
 heading_title: Can Skinwalker Ranch Claims Be Scientifically Tested?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Kelleher's Science Career Help His Case? | Kelleher
+parent_title: Does Kelleher's Science Career Help His Case?
 parent_permalink: /background-ef59e9/
 parent_nav_short_title: Background
 parent_heading_title: Does Kelleher's Science Career Help His Case?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /science-record/
   short_title: Science Record
   heading_title: How Much Does Kelleher's Science Record Prove?
-date: '2026-06-09 03:09:14 '
+date: '2026-06-11 21:08:10 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_
 
 ## Introduction
 
-[Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) is one of the most important tests of [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s credibility because it sits at the intersection of scientific investigation, paranormal claims and government-linked UFO research. Supporters argue that Kelleher helped lead one of the most sustained investigations of anomalous reports ever conducted on a single property. Critics argue that decades of attention, private funding and later government interest still failed to produce publicly verifiable evidence strong enough to meet normal scientific standards.
-
+[Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) is one of the most important tests of Colm Kelleher’s credibility because it sits at the intersection of scientific investigation, paranormal claims and government-linked UFO research. Supporters argue that Kelleher helped lead one of the most sustained investigations of anomalous reports ever conducted on a single property. Critics argue that decades of attention, private funding and later government interest still failed to produce publicly verifiable evidence strong enough to meet normal scientific standards.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-1-dark.svg" | relative_url }}" alt="Skinwalker Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central issue is not whether unusual stories were reported. Large numbers of reports exist. The harder question is whether those reports were documented in a way that allows independent researchers to test, reproduce or verify the conclusions. That is where the [debate]({{ 'debate-020cbc/' | relative_url }}) over Kelleher’s role becomes most important. [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch is often presented as a scientific investigation, but many of its strongest claims remain tied to witness testimony, unpublished case files, proprietary databases and events that cannot be independently reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
@@ -282,19 +281,15 @@ Supporters of Kelleher argue that this limitation does not automatically mean th
 
 Sceptics counter that Skinwalker Ranch remained stuck at the witness-report stage for decades. The more extraordinary the claims became, the more obvious the absence of independently verifiable data appeared. After years of monitoring, no publicly released dataset emerged that convinced mainstream scientific institutions that something genuinely unknown had been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">review of hunt for the skinwalker a new documentary about skinwalker ranch</span><span class="citation-popover-snippet">JASON COLAVITOReview of &quot;Hunt for the Skinwalker,&quot; a New Documentary...11 Sept 2018 — Grand claims have been made for the supernatural p...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WaXNjyxKYkg" title="Burden of Proof | Criminal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer">Burden of Proof | Criminal Evidence</a></p><p class="youtube-embed-meta">Channel: The Law Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WaXNjyxKYkg">Open on YouTube</a></p></div></div></div>
-
 ## Biological Claims and the Problem of Missing Controls
 
 One reason Kelleher's scientific [background]({{ 'background-ef59e9/' | relative_url }}) receives attention is that some Skinwalker investigations extended beyond lights in the sky and into biological or physiological claims.
 
-Accounts associated with NIDS, later BAASS investigations and subsequent books discussed unusual animal injuries, alleged health effects, psychological impacts and, eventually, the so-called "[hitchhiker effect]({{ 'hitchhikers/' | relative_url }})" — the claim that anomalous experiences could follow investigators or witnesses away from the ranch. Kelleher later became one of the most visible advocates for taking such reports seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect</span><span class="citation-popover-snippet">RedditThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...September 27, 2023 — It goes to tell of the scientific study done on an...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
+Accounts associated with NIDS, later BAASS investigations and subsequent books discussed unusual animal injuries, alleged health effects, psychological impacts and, eventually, the so-called "hitchhiker effect" — the claim that anomalous experiences could follow investigators or witnesses away from the ranch. Kelleher later became one of the most visible advocates for taking such reports seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect</span><span class="citation-popover-snippet">The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...September 27, 2023 — It goes to tell of the scientific study done on an...</span><span class="citation-popover-meta">Published: September 27, 2023</span></span></span>
 
 From a scientific perspective, these claims face particularly difficult evidential hurdles.
 
 To demonstrate a genuine biological or environmental effect, investigators normally need:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -306,12 +301,11 @@ To demonstrate a genuine biological or environmental effect, investigators norma
 
 </div>
 
-Public descriptions of Skinwalker-related biological claims rarely provide that level of documentation. Reports often involve small numbers of people, unusual personal experiences, retrospective accounts or events recorded after the fact. Even when investigators believed witnesses were reporting genuine experiences, the absence of strong controls makes it difficult to distinguish between environmental causes, psychological factors, coincidence, reporting bias or genuinely unexplained effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">It would give the show a lot of credibility, unless they</span><span class="citation-popover-snippet">RedditWhy isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+Public descriptions of Skinwalker-related biological claims rarely provide that level of documentation. Reports often involve small numbers of people, unusual personal experiences, retrospective accounts or events recorded after the fact. Even when investigators believed witnesses were reporting genuine experiences, the absence of strong controls makes it difficult to distinguish between environmental causes, psychological factors, coincidence, reporting bias or genuinely unexplained effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">It would give the show a lot of credibility, unless they</span><span class="citation-popover-snippet">Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
 This does not mean the witnesses were fabricating events. It means the available evidence generally cannot isolate one explanation with confidence.
 
 That distinction matters because Kelleher's critics often focus less on whether unusual experiences occurred and more on whether the evidence justifies the interpretations attached to them.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-2-dark.svg" | relative_url }}" alt="Skinwalker Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Measurement Problem at Skinwalker Ranch
@@ -340,9 +334,7 @@ This issue appears repeatedly in debates about Kelleher's credibility. Supporter
 
 In practical terms, the scientific community generally judges claims through transparent methods, accessible data and reproducible analysis rather than through assurances about unseen files.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KNcI5u2qScY" title="Science Literacy: Bridging the Chasm Between Science &amp; Public Policy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KNcI5u2qScY" target="_blank" rel="noopener noreferrer">Science Literacy: Bridging the Chasm Between Science &amp; Public Policy</a></p><p class="youtube-embed-meta">Channel: Library of Congress</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KNcI5u2qScY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KNcI5u2qScY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Supporters and Critics Actually Disagree About
 
 The strongest disagreement is not usually over whether strange reports were collected. Both sides broadly accept that NIDS gathered many accounts from witnesses and investigators.
@@ -350,7 +342,6 @@ The strongest disagreement is not usually over whether strange reports were coll
 The dispute centres on interpretation.
 
 Supporters argue:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,8 +361,6 @@ Critics argue:
 
 Importantly, these positions are not completely incompatible. Someone can accept that Kelleher conducted real investigations while also concluding that the resulting evidence remains insufficient to establish paranormal or non-human explanations.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_skinwalker_scientifi_08cae1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Skinwalker Ranch Ultimately Says About Kelleher's Credibility
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span> neither fully validates nor fully discredits Colm Kelleher.
@@ -381,10 +370,6 @@ The case strengthens his credibility in one narrow sense: he was involved in a s
 At the same time, the ranch highlights the limits of credential-based trust. Kelleher's scientific training and investigative role do not eliminate the normal requirements of evidence. The strongest claims associated with Skinwalker Ranch remain difficult to test because they depend heavily on witness accounts, sporadic events, inaccessible files and measurements that have not been broadly subjected to independent scrutiny.
 
 For readers trying to judge Kelleher's reliability, that distinction is crucial. Skinwalker Ranch demonstrates that serious investigators can collect large numbers of unusual reports without necessarily producing evidence that settles the underlying mystery. The central scientific question is therefore not whether investigations occurred, but whether the evidence generated by those investigations can be independently verified. Decades after the first NIDS studies, that remains the unresolved point on which Kelleher's supporters and critics continue to diverge.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3StJhmzl7HQ" title="College Hour- ARC Colloquium: Science and Pseudoscience- Exploring the Difference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3StJhmzl7HQ" target="_blank" rel="noopener noreferrer">College Hour- ARC Colloquium: Science and Pseudoscience- Exploring the Difference</a></p><p class="youtube-embed-meta">Channel: American River College...</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3StJhmzl7HQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3StJhmzl7HQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -503,15 +488,15 @@ For readers trying to judge Kelleher's reliability, that distinction is crucial.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="https://i.ebayimg.com/images/g/fc0AAeSwjIZpF1Ts/s-l225.jpg" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="https://i.ebayimg.com/images/g/aUoAAOSwxSZlI-Yy/s-l225.jpg" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal equipment</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +504,15 @@ For readers trying to judge Kelleher's reliability, that distinction is crucial.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Polter Phone Ghost Hunting Equipment Paranormal Motion PIR Vintage Telephone"><img src="https://i.ebayimg.com/images/g/rNUAAeSwPC5qI~BO/s-l225.jpg" alt="Listing image for Polter Phone Ghost Hunting Equipment Paranormal Motion PIR Vintage Telephone" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="https://i.ebayimg.com/images/g/TN4AAMXQoiJRgi3n/s-l225.jpg" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer">Polter Phone Ghost Hunting Equipment Paranormal Motion PIR Vintage Telephone</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal equipment</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +520,31 @@ For readers trying to judge Kelleher's reliability, that distinction is crucial.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4Pcs Paranormal Equipment Kit with 2 LED &amp; 1 Spirit Box Speaker - Model 7152"><img src="https://i.ebayimg.com/images/g/Q1kAAeSwm7lp-H5Q/s-l225.jpg" alt="Listing image for 4Pcs Paranormal Equipment Kit with 2 LED &amp; 1 Spirit Box Speaker - Model 7152" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Our Solar System Planets Earth Science Home School Learning Educational Posters"><img src="https://i.ebayimg.com/images/g/2CwAAeSwpQ9oH0dh/s-l225.jpg" alt="Listing image for Our Solar System Planets Earth Science Home School Learning Educational Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer">4Pcs Paranormal Equipment Kit with 2 LED &amp; 1 Spirit Box Speaker - Model 7152</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer">Our Solar System Planets Earth Science Home School Learning Educational Posters</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal equipment</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="https://i.ebayimg.com/images/g/9ioAAOSwmf5l8HFv/s-l225.jpg" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +552,7 @@ For readers trying to judge Kelleher's reliability, that distinction is crucial.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal equipment" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-paranormal-equipment" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-skinwalker-ranch-claims-be-scientifically-tested-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="can-skinwalker-ranch-claims-be-scientifically-tested-science-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -767,190 +768,190 @@ For readers trying to judge Kelleher's reliability, that distinction is crucial.
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: [https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science](https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: the origins of aawsap.12484  
-   Link: [https://www.metabunk.org/threads/the-origins-of-aawsap.12484/](https://www.metabunk.org/threads/the-origins-of-aawsap.12484/)  
+   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAPJun 21, 2022 —... AAWSAP BAASS team on Skinwalker Ranch was delivered to the DIA in April 2010. The purpose of the...</p></details>
    Published: April 2010  
 
 4. <a id="endnote-4"></a>
    Source: jasoncolavito.com  
    Title: review of hunt for the skinwalker a new documentary about skinwalker ranch  
-   Link: [https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch](https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch)  
+   Link: <a href="https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-hunt-for-the-skinwalker-a-new-documentary-about-skinwalker-ranch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOReview of &quot;Hunt for the Skinwalker,&quot; a New Documentary...11 Sept 2018 — Grand claims have been made for the supernatural p...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: The Pentagon's Secret UFO Program, the Hitchhiker Effect  
-   Link: [https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/](https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...September 27, 2023 — It goes to tell of the scientific study done on an...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...September 27, 2023 — It goes to tell of the scientific study done on an...</p></details>
    Published: September 27, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: It would give the show a lot of credibility, unless they  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/](https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</p></details>
    Published: July 28, 2023  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/nnl42p/so_why_didnt_bob_bigelow_share_more_nids/](https://www.reddit.com/r/skinwalkerranch/comments/nnl42p/so_why_didnt_bob_bigelow_share_more_nids/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/nnl42p/so_why_didnt_bob_bigelow_share_more_nids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/nnl42p/so_why_didnt_bob_bigelow_share_more_nids/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ople even knew where Uinta County, UT was or what the SWR is.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/](https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/)  
+   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gjoybe/is_aawsap_baass_officially_acknowledged/](https://www.reddit.com/r/UFOs/comments/1gjoybe/is_aawsap_baass_officially_acknowledged/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gjoybe/is_aawsap_baass_officially_acknowledged/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gjoybe/is_aawsap_baass_officially_acknowledged/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is (AAWSAP) / BAASS officially Acknowledged?: r/UFOsI totally understand this is Wiki and obviously isnt an official list of any sort, b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Bigelow BAAS report  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1l0stm5/bigelow_baas_report_very_in_depth_and_full_tic/](https://www.reddit.com/r/skinwalkerranch/comments/1l0stm5/bigelow_baas_report_very_in_depth_and_full_tic/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1l0stm5/bigelow_baas_report_very_in_depth_and_full_tic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1l0stm5/bigelow_baas_report_very_in_depth_and_full_tic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>very in depth and full tic tac...was funded in 2008. A.A.W.S.A.P. was 80-90% for Bigelow Aerospace at Skinwalker Ranch with a Washinton...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: serious full baass july 30th 2009 tenmonth report  
-   Link: [https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/](https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...Page 159 skinwalker ranch. s0ul_invictus. • 9mo ago. There is only a... Advanced...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1kh8hfw/opinions_on_hunt_for_the_skinwalker_by_colm/](https://www.reddit.com/r/HighStrangeness/comments/1kh8hfw/opinions_on_hunt_for_the_skinwalker_by_colm/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1kh8hfw/opinions_on_hunt_for_the_skinwalker_by_colm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1kh8hfw/opinions_on_hunt_for_the_skinwalker_by_colm/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/](https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>famous Skinwalker Ranch, a paranormal hotspot bordering the Ute Indian...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: new interview skinwalker ranch lead investigator  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/](https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Interview: Skinwalker Ranch Lead Investigator (1996...James Lacatski&#x27;s visit and paranormal experience on Skinwalker Ranch are by fa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/tsimoy/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/](https://www.reddit.com/r/HighStrangeness/comments/tsimoy/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/tsimoy/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/tsimoy/george_knapp_%CE%BB_colm_kelleher_on_skinwalker_ranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is primarily a warning to keep people from visiting...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/wiki/index/](https://www.reddit.com/r/skinwalkerranch/wiki/index/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/wiki/index/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/wiki/index/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranch Wiki: Understanding the Mysteries15 Jul 2024 — The Hunt for the Skinwalker, by George Knapp and Colm Kelleher; and Skin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScienceSkinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?Skinwalker Ranch became Bigelow&#x27;s personal playground and NIDSCi claimed...</p></details>
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?Skinwalker Ranch became Bigelow&#x27;s personal playground and NIDSCi claimed...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained](https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained)  
+   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the story of how AAWSAP, a once-obscure Pentagon project, became entangled...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: popularmechanics.com  
    Title: skinwalker ranch paranormal  
-   Link: [https://www.popularmechanics.com/culture/tv/a62351045/skinwalker-ranch-paranormal/](https://www.popularmechanics.com/culture/tv/a62351045/skinwalker-ranch-paranormal/)  
+   Link: <a href="https://www.popularmechanics.com/culture/tv/a62351045/skinwalker-ranch-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/culture/tv/a62351045/skinwalker-ranch-paranormal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How This Remote Utah Ranch Became a Paranormal...1 Oct 2024 — Strange phenomena have lured real-estate tycoons, scientists, TV producers...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Full Story | Documentary... Knapp, George. &quot;I-Team: Skinwalker Ranch and the &#x27;hitchhiker effect... &quot;George Knapp Λ Colm Kelleher: Sk...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ecstaticintegration.org  
-   Link: [https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of](https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of)  
+   Link: <a href="https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO political religion17 Apr 2025 — Skinwalkers at the Pentagon came out in 2023 but the book was inspired by an earlier 2006 book called...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddMixed in between these discussions is reporting of the more vaporous paranormal phenomena that consti- tute...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/](https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/)  
+   Link: <a href="https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DISTURBING Truth About SkinWalker RanchANOTHER DSOCUMENTARY ON THE SHAKY GROUND SKINWALKER RANCH SITS ON. The reason the DOD dropped...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 —... Report was criticized by some scientists... AAWSAP/AATIP program and a private sector...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mountainandmain-ut.com  
-   Link: [https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah](https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah)  
+   Link: <a href="https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah" target="_blank" rel="noopener noreferrer nofollow">https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain &amp; Main MagazineSkinwalker, Utah, and the Search for Other Life — Mountain &amp; Main...Knapp and his collaborator Colm Kelleher, th...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — the DIA expressed interest in UAP research at Skinwalker Ranch. The letter...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: equip.org  
    Title: strange happenings in utah the phenomenon of skinwalker ranch  
-   Link: [https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/](https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/)  
+   Link: <a href="https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Skinwalker Ranch10 Oct 2024 — Skinwalker Ranch, a plot of 512 acres on the southern edge of Navajo Nation, has had repo...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S  
-   Link: [https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/](https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/)  
+   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO Hunter19 Jan 2024 —... paranormal research at Skinwalker Ranch in Utah. This is well documented in open sources, partic...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
    Title: the skinwalker ranch the investigation f03e78cb78f8  
-   Link: [https://medium.com/inside-the-simulation/the-skinwalker-ranch-the-investigation-f03e78cb78f8](https://medium.com/inside-the-simulation/the-skinwalker-ranch-the-investigation-f03e78cb78f8)  
+   Link: <a href="https://medium.com/inside-the-simulation/the-skinwalker-ranch-the-investigation-f03e78cb78f8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inside-the-simulation/the-skinwalker-ranch-the-investigation-f03e78cb78f8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skinwalker Ranch: The Investigation | by Tony WalkerColm Kellerher was the leader of the NIDS team at Skinwalker Ranch between 1996 a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1507330064252973/](https://www.facebook.com/groups/911734917145827/posts/1507330064252973/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1507330064252973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1507330064252973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s that most of the evidence for paranormal activity on the ranch...Read more...</p></details>

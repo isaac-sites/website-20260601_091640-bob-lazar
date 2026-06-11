@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-eric-davis/
 nav_short_title: Off World Claim
 title: What About The Off World Vehicles Claim?
-title_full: What About The Off World Vehicles Claim? | Davis
+title_full: What About The Off World Vehicles Claim?
 display_title_short: Off World Claim
 display_title: Off World Claim
 heading_title: What About The Off World Vehicles Claim?
@@ -289,7 +289,7 @@ next_link:
   permalink: /source-type/
   short_title: Source Type
   heading_title: Was Davis A Witness Or A Messenger?
-date: '2026-06-09 03:03:19 '
+date: '2026-06-11 21:06:59 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview-soc
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s “off-world vehicles” claim is one of the most striking phrases in modern UAP reporting because it sounded less like an abstract UFO belief and more like an allegation about recovered hardware. The core claim, as reported in 2020, was that Davis had briefed US defence and congressional staff about retrievals from “off-world vehicles not made on this Earth”. The problem is that the public record still does not contain the thing such a claim most needs: inspectable physical evidence, a documented chain of custody, named programme records, reproducible laboratory results, or official confirmation that any retrieved object was non-human technology. What remains is a high-impact claim from a technically credentialled, defence-adjacent figure, set against later official findings that no verified off-world technology has been found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[FOX 13 Tampa Bay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-title">FOX 13 Tampa Bay With Pentagon UFO unit in the spotlight, report mentions</span><span class="citation-popover-snippet">FOX 13 Tampa Bay With Pentagon UFO unit in the spotlight, report mentions</span></span></span> [2U.S.] Department of War
-
+Eric Davis’s “off-world vehicles” claim is one of the most striking phrases in modern UAP reporting because it sounded less like an abstract UFO belief and more like an allegation about recovered hardware. The core claim, as reported in 2020, was that Davis had briefed US defence and congressional staff about retrievals from “off-world vehicles not made on this Earth”. The problem is that the public record still does not contain the thing such a claim most needs: inspectable physical evidence, a documented chain of custody, named programme records, reproducible laboratory results, or official confirmation that any retrieved object was non-human technology. What remains is a high-impact claim from a technically credentialled, defence-adjacent figure, set against later official findings that no verified off-world technology has been found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13news.com">[FOX 13 Tampa Bay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13news.com</span><span class="citation-popover-title">FOX 13 Tampa Bay With Pentagon UFO unit in the spotlight, report mentions</span><span class="citation-popover-snippet">FOX 13 Tampa Bay With Pentagon UFO unit in the spotlight, report mentions</span></span></span> [2U.S.] Department of War
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview.webp" | relative_url }}" alt="Overview image for Off World Claim" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the claim irrelevant. It explains why Davis became famous outside specialist UFO circles. Unlike many UFO personalities, he had a documented background in speculative aerospace and defence-linked technical studies. But the gap between “a person with relevant access made a dramatic claim” and “the claim has been publicly proved” is the central credibility issue. This page focuses on that gap.
@@ -313,7 +312,6 @@ The timing mattered. A Senate Intelligence Committee report in 2020 had already 
 Davis’s phrase therefore landed in a sensitive space: Congress was asking for more transparency; the Pentagon was acknowledging a UAP task force; military pilots had already made UAP a more respectable media subject; and the public was primed to read “off-world vehicles” as a near-confirmation of recovered alien craft. That was stronger than what the public evidence could support. The Times-linked reporting itself included important cautionary language: a small group of former officials and scientists were said to be convinced of retrieved materials, but without presenting physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span></span></span>
 
 The claim also became entangled with Harry Reid, the former Senate majority leader who had supported earlier Pentagon-linked UFO funding. Early reporting around Reid was later corrected or clarified: Reid said he believed crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not state as established fact that crashes had occurred and that materials had been secretly studied for decades. That distinction is crucial because it shows how quickly cautious language about “may have occurred” can turn into public shorthand for “the government has alien craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">new york times casually drops another story about how a 1844491014</span><span class="citation-popover-snippet">new york times casually drops another story about how a 1844491014</span></span></span>
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-1-dark.svg" | relative_url }}" alt="Off World Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Davis’s statement did — and did not — establish
@@ -334,7 +332,6 @@ What it did not establish is more important. It did not identify a specific craf
 
 That is why the claim sits in a credibility middle zone. It is not baseless in the sense of being disconnected from any named person or institutional context. But it remains unproved in the public domain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I8bKWzWfMvE" title="Pentagon Has Off-World Vehicles Not Made on This Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer">Pentagon Has Off-World Vehicles Not Made on This Earth</a></p><p class="youtube-embed-meta">Channel: Lew Later &middot; Views: 514.5K &middot; Uploaded: July 2020 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I8bKWzWfMvE">Open on YouTube</a></p></div></div></div>
 
 ## Why the missing public proof is not a small detail
@@ -347,7 +344,6 @@ NASA’s 2023 UAP independent study report made a related point in scientific la
 
 That principle applies even more strongly to alleged crash retrievals. A recovered object should be easier to test than a fleeting sighting. If no public object can be examined, then the claim still depends on trust in sources, not on science. Davis’s technical background may affect how seriously the claim is triaged, but it does not remove the need for independent verification.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-2-dark.svg" | relative_url }}" alt="Off World Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later official findings narrowed the claim’s public force
 
@@ -358,7 +354,6 @@ AARO also reported that executives, scientists and chief technology officers at 
 The report further stated that alleged hidden UAP reverse-engineering programmes described by interviewees either did not exist, were misidentified sensitive national-security programmes unrelated to extraterrestrial technology, or traced to an unwarranted and discontinued proposal known as KONA BLUE. AARO said none of the interviewees had first-hand knowledge of the alleged programmes they described, which it judged likely contributed to misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
 
 For Davis’s specific credibility, this does not publicly prove he lied or that every classified briefing he says occurred was empty. AARO’s public report does not disclose every witness identity or every classified detail. But it does weaken the public evidential force of the “off-world vehicles” claim because the official office tasked with checking such claims reported no verified off-world technology, no confirmed corporate possession and no validated recovered alien sample. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pY1XHQBqIY8" title="FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer">FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 163.0K &middot; Uploaded: July 2020 &middot; Length: 5 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pY1XHQBqIY8">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +366,6 @@ They also argue that Davis’s claim fits a wider pattern of UAP whistleblower a
 This is the best pro-Davis case: he may be one node in a network of technically literate, cleared or formerly cleared people who have heard similar things through official or semi-official channels. If several such people independently gave detailed information to inspectors general, congressional staff or AARO, the claims would deserve investigation even before public proof emerged.
 
 But that argument still does not complete the proof chain. It raises the priority of investigation; it does not establish the conclusion.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-3-dark.svg" | relative_url }}" alt="Off World Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sceptics’ strongest argument
@@ -390,9 +384,7 @@ The key is not a single dramatic quotation. It is convergence: physical samples,
 
 At present, Davis’s claim remains important mainly as a marker of the modern UAP [debate]({{ 'debate/' | relative_url }})’s central tension. It shows that some defence-adjacent figures have made claims far beyond ordinary unexplained sightings. It also shows that public proof has not caught up with the language used. For a credibility assessment of Eric Davis, the fairest judgement is therefore mixed: the claim is notable because of who made it and where it was reportedly briefed, but it remains unverified because the public has not been shown the evidence that would make “off-world vehicles” more than a powerful phrase.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uS5G3OnRjPg" title="Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer">Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction</a></p><p class="youtube-embed-meta">Channel: Ben Lovegrove &middot; Views: 43.8K &middot; Uploaded: July 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uS5G3OnRjPg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -511,15 +503,15 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +519,15 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +535,15 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +551,15 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +567,7 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="off-world-claim-what-about-the-off-world-vehicles-claim-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-about-the-off-world-vehicles-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-about-the-off-world-vehicles-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -791,171 +783,171 @@ At present, Davis’s claim remains important mainly as a marker of the modern U
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2020/06/22/publications-report-accompany-s-3905-intelligence-authorization-act-fiscal-year-2021-june-17-2020/](https://www.intelligence.senate.gov/2020/06/22/publications-report-accompany-s-3905-intelligence-authorization-act-fiscal-year-2021-june-17-2020/)  
+   Link: <a href="https://www.intelligence.senate.gov/2020/06/22/publications-report-accompany-s-3905-intelligence-authorization-act-fiscal-year-2021-june-17-2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2020/06/22/publications-report-accompany-s-3905-intelligence-authorization-act-fiscal-year-2021-june-17-2020/</a>  
 
 6. <a id="endnote-6"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: vox.com  
    Title: What's up with those claims the US has recovered UFOs?  
-   Link: [https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal](https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal)  
+   Link: <a href="https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/2023/6/10/23753777/congress-ufo-hearing-recap-david-grusch-whistleblower-kean-blumenthal</a>  
 
 9. <a id="endnote-9"></a>
    Source: intelligence.senate.gov  
    Title: intelligence authorization act for fiscal year 2026 as reported on july 17 2025  
-   Link: [https://www.intelligence.senate.gov/2025/07/17/intelligence-authorization-act-for-fiscal-year-2026-as-reported-on-july-17-2025/](https://www.intelligence.senate.gov/2025/07/17/intelligence-authorization-act-for-fiscal-year-2026-as-reported-on-july-17-2025/)  
+   Link: <a href="https://www.intelligence.senate.gov/2025/07/17/intelligence-authorization-act-for-fiscal-year-2026-as-reported-on-july-17-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2025/07/17/intelligence-authorization-act-for-fiscal-year-2026-as-reported-on-july-17-2025/</a>  
 
 10. <a id="endnote-10"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2022/07/14/legislation-intelligence-authorization-act-fiscal-year-2023-reported-july-12-2022/](https://www.intelligence.senate.gov/2022/07/14/legislation-intelligence-authorization-act-fiscal-year-2023-reported-july-12-2022/)  
+   Link: <a href="https://www.intelligence.senate.gov/2022/07/14/legislation-intelligence-authorization-act-fiscal-year-2023-reported-july-12-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2022/07/14/legislation-intelligence-authorization-act-fiscal-year-2023-reported-july-12-2022/</a>  
 
 11. <a id="endnote-11"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2025/01/07/intelligence-authorization-act-for-fiscal-year-2025-division-f-of-the-national-defense-authorization-act-for-fiscal-year-2025/](https://www.intelligence.senate.gov/2025/01/07/intelligence-authorization-act-for-fiscal-year-2025-division-f-of-the-national-defense-authorization-act-for-fiscal-year-2025/)  
+   Link: <a href="https://www.intelligence.senate.gov/2025/01/07/intelligence-authorization-act-for-fiscal-year-2025-division-f-of-the-national-defense-authorization-act-for-fiscal-year-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2025/01/07/intelligence-authorization-act-for-fiscal-year-2025-division-f-of-the-national-defense-authorization-act-for-fiscal-year-2025/</a>  
 
 12. <a id="endnote-12"></a>
    Source: intelligence.senate.gov  
    Title: intelligence authorization act for fiscal year 2025 as reported on june 3 2024  
-   Link: [https://www.intelligence.senate.gov/2024/07/08/intelligence-authorization-act-for-fiscal-year-2025-as-reported-on-june-3-2024/](https://www.intelligence.senate.gov/2024/07/08/intelligence-authorization-act-for-fiscal-year-2025-as-reported-on-june-3-2024/)  
+   Link: <a href="https://www.intelligence.senate.gov/2024/07/08/intelligence-authorization-act-for-fiscal-year-2025-as-reported-on-june-3-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2024/07/08/intelligence-authorization-act-for-fiscal-year-2025-as-reported-on-june-3-2024/</a>  
 
 13. <a id="endnote-13"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2025/07/IAA-FY26-S.2342-07.17.25.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2025/07/IAA-FY26-S.2342-07.17.25.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2025/07/IAA-FY26-S.2342-07.17.25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2025/07/IAA-FY26-S.2342-07.17.25.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2021/09/02/publications-report-accompany-s-2610-intelligence-authorization-act-fiscal-year-2022-august-10-2021/](https://www.intelligence.senate.gov/2021/09/02/publications-report-accompany-s-2610-intelligence-authorization-act-fiscal-year-2022-august-10-2021/)  
+   Link: <a href="https://www.intelligence.senate.gov/2021/09/02/publications-report-accompany-s-2610-intelligence-authorization-act-fiscal-year-2022-august-10-2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2021/09/02/publications-report-accompany-s-2610-intelligence-authorization-act-fiscal-year-2022-august-10-2021/</a>  
 
 15. <a id="endnote-15"></a>
    Source: intelligence.senate.gov  
    Title: sites default files legislation bills 118s4443rs  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s4443rs.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s4443rs.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s4443rs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s4443rs.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: intelligence.senate.gov  
    Title: sites default files legislation bills 117s4503rs  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-117s4503rs.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-117s4503rs.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-117s4503rs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-117s4503rs.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: intelligence.senate.gov  
    Title: sites default files legislation bills 118hr2670enr  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118hr2670enr.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118hr2670enr.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118hr2670enr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118hr2670enr.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: intelligence.senate.gov  
    Title: sites default files legislation bills 118s2226es  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 21. <a id="endnote-21"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: newsinfo.inquirer.net  
    Title: pentagon says no evidence of secret work on alien tech  
-   Link: [https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech](https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech)  
+   Link: <a href="https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech</a>  
 
 23. <a id="endnote-23"></a>
    Source: fox13news.com  
    Title: FOX 13 Tampa Bay With Pentagon UFO unit in the spotlight, report mentions '  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
 
 24. <a id="endnote-24"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
 
 26. <a id="endnote-26"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 27. <a id="endnote-27"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pY1XHQBqIY8](https://www.youtube.com/watch?v=pY1XHQBqIY8)  
+   Link: <a href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pY1XHQBqIY8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Pentagon Has Off-World Vehicles Not Made on This Earth  
-   Link: [https://www.youtube.com/watch?v=I8bKWzWfMvE](https://www.youtube.com/watch?v=I8bKWzWfMvE)  
+   Link: <a href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I8bKWzWfMvE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Admiral Wilson Documents aka Wilson/Davis or EWD Notes  
-   Link: [https://www.youtube.com/watch?v=uS5G3OnRjPg](https://www.youtube.com/watch?v=uS5G3OnRjPg)  
+   Link: <a href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uS5G3OnRjPg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Breakdown of the Admiral Wilson Leaks...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: [https://www.youtube.com/watch?v=IJOlQ9SZlNU](https://www.youtube.com/watch?v=IJOlQ9SZlNU)  
+   Link: <a href="https://www.youtube.com/watch?v=IJOlQ9SZlNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IJOlQ9SZlNU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has Off-World Vehicles Not Made on This Earth...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/](https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/)  
+   Link: <a href="https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/](https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/)  
+   Link: <a href="https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientHistory68/posts/a-consultant-for-the-pentagon-ufo-program-is-speaking-out-about-retrievals-from-/137115689056543/</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/Cvc-qwaPr6n/?hl=en](https://www.instagram.com/reel/Cvc-qwaPr6n/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/Cvc-qwaPr6n/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cvc-qwaPr6n/?hl=en</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theprintindia/posts/david-grusch-who-made-these-allegations-under-oath-at-a-us-congressional-hearing/307642008532687/](https://www.facebook.com/theprintindia/posts/david-grusch-who-made-these-allegations-under-oath-at-a-us-congressional-hearing/307642008532687/)  
+   Link: <a href="https://www.facebook.com/theprintindia/posts/david-grusch-who-made-these-allegations-under-oath-at-a-us-congressional-hearing/307642008532687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theprintindia/posts/david-grusch-who-made-these-allegations-under-oath-at-a-us-congressional-hearing/307642008532687/</a>

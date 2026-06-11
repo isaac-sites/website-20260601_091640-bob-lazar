@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /source-trail/
 nav_short_title: Alien Leap
 title: When do observables become alien claims?
-title_full: When do observables become alien claims? | Source Trail
+title_full: When do observables become alien claims?
 display_title_short: Alien Leap
 display_title: Alien Leap
 heading_title: When do observables become alien claims?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Elizondo Know First Hand? | Elizondo
+parent_title: What Did Elizondo Know First Hand?
 parent_permalink: /source-trail/
 parent_nav_short_title: Source Trail
 parent_heading_title: What Did Elizondo Know First Hand?
@@ -247,7 +247,7 @@ next_link:
   permalink: /secure-emails/
   short_title: Secure Emails
   heading_title: Can the missing Navy emails prove anything?
-date: '2026-06-09 02:54:34 '
+date: '2026-06-11 21:02:35 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observabl
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s most controversial credibility question is not whether unusual military encounters occurred, but how far those encounters justify conclusions about non-human technology. His public case often begins with observable claims: unusual acceleration, abrupt manoeuvring, apparent lack of visible propulsion, and multiple military sensors tracking the same object. The debate begins when those observations are used to suggest an origin beyond known human engineering.
-
+Luis Elizondo’s most controversial credibility question is not whether unusual military encounters occurred, but how far those encounters justify conclusions about non-human technology. His public case often begins with observable claims: unusual acceleration, abrupt manoeuvring, apparent lack of visible propulsion, and multiple military sensors tracking the same object. The debate begins when those observations are used to suggest an origin beyond known human engineering.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-1-dark.svg" | relative_url }}" alt="Alien Leap illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because the strongest publicly documented evidence supports the existence of unresolved incidents, not a proven extraterrestrial explanation. Elizondo frequently argues that some reported performances exceed known capabilities and therefore deserve deeper investigation. Critics counter that unresolved performance is not the same thing as non-human technology, particularly when much of the underlying sensor data remains unavailable for independent review. The credibility issue is therefore less about whether unidentified objects have been reported, and more about whether the leap from “unidentified” to “non-human” is justified by the evidence currently available. Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</span></span></span>
@@ -265,7 +264,6 @@ This distinction matters because the strongest publicly documented evidence supp
 ## The difference between unusual performance and non-human origin
 
 A recurring feature of Elizondo’s public statements is the emphasis on what he and other officials describe as extraordinary flight characteristics. These often include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,7 +279,6 @@ Within his argument, these characteristics are treated as indicators that someth
 
 The critical point, however, is that an inference is not the same thing as proof. Even if an object appears to outperform known aircraft, several alternative possibilities remain open:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Sensor error or misinterpretation.
@@ -294,7 +291,6 @@ The critical point, however, is that an inference is not the same thing as proof
 </div>
 
 For that reason, military and scientific investigators generally treat “unidentified” as a descriptive category rather than a statement about origin. The Pentagon's public position has repeatedly been that some cases remain unresolved, while stopping short of concluding that they involve extraterrestrial or non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</span></span></span> Wikipedia This is where Elizondo’s credibility becomes more difficult to assess. His public language often moves beyond the narrower claim that some in <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</span></span></span> cidents are unexplained and toward the broader suggestion that known human explanations are increasingly unlikely. Whether that shift is justified depends heavily on information that remains classified or inaccessible to the public.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
 
@@ -314,14 +310,13 @@ This tension reflects a broader pattern in Elizondo's role. His strongest argume
 
 The 2015 Gimbal encounter illustrates the gap between observation and conclusion particularly well.
 
-To supporters of Elizondo's position, the incident appears remarkable because military personnel described an object that seemed to manoeuvre unusually, rotate in flight and travel alongside other unidentified objects. Some later analyses have argued that the reported behaviour could be consistent with highly anomalous flight characteristics if witness accounts and radar information are incorporated alongside the infrared footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivReconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+To supporters of Elizondo's position, the incident appears remarkable because military personnel described an object that seemed to manoeuvre unusually, rotate in flight and travel alongside other unidentified objects. Some later analyses have argued that the reported behaviour could be consistent with highly anomalous flight characteristics if witness accounts and radar information are incorporated alongside the infrared footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
-However, alternative interpretations exist. Some researchers and sceptical analysts have argued that aspects of the apparent motion may be explainable through sensor geometry, viewing angles, infrared effects or the behaviour of the aircraft's targeting system rather than extraordinary propulsion. These debates do not necessarily prove a mundane explanation, but they demonstrate that the video itself is not universally interpreted as evidence of impossible manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+However, alternative interpretations exist. Some researchers and sceptical analysts have argued that aspects of the apparent motion may be explainable through sensor geometry, viewing angles, infrared effects or the behaviour of the aircraft's targeting system rather than extraordinary propulsion. These debates do not necessarily prove a mundane explanation, but they demonstrate that the video itself is not universally interpreted as evidence of impossible manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
 The credibility issue is therefore not whether the event happened. It clearly did. The question is whether the observed behaviour requires a non-human explanation.
 
 That remains unresolved.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-2-dark.svg" | relative_url }}" alt="Alien Leap illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where inference outruns publicly checkable evidence
@@ -336,10 +331,9 @@ Claims about unusual flight characteristics are connected, at least indirectly, 
 
 In practical terms:
 
-* The existence of [Navy UAP videos]({{ 'navy-videos/' | relative_url }}) is documented.
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* The existence of Navy UAP videos is documented.
 * The existence of military concern about unidentified incidents is documented.
 * The existence of some unresolved cases is documented.
 * The existence of recovered non-human technology has not been publicly demonstrated.
@@ -349,19 +343,17 @@ In practical terms:
 
 Those latter claims may be true, false, partly true or based on information unavailable to the public. The key point is that they do not currently rest on the same evidential footing as the documented military encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Elizondo</span><span class="citation-popover-snippet">Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Advanced technologies not made by our Government – or any other govern...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4pRWXpxm8Ls" title="UFO-Video &quot;GOFAST&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4pRWXpxm8Ls" target="_blank" rel="noopener noreferrer">UFO-Video &quot;GOFAST&quot;</a></p><p class="youtube-embed-meta">Channel: DIE RHEINPFALZ &middot; Views: 111.8K &middot; Uploaded: April 2020 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4pRWXpxm8Ls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4pRWXpxm8Ls">Open on YouTube</a></p></div></div></div>
 
 ## Why official investigations stop short of Elizondo's conclusion
 
 Government bodies investigating UAP have generally adopted more cautious language than Elizondo.
 
-The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), established to investigate UAP reports, has acknowledged unresolved cases while also stating that it has found no verified evidence of extraterrestrial technology or secret reverse-engineering programmes based on the information reviewed to date. Its historical review similarly reported no empirical evidence supporting claims that the US government or contractors had successfully recovered and reverse-engineered alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
+The All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})), established to investigate UAP reports, has acknowledged unresolved cases while also stating that it has found no verified evidence of extraterrestrial technology or secret reverse-engineering programmes based on the information reviewed to date. Its historical review similarly reported no empirical evidence supporting claims that the US government or contractors had successfully recovered and reverse-engineered alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
 This does not automatically disprove Elizondo's claims. Critics of AARO argue that the office may lack access to all relevant programmes, witnesses or classified compartments. Supporters of Elizondo often point to congressional interest and continuing whistleblower allegations as reasons not to treat AARO's conclusions as definitive.
 
 Nevertheless, the contrast is significant. Elizondo often presents extraordinary performance as part of a broader case for non-human technology. Official investigations have generally accepted that some incidents remain unresolved while declining to make that further leap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Elizondo</span><span class="citation-popover-snippet">Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Advanced technologies not made by our Government – or any other govern...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.org">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.org</span><span class="citation-popover-snippet">Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oldb9d5n-JE" title="Latest UFO clips show ‘we’re not the apex predator anymore,’ Ross Coulthart says | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oldb9d5n-JE" target="_blank" rel="noopener noreferrer">Latest UFO clips show ‘we’re not the apex predator anymore,’ Ross Coulthart says | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 787.3K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oldb9d5n-JE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oldb9d5n-JE">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +366,6 @@ The more difficult question is whether the reported performance characteristics 
 Elizondo's supporters argue that repeated reports of extreme acceleration, unconventional manoeuvring and multi-sensor tracking make a purely conventional explanation increasingly difficult to sustain. They view him as someone drawing reasonable conclusions from a larger classified evidence base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Elizondo</span><span class="citation-popover-snippet">Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Advanced technologies not made by our Government – or any other govern...</span></span></span>
 
 His critics argue that the same evidence supports only a narrower conclusion: some incidents remain unexplained. From that perspective, the leap from unexplained performance to non-human origin remains speculative because the decisive evidence has not been released for independent examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</span></span></span> Metabunk That distinction sits at the heart of Elizondo's credibility debate. The public evidence supports the existence of unresolved observations. T <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</span></span></span> he claim that those observations represent non-human technology remains an inference rather than a publicly demonstrated fact.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-3-dark.svg" | relative_url }}" alt="Alien Leap illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_observables_origin_l_af3efa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -390,16 +381,16 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Explains Elizondo&#x27;s interpretation of observables and technology claims.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,16 +398,16 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Separates observation from interpretation, matching the page theme.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +415,16 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Examines unexplained observations without requiring extraterrestrial conclusions.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,16 +432,16 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Explores how extraordinary observations become larger origin narratives.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -458,7 +449,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -495,15 +486,15 @@ His critics argue that the same evidence supports only a narrower conclusion: so
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +502,15 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +518,15 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +534,15 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,7 +550,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="alien-leap-when-do-observables-become-alien-claims-luis-elizondo-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-observables-become-alien-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-observables-become-alien-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -774,113 +765,113 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 
 1. <a id="endnote-1"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos](https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos)  
+   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — Advanced technologies not made by our government or any other government are monitoring sensitive military installations ar...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2306.08773](https://arxiv.org/abs/2306.08773)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivReconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
    Published: August 31, 2023  
 
 7. <a id="endnote-7"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes [go fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;). 13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FASTSep 19, 2023 — NASA did an analysis but didn&#x27;t take into account turn rate or wind or something and got the lo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Age of Disclosure  
-   Link: [https://en.wikipedia.org/wiki/The_Age_of_Disclosure](https://en.wikipedia.org/wiki/The_Age_of_Disclosure)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of DisclosureThe Age of Disclosure is a 2025 American documentary film about UFOs directed and produced by Dan Farah, in which...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iff6fp/luis_elizondo_confirms_alien_symbols_found_on/](https://www.reddit.com/r/ufo/comments/1iff6fp/luis_elizondo_confirms_alien_symbols_found_on/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iff6fp/luis_elizondo_confirms_alien_symbols_found_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iff6fp/luis_elizondo_confirms_alien_symbols_found_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>great claim to fame is making public two already...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1iiaka2/where_is_the_full_4_minute_gimbal_ufo_fleet_video/](https://www.reddit.com/r/UFOs/comments/1iiaka2/where_is_the_full_4_minute_gimbal_ufo_fleet_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1iiaka2/where_is_the_full_4_minute_gimbal_ufo_fleet_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1iiaka2/where_is_the_full_4_minute_gimbal_ufo_fleet_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO phenomena information. NASA, AARO, all the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...r/UFOs - According to AARO&#x27;s new website, the FLIR, Gimbal and GoFast... r/ufo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/OutOfTheLoop/comments/xb8tn9/whats_up_with_ufos_the_pentagon_and_the_us_navy/](https://www.reddit.com/r/OutOfTheLoop/comments/xb8tn9/whats_up_with_ufos_the_pentagon_and_the_us_navy/)  
+   Link: <a href="https://www.reddit.com/r/OutOfTheLoop/comments/xb8tn9/whats_up_with_ufos_the_pentagon_and_the_us_navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OutOfTheLoop/comments/xb8tn9/whats_up_with_ufos_the_pentagon_and_the_us_navy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, but the wording has me concerned—they mention “release”...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aaro.net  
-   Link: [https://aaro.net/](https://aaro.net/)  
+   Link: <a href="https://aaro.net/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Appraiser Regulatory Officials| HomeAARO is the only nationally chartered organization dedicated to the regulation of real...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aaro.com  
    Title: About us  
-   Link: [https://aaro.com/en/about-us/](https://aaro.com/en/about-us/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO | Leading Provider of CPM SolutionsAARO has established itself as a premier provider of Corporate Performance Management (CPM) and F...</p></details>
+   Link: <a href="https://aaro.com/en/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/about-us/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Provider of CPM SolutionsAARO has established itself as a premier provider of Corporate Performance Management (CPM) and F...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Elizondo  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeWritten Testimony of Luis Elizondo13 Nov 2024 — Advanced technologies not made by our Government – or any other govern...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author, and Former Department of... Former NASA Associate Administrator of Space Policy and Partnerships; Member of NASA UAPRead more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, [Unresolved UAP](&amp;#123;&amp;#123; &#x27;unresolved-uap/&#x27; | relative_url &amp;#125;&amp;#125;) Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
 ### Additional References
@@ -888,57 +879,57 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 21. <a id="endnote-21"></a>
    Source: war.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: [https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/](https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release...27 Apr 2020 — The Department of Defense has authorized the release of three uncl...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/](https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarThe Department of Defense Launches the All-domain...Aug 31, 2023 — The All-domain Anomaly Resolution Office&#x27;s new websi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: people.com  
-   Link: [https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746](https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746)  
+   Link: <a href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow">https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His tenure, spent investigating unfamiliar aerial phenomena (UFOs/UAPs), convinced him of the serious potential national security threats...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/](https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-pentagon-released-what-it-says-are-never-before-seen-files-on-ufos-and-vario/1353011790024802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released what it says are &quot;never-beforeThe Pentagon formally released unclassified videos taken by Navy pilots of &quot;unidentif...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 1Mar 8, 2024 — AARO generally agrees with its conclusions, AARO found that the structure was not purely l...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cbsnews.com  
    Title: pentagon declassifies 3 ufo videos after blink 182s tom delonge leaked them  
-   Link: [https://www.cbsnews.com/losangeles/news/pentagon-declassifies-3-ufo-videos-after-blink-182s-tom-delonge-leaked-them/](https://www.cbsnews.com/losangeles/news/pentagon-declassifies-3-ufo-videos-after-blink-182s-tom-delonge-leaked-them/)  
+   Link: <a href="https://www.cbsnews.com/losangeles/news/pentagon-declassifies-3-ufo-videos-after-blink-182s-tom-delonge-leaked-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/pentagon-declassifies-3-ufo-videos-after-blink-182s-tom-delonge-leaked-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Declassifies 3 UFO Videos After Blink 182&#x27;s Tom...28 Apr 2020 — The videos -- FLIR, GOFAST and GIMBAL -- show what appear to be...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skeptics.stackexchange.com  
    Title: are these ufos on the videos released by the pentagon still unidentified  
-   Link: [https://skeptics.stackexchange.com/questions/47488/are-these-ufos-on-the-videos-released-by-the-pentagon-still-unidentified](https://skeptics.stackexchange.com/questions/47488/are-these-ufos-on-the-videos-released-by-the-pentagon-still-unidentified)  
+   Link: <a href="https://skeptics.stackexchange.com/questions/47488/are-these-ufos-on-the-videos-released-by-the-pentagon-still-unidentified" target="_blank" rel="noopener noreferrer nofollow">https://skeptics.stackexchange.com/questions/47488/are-these-ufos-on-the-videos-released-by-the-pentagon-still-unidentified</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics Stack ExchangeAre these UFOs on the videos released by the Pentagon...28 Apr 2020 — The Pentagon on Monday [27 April 2020] rele...</p></details>
    Published: April 2020  
 
 28. <a id="endnote-28"></a>
    Source: news.sky.com  
    Title: ufo hearing live us [congress](&#123;&#123; 'congress/' | relative_url &#125;&#125;) to pull back the curtain on ufos 13253737  
-   Link: [https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737](https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737)  
+   Link: <a href="https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-hearing-live-us-congress-to-pull-back-the-curtain-on-ufos-13253737</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>whistleblower has written the report that says &quot;the executive branch... UAP &quot;don&#x27;t seem to be hiding,&quot; former NASA employee and witness...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: space.com  
    Title: ufo [whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) tell congress we are not alone in the cosmos video  
-   Link: [https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video](https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblowers tell Congress &#x27;we are not alone in the...13 Nov 2024 — Today&#x27;s event featured testimony from current US military pers...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: zhihu.com  
-   Link: [https://www.zhihu.com/en/answer/1187946430](https://www.zhihu.com/en/answer/1187946430)  
+   Link: <a href="https://www.zhihu.com/en/answer/1187946430" target="_blank" rel="noopener noreferrer nofollow">https://www.zhihu.com/en/answer/1187946430</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Navy has not commented on this, but Luis Elizondo, former director of the Advanced...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /credentials/
 nav_short_title: Task Force role
 title: How Far Did Taylor's Government Role Go?
-title_full: How Far Did Taylor's Government Role Go? | Credentials
+title_full: How Far Did Taylor's Government Role Go?
 display_title_short: Task Force role
 display_title: Task Force role
 heading_title: How Far Did Taylor's Government Role Go?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Taylor's Credentials Prove His UAP Claims? | Taylor
+parent_title: Do Taylor's Credentials Prove His UAP Claims?
 parent_permalink: /credentials/
 parent_nav_short_title: Credentials
 parent_heading_title: Do Taylor's Credentials Prove His UAP Claims?
@@ -253,7 +253,7 @@ next_link:
   permalink: /verified-record/
   short_title: Verified record
   heading_title: What Taylor's Credentials Really Prove
-date: '2026-06-09 03:12:09 '
+date: '2026-06-11 21:08:58 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_
 ## Introduction
 
 [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s connection to the Pentagon’s Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF) is one of the strongest factual points in his credibility profile, but it is also one of the most misunderstood. Public reporting confirms that Taylor worked with the UAPTF and was described by multiple sources as its chief scientist. That gives him genuine proximity to a government programme examining military UAP reports. It does not automatically mean he directed intelligence operations, controlled classified investigations, or possessed unrestricted access to all government UFO information. The credibility question is therefore less about whether he had a real government role and more about how far that role actually went, what authority came with it, and whether his simultaneous television work created conflicts that complicated public trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — George Knapp, investigative journalist who first broke the story about Dr. Travis Taylor&#x27;s involveme...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1-dark.svg" | relative_url }}" alt="Task Force role illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [supporters]({{ 'supporters-58c2df/' | relative_url }}), the UAPTF connection shows that Taylor was trusted by officials working on a sensitive national-security issue. For critics, the overlap between his Pentagon work and his public role on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* raised concerns about disclosure, objectivity and the blending of entertainment with government-linked investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with...... chief scientist for the UAP Task Force, formally created by Co...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-title">travis taylor admits to being a paid government ufo researcher</span><span class="citation-popover-snippet">JASON COLAVITOTravis Taylor Admits to Being a Paid Government UFO...21 Jun 2022 — While serving in this capacity, Taylor appeared on CBS...</span></span></span>
@@ -275,9 +274,6 @@ The strongest publicly documented fact is that Taylor was not merely a commentat
 The timing matters. During much of the period when the UAPTF was active, Taylor was already a visible television personality associated with UFO-themed and paranormal programming, particularly *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*. Viewers initially did not know that he was simultaneously participating in a government UAP effort. The connection only became widely public after investigative reporting brought it into the open. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — George Knapp, investigative journalist who first broke the story about Dr. Travis Taylor&#x27;s involveme...</span></span></span> YouTube What is less clear from the public record is the exact scope of his day-to-day responsibilities. Open sources consistently describe him as a <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=v-jD-wqirjQ%29scientist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span> supporting the task force rather than as its director, programme manager or intelligence chief. The operational leadership of the UAPTF has generally been associated with intelligence and defence officials such as Jay Stratton rather than Taylor himself. Publicly available documents do not show Taylor exercising formal intelligence authority over the wider UAP enterprise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — George Knapp, investigative journalist who first broke the story about Dr. Travis Taylor&#x27;s involveme...</span></span></span>
 
 That distinction is important because public discussion sometimes exaggerates the significance of the title “chief scientist”. A chief scientist may provide technical analysis, help evaluate evidence, advise investigators and assist with reporting, while remaining outside the chain of command that controls intelligence collection, classification decisions or policy actions.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3a1EHDFJzU" title="Dr. Travis Taylor Worked for the Pentagon&#x27;s UAP Task Force While at Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3a1EHDFJzU" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor Worked for the Pentagon&#x27;s UAP Task Force While at Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Clips &middot; Views: 76.8K &middot; Uploaded: August 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3a1EHDFJzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3a1EHDFJzU">Open on YouTube</a></p></div></div></div>
 
 ## The difference between technical support and intelligence authority
 
@@ -301,8 +297,8 @@ This matters because readers sometimes infer more from the role than the availab
 
 In credibility terms, the government connection strengthens arguments that Taylor had real institutional access. It does not eliminate the need to evaluate individual claims on their own evidence.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3a1EHDFJzU" title="Dr. Travis Taylor Worked for the Pentagon&#x27;s UAP Task Force While at Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3a1EHDFJzU" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor Worked for the Pentagon&#x27;s UAP Task Force While at Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Clips &middot; Views: 76.8K &middot; Uploaded: August 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3a1EHDFJzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3a1EHDFJzU">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-dark.svg" | relative_url }}" alt="Task Force role illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the television overlap became controversial
 
 The most persistent criticism concerns timing rather than qualifications.
@@ -327,21 +323,18 @@ Because UFO and paranormal programming depends partly on audience interest, crit
 
 Importantly, public criticism often focused on perceived conflicts rather than proven wrongdoing.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDJfieT8aIg" title="Pentagon Releases UFO Files: What The Government Finally Admitted About Unidentified Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDJfieT8aIg" target="_blank" rel="noopener noreferrer">Pentagon Releases UFO Files: What The Government Finally Admitted About Unidentified Objects</a></p><p class="youtube-embed-meta">Channel: India Today Global &middot; Views: 2.4K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDJfieT8aIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDJfieT8aIg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-dark.svg" | relative_url }}" alt="Task Force role illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The counter-argument from supporters
 
 Supporters of Taylor generally argue that the conflict allegations are overstated.
 
-One defence is that technical consultants frequently work across multiple sectors. Scientists with defence backgrounds often maintain private-sector, media, academic or contractor roles while also supporting government projects. From this perspective, Taylor's participation in television does not automatically create a disqualifying conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Team reacts to Travis UAPTF reveal, Travis says he was</span><span class="citation-popover-snippet">RedditTeam reacts to Travis UAPTF reveal, Travis says he was...June 24, 2022 — New Video: Team reacts to Travis UAPTF reveal, Travis say...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+One defence is that technical consultants frequently work across multiple sectors. Scientists with defence backgrounds often maintain private-sector, media, academic or contractor roles while also supporting government projects. From this perspective, Taylor's participation in television does not automatically create a disqualifying conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Team reacts to Travis UAPTF reveal, Travis says he was</span><span class="citation-popover-snippet">Team reacts to Travis UAPTF reveal, Travis says he was...June 24, 2022 — New Video: Team reacts to Travis UAPTF reveal, Travis say...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 A second argument is that his government selection itself indicates that officials considered his expertise valuable despite his public profile. Supporters note that agencies were presumably aware of his media work before bringing him into the UAPTF. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with...... chief scientist for the UAP Task Force, formally created by Co...</span></span></span>
 
-A third argument is that the overlap may actually support claims of genuine access. To many believers, the revelation that a prominent television investigator was simultaneously working with the UAPTF made him appear more connected to real government activity than previously assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditTravis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army...</span></span></span>
+A third argument is that the overlap may actually support claims of genuine access. To many believers, the revelation that a prominent television investigator was simultaneously working with the UAPTF made him appear more connected to real government activity than previously assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Travis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army...</span></span></span>
 
 These arguments do not eliminate conflict concerns, but they explain why the same fact pattern is interpreted very differently by supporters and sceptics.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-3-dark.svg" | relative_url }}" alt="Task Force role illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the role does and does not prove about credibility
@@ -352,9 +345,7 @@ At the same time, the public record points to a narrower conclusion than some en
 
 As a credibility factor, the UAPTF connection therefore cuts both ways. It gives Taylor more documented institutional involvement than many UFO personalities possess. Yet the overlap between government work, commercial media exposure and public advocacy for anomalous cases also creates legitimate questions about boundaries, transparency and perceived conflicts of interest. Those questions do not invalidate his credentials, but they remain part of any balanced assessment of how much weight readers should place on his public claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uDJfieT8aIg" title="Pentagon Releases UFO Files: What The Government Finally Admitted About Unidentified Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uDJfieT8aIg" target="_blank" rel="noopener noreferrer">Pentagon Releases UFO Files: What The Government Finally Admitted About Unidentified Objects</a></p><p class="youtube-embed-meta">Channel: India Today Global &middot; Views: 2.4K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uDJfieT8aIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uDJfieT8aIg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -473,15 +464,15 @@ As a credibility factor, the UAPTF connection therefore cuts both ways. It gives
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +480,15 @@ As a credibility factor, the UAPTF connection therefore cuts both ways. It gives
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +496,31 @@ As a credibility factor, the UAPTF connection therefore cuts both ways. It gives
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +528,7 @@ As a credibility factor, the UAPTF connection therefore cuts both ways. It gives
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="how-far-did-taylor-s-government-role-go-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-did-taylor-s-government-role-go-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-far-did-taylor-s-government-role-go-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,194 +743,194 @@ As a credibility factor, the UAPTF connection therefore cuts both ways. It gives
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v-jD-wqirjQ](https://www.youtube.com/watch?v=v-jD-wqirjQ)  
+   Link: <a href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-jD-wqirjQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with...... chief scientist for the UAP Task Force, formally created by Co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: jasoncolavito.com  
    Title: travis taylor admits to being a paid government ufo researcher  
-   Link: [https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher](https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher)  
+   Link: <a href="https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/travis-taylor-admits-to-being-a-paid-government-ufo-researcher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOTravis Taylor Admits to Being a Paid Government UFO...21 Jun 2022 — While serving in this capacity, Taylor appeared on CBS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jasoncolavito.com  
    Title: the travis taylor saga grows stranger and stupider  
-   Link: [https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider](https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider)  
+   Link: <a href="https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOThe Travis Taylor Saga Grows Stranger and Stupider30 Jun 2022 — But it certainly sounds like someone found it a conflict of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Fo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Team reacts to Travis UAPTF reveal, Travis says he was  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/](https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTeam reacts to Travis UAPTF reveal, Travis says he was...June 24, 2022 — New Video: Team reacts to Travis UAPTF reveal, Travis say...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/vjwv4c/new_video_team_reacts_to_travis_uaptf_reveal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Team reacts to Travis UAPTF reveal, Travis says he was...June 24, 2022 — New Video: Team reacts to Travis UAPTF reveal, Travis say...</p></details>
    Published: June 24, 2022  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTravis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Does Travis have a conflict of interest??  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/](https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/191p0qh/does_travis_have_a_conflict_of_interest/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchIf you accept that *something* unknown is going on at the ranch...and the central premise of the show is to uncover and...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/](https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/](https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...Travis Taylor sits down with Mr. Greenwald from the Black Vault, discussing the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. TaylorTaylor was the chief scientist on the Unidentified Aerial Phenomena Task Force (UAPTF). He is also a Principal Researc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: The Age of Disclosure  
-   Link: [https://en.wikipedia.org/wiki/The_Age_of_Disclosure](https://en.wikipedia.org/wiki/The_Age_of_Disclosure)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of Disclosure... Task Force (UAPTF) who also appeared on the American reality TV series, The Secret of Skinwalker Ranch, claim...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>diplomas and a long work history that show he is as legit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5lTT0GYzkao](https://www.youtube.com/watch?v=5lTT0GYzkao)  
+   Link: <a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>search to find out what&#x27;s really happening at Skinwalker Ranch...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/g3a1EHDFJzU](https://www.youtube.com/shorts/g3a1EHDFJzU)  
+   Link: <a href="https://www.youtube.com/shorts/g3a1EHDFJzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/g3a1EHDFJzU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nch. 4.9K. Dislike. 99. Share. Video unavailable.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Travis Taylor and the Pentagon's UAP Task Force  
-   Link: [https://www.youtube.com/watch?v=g3a1EHDFJzU](https://www.youtube.com/watch?v=g3a1EHDFJzU)  
+   Link: <a href="https://www.youtube.com/watch?v=g3a1EHDFJzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g3a1EHDFJzU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Government UAP Disclosure...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Perspectives on Government UAP Disclosure  
-   Link: [https://www.youtube.com/watch?v=uDJfieT8aIg](https://www.youtube.com/watch?v=uDJfieT8aIg)  
+   Link: <a href="https://www.youtube.com/watch?v=uDJfieT8aIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uDJfieT8aIg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert Analysis of Recent UAP Sightings...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Expert Analysis of Recent UAP Sightings  
-   Link: [https://www.youtube.com/watch?v=aJ8fdNH7K4I](https://www.youtube.com/watch?v=aJ8fdNH7K4I)  
+   Link: <a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aJ8fdNH7K4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video analyzing UAP Task Force evaluation is particularly relevant as it directly addresses how Dr. Travis Taylor utilized his backgr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theblackvault.com  
    Title: The Black Vault Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...29 Jun 2022 — George Knapp, investigative journalist who first broke the story about Dr. Travis Taylor&#x27;s involveme...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor - Space Symposium - April 13thFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theblackvault.com  
    Title: ep 118 dr travis taylor former chief scientist on the uap task force  
-   Link: [https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/](https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#118 – Dr. Travis Taylor, Former Chief Scientist on the UAP...Today, Dr. Travis Taylor steps into the Vault to discuss his long career...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theblackvault.com  
    Title: Taylor, though it is unclear if they would touch on UAP or  
-   Link: [https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/](https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UAP Task Force: Heavily Redacted...12 May 2023 — The Black Vault has filed a FOIA request for videos of these presentations b...</p></details>
    Published: May 2023  
 
 24. <a id="endnote-24"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — Conflicts of Interest: The authors declare no conflict of interest. Editorial decisions, including...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/](https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/)  
+   Link: <a href="https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysicist backs Reform&#x27;s UFO taskforceEmails suggest that Travis Taylor was the “chief scientist” of the UAP Task Force (UAPTF), the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L33D/](https://www.globalplayer.com/podcasts/42L33D/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastBringing you up to date news, interviews and guests from around the world of UFOs, UAP &amp; connected phenomena Hosted by An...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch](https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch)  
+   Link: <a href="https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/dr-travis-taylor-the-government-scientist-hiding-in-plain-sight-on-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: The Government Scientist Hiding in Plain...Most notably, Travis Taylor was later revealed to be a chief scientist for the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: uah.edu  
-   Link: [https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch](https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch)  
+   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1511602300492416/](https://www.facebook.com/groups/911734917145827/posts/1511602300492416/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
 
 32. <a id="endnote-32"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt31497136/](https://www.imdb.com/title/tt31497136/)  
+   Link: <a href="https://www.imdb.com/title/tt31497136/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31497136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de; 2024; 1h 11m. YOUR RATING. Rate. Disclosed: UFO Files (2023).Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1649812682995758/](https://www.facebook.com/groups/1065166071460425/posts/1649812682995758/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1649812682995758/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1649812682995758/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Few places in modern paranormal research generate as much...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1524112052574774/](https://www.facebook.com/groups/911734917145827/posts/1524112052574774/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1524112052574774/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1524112052574774/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>conducted numerous tests for over 5 years. The...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: thesun.co.uk  
    Title: I was the Pentagon's top UFO scientist  
-   Link: [https://www.thesun.co.uk/news/18969813/pentagon-ufo-scientist-revealed/](https://www.thesun.co.uk/news/18969813/pentagon-ufo-scientist-revealed/)  
+   Link: <a href="https://www.thesun.co.uk/news/18969813/pentagon-ufo-scientist-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/18969813/pentagon-ufo-scientist-revealed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sun22 Jun 2022 — Hiding in plain sight, Dr Taylor has long been known as a top investigator of UFOs and the paranormal at Skinwalker...</p></details>

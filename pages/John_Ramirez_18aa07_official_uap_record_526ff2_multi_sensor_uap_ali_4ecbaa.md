@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-record/
 nav_short_title: Sensor cases
 title: Do multiple sensors make UAP alien?
-title_full: Do multiple sensors make UAP alien? | Official Record
+title_full: Do multiple sensors make UAP alien?
 display_title_short: Sensor cases
 display_title: Sensor cases
 heading_title: Do multiple sensors make UAP alien?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Official UAP Reports Help Him? | Ramirez
+parent_title: Do Official UAP Reports Help Him?
 parent_permalink: /official-record/
 parent_nav_short_title: Official Record
 parent_heading_title: Do Official UAP Reports Help Him?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /nasa-data/
   short_title: NASA data
   heading_title: Better data or a disclosure countdown?
-date: '2026-06-09 02:59:37 '
+date: '2026-06-11 21:05:17 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_senso
 
 ## Introduction
 
-Multiple-sensor UAP cases are one of the strongest reasons the modern UAP debate has remained active. When an object is reportedly tracked by radar, infrared systems, aircraft sensors and trained military observers at the same time, it becomes harder to dismiss the incident as a simple misidentification or a single faulty instrument. That point matters because [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}) and other UFO commentators often cite such cases as evidence that something genuinely unusual is occurring.
-
+Multiple-sensor UAP cases are one of the strongest reasons the modern UAP debate has remained active. When an object is reportedly tracked by radar, infrared systems, aircraft sensors and trained military observers at the same time, it becomes harder to dismiss the incident as a simple misidentification or a single faulty instrument. That point matters because John Ramirez and other UFO commentators often cite such cases as evidence that something genuinely unusual is occurring.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-1-dark.svg" | relative_url }}" alt="Sensor cases illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The harder question is whether multiple sensors justify a further leap: from “something unexplained was detected” to “this was alien technology”. Official investigations have generally stopped well short of that conclusion. The available reports acknowledge unresolved cases and unusual observations, but they also emphasise data gaps, uncertainty and competing explanations. The dispute is not mainly about whether some UAP reports are puzzling. It is about whether puzzling reports are enough to support claims of non-human intelligence.
 
 ## What the 2021 ODNI sensor cases actually showed
 
-The most frequently cited official document is the 2021 preliminary assessment from the Office of the Director of National Intelligence (ODNI). It reviewed 144 military UAP reports collected mainly between 2004 and 2021. Of those reports, 80 involved data from multiple sensors rather than a single eyewitness account. The report also noted 18 incidents, described across 21 reports, that appeared to involve unusual movement patterns or flight characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
+The most frequently cited official document is the 2021 preliminary assessment from the Office of the Director of National Intelligence (ODNI). It reviewed 144 military UAP reports collected mainly between 2004 and 2021. Of those reports, 80 involved data from multiple sensors rather than a single eyewitness account. The report also noted 18 incidents, described across 21 reports, that appeared to involve unusual movement patterns or flight characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
 
 Those details are important because they show why some military personnel and intelligence officials regarded the issue as worth investigating. The report stated that many incidents probably represented physical objects because they were recorded across several collection systems, including radar, infrared sensors, electro-optical equipment and direct visual observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena 25</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena 25</span></span></span>
 
@@ -273,7 +272,6 @@ For [supporters]({{ 'supporters-124489/' | relative_url }}) of Ramirez's positio
 However, the ODNI report did not present these cases as proof of extraordinary technology. Instead, it repeatedly stressed limitations in the underlying information. Investigators noted inconsistent reporting standards, incomplete data and a lack of enough information for confident conclusions in most cases. Out of the 144 reports examined, only one was confidently identified at the time, but the remaining unexplained cases were not automatically treated as evidence of extraterrestrial craft. DNI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secnav.navy.mil">[Secretary of the Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secnav.navy.mil</span><span class="citation-popover-snippet">Secretary of the NavyPrelimary Assessment UAP - secnav.navy.mil25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported...</span></span></span>
 
 That distinction is often lost in public discussion. "Unexplained" and "alien" are not the same category.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXerKPm2-p4" title="Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer">Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 34.2K &middot; Uploaded: February 2022 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXerKPm2-p4">Open on YouTube</a></p></div></div></div>
 
@@ -284,7 +282,6 @@ The most dramatic part of the ODNI assessment involved reports of apparent high-
 At first glance, those descriptions seem to support claims of technology beyond known human capabilities. Yet the report itself did not draw that conclusion. Instead, it stated that further analysis was needed and that additional scientific and intelligence collection would be required before determining what had actually occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secnav.navy.mil">[Secretary of the Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secnav.navy.mil</span><span class="citation-popover-snippet">Secretary of the NavyPrelimary Assessment UAP - secnav.navy.mil25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported...</span></span></span>
 
 There are several reasons official investigators remained cautious:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -299,7 +296,6 @@ There are several reasons official investigators remained cautious:
 This does not mean every unusual observation has been explained. It means that extraordinary performance claims require more than unusual-looking sensor returns.
 
 One reason scientists continue to focus on data quality is that even apparently impressive cases often lack complete measurement chains. NASA's 2023 independent UAP study argued that the central problem is not a lack of stories but a lack of consistent, calibrated and shareable data. The report concluded that there is currently no conclusive evidence for an extraterrestrial origin of UAP and that better collection methods are needed before stronger conclusions can be drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +314,6 @@ This distinction sits at the centre of the debate around Ramirez's claims.
 If radar, infrared systems and pilots all report an unusual object, that may increase confidence that the event deserves investigation. But moving from that observation to a claim about extraterrestrial visitors requires additional evidence: origin, technology, materials, communications, biological traces or other forms of independent confirmation.
 
 The sensor data alone rarely provides that chain of proof.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-2-dark.svg" | relative_url }}" alt="Sensor cases illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What NASA and AARO say about the alien interpretation
@@ -339,9 +334,7 @@ This is where the credibility question becomes sharper.
 
 A cautious reading of the [official record]({{ 'official-record/' | relative_url }}) would be:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OlCBLFnjYCY" title="Ross Coulthart, Franc Milburn and Christopher Sharp discuss UAP issues and latest breaking news." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OlCBLFnjYCY" target="_blank" rel="noopener noreferrer">Ross Coulthart, Franc Milburn and Christopher Sharp discuss UAP issues and latest breaking news.</a></p><p class="youtube-embed-meta">Channel: Close Encounters Australia &middot; Views: 15.0K &middot; Uploaded: July 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OlCBLFnjYCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OlCBLFnjYCY">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -363,7 +356,6 @@ The gap is between two different interpretations of the same unresolved data:
 The first position is supported by the published reports themselves. The second remains an inference.
 
 That does not make Ramirez's conclusions impossible. It means they have not been demonstrated by the sensor cases alone.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-3-dark.svg" | relative_url }}" alt="Sensor cases illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_multi_sensor_uap_ali_4ecbaa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real significance of the sensor evidence
@@ -491,15 +483,15 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +499,15 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +515,15 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +531,15 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +547,7 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="sensor-cases-do-multiple-sensors-make-uap-alien-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-multiple-sensors-make-uap-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="do-multiple-sensors-make-uap-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,83 +762,83 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
 
 1. <a id="endnote-1"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIPreliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preli...</p></details>
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preli...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: secnav.navy.mil  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretary of the NavyPrelimary Assessment UAP - secnav.navy.mil25 Jun 2021 — In 18 incidents, described in 21 reports, observers reported...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final r...</p></details>
    Published: September 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: theblackvault.com  
    Title: Transcript: Dr  
-   Link: [https://www.theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual-report-on-uap-november-14-2024/](https://www.theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual-report-on-uap-november-14-2024/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual-report-on-uap-november-14-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual-report-on-uap-november-14-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media...18 Nov 2024 —... AARO has discovered no verifiable evidence of extraterrestrial beings, activity...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena 25  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — (U) This preliminary report is provided by the Office of the Director of National...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...Nov 14, 2024 — The classified report has been submitted to Congress, and the unclassif...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — One of NASA&#x27;s key priorities is the search for life elsewhere in the universe: NASA has not found any credible evidence of e...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: aaro.org  
-   Link: [https://aaro.org/](https://aaro.org/)  
+   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Base San AntonioDOD examining unidentified anomalous phenomenaNov 15, 2024 — &quot;It is also important to underscore that, to date, AAR...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
    Published: June 2021  
 
@@ -855,54 +847,54 @@ For assessing John Ramirez's credibility, that distinction is crucial. The senso
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — It is also important to underscore that to date, AARO has discover...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/DoD_AARO](https://x.com/DoD_AARO)  
+   Link: <a href="https://x.com/DoD_AARO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DoD_AARO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parody of the All-Domain Anomaly Resolution OfficeThe All-Domain Anomaly Disinformation Office (AARO) today announced the opening of audi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ralphbuncheinstitute.org  
-   Link: [https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/](https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/)  
+   Link: <a href="https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
    Title: non human intelligence from uap disclosure to artificial sapiens 52eaccec444b  
-   Link: [https://medium.com/%40Aisentica/non-human-intelligence-from-uap-disclosure-to-artificial-sapiens-52eaccec444b](https://medium.com/%40Aisentica/non-human-intelligence-from-uap-disclosure-to-artificial-sapiens-52eaccec444b)  
+   Link: <a href="https://medium.com/%40Aisentica/non-human-intelligence-from-uap-disclosure-to-artificial-sapiens-52eaccec444b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Aisentica/non-human-intelligence-from-uap-disclosure-to-artificial-sapiens-52eaccec444b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Human Intelligence: From UAP Disclosure to Artificial...NASA&#x27;s 2023 UAP Independent Study Team report stated that, in the... no con...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: detailed analysis of the governments report on unidentified aerial phenomena  
-   Link: [https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/](https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/)  
+   Link: <a href="https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/detailed-analysis-of-the-governments-report-on-unidentified-aerial-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Analysis of the Government&#x27;s Report on...Jun 27, 2021 — According to the report, 18 incidents or 21 reports demonstrated “unusu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ndtv.com  
    Title: more than 700 ufo reports received but no proof of alien activity 7024724  
-   Link: [https://www.ndtv.com/world-news/more-than-700-ufo-reports-received-but-no-proof-of-alien-activity-7024724](https://www.ndtv.com/world-news/more-than-700-ufo-reports-received-but-no-proof-of-alien-activity-7024724)  
+   Link: <a href="https://www.ndtv.com/world-news/more-than-700-ufo-reports-received-but-no-proof-of-alien-activity-7024724" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/more-than-700-ufo-reports-received-but-no-proof-of-alien-activity-7024724</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO Report Finds Over 700 New Cases, But No...15 Nov 2024 — Between May 1, 2023, and June 1, the Pentagon&#x27;s All-Domain Anomaly Re...</p></details>
    Published: May 1, 2023  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aaroregion.com  
-   Link: [https://aaroregion.com/](https://aaroregion.com/)  
+   Link: <a href="https://aaroregion.com/" target="_blank" rel="noopener noreferrer nofollow">https://aaroregion.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | Austin Area Research Organization (AARO)AARO is a nonprofit, nonpartisan network of preeminent Central Texas leaders...</p></details>

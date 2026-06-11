@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /exotic-physics/
 nav_short_title: AARO caveat
 title: Why AARO's caveat matters for Puthoff
-title_full: Why AARO's caveat matters for Puthoff | Exotic Physics
+title_full: Why AARO's caveat matters for Puthoff
 display_title_short: AARO caveat
 display_title: AARO caveat
 heading_title: Why AARO's caveat matters for Puthoff
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Physics Ends and Speculation Begins | Puthoff
+parent_title: Where Physics Ends and Speculation Begins
 parent_permalink: /exotic-physics/
 parent_nav_short_title: Exotic Physics
 parent_heading_title: Where Physics Ends and Speculation Begins
@@ -247,7 +247,7 @@ next_link:
   permalink: /dia-paper-list/
   short_title: DIA paper list
   heading_title: Did Pentagon papers prove exotic propulsion?
-date: '2026-06-09 03:02:43 '
+date: '2026-06-11 21:06:39 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_r
 
 ## Introduction
 
-The All-domain Anomaly Resolution Office (AARO) introduced an important complication into the public image of [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s UAP-related work. For years, supporters pointed to government-funded studies on advanced propulsion, spacetime engineering and [exotic physics]({{ 'exotic-physics/' | relative_url }}) as evidence that Puthoff’s ideas had received serious institutional backing. AARO did not deny that those studies existed. Instead, it challenged the leap from government interest to scientific validation. Its 2024 historical review stated that the AAWSAP/AATIP programme produced exploratory technical papers that were “never thoroughly peer reviewed” and said it had not uncovered significant UAP case work beyond reviews of existing reports, witness interviews and other activities outside a conventional aerospace-research framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
-
+The All-domain Anomaly Resolution Office (AARO) introduced an important complication into the public image of [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s UAP-related work. For years, supporters pointed to government-funded studies on advanced propulsion, spacetime engineering and [exotic physics]({{ 'exotic-physics/' | relative_url }}) as evidence that Puthoff’s ideas had received serious institutional backing. AARO did not deny that those studies existed. Instead, it challenged the leap from government interest to scientific validation. Its 2024 historical review stated that the AAWSAP/AATIP programme produced exploratory technical papers that were “never thoroughly peer reviewed” and said it had not uncovered significant UAP case work beyond reviews of existing reports, witness interviews and other activities outside a conventional aerospace-research framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-1-dark.svg" | relative_url }}" alt="AARO caveat illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Puthoff’s credibility in the UAP debate is tied less to eyewitness testimony than to his role as a physicist associated with government-linked research. If the underlying papers were exploratory rather than validated, then the strongest institutional argument for treating his speculative propulsion ideas as scientifically established becomes considerably weaker.
@@ -266,12 +265,11 @@ That distinction matters because Puthoff’s credibility in the UAP debate is ti
 
 Hal Puthoff occupies an unusual position in the UAP landscape. He is neither primarily a military witness nor a whistleblower describing a single dramatic event. His influence comes largely from his reputation as a scientist who has explored unconventional aerospace concepts and who participated in networks connected to AAWSAP and related programmes.
 
-For supporters, the existence of Defence Intelligence Agency-sponsored technical studies appeared to show that advanced concepts such as vacuum engineering, spacetime manipulation and breakthrough propulsion were being examined inside government channels. Puthoff’s paper “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” was a real document produced within that broader environment, not an internet essay or self-published manifesto. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+For supporters, the existence of Defence Intelligence Agency-sponsored technical studies appeared to show that advanced concepts such as vacuum engineering, spacetime manipulation and breakthrough propulsion were being examined inside government channels. Puthoff’s paper “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” was a real document produced within that broader environment, not an internet essay or self-published manifesto. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 AARO's review did not dispute that such papers were commissioned. The significance of its intervention was different. It effectively argued that the existence of a government contract should not be confused with scientific endorsement. In other words, the government funded exploratory research, but that alone does not establish that the ideas survived rigorous scientific scrutiny or led to validated discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
 This creates a credibility distinction that often becomes blurred in public discussion. A government agency can fund speculative research because it wants to explore possibilities, identify emerging technologies or avoid overlooking unlikely threats. Funding does not automatically mean the agency concluded the underlying theories were correct.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0y386b8NGP0" title="AARO 2023 UAP report, Lue&#x27;s &#x27;UAP sensor&#x27;, Lacatski &amp; Kelleher &amp; more...! || The Breakdown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0y386b8NGP0" target="_blank" rel="noopener noreferrer">AARO 2023 UAP report, Lue&#x27;s &#x27;UAP sensor&#x27;, Lacatski &amp; Kelleher &amp; more...! || The Breakdown</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 8.8K &middot; Uploaded: October 2023 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0y386b8NGP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0y386b8NGP0">Open on YouTube</a></p></div></div></div>
 
@@ -287,7 +285,6 @@ The report further noted that AAWSAP/AATIP ended amid concerns within the Depart
 
 Critics of AARO argue that this interpretation may understate the value of exploratory research. They note that governments often investigate unconventional ideas precisely because future breakthroughs can emerge from speculative beginnings. Supporters of Puthoff also point out that the existence of formal DIA sponsorship demonstrates that at least some officials considered these topics worthy of examination. Those points are valid as far as they go. However, they do not eliminate AARO's central observation that exploration and validation are different stages of scientific credibility.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ## Why peer review matters for technical credibility
@@ -298,7 +295,6 @@ Peer review is not a guarantee that a scientific claim is correct. Weak papers s
 
 Without that process, several credibility problems arise:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Errors are harder to identify.** Mathematical or conceptual mistakes may go unchallenged.
@@ -308,10 +304,9 @@ Without that process, several credibility problems arise:
 
 </div>
 
-This matters especially in fields such as advanced propulsion and vacuum engineering. Puthoff's papers discuss ideas connected to quantum vacuum effects, spacetime metrics and theoretical mechanisms sometimes associated with warp-drive concepts. The papers themselves generally acknowledge that these ideas are highly speculative and involve major unresolved challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAdvanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</span></span></span>
+This matters especially in fields such as advanced propulsion and vacuum engineering. Puthoff's papers discuss ideas connected to quantum vacuum effects, spacetime metrics and theoretical mechanisms sometimes associated with warp-drive concepts. The papers themselves generally acknowledge that these ideas are highly speculative and involve major unresolved challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Advanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</span></span></span>
 
 A common misunderstanding in UAP debates is that because a concept can be expressed in advanced mathematics or derived from aspects of accepted physics, it therefore has a plausible engineering path. In reality, many mathematically permissible concepts remain far beyond demonstrated technological capability. Theoretical discussion alone does not establish feasibility.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-2-dark.svg" | relative_url }}" alt="AARO caveat illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The gap between speculative physics and evidence of UAP technology
@@ -319,7 +314,6 @@ A common misunderstanding in UAP debates is that because a concept can be expres
 AARO's review also matters because it addresses a broader inference that often appears in UAP discussions.
 
 The reasoning sometimes runs as follows:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -338,7 +332,6 @@ This does not prove that advanced propulsion concepts are impossible. Nor does i
 
 That distinction is especially important because some of the most dramatic interpretations of UAP reports rely on assumptions about physics that have never been experimentally demonstrated in the form often suggested by popular discussions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
 
 ## How the caveat affects Puthoff's UAP authority
@@ -347,13 +340,12 @@ The practical effect of AARO's caveat is not to eliminate Puthoff's credibility 
 
 Several points remain verifiable:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Puthoff is a trained physicist and engineer.
 * He authored or contributed to real technical papers connected to government-sponsored research efforts.
 * He has long been involved in discussions of advanced propulsion, vacuum physics and related concepts.
-* Government agencies showed enough interest in these topics to commission exploratory studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+* Government agencies showed enough interest in these topics to commission exploratory studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 </div>
 
@@ -361,10 +353,9 @@ What does not follow automatically is that the underlying ideas have been valida
 
 For supporters, AARO's review may appear overly dismissive because groundbreaking science often begins as speculation. For sceptics, the report reinforces a longstanding concern: that government involvement is frequently cited as evidence of credibility even when the underlying work remains largely theoretical and insufficiently reviewed.
 
-The most balanced interpretation lies between those positions. AARO did not expose Puthoff's papers as fabricated, nor did it show that the research was meaningless. Instead, it highlighted a credibility problem that runs through much of the UAP field: exploratory studies can acquire an aura of authority that exceeds what the available scientific validation actually supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+The most balanced interpretation lies between those positions. AARO did not expose Puthoff's papers as fabricated, nor did it show that the research was meaningless. Instead, it highlighted a credibility problem that runs through much of the UAP field: exploratory studies can acquire an aura of authority that exceeds what the available scientific validation actually supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
-For assessing Hal Puthoff specifically, that means his association with AAWSAP-era physics research remains a genuine credential, but a more limited one than many advocates imply. The public record supports the claim that he helped develop and promote speculative advanced-propulsion concepts. It does not currently support the stronger claim that those concepts were scientifically confirmed through rigorous review or demonstrated as the operating principles behind real-world UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAdvanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</span></span></span>
-
+For assessing Hal Puthoff specifically, that means his association with AAWSAP-era physics research remains a genuine credential, but a more limited one than many advocates imply. The public record supports the claim that he helped develop and promote speculative advanced-propulsion concepts. It does not currently support the stronger claim that those concepts were scientifically confirmed through rigorous review or demonstrated as the operating principles behind real-world UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Advanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-3-dark.svg" | relative_url }}" alt="AARO caveat illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_aaro_peer_review_pro_4e84f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -485,15 +476,15 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Monument to Science Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Dm4AAeSwBWpodvF3/s-l225.jpg" alt="Listing image for A Monument to Science Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer">A Monument to Science Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +492,15 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/5PcAAOSw8R1jBgmy/s-l225.jpg" alt="Listing image for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +508,15 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Frog Life Cycle Poster A4 Picture Science Wall Art Kids Learning Print Gift"><img src="https://i.ebayimg.com/images/g/uAgAAeSwX9xp-Kcj/s-l225.jpg" alt="Listing image for Frog Life Cycle Poster A4 Picture Science Wall Art Kids Learning Print Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Frog Life Cycle Poster A4 Picture Science Wall Art Kids Learning Print Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +524,15 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Club No.1 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/h2UAAeSwZqJp2SKL/s-l225.jpg" alt="Listing image for Science Club No.1 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Club No.1 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +540,7 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="aaro-caveat-why-aaro-s-caveat-matters-for-puthoff-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-s-caveat-matters-for-puthoff-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="why-aaro-s-caveat-matters-for-puthoff-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,70 +755,70 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • AARO has y...</p></details>
    Published: March 8, 2024  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Unlike AAWSAP, AATIP was never an official DoD program. However, afte...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1204.2184](https://arxiv.org/abs/1204.2184)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAdvanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</p></details>
+   Link: <a href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1204.2184</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum v...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/1204.2184](https://arxiv.org/pdf/1204.2184)  
+   Link: <a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Space propulsion, metric...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessAARO is responsible for receiving, processing, and adjudicating UAP reports, and routinely accesses...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products03/08/2024, PRESS RELEASES, Statement by Pentagon Press Secretary Maj. Gen. Pat Ryder on the Historical Recor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: info.publicintelligence.net  
    Title: DIA Advanced Space Propulsion  
-   Link: [https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf](https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: finance.yahoo.com  
-   Link: [https://finance.yahoo.com/quote/HAL/](https://finance.yahoo.com/quote/HAL/)  
+   Link: <a href="https://finance.yahoo.com/quote/HAL/" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/quote/HAL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Company (HAL)Halliburton continues to show resilience with an 8.2% increase since its last earnings report, while also launching a new de...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: publicintelligence.net  
    Title: dia advanced space propulsion  
-   Link: [https://publicintelligence.net/dia-advanced-space-propulsion/](https://publicintelligence.net/dia-advanced-space-propulsion/)  
+   Link: <a href="https://publicintelligence.net/dia-advanced-space-propulsion/" target="_blank" rel="noopener noreferrer nofollow">https://publicintelligence.net/dia-advanced-space-propulsion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(U//FOUO) DIA Study: Advanced Space Propulsion Based...6 May 2018 — This paper is а broad perspective of the physics аnd consequences of...</p></details>
    Published: May 2018  
 
@@ -835,54 +826,54 @@ For assessing Hal Puthoff specifically, that means his association with AAWSAP-e
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9rcnf/aaro_report_on_the_historical_record_of_us/](https://www.reddit.com/r/UFOs/comments/1b9rcnf/aaro_report_on_the_historical_record_of_us/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9rcnf/aaro_report_on_the_historical_record_of_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9rcnf/aaro_report_on_the_historical_record_of_us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO: REPORT ON THE HISTORICAL RECORD OF U.S....... AAWSAP/AATIP program... produced exploratory papers addressing the 12 scientific ar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOXBaltimore/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1435265005312089/](https://www.facebook.com/FOXBaltimore/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1435265005312089/)  
+   Link: <a href="https://www.facebook.com/FOXBaltimore/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1435265005312089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOXBaltimore/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1435265005312089/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of War on Friday released “never-before...AARO has found no indications that any information was illegally or inappropria...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/space-time-metric-engineering-43aaed2c081c](https://medium.com/predict/space-time-metric-engineering-43aaed2c081c)  
+   Link: <a href="https://medium.com/predict/space-time-metric-engineering-43aaed2c081c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/space-time-metric-engineering-43aaed2c081c</a>  
 
 16. <a id="endnote-16"></a>
    Source: studocu.com  
    Title: aaro historical record report on us government uap involvement vol i 2024  
-   Link: [https://www.studocu.com/pt-br/document/instituto-federal-de-educacao-ciencia-e-tecnologia-da-paraiba-ifpb-campus-campina-grande/lingua-estrangeira/aaro-historical-record-report-on-us-government-uap-involvement-vol-i-2024/137178259](https://www.studocu.com/pt-br/document/instituto-federal-de-educacao-ciencia-e-tecnologia-da-paraiba-ifpb-campus-campina-grande/lingua-estrangeira/aaro-historical-record-report-on-us-government-uap-involvement-vol-i-2024/137178259)  
+   Link: <a href="https://www.studocu.com/pt-br/document/instituto-federal-de-educacao-ciencia-e-tecnologia-da-paraiba-ifpb-campus-campina-grande/lingua-estrangeira/aaro-historical-record-report-on-us-government-uap-involvement-vol-i-2024/137178259" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/pt-br/document/instituto-federal-de-educacao-ciencia-e-tecnologia-da-paraiba-ifpb-campus-campina-grande/lingua-estrangeira/aaro-historical-record-report-on-us-government-uap-involvement-vol-i-2024/137178259</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report on U.S. Government UAP...6 Mar 2024 — This report examines the historical involvement of the U.S. governme...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bis-space.com  
-   Link: [https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/](https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/)  
+   Link: <a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>£5.00. H. Puthoff (2010), JBIS, 63, 82-89. Refcode: 2010.63.82. Keywords: Space...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering](https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering)  
+   Link: <a href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>engineered so as to provide energy/thrust for future space vehicles.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but u...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: File:AARO Historical Record Report Volume 1 2024  
-   Link: [https://commons.wikimedia.org/wiki/File%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://commons.wikimedia.org/wiki/File%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military or Department of Defense employee, taken or made as part of that person&#x27;s official duties. As a work of the U.S. federal...Read...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/24](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/24)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/247 May 2024 — After AAWSAP/AATIP was terminated, its supporters unsuc...</p></details>
-   Published: May 2024  
+   Published: May 2024

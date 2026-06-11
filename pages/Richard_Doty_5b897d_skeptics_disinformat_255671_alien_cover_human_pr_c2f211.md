@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics/
 nav_short_title: Human programmes
 title: Were alien stories useful because they were unbelievable?
-title_full: Were alien stories useful because they were unbelievable? | Sceptics
+title_full: Were alien stories useful because they were unbelievable?
 display_title_short: Human programmes
 display_title: Human programmes
 heading_title: Were alien stories useful because they were unbelievable?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Critics Call Doty a Disinformation Agent? | Doty
+parent_title: Why Do Critics Call Doty a Disinformation Agent?
 parent_permalink: /sceptics/
 parent_nav_short_title: Sceptics
 parent_heading_title: Why Do Critics Call Doty a Disinformation Agent?
@@ -253,7 +253,7 @@ next_link:
   permalink: /moore-network/
   short_title: Moore network
   heading_title: How did false claims travel through UFO researchers?
-date: '2026-06-09 02:55:55 '
+date: '2026-06-11 21:03:13 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cove
 
 ## Introduction
 
-One of the most important sceptical arguments about [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }}) is that the point of UFO disinformation may never have been to hide extraterrestrials at all. Instead, critics argue that alien stories could serve as a protective screen around highly classified military and intelligence projects. In this interpretation, the most useful [cover story]({{ 'cover-story/' | relative_url }}) is sometimes the one that sounds least believable.
-
+One of the most important sceptical arguments about Richard Doty is that the point of UFO disinformation may never have been to hide extraterrestrials at all. Instead, critics argue that alien stories could serve as a protective screen around highly classified military and intelligence projects. In this interpretation, the most useful [cover story]({{ 'cover-story/' | relative_url }}) is sometimes the one that sounds least believable.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1-dark.svg" | relative_url }}" alt="Human programmes illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This idea sits at the centre of the *[Mirage Men]({{ 'mirage-men/' | relative_url }})* interpretation of the Paul [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}). The claim is not that every UFO report was manufactured, nor that every strange sighting had a conventional explanation. Rather, sceptics argue that when civilians came close to sensitive programmes, encouraging an alien explanation could redirect attention away from real aircraft, surveillance systems, electronic warfare projects or other classified activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
@@ -276,12 +275,9 @@ The sceptical theory depends on a simple paradox: absurd claims can sometimes be
 
 A civilian who reports unusual aircraft near a military installation may attract official attention. A civilian who begins telling people that underground alien bases are operating beneath New Mexico mountains is less likely to be treated as a serious source of intelligence about defence programmes. According to critics, this creates a useful outcome for security agencies. Sensitive activity becomes buried inside a story that many outsiders dismiss automatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">mirage men a new chapter in ufology</span><span class="citation-popover-snippet">Mirage Men: A New Chapter in UFOlogy29 May 2014 — Through interviews of Doty and those with whom he has interacted, Mirage Men... disinf...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-This is why the [Bennewitz affair]({{ 'bennewitz/' | relative_url }}) remains so central to discussions of Doty. Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) believed he was detecting unusual aerial activity and electronic signals around Kirtland Air Force Base and nearby weapons facilities. Later accounts associated with the case claim that, rather than simply discouraging his interpretations, official-linked figures encouraged increasingly elaborate alien explanations involving underground bases, extraterrestrial communications and covert government cooperation with non-human entities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+This is why the [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair remains so central to discussions of Doty. Paul Bennewitz believed he was detecting unusual aerial activity and electronic signals around Kirtland Air Force Base and nearby weapons facilities. Later accounts associated with the case claim that, rather than simply discouraging his interpretations, official-linked figures encouraged increasingly elaborate alien explanations involving underground bases, extraterrestrial communications and covert government cooperation with non-human entities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 For [sceptics]({{ 'sceptics/' | relative_url }}), the key question is not whether every detail of those later stories is true. The key question is whether the alien narrative diverted attention away from whatever Bennewitz may actually have been observing.
-
-
-<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 221 &middot; Uploaded: February 2024 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sKV8ybzkUCk">Open on YouTube</a></p></div></div></div>
 
 ## The classified-programme motive
 
@@ -290,7 +286,6 @@ The strongest version of the sceptical argument does not require a vast conspira
 Instead, it proposes a narrower motive. Military and intelligence organisations have genuine reasons to conceal classified technology. During the Cold War especially, facilities such as Kirtland Air Force Base were involved in highly sensitive weapons, communications and security work. If civilians were detecting unusual signals, aircraft or testing activity, officials might have had incentives to obscure the true source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread disinformation about UFOs had been...</span></span></span>
 
 Under this interpretation, alien stories function as a form of misdirection:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +300,6 @@ The documentary *Mirage Men* popularised exactly this interpretation, arguing th
 
 Some later retellings go further and suggest that Bennewitz may have been observing activities connected to advanced aircraft, drones, signals intelligence systems or other secret projects rather than extraterrestrial craft. These claims remain debated and are often difficult to verify independently, but they form a core part of the sceptical explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Part Two: How The U.S</span><span class="citation-popover-snippet">Government Used Aliens...Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;s... Spying, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Part Two: How The U.S</span><span class="citation-popover-snippet">Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-2-dark.svg" | relative_url }}" alt="Human programmes illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why absurd claims can protect real secrets
 
@@ -319,7 +313,6 @@ In the Doty controversy, sceptics argue that stories involving alien treaties, u
 
 This mechanism appears repeatedly in discussions of UFO-related disinformation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A small amount of genuine information may be mixed with false material.
@@ -329,12 +322,11 @@ This mechanism appears repeatedly in discussions of UFO-related disinformation:
 
 </div>
 
-Some commentators have described this as "perception management" rather than simple lying. The objective is not necessarily to convince everyone of one false reality. It is to create uncertainty and make reliable conclusions harder to reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">GoodreadsMirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
+Some commentators have described this as "perception management" rather than simple lying. The objective is not necessarily to convince everyone of one false reality. It is to create uncertainty and make reliable conclusions harder to reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
 
 That is one reason the Doty case continues to attract attention decades later. Critics argue that even if many alien claims were false, they may still have been useful.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nofeMMRGuyI" title="&#x27;Non-human biologics&#x27; recovered by US government, says UFO whistleblower David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer">&#x27;Non-human biologics&#x27; recovered by US government, says UFO whistleblower David Grusch</a></p><p class="youtube-embed-meta">Channel: WUSA9</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nofeMMRGuyI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 221 &middot; Uploaded: February 2024 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sKV8ybzkUCk">Open on YouTube</a></p></div></div></div>
 
 ## Why sceptics think the Bennewitz case fits the pattern
 
@@ -348,8 +340,6 @@ The argument gained additional influence because many ideas that emerged around 
 
 The concern is not merely historical. If one false story successfully redirected attention from sensitive activity, sceptics argue that similar techniques could theoretically be used again.
 
-
-<img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-dark.svg" | relative_url }}" alt="Human programmes illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of the Mirage Men explanation
 
 Even many critics of Doty acknowledge that the "alien stories hide human programmes" theory has limits.
@@ -362,9 +352,7 @@ The third problem concerns intent. Some accounts portray a deliberate and organi
 
 Because of these limits, the *Mirage Men* explanation remains a credibility argument rather than a proven historical verdict. It offers a plausible motive for why alien narratives might have been encouraged, but it does not conclusively resolve every question surrounding Bennewitz, Doty or the broader UFO phenomenon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IROLRx0Bypw" title="Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer">Ancient Aliens: Terrifying Humanoids Emerge from Subterranean Realm (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IROLRx0Bypw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IROLRx0Bypw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-dark.svg" | relative_url }}" alt="Human programmes illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for assessing Doty
 
 The importance of this theory is that it changes the meaning of the evidence.
@@ -385,16 +373,16 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Explores how classified aerospace projects generate UFO speculation.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -402,16 +390,16 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Centres on the idea that alien narratives may shield classified programmes.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,16 +407,16 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Provides real-world context for secret aircraft development often mistaken for UFOs.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -436,16 +424,16 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Examines whether UFO narratives diverted attention from sensitive activity.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,7 +441,7 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -490,15 +478,15 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP"><img src="{{ '/assets/images/marketplace-covers/97add21e72eecbe0be99.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +494,15 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +510,15 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Alien Memorabilia"><img src="{{ '/assets/images/marketplace-covers/3e4f43364c1c6645aa9e.jpg' | relative_url }}" alt="Listing image for Various Alien Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Various Alien Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +526,15 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792"><img src="{{ '/assets/images/marketplace-covers/0dbbee2eb32d1fca44e2.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN USCSS SULACO 513792</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +542,7 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia -book -books -dvd" data-ebay-reference="human-programmes-were-alien-stories-useful-because-they-were-unbelievable-richard-doty-alien-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-alien-stories-useful-because-they-were-unbelievable-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-alien-stories-useful-because-they-were-unbelievable-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,110 +758,110 @@ That is why sceptics continue to treat the Bennewitz affair as a central credibi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
 2. <a id="endnote-2"></a>
    Source: skeptoid.com  
    Title: mirage men a new chapter in ufology  
-   Link: [https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/](https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/)  
+   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A New Chapter in UFOlogy29 May 2014 — Through interviews of Doty and those with whom he has interacted, Mirage Men... disinf...</p></details>
    Published: May 2014  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 4. <a id="endnote-4"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Part Two: How The U.S  
-   Link: [https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;s... Spying, d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Part Two: How The U.S  
-   Link: [https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Part Two: How The U.S  
-   Link: [https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Feb 13, 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/8677692-mirage-men](https://www.goodreads.com/book/show/8677692-mirage-men)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoodreadsMirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
+   Link: <a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread disinformation about UFOs had been...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/mm/podcast/the-ufos-caught-on-film-by-paul-bennewitz/id483046074?i=1000669612881](https://podcasts.apple.com/mm/podcast/the-ufos-caught-on-film-by-paul-bennewitz/id483046074?i=1000669612881)  
+   Link: <a href="https://podcasts.apple.com/mm/podcast/the-ufos-caught-on-film-by-paul-bennewitz/id483046074?i=1000669612881" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/mm/podcast/the-ufos-caught-on-film-by-paul-bennewitz/id483046074?i=1000669612881</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Caught on Film by Paul Bennewitz15 Sept 2024 — The UFOs Caught on Film by Paul Bennewitz. Podcast UFO. Play. In... disinformation a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7](https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WILL THE REAL SCOTT JONES PLEASE STAND UP?... aliens enjoying the hospitality of the government at an unnamed Air Force base. This progra...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon](https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon)  
+   Link: <a href="https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &quot;UFOs exist and everyone needs to adjust to that fact...Jun 28, 2022 — So far, alien conspiracy theories have been studied through...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media](https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media)  
+   Link: <a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of the Psyop, Part 1: UFOs and the Future of MediaPaul Bennewitz became ever more paranoid about alien surveillance, accusing his...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/](https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoDoty &#x27;befriended&#x27; Bennewitz for the sole purpose of spreading disinformation... Mirage Men i&#x27;m convinc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: issues.org  
-   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for the kinds of false and misleading information tha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64](https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64)  
+   Link: <a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?UFOs: The Great Gaslighting The Real Men in Black? Sometimes the war for the truth has...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tvi.show  
    Title: Things Visible & Invisible Air Force UFO Cover-Up: The Paul Bennewitz Conspiracy  
-   Link: [https://www.tvi.show/nexus/the-air-forces-secret-ufo-disinformation-campaign-how-paul-bennewitz-was-driven-to-madness](https://www.tvi.show/nexus/the-air-forces-secret-ufo-disinformation-campaign-how-paul-bennewitz-was-driven-to-madness)  
+   Link: <a href="https://www.tvi.show/nexus/the-air-forces-secret-ufo-disinformation-campaign-how-paul-bennewitz-was-driven-to-madness" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/the-air-forces-secret-ufo-disinformation-campaign-how-paul-bennewitz-was-driven-to-madness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity near Kirtland Air Force Base in the 1970s... The Air Force&#x27;s Secret UFO Disinformation Campaign: How Paul Bennewitz Was Dri...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kOT39FXstho](https://www.youtube.com/watch?v=kOT39FXstho)  
+   Link: <a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME...... Richard Doty was tasked with convincing Bennewitz that what he sa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gangstalkingmindcontrolcults.com  
    Title: government us air force nsa targeting paul bennewitz ufo researcher  
-   Link: [https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/](https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/)  
+   Link: <a href="https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/" target="_blank" rel="noopener noreferrer nofollow">https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Mirage Men” (Spooks), Government Targeting of UFO...Feb 26, 2025 — Bob Durant: Doty was feeding this man (Bennewitz) all kinds of lies...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: punkrockandufos.com  
    Title: interview defiant rick doty defends against liar claims  
-   Link: [https://www.punkrockandufos.com/blog/2017/11/20/interview-defiant-rick-doty-defends-against-liar-claims](https://www.punkrockandufos.com/blog/2017/11/20/interview-defiant-rick-doty-defends-against-liar-claims)  
+   Link: <a href="https://www.punkrockandufos.com/blog/2017/11/20/interview-defiant-rick-doty-defends-against-liar-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.punkrockandufos.com/blog/2017/11/20/interview-defiant-rick-doty-defends-against-liar-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERVIEW: Defiant Rick Doty defends against &#x27;liar&#x27; claims20 Nov 2017 — Doty claims his innocence, and was even the subject of the docume...</p></details>

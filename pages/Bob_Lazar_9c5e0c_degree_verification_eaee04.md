@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: Degrees
 title: Why The Degree Claims Matter
-title_full: Why The Degree Claims Matter | Lazar
+title_full: Why The Degree Claims Matter
 display_title_short: Degrees
 display_title: Degrees
 heading_title: Why The Degree Claims Matter
@@ -283,7 +283,7 @@ next_link:
   permalink: /element-115/
   short_title: Element 115
   heading_title: Did Element 115 Vindicate Lazar?
-date: '2026-06-09 02:51:43 '
+date: '2026-06-11 21:00:39 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview.webp
@@ -292,13 +292,12 @@ image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview-socia
 
 ## Introduction
 
-[Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s claimed MIT and Caltech degrees matter because they support, or fail to support, the role he says he played at S-4 near Area 51. Lazar did not present himself merely as someone who saw unusual objects. He said he was recruited to help understand the [propulsion]({{ 'propulsion/' | relative_url }}) system of recovered craft not made by humans. That is a technical claim, so his asserted scientific background is part of the evidence chain. The public problem is stark: Lazar has been reported as claiming a master’s degree in physics from MIT and a master’s degree in electronics or engineering from Caltech, but sceptical investigators have found no verified record of him at either institution. The missing records do not, by themselves, disprove every part of his story. They do, however, seriously weaken the claim that he had the formal expertise normally expected for the work he says he was hired to do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
-
+Bob Lazar’s claimed MIT and Caltech degrees matter because they support, or fail to support, the role he says he played at S-4 near Area 51. Lazar did not present himself merely as someone who saw unusual objects. He said he was recruited to help understand the [propulsion]({{ 'propulsion/' | relative_url }}) system of recovered craft not made by humans. That is a technical claim, so his asserted scientific background is part of the evidence chain. The public problem is stark: Lazar has been reported as claiming a master’s degree in physics from MIT and a master’s degree in electronics or engineering from Caltech, but sceptical investigators have found no verified record of him at either institution. The missing records do not, by themselves, disprove every part of his story. They do, however, seriously weaken the claim that he had the formal expertise normally expected for the work he says he was hired to do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-snippet">The Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview.webp" | relative_url }}" alt="Overview image for Degrees" loading="eager" decoding="sync" fetchpriority="high">
 ## What Lazar Claimed About Education
 
-The usual version of Lazar’s educational claim is that he held advanced degrees from two elite institutions: physics from the Massachusetts Institute of Technology and electronics or engineering from the California Institute of Technology. In interviews and later summaries of the case, these claims helped create the public image of Lazar as an unusually placed scientist rather than simply a UFO witness with a dramatic story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">OtherHandLazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>
+The usual version of Lazar’s educational claim is that he held advanced degrees from two elite institutions: physics from the Massachusetts Institute of Technology and electronics or engineering from the California Institute of Technology. In interviews and later summaries of the case, these claims helped create the public image of Lazar as an unusually placed scientist rather than simply a UFO witness with a dramatic story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</span></span></span>
 
 That framing is crucial because Lazar’s wider narrative depends on more than access. He says he was taken into a compartmented programme at S-4 and asked to examine the propulsion of an exotic craft. If true, that would imply either a recognised technical qualification, a specialised employment record, or some other strong reason for recruiters to trust him with extraordinary material. MIT and Caltech were therefore not decorative details in the story. They were part of the explanation for why he supposedly belonged in the room.
 
@@ -306,7 +305,7 @@ The Los Alamos strand of Lazar’s biography complicates the issue without resol
 
 ## What Sceptics Could Not Verify
 
-The strongest sceptical case is not that one form is missing from one archive. It is that several ordinary kinds of evidence have failed to appear together. Sceptics including Stanton Friedman reported finding no record of Lazar at MIT or Caltech, no confirmed professors or classmates from his claimed programmes, and no academic paper trail consistent with the degrees he described. Skeptic’s 2026 review summarises the issue in similar terms: Lazar claimed two master’s degrees, but investigators reported finding no record of him at either institution and no corroborating witnesses from those periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+The strongest sceptical case is not that one form is missing from one archive. It is that several ordinary kinds of evidence have failed to appear together. Sceptics including Stanton Friedman reported finding no record of Lazar at MIT or Caltech, no confirmed professors or classmates from his claimed programmes, and no academic paper trail consistent with the degrees he described. Skeptic’s 2026 review summarises the issue in similar terms: Lazar claimed two master’s degrees, but investigators reported finding no record of him at either institution and no corroborating witnesses from those periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-snippet">The Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 That matters because elite science and engineering degrees usually leave multiple traces. A graduate degree is not normally just a private memory between a student and a school. It can generate admission records, registration records, transcripts, degree certifications, thesis files, commencement lists, departmental correspondence, supervisors, committee members, classmates and later professional references.
 
@@ -315,7 +314,6 @@ MIT’s registrar materials show that former students and alumni can obtain offi
 Caltech has a similar verification pathway. Its registrar states that the Institute authorises the National Student Clearinghouse to provide enrolment and degree verifications, and Caltech’s transcript page describes procedures for current and former students to request official records. The National Student Clearinghouse itself describes degree and enrolment verification as a standard service used by institutions, employers and background-screening organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-title">Registrar&#x27;s Office Degree Verification</span><span class="citation-popover-snippet">Registrar&#x27;s Office Degree Verification</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-title">Registrar&#x27;s Office Degree Verification</span><span class="citation-popover-snippet">Registrar&#x27;s Office Degree Verification</span></span></span>
 
 The point is not that the public is entitled to browse any person’s private academic file. It is that Lazar, as the claimant, could resolve much of the dispute by producing institutionally verifiable proof. In the absence of that proof, the degree claims remain unsupported.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-1-dark.svg" | relative_url }}" alt="Degrees illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Professor Names Deepened The Problem
@@ -327,7 +325,6 @@ The best-known example is William Duxler. Friedman and later summaries report th
 This is significant because it changes the issue from “perhaps the university records are inaccessible” to “the remembered academic network does not match the claimed institutions”. A genuine MIT or Caltech graduate might not remember every detail decades later, but it would be unusual to be unable to name a verifiable professor, adviser, lab colleague or classmate from either programme, especially when those degrees are central to a public claim of technical authority.
 
 Other discussions of Lazar’s education also mention a second disputed instructor name, often rendered as “Hohsfield” or a similar spelling, with critics arguing that this too failed to substantiate the claimed MIT or Caltech path. Because that detail is less cleanly documented in accessible primary material, it should be treated cautiously. The broader pattern remains the important point: the personal-corroboration trail has not repaired the missing-record problem.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BEWz4SXfyCQ" title="Joe Rogan Experience #1315 - Bob Lazar &amp; Jeremy Corbell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BEWz4SXfyCQ" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #1315 - Bob Lazar &amp; Jeremy Corbell</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 66.4M &middot; Uploaded: June 2019 &middot; Length: 2 hours 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BEWz4SXfyCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BEWz4SXfyCQ">Open on YouTube</a></p></div></div></div>
 
@@ -341,18 +338,16 @@ This does not prove that every historical edge case is instantly available onlin
 
 Caltech’s case is slightly different because the public argument often describes Lazar’s alleged degree there as electronics or engineering rather than a clearly identified thesis-based physics programme. Even so, Caltech’s registrar records and degree-verification systems show that a real Caltech degree should normally be confirmable through ordinary administrative channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-title">Registrar&#x27;s Office Degree Verification</span><span class="citation-popover-snippet">Registrar&#x27;s Office Degree Verification</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-2-dark.svg" | relative_url }}" alt="Degrees illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “Erased Records” Defence
 
 Lazar and supporters have argued that his records were erased or disrupted as part of an effort to discredit him after he spoke publicly. That argument is important because it is the main way the missing-degree problem is explained within the pro-Lazar case. If a secret programme wanted to make him look unreliable, the argument goes, damaging his educational and employment record would be an obvious tactic.
 
-The difficulty is scale. Removing a classified employment record is one kind of claim. Erasing an entire civilian academic history from two independent elite institutions is broader. It would require explaining not only missing registrar records, but also absent theses, classmates, advisers, course records, departmental memories, diplomas, transcripts, yearbook traces and professional references. Critics such as Friedman and later sceptical writers therefore treat the erasure claim as less plausible than the simpler explanation that the degrees were not earned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumStanton Friedman: “THE BOB LAZAR FRAUD”He supposedly is a physicist with an MS in Physics from MIT and an MS in Electronics from th...</span></span></span>
+The difficulty is scale. Removing a classified employment record is one kind of claim. Erasing an entire civilian academic history from two independent elite institutions is broader. It would require explaining not only missing registrar records, but also absent theses, classmates, advisers, course records, departmental memories, diplomas, transcripts, yearbook traces and professional references. Critics such as Friedman and later sceptical writers therefore treat the erasure claim as less plausible than the simpler explanation that the degrees were not earned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Stanton Friedman: “THE BOB LAZAR FRAUD”He supposedly is a physicist with an MS in Physics from MIT and an MS in Electronics from th...</span></span></span>
 
 There is also an asymmetry in what survived. Lazar’s Los Alamos connection has some public traces, including press coverage and directory discussion. His later business, legal and media life also left records. If a hostile authority could erase MIT and Caltech so thoroughly, it is unclear why it would leave other embarrassing or useful traces intact. This does not make record erasure impossible in the abstract. It does mean the erasure claim needs strong independent evidence before it can outweigh the missing academic trail.
 
 A fair assessment should avoid overstatement. The absence of verified MIT and Caltech records does not prove that Lazar never learned physics, never worked around technical equipment, or never entered any classified-adjacent environment. It does, however, strongly undermine the specific claim that he held the elite graduate credentials he described.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fSdMR4L_3hI" title="What Is Element 115 and Is The Government Hiding It From Us? | Unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fSdMR4L_3hI" target="_blank" rel="noopener noreferrer">What Is Element 115 and Is The Government Hiding It From Us? | Unveiled</a></p><p class="youtube-embed-meta">Channel: Unveiled &middot; Views: 68.9K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fSdMR4L_3hI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fSdMR4L_3hI">Open on YouTube</a></p></div></div></div>
 
@@ -366,14 +361,12 @@ This is where the education problem connects directly to credibility. If Lazar h
 
 The more conservative interpretation is that Lazar may have had practical technical ability and some exposure to scientific workplaces, but that his public academic status appears overstated. That interpretation fits the available evidence better than either extreme: it does not require dismissing every technical aspect of his persona as invented, but it also does not accept the unverified claim that he was an elite credentialled physicist recruited for alien reverse engineering.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-3-dark.svg" | relative_url }}" alt="Degrees illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Would Actually Resolve The Degree Question
 
 The degree dispute is unusually concrete compared with many UFO debates. It does not depend on interpreting a blurry video or deciding whether a witness seemed sincere. It could be materially changed by ordinary documentation.
 
 The strongest evidence in Lazar’s favour would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -388,91 +381,47 @@ The strongest evidence in Lazar’s favour would include:
 
 The current public record does not provide that. Instead, it shows repeated claims, failed verification attempts, weak or conflicting professor references, and an “[erased records]({{ 'erased-records/' | relative_url }})” explanation that requires more evidence than has been produced. For a mainstream credibility assessment, the degree problem therefore remains one of the clearest weaknesses in the Lazar case. It does not settle every question about his life, but it sharply narrows what can be responsibly claimed about his scientific authority.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uLPh1v5F_OM" title="Bob Lazar and Moscovium (element 115) | Bullaki Science Podcast Clips with Michael Shermer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uLPh1v5F_OM" target="_blank" rel="noopener noreferrer">Bob Lazar and Moscovium (element 115) | Bullaki Science Podcast Clips with Michael Shermer</a></p><p class="youtube-embed-meta">Channel: BULLAKI &middot; Views: 22.4K &middot; Uploaded: September 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uLPh1v5F_OM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uLPh1v5F_OM">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why The Degree Claims Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why The Degree Claims Matter, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains Lazar&#x27;s presentation of his educational and professional history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating claims about personnel and classified work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Examines how extraordinary claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
-        
-        <p class="fr-book-desc">Useful for understanding evidence, expertise and credibility assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,15 +458,15 @@ The current public record does not provide that. Instead, it shows repeated clai
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +474,15 @@ The current public record does not provide that. Instead, it shows repeated clai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +490,15 @@ The current public record does not provide that. Instead, it shows repeated clai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +506,15 @@ The current public record does not provide that. Instead, it shows repeated clai
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +522,7 @@ The current public record does not provide that. Instead, it shows repeated clai
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="degrees-why-the-degree-claims-matter-bob-lazar-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-degree-claims-matter-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-degree-claims-matter-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,157 +737,157 @@ The current public record does not provide that. Instead, it shows repeated clai
 
 1. <a id="endnote-1"></a>
    Source: skeptic.com  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkepticThe Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</p></details>
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Bob LazarApril 23, 2026 — 23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics fro...</p></details>
    Published: April 23, 2026  
 
 2. <a id="endnote-2"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OtherHandLazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</p></details>
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – EducationAs far as electronic technology, my degree there is from CalTech and physics is from MIT. Question: Did y...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
-   Link: [https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879](https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumStanton Friedman: “THE BOB LAZAR FRAUD”He supposedly is a physicist with an MS in Physics from MIT and an MS in Electronics from th...</p></details>
+   Link: <a href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman: “THE BOB LAZAR FRAUD”He supposedly is a physicist with an MS in Physics from MIT and an MS in Electronics from th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: registrar.mit.edu  
-   Link: [https://registrar.mit.edu/transcripts-records](https://registrar.mit.edu/transcripts-records)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records</a>  
 
 6. <a id="endnote-6"></a>
    Source: registrar.mit.edu  
-   Link: [https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters](https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters</a>  
 
 7. <a id="endnote-7"></a>
    Source: registrar.mit.edu  
-   Link: [https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts](https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts</a>  
 
 8. <a id="endnote-8"></a>
    Source: registrar.caltech.edu  
    Title: Registrar's Office Degree Verification  
-   Link: [https://registrar.caltech.edu/records/degree-verification](https://registrar.caltech.edu/records/degree-verification)  
+   Link: <a href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/degree-verification</a>  
 
 9. <a id="endnote-9"></a>
    Source: registrar.caltech.edu  
-   Link: [https://registrar.caltech.edu/records/transcripts](https://registrar.caltech.edu/records/transcripts)  
+   Link: <a href="https://registrar.caltech.edu/records/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/transcripts</a>  
 
 10. <a id="endnote-10"></a>
    Source: dspace.mit.edu  
-   Link: [https://dspace.mit.edu/handle/1721.1/7582](https://dspace.mit.edu/handle/1721.1/7582)  
+   Link: <a href="https://dspace.mit.edu/handle/1721.1/7582" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/handle/1721.1/7582</a>  
 
 11. <a id="endnote-11"></a>
    Source: thesis-submit.mit.edu  
-   Link: [https://thesis-submit.mit.edu/](https://thesis-submit.mit.edu/)  
+   Link: <a href="https://thesis-submit.mit.edu/" target="_blank" rel="noopener noreferrer nofollow">https://thesis-submit.mit.edu/</a>  
 
 12. <a id="endnote-12"></a>
    Source: libraries.mit.edu  
-   Link: [https://libraries.mit.edu/distinctive-collections/thesis-specs/](https://libraries.mit.edu/distinctive-collections/thesis-specs/)  
+   Link: <a href="https://libraries.mit.edu/distinctive-collections/thesis-specs/" target="_blank" rel="noopener noreferrer nofollow">https://libraries.mit.edu/distinctive-collections/thesis-specs/</a>  
 
 13. <a id="endnote-13"></a>
    Source: oge.mit.edu  
-   Link: [https://oge.mit.edu/gpp/advanced-degrees/thesis/preparation-of-graduate-theses/](https://oge.mit.edu/gpp/advanced-degrees/thesis/preparation-of-graduate-theses/)  
+   Link: <a href="https://oge.mit.edu/gpp/advanced-degrees/thesis/preparation-of-graduate-theses/" target="_blank" rel="noopener noreferrer nofollow">https://oge.mit.edu/gpp/advanced-degrees/thesis/preparation-of-graduate-theses/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Does the Real Element 115 Have a Connection With UFOs?  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/element-115.htm](https://science.howstuffworks.com/space/aliens-ufos/element-115.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 17. <a id="endnote-17"></a>
    Source: registrar.mit.edu  
-   Link: [https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts](https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts)  
+   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts</a>  
 
 18. <a id="endnote-18"></a>
    Source: libguides.mit.edu  
    Title: thesis faq  
-   Link: [https://libguides.mit.edu/mit-thesis-faq](https://libguides.mit.edu/mit-thesis-faq)  
+   Link: <a href="https://libguides.mit.edu/mit-thesis-faq" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mit.edu/mit-thesis-faq</a>  
 
 19. <a id="endnote-19"></a>
    Source: web.mit.edu  
-   Link: [https://web.mit.edu/etheses/www/workflow.html](https://web.mit.edu/etheses/www/workflow.html)  
+   Link: <a href="https://web.mit.edu/etheses/www/workflow.html" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/etheses/www/workflow.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f](https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f)  
+   Link: <a href="https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f</a>  
 
 22. <a id="endnote-22"></a>
    Source: registrar.caltech.edu  
-   Link: [https://registrar.caltech.edu/records](https://registrar.caltech.edu/records)  
+   Link: <a href="https://registrar.caltech.edu/records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MITRegistrar/posts/graduating-students-in-your-countdown-to-commencement-dont-forget-to-opt-in-to-r/5100219283409050/](https://www.facebook.com/MITRegistrar/posts/graduating-students-in-your-countdown-to-commencement-dont-forget-to-opt-in-to-r/5100219283409050/)  
+   Link: <a href="https://www.facebook.com/MITRegistrar/posts/graduating-students-in-your-countdown-to-commencement-dont-forget-to-opt-in-to-r/5100219283409050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MITRegistrar/posts/graduating-students-in-your-countdown-to-commencement-dont-forget-to-opt-in-to-r/5100219283409050/</a>  
 
 24. <a id="endnote-24"></a>
    Source: verify.studentclearinghouse.org  
-   Link: [https://verify.studentclearinghouse.org/registration](https://verify.studentclearinghouse.org/registration)  
+   Link: <a href="https://verify.studentclearinghouse.org/registration" target="_blank" rel="noopener noreferrer nofollow">https://verify.studentclearinghouse.org/registration</a>  
 
 25. <a id="endnote-25"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1976988768478674991](https://x.com/grok/status/1976988768478674991)  
+   Link: <a href="https://x.com/grok/status/1976988768478674991" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1976988768478674991</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uLPh1v5F_OM](https://www.youtube.com/watch?v=uLPh1v5F_OM)  
+   Link: <a href="https://www.youtube.com/watch?v=uLPh1v5F_OM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uLPh1v5F_OM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #1315 - Bob Lazar &amp; Jeremy Corbell...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mgGO_O8k2nE](https://www.youtube.com/watch?v=mgGO_O8k2nE)  
+   Link: <a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51: The Original Mystery | Mystery Wire...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BEWz4SXfyCQ](https://www.youtube.com/watch?v=BEWz4SXfyCQ)  
+   Link: <a href="https://www.youtube.com/watch?v=BEWz4SXfyCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BEWz4SXfyCQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Area 51: The Original Mystery | Mystery Wire  
-   Link: [https://www.youtube.com/watch?v=RLary48c81Q](https://www.youtube.com/watch?v=RLary48c81Q)  
+   Link: <a href="https://www.youtube.com/watch?v=RLary48c81Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLary48c81Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Drops Bombshell: FBI Used a Woman&#x27;s Death to Probe an Area 51 Secret...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/](https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/)  
+   Link: <a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/](https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
 
 32. <a id="endnote-32"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1969648979412730131?lang=en](https://x.com/grok/status/1969648979412730131?lang=en)  
+   Link: <a href="https://x.com/grok/status/1969648979412730131?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1969648979412730131?lang=en</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/](https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/](https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/</a>  
 
 35. <a id="endnote-35"></a>
    Source: studentclearinghouse.org  
-   Link: [https://www.studentclearinghouse.org/solutions/business-verifications/](https://www.studentclearinghouse.org/solutions/business-verifications/)  
+   Link: <a href="https://www.studentclearinghouse.org/solutions/business-verifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.studentclearinghouse.org/solutions/business-verifications/</a>

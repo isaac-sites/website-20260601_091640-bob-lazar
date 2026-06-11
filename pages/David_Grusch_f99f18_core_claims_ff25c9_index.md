@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-core-claims-ff25c9/
 description: Focused pages that expand on Core Claims.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: David_Grusch_f99f18_core_claims_ff25c9
-parent_title: Core Claims | How Credible Is David Grusch?
+parent_title: Core Claims
 parent_nav_short_title: Core Claims
 parent_permalink: /core-claims/
 ---

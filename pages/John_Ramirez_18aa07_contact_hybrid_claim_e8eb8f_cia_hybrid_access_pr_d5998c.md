@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /contact-claims/
 nav_short_title: CIA access
 title: Could Ramirez have known that?
-title_full: Could Ramirez have known that? | Contact Claims
+title_full: Could Ramirez have known that?
 display_title_short: CIA access
 display_title: CIA access
 heading_title: Could Ramirez have known that?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Far Do His Alien Claims Go? | Ramirez
+parent_title: How Far Do His Alien Claims Go?
 parent_permalink: /contact-claims/
 parent_nav_short_title: Contact Claims
 parent_heading_title: How Far Do His Alien Claims Go?
@@ -253,7 +253,7 @@ next_link:
   permalink: /hybrid-proof/
   short_title: Hybrid proof
   heading_title: Where is the hybrid evidence?
-date: '2026-06-09 03:00:05 '
+date: '2026-06-11 21:05:25 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-1.webp
@@ -262,18 +262,16 @@ image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid
 
 ## Introduction
 
-One of the most controversial parts of [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s UFO commentary is not his discussion of unidentified aerial phenomena, radar systems or intelligence analysis. It is his suggestion that US intelligence agencies, including the CIA, were interested in tracking alleged human–alien hybrid lineages and monitoring families connected to those claims.
-
+One of the most controversial parts of John Ramirez’s UFO commentary is not his discussion of unidentified aerial phenomena, radar systems or intelligence analysis. It is his suggestion that US intelligence agencies, including the CIA, were interested in tracking alleged human–alien hybrid lineages and monitoring families connected to those claims.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-1-dark.svg" | relative_url }}" alt="CIA access illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central credibility question is not whether Ramirez worked in the intelligence community. His CIA employment and signals-intelligence-related background are broadly documented through his public biography. The harder question is whether that background would realistically have given him access to a programme involving genetics, biological evidence, medical surveillance or hybrid tracking. That is where the evidence becomes much thinner. Public interviews show Ramirez discussing such ideas, but they do not provide independently verifiable documentation showing that he personally worked inside a hybrid-monitoring programme or had direct access to biological evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezHe is currently a member of the Association of Former Intelligence Officers and the Central Intelligence Ret...</span></span></span>
 
 ## The alleged tracking programme
 
-Ramirez has described or amplified claims that US intelligence organisations showed interest in human–alien hybridisation, family bloodlines and possible monitoring efforts connected to those theories. In podcast appearances and related media coverage, he has discussed stories involving alien DNA, hybrid descendants and government awareness of particular family lineages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">PodscanFormer CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsFormer CIA Officer Confirms Alien Hybrids are Real20 Jun 2025 — Former CIA analyst John Ramirez joins me for one of the mos...</span></span></span>
+Ramirez has described or amplified claims that US intelligence organisations showed interest in human–alien hybridisation, family bloodlines and possible monitoring efforts connected to those theories. In podcast appearances and related media coverage, he has discussed stories involving alien DNA, hybrid descendants and government awareness of particular family lineages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsFormer CIA Officer Confirms Alien Hybrids are Real20 Jun 2025 — Former CIA analyst John Ramirez joins me for one of the mos...</span></span></span>
 
 The strongest version of the claim is not merely that hybrids exist. It is that some part of the intelligence apparatus allegedly tracked them. That immediately raises practical questions:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -287,10 +285,9 @@ The strongest version of the claim is not merely that hybrids exist. It is that 
 
 </div>
 
-Public discussions involving Ramirez have not supplied clear answers to those questions. Instead, the claims generally appear in interview settings where the audience is asked to rely on insider testimony, second-hand information or personal belief rather than documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">PodscanFormer CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
+Public discussions involving Ramirez have not supplied clear answers to those questions. Instead, the claims generally appear in interview settings where the audience is asked to rely on insider testimony, second-hand information or personal belief rather than documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 
 That does not automatically make the claims false. Intelligence programmes have existed that remained secret for years. However, extraordinary biological surveillance claims require a much stronger evidential chain than has been publicly produced so far.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bI4VKmY03nE" title="EP5 - Into the wyrde with Holly Wood &amp; former CIA officer John Ramirez." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bI4VKmY03nE" target="_blank" rel="noopener noreferrer">EP5 - Into the wyrde with Holly Wood &amp; former CIA officer John Ramirez.</a></p><p class="youtube-embed-meta">Channel: Into the Wyrde with Holly Wood &middot; Views: 10.8K &middot; Uploaded: May 2023 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bI4VKmY03nE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bI4VKmY03nE">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +300,6 @@ His publicly described professional background centres on electronic intelligenc
 That background matters because it establishes one kind of expertise while leaving another largely unproven.
 
 An analyst involved with ELINT (electronic intelligence) or SIGINT (signals intelligence) may plausibly have knowledge of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -320,7 +316,6 @@ Those skills can support informed commentary about unusual aerial detections or 
 
 They do not automatically imply access to:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Human genetics programmes
@@ -333,7 +328,6 @@ They do not automatically imply access to:
 </div>
 
 The distinction is important because many audiences hear "former CIA officer" and assume broad access across the entire intelligence system. In reality, intelligence agencies are heavily compartmentalised. Even senior personnel typically see only a fraction of programmes operating inside their own organisations. Access usually depends on mission need, specific clearances and compartment membership rather than general employment status.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-2-dark.svg" | relative_url }}" alt="CIA access illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The gap between technical access and biological claims
@@ -350,7 +344,6 @@ That does not automatically support:
 
 Moving from the first statement to the second requires additional evidence. Readers need to know whether the information came from:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Direct participation in a programme
@@ -365,10 +358,9 @@ Moving from the first statement to the second requires additional evidence. Read
 
 The distinction is critical because different sources carry very different evidential weight.
 
-One of Ramirez's own public comments illustrates the problem. In a discussion circulated within UFO communities, he reportedly acknowledged that he did not possess direct evidence for hybridisation claims and instead referred to what senior officials allegedly told him. According to the quoted exchange, he stated that officials discussed CIA interest in human hybridisation and alien DNA, while also acknowledging that evidence had not been provided to him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">RedditEx-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+One of Ramirez's own public comments illustrates the problem. In a discussion circulated within UFO communities, he reportedly acknowledged that he did not possess direct evidence for hybridisation claims and instead referred to what senior officials allegedly told him. According to the quoted exchange, he stated that officials discussed CIA interest in human hybridisation and alien DNA, while also acknowledging that evidence had not been provided to him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 From a credibility standpoint, that moves the claim from documented knowledge into the category of reported conversations and second-hand testimony.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SZwwwFadB9Y" title="CIA is Hunting Alien Hybrids? - John Ramirez - DEBRIEFED ep. 42" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SZwwwFadB9Y" target="_blank" rel="noopener noreferrer">CIA is Hunting Alien Hybrids? - John Ramirez - DEBRIEFED ep. 42</a></p><p class="youtube-embed-meta">Channel: Area52 Clips &middot; Views: 20.1K &middot; Uploaded: June 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SZwwwFadB9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SZwwwFadB9Y">Open on YouTube</a></p></div></div></div>
 
@@ -388,8 +380,7 @@ No publicly verified document has surfaced demonstrating a CIA programme dedicat
 
 Claims become stronger when multiple witnesses with comparable access provide matching accounts independently.
 
-While various UFO personalities discuss hybridisation theories, publicly available reporting does not show a broad group of verified intelligence officials presenting corroborated evidence for a CIA hybrid-tracking operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">PodscanFormer CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
-
+While various UFO personalities discuss hybridisation theories, publicly available reporting does not show a broad group of verified intelligence officials presenting corroborated evidence for a CIA hybrid-tracking operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-3-dark.svg" | relative_url }}" alt="CIA access illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_cia_hybrid_access_pr_d5998c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scientific evidence
@@ -412,14 +403,13 @@ The absence of confirmation does not prove non-existence, but it does leave the 
 
 The disagreement therefore centres less on whether Ramirez worked for the CIA and more on whether his documented access actually reached the subjects he discusses.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXerKPm2-p4" title="Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer">Retired CIA Officer John Ramirez on the Agency, Orbs, Intelligence Gathering, And Much More</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 34.2K &middot; Uploaded: February 2022 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXerKPm2-p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXerKPm2-p4">Open on YouTube</a></p></div></div></div>
 
 ## Could Ramirez have known that?
 
 The most cautious assessment is that Ramirez's public record supports the claim that he worked in intelligence-related and electronic collection roles, but it does not publicly demonstrate direct access to a programme tracking alleged human–alien hybrids. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezHe is currently a member of the Association of Former Intelligence Officers and the Central Intelligence Ret...</span></span></span>
 
-That does not mean such access was impossible. Intelligence agencies contain compartments that outsiders cannot fully map. However, the evidence currently available to the public does not bridge the gap between Ramirez's verified ELINT-related background and his later statements about hybrid bloodlines, alien DNA and CIA tracking efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">PodscanFormer CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
+That does not mean such access was impossible. Intelligence agencies contain compartments that outsiders cannot fully map. However, the evidence currently available to the public does not bridge the gap between Ramirez's verified ELINT-related background and his later statements about hybrid bloodlines, alien DNA and CIA tracking efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 
 As a result, the hybrid-tracking story remains one of the weakest-evidenced parts of the broader Ramirez narrative. The key issue is not whether he once held a clearance. It is whether the specific claims can be tied to demonstrable programme access, documents, biological evidence or independently corroborated witnesses. So far, that connection remains largely unverified.
 
@@ -540,15 +530,15 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN"><img src="https://i.ebayimg.com/images/g/pv8AAeSwVwRpXaJS/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11"><img src="https://i.ebayimg.com/images/g/55gAAeSwgMRo1NYR/s-l225.jpg" alt="Listing image for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +562,15 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible"><img src="{{ '/assets/images/marketplace-covers/c6fdd3f1f579d1b81b6c.jpg' | relative_url }}" alt="Listing image for Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330"><img src="https://i.ebayimg.com/images/g/4QMAAOSwiW5oWdh8/s-l225.jpg" alt="Listing image for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Queen Q-Fig Aliens Xenomorph Quantum Mechanix Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +578,15 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97"><img src="https://i.ebayimg.com/images/g/yPoAAOSwvGZh05QJ/s-l225.jpg" alt="Listing image for Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer">Patch - CIA - USSF - SPECIAL MISSION FORCE / GROUP - SMAG - Vietnam War - M.97</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +594,7 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="cia-access-could-ramirez-have-known-that-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ramirez-have-known-that-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="could-ramirez-have-known-that-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -819,106 +809,106 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
 
 1. <a id="endnote-1"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezHe is currently a member of the Association of Former Intelligence Officers and the Central Intelligence Ret...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: podscan.fm  
-   Link: [https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42](https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PodscanFormer CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</p></details>
+   Link: <a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027](https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027)  
+   Link: <a href="https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/se/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsFormer CIA Officer Confirms Alien Hybrids are Real20 Jun 2025 — Former CIA analyst John Ramirez joins me for one of the mos...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Ex-CIA officer John Ramirez explains why he thinks Lue  
-   Link: [https://www.reddit.com/r/UFOs/comments/refyen/excia_officer_john_ramirez_explains_why_he_thinks/](https://www.reddit.com/r/UFOs/comments/refyen/excia_officer_john_ramirez_explains_why_he_thinks/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEx-CIA officer John Ramirez explains why he thinks Lue...December 12, 2021 — All I have is these two top officials saying that the...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/refyen/excia_officer_john_ramirez_explains_why_he_thinks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/refyen/excia_officer_john_ramirez_explains_why_he_thinks/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA officer John Ramirez explains why he thinks Lue...December 12, 2021 — All I have is these two top officials saying that the...</p></details>
    Published: December 12, 2021  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/](https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEx-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</p></details>
    Published: July 30, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Why are most government insiders and UFO researchers connecting the. 1.9K. 1.3K...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mirez is telling the truth, lying deliberately...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensEx-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Coming In 2027 · Comment...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/](https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez talking about 2027: r/aliens - RedditSeptember 19, 2024 — John Ramirez was asked about 2027 on an episode of That UFO...</p></details>
    Published: September 19, 2024  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/](https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>into the UAPs that he learned in his career.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>his head, most of which covers UFOs and alien who went...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureUFO Disclosure Latest Update: 46 Secret Clips of Alien Formations Allegedly Withheld from...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/](https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: is there an earlier mention of a 2027 event than  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kvbq4d/is_there_an_earlier_mention_of_a_2027_event_than/](https://www.reddit.com/r/UFOs/comments/1kvbq4d/is_there_an_earlier_mention_of_a_2027_event_than/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kvbq4d/is_there_an_earlier_mention_of_a_2027_event_than/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kvbq4d/is_there_an_earlier_mention_of_a_2027_event_than/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyway when you do a little digging, you come to this interview with ex CIA guy Ramirez...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/](https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1lhs9n1/serious_ex_cia_officer_confirms_alien_hybrids/](https://www.reddit.com/r/aliens/comments/1lhs9n1/serious_ex_cia_officer_confirms_alien_hybrids/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lhs9n1/serious_ex_cia_officer_confirms_alien_hybrids/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lhs9n1/serious_ex_cia_officer_confirms_alien_hybrids/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 years ago for me. I&#x27;m curious to know if this...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Thealphacatsyndrome/photos/cia-accused-of-using-dna-data-to-track-alien-hybridsa-wild-theory-is-circulating/1608590521268280/](https://www.facebook.com/Thealphacatsyndrome/photos/cia-accused-of-using-dna-data-to-track-alien-hybridsa-wild-theory-is-circulating/1608590521268280/)  
+   Link: <a href="https://www.facebook.com/Thealphacatsyndrome/photos/cia-accused-of-using-dna-data-to-track-alien-hybridsa-wild-theory-is-circulating/1608590521268280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Thealphacatsyndrome/photos/cia-accused-of-using-dna-data-to-track-alien-hybridsa-wild-theory-is-circulating/1608590521268280/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA accused of using DNA data to track alien hybrids...Former CIA officer John Ramirez has made similar claims on other podcasts, allegi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired](https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com...</p></details>
 
 4
@@ -927,49 +917,48 @@ As a result, the hybrid-tracking story remains one of the weakest-evidenced part
 
 4. John Ramirez, CIA Retired-Podcast UFODid you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/ufo-si](https://podcastufo.com/ufo-si)
 
-
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=10iB9C9szTo](https://www.youtube.com/watch?v=10iB9C9szTo)  
+   Link: <a href="https://www.youtube.com/watch?v=10iB9C9szTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10iB9C9szTo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Officer FINALLY Breaks Silence on UFO &amp; Alien...... JOHN RAMIREZ, a former CIA Officer, has come forward with... CIA Officer FINALL...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hypefresh.com  
    Title: retired cia insider exposes the reality of ufos and alien encounters  
-   Link: [https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/](https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/)  
+   Link: <a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — Now, he&#x27;s breaking decades of silence to shed light on humanit...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: imdb.com  
    Title: Find ratings and reviews for the newest movie and TV shows  
-   Link: [https://www.imdb.com/title/tt37000193/](https://www.imdb.com/title/tt37000193/)  
+   Link: <a href="https://www.imdb.com/title/tt37000193/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt37000193/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells All - IMDbIMDb is the world&#x27;s most popular and authoritative source for movie, TV...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: docs.house.gov  
    Title: alien craft,” and claimed UAP projects were conducted at.Read more  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Becky Little, How the CIA Tried to Quell UFO Panic During the Cold War | HIS...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=bI4VKmY03nE](http://www.youtube.com/watch?v=bI4VKmY03nE)  
+   Link: <a href="http://www.youtube.com/watch?v=bI4VKmY03nE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bI4VKmY03nE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA tracking hybrid access program UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities Global News...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: grunge.com  
    Title: government alien document disclosure is a prelude  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens - GrungeAugust 14, 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the...</p></details>
    Published: August 14, 2023  
 
 26. <a id="endnote-26"></a>
    Source: gaia.com  
    Title: Watch John Ramirez: CIA Agent's Close Encounters  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Agent John Ramirez joins Cosmic Disclosure for the first time.... CIA UFO Document Dump. S1:Ep20 6 mins. CIA Whistleblower Vi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/](https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/)  
+   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA,” tracked alleged human–alien hybrids in U.S. families...Read more...</p></details>

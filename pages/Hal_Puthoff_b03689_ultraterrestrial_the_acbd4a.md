@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-hal-puthoff/
 nav_short_title: Ultraterrestrials
 title: What Is Puthoff Really Claiming?
-title_full: What Is Puthoff Really Claiming? | Puthoff
+title_full: What Is Puthoff Really Claiming?
 display_title_short: Ultraterrestrials
 display_title: Ultraterrestrials
 heading_title: What Is Puthoff Really Claiming?
@@ -283,7 +283,7 @@ prev_link:
   permalink: /ttsa-materials/
   short_title: TTSA Materials
   heading_title: Did The Materials Claims Deliver?
-date: '2026-06-09 03:01:20 '
+date: '2026-06-11 21:06:18 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview.webp
@@ -293,7 +293,6 @@ image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview-so
 ## Introduction
 
 [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s “ultraterrestrial” framing is one of his most provocative contributions to modern UAP discussion, but the strongest public reading is not that he has proved a hidden non-human presence on Earth. It is that he has argued for a wider research agenda: if some UAP are real, structured and not easily explained, investigators should not assume the answer must be simple extraterrestrial visitation. In his 2022 paper, Puthoff listed possibilities including extraterrestrial, extradimensional, crypto-terrestrial, ancient-human, time-traveller and mixed explanations, while also admitting that UAP research still lacks “sure and certain” data points on fundamental questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[thejournalofcosmology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-title">ULTRATERRESTRIA L MODELS</span><span class="citation-popover-snippet">ULTRATERRESTRIA L MODELS</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview.webp" | relative_url }}" alt="Overview image for Ultraterrestrials" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters for judging credibility. Puthoff’s verified background gives him standing as a long-running frontier-science researcher: EarthTech identifies him as founder, president and chief executive of EarthTech International and director of the Institute for Advanced Studies at Austin, with work spanning electrodynamics, gravitation, quantum vacuum research, energy generation and space propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span> But his ultraterrestrial model is best treated as speculative hypothesis-building, not public proof of non-human intelligence.
@@ -312,7 +311,6 @@ The useful way to read Puthoff’s proposal is as a menu of candidate mechanisms
 
 In the paper, the range includes several distinct possibilities:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Extraterrestrial visitors:** the familiar hypothesis that some UAP are craft or probes from elsewhere in the cosmos.
@@ -324,7 +322,6 @@ In the paper, the range includes several distinct possibilities:
 </div>
 
 This breadth is also the weakness. A broad model can prevent premature closure, but it can also become so flexible that nearly any anomaly can be fitted into it after the fact. Puthoff is aware of that risk. He criticises the field for relying too much on analysis and speculation, and not enough on forensic investigation that could generate discriminating evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thejournalofcosmology.com/indexVol29CONTENTS.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[thejournalofcosmology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-snippet">Open source on thejournalofcosmology.com.</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-1-dark.svg" | relative_url }}" alt="Ultraterrestrials illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Paper Admits About Missing Data
@@ -351,7 +348,6 @@ A credibility assessment should separate those ideas into tiers.
 
 This distinction protects both sides of the debate. It prevents sceptics from dismissing all UAP investigation merely because Puthoff includes highly speculative categories, while also preventing supporters from treating a speculative framework as if it were a demonstrated discovery.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKGw7soZTnI" title="Have UltraTerrestrials been here all along?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer">Have UltraTerrestrials been here all along?</a></p><p class="youtube-embed-meta">Channel: Lehto Files &middot; Views: 69.5K &middot; Uploaded: October 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKGw7soZTnI">Open on YouTube</a></p></div></div></div>
 
 ## Why Official UAP Reports Do Not Vindicate the Theory
@@ -361,7 +357,6 @@ Recent US government activity has made UAP a more legitimate topic of institutio
 AARO’s historical report also reviewed earlier US programmes such as Project GRUDGE and Project BEAR, noting that no evidence of extraterrestrial origin was discovered in that context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22") This matters because Puthoff’s paper uses historical continuity as part of the reason to widen the explanatory frame. If UAP reports stretch across decades or centuries, he argues, then the “visitors from another planet” model may not be the only one worth considering. But official historical reviews have not publicly produced the kind of physical, archival or programme evidence that would turn that inference into confirmation.
 
 The stronger official position is more limited: some cases remain unresolved; better reporting and calibrated data are needed; national security and flight safety concerns can justify investigation; and no public proof of alien or non-human technology has been established. That position leaves room for research, but not for confident claims about ultraterrestrials.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-3-dark.svg" | relative_url }}" alt="Ultraterrestrials illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Credibility Risk for Puthoff
@@ -374,14 +369,12 @@ This is especially relevant because Puthoff’s wider career sits at the boundar
 
 The fair assessment is not that Puthoff’s ultraterrestrial model is impossible. It is that the public evidence does not currently justify treating it as likely. His contribution is mainly to expand the hypothesis space and argue for more aggressive forensic testing.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-2-dark.svg" | relative_url }}" alt="Ultraterrestrials illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Would Strengthen or Weaken the Case
 
 The ultraterrestrial theory would become more credible only if it produced evidence that clearly discriminated between competing explanations. A blurry video, a sincere witness, a historical parallel or an unresolved radar case would not be enough. The claim needs evidence that points specifically away from conventional aircraft, balloons, drones, sensor artefacts, classified human technology, astronomical misidentification, psychological factors and ordinary extraterrestrial speculation.
 
 Evidence that would materially strengthen the case would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,7 +388,6 @@ Evidence that would materially strengthen the case would include:
 
 Evidence that would weaken the case is already common in UAP history: cases resolved as balloons, aircraft, drones, satellites, sensor effects or ordinary atmospheric phenomena; claims that depend on unnamed sources; and stories that become broader as they move through media and belief communities. AARO’s public case pages, for example, include a mixture of unresolved reports, cases under analysis and cases resolved as balloons or not anomalous, illustrating why identification status can change as better evidence is applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBIZOZ7sqXE" title="Ultraterrestrials: The Ancient Intelligence Behind UFOs | Operation Trojan Horse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBIZOZ7sqXE" target="_blank" rel="noopener noreferrer">Ultraterrestrials: The Ancient Intelligence Behind UFOs | Operation Trojan Horse</a></p><p class="youtube-embed-meta">Channel: THIRD EYE DROPS with Michael Phillip &middot; Views: 241.7K &middot; Uploaded: November 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBIZOZ7sqXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBIZOZ7sqXE">Open on YouTube</a></p></div></div></div>
 
 ## Bottom Line
@@ -406,9 +398,7 @@ The useful part of Puthoff’s framing is methodological: do not assume that “
 
 For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways. It shows why he remains influential among UAP researchers who want a larger explanatory map. It also shows why sceptics view his strongest non-human claims as premature. The most balanced conclusion is that his ultraterrestrial model is a provocative research agenda, not a demonstrated account of what UAP are.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0l8oBAM3s54" title="Passport to Magonia: UFOs, Folklore, and Parallel Worlds -- Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer">Passport to Magonia: UFOs, Folklore, and Parallel Worlds -- Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: ProfessorMystic &middot; Views: 141 &middot; Uploaded: May 2026 &middot; Length: 6 hours 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0l8oBAM3s54">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -527,15 +517,15 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +533,15 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +549,31 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +581,7 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-puthoff-really-claiming-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-is-puthoff-really-claiming-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -791,164 +797,164 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
 1. <a id="endnote-1"></a>
    Source: thejournalofcosmology.com  
    Title: ULTRATERRESTRIA L MODELS  
-   Link: [https://thejournalofcosmology.com/Puthoff.pdf](https://thejournalofcosmology.com/Puthoff.pdf)  
+   Link: <a href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thejournalofcosmology.com/Puthoff.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Operation Trojan Horse (book)  
-   Link: [https://en.wikipedia.org/wiki/Operation_Trojan_Horse_%28book%29](https://en.wikipedia.org/wiki/Operation_Trojan_Horse_%28book%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Operation_Trojan_Horse_%28book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Trojan_Horse_%28book%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 7. <a id="endnote-7"></a>
    Source: earthtech.org  
    Title: Earth Tech Hal Puthoff  
-   Link: [https://earthtech.org/pubs/puthoff/](https://earthtech.org/pubs/puthoff/)  
+   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Cryptoterrestrial hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis](https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptoterrestrial_hypothesis</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Harold E. Puthoff  
-   Link: [https://en.wikipedia.org/wiki/Harold_E._Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Interdimensional UFO hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis](https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 16. <a id="endnote-16"></a>
    Source: thejournalofcosmology.com  
-   Link: [https://thejournalofcosmology.com/indexVol29CONTENTS.htm](https://thejournalofcosmology.com/indexVol29CONTENTS.htm)  
+   Link: <a href="https://thejournalofcosmology.com/indexVol29CONTENTS.htm" target="_blank" rel="noopener noreferrer nofollow">https://thejournalofcosmology.com/indexVol29CONTENTS.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Dr. Hal Puthoff: The Ultraterrestrial Hypothesis & AAWSAP Secrets  
-   Link: [https://www.youtube.com/watch?v=0wVbNPhmNms](https://www.youtube.com/watch?v=0wVbNPhmNms)  
+   Link: <a href="https://www.youtube.com/watch?v=0wVbNPhmNms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0wVbNPhmNms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - The Interdimensional &amp; Ultraterrestrial Hypothesis...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Jacques Vallée  
-   Link: [https://www.youtube.com/watch?v=vVkaGvR7k6U](https://www.youtube.com/watch?v=vVkaGvR7k6U)  
+   Link: <a href="https://www.youtube.com/watch?v=vVkaGvR7k6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vVkaGvR7k6U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cryptoterrestrial Hypothesis &amp; Non-Human Intelligence | Harvard &amp; Tech Researchers...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/557830077130261/](https://www.facebook.com/groups/552059654373970/posts/557830077130261/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/557830077130261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/557830077130261/</a>  
 
 25. <a id="endnote-25"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3549/2505](https://journalofscientificexploration.org/index.php/jse/article/view/3549/2505)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3549/2505" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3549/2505</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Hal Puthoff's Ultraterrestrials Paper PART 2 | Science of the Strange  
-   Link: [https://www.youtube.com/watch?v=SKGw7soZTnI](https://www.youtube.com/watch?v=SKGw7soZTnI)  
+   Link: <a href="https://www.youtube.com/watch?v=SKGw7soZTnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SKGw7soZTnI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2314 - Hal Puthoff...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gf_tKn9TaP8](https://www.youtube.com/watch?v=Gf_tKn9TaP8)  
+   Link: <a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gf_tKn9TaP8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Hal Puthoff: The Ultraterrestrial Hypothesis &amp; AAWSAP Secrets...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena](https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98](https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98)  
+   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/alienpresence/posts/5328246287266031/](https://www.facebook.com/groups/alienpresence/posts/5328246287266031/)  
+   Link: <a href="https://www.facebook.com/groups/alienpresence/posts/5328246287266031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/alienpresence/posts/5328246287266031/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 32. <a id="endnote-32"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/](https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/)  
+   Link: <a href="https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/</a>  
 
 34. <a id="endnote-34"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/unidentified/cast/hal-puthoff](https://www.history.co.uk/shows/unidentified/cast/hal-puthoff)  
+   Link: <a href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/cast/hal-puthoff</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/](https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/)  
+   Link: <a href="https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/remoteviewingadmin/posts/10158523488321822/</a>

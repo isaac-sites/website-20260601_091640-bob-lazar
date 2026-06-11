@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-afosi-service/
 description: Focused pages that expand on AFOSI Record.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Richard_Doty_5b897d_afosi_service_record_44b7dd
-parent_title: AFOSI Record | Was Richard Doty an Insider or Disinformer?
+parent_title: AFOSI Record
 parent_nav_short_title: AFOSI Record
 parent_permalink: /afosi-record/
 ---

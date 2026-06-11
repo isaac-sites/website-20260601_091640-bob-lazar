@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /skinwalker-0286bd/
 nav_short_title: Private Files
 title: Why Skinwalker Evidence Remains Hard to Check
-title_full: Why Skinwalker Evidence Remains Hard to Check | Skinwalker
+title_full: Why Skinwalker Evidence Remains Hard to Check
 display_title_short: Private Files
 display_title: Private Files
 heading_title: Why Skinwalker Evidence Remains Hard to Check
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Skinwalker Ranch Defines Kelleher's Reputation | Kelleher
+parent_title: Why Skinwalker Ranch Defines Kelleher's Reputation
 parent_permalink: /skinwalker-0286bd/
 parent_nav_short_title: Skinwalker
 parent_heading_title: Why Skinwalker Ranch Defines Kelleher's Reputation
@@ -247,7 +247,7 @@ prev_link:
   permalink: /own-sighting/
   short_title: Own Sighting
   heading_title: What Did Kelleher Actually See at Skinwalker?
-date: '2026-06-09 03:07:44 '
+date: '2026-06-11 21:07:55 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_
 
 ## Introduction
 
-One of the central credibility problems in [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) work is not simply what was reported, but what was never made available for independent inspection. During the National Institute for Discovery Science (NIDS) investigation of the ranch, Kelleher and colleagues described years of surveillance, witness interviews, field observations and internal documentation. Yet most of the material that would allow outsiders to evaluate the strongest claims remained private. The result is an unusual situation: Skinwalker Ranch became one of the most famous paranormal investigations in modern America, but much of its evidential foundation is inaccessible to independent researchers.
-
+One of the central credibility problems in Colm Kelleher’s [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) work is not simply what was reported, but what was never made available for independent inspection. During the National Institute for Discovery Science (NIDS) investigation of the ranch, Kelleher and colleagues described years of surveillance, witness interviews, field observations and internal documentation. Yet most of the material that would allow outsiders to evaluate the strongest claims remained private. The result is an unusual situation: [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch became one of the most famous paranormal investigations in modern America, but much of its evidential foundation is inaccessible to independent researchers.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1-dark.svg" | relative_url }}" alt="Private Files illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For supporters, this reflects the realities of a privately funded investigation operating on private land. For critics, it creates a basic scientific problem. Extraordinary claims can be discussed, repeated and expanded through books and interviews, but without access to raw records, chain-of-custody documentation, complete datasets and failed observations, outsiders cannot meaningfully audit the conclusions. That gap remains one of the most persistent challenges to Kelleher’s credibility as an investigator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
 
 ## What NIDS made public and what stayed private
 
-NIDS was not a university laboratory, government research programme or peer-reviewed scientific consortium. It was a privately funded organisation created by aerospace entrepreneur Robert Bigelow to investigate anomalous phenomena, including UFO reports, cattle mutilations and [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch. Kelleher served as a leading investigator during the ranch years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span>
+NIDS was not a university laboratory, government research programme or peer-reviewed scientific consortium. It was a privately funded organisation created by aerospace entrepreneur Robert Bigelow to investigate anomalous phenomena, including UFO reports, cattle mutilations and Skinwalker Ranch. Kelleher served as a leading investigator during the ranch years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span>
 
 The public record consists largely of:
 
@@ -274,7 +273,6 @@ The public record consists largely of:
 * Later presentations, talks and books connected to Bigelow Aerospace Advanced Space Studies and AAWSAP-related discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/huntforskinwalke0000kell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveHunt for the skinwalker: science confronts the unexplained...27 Sept 2021 — Hunt for the skinwalker: science confronts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksHunt for the Skinwalker: Science Confronts...The author of the controversial bestseller Brain Trust brings his scientific ex...</span></span></span>
 
 What remains largely unavailable includes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,15 +290,11 @@ This distinction matters because public accounts mainly present notable incident
 
 Even sympathetic descriptions of the ranch acknowledge that many reported phenomena were transient, sporadic and difficult to capture instrumentally. That makes access to complete records especially important, because isolated anecdotes become harder to evaluate without the surrounding dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Rancho_Skinwalker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rancho Skinwalker</span><span class="citation-popover-snippet">Rancho Skinwalker</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D4CrhcYXk_4" title="The SkinWalker Ranch reality check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer">The SkinWalker Ranch reality check</a></p><p class="youtube-embed-meta">Channel: Neptunium &middot; Views: 11.8K &middot; Uploaded: July 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D4CrhcYXk_4">Open on YouTube</a></p></div></div></div>
-
 ## Why private protocols weaken public confidence
 
 The strongest criticism of the NIDS investigation is not that unusual events were impossible. It is that the investigation never produced a body of evidence that outside specialists could independently test.
 
 In mainstream scientific practice, extraordinary findings gain credibility through mechanisms such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -320,7 +314,6 @@ For example, Kelleher and Knapp described years of surveillance efforts and nume
 
 The problem became more significant as the ranch acquired greater cultural importance. Once Skinwalker Ranch began influencing later government-linked UFO discussions, questions naturally expanded from “what happened?” to “what evidence actually exists?”
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-2-dark.svg" | relative_url }}" alt="Private Files illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing negative data problem
 
@@ -334,7 +327,6 @@ Former NIDS members have argued that thousands of reports and observations were 
 
 However, because the complete archive is not publicly available, external researchers cannot easily determine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How many anomalous claims were rejected.
@@ -347,15 +339,13 @@ However, because the complete archive is not publicly available, external resear
 
 That missing context makes it difficult to measure the true strength of the remaining unexplained cases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LIGywfeBmUc" title="71. Connecting Alzheimer&#x27;s, Cows, and Mutilations - with COLM A. KELLEHER (Part 1-2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LIGywfeBmUc" target="_blank" rel="noopener noreferrer">71. Connecting Alzheimer&#x27;s, Cows, and Mutilations - with COLM A. KELLEHER (Part 1-2)</a></p><p class="youtube-embed-meta">Channel: Eric Norcross</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LIGywfeBmUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LIGywfeBmUc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D4CrhcYXk_4" title="The SkinWalker Ranch reality check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer">The SkinWalker Ranch reality check</a></p><p class="youtube-embed-meta">Channel: Neptunium &middot; Views: 11.8K &middot; Uploaded: July 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D4CrhcYXk_4">Open on YouTube</a></p></div></div></div>
 
 ## Why supporters still consider the files significant
 
-Supporters of Kelleher generally argue that the absence of [public records]({{ 'documents/' | relative_url }}) should not automatically be treated as evidence against the claims.
+Supporters of Kelleher generally argue that the absence of public records should not automatically be treated as evidence against the claims.
 
 Several arguments are commonly advanced:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -372,7 +362,6 @@ Supporters also point to the fact that Skinwalker Ranch attracted the attention 
 From this perspective, the existence of extensive private files is presented as evidence that the investigation was deeper than the public record suggests.
 
 The difficulty is that this argument depends heavily on inferred credibility rather than publicly examinable material. The files may contain valuable information, but their evidential value remains largely unknown to outsiders until they can be independently reviewed.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-3-dark.svg" | relative_url }}" alt="Private Files illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics interpret the audit gap
@@ -391,9 +380,9 @@ That distinction is often lost in public [debate]({{ 'debate-020cbc/' | relative
 
 The Skinwalker archive issue sits at the centre of assessments of Colm Kelleher's reliability.
 
-On one hand, Kelleher's involvement was unusually substantial. He was not commenting from a distance. He led investigations, worked directly with witnesses, spent years on the project and later became involved with related government-linked UFO research. That level of involvement distinguishes him from many media personalities in the field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the ImpossibleKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp and Skinwalkers at...</span></span></span>
+On one hand, Kelleher's involvement was unusually substantial. He was not commenting from a distance. He led investigations, worked directly with witnesses, spent years on the project and later became involved with related government-linked UFO research. That level of involvement distinguishes him from many media personalities in the field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the ImpossibleKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp and Skinwalkers at...</span></span></span>
 
-On the other hand, his reputation depends heavily on claims that outside researchers cannot fully verify. The more dramatic the reported phenomena become — including later discussions linking UFOs, poltergeist-like events, unusual creatures and so-called [hitchhiker effects]({{ 'hitchhikers/' | relative_url }}) — the more important independent evidence becomes. Yet the public record remains dominated by testimony, summaries and retrospective accounts rather than openly auditable datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the ImpossibleKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp and Skinwalkers at...</span></span></span>
+On the other hand, his reputation depends heavily on claims that outside researchers cannot fully verify. The more dramatic the reported phenomena become — including later discussions linking UFOs, poltergeist-like events, unusual creatures and so-called hitchhiker effects — the more important independent evidence becomes. Yet the public record remains dominated by testimony, summaries and retrospective accounts rather than openly auditable datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the ImpossibleKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp and Skinwalkers at...</span></span></span>
 
 As a result, Skinwalker Ranch produces two very different readings of Kelleher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
 
@@ -402,10 +391,6 @@ Supporters see a scientist who spent years investigating difficult phenomena and
 Critics see an investigator whose most famous case ultimately rests on records that cannot be independently checked, replicated or comprehensively reviewed.
 
 That tension remains unresolved. It is one reason Skinwalker Ranch continues to function as the defining test case in debates about Kelleher's credibility. The ranch did not fail because it lacked stories, witnesses or institutional interest. It remains controversial because its strongest evidential claims are still largely locked behind private archives that outsiders cannot meaningfully audit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/huntforskinwalke0000kell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveHunt for the skinwalker: science confronts the unexplained...27 Sept 2021 — Hunt for the skinwalker: science confronts...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VdVlvoNCgcI" title="Welcome to Thames Society of Paranormal Investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VdVlvoNCgcI" target="_blank" rel="noopener noreferrer">Welcome to Thames Society of Paranormal Investigations</a></p><p class="youtube-embed-meta">Channel: Thames Society of Paranormal Investigations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VdVlvoNCgcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VdVlvoNCgcI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -524,15 +509,15 @@ That tension remains unresolved. It is one reason Skinwalker Ranch continues to 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket"><img src="https://i.ebayimg.com/images/g/jPMAAeSwZohp1Qvr/s-l225.jpg" alt="Listing image for Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Paranormal Activity Live On Stage Personalised Souvenir Mock Memorabilia Ticket</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +525,15 @@ That tension remains unresolved. It is one reason Skinwalker Ranch continues to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon"><img src="https://i.ebayimg.com/images/g/odYAAeSwP9hpkhTl/s-l225.jpg" alt="Listing image for 2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2025 LEAF METAL POP CENTURY CHEVY CHASE BLUE PRISMATIC AUTO 2/7 National Lampoon</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +541,31 @@ That tension remains unresolved. It is one reason Skinwalker Ranch continues to 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor"><img src="https://i.ebayimg.com/images/g/6oAAAeSw1uBqIOd9/s-l225.jpg" alt="Listing image for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue"><img src="https://i.ebayimg.com/images/g/6ZwAAeSwgfBqHyqR/s-l225.jpg" alt="Listing image for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +573,7 @@ That tension remains unresolved. It is one reason Skinwalker Ranch continues to 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="why-skinwalker-evidence-remains-hard-to-check-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,88 +789,88 @@ That tension remains unresolved. It is one reason Skinwalker Ranch continues to 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: [https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science](https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
 3. <a id="endnote-3"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the ImpossibleKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp and Skinwalkers at...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/huntforskinwalke0000kell](https://archive.org/details/huntforskinwalke0000kell)  
+   Link: <a href="https://archive.org/details/huntforskinwalke0000kell" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/huntforskinwalke0000kell</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveHunt for the skinwalker: science confronts the unexplained...27 Sept 2021 — Hunt for the skinwalker: science confronts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC](https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC)  
+   Link: <a href="https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksHunt for the Skinwalker: Science Confronts...The author of the controversial bestseller Brain Trust brings his scientific ex...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Rancho Skinwalker  
-   Link: [https://es.wikipedia.org/wiki/Rancho_Skinwalker](https://es.wikipedia.org/wiki/Rancho_Skinwalker)  
+   Link: <a href="https://es.wikipedia.org/wiki/Rancho_Skinwalker" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Rancho_Skinwalker</a>  
 
 7. <a id="endnote-7"></a>
    Source: amazon.co.uk  
    Title: Hunt for the Skinwalker: Science Confronts  
-   Link: [https://www.amazon.co.uk/Hunt-Skinwalker-Science-Confronts-Unexplained-ebook/dp/B000FCKKXU](https://www.amazon.co.uk/Hunt-Skinwalker-Science-Confronts-Unexplained-ebook/dp/B000FCKKXU)  
+   Link: <a href="https://www.amazon.co.uk/Hunt-Skinwalker-Science-Confronts-Unexplained-ebook/dp/B000FCKKXU" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hunt-Skinwalker-Science-Confronts-Unexplained-ebook/dp/B000FCKKXU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKScientists investigate unexplained phenomena at Utah&#x27;s Skinwalker Ranch, including UFOs, mutilated cattle, and mysterious creatu...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1663576868286006/](https://www.facebook.com/groups/1065166071460425/posts/1663576868286006/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1663576868286006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1663576868286006/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unexplained Paranormal Mysteries | The Secret ofDr. Colm Kelleher headed up the NIDS study...The history of the place is intriguing bec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Hoax Or A Hub Of Paranormal Activity?Skinwalker Ranch became Bigelow&#x27;s personal playground and NIDSCi claimed to have e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/](https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/)  
+   Link: <a href="https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DISTURBING Truth About SkinWalker RanchANOTHER DSOCUMENTARY ON THE SHAKY GROUND SKINWALKER RANCH SITS ON. The reason the DOD dropped...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D4CrhcYXk_4](https://www.youtube.com/watch?v=D4CrhcYXk_4)  
+   Link: <a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4CrhcYXk_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkinWalker Ranch reality checkIn this video, Neptunium is reviewing the Skinwalker Ranch TV show for a scientific reality check, Most...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch” on the His- tory Channel, claimed in 2020 that he was hit with a dan- gerous burst of radiation after looking into a ho...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mountainandmain-ut.com  
-   Link: [https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah](https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah)  
+   Link: <a href="https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah" target="_blank" rel="noopener noreferrer nofollow">https://www.mountainandmain-ut.com/front-center/are-we-alone-the-view-from-utah</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain &amp; Main MagazineSkinwalker, Utah, and the Search for Other Life — Mountain &amp; Main...Knapp and his collaborator Colm Kelleher, th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/](https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>famous Skinwalker Ranch, a paranormal hotspot bordering the Ute Indian...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713](https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713)  
+   Link: <a href="https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ch” can have a detrimental effect on viewers who may not possess...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/](https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ccfcj0/i_believe_the_skinwalker_ranch_show_is_100_fake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estate mogul), George Knapp, Colm Kelleher, Hal Puthoff, and...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/posts/could-the-paranormal-activity-at-skinwalker-ranch-be-artificially-engineered-dr-/818679190928552/](https://www.facebook.com/GaiaUnexplained/posts/could-the-paranormal-activity-at-skinwalker-ranch-be-artificially-engineered-dr-/818679190928552/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/could-the-paranormal-activity-at-skinwalker-ranch-be-artificially-engineered-dr-/818679190928552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/could-the-paranormal-activity-at-skinwalker-ranch-be-artificially-engineered-dr-/818679190928552/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>highest level of priesthood, but chose to use his power to...Read more...</p></details>

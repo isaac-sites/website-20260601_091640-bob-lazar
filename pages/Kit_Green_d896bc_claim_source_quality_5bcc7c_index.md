@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-claim-source-quality/
 description: Focused pages that expand on Claim Sources.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Kit_Green_d896bc_claim_source_quality_5bcc7c
-parent_title: Claim Sources | How Credible Is Kit Green's UAP Story?
+parent_title: Claim Sources
 parent_nav_short_title: Claim Sources
 parent_permalink: /claim-sources/
 ---

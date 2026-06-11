@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /was-richard-doty-an-insider-or/
 nav_short_title: Media Legacy
 title: How Did Media Turn Doty Into UFO Mythology?
-title_full: How Did Media Turn Doty Into UFO Mythology? | Doty
+title_full: How Did Media Turn Doty Into UFO Mythology?
 display_title_short: Media Legacy
 display_title: Media Legacy
 heading_title: How Did Media Turn Doty Into UFO Mythology?
@@ -289,7 +289,7 @@ next_link:
   permalink: /mj-12/
   short_title: MJ 12
   heading_title: Why Are the MJ 12 Documents So Disputed?
-date: '2026-06-09 02:54:45 '
+date: '2026-06-11 21:02:45 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview-s
 
 ## Introduction
 
-Media turned [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }}) into UFO mythology by making him both a source and a warning sign. In documentaries, television specials, streaming programmes and online discussion, Doty is usually presented as a former Air Force Office of Special Investigations figure who helped seed or amplify UFO stories while also claiming access to deeper secrets. That double role is the core “[Mirage Men]({{ 'mirage-men/' | relative_url }}) effect”: the more Doty is interviewed as an insider, the harder it becomes for audiences to separate possible historical disinformation from present-day performance, confession, myth-making and entertainment.
-
+Media turned Richard Doty into UFO mythology by making him both a source and a warning sign. In documentaries, television specials, streaming programmes and online discussion, Doty is usually presented as a former Air Force Office of Special Investigations figure who helped seed or amplify UFO stories while also claiming access to deeper secrets. That double role is the core “[Mirage Men]({{ 'mirage-men/' | relative_url }}) effect”: the more Doty is interviewed as an insider, the harder it becomes for audiences to separate possible historical disinformation from present-day performance, confession, myth-making and entertainment.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview.webp" | relative_url }}" alt="Overview image for Media Legacy" loading="eager" decoding="sync" fetchpriority="high">
 The important point is not simply that Doty became famous. It is that fame changed how his claims are received. A verified AFOSI background gives him a recognisable intelligence-community aura, but media exposure does not verify the alien-related claims attached to him. AFOSI’s public mission is criminal investigation and counterintelligence, not public UFO disclosure, and the gap between a real institutional role and sweeping extraterrestrial claims is where Doty’s media legacy sits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">air force office of special investigations</span><span class="citation-popover-snippet">&gt; Office of Special Investigations &gt; Display...</span></span></span>
@@ -322,7 +321,6 @@ The Guardian’s feature on *Mirage Men* summarised the film’s [Bennewitz]({{ 
 
 That portrayal made Doty memorable, but it also created a trap. Once a documentary makes someone the face of disinformation, every later appearance can be read two ways. Is he confessing? Is he continuing the operation? Is he embellishing for attention? Or is he mixing real experience with invented mythology? The film does not remove those questions; it makes them unavoidable.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-1-dark.svg" | relative_url }}" alt="Media Legacy illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Documentaries Amplify Contested Claims
 
@@ -332,7 +330,7 @@ This is especially important because *Mirage Men* and related coverage operate i
 
 The amplification problem works in several ways:
 
-* **[Authority transfer]({{ 'authority/' | relative_url }}):** Doty’s genuine AFOSI association can be made to lend weight to claims that are not independently documented.
+* **[Authority]({{ 'authority/' | relative_url }}) transfer:** Doty’s genuine AFOSI association can be made to lend weight to claims that are not independently documented.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,14 +342,13 @@ The amplification problem works in several ways:
 
 That does not mean documentaries are useless. *Mirage Men* remains valuable because it teaches viewers to ask who benefits from a claim, how it travelled, and whether a source’s institutional aura is being mistaken for proof. But its own success also helped make Doty an enduring character in the very mythology it was examining.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pfR18lm4ADs" title="Mirage Men Official Trailer (2014) - American UFO Documentary HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pfR18lm4ADs" target="_blank" rel="noopener noreferrer">Mirage Men Official Trailer (2014) - American UFO Documentary HD</a></p><p class="youtube-embed-meta">Channel: Rotten Tomatoes Indie &middot; Views: 72.9K &middot; Uploaded: May 2014 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pfR18lm4ADs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pfR18lm4ADs">Open on YouTube</a></p></div></div></div>
 
 ## The Bennewitz Story as Media Template
 
 The Paul Bennewitz episode is the main reason Doty’s media image has moral force. Bennewitz was not just another believer in a strange story; he is usually portrayed as a civilian whose interest in signals and lights near Kirtland Air Force Base was redirected into an elaborate alien narrative. In the *Mirage Men* frame, Doty’s significance lies less in proving or disproving aliens and more in showing how a vulnerable witness or researcher could be manipulated through official-looking attention.
 
-Wired’s interview with Pilkington described the book’s subject as deception, manipulation and psychological warfare in the UFO field, and it specifically tied Doty to the [Bennewitz affair]({{ 'bennewitz/' | relative_url }}), including the claim that Bennewitz came to believe he was decoding alien communications connected to activity near Kirtland. Pilkington’s interpretation was that Bennewitz was deliberately targeted to spread falsehoods into the UFO community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
+Wired’s interview with Pilkington described the book’s subject as deception, manipulation and psychological warfare in the UFO field, and it specifically tied Doty to the Bennewitz affair, including the claim that Bennewitz came to believe he was decoding alien communications connected to activity near Kirtland. Pilkington’s interpretation was that Bennewitz was deliberately targeted to spread falsehoods into the UFO community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
 
 Media retellings often use Bennewitz as a before-and-after story: an engineer notices something unusual, official-linked figures engage him, the story becomes more elaborate, and the human cost becomes severe. The strength of that template is that it makes disinformation concrete. The weakness is that it can flatten unresolved details into a clean villain-and-victim narrative. Doty’s role is central to many accounts, but the full chain of authorisation, the precise boundary between official tasking and personal initiative, and the involvement of other actors remain difficult to verify from public records.
 
@@ -365,7 +362,6 @@ The programme matters because it shows that the “Doty effect” did not begin 
 
 This is a key continuity in Doty’s media legacy. The public did not merely receive claims; it received claims packaged as hidden access. The viewer was invited to believe that secrecy itself was evidence. That format has remained powerful in later UAP media, where former officials, contractors and anonymous sources often carry more persuasive force than the documents or sensor data available to the public.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-2-dark.svg" | relative_url }}" alt="Media Legacy illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Mirage Men Effect in Internet UFO Culture
 
@@ -376,7 +372,6 @@ That circulation does not necessarily improve evidential quality. AARO’s 2024 
 This is where Doty’s legacy becomes bigger than one man. In online debate, “remember Doty” can be used as a sceptical brake: a reminder that an intelligence-linked source may be manipulating the audience. But it can also become a conspiracy shortcut: if Doty deceived people before, then any current confusion must be another controlled operation. Both moves can distort assessment. One is too trusting of the disinformation explanation; the other is too quick to dismiss every witness, document or anomaly by association.
 
 The better lesson is narrower and more useful: when a claim travels through personalities with a history of admitted or alleged deception, the chain of custody matters. Who first said it? Was it recorded at the time? Are there documents? Do the documents have provenance? Has any independent institution verified the claim? Has the story changed after media attention?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/awsv66J31S8" title="60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer">60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 123.9K &middot; Uploaded: June 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=awsv66J31S8">Open on YouTube</a></p></div></div></div>
 
@@ -390,7 +385,6 @@ That official assessment does not settle every UAP question, and critics of AARO
 
 Doty’s continued appearances in UFO programming also show how the media economy rewards ambiguity. Streaming pages and programme descriptions still frame him around disinformation, Bennewitz and alleged insider knowledge, including recent documentary episodes that present the Bennewitz case as a story of counterintelligence deception and ask whether Doty himself was part of a larger scheme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TVProject Seven Lambs</span><span class="citation-popover-snippet">TVProject Seven Lambs</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIx44GSOfHw" title="&#x27;They Also Found a Live Alien&#x27; Ep. 4 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIx44GSOfHw" target="_blank" rel="noopener noreferrer">&#x27;They Also Found a Live Alien&#x27; Ep. 4 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 2.2M &middot; Uploaded: September 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIx44GSOfHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIx44GSOfHw">Open on YouTube</a></p></div></div></div>
 
 ## What the Media Legacy Means for Doty’s Credibility
@@ -400,7 +394,6 @@ Doty’s media legacy weakens any simple claim that he should be treated as a cl
 At the same time, dismissing him as only a fantasist misses why he matters. The most evidence-supported part of the Doty story is not that he proves extraterrestrial contact. It is that he illustrates how UFO narratives can be shaped by people with real institutional proximity, and how media systems can turn that ambiguity into enduring mythology. The verified existence of AFOSI counterintelligence work makes the setting plausible; the public evidence does not turn Doty’s more extraordinary claims into established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">mil Air Force Office of Special Investigations</span></span></span>
 
 A careful assessment should therefore separate four layers:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -412,7 +405,6 @@ A careful assessment should therefore separate four layers:
 </div>
 
 The Mirage Men effect is ultimately a credibility filter. It does not prove that every UFO claim is false, and it does not prove that every intelligence-linked source is lying. It shows why the reader should resist the emotional pull of the insider figure. In Doty’s case, the media made the mythology visible — but it also made him part of the mythology.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-3-dark.svg" | relative_url }}" alt="Media Legacy illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -428,16 +420,16 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Shows how authority and media exposure shape public UFO discourse.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -445,16 +437,16 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Directly addresses how media, intelligence stories and UFO mythology intersect around Doty.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -462,16 +454,16 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Explains the creation of influential UFO narratives later amplified through media.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -479,16 +471,16 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Helps readers understand how media turns fringe stories into cultural myths.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -496,7 +488,7 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -533,15 +525,15 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG"><img src="https://i.ebayimg.com/images/g/jpMAAeSwc51pci-9/s-l225.jpg" alt="Listing image for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster â€“ Midnight UFO Encounter Documentary Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +541,15 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRINT AD, 2021 Showtime UFO Documentary Poster JJ Abrams Are You Ready? Stars"><img src="{{ '/assets/images/marketplace-covers/380881229de6ddaa439a.jpg' | relative_url }}" alt="Listing image for PRINT AD, 2021 Showtime UFO Documentary Poster JJ Abrams Are You Ready? Stars" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="https://i.ebayimg.com/images/g/bLgAAeSwIDhqDxIn/s-l225.jpg" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PRINT AD, 2021 Showtime UFO Documentary Poster JJ Abrams Are You Ready? Stars</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +557,15 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster"><img src="{{ '/assets/images/marketplace-covers/8120256ff2a3f8df6df1.jpg' | relative_url }}" alt="Listing image for 73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="https://i.ebayimg.com/images/g/8wgAAOSweepmbp4T/s-l225.jpg" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">73999 UFO&#x27;s Are Real Movie 1979 Documentary Wall Decor Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +573,15 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster â€“ UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster â€“ UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="https://i.ebayimg.com/images/g/Wo8AAOSwjsNmv2Mp/s-l225.jpg" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster â€“ UFO Landing Farm Documentary Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,7 +589,7 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books" data-ebay-reference="media-legacy-how-did-media-turn-doty-into-ufo-mythology-richard-doty-ufo-documentary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-did-media-turn-doty-into-ufo-mythology-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -813,170 +805,170 @@ The Mirage Men effect is ultimately a credibility filter. It does not prove that
 1. <a id="endnote-1"></a>
    Source: osi.af.mil  
    Title: air force office of special investigations  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Office of Special Investigations &gt; Display...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
+   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO Cover Up? Live  
-   Link: [https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live](https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Cover_Up%3F_Live</a>  
 
 6. <a id="endnote-6"></a>
    Source: tv.apple.com  
    Title: TVProject Seven Lambs  
-   Link: [https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62](https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62)  
+   Link: <a href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62</a>  
 
 7. <a id="endnote-7"></a>
    Source: tv.apple.com  
    Title: TVTargeted Disinformation  
-   Link: [https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
 
 8. <a id="endnote-8"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/</a>  
 
 9. <a id="endnote-9"></a>
    Source: osi.af.mil  
    Title: mil Air Force Office of Special Investigations  
-   Link: [https://www.osi.af.mil/](https://www.osi.af.mil/)  
+   Link: <a href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s](https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s)  
+   Link: <a href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s</a>  
 
 11. <a id="endnote-11"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/de/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?l=en&showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62](https://tv.apple.com/de/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?l=en&showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62)  
+   Link: <a href="https://tv.apple.com/de/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?l=en&amp;showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/de/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?l=en&amp;showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: [https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations](https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations)  
+   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
 
 20. <a id="endnote-20"></a>
    Source: themindreels.com  
    Title: mirage men 2013 john lundberg roland denning kypros kyprianou  
-   Link: [https://themindreels.com/2014/09/29/mirage-men-2013-john-lundberg-roland-denning-kypros-kyprianou/](https://themindreels.com/2014/09/29/mirage-men-2013-john-lundberg-roland-denning-kypros-kyprianou/)  
+   Link: <a href="https://themindreels.com/2014/09/29/mirage-men-2013-john-lundberg-roland-denning-kypros-kyprianou/" target="_blank" rel="noopener noreferrer nofollow">https://themindreels.com/2014/09/29/mirage-men-2013-john-lundberg-roland-denning-kypros-kyprianou/</a>  
 
 21. <a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 22. <a id="endnote-22"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/film/556599/doty](https://www.e-flux.com/film/556599/doty)  
+   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AirForceOSI/?locale=en_GB](https://www.facebook.com/AirForceOSI/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/AirForceOSI/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/?locale=en_GB</a>  
 
 24. <a id="endnote-24"></a>
    Source: filmsandfestivals.britishcouncil.org  
    Title: mirage men  
-   Link: [https://filmsandfestivals.britishcouncil.org/projects/mirage-men](https://filmsandfestivals.britishcouncil.org/projects/mirage-men)  
+   Link: <a href="https://filmsandfestivals.britishcouncil.org/projects/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://filmsandfestivals.britishcouncil.org/projects/mirage-men</a>  
 
 25. <a id="endnote-25"></a>
    Source: dailygrail.com  
    Title: Mirage Men  
-   Link: [https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/](https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/)  
+   Link: <a href="https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/</a>  
 
 26. <a id="endnote-26"></a>
    Source: letterboxd.com  
    Title: mirage men  
-   Link: [https://letterboxd.com/film/mirage-men/](https://letterboxd.com/film/mirage-men/)  
+   Link: <a href="https://letterboxd.com/film/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/mirage-men/</a>  
 
 27. <a id="endnote-27"></a>
    Source: letterboxd.com  
    Title: mirage men  
-   Link: [https://letterboxd.com/comrade_yui/film/mirage-men/](https://letterboxd.com/comrade_yui/film/mirage-men/)  
+   Link: <a href="https://letterboxd.com/comrade_yui/film/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/comrade_yui/film/mirage-men/</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Air Force Officer FINALLY Comes Clean About UFO's | UFO Whistleblower #1  
-   Link: [https://www.youtube.com/watch?v=xbRdAlFThu4](https://www.youtube.com/watch?v=xbRdAlFThu4)  
+   Link: <a href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xbRdAlFThu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mirage Men Official Trailer (2014) introduces how media exposure transformed former intelligence agent Richard Doty into a complex, s...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Part Two: How The U.S. Government Used Aliens To Destroy a Man's Mind  
-   Link: [https://www.youtube.com/watch?v=2cD5WETr_DA](https://www.youtube.com/watch?v=2cD5WETr_DA)  
+   Link: <a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: How the US Government Shaped the UFO Mythology  
-   Link: [https://www.youtube.com/watch?v=409SD8MJL7A](https://www.youtube.com/watch?v=409SD8MJL7A)  
+   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf](https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pfR18lm4ADs](https://www.youtube.com/watch?v=pfR18lm4ADs)  
+   Link: <a href="https://www.youtube.com/watch?v=pfR18lm4ADs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfR18lm4ADs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17nld9a/mirage_men_a_documentary_about_disinformation_and/](https://www.reddit.com/r/UFOs/comments/17nld9a/mirage_men_a_documentary_about_disinformation_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17nld9a/mirage_men_a_documentary_about_disinformation_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17nld9a/mirage_men_a_documentary_about_disinformation_and/</a>  
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-](https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-)  
+   Link: <a href="https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/](https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OMGTheWhyFiles/videos/hbos-ufo-doc-that-never-aired/1074497471336804/](https://www.facebook.com/OMGTheWhyFiles/videos/hbos-ufo-doc-that-never-aired/1074497471336804/)  
+   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/videos/hbos-ufo-doc-that-never-aired/1074497471336804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/videos/hbos-ufo-doc-that-never-aired/1074497471336804/</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/157lh26/lets_think_like_mirage_men/](https://www.reddit.com/r/UFOs/comments/157lh26/lets_think_like_mirage_men/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/157lh26/lets_think_like_mirage_men/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/157lh26/lets_think_like_mirage_men/</a>

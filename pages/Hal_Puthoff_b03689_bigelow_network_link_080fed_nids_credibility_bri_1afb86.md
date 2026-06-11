@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /bigelow-links/
 nav_short_title: NIDS bridge
 title: Did NIDS make Puthoff more credible?
-title_full: Did NIDS make Puthoff more credible? | Bigelow Links
+title_full: Did NIDS make Puthoff more credible?
 display_title_short: NIDS bridge
 display_title: NIDS bridge
 heading_title: Did NIDS make Puthoff more credible?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Bigelow Network Matters | Puthoff
+parent_title: Why the Bigelow Network Matters
 parent_permalink: /bigelow-links/
 parent_nav_short_title: Bigelow Links
 parent_heading_title: Why the Bigelow Network Matters
@@ -253,7 +253,7 @@ next_link:
   permalink: /patronage-risk/
   short_title: Patronage risk
   heading_title: When funding helps and hurts credibility
-date: '2026-06-09 03:02:41 '
+date: '2026-06-11 21:06:37 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credib
 ## Introduction
 
 The National Institute for Discovery Science, usually known as NIDS, occupies an unusual place in [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s credibility story. For supporters, NIDS showed that Puthoff was not simply a fringe paranormal enthusiast operating alone. He was part of a privately funded network that included scientists, former military officers, intelligence-linked figures, aerospace interests and long-time anomaly researchers. For sceptics, the same network raises concerns that paranormal beliefs, UFO claims and government connections became intertwined in ways that made extraordinary ideas appear more institutionally credible than the evidence justified.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1-dark.svg" | relative_url }}" alt="NIDS bridge illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension matters because NIDS became one of the key bridges between Puthoff’s earlier parapsychology work and his later role in modern UAP debates. The organisation sat at the point where [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) research, UFO investigations, Skinwalker Ranch claims and defence-adjacent contacts began overlapping in a single ecosystem. Whether that overlap strengthened or weakened Puthoff’s credibility remains one of the central disputes surrounding his public reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span>
@@ -276,9 +275,6 @@ That broader mission is important because it explains why Puthoff fit naturally 
 
 The best-known NIDS project became Skinwalker Ranch in Utah. After reports of UFOs, strange lights, animal mutilations, cryptid sightings and other unusual events, Bigelow purchased the property and funded investigations there. The ranch later became a major cultural symbol in paranormal and UFO discussions, but during the NIDS era it was essentially a private anomaly-research site. The organisation attempted to collect witness testimony, deploy monitoring equipment and document events that participants believed might represent a genuine unknown phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">xperienced many disturbing events and encounters like the Shermans...</span></span></span> One consequence of this approach was that NIDS never operated inside the boundaries of a normal academic discipline. It mixed subjects that most universities and mainstream scientific institutions treated separately or rejected entirely. UFO reports, psychic research and haunt-type claims could all end up being discussed within the same investigative framework. That institutional design later became a major factor in debates about Puthoff's credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newrepublic.com">[The New Republic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newrepublic.com</span><span class="citation-popover-title">government embrace ufos bad science</span><span class="citation-popover-snippet">The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w_xM3Cw3FZk" title="Ep. #72 - What If You Saw A UFO? - To The Stars Academy, The Belgian Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w_xM3Cw3FZk" target="_blank" rel="noopener noreferrer">Ep. #72 - What If You Saw A UFO? - To The Stars Academy, The Belgian Wave</a></p><p class="youtube-embed-meta">Channel: The What If? Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w_xM3Cw3FZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w_xM3Cw3FZk">Open on YouTube</a></p></div></div></div>
-
 ## Why Puthoff fitted the Bigelow circle
 
 Puthoff's connection to the Bigelow network made sense because his professional history already crossed several worlds that NIDS wanted to combine.
@@ -290,7 +286,6 @@ The Bigelow circle attracted several figures with similar profiles. Researchers 
 This network effect became increasingly important later. Many of the personalities associated with NIDS reappeared in subsequent organisations and projects linked to UAP investigations. The continuity is one reason journalists and critics often describe an "invisible college" of recurring researchers who moved through multiple anomaly programmes over several decades. NIDS was one of the earliest major hubs where those relationships became formalised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newrepublic.com">[The New Republic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newrepublic.com</span><span class="citation-popover-title">government embrace ufos bad science</span><span class="citation-popover-snippet">The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 For supporters, that continuity suggests that experienced investigators repeatedly encountered anomalies they considered worthy of further study. For sceptics, it suggests that the same small community kept reinforcing its own assumptions while carrying unresolved paranormal beliefs into newer UAP programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newrepublic.com">[The New Republic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newrepublic.com</span><span class="citation-popover-title">government embrace ufos bad science</span><span class="citation-popover-snippet">The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ds1sQRhwkJc" title="National Institute for Discovery Science | Mystery Wire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ds1sQRhwkJc" target="_blank" rel="noopener noreferrer">National Institute for Discovery Science | Mystery Wire</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 78.4K &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ds1sQRhwkJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ds1sQRhwkJc">Open on YouTube</a></p></div></div></div>
 
@@ -305,7 +300,6 @@ After NIDS and later Bigelow-linked projects, Puthoff increasingly became known 
 Supporters interpret the same history differently. They argue that Puthoff's willingness to investigate unpopular subjects demonstrates intellectual independence rather than gullibility. From that perspective, NIDS was valuable precisely because it explored cases that mainstream institutions ignored. They contend that unusual phenomena should not be dismissed merely because they resemble subjects traditionally associated with paranormal research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Stargate Project (U.S. Army unit</span><span class="citation-popover-snippet">Stargate Project (U.S. Army unit</span></span></span>
 
 This disagreement remains central to modern assessments of Puthoff. Critics often see continuity between remote viewing, Skinwalker Ranch and later UAP claims as evidence of a recurring pattern of weakly supported extraordinary beliefs. Supporters see continuity as evidence that researchers kept encountering unresolved anomalies across multiple domains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newrepublic.com">[The New Republic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newrepublic.com</span><span class="citation-popover-title">government embrace ufos bad science</span><span class="citation-popover-snippet">The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2021/08/ufos-explode-in-credulous-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">UFOs Explode in Credulous MediaNIDS primarily researched—and failed to prove—the supposed paranormal mysteries of a patch of desert in Ut...</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-2-dark.svg" | relative_url }}" alt="NIDS bridge illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters and sceptics read the same network
@@ -323,9 +317,7 @@ Supporters point to several factors:
 
 Under this interpretation, NIDS helped preserve research continuity during periods when government agencies showed little public interest in UFO reports.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KtE4kJ79yjc" title="UFO/UAP Disclosure Update with Eric W. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer">UFO/UAP Disclosure Update with Eric W. Davis</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 48.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KtE4kJ79yjc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-dark.svg" | relative_url }}" alt="NIDS bridge illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sceptical interpretation
 
 Critics focus on different aspects of the same record:
@@ -343,8 +335,7 @@ If the question is whether NIDS strengthened Puthoff's standing as a connected f
 
 If the question is whether NIDS validated the paranormal claims often associated with Puthoff's career, the answer is much less clear. Despite years of investigation, NIDS did not produce publicly accepted evidence proving psychic phenomena, supernatural entities or non-human visitation. Many of its most famous cases remain disputed, anecdotal or unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">xperienced many disturbing events and encounters like the Shermans...</span></span></span>, NIDS functions less as evidence for specific claims than as evidence about relationships and intellectual lineage. It shows how Puthoff's earlier parapsychology interests remained connected to later UAP investigations through the Bigelow network. Whether that continuity should increase confidence in his judgement or raise concerns about recurring assumptions is the question that continues to divide supporters and sceptics today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newrepublic.com">[The New Republic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newrepublic.com</span><span class="citation-popover-title">government embrace ufos bad science</span><span class="citation-popover-snippet">The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">The military-UFO complexNov 15, 2022 — So he and some allies invented a new program, the Advanced Aerospace Weapons Systems Application P...</span></span></span>
 
-
-<img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-dark.svg" | relative_url }}" alt="NIDS bridge illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KtE4kJ79yjc" title="UFO/UAP Disclosure Update with Eric W. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer">UFO/UAP Disclosure Update with Eric W. Davis</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 48.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KtE4kJ79yjc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,15 +454,15 @@ If the question is whether NIDS validated the paranormal claims often associated
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM"><img src="https://i.ebayimg.com/images/g/xugAAOSwazFlZj~J/s-l225.jpg" alt="Listing image for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +470,15 @@ If the question is whether NIDS validated the paranormal claims often associated
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor"><img src="https://i.ebayimg.com/images/g/6oAAAeSw1uBqIOd9/s-l225.jpg" alt="Listing image for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +486,15 @@ If the question is whether NIDS validated the paranormal claims often associated
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta"><img src="https://i.ebayimg.com/images/g/V10AAOSw6XtmYL5~/s-l225.jpg" alt="Listing image for Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Carrie Movie Script of 131 Pages Piper Laurie, Nancy Allen, John Travolta</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +502,15 @@ If the question is whether NIDS validated the paranormal claims often associated
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia"><img src="https://i.ebayimg.com/images/g/FaIAAeSwVNRpZ4~H/s-l225.jpg" alt="Listing image for House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +518,7 @@ If the question is whether NIDS validated the paranormal claims often associated
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nids-bridge-did-nids-make-puthoff-more-credible-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-nids-make-puthoff-more-credible-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-nids-make-puthoff-more-credible-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,106 +734,106 @@ If the question is whether NIDS validated the paranormal claims often associated
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: [https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science](https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Stargate Project (U.S. Army unit)  
-   Link: [https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 4. <a id="endnote-4"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969](https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969)  
+   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>xperienced many disturbing events and encounters like the Shermans...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complexNov 15, 2022 — So he and some allies invented a new program, the Advanced Aerospace Weapons Systems Application P...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Hindustan Aeronautics Limited  
-   Link: [https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited](https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan Aeronautics LimitedHindustan Aeronautics Limited (HAL) is an Indian public sector aerospace and defence company, headquarter...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFO/UAP Disclosure Update with Eric W. Davis  
-   Link: [https://www.youtube.com/watch?v=KtE4kJ79yjc](https://www.youtube.com/watch?v=KtE4kJ79yjc)  
+   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute for Discovery Science | Mystery Wire...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: National Institute for Discovery Science | Mystery Wire  
-   Link: [https://www.youtube.com/watch?v=ds1sQRhwkJc](https://www.youtube.com/watch?v=ds1sQRhwkJc)  
+   Link: <a href="https://www.youtube.com/watch?v=ds1sQRhwkJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ds1sQRhwkJc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon | Colm A. Kelleher - YouTube...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newrepublic.com  
    Title: government embrace ufos bad science  
-   Link: [https://newrepublic.com/article/162457/government-embrace-ufos-bad-science](https://newrepublic.com/article/162457/government-embrace-ufos-bad-science)  
+   Link: <a href="https://newrepublic.com/article/162457/government-embrace-ufos-bad-science" target="_blank" rel="noopener noreferrer nofollow">https://newrepublic.com/article/162457/government-embrace-ufos-bad-science</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New RepublicHow Washington Got Hooked on Flying Saucers21 May 2021 — NIDS primarily researched—and failed to prove—the supposed paran...</p></details>
    Published: May 2021  
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2021/08/ufos-explode-in-credulous-media/](https://skepticalinquirer.org/2021/08/ufos-explode-in-credulous-media/)  
+   Link: <a href="https://skepticalinquirer.org/2021/08/ufos-explode-in-credulous-media/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/ufos-explode-in-credulous-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Explode in Credulous MediaNIDS primarily researched—and failed to prove—the supposed paranormal mysteries of a patch of desert in Ut...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: halo-technologies.com  
-   Link: [https://www.halo-technologies.com/markets/shares/asx/hal](https://www.halo-technologies.com/markets/shares/asx/hal)  
+   Link: <a href="https://www.halo-technologies.com/markets/shares/asx/hal" target="_blank" rel="noopener noreferrer nofollow">https://www.halo-technologies.com/markets/shares/asx/hal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL (HAL) | ASX MarketThe current share price of Halo Technologies Holdings Ltd (HAL:ASX) is AUD$0.02. What is the 52-week high share pri...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: highsandlows.net.au  
-   Link: [https://www.highsandlows.net.au/collections/hal-studios?srsltid=AfmBOorOKYLVtGxfDWPe1oCXo5mB6sCRg-lEJi9ZZqhC_H7spfv3QF1F](https://www.highsandlows.net.au/collections/hal-studios?srsltid=AfmBOorOKYLVtGxfDWPe1oCXo5mB6sCRg-lEJi9ZZqhC_H7spfv3QF1F)  
+   Link: <a href="https://www.highsandlows.net.au/collections/hal-studios?srsltid=AfmBOorOKYLVtGxfDWPe1oCXo5mB6sCRg-lEJi9ZZqhC_H7spfv3QF1F" target="_blank" rel="noopener noreferrer nofollow">https://www.highsandlows.net.au/collections/hal-studios?srsltid=AfmBOorOKYLVtGxfDWPe1oCXo5mB6sCRg-lEJi9ZZqhC_H7spfv3QF1F</a>  
 
 13. <a id="endnote-13"></a>
    Source: halsystems.com.au  
-   Link: [https://www.halsystems.com.au/](https://www.halsystems.com.au/)  
+   Link: <a href="https://www.halsystems.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.halsystems.com.au/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL SystemsHAL is a predictive climate control solution that saves energy, while improving occupant comfort. HAL can operate in a wide va...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: asx.com.au  
-   Link: [https://www.asx.com.au/markets/company/HAL](https://www.asx.com.au/markets/company/HAL)  
+   Link: <a href="https://www.asx.com.au/markets/company/HAL" target="_blank" rel="noopener noreferrer nofollow">https://www.asx.com.au/markets/company/HAL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL share price and company information for ASX:HALView today&#x27;s HAL share price, options, bonds, hybrids and warrants. View announcements...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt39140714/](https://www.imdb.com/title/tt39140714/)  
+   Link: <a href="https://www.imdb.com/title/tt39140714/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt39140714/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HalFollows Hal Donaldson, a journalist who meets Doree, a musician. As his career takes him to places of suffering, he witnesses crisis a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/](https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff: r/UFOsWhile educated, credentialed, and intelligent, Puthoff is at best credulous or worse manipulative. Everyone intereste...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/](https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/)  
+   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Why FilesEric Davis (formerly of the National Institute for Discovery Science, NIDS, founded and operated by Robert Bigelow) and Admi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/](https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/p44bkl/uap_consciousness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &amp; Consciousness: r/UFOsConsciousness doesn&#x27;t cause wave function collapse in double slit experiment. It&#x27;s the act of measurement tha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/paranormalphilippinesoriginal/posts/ufo-alien-skeptics-that-turned-to-advocates/1395391539283909/](https://www.facebook.com/paranormalphilippinesoriginal/posts/ufo-alien-skeptics-that-turned-to-advocates/1395391539283909/)  
+   Link: <a href="https://www.facebook.com/paranormalphilippinesoriginal/posts/ufo-alien-skeptics-that-turned-to-advocates/1395391539283909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalphilippinesoriginal/posts/ufo-alien-skeptics-that-turned-to-advocates/1395391539283909/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO / Alien Skeptics that turned to AdvocatesThe billionaires: Robert Bigelow (see Skinwalker Ranch) Elon Musk - denies NHI existance, bu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L3FD/](https://www.globalplayer.com/podcasts/42L3FD/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L3FD/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L3FD/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WEAPONIZED with Jeremy Corbell &amp; George KnappThis multi-platform investigative series features exclusive interviews, never-before-seen fo...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hitchhikers/
 nav_short_title: Health claims
 title: Did hitchhiker reports point to real illness?
-title_full: Did hitchhiker reports point to real illness? | Hitchhikers
+title_full: Did hitchhiker reports point to real illness?
 display_title_short: Health claims
 display_title: Health claims
 heading_title: Did hitchhiker reports point to real illness?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Is The Hitchhiker Effect Claim? | Kelleher
+parent_title: What Is The Hitchhiker Effect Claim?
 parent_permalink: /hitchhikers/
 parent_nav_short_title: Hitchhikers
 parent_heading_title: What Is The Hitchhiker Effect Claim?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /contagion-model/
   short_title: Contagion model
   heading_title: Is the hitchhiker effect really contagious?
-date: '2026-06-09 03:08:20 '
+date: '2026-06-11 21:08:00 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_c
 
 ## Introduction
 
-The most serious part of [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s hitchhiker-effect narrative is not the reports of lights, apparitions or household disturbances. It is the suggestion that some people connected to [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) investigations later developed autoimmune diseases and other medical disorders. If true, that would move the discussion from unusual experiences into questions of public health, biological mechanisms and potential harm.
-
+The most serious part of Colm Kelleher’s hitchhiker-effect narrative is not the reports of lights, apparitions or household disturbances. It is the suggestion that some people connected to [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) investigations later developed autoimmune diseases and other medical disorders. If true, that would move the discussion from unusual experiences into questions of public health, biological mechanisms and potential harm.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-1-dark.svg" | relative_url }}" alt="Health claims illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that the public evidence does not currently establish a causal connection. Kelleher has repeatedly stated that autoimmune conditions appeared within some families involved in alleged hitchhiker cases, but the details available to outside researchers remain limited. Diagnoses alone do not demonstrate that an exposure caused an illness, especially when the conditions involved are relatively common, often develop gradually, and can arise from a complex mix of genetic, environmental and psychological factors. The result is a credibility challenge that sits at the centre of the wider [debate]({{ 'debate-020cbc/' | relative_url }}) around Kelleher’s claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 ## Which autoimmune conditions Kelleher says were reported?
 
-In his 2022 *EdgeScience* article on the [hitchhiker effect]({{ 'hitchhikers/' | relative_url }}), Kelleher wrote that investigators associated with AAWSAP observed autoimmune diseases in several families who allegedly experienced post-ranch phenomena. He did not present these as formally published epidemiological findings, but as observations emerging from case investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+In his 2022 *EdgeScience* article on the hitchhiker effect, Kelleher wrote that investigators associated with AAWSAP observed autoimmune diseases in several families who allegedly experienced post-ranch phenomena. He did not present these as formally published epidemiological findings, but as observations emerging from case investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 The conditions he has publicly named include:
 
@@ -280,9 +279,6 @@ One of the more frequently cited examples involves a woman reportedly diagnosed 
 
 A key limitation is that these cases have not been publicly released in the form expected for medical evaluation. There are no peer-reviewed case series, no anonymised patient records available for independent review, and no published statistical analysis showing disease rates among exposed and unexposed groups. As a result, outside observers are largely dependent on Kelleher’s descriptions of what investigators reportedly saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3wFYNAdFKFM" title="Autism Across The Lifespan: Evidence-Based Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3wFYNAdFKFM" target="_blank" rel="noopener noreferrer">Autism Across The Lifespan: Evidence-Based Update</a></p><p class="youtube-embed-meta">Channel: Ridley Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3wFYNAdFKFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3wFYNAdFKFM">Open on YouTube</a></p></div></div></div>
-
 ## Why timing alone cannot establish causation
 
 The strongest public version of the autoimmune argument is essentially chronological: unusual experiences allegedly occurred, and illnesses were diagnosed afterwards. That sequence may be emotionally compelling, but it is not enough to establish medical causation.
@@ -295,7 +291,6 @@ Another complication is selective reporting. People who believe they experienced
 
 Critics have therefore argued that Kelleher's public discussion often moves from observation to implication without providing enough information to eliminate ordinary explanations. Questions frequently raised include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What were the baseline rates of these illnesses in comparable populations?
@@ -303,12 +298,11 @@ Critics have therefore argued that Kelleher's public discussion often moves from
 * Were environmental exposures investigated?
 * Were diagnoses independently verified?
 * How many people reportedly exposed never became ill?
-* How many cases involved symptoms that existed before the alleged exposure? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...A bunch of other people he doesn&#x27;t name are linked to a range of &quot;autoi...</span></span></span>
+* How many cases involved symptoms that existed before the alleged exposure? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...A bunch of other people he doesn&#x27;t name are linked to a range of &quot;autoi...</span></span></span>
 
 </div>
 
 Without those answers, temporal association remains exactly that: an association.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-2-dark.svg" | relative_url }}" alt="Health claims illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kelleher's own caution is often overlooked
@@ -327,9 +321,6 @@ A third possibility is that the apparent cluster reflects coincidence, reporting
 
 The public record does not currently provide enough evidence to distinguish confidently between those possibilities.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_luU3I03JwE" title="Intro to Epidemiology: Crash Course Public Health #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_luU3I03JwE" target="_blank" rel="noopener noreferrer">Intro to Epidemiology: Crash Course Public Health #6</a></p><p class="youtube-embed-meta">Channel: CrashCourse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_luU3I03JwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_luU3I03JwE">Open on YouTube</a></p></div></div></div>
-
 ## What clinical evidence would actually be needed?
 
 The evidential gap becomes clearer when compared with how medicine normally investigates suspected environmental or occupational illness.
@@ -340,12 +331,11 @@ To support a credible causation claim, researchers would typically want:
 
 Every reported condition would need confirmation through [medical records]({{ 'medical-records/' | relative_url }}) rather than anecdotal descriptions. Diagnostic criteria, laboratory findings and specialist assessments would need to be documented.
 
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-dark.svg" | relative_url }}" alt="Health claims illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Clear timelines
 
 Investigators would need reliable information about when symptoms first appeared, when diagnoses were made, and whether warning signs existed before the alleged exposure.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-dark.svg" | relative_url }}" alt="Health claims illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_autoimmune_causation_7c59d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Control groups
 
 Researchers would need to compare exposed individuals with similar people who were not exposed. Without comparison groups, it is difficult to determine whether illness rates are unusual.
@@ -363,9 +353,6 @@ Findings would need publication in peer-reviewed medical or epidemiological lite
 Perhaps most importantly, researchers would need a plausible mechanism linking the alleged exposure to autoimmune disease. Modern medicine generally becomes more confident in causal claims when epidemiological evidence and biological mechanisms point in the same direction.
 
 At present, none of those requirements have been publicly satisfied to a level that would persuade mainstream medical researchers that a new disease-causing phenomenon has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2YK5vBUm9C8" title="What is Autoimmune Disease and How Does it Develop?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2YK5vBUm9C8" target="_blank" rel="noopener noreferrer">What is Autoimmune Disease and How Does it Develop?</a></p><p class="youtube-embed-meta">Channel: ClevaLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2YK5vBUm9C8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2YK5vBUm9C8">Open on YouTube</a></p></div></div></div>
 
 ## The credibility impact for Kelleher
 
@@ -494,15 +481,15 @@ That leaves the autoimmune question in an unresolved position. The reported diag
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5 Inch large Ghost guard iron on patch paranormal investigator"><img src="https://i.ebayimg.com/images/g/~bYAAeSwBpJoo37b/s-l225.jpg" alt="Listing image for 3.5 Inch large Ghost guard iron on patch paranormal investigator" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia"><img src="https://i.ebayimg.com/images/g/FaIAAeSwVNRpZ4~H/s-l225.jpg" alt="Listing image for House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">3.5 Inch large Ghost guard iron on patch paranormal investigator</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">House on Haunted Hill Script Signed Reprints Autograph Horror Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +497,15 @@ That leaves the autoimmune question in an unresolved position. The reported diag
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch"><img src="https://i.ebayimg.com/images/g/ahgAAeSwotdpklmL/s-l225.jpg" alt="Listing image for Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghosts Gravestones St Augustine FL John Stavely 2nd Ed 2015 Haunted"><img src="https://i.ebayimg.com/images/g/ctYAAeSwi69p-QQ6/s-l225.jpg" alt="Listing image for Ghosts Gravestones St Augustine FL John Stavely 2nd Ed 2015 Haunted" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunter - History, Science, &amp; Teamwork - Embroidered Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Ghosts Gravestones St Augustine FL John Stavely 2nd Ed 2015 Haunted</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +513,31 @@ That leaves the autoimmune question in an unresolved position. The reported diag
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]"><img src="https://i.ebayimg.com/images/g/sCsAAeSw9uxpt-9C/s-l225.jpg" alt="Listing image for I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946"><img src="https://i.ebayimg.com/images/g/5uUAAOSwpE5fsJVl/s-l225.jpg" alt="Listing image for Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Supernatural Paranormal xfiles Patch Morale Army Hook [sub]</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Holocaust &amp; D.P. Camp Memorabilia Nefesh Yehonatan By R&#x27; Eibshutz Germany 1946</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve"><img src="https://i.ebayimg.com/images/g/2ZsAAeSwG-Fn5WXF/s-l225.jpg" alt="Listing image for 2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2000s Dallas Paranormal Ghost Trackers Memorabilia Graphic T Shirt Short Sleeve</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +545,7 @@ That leaves the autoimmune question in an unresolved position. The reported diag
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal patch" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="did-hitchhiker-reports-point-to-real-illness-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,109 +760,109 @@ That leaves the autoimmune question in an unresolved position. The reported diag
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/](https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...A bunch of other people he doesn&#x27;t name are linked to a range of &quot;autoi...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...A bunch of other people he doesn&#x27;t name are linked to a range of &quot;autoi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Autoimmune disease  
-   Link: [https://en.wikipedia.org/wiki/Autoimmune_disease](https://en.wikipedia.org/wiki/Autoimmune_disease)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autoimmune_disease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autoimmune_disease</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Autoimmunity](https://en.wikipedia.org/wiki/Autoimmunity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autoimmunity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autoimmunity</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/](https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/wu85br/exactly_wtf_is_the_skinwalker_ranch_hitchhiker/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>d disturbing events that happen at home after someone has a paranormal experience...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/](https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker effect: Share your thoughts on how this can be...What are the ideas on how hitchhiker effect at skinwalker can be explained?...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/vnel41/the_pentagons_secret_ufo_program_the_hitchhiker/](https://www.reddit.com/r/ufo/comments/vnel41/the_pentagons_secret_ufo_program_the_hitchhiker/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vnel41/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vnel41/the_pentagons_secret_ufo_program_the_hitchhiker/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>number of perceptual filters our brain keeps in place to suss...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/](https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1trfh7c/hitchhiker_effect_and_models_of_contagio/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker Effect and Models of Contagio: r/skinwalkerranchThis article is written by Colm Kelleher, a researcher who worked on the ranc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Pentagon's Secret UFO Program, the Hitchhiker Effect,  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — In the Skinwalker Ranch cases cited above, th...</p></details>
    Published: June 29, 2022  
 
 9. <a id="endnote-9"></a>
    Source: libertybirb.substack.com  
    Title: Liberty Birb Mind Viruses and UFOs  
-   Link: [https://libertybirb.substack.com/p/mind-viruses-and-ufos](https://libertybirb.substack.com/p/mind-viruses-and-ufos)  
+   Link: <a href="https://libertybirb.substack.com/p/mind-viruses-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://libertybirb.substack.com/p/mind-viruses-and-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberty BirbMind Viruses and UFOs - GΔRRΞTT... hitchhiker” effect. As Dr. Colm Kelleher described it, “A number of... These autoimmune d...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stealthskater.com  
    Title: Skinwalker 01  
-   Link: [https://www.stealthskater.com/[Documents](https://www.stealthskater.com/[Documents)  
+   Link: <a href="https://www.stealthskater.com/[Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.stealthskater.com/[Documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stealth SkaterSkinwalker_01.pdf11 Jul 2025 — It is an autoimmune disease in which the immune system attacks the thyroid gland. A number o...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: steno.fm  
-   Link: [https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61](https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61)  
+   Link: <a href="https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61" target="_blank" rel="noopener noreferrer nofollow">https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astonishing Legends on Steno.fmA misinterpretation of data? Something even stranger? We&#x27;ll explore the evidence, the claims, and the scie...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/](https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/)  
+   Link: <a href="https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialdougiecorrado/posts/the-disturbing-truth-about-skinwalker-ranch/1240788571494095/</a>  
 
 13. <a id="endnote-13"></a>
    Source: remoteviewed.com  
    Title: pat price uap remote viewing ce5 the hitch hiker effect a warning to be careful  
-   Link: [https://www.remoteviewed.com/pat-price-uap-remote-viewing-ce5-the-hitch-hiker-effect-a-warning-to-be-careful/](https://www.remoteviewed.com/pat-price-uap-remote-viewing-ce5-the-hitch-hiker-effect-a-warning-to-be-careful/)  
+   Link: <a href="https://www.remoteviewed.com/pat-price-uap-remote-viewing-ce5-the-hitch-hiker-effect-a-warning-to-be-careful/" target="_blank" rel="noopener noreferrer nofollow">https://www.remoteviewed.com/pat-price-uap-remote-viewing-ce5-the-hitch-hiker-effect-a-warning-to-be-careful/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Kelleher – Edge Science: June 2022 – The Pentagon &#x27;s Secret UFO Program, the Hitchhiker Effect and Model of Contagion. [https://www.Read...&quot;](https://www.Read...&quot;)...</p></details>
    Published: June 2022  
 
 14. <a id="endnote-14"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L335/](https://www.globalplayer.com/podcasts/42L335/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L335/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L335/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Everything with Curt Jaimungal - PodcastExploring theoretical physics, consciousness, Ai, and God in a technically rigorous m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: Death as an Altered State of Consciousness by Imants Baruss  
-   Link: [https://www.scribd.com/document/827494283/Death-as-an-Altered-State-of-Consciousness-by-Imants-Baruss](https://www.scribd.com/document/827494283/Death-as-an-Altered-State-of-Consciousness-by-Imants-Baruss)  
+   Link: <a href="https://www.scribd.com/document/827494283/Death-as-an-Altered-State-of-Consciousness-by-Imants-Baruss" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/827494283/Death-as-an-Altered-State-of-Consciousness-by-Imants-Baruss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Death as Consciousness: A New Perspective | PDFknown as the hitchhiker effect (Kelleher, 2022). For instance, one evening, during a sessi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/thewatchtowers/posts/5555357854525980/](https://www.facebook.com/groups/thewatchtowers/posts/5555357854525980/)  
+   Link: <a href="https://www.facebook.com/groups/thewatchtowers/posts/5555357854525980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thewatchtowers/posts/5555357854525980/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he experience of walking through the Skinwalker Ranch one night and suddenly feeling a wall...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: In the book "Skinwalker at the Pentagon", the authors (Dr  
-   Link: [https://www.facebook.com/groups/389397835593066/posts/636784877521026/](https://www.facebook.com/groups/389397835593066/posts/636784877521026/)  
+   Link: <a href="https://www.facebook.com/groups/389397835593066/posts/636784877521026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/389397835593066/posts/636784877521026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I have included an interview here with authors George Knapp and Colm Kelleher regarding the disturbing evidence regarded as the &quot;hitchhik...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These autoimmune diseases included Graves&#x27; disease (thyroid), Sjogren&#x27;s...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: The causal effects might be mediate by smoking.Read more  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11709194/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11709194/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11709194/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11709194/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the causal relationships between attention-deficit...by Y Zhou · 2025 · Cited by 1 — There is a significant causal relationship between...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: twitter.com  
-   Link: [https://twitter.com/user/status/1988327717687988580](https://twitter.com/user/status/1988327717687988580)  
+   Link: <a href="https://twitter.com/user/status/1988327717687988580" target="_blank" rel="noopener noreferrer nofollow">https://twitter.com/user/status/1988327717687988580</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>toimmune disease in one or more family or household members.&quot; (...</p></details>

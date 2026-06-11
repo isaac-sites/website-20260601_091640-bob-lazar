@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claims/
 nav_short_title: Official cases
 title: When Does Access Become Amplification?
-title_full: When Does Access Become Amplification? | Claims
+title_full: When Does Access Become Amplification?
 display_title_short: Official cases
 display_title: Official cases
 heading_title: When Does Access Become Amplification?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Has Taylor Really Claimed First Hand? | Taylor
+parent_title: What Has Taylor Really Claimed First Hand?
 parent_permalink: /claims/
 parent_nav_short_title: Claims
 parent_heading_title: What Has Taylor Really Claimed First Hand?
@@ -247,7 +247,7 @@ next_link:
   permalink: /ranch-sightings/
   short_title: Ranch sightings
   heading_title: What Did Taylor Actually See at the Ranch?
-date: '2026-06-09 03:11:18 '
+date: '2026-06-11 21:08:43 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cas
 ## Introduction
 
 One of the most important distinctions in [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s UAP record is the difference between access and observation. Taylor’s credibility is often strengthened in public discussion because he was linked to the US government’s Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF). That role gave him exposure to military reports, sensor data and official investigations. It did not automatically make him a witness to the incidents themselves.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1-dark.svg" | relative_url }}" alt="Official cases illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because some of the most famous UAP cases associated with Taylor’s public commentary — including the USS *Nimitz* “Tic Tac” encounter, the Navy’s Gimbal and GoFast videos, and broader military reporting streams reviewed by the UAPTF — originated with other witnesses. Taylor has frequently discussed such cases, evaluated them, or cited them as significant. However, the public record does not show that he personally observed those events as they occurred. His role was closer to analyst, reviewer, investigator or commentator than first-hand witness. That difference sits at the centre of any evidence-based assessment of his credibility.
@@ -270,7 +269,6 @@ That official role created an unusual situation. Taylor was not merely a televis
 
 As a result, Taylor often occupies an intermediate category:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * More informed than an ordinary commentator.
@@ -281,9 +279,6 @@ As a result, Taylor often occupies an intermediate category:
 </div>
 
 This creates a recurring credibility tension. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) argue that his government access lends weight to his assessments. Critics argue that public audiences are often asked to trust conclusions without being shown the underlying evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## What the Public Record Says About His UAP Task Force Role
 
@@ -298,7 +293,6 @@ What those records do not show is Taylor personally witnessing the most famous m
 The UAPTF’s mission was largely retrospective and analytical. It gathered reports, examined sensor information, attempted case categorisation and sought patterns across incidents. By definition, many of the events being reviewed had already occurred before Taylor became involved.
 
 That means his authority in public discussion derives less from direct observation and more from claimed access to official investigations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aJ8fdNH7K4I" title="Rocket Scientist Travis Taylor on the UFOs That Were Shot Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer">Rocket Scientist Travis Taylor on the UFOs That Were Shot Down</a></p><p class="youtube-embed-meta">Channel: Rick Burgess Show &middot; Views: 257.9K &middot; Uploaded: February 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aJ8fdNH7K4I">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +322,6 @@ Again, however, there is no indication that Taylor was present during the origin
 
 The evidential chain therefore remains:
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-2-dark.svg" | relative_url }}" alt="Official cases illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -354,7 +347,6 @@ Yet expert commentary and first-hand evidence are not the same thing.
 
 Several mechanisms contribute to this authority effect:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Institutional association.** A former government investigator discussing a case can appear more persuasive than a civilian enthusiast discussing the same case.
@@ -366,9 +358,7 @@ Several mechanisms contribute to this authority effect:
 
 None of this means Taylor is deliberately misleading audiences. It simply means that the persuasive power of his commentary can exceed the publicly visible evidence supporting it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oim5ZUK9J3k" title="Wow! Reply from Travis Taylor | Chasing UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oim5ZUK9J3k" target="_blank" rel="noopener noreferrer">Wow! Reply from Travis Taylor | Chasing UFOs</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 26.4K &middot; Uploaded: June 2012 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oim5ZUK9J3k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oim5ZUK9J3k">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-dark.svg" | relative_url }}" alt="Official cases illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Evidence Gap Between Classified Access and Public Proof
 
 The strongest argument made by Taylor’s supporters is straightforward: a scientist with official UAP responsibilities likely saw more information than the public has seen.
@@ -387,8 +377,8 @@ That gap explains why assessments of Taylor often diverge.
 
 Supporters see an insider scientist signalling that some official cases remain genuinely unexplained. Critics see a situation where authority and secrecy can be invoked without providing independently verifiable proof.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oim5ZUK9J3k" title="Wow! Reply from Travis Taylor | Chasing UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oim5ZUK9J3k" target="_blank" rel="noopener noreferrer">Wow! Reply from Travis Taylor | Chasing UFOs</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 26.4K &middot; Uploaded: June 2012 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oim5ZUK9J3k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oim5ZUK9J3k">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-dark.svg" | relative_url }}" alt="Official cases illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Assessing Taylor’s Credibility
 
 The distinction between witnessing and amplifying is especially important when evaluating Taylor’s role in the wider UAP conversation.
@@ -516,15 +506,15 @@ For credibility purposes, those cases should therefore be treated as second-hand
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +522,15 @@ For credibility purposes, those cases should therefore be treated as second-hand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +538,15 @@ For credibility purposes, those cases should therefore be treated as second-hand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +554,15 @@ For credibility purposes, those cases should therefore be treated as second-hand
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,7 +570,7 @@ For credibility purposes, those cases should therefore be treated as second-hand
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="official-cases-when-does-access-become-amplification-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-access-become-amplification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-access-become-amplification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -796,156 +786,156 @@ For credibility purposes, those cases should therefore be treated as second-hand
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: Pentagon Releases Details about Dr  
-   Link: [https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/](https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...Travis Taylor&#x27;s UAP Task Force Involvement. Here&#x27;s the story: https... Taylor as his chief scientist as efforts t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G5TkTEypJZ0](https://www.youtube.com/watch?v=G5TkTEypJZ0)  
+   Link: <a href="https://www.youtube.com/watch?v=G5TkTEypJZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G5TkTEypJZ0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I-Team: UFO scientist speaks publicly for the first time on...One of the U.S. government&#x27;s premier ufo investigators has stepped out of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v-jD-wqirjQ](https://www.youtube.com/watch?v=v-jD-wqirjQ)  
+   Link: <a href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-jD-wqirjQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with...Dr. Travis Taylor&#x27;s scientific [credentials](&amp;#123;&amp;#123; &#x27;credentials/&#x27; | relative_url &amp;#125;&amp;#125;) are impressive, which helps ex...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: why do people get upset when asked to present  
-   Link: [https://www.reddit.com/r/ufo/comments/1fnd6j9/why_do_people_get_upset_when_asked_to_present/](https://www.reddit.com/r/ufo/comments/1fnd6j9/why_do_people_get_upset_when_asked_to_present/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1fnd6j9/why_do_people_get_upset_when_asked_to_present/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1fnd6j9/why_do_people_get_upset_when_asked_to_present/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietrich were training with the USS Nimitz Carrier Strike Group in 2004 when they encountered a UAP resembling a white t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...November 30, 2022 — Goes on to say the Gimbal Video. Approx. 39:30 minutes, Trav...</p></details>
    Published: November 30, 2022  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Fo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-[skinwalker](https://www.history.com/shows/the-secret-of-[skinwalker)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-[skinwalker" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-[skinwalker</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army as the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. TaylorTaylor was the chief scientist on the Unidentified Aerial Phenomena Task Force (UAPTF). He is also a Principal Researc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office... Taylor had a leading role on the Unidentified Aerial Phenomena Task Force and was informally r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oim5ZUK9J3k](https://www.youtube.com/watch?v=oim5ZUK9J3k)  
+   Link: <a href="https://www.youtube.com/watch?v=oim5ZUK9J3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oim5ZUK9J3k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wow! Reply from Travis Taylor | Chasing UFOsBreaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski. St...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Rocket Scientist Travis Taylor on the UFOs That Were Shot Down  
-   Link: [https://www.youtube.com/watch?v=aJ8fdNH7K4I](https://www.youtube.com/watch?v=aJ8fdNH7K4I)  
+   Link: <a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aJ8fdNH7K4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO cases...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=s01s3Dq0fC4](https://www.youtube.com/watch?v=s01s3Dq0fC4)  
+   Link: <a href="https://www.youtube.com/watch?v=s01s3Dq0fC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s01s3Dq0fC4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor discusses the UAP Report and his role in government UAP investigation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6898F6n467k](https://www.youtube.com/watch?v=6898F6n467k)  
+   Link: <a href="https://www.youtube.com/watch?v=6898F6n467k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6898F6n467k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor talks UAPs, Science, and [Skinwalker Ranch](&amp;#123;&amp;#123; &#x27;skinwalker-4c0f0b/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Travis Taylor talks UAPs, Science, and Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4dJ4K1hB-0Y](https://www.youtube.com/watch?v=4dJ4K1hB-0Y)  
+   Link: <a href="https://www.youtube.com/watch?v=4dJ4K1hB-0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4dJ4K1hB-0Y</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: The Black Vault Pentagon Releases Details about Dr  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...29 Jun 2022 — Dr. Taylor worked with the UAPTF as a contributing scientist and engineer, bringing those skills to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Symposium 2026Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Pentagon&#x27;s UAP Task Force5 Aug 2021 — Nimitz/Tic-Tac encounter, which is particularly notable because the witnesses ar...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/](https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/)  
+   Link: <a href="https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TONIGHT AT 6: The chief scientist for the UAP Task Force was...TONIGHT AT 6: The chief scientist for the UAP Task Force was asked if the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/](https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/)  
+   Link: <a href="https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TWO YEARS AGO TODAY: The &#x27;Tic-Tac&#x27; UFO video...Travis Taylor is credible enough to comment on the &quot;Tic Tac&quot; simply because he was the Ch...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/JesseWattersFNC/posts/-wait-what-a-former-pentagon-ufo-investigator-just-said-the-us-possesses-non-hum/1548854953276974/](https://www.facebook.com/JesseWattersFNC/posts/-wait-what-a-former-pentagon-ufo-investigator-just-said-the-us-possesses-non-hum/1548854953276974/)  
+   Link: <a href="https://www.facebook.com/JesseWattersFNC/posts/-wait-what-a-former-pentagon-ufo-investigator-just-said-the-us-possesses-non-hum/1548854953276974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JesseWattersFNC/posts/-wait-what-a-former-pentagon-ufo-investigator-just-said-the-us-possesses-non-hum/1548854953276974/</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.org  
    Title: pentagon ufo study led researcher who believes supernatural  
-   Link: [https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural)  
+   Link: <a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the government&#x27;s...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/](https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/)  
+   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor... Hal Puthoff and the military pilots who were witnesses to the 2004 TIC TAC UFO event, if they are available.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/tribunephl/posts/perhaps-the-ufo-disclosure-is-simply-the-digital-age-version-of-that-old-trick-i/1395614805948269/](https://www.facebook.com/tribunephl/posts/perhaps-the-ufo-disclosure-is-simply-the-digital-age-version-of-that-old-trick-i/1395614805948269/)  
+   Link: <a href="https://www.facebook.com/tribunephl/posts/perhaps-the-ufo-disclosure-is-simply-the-digital-age-version-of-that-old-trick-i/1395614805948269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tribunephl/posts/perhaps-the-ufo-disclosure-is-simply-the-digital-age-version-of-that-old-trick-i/1395614805948269/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was captured by the crew aboard the USS Kearsarge, a Wasp-class...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt31497136/](https://www.imdb.com/title/tt31497136/)  
+   Link: <a href="https://www.imdb.com/title/tt31497136/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31497136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de; 2024; 1h 11m. YOUR RATING. Rate. Disclosed: UFO Files (2023).Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/](https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/)  
+   Link: <a href="https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/koco5/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1417937787030296/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tiple leaked photographs and a video exhibiting unidentified...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/whatthefacttttt/posts/tic-tac-shaped-ufo-reportedly-escorted-by-fighter-jets-across-restricted-airspac/975776318535529/](https://www.facebook.com/whatthefacttttt/posts/tic-tac-shaped-ufo-reportedly-escorted-by-fighter-jets-across-restricted-airspac/975776318535529/)  
+   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/tic-tac-shaped-ufo-reportedly-escorted-by-fighter-jets-across-restricted-airspac/975776318535529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/tic-tac-shaped-ufo-reportedly-escorted-by-fighter-jets-across-restricted-airspac/975776318535529/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was the Chief Scientist of the UAP Task Force established by...Read more...</p></details>

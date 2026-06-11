@@ -304,7 +304,7 @@ next_link:
   title: Grusch
   permalink: /how-credible-is-david-grusch/
   short_title: Grusch
-date: '2026-06-09 03:05:27 '
+date: '2026-06-11 21:07:35 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9-overview.webp
@@ -313,8 +313,7 @@ image: /assets/images/Colm_Kelleher_d782e9-overview-social.jpg
 
 ## Why Kelleher matters in modern UAP credibility debates
 
-Kelleher’s importance comes from his position at a crossroads. He connects three worlds that often remain separate in public discussion: laboratory science, private paranormal investigation, and US government-funded UAP research. Rice University’s Archives of the Impossible profile describes him as programme manager for AAWSAP and a DIA contractor, with earlier work as an immunology researcher, NIDS team lead at [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch, laboratory director at Prosetta, deputy administrator at BAASS, and later leader of Bigelow Aerospace’s Environmental Control and Life Support Systems department. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Kelleher’s importance comes from his position at a crossroads. He connects three worlds that often remain separate in public discussion: laboratory science, private paranormal investigation, and US government-funded UAP research. Rice University’s Archives of the Impossible profile describes him as programme manager for AAWSAP and a DIA contractor, with earlier work as an immunology researcher, NIDS team lead at [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch, laboratory director at Prosetta, deputy administrator at BAASS, and later leader of Bigelow Aerospace’s Environmental Control and Life Support Systems department. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9-overview.webp" | relative_url }}" alt="Overview image for How Credible Is Colm Kelleher?" loading="eager" decoding="sync" fetchpriority="high">
 That [background]({{ 'background-ef59e9/' | relative_url }}) gives him more institutional substance than many UFO personalities. He was not merely commenting from outside the system; he helped run parts of the contractor-side apparatus that gathered and organised UAP and anomalous-phenomena material. The Defense Intelligence Agency’s released contract-status slides confirm that Bigelow Aerospace Advanced Space Studies was performing under aerospace contract HHM402-08-C-0072, had submitted monthly status reports, project management plans and 26 detailed research reports by June 2009, and was described at that time as being in full compliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
@@ -323,9 +322,9 @@ The central question, therefore, is not whether Kelleher had proximity to a real
 
 ## What is solidly verifiable about his background
 
-Kelleher’s scientific credentials are a stronger part of his credibility profile. Simon & Schuster’s author page identifies him as a biochemist who received his PhD in biochemistry from Trinity College Dublin in 1983 and worked at the Ontario Cancer Institute, the Terry Fox Cancer Research Laboratory and the National Jewish Center for Immunology and Respiratory Medicine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span></span></span>
+Kelleher’s scientific credentials are a stronger part of his credibility profile. Simon & Schuster’s author page identifies him as a biochemist who received his PhD in biochemistry from Trinity College Dublin in 1983 and worked at the Ontario Cancer Institute, the Terry Fox Cancer Research Laboratory and the National Jewish Center for Immunology and Respiratory Medicine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span></span></span>
 
-His later UFO/UAP path is also traceable through institutional and publishing records. The same publisher page lists him as co-author, with George Knapp, of *Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah*, while Rice University’s profile says he led the NIDS team at Skinwalker Ranch from 1996 to 2004 and became deputy administrator at BAASS in 2008, leading day-to-day execution of the AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span></span></span>
+His later UFO/UAP path is also traceable through institutional and publishing records. The same publisher page lists him as co-author, with George Knapp, of *Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah*, while Rice University’s profile says he led the NIDS team at Skinwalker Ranch from 1996 to 2004 and became deputy administrator at BAASS in 2008, leading day-to-day execution of the AAWSAP contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span></span></span>
 
 This matters because it prevents two over-simple readings. The sceptical caricature — that Kelleher is simply an outsider paranormal enthusiast — is inaccurate. But the believer-friendly shortcut — that scientific credentials plus government proximity make the extraordinary claims likely true — is also unwarranted. His biography establishes access and competence in scientific management; it does not by itself validate the anomalous interpretations of the cases he studied.
 
@@ -333,14 +332,13 @@ This matters because it prevents two over-simple readings. The sceptical caricat
 
 Kelleher’s public UAP-related claims and themes fall into several layers, and they should not be treated as equally strong.
 
-The most grounded layer is administrative: AAWSAP/BAASS collected and organised UAP-related and anomalous-phenomena material under a DIA-funded contract. The DIA material confirms [BAASS deliverables]({{ 'deliverables/' | relative_url }}) under an aerospace contract, while The Black Vault’s archive [documents]({{ 'documents/' | relative_url }}) the AAWSAP/AATIP records released through FOIA and notes that the programme’s relationship to the better-known “AATIP” label remains contested and inconsistently described by different parties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+The most grounded layer is administrative: AAWSAP/BAASS collected and organised UAP-related and anomalous-phenomena material under a DIA-funded contract. The DIA material confirms BAASS [deliverables]({{ 'deliverables/' | relative_url }}) under an aerospace contract, while The Black Vault’s archive [documents]({{ 'documents/' | relative_url }}) the AAWSAP/AATIP records released through FOIA and notes that the programme’s relationship to the better-known “AATIP” label remains contested and inconsistently described by different parties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
 The next layer is investigative: Kelleher and collaborators argue that AAWSAP used a dual-track model, studying both UAP performance characteristics and reported effects on humans. An EdgeScience article by Kelleher, adapted from *Skinwalkers at the Pentagon*, states that AAWSAP investigated UFO performance and technical characteristics while also researching effects of UFOs on human beings, including medical, physiological, psychological and paranormal effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The most controversial layer is paranormal and biological. Kelleher has written about a so-called “[hitchhiker effect]({{ 'hitchhikers/' | relative_url }})”, in which people exposed to Skinwalker Ranch or related phenomena allegedly experienced anomalous events after leaving the site, sometimes involving family members and reports of shadow figures, orbs, poltergeist-like activity and health issues. In the same EdgeScience article, he treats this as a possible future research problem while acknowledging that whether autoimmune disease in affected families was caused by “hitchhikers” remains unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The most controversial layer is paranormal and biological. Kelleher has written about a so-called “hitchhiker effect”, in which people exposed to Skinwalker Ranch or related phenomena allegedly experienced anomalous events after leaving the site, sometimes involving family members and reports of shadow figures, orbs, poltergeist-like activity and health issues. In the same EdgeScience article, he treats this as a possible future research problem while acknowledging that whether autoimmune disease in affected families was caused by “hitchhikers” remains unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 That last caveat is crucial. The claims are not simply “Kelleher says aliens caused illness”. They are more careful than that in places, but still rest on an extraordinary and poorly evidenced premise: that a contagious or transferable anomalous effect might exist. The public evidence does not currently establish that mechanism.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-1-dark.svg" | relative_url }}" alt="How Credible Is Colm Kelleher? illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skinwalker Ranch is both his signature case and his credibility problem
@@ -357,14 +355,13 @@ This is the central credibility tension. Kelleher has operated closer to real in
 
 A major part of Kelleher’s credibility [debate]({{ 'debate-020cbc/' | relative_url }}) turns on the difference between AAWSAP, BAASS and AATIP. Public discussion often collapses these into “the Pentagon UFO programme”, but the record is messier.
 
-AARO’s 2024 historical report states that, at Senator Harry Reid’s direction, $22 million was appropriated for DIA to assess long-term and over-the-horizon foreign advanced aerospace threats, and that DIA established AAWSAP in 2009. AARO also says the names AAWSAP and AATIP have been used interchangeably in some official documentation, but that AATIP was never an official DoD programme in the same way; after AAWSAP ended, the AATIP label was used by an informal UAP community of interest inside DoD without dedicated budget or personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
+AARO’s 2024 historical report states that, at Senator Harry Reid’s direction, $22 million was appropriated for DIA to assess long-term and over-the-horizon foreign advanced aerospace threats, and that DIA established AAWSAP in 2009. AARO also says the names AAWSAP and AATIP have been used interchangeably in some official documentation, but that AATIP was never an official DoD programme in the same way; after AAWSAP ended, the [AATIP label]({{ 'aatip-label-fcd968/' | relative_url }}) was used by an informal UAP community of interest inside DoD without dedicated budget or personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
-This matters for Kelleher because his role is strongest on the BAASS/AAWSAP side, not as an independent government official speaking for the Pentagon. Rice’s profile identifies him as a contractor and deputy administrator at BAASS, leading day-to-day execution of the AAWSAP contract, while AARO frames the formal programme as a DIA-managed contract awarded to a private-sector organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters for Kelleher because his role is strongest on the BAASS/AAWSAP side, not as an independent government official speaking for the Pentagon. Rice’s profile identifies him as a contractor and deputy administrator at BAASS, leading day-to-day execution of the AAWSAP contract, while AARO frames the formal programme as a DIA-managed contract awarded to a private-sector organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 AARO’s interpretation is damaging to the more expansive version of the AAWSAP story. It says UFO/UAP investigation was not specifically outlined in the contract’s statement of work, although the private contractor conducted UFO research with support from the DIA programme manager. It also says the contractor investigated paranormal activity at a Utah property owned by the contractor’s head, including “shadow figures”, “creatures”, remote viewing and consciousness anomalies, and that DIA did not specifically authorise that work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 Supporters may dispute AARO’s framing, arguing that AAWSAP’s real purpose was always broader and that secrecy, classification and bureaucratic naming conventions obscure what happened. But for a public credibility assessment, AARO’s report creates a serious evidential challenge: it recognises that government-funded work existed, while rejecting the claim that this produced verified evidence of off-world technology or an authorised paranormal research mandate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7XhRKYo-l1Q" title="What a Covert U.S. Government UFO Program Discovered with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7XhRKYo-l1Q" target="_blank" rel="noopener noreferrer">What a Covert U.S. Government UFO Program Discovered with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 713.4K &middot; Uploaded: December 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7XhRKYo-l1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7XhRKYo-l1Q">Open on YouTube</a></p></div></div></div>
 
@@ -372,7 +369,7 @@ Supporters may dispute AARO’s framing, arguing that AAWSAP’s real purpose wa
 
 The strongest case for taking Kelleher seriously is not that his claims are proven. It is that he had access, organisational responsibility and a technical background unusual in UFO culture.
 
-First, his scientific career is not invented or vague. Publisher and institutional biographies consistently describe a PhD in biochemistry and work in cell and molecular biology, immunology and biotechnology. That supports the view that he had experience with research systems, laboratory culture and technical project management before entering UAP work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span></span></span>
+First, his scientific career is not invented or vague. Publisher and institutional biographies consistently describe a PhD in biochemistry and work in cell and molecular biology, immunology and biotechnology. That supports the view that he had experience with research systems, laboratory culture and technical project management before entering UAP work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span></span></span>
 
 Second, BAASS was not imaginary. DIA records show contract performance, monthly reporting and research deliverables. Even if one disputes what the programme should have been doing, the contractor-side structure existed and produced material for the government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
@@ -392,13 +389,12 @@ The Skinwalker-related claims face an additional problem: they mix UAP cases wit
 
 There is also a media-amplification issue. Popular Mechanics reported that the BAASS “Ten Month Report” focused heavily on UAP and anomalous phenomena rather than conventional foreign aerospace threats, citing former BAASS-related sources and describing Skinwalker Ranch reporting to Bigelow and the Pentagon. This supports the idea that UAP work occurred, but it also reinforces the ambiguity: was BAASS conducting a visionary threat study, a UFO investigation, a paranormal research project, or some unstable mixture of all three? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Are UFOs Real?</span><span class="citation-popover-snippet">Popular Mechanics Are UFOs Real?</span></span></span>
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-2-dark.svg" | relative_url }}" alt="How Credible Is Colm Kelleher? illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## First-hand, second-hand and institutional claims
 
 Kelleher’s credibility is easiest to assess when his claims are sorted by source type.
 
-**First-hand institutional role:** His work for NIDS and BAASS, and his operational role in AAWSAP execution, are strongly supported by institutional biographies and DIA-released contract material. These are the most reliable parts of the record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**First-hand institutional role:** His work for NIDS and BAASS, and his operational role in AAWSAP execution, are strongly supported by institutional biographies and DIA-released contract material. These are the most reliable parts of the record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **First-hand investigative judgement:** His view that Skinwalker Ranch and AAWSAP produced important anomalous data is more difficult to evaluate. He had direct involvement, but the underlying case files, controls, raw measurements and medical data are not publicly available in a form that would allow independent assessment.
 
@@ -407,7 +403,6 @@ Kelleher’s credibility is easiest to assess when his claims are sorted by sour
 **Institutional extrapolation:** Claims that AAWSAP points towards hidden off-world technology, biological samples or crash retrieval programmes are the weakest unless backed by documents or material evidence. AARO directly rejects the empirical basis for such claims in the records it reviewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 This sorting does not make Kelleher unreliable across the board. It shows that his credibility varies sharply depending on the claim. His biography and programme access are strong; the most anomalous conclusions remain unresolved or weakly supported in public evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gkttm1WazWk" title="AATIP AND THE NEW YORK TIMES WITH COLM KELLEHER - UAP STUDIES PODCAST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gkttm1WazWk" target="_blank" rel="noopener noreferrer">AATIP AND THE NEW YORK TIMES WITH COLM KELLEHER - UAP STUDIES PODCAST</a></p><p class="youtube-embed-meta">Channel: UAP STUDIES Podcast &middot; Views: 5.3K &middot; Uploaded: July 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gkttm1WazWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gkttm1WazWk">Open on YouTube</a></p></div></div></div>
 
@@ -419,17 +414,15 @@ Sceptics tend to see a different pattern: a private Bigelow-linked network with 
 
 A fair reading sits between those positions. Kelleher helped preserve and structure a body of unusual reports that might otherwise have remained scattered folklore. But preservation and structure are not proof. The more his claims stay within “these cases were collected, witnesses reported them, and further rigorous study is warranted”, the stronger his position is. The more they move towards implied non-human agency, contagious anomalous effects or hidden recovered craft, the more the public evidence thins out.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VCIdV_wsMbM" title="PR-018 Unresolved UAP Report — AARO archive (2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VCIdV_wsMbM" target="_blank" rel="noopener noreferrer">PR-018 Unresolved UAP Report — AARO archive (2024)</a></p><p class="youtube-embed-meta">Channel: UAPDrop &middot; Views: 8 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VCIdV_wsMbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VCIdV_wsMbM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tvUfdN2fyww" title="UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer">UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 102.9K &middot; Uploaded: April 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tvUfdN2fyww">Open on YouTube</a></p></div></div></div>
 
 ## Current credibility assessment
 
-Colm Kelleher is credible as a participant in, and manager of, historically important private and government-linked UAP research. His scientific background, NIDS role, [BAASS role]({{ 'baass-role/' | relative_url }}) and connection to AAWSAP are substantially documented. He is not merely trading on vague insider status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher | Official Publisher Page | Simon &amp; Schuster</span></span></span>
+Colm Kelleher is credible as a participant in, and manager of, historically important private and government-linked UAP research. His scientific background, NIDS role, [BAASS role]({{ 'baass-role/' | relative_url }}) and connection to AAWSAP are substantially documented. He is not merely trading on vague insider status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simonandschuster.com">[Simon &amp; Schuster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simonandschuster.com</span><span class="citation-popover-title">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span><span class="citation-popover-snippet">Simon &amp; Schuster Colm A. Kelleher &#124; Official Publisher Page &#124; Simon &amp; Schuster</span></span></span>
 
 He is much less secure as a source for the strongest anomalous interpretations associated with Skinwalker Ranch and the “hitchhiker effect”. Those claims remain interesting but not established. They depend heavily on testimony, internal reports, selective public excerpts and explanatory models that have not been publicly validated by robust independent replication or mainstream peer review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The most defensible conclusion is that Kelleher is a significant UAP investigator and programme operator whose access was real, but whose most extraordinary claims remain unproven. His work is valuable for understanding how Skinwalker Ranch, Bigelow-funded research and AAWSAP shaped modern UAP discourse. It is not, on the public record available, enough to establish that paranormal contagion, non-human technology or hidden recovered craft have been demonstrated. A careful reader should separate the verified institutional story from the unresolved anomalous claims that grew around it.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-3-dark.svg" | relative_url }}" alt="How Credible Is Colm Kelleher? illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -550,15 +543,15 @@ The most defensible conclusion is that Kelleher is a significant UAP investigato
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +559,15 @@ The most defensible conclusion is that Kelleher is a significant UAP investigato
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +575,31 @@ The most defensible conclusion is that Kelleher is a significant UAP investigato
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,7 +607,7 @@ The most defensible conclusion is that Kelleher is a significant UAP investigato
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="how-credible-is-colm-kelleher-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-colm-kelleher-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-colm-kelleher-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -813,199 +822,199 @@ The most defensible conclusion is that Kelleher is a significant UAP investigato
 
 1. <a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 4. <a id="endnote-4"></a>
    Source: theblackvault.com  
    Title: The Black Vault  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: Preliminary Assessment: Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/188189/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/188189/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/188189/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/188189/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/braintrust00colm](https://archive.org/details/braintrust00colm)  
+   Link: <a href="https://archive.org/details/braintrust00colm" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/braintrust00colm</a>  
 
 12. <a id="endnote-12"></a>
    Source: reason.com  
-   Link: [https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/](https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/)  
+   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: AARO Trends 1996 2024 508  
-   Link: [https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf](https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: simonandschuster.com  
    Title: Simon & Schuster Colm A. Kelleher | Official Publisher Page | Simon & Schuster  
-   Link: [https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040](https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040)  
+   Link: <a href="https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.com/authors/Colm-A-Kelleher/23515040</a>  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 19. <a id="endnote-19"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Are UFOs Real?  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents2.theblackvault.com  
    Title: Tic Tac Full Report1  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: the black vaults aawsapaatip and post 2017 uapufo  
-   Link: [https://www.reddit.com/r/UFOs/comments/10hv8vp/the_black_vaults_aawsapaatip_and_post_2017_uapufo/](https://www.reddit.com/r/UFOs/comments/10hv8vp/the_black_vaults_aawsapaatip_and_post_2017_uapufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10hv8vp/the_black_vaults_aawsapaatip_and_post_2017_uapufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10hv8vp/the_black_vaults_aawsapaatip_and_post_2017_uapufo/</a>  
 
 25. <a id="endnote-25"></a>
    Source: sourcewatch.org  
    Title: Colm Kelleher  
-   Link: [https://www.sourcewatch.org/index.php/Colm_Kelleher](https://www.sourcewatch.org/index.php/Colm_Kelleher)  
+   Link: <a href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Colm_Kelleher</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 27. <a id="endnote-27"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/stores/author/B001K8R0JK/about](https://www.amazon.com/stores/author/B001K8R0JK/about)  
+   Link: <a href="https://www.amazon.com/stores/author/B001K8R0JK/about" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B001K8R0JK/about</a>  
 
 28. <a id="endnote-28"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 29. <a id="endnote-29"></a>
    Source: artsandsciences.syracuse.edu  
    Title: colm kelleher  
-   Link: [https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/](https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/)  
+   Link: <a href="https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/" target="_blank" rel="noopener noreferrer nofollow">https://artsandsciences.syracuse.edu/people/faculty/colm-kelleher/</a>  
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
    Title: Colm Kelleher  
-   Link: [https://www.linkedin.com/in/colm-kelleher-834a05112](https://www.linkedin.com/in/colm-kelleher-834a05112)  
+   Link: <a href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colm-kelleher-834a05112</a>  
 
 31. <a id="endnote-31"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
    Title: Colm Kelleher  
-   Link: [https://www.researchgate.net/profile/Colm-Kelleher](https://www.researchgate.net/profile/Colm-Kelleher)  
+   Link: <a href="https://www.researchgate.net/profile/Colm-Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Colm-Kelleher</a>  
 
 33. <a id="endnote-33"></a>
    Source: simonandschuster.co.uk  
-   Link: [https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040](https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040)  
+   Link: <a href="https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFO & Paranormal Connections + The AAWSAP Legacy: WEAPONIZED: EPISODE #12  
-   Link: [https://www.youtube.com/watch?v=tvUfdN2fyww](https://www.youtube.com/watch?v=tvUfdN2fyww)  
+   Link: <a href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tvUfdN2fyww</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecting Alzheimer&#x27;s, Cows, and Mutilations - with COLM A. KELLEHER (Part 1-2)...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: What a Covert U.S. Government UFO Program Discovered with Colm Kelleher  
-   Link: [https://www.youtube.com/watch?v=7XhRKYo-l1Q](https://www.youtube.com/watch?v=7XhRKYo-l1Q)  
+   Link: <a href="https://www.youtube.com/watch?v=7XhRKYo-l1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7XhRKYo-l1Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &amp; Paranormal Connections + The AAWSAP Legacy: WEAPONIZED: EPISODE #12...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Archives of the Impossible conference | Flash Talk: Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=VD0ZVbtbnfI](https://www.youtube.com/watch?v=VD0ZVbtbnfI)  
+   Link: <a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Covert U.S. Government UFO Program Discovered with Colm Kelleher...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP](https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/](https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iqdurd/a_list_ufo_insiders_with_pseudoscientific_claims/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/](https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/</a>  
 
 41. <a id="endnote-41"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/](https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/](https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/</a>

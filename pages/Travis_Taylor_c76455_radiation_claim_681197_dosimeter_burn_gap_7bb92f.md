@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /radiation/
 nav_short_title: Dosimeter gap
 title: Did the dosimeter prove a radiation burn?
-title_full: Did the dosimeter prove a radiation burn? | Radiation
+title_full: Did the dosimeter prove a radiation burn?
 display_title_short: Dosimeter gap
 display_title: Dosimeter gap
 heading_title: Did the dosimeter prove a radiation burn?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Should Readers Make of the Radiation Claim? | Taylor
+parent_title: What Should Readers Make of the Radiation Claim?
 parent_permalink: /radiation/
 parent_nav_short_title: Radiation
 parent_heading_title: What Should Readers Make of the Radiation Claim?
@@ -247,7 +247,7 @@ next_link:
   permalink: /hot-particles/
   short_title: Hot particles
   heading_title: Could one tiny particle explain the injury?
-date: '2026-06-09 03:10:26 '
+date: '2026-06-11 21:08:32 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1.webp
@@ -258,7 +258,6 @@ image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn
 
 One of the most widely discussed moments in [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) investigations is the claim that he suffered a radiation-related injury after work around Homestead 2. The televised sequence appears straightforward: a dosimeter reportedly alarms, Taylor later describes symptoms consistent with a radiation exposure event, and the programme suggests that an unseen source of ionising radiation may have been responsible. Yet the public evidence leaves a major gap between an alarming instrument reading and a demonstrated radiation burn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Travis Taylor and the team head to Homestead 2, the site of multiple bizarre phenomena, to explore the area with Ground Penetrating Radar...</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1-dark.svg" | relative_url }}" alt="Dosimeter gap illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key credibility question is not whether a dosimeter displayed a number. It is whether the available reading, as shown or later described, could establish the kind of exposure needed to produce skin injury. That requires information about dose, dose rate, exposure duration, detector position, [radiation]({{ 'radiation/' | relative_url }}) type and medical confirmation. Most of those details have never been released in a form that allows independent assessment.
 
@@ -266,10 +265,9 @@ The key credibility question is not whether a dosimeter displayed a number. It i
 
 The devices most often associated with the incident belong to the class of personal electronic dosimeters. These instruments are commonly used in nuclear, industrial and emergency-response settings to track radiation exposure and warn users when preset thresholds are exceeded. Tracerco’s PED range, often cited by viewers discussing the programme, is designed primarily to measure X-rays and gamma radiation, displaying both accumulated dose and dose rate while recording exposure data electronically. Tracerco <span class="citation-chip-wrap"><a class="citation-chip" href="https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monitors-us.tracerco.com">[Tracerco US LLC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monitors-us.tracerco.com</span><span class="citation-popover-snippet">It has several additional features, such as GPS, pop-up...Read more...</span></span></span>
 
-That distinction matters because a dosimeter is not a universal detector for every possible radiation hazard. Manufacturer specifications describe the PED family as monitoring defined X-ray and gamma-ray energy ranges using Geiger-Müller-based detection systems. The devices can alarm when dose or dose-rate thresholds are crossed, but the reading alone does not automatically identify the source, mechanism or biological consequences of an exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peodetection.com">[PEO Detection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peodetection.com</span><span class="citation-popover-title">PEO Detection PED+</span><span class="citation-popover-snippet">PEO DetectionPED+ - Tracerco - PEO Radiation TechnologyGeneric PED family characteristics · dose rate 0,1 µSv/h to 100 mSv/h · detects x...</span></span></span> Tracerco A second limitation is that viewers never receive the full measurement record. Modern electronic dosimeters can log exposure history and alar <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracerco.com">[tracerco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracerco.com</span><span class="citation-popover-snippet">TracercoPersonal radiation dosimeters | Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</span></span></span> m events, and some systems allow retrospective review through dedicated software. Public discussion of the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch incident has largely relied on what appeared on screen or on later recollections rather than a released instrument log. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernscientific.co.uk">[southernscientific.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernscientific.co.uk</span><span class="citation-popover-snippet">PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monitors-uk.tracerco.com">[Tracerco Ltd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monitors-uk.tracerco.com</span><span class="citation-popover-title">personal electronic dosimeters first responders europe</span><span class="citation-popover-snippet">It enables...Read more...</span></span></span>
+That distinction matters because a dosimeter is not a universal detector for every possible radiation hazard. Manufacturer specifications describe the PED family as monitoring defined X-ray and gamma-ray energy ranges using Geiger-Müller-based detection systems. The devices can alarm when dose or dose-rate thresholds are crossed, but the reading alone does not automatically identify the source, mechanism or biological consequences of an exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peodetection.com">[PEO Detection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peodetection.com</span><span class="citation-popover-title">PEO Detection PED+</span><span class="citation-popover-snippet">PEO DetectionPED+ - Tracerco - PEO Radiation TechnologyGeneric PED family characteristics · dose rate 0,1 µSv/h to 100 mSv/h · detects x...</span></span></span> Tracerco A second limitation is that viewers never receive the full measurement record. Modern electronic dosimeters can log exposure history and alar <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracerco.com">[tracerco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracerco.com</span><span class="citation-popover-snippet">Personal radiation dosimeters &#124; Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</span></span></span> m events, and some systems allow retrospective review through dedicated software. Public discussion of the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch incident has largely relied on what appeared on screen or on later recollections rather than a released instrument log. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernscientific.co.uk">[southernscientific.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernscientific.co.uk</span><span class="citation-popover-snippet">PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monitors-uk.tracerco.com">[Tracerco Ltd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monitors-uk.tracerco.com</span><span class="citation-popover-title">personal electronic dosimeters first responders europe</span><span class="citation-popover-snippet">It enables...Read more...</span></span></span>
 
 As a result, outsiders cannot independently verify basic questions such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -284,7 +282,6 @@ As a result, outsiders cannot independently verify basic questions such as:
 
 Those details are routine in professional radiological investigations but are absent from the public record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/449SKPUr03Y" title="Travis Taylor - 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=449SKPUr03Y" target="_blank" rel="noopener noreferrer">Travis Taylor - 4</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 1.4M &middot; Uploaded: June 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=449SKPUr03Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=449SKPUr03Y">Open on YouTube</a></p></div></div></div>
 
 ## Dose versus dose rate and detector position
@@ -295,7 +292,7 @@ Dose is the total amount of radiation absorbed over time. Dose rate is how quick
 
 Tracerco’s published documentation makes clear that its PED instruments are capable of displaying both measurements and can trigger alarms for either condition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernscientific.co.uk">[southernscientific.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernscientific.co.uk</span><span class="citation-popover-snippet">PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</span></span></span>
 
-This becomes especially important when evaluating [claims]({{ 'claims/' | relative_url }}) of a burn. Skin injuries from ionising radiation are generally associated with substantial localised exposure rather than merely a brief instrument alarm. Medical literature on radiation effects distinguishes between detectable exposure, acute radiation sickness, local tissue injury and burns; these outcomes occur at very different dose levels and depend heavily on the exposure geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Effects of Ionizing Radiation on the Human Body</span><span class="citation-popover-snippet">PMCby J Talapko · 2024 · Cited by 150 — People may be exposed to radiation in various forms, as casualties of nuclear accidents, workers...</span></span></span>
+This becomes especially important when evaluating [claims]({{ 'claims/' | relative_url }}) of a burn. Skin injuries from ionising radiation are generally associated with substantial localised exposure rather than merely a brief instrument alarm. Medical literature on radiation effects distinguishes between detectable exposure, acute radiation sickness, local tissue injury and burns; these outcomes occur at very different dose levels and depend heavily on the exposure geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Effects of Ionizing Radiation on the Human Body</span><span class="citation-popover-snippet">by J Talapko · 2024 · Cited by 150 — People may be exposed to radiation in various forms, as casualties of nuclear accidents, workers...</span></span></span>
 
 Detector position is another unresolved issue.
 
@@ -306,7 +303,6 @@ This distinction is rarely emphasised in television presentations because it is 
 ## Why the burn claim remains difficult to verify
 
 The public narrative often compresses several separate claims into one story:
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-2-dark.svg" | relative_url }}" alt="Dosimeter gap illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -325,7 +321,6 @@ History Channel promotional material and episode descriptions state that Taylor 
 
 What remains missing is the documentation normally used to confirm a radiation burn claim. Publicly available material does not include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A medical diagnosis attributing the injury specifically to ionising radiation.
@@ -340,8 +335,7 @@ Without those elements, the audience is left with a correlation rather than a de
 
 [Supporters]({{ 'supporters-58c2df/' | relative_url }}) of the incident often argue that Taylor’s scientific background makes deliberate fabrication unlikely and that the visible concern shown by the team suggests they believed the readings were genuine. Taylor’s [credentials]({{ 'credentials/' | relative_url }}) in engineering, physics-related fields and defence work are well documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</span></span></span>
 
-Sceptics respond that expertise does not remove the need for evidence and that reality-television editing can magnify uncertainty into apparent certainty. They note that even a real detector alarm would not, by itself, establish a burn-producing exposure.
-
+[Sceptics]({{ 'sceptics-8407e0/' | relative_url }}) respond that expertise does not remove the need for evidence and that reality-television editing can magnify uncertainty into apparent certainty. They note that even a real detector alarm would not, by itself, establish a burn-producing exposure.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W8FhrtaEQz4" title="The Secret of Skinwalker Ranch: DANGEROUS RADIATION UNCOVERED (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer">The Secret of Skinwalker Ranch: DANGEROUS RADIATION UNCOVERED (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 384.5K &middot; Uploaded: May 2020 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W8FhrtaEQz4">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +344,6 @@ Sceptics respond that expertise does not remove the need for evidence and that r
 Online discussions have frequently focused on a reported figure of around 1.2 milligray or millisievert-equivalent exposure, though the exact context of the number is often unclear because viewers are relying on televised graphics, recollections and secondary discussion rather than a released dosimetry report. One frequently cited sceptical argument is that such a value would be notable but would not obviously correspond to the sort of severe radiation injury implied by the most dramatic retellings of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Travis a bit off about radiation</span><span class="citation-popover-snippet">r/skinwalkerranchMarch 29, 2023 — The dose his dosemeter registered was 1.2 mGy which is equivalent to 12 xrays. So one point was his mat...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 That does not prove the reading was insignificant. A single reported number without context is difficult to interpret. Investigators would normally want to know:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -366,7 +359,6 @@ The absence of that supporting information is the central evidential weakness.
 
 Importantly, the gap cuts both ways. Critics cannot conclusively demonstrate that the exposure was harmless because the underlying data are unavailable. Supporters cannot conclusively demonstrate that the exposure caused a radiation burn for the same reason.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-3-dark.svg" | relative_url }}" alt="Dosimeter gap illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the public reading cannot settle the case
 
@@ -374,13 +366,11 @@ The Homestead 2 incident remains one of the clearest examples of how Skinwalker 
 
 The visible dosimeter evidence shows that the programme treated radiation as a serious concern and that instrument readings formed part of the narrative. What it does not show is the full measurement history needed to connect those readings to a verified radiation injury. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Travis Taylor and the team head to Homestead 2, the site of multiple bizarre phenomena, to explore the area with Ground Penetrating Radar...</span></span></span>
 
-For readers assessing Travis Taylor’s credibility, the most defensible conclusion is narrower than either extreme position. The public record supports the claim that a radiation alarm event was reported and that Taylor associated subsequent symptoms with that event. It does not provide enough technical or [medical evidence]({{ 'medical-proof/' | relative_url }}) to demonstrate that the dosimeter reading itself proved a radiation burn.
+For readers assessing Travis Taylor’s credibility, the most defensible conclusion is narrower than either extreme position. The public record supports the claim that a radiation alarm event was reported and that Taylor associated subsequent symptoms with that event. It does not provide enough technical or medical evidence to demonstrate that the dosimeter reading itself proved a radiation burn.
 
-That unresolved gap is why the incident remains a credibility question rather than a settled radiological case. The strongest evidence available publicly is suggestive, not conclusive, and the missing information is precisely the information that professional radiation investigations would normally rely on most heavily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernscientific.co.uk">[southernscientific.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernscientific.co.uk</span><span class="citation-popover-snippet">PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracerco.com">[Tracerco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracerco.com</span><span class="citation-popover-snippet">TracercoPersonal radiation dosimeters | Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</span></span></span>
-
+That unresolved gap is why the incident remains a credibility question rather than a settled radiological case. The strongest evidence available publicly is suggestive, not conclusive, and the missing information is precisely the information that professional radiation investigations would normally rely on most heavily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southernscientific.co.uk">[southernscientific.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southernscientific.co.uk</span><span class="citation-popover-snippet">PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tracerco.com">[Tracerco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tracerco.com</span><span class="citation-popover-snippet">Personal radiation dosimeters &#124; Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gbsx4kDUjvo" title="Proof of Retaliation? Analyzing the Attack on Dr. Travis Taylor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer">Proof of Retaliation? Analyzing the Attack on Dr. Travis Taylor</a></p><p class="youtube-embed-meta">Channel: Avvalanchhe &middot; Views: 166 &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gbsx4kDUjvo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -499,15 +489,15 @@ That unresolved gap is why the incident remains a credibility question rather th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning sign Danger radiation risk Safety sign"><img src="{{ '/assets/images/marketplace-covers/25abb195b79277e21eae.jpg' | relative_url }}" alt="Listing image for Warning sign Danger radiation risk Safety sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer">Warning sign Danger radiation risk Safety sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radiation warning sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: radiation warning sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +505,15 @@ That unresolved gap is why the incident remains a credibility question rather th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation Metal Warning Sign For Garage Man Cave Wokshop Shed"><img src="{{ '/assets/images/marketplace-covers/7dc2aff2c96a6f5417c0.jpg' | relative_url }}" alt="Listing image for Danger Radiation Metal Warning Sign For Garage Man Cave Wokshop Shed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation Metal Warning Sign For Garage Man Cave Wokshop Shed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radiation warning sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: radiation warning sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +521,15 @@ That unresolved gap is why the incident remains a credibility question rather th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EVG Laser Radiation Warning Sign â€“ 3x A4 Waterproof Vinyl Sticker for Safety"><img src="{{ '/assets/images/marketplace-covers/7ea8d928860fec6e7b30.jpg' | relative_url }}" alt="Listing image for EVG Laser Radiation Warning Sign â€“ 3x A4 Waterproof Vinyl Sticker for Safety" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer">EVG Laser Radiation Warning Sign â€“ 3x A4 Waterproof Vinyl Sticker for Safety</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radiation warning sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: radiation warning sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +537,15 @@ That unresolved gap is why the incident remains a credibility question rather th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radiation Controlled Area Sign"><img src="{{ '/assets/images/marketplace-covers/8529f5b08b6588446ec2.jpg' | relative_url }}" alt="Listing image for Radiation Controlled Area Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer">Radiation Controlled Area Sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radiation warning sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: radiation warning sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,7 +553,7 @@ That unresolved gap is why the incident remains a credibility question rather th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radiation+warning+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radiation warning sign" data-ebay-reference="dosimeter-gap-did-the-dosimeter-prove-a-radiation-burn-travis-taylor-radiation-warning-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-dosimeter-prove-a-radiation-burn-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-the-dosimeter-prove-a-radiation-burn-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -778,199 +768,199 @@ That unresolved gap is why the incident remains a credibility question rather th
 
 1. <a id="endnote-1"></a>
    Source: tracerco.com  
-   Link: [https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/](https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TracercoPersonal radiation dosimeters | Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</p></details>
+   Link: <a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personal radiation dosimeters | Tracerco&#x27;s PEDsThe PED+ serves as both a personal electronic dosimeter and a radiation survey met...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: monitors-us.tracerco.com  
-   Link: [https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped](https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped)  
+   Link: <a href="https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped" target="_blank" rel="noopener noreferrer nofollow">https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It has several additional features, such as GPS, pop-up...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: southernscientific.co.uk  
-   Link: [https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2](https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2)  
+   Link: <a href="https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2" target="_blank" rel="noopener noreferrer nofollow">https://www.southernscientific.co.uk/products-by-manufacturer/tracerco/ped2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PED2 personal electronic dosimeterPED2 measures, records and displays dose rate and accumulated dose in real time with up to four configu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tracerco.com  
-   Link: [https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf](https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf)  
+   Link: <a href="https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ho fills with colour, depending on the dose of radiation received.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: monitors-uk.tracerco.com  
    Title: personal electronic dosimeters first responders europe  
-   Link: [https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe](https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe)  
+   Link: <a href="https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/blogs/news/personal-electronic-dosimeters-first-responders-europe</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It enables...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHealth Effects of Ionizing Radiation on the Human Body  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Talapko · 2024 · Cited by 150 — People may be exposed to radiation in various forms, as casualties of nuclear accidents, workers...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11052428/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Talapko · 2024 · Cited by 150 — People may be exposed to radiation in various forms, as casualties of nuclear accidents, workers...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Travis a bit off about radiation  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/](https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchMarch 29, 2023 — The dose his dosemeter registered was 1.2 mGy which is equivalent to 12 xrays. So one point was his mat...</p></details>
    Published: March 29, 2023  
 
 9. <a id="endnote-9"></a>
    Source: tracerco.com  
-   Link: [https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/](https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/)  
+   Link: <a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o effectively monitor, measure and manage radiation...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: monitors-uk.tracerco.com  
    Title: personal electronic dosimeter ped er  
-   Link: [https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er](https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ER (High dose rate Personal Electronic Dosimeter)An extended dose rate range of up to 1 Sv/h · Large, clear display and intuitive graphic...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: monitors-us.tracerco.com  
-   Link: [https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1](https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1)  
+   Link: <a href="https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1" target="_blank" rel="noopener noreferrer nofollow">https://monitors-us.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ER+ (High dose rate advanced Personal Electronic...Portable – can be used as both a personal dosimeter, and a handheld dose rate survey...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: monitors-uk.tracerco.com  
    Title: ped2 is standard range  
-   Link: [https://monitors-uk.tracerco.com/products/tracerco-ped2-is-standard-range](https://monitors-uk.tracerco.com/products/tracerco-ped2-is-standard-range)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/tracerco-ped2-is-standard-range" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/tracerco-ped2-is-standard-range</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tracerco.comPED2-IS Personal Electronic Dosimeter (Gen 2)The Tracerco™ PED2-IS is an intrinsically safe personal electronic dosimeter, ce...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: monitors-uk.tracerco.com  
    Title: ped2 blue personal electronic dosimeter gen 2  
-   Link: [https://monitors-uk.tracerco.com/products/ped2-blue-personal-electronic-dosimeter-gen-2](https://monitors-uk.tracerco.com/products/ped2-blue-personal-electronic-dosimeter-gen-2)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/ped2-blue-personal-electronic-dosimeter-gen-2" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/ped2-blue-personal-electronic-dosimeter-gen-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TECHNICAL DATASHEET &amp; DOWNLOADS. PED Gen2 Specification Sheet Full technical details for the...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: monitors-uk.tracerco.com  
    Title: personal electronic dosimeter ped er 1  
-   Link: [https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1](https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-er-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ER+ (High dose rate advanced Personal Electronic...An extended dose rate range of up to 1Sv/h · Weather, shock and drop-proof housing –...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tracerco.com  
    Title: launch its personal electronic dosimeter ped family  
-   Link: [https://tracerco.com/news-events-blog-webinars/news/radiation-monitors/tracerco-launch-its-personal-electronic-dosimeter-ped-family/](https://tracerco.com/news-events-blog-webinars/news/radiation-monitors/tracerco-launch-its-personal-electronic-dosimeter-ped-family/)  
+   Link: <a href="https://tracerco.com/news-events-blog-webinars/news/radiation-monitors/tracerco-launch-its-personal-electronic-dosimeter-ped-family/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/news-events-blog-webinars/news/radiation-monitors/tracerco-launch-its-personal-electronic-dosimeter-ped-family/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracerco launch its Personal Electronic Dosimeter (PED)...26 Jan 2015 — The PED-IS can be used to measure radiation exposure in potentia...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: monitors-uk.tracerco.com  
    Title: ped2 plus personal electronic dosimeter gen 2  
-   Link: [https://monitors-uk.tracerco.com/products/ped2-plus-personal-electronic-dosimeter-gen-2](https://monitors-uk.tracerco.com/products/ped2-plus-personal-electronic-dosimeter-gen-2)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/ped2-plus-personal-electronic-dosimeter-gen-2" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/ped2-plus-personal-electronic-dosimeter-gen-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tracerco.comPED2+ (Plus) Personal Electronic Dosimeter (Gen 2)Introducing the Tracerco™ PED2+, the latest innovation in personal electron...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: monitors-uk.tracerco.com  
    Title: personal electronic dosimeter ped blue  
-   Link: [https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-blue](https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-blue)  
+   Link: <a href="https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-blue" target="_blank" rel="noopener noreferrer nofollow">https://monitors-uk.tracerco.com/products/tracerco-personal-electronic-dosimeter-ped-blue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue (Personal Electronic Dosimeter)Robust and easy to use · Direct micro USB connection for greater flexibility · Large, clear, easy-to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/](https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/)  
+   Link: <a href="https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ParanormalEncounters/comments/1f5ippe/what_are_skin_walkers/</a>  
 
 19. <a id="endnote-19"></a>
    Source: history.com  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch](https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchAfter a young cow on the ranch was found to have died quite suddenly, investigators...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2  
-   Link: [https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch](https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch)  
+   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and the team head to Homestead 2, the site of multiple bizarre phenomena, to explore the area with Ground Penetrating Radar...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: peodetection.com  
    Title: PEO Detection PED+  
-   Link: [https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/](https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/)  
+   Link: <a href="https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/" target="_blank" rel="noopener noreferrer nofollow">https://peodetection.com/government-public-safety/ped-a-personal-dosimeter-and-a-handheld-dose-dose-rate-survey-meter-in-one-device/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PEO DetectionPED+ - Tracerco - PEO Radiation TechnologyGeneric PED family characteristics · dose rate 0,1 µSv/h to 100 mSv/h · detects x...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/966947488/Tracerco-Personal-Electronic-Dosimeter-Gen-2](https://www.scribd.com/document/966947488/Tracerco-Personal-Electronic-Dosimeter-Gen-2)  
+   Link: <a href="https://www.scribd.com/document/966947488/Tracerco-Personal-Electronic-Dosimeter-Gen-2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/966947488/Tracerco-Personal-Electronic-Dosimeter-Gen-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d dose in real time with up to four • Intrinsically safe variants (...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Travis Taylor  
-   Link: [https://www.youtube.com/watch?v=449SKPUr03Y](https://www.youtube.com/watch?v=449SKPUr03Y)  
+   Link: <a href="https://www.youtube.com/watch?v=449SKPUr03Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=449SKPUr03Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4...) | Full Episode | History. HISTORY•3M views &amp;middot; 2:05:38. Go to channel HISTORY &amp;middot; When the Ranch Fights Back *Marathon*...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6HMjy9JeXgk](https://www.youtube.com/watch?v=6HMjy9JeXgk)  
+   Link: <a href="https://www.youtube.com/watch?v=6HMjy9JeXgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6HMjy9JeXgk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ers with realtime accurate monitoring of radiation dose...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: qsa-global.com  
-   Link: [https://www.qsa-global.com/tracerco/personal-electronic-dosimeter](https://www.qsa-global.com/tracerco/personal-electronic-dosimeter)  
+   Link: <a href="https://www.qsa-global.com/tracerco/personal-electronic-dosimeter" target="_blank" rel="noopener noreferrer nofollow">https://www.qsa-global.com/tracerco/personal-electronic-dosimeter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o fills with color, depending on the dose of x-ray or gamma-ray...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: laurussystems.com  
-   Link: [https://www.laurussystems.com/wp-content/uploads/Tracerco-PED-IS_User_Manual_2015.pdf](https://www.laurussystems.com/wp-content/uploads/Tracerco-PED-IS_User_Manual_2015.pdf)  
+   Link: <a href="https://www.laurussystems.com/wp-content/uploads/Tracerco-PED-IS_User_Manual_2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.laurussystems.com/wp-content/uploads/Tracerco-PED-IS_User_Manual_2015.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Email: radiation.monitors@tracerco.com. Toll Free: 1 800 288...Read more...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: lablogic.com  
-   Link: [https://lablogic.com/radiation-safety/instruments/ped-is](https://lablogic.com/radiation-safety/instruments/ped-is)  
+   Link: <a href="https://lablogic.com/radiation-safety/instruments/ped-is" target="_blank" rel="noopener noreferrer nofollow">https://lablogic.com/radiation-safety/instruments/ped-is</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PED-IS Personal Electronic Dosimeter (PED)Everything on the dosimeter has been designed with the user in mind; the display features radia...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gbsx4kDUjvo](https://www.youtube.com/watch?v=Gbsx4kDUjvo)  
+   Link: <a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uBabYbbhSgc](https://www.youtube.com/watch?v=uBabYbbhSgc)  
+   Link: <a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBabYbbhSgc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF SKINWALKER RANCH ReturnsWatch our interview with Dr. Travis Taylor, aerospace engineer, optical scientist, author, and lead...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=W8FhrtaEQz4](https://www.youtube.com/watch?v=W8FhrtaEQz4)  
+   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously falls il...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03](https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03)  
+   Link: <a href="https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/the_secret_of_skinwalker_ranch/s03/e03</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anch, they find shocking new evidence that the radiation and UAP...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor on the Challenges of Investigating UAP  
-   Link: [https://www.youtube.com/watch?v=ZfWl9Y1Q0G8](https://www.youtube.com/watch?v=ZfWl9Y1Q0G8)  
+   Link: <a href="https://www.youtube.com/watch?v=ZfWl9Y1Q0G8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZfWl9Y1Q0G8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide scientific context and critical analysis regarding the instrumentation, radiation detection methods, and evidentiary...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/](https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/)  
+   Link: <a href="https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ker Ranch Filming… According to multiple insiders...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o bad that even when a question was asked, Dr. Taylor could...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: open.spotify.com  
    Title: 67Ofw2vm6Qg7WRn Ay9Ru4v  
-   Link: [https://open.spotify.com/episode/67Ofw2vm6Qg7WRnAy9Ru4v](https://open.spotify.com/episode/67Ofw2vm6Qg7WRnAy9Ru4v)  
+   Link: <a href="https://open.spotify.com/episode/67Ofw2vm6Qg7WRnAy9Ru4v" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/67Ofw2vm6Qg7WRnAy9Ru4v</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis TaylorWe&#x27;ll cover the chilling history behind the ranch&#x27;s Navajo curse, dissect the ongoing investigations led by Dr. Travis Taylo...</p></details>

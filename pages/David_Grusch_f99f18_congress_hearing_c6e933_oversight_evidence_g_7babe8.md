@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /hearing/
 nav_short_title: Oversight gap
 title: Oversight mattered, but where was the proof?
-title_full: Oversight mattered, but where was the proof? | Hearing
+title_full: Oversight mattered, but where was the proof?
 display_title_short: Oversight gap
 display_title: Oversight gap
 heading_title: Oversight mattered, but where was the proof?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the 2023 Hearing Changed the Story | Grusch
+parent_title: Why the 2023 Hearing Changed the Story
 parent_permalink: /hearing/
 parent_nav_short_title: Hearing
 parent_heading_title: Why the 2023 Hearing Changed the Story
@@ -247,7 +247,7 @@ next_link:
   permalink: /pilot-context/
   short_title: Pilot context
   heading_title: Why the pilots changed Grusch's hearing
-date: '2026-06-09 02:53:03 '
+date: '2026-06-11 21:01:40 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evid
 
 ## Introduction
 
-The July 2023 congressional hearing involving [David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }}) changed the public conversation about UFOs and unidentified anomalous phenomena (UAPs), but it also exposed a central problem: [oversight]({{ 'oversight/' | relative_url }}) and evidence are not the same thing. Congress treated allegations of hidden UAP programmes as serious enough to investigate, giving Grusch a platform under oath and framing the issue as a potential failure of government accountability. Yet the hearing did not provide the public with documents, physical materials, photographs, technical data, or first-hand witnesses capable of independently verifying his most dramatic claims. The result was an unusual credibility divide. The oversight concerns gained legitimacy, while the underlying allegations remained largely unproven in public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</span></span></span>
-
+The July 2023 congressional [hearing]({{ 'hearing/' | relative_url }}) involving David Grusch changed the public conversation about UFOs and unidentified anomalous phenomena (UAPs), but it also exposed a central problem: [oversight]({{ 'oversight/' | relative_url }}) and evidence are not the same thing. Congress treated allegations of hidden UAP programmes as serious enough to investigate, giving Grusch a platform under oath and framing the issue as a potential failure of government accountability. Yet the hearing did not provide the public with documents, physical materials, photographs, technical data, or first-hand witnesses capable of independently verifying his most dramatic claims. The result was an unusual credibility divide. The oversight concerns gained legitimacy, while the underlying allegations remained largely unproven in public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1-dark.svg" | relative_url }}" alt="Oversight gap illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For supporters, the [hearing]({{ 'hearing/' | relative_url }}) suggested that something significant existed behind layers of classification and restricted-access programmes. For sceptics, it demonstrated that institutional attention can coexist with a lack of publicly verifiable evidence. Understanding that distinction is essential to assessing how the hearing affected Grusch's credibility.
+For supporters, the hearing suggested that something significant existed behind layers of classification and restricted-access programmes. For sceptics, it demonstrated that institutional attention can coexist with a lack of publicly verifiable evidence. Understanding that distinction is essential to assessing how the hearing affected Grusch's credibility.
 
 ## How the hearing reframed UAP secrecy
 
@@ -280,8 +279,7 @@ The hearing also occurred during a broader period of growing official interest i
 
 Another important factor was the distinction between credibility and proof. Lawmakers could reasonably conclude that a witness appeared sincere, had held sensitive positions and deserved to be heard without concluding that his allegations were factually correct. Congressional hearings routinely investigate claims before they are proven. In that sense, the hearing signalled that Grusch's allegations were considered worthy of oversight attention, not that Congress had validated them.
 
-Supporters frequently pointed to the fact that Grusch provided information through official channels and reportedly gave classified testimony behind closed doors. To them, the existence of private briefings suggested that the most important evidence simply could not be discussed publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I know this is old news</span><span class="citation-popover-snippet">RedditGrusch provided 11 hours of classified testimonyNovember 18, 2024 — I want to start with I believe fully the credibility of David G...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
-
+Supporters frequently pointed to the fact that Grusch provided information through official channels and reportedly gave classified testimony behind closed doors. To them, the existence of private briefings suggested that the most important evidence simply could not be discussed publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I know this is old news</span><span class="citation-popover-snippet">Grusch provided 11 hours of classified testimonyNovember 18, 2024 — I want to start with I believe fully the credibility of David G...</span><span class="citation-popover-meta">Published: November 18, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7KzM1uePVpE" title="&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer">&#x27;Investigate these claims&#x27;: UFO transparency at center of House hearing</a></p><p class="youtube-embed-meta">Channel: 6abc Philadelphia &middot; Views: 1.6K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7KzM1uePVpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7KzM1uePVpE">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +291,6 @@ Grusch stated that he had interviewed numerous individuals who allegedly possess
 
 This distinction became especially important because the hearing did not include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Public release of classified documents supporting the allegations.
@@ -301,14 +298,13 @@ This distinction became especially important because the hearing did not include
 * Technical reports demonstrating non-human technology.
 * Named programme managers testifying openly.
 * First-hand witnesses publicly confirming the alleged recovery programmes.
-* Scientific examination of alleged materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSAnalysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</span><span class="citation-popover-meta">Published: June 26, 2023</span></span></span>
+* Scientific examination of alleged materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</span><span class="citation-popover-meta">Published: June 26, 2023</span></span></span>
 
 </div>
 
 As a result, observers were left evaluating the credibility of a chain of testimony rather than inspecting direct evidence themselves.
 
 For believers, the hearing suggested that evidence existed somewhere inside classified systems. For sceptics, the absence of publicly examinable material remained the decisive issue. The hearing therefore strengthened the importance of the allegations without substantially reducing uncertainty around them.
-
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-2-dark.svg" | relative_url }}" alt="Oversight gap illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Inspector General process did — and did not — establish
@@ -321,8 +317,8 @@ This distinction is important because it illustrates how oversight mechanisms wo
 
 For supporters, the ICIG process showed that Grusch was not merely making internet claims; he was participating in formal whistleblower channels. For critics, the process still stopped short of validating the extraordinary conclusions that attracted public attention.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R8TqBrrqL4U" title="Joe Rogan Experience #2065 - David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R8TqBrrqL4U" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2065 - David Grusch</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.0M &middot; Uploaded: June 2024 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R8TqBrrqL4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R8TqBrrqL4U">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-dark.svg" | relative_url }}" alt="Oversight gap illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics focused on the missing evidence
 
 Scientific and sceptical responses generally converged on a single point: the hearing increased the profile of the claims but did not resolve the evidence problem.
@@ -332,7 +328,6 @@ Several commentators noted that the key allegations remained unsupported by publ
 The Pentagon's public position reinforced that dispute. Officials stated that the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) had found no verifiable evidence supporting claims of secret programmes possessing extraterrestrial materials or conducting reverse-engineering efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 This created an unusual standoff:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,9 +340,7 @@ This created an unusual standoff:
 
 The hearing therefore produced greater visibility than resolution.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R8TqBrrqL4U" title="Joe Rogan Experience #2065 - David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R8TqBrrqL4U" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2065 - David Grusch</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.0M &middot; Uploaded: June 2024 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R8TqBrrqL4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R8TqBrrqL4U">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-dark.svg" | relative_url }}" alt="Oversight gap illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Oversight success, evidential uncertainty
 
 The most lasting effect of the hearing may have been institutional rather than evidential. It helped establish that allegations of UAP secrecy could be discussed within formal oversight structures without immediate dismissal. Members of Congress publicly questioned whether information was being withheld, whether reporting systems were functioning properly and whether whistleblowers were being protected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
@@ -355,10 +348,6 @@ The most lasting effect of the hearing may have been institutional rather than e
 At the same time, the hearing highlighted the limits of oversight when evidence remains classified, inaccessible or disputed. Congress could elevate the issue, demand briefings and create pressure for disclosure, but those actions did not automatically generate proof.
 
 For assessing David Grusch's credibility, that distinction remains central. The hearing strengthened the argument that his allegations deserved official scrutiny. It did not publicly establish that his [core claims]({{ 'core-claims/' | relative_url }}) about recovered non-human craft, biological materials or long-running reverse-engineering programmes were true. The oversight question became more credible; the evidence gap remained. House Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WzrJ1YfS0hA" title="Top 5 red flags with UFO whistleblower story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WzrJ1YfS0hA" target="_blank" rel="noopener noreferrer">Top 5 red flags with UFO whistleblower story</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WzrJ1YfS0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WzrJ1YfS0hA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -372,16 +361,16 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Balances oversight issues against evidentiary questions.</p>
+        <p class="fr-book-desc">Governments around the world have had to deal with the UFO phenomenon for a good part of a century. How and why they did so is the subjec...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -389,16 +378,16 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JkbyAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Ron Halliday</p>
         
-        <p class="fr-book-desc">Represents the disclosure-oriented side of the debate.</p>
+        <p class="fr-book-desc">For over fifty years, from the Highlands to the Lowlands, and from the Western Isles to Orkney, witnesses have been reporting close encou...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -406,16 +395,16 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Addresses standards of evidence relevant to the hearing.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -423,16 +412,16 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rYX6sgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Focuses on witness credibility and official testimony.</p>
+        <p class="fr-book-desc">Now available in paperback! A history of the various manifestations and shifting meaning of the Twentieth Century&#x27;s single great contribu...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +429,7 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -477,15 +466,15 @@ For assessing David Grusch's credibility, that distinction remains central. The 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†"><img src="{{ '/assets/images/marketplace-covers/09d9052eecf4bdc4c58f.jpg' | relative_url }}" alt="Listing image for WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">WRIGHT-PATTERSON AIR FORCE BASE &amp; MUSEUM SOUVENIRS-ROSWELL UFO?â˜†VINTAGE MUSEUMâ˜†â˜†</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +482,15 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info"><img src="{{ '/assets/images/marketplace-covers/8a9e1fd575db0598f1c8.jpg' | relative_url }}" alt="Listing image for Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Museum &amp; Research Center White Ceramic Mug &amp; 1997 info</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +498,15 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup"><img src="{{ '/assets/images/marketplace-covers/ab8d6b45eb56972399d7.jpg' | relative_url }}" alt="Listing image for International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">International UFO Museum Roswell NM Mug 12oz Southwest Pottery Style Cup</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +514,15 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup"><img src="{{ '/assets/images/marketplace-covers/44159a650cab4b20541d.jpg' | relative_url }}" alt="Listing image for International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">International UFO Museum And Reaserch Center Roswell New Mexico Coffee Mug Cup</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO museum mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO museum mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +530,7 @@ For assessing David Grusch's credibility, that distinction remains central. The 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+museum+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO museum mug" data-ebay-reference="oversight-gap-oversight-mattered-but-where-was-the-proof-david-grusch-roswell-ufo-museum-mug" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oversight-mattered-but-where-was-the-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="oversight-mattered-but-where-was-the-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,86 +746,86 @@ For assessing David Grusch's credibility, that distinction remains central. The 
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSAnalysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</p></details>
    Published: June 26, 2023  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
    Published: July 26, 2023  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: I know this is old news  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/](https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGrusch provided 11 hours of classified testimonyNovember 18, 2024 — I want to start with I believe fully the credibility of David G...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gu1ljc/grusch_provided_11_hours_of_classified_testimony/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grusch provided 11 hours of classified testimonyNovember 18, 2024 — I want to start with I believe fully the credibility of David G...</p></details>
    Published: November 18, 2024  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/](https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Credible &amp; Urgent&quot; was in reference to Grusch&#x27;s claims of...June 11, 2023 — I&#x27;m confused about whether the Inspector General foun...</p></details>
    Published: June 11, 2023  
 
 7. <a id="endnote-7"></a>
    Source: people.com  
-   Link: [https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655](https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655)  
+   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower](https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower)  
+   Link: <a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: cover-up claims and...26 Jul 2023 — The US military says it is actively trying to investigate the small numbe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pbs.org  
    Title: WATC H: Whistleblower tells Congress the U.S  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is...26 Jul 2023 — Grusch says he became a government whistleblower after his discovery and has faced retaliation for coming forward. He...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</p></details>
    Published: July 26, 2023  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/](https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/)  
+   Link: <a href="https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ars and talking to over forty senior intelligence people who...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/](https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsThe whistleblower disclosure did not speak to the specifics of the alleged classified inf...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: seti.org  
    Title: The truth is out there  
-   Link: [https://www.seti.org/news-archive/news-archive-detail/?id=5443](https://www.seti.org/news-archive/news-archive-detail/?id=5443)  
+   Link: <a href="https://www.seti.org/news-archive/news-archive-detail/?id=5443" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news-archive/news-archive-detail/?id=5443</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But this UFO &#x27;whistleblower&#x27; likely...But this UFO &#x27;whistleblower&#x27; likely doesn&#x27;t have it. SETI Seth Shostak. On Wednesday, David Grusch...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: courthousenews.com  
    Title: whistleblower feds recovered non human biological material from ufo crash site  
-   Link: [https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/](https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/)  
+   Link: <a href="https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Courthouse NewsWhistleblower: Feds recovered &#x27;non-human&#x27; biological...Jul 26, 2023 — Testifying under oath, the former team lead at the...</p></details>
 
 ### Additional References
@@ -844,58 +833,58 @@ For assessing David Grusch's credibility, that distinction remains central. The 
 16. <a id="endnote-16"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EQS Integrity LineDavid Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch has suffered retaliatio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jcom.sissa.it  
-   Link: [https://jcom.sissa.it/article/pubid/JCOM_2308_2024_A02/](https://jcom.sissa.it/article/pubid/JCOM_2308_2024_A02/)  
+   Link: <a href="https://jcom.sissa.it/article/pubid/JCOM_2308_2024_A02/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2308_2024_A02/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>credible whistleblower on UFOs to date. Grusch said in his interview and in the congressional hearing that he had trusted and complete...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: whistleblowersblog.org  
    Title: whistleblower claims retaliation during testimony at [house hearing](&#123;&#123; 'house-hearing/' | relative_url &#125;&#125;) on ufos  
-   Link: [https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/](https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/)  
+   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...Aug 2, 2023 — “I became a Whistleblower, through a PPD...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: abc7.com  
    Title: ufo hearing uap david grusch whistleblower claims  
-   Link: [https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/](https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/)  
+   Link: <a href="https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/ufo-hearing-uap-david-grusch-whistleblower-claims/13551080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims: Congressional UAP hearing...26 Jul 2023 — David Grusch, testifies before a House Oversight and Accountability...</p></details>
    Published: July 26, 2023  
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/former-pentagon-employee-david-grusch-told-congress-last-week-that-ufos-are-real/739817661346816/](https://www.facebook.com/newshour/posts/former-pentagon-employee-david-grusch-told-congress-last-week-that-ufos-are-real/739817661346816/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/former-pentagon-employee-david-grusch-told-congress-last-week-that-ufos-are-real/739817661346816/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/former-pentagon-employee-david-grusch-told-congress-last-week-that-ufos-are-real/739817661346816/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, testified to Congress on July 26, 2023, about government...</p></details>
    Published: July 26, 2023  
 
 23. <a id="endnote-23"></a>
    Source: metabunk.org  
-   Title: [david gruschs](&#123;&#123; 'how-credible-is-david-grusch/' | relative_url &#125;&#125;) dopsr cleared statement and ig complaint.12989  
-   Link: [https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/](https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/)  
+   Title: david gruschs dopsr cleared statement and ig complaint.12989  
+   Link: <a href="https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/david-gruschs-dopsr-cleared-statement-and-ig-complaint.12989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch&#x27;s DOPSR Cleared Statement and IG Complaint13 Jun 2023 — Looks like the ICIG whistleblower disclosure is as narrowly-scoped a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — The U.S. House of Representatives holds a joint subcommittee hearing on reports of Unidentified Anomalous Phenomena. Read t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch, a former intelligence official, tells UFO hearing he w...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /ultraterrestrials/
 nav_short_title: Sensor Tests
 title: The Test That Could Make UAP Claims Stronger
-title_full: The Test That Could Make UAP Claims Stronger | Ultraterrestrials
+title_full: The Test That Could Make UAP Claims Stronger
 display_title_short: Sensor Tests
 display_title: Sensor Tests
 heading_title: The Test That Could Make UAP Claims Stronger
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Is Puthoff Really Claiming? | Puthoff
+parent_title: What Is Puthoff Really Claiming?
 parent_permalink: /ultraterrestrials/
 parent_nav_short_title: Ultraterrestrials
 parent_heading_title: What Is Puthoff Really Claiming?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /origin-menu/
   short_title: Origin Menu
   heading_title: Does a Wider UAP Theory Help or Hurt?
-date: '2026-06-09 03:03:05 '
+date: '2026-06-11 21:06:51 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_netw
 
 ## Introduction
 
-For all the debate around [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s [ultraterrestrial]({{ 'ultraterrestrials/' | relative_url }}) ideas, the most credible part of his public position is not the hypothesis itself. It is the argument that unusual claims should be tested with better instruments rather than recycled through decades of anecdotes, rumours and witness testimony.
-
+For all the debate around [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s ultraterrestrial ideas, the most credible part of his public position is not the hypothesis itself. It is the argument that unusual claims should be tested with better instruments rather than recycled through decades of anecdotes, rumours and witness testimony.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Tests illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Puthoff has repeatedly argued that the central problem in UAP research is poor data. Even in his paper on ultraterrestrial models, he frames the issue as an attempt to build explanatory templates that can be compared against future evidence rather than as proof that any particular explanation is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[The Journal of Cosmology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-snippet">The Journal of CosmologyULTRATERRESTRIAL MODELSAugust 25, 2022 — by HE Puthoff · Cited by 16 — Although the ultraterrestrial hypothesis s...</span><span class="citation-popover-meta">Published: August 25, 2022</span></span></span>
@@ -274,7 +273,6 @@ Puthoff's ultraterrestrial framework expands the range of possible explanations 
 
 The result is a kind of evidential deadlock:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A witness reports something extraordinary.
@@ -286,15 +284,11 @@ The result is a kind of evidential deadlock:
 
 This is one reason many researchers, including some who are otherwise sceptical of exotic explanations, support improved monitoring systems. Better data creates the possibility of resolving disagreements instead of endlessly debating interpretations.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## What Multi-Sensor Monitoring Could Add
 
 The strongest version of the sensor-network argument is straightforward: if something genuinely unusual is operating in Earth's atmosphere, oceans or near-Earth environment, it should leave measurable traces.
 
 Modern sensor systems can record far more than a visual image. Current proposals often combine multiple forms of observation:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -311,14 +305,11 @@ Modern sensor systems can record far more than a visual image. Current proposals
 
 The key idea is corroboration. A strange object seen only on a camera could be an artefact, lens effect or software error. An object simultaneously detected by optical, infrared, radar, acoustic and electromagnetic instruments becomes much harder to dismiss as a simple mistake.
 
-This approach has become increasingly visible in scientific UAP projects. The Harvard-led Galileo Project has explicitly argued that the field suffers from fragmented and poorly calibrated evidence and that systematic multi-sensor observatories are needed to produce scientifically useful data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+This approach has become increasingly visible in scientific UAP projects. The Harvard-led Galileo Project has explicitly argued that the field suffers from fragmented and poorly calibrated evidence and that systematic multi-sensor observatories are needed to produce scientifically useful data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
-Researchers associated with that effort have described observatories that combine wide-field and narrow-field cameras, passive radar arrays, radio-spectrum monitoring, microphones and environmental sensors in a single integrated system. The purpose is not to prove aliens or [ultraterrestrials]({{ 'ultraterrestrials/' | relative_url }}). It is to identify anomalies that survive multiple independent measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+Researchers associated with that effort have described observatories that combine wide-field and narrow-field cameras, passive radar arrays, radio-spectrum monitoring, microphones and environmental sensors in a single integrated system. The purpose is not to prove aliens or [ultraterrestrials]({{ 'ultraterrestrials/' | relative_url }}). It is to identify anomalies that survive multiple independent measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 In practical terms, this is the kind of infrastructure that would create the first genuinely strong test of many claims circulating in UAP culture.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PNyJPRjITXQ" title="Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer">Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 140.0K &middot; Uploaded: April 2025 &middot; Length: 2 hours 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PNyJPRjITXQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Sensor Networks Fit Puthoff's Strongest Argument
 
@@ -327,7 +318,6 @@ Puthoff's credibility is often debated because of his involvement with controver
 The sensor-network approach is where those two sides overlap most comfortably.
 
 Even critics of ultraterrestrial theories generally accept several points:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -345,16 +335,14 @@ If unusual reports consistently disappear under rigorous monitoring, that would 
 
 That makes sensor deployment one of the few proposals in the UAP field that genuinely creates a risk for both sides of the argument.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Tests illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Technical Hurdles Are Bigger Than They Sound
 
 Building a convincing UAP detection network is harder than simply pointing cameras at the sky.
 
-The Galileo Project's technical papers highlight the scale of the challenge. Researchers must distinguish potential anomalies from aircraft, drones, satellites, balloons, birds, insects, weather effects, sensor noise and software errors. They also need accurate metadata, calibration standards and long-term quality control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+The Galileo Project's technical papers highlight the scale of the challenge. Researchers must distinguish potential anomalies from aircraft, drones, satellites, balloons, birds, insects, weather effects, sensor noise and software errors. They also need accurate metadata, calibration standards and long-term quality control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 For example, project researchers have discussed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,7 +350,7 @@ For example, project researchers have discussed:
 * Measuring radio emissions.
 * Recording acoustic signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span></span></span>
 * Monitoring magnetic-field variations.
-* Tracking environmental conditions that might generate false positives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
+* Tracking environmental conditions that might generate false positives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">Galileo Project Observatory Class System ArchitectureMay 30, 2025...</span><span class="citation-popover-meta">Published: May 30, 2025</span></span></span>
 
 </div>
 
@@ -372,8 +360,7 @@ A blurry image may generate speculation. A synchronised package of optical, infr
 
 That difference is central to why sensor networks are often viewed as the most serious path forward.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gf_tKn9TaP8" title="Joe Rogan Experience #2314 - Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2314 - Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 2.6M &middot; Uploaded: around May 2025 &middot; Length: 2 hours 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gf_tKn9TaP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gf_tKn9TaP8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PNyJPRjITXQ" title="Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer">Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 140.0K &middot; Uploaded: April 2025 &middot; Length: 2 hours 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PNyJPRjITXQ">Open on YouTube</a></p></div></div></div>
 
 ## Where Stronger Data Still Would Not Prove Non-Human Origins
 
@@ -382,7 +369,6 @@ Even exceptionally good sensor evidence would not automatically validate ultrate
 This is an important distinction that sometimes gets lost in public discussion.
 
 Suppose a future sensor network records an object displaying genuinely unusual characteristics. Investigators might establish that:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -399,7 +385,6 @@ An anomaly is not the same thing as proof of non-human intelligence.
 
 Several possibilities could remain open:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Previously unknown atmospheric phenomena.
@@ -415,7 +400,6 @@ Several possibilities could remain open:
 Puthoff's own ultraterrestrial paper effectively acknowledges this problem by presenting multiple competing templates rather than a single conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournalofcosmology.com">[The Journal of Cosmology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournalofcosmology.com</span><span class="citation-popover-snippet">The Journal of CosmologyULTRATERRESTRIAL MODELSAugust 25, 2022 — by HE Puthoff · Cited by 16 — Although the ultraterrestrial hypothesis s...</span><span class="citation-popover-meta">Published: August 25, 2022</span></span></span>
 
 In other words, stronger sensors might establish that something unusual exists before they establish what it is.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Tests illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_sensor_network_tests_df89db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Credibility Test
@@ -547,15 +531,15 @@ That is why the sensor-network concept remains the strongest practical test conn
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 300X70MM Astronomical Refractor Telescope for Astronomy with Tripod"><img src="https://i.ebayimg.com/images/g/L1gAAeSwlitpOCch/s-l225.jpg" alt="Listing image for 300X70MM Astronomical Refractor Telescope for Astronomy with Tripod" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">300X70MM Astronomical Refractor Telescope for Astronomy with Tripod</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy telescope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +547,15 @@ That is why the sensor-network concept remains the strongest practical test conn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TUOKE Telescope for Astronomy Adult Kids Beginners 150X Astronomical Refractor"><img src="https://i.ebayimg.com/images/g/sNcAAeSwO3BqKXK-/s-l225.jpg" alt="Listing image for TUOKE Telescope for Astronomy Adult Kids Beginners 150X Astronomical Refractor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">TUOKE Telescope for Astronomy Adult Kids Beginners 150X Astronomical Refractor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy telescope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +563,15 @@ That is why the sensor-network concept remains the strongest practical test conn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIPON 600x50 astronomical telescope. Astronomy, wildlife and nature observations"><img src="https://i.ebayimg.com/images/g/gukAAeSwov5qHV3q/s-l225.jpg" alt="Listing image for NIPON 600x50 astronomical telescope. Astronomy, wildlife and nature observations" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">NIPON 600x50 astronomical telescope. Astronomy, wildlife and nature observations</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy telescope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +579,15 @@ That is why the sensor-network concept remains the strongest practical test conn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 70080 Telescopes for Astronomy Adult with Sky Tonight APP Finder Scope"><img src="https://i.ebayimg.com/images/g/JR8AAOSwDxVoPo4q/s-l225.jpg" alt="Listing image for 70080 Telescopes for Astronomy Adult with Sky Tonight APP Finder Scope" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">70080 Telescopes for Astronomy Adult with Sky Tonight APP Finder Scope</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy telescope">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy telescope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +595,7 @@ That is why the sensor-network concept remains the strongest practical test conn
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="sensor-tests-the-test-that-could-make-uap-claims-stronger-hal-puthoff-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-test-that-could-make-uap-claims-stronger-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="the-test-that-could-make-uap-claims-stronger-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -827,90 +811,90 @@ That is why the sensor-network concept remains the strongest practical test conn
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: [https://arxiv.org/abs/2506.00125](https://arxiv.org/abs/2506.00125)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGalileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System ArchitectureMay 30, 2025...</p></details>
    Published: May 30, 2025  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2507.11355](https://arxiv.org/abs/2507.11355)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial PhenomenaJuly 1...</p></details>
+   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial PhenomenaJuly 1...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: [https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2305.18551)  
+   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2410.12738v3](https://arxiv.org/html/2410.12738v3)  
+   Link: <a href="https://arxiv.org/html/2410.12738v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.12738v3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How much time do we have before catastrophic disclosure...9 Feb 2025 — If NHI are real, catastrophic disclosure may actually happen acci...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thejournalofcosmology.com  
-   Link: [https://thejournalofcosmology.com/Puthoff.pdf](https://thejournalofcosmology.com/Puthoff.pdf)  
+   Link: <a href="https://thejournalofcosmology.com/Puthoff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thejournalofcosmology.com/Puthoff.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journal of CosmologyULTRATERRESTRIAL MODELSAugust 25, 2022 — by HE Puthoff · Cited by 16 — Although the ultraterrestrial hypothesis s...</p></details>
    Published: August 25, 2022  
 
 7. <a id="endnote-7"></a>
    Source: earthtech.org  
    Title: Hal Puthoff  
-   Link: [https://earthtech.org/pubs/puthoff/](https://earthtech.org/pubs/puthoff/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthTechHE Puthoff, “Zero-point fluctuations of the vacuum as the source of atomic stability and the gravitational interaction,”Read more...</p></details>
+   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HE Puthoff, “Zero-point fluctuations of the vacuum as the source of atomic stability and the gravitational interaction,”Read more...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOooz4TIi5oZsnfzaHjdofCipS43upCvmi6BuEE3EGvSgJbzd1WHO](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOooz4TIi5oZsnfzaHjdofCipS43upCvmi6BuEE3EGvSgJbzd1WHO)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOooz4TIi5oZsnfzaHjdofCipS43upCvmi6BuEE3EGvSgJbzd1WHO" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOooz4TIi5oZsnfzaHjdofCipS43upCvmi6BuEE3EGvSgJbzd1WHO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens: The Truth Is Finally HerePhysicist and parapsychologist Hal Puthoff, who has worked on government-funded UFO research, suggests t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYQKapXlgCL/](https://www.instagram.com/p/DYQKapXlgCL/)  
+   Link: <a href="https://www.instagram.com/p/DYQKapXlgCL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYQKapXlgCL/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Join the Cosmic Republic R&amp;D Network...Based in Austin, Texas, he has worked closely with Hal Puthoff at EarthTech International and the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1pzhb7f/people_involved_uap_nhi_names_and_expertise/](https://www.reddit.com/r/UFOs_Archive/comments/1pzhb7f/people_involved_uap_nhi_names_and_expertise/)  
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1pzhb7f/people_involved_uap_nhi_names_and_expertise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1pzhb7f/people_involved_uap_nhi_names_and_expertise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People Involved (UAP &amp; NHI): Names and ExpertiseBelow is a programmatic timeline showing the institutional evolution of U.S. (and allied...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EarthSky/posts/by-their-nature-uap-unidentified-anomalous-phenomena-or-ufos-are-difficult-to-st/1227660662736972/](https://www.facebook.com/EarthSky/posts/by-their-nature-uap-unidentified-anomalous-phenomena-or-ufos-are-difficult-to-st/1227660662736972/)  
+   Link: <a href="https://www.facebook.com/EarthSky/posts/by-their-nature-uap-unidentified-anomalous-phenomena-or-ufos-are-difficult-to-st/1227660662736972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EarthSky/posts/by-their-nature-uap-unidentified-anomalous-phenomena-or-ufos-are-difficult-to-st/1227660662736972/</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mqldQHXofgE](https://www.youtube.com/watch?v=mqldQHXofgE)  
+   Link: <a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqldQHXofgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Physicist on Ultraterrestrials: The Classified Truth About...Hal Puthoff released a fascinating paper titled Ultraterrestrial Models...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Xv8O5OcrV0A](https://www.youtube.com/watch?v=Xv8O5OcrV0A)  
+   Link: <a href="https://www.youtube.com/watch?v=Xv8O5OcrV0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xv8O5OcrV0A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13 provides directly relevant context on modern technical initi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: music.amazon.com  
    Title: the good trouble show unidentified flying objects ufo disclosure  
-   Link: [https://music.amazon.com/es-co/podcasts/95b5e01e-0cf9-49cb-b73d-22be3a3cd35d/the-good-trouble-show-unidentified-flying-objects-ufo-disclosure](https://music.amazon.com/es-co/podcasts/95b5e01e-0cf9-49cb-b73d-22be3a3cd35d/the-good-trouble-show-unidentified-flying-objects-ufo-disclosure)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/95b5e01e-0cf9-49cb-b73d-22be3a3cd35d/the-good-trouble-show-unidentified-flying-objects-ufo-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/95b5e01e-0cf9-49cb-b73d-22be3a3cd35d/the-good-trouble-show-unidentified-flying-objects-ufo-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects &amp; UFO DisclosureExplore expert interviews and analyses that uncover technology, cultural impact, and ongoing research behi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — There is, however, a growing body of evidence that the government is not bei...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98](https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98)  
+   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mited to – the “interdimensional” hypothesis, namely the highly speculative notion...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: deezer.com  
-   Link: [https://www.deezer.com/en/show/5838717](https://www.deezer.com/en/show/5838717)  
+   Link: <a href="https://www.deezer.com/en/show/5838717" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/en/show/5838717</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd ongoing research behind UAP disclosure and extraterrestrial encounters.Read more...</p></details>

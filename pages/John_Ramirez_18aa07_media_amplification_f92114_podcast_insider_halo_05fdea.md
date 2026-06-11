@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-reach/
 nav_short_title: Podcast Halo
 title: How podcasts turn credentials into credibility
-title_full: How podcasts turn credentials into credibility | Media Reach
+title_full: How podcasts turn credentials into credibility
 display_title_short: Podcast Halo
 display_title: Podcast Halo
 heading_title: How podcasts turn credentials into credibility
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How UFO Media Built His Profile | Ramirez
+parent_title: How UFO Media Built His Profile
 parent_permalink: /media-reach/
 parent_nav_short_title: Media Reach
 parent_heading_title: How UFO Media Built His Profile
@@ -247,7 +247,7 @@ prev_link:
   permalink: /gaia-framing/
   short_title: Gaia Framing
   heading_title: Does polished streaming make claims stronger?
-date: '2026-06-09 02:59:34 '
+date: '2026-06-11 21:05:14 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_ins
 
 ## Introduction
 
-[John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}) became a recognised figure in UFO and UAP media less through official hearings, leaked documents or published investigations than through podcast appearances. That matters because podcasts create a specific credibility dynamic: a verifiable intelligence background is presented first, and audiences are then asked to evaluate much less verifiable claims through the lens of that background.
-
+John Ramirez became a recognised figure in UFO and UAP media less through official hearings, leaked documents or published investigations than through podcast appearances. That matters because podcasts create a specific credibility dynamic: a verifiable intelligence background is presented first, and audiences are then asked to evaluate much less verifiable claims through the lens of that background.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1-dark.svg" | relative_url }}" alt="Podcast Halo illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In Ramirez’s case, the central question is not whether he worked in the intelligence community. Public biographies consistently describe a long career in the CIA and related intelligence roles. The question is how those credentials function once interviews move beyond documented employment history and into claims about non-human intelligence, human hybrids, secret knowledge, future disclosure timelines and information that cannot be independently checked. His rise offers a useful example of how modern UFO media can convert institutional authority into broader perceived credibility, even when the evidence supporting individual claims varies dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
 ## The CIA biography used to frame Ramirez
 
-A striking feature of Ramirez interviews is how consistently hosts begin with his professional background. Podcast descriptions, conference promotions and media profiles commonly introduce him as a retired CIA officer who served between 1984 and 2009 in the Directorate of Science and Technology, the Directorate of Intelligence and the National [Counterproliferation]({{ 'threat-work/' | relative_url }}) Center. Public biographies also describe work involving signals intelligence, missile-defence analysis and technical collection operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-title">podcast ufo 537 john ramirez cia ret part 2</span><span class="citation-popover-snippet">Amazon Music537. John Ramirez, CIA [ret] PART 2-Podcast UFO21 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of...</span></span></span>
+A striking feature of Ramirez interviews is how consistently hosts begin with his professional background. Podcast descriptions, conference promotions and media profiles commonly introduce him as a retired CIA officer who served between 1984 and 2009 in the Directorate of Science and Technology, the Directorate of Intelligence and the National Counterproliferation Center. Public biographies also describe work involving signals intelligence, missile-defence analysis and technical collection operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-title">podcast ufo 537 john ramirez cia ret part 2</span><span class="citation-popover-snippet">Amazon Music537. John Ramirez, CIA [ret] PART 2-Podcast UFO21 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of...</span></span></span>
 
 This framing performs two functions at once.
 
@@ -273,7 +272,6 @@ First, it establishes something verifiable. Unlike many figures in UFO culture, 
 Second, it creates an implied bridge between confirmed employment and unconfirmed claims. Audiences often hear the CIA background before hearing statements about alien hybrids, government knowledge of non-human intelligence or future disclosure events. The psychological effect is subtle but important. Listeners may begin evaluating later claims through the assumption that the speaker's intelligence experience provides special access, even when the interview does not demonstrate that the specific claim came from intelligence work.
 
 This distinction is frequently blurred in long-form discussions. A listener may accurately conclude that Ramirez worked in intelligence while also incorrectly concluding that his extraordinary claims therefore emerge from documented intelligence sources. The interviews often leave the relationship between those two things unclear.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CM33rZbO8E4" title="John Ramirez- American Technical Ops in the Shah’s Iran, 7/13/2023- History in Our Backyard Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer">John Ramirez- American Technical Ops in the Shah’s Iran, 7/13/2023- History in Our Backyard Webinar</a></p><p class="youtube-embed-meta">Channel: Southeastern Pennsylvania Cold War Historical Society &middot; Views: 1.2K &middot; Uploaded: July 2023 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CM33rZbO8E4">Open on YouTube</a></p></div></div></div>
 
@@ -287,10 +285,9 @@ The shift is significant because the evidential standards change.
 
 A claim such as "I worked at the CIA between 1984 and 2009" can be evaluated through career records, public biographies and institutional corroboration. A claim such as "humans may be hybrids" or "government insiders know of an approaching disclosure event" depends on entirely different forms of evidence. Yet podcast conversations often move between these categories without clearly separating them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</span></span></span>
 
-One recurring example is Ramirez's discussion of the year 2027. Media coverage of podcast appearances highlighted his suggestion that parts of government knew of a significant future event involving non-human intelligence, while simultaneously noting that he could not publicly identify the source of that information. The claim became highly shareable because it combined a former intelligence identity with a specific date and an implied insider warning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grunge.com">[Grunge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grunge.com</span><span class="citation-popover-snippet">GrungeThe CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the recent...</span></span></span>
+One recurring example is Ramirez's discussion of the year 2027. Media coverage of podcast appearances highlighted his suggestion that parts of government knew of a significant future event involving non-human intelligence, while simultaneously noting that he could not publicly identify the source of that information. The claim became highly shareable because it combined a former intelligence identity with a specific date and an implied insider warning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grunge.com">[Grunge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grunge.com</span><span class="citation-popover-snippet">The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the recent...</span></span></span>
 
 From an evidential standpoint, however, the structure creates a problem. The audience is asked to assess information whose source, documentation and chain of custody remain unavailable. The credibility therefore rests largely on trust in the speaker rather than on independently examinable evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pT1rT_M4iT0" title="John Ramirez - 2023 Update || That UFO Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pT1rT_M4iT0" target="_blank" rel="noopener noreferrer">John Ramirez - 2023 Update || That UFO Podcast</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 29.4K &middot; Uploaded: May 2023 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pT1rT_M4iT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pT1rT_M4iT0">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,6 @@ For figures such as Ramirez, that environment can be particularly effective beca
 Critics respond that the same format can create an illusion of evidential depth. A person may speak in great detail for hours while providing little independently verifiable information. Narrative coherence, confidence and technical language can feel persuasive even when hard evidence is absent.
 
 The result is a credibility shortcut: listeners often use the speaker's background and presentation style as a substitute for documentary verification.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-2-dark.svg" | relative_url }}" alt="Podcast Halo illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What podcasts check well and what they miss
@@ -334,14 +330,13 @@ This becomes especially important with statements that rely on unnamed sources, 
 
 Ramirez's interviews frequently operate in this territory. Claims about disclosure timelines, hybrids, non-human intelligence and deeper government knowledge are discussed at length, yet the supporting evidence often remains indirect, anecdotal or unavailable for independent review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bXOpWMYISw" title="Retired CIA Officer Speaks Up About UFOs &amp; Non-Human Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bXOpWMYISw" target="_blank" rel="noopener noreferrer">Retired CIA Officer Speaks Up About UFOs &amp; Non-Human Intelligence</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 34.0K &middot; Uploaded: August 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bXOpWMYISw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bXOpWMYISw">Open on YouTube</a></p></div></div></div>
 
 ## The audience response shows the mechanism at work
 
 Public reaction to Ramirez provides a useful case study in how the credibility shortcut functions.
 
-Supportive audiences often emphasise his intelligence background first. Online discussions routinely refer to him as a former CIA officer before discussing the substance of his UFO claims. For believers, the career history is treated as evidence that he may possess unusual knowledge or access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ret. CIA Officer John Ramirez: “I give credence to fact that</span><span class="citation-popover-snippet">RedditRet. CIA Officer John Ramirez: “I give credence to fact that...October 21, 2023 — 1.5K votes, 543 comments. There&#x27;s been many reti...</span><span class="citation-popover-meta">Published: October 21, 2023</span></span></span>
+Supportive audiences often emphasise his intelligence background first. Online discussions routinely refer to him as a former CIA officer before discussing the substance of his UFO claims. For believers, the career history is treated as evidence that he may possess unusual knowledge or access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ret. CIA Officer John Ramirez: “I give credence to fact that</span><span class="citation-popover-snippet">Ret. CIA Officer John Ramirez: “I give credence to fact that...October 21, 2023 — 1.5K votes, 543 comments. There&#x27;s been many reti...</span><span class="citation-popover-meta">Published: October 21, 2023</span></span></span>
 
 Sceptical audiences focus on a different question: whether the extraordinary claims actually originate from documented intelligence work. Discussions on UFO and alien forums frequently distinguish between Ramirez's verified employment history and his broader assertions about hybrids, disclosure schedules or non-human entities. Critics repeatedly argue that intelligence credentials alone do not establish the truth of claims made after retirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">cy&#x27; from 1984 - 2009, serving within the Directorate of Science &amp;...</span></span></span>
 
@@ -358,7 +353,6 @@ The challenge for audiences is distinguishing between authority and evidence.
 Ramirez's [CIA career]({{ 'cia-career/' | relative_url }}) is substantially easier to verify than his claims about hybrids, disclosure timelines or hidden knowledge of non-human intelligence. Yet podcast interviews frequently present those elements in a continuous narrative. The resulting impression can be stronger than the underlying evidential record.
 
 That does not prove his claims are false, nor does it prove they are true. It highlights a specific mechanism by which credibility is constructed in alternative-media environments. The authority comes from the documented career. The extraordinary claims often depend on trust, interpretation and inaccessible sources. Podcasts are highly effective at blending those categories together, which is why they became the main vehicle for Ramirez's public influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</span></span></span>
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-3-dark.svg" | relative_url }}" alt="Podcast Halo illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -479,15 +473,15 @@ That does not prove his claims are false, nor does it prove they are true. It hi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +489,15 @@ That does not prove his claims are false, nor does it prove they are true. It hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +505,15 @@ That does not prove his claims are false, nor does it prove they are true. It hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +521,15 @@ That does not prove his claims are false, nor does it prove they are true. It hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,7 +537,7 @@ That does not prove his claims are false, nor does it prove they are true. It hi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="podcast-halo-how-podcasts-turn-credentials-into-credibility-john-ramirez-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-podcasts-turn-credentials-into-credibility-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-podcasts-turn-credentials-into-credibility-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -759,101 +753,101 @@ That does not prove his claims are false, nor does it prove they are true. It hi
 1. <a id="endnote-1"></a>
    Source: coasttocoastam.com  
    Title: john ramirez  
-   Link: [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: music.amazon.com  
    Title: podcast ufo 537 john ramirez cia ret part 2  
-   Link: [https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2](https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2)  
+   Link: <a href="https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Music537. John Ramirez, CIA [ret] PART 2-Podcast UFO21 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139](https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139)  
+   Link: <a href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired](https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attended...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027](https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027)  
+   Link: <a href="https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsFormer CIA Officer Confirms Alien Hybrids are Real20 Jun 2025 — We get into alleged human-alien hybrid programs, alien bloo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: grunge.com  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrungeThe CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the recent...</p></details>
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the recent...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;)  
-   Link: [https://www.reddit.com/r/aliens/comments/15nbuxh/aliens_will_reveal_themselves_in_2027_claims/](https://www.reddit.com/r/aliens/comments/15nbuxh/aliens_will_reveal_themselves_in_2027_claims/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15nbuxh/aliens_will_reveal_themselves_in_2027_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15nbuxh/aliens_will_reveal_themselves_in_2027_claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Will Reveal Themselves in 2027, Claims Former CIA...... 2027, Claims Former CIA Agent: r/aliens... Podcast UFO, during which he...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Ret. CIA Officer John Ramirez: “I give credence to fact that  
-   Link: [https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/](https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRet. CIA Officer John Ramirez: “I give credence to fact that...October 21, 2023 — 1.5K votes, 543 comments. There&#x27;s been many reti...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ret. CIA Officer John Ramirez: “I give credence to fact that...October 21, 2023 — 1.5K votes, 543 comments. There&#x27;s been many reti...</p></details>
    Published: October 21, 2023  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy&#x27; from 1984 - 2009, serving within the Directorate of Science &amp;...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/](https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEx-CIA John Ramirez: Humans Are Hybrids &amp; There Are...February 15, 2023 — John Ramirez, ex-CIA officer, on a podcast discussing al...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA John Ramirez: Humans Are Hybrids &amp; There Are...February 15, 2023 — John Ramirez, ex-CIA officer, on a podcast discussing al...</p></details>
    Published: February 15, 2023  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensEx-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Coming In 2027 · Comment...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: john ramirez talking about 2027  
-   Link: [https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/](https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensr/aliens - What is this about? It is on both alien and aliens. 3. 0.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensSince 2021, John Ramirez, who spent 25 years in the CIA, has been providing truthful insights...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...Ramirez: something big is happening with aliens in 2027. Person... This former USA...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/](https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reptilians and insectoids were total crap until I began...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321](https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com...</p></details>
 
 5
@@ -862,111 +856,110 @@ That does not prove his claims are false, nor does it prove they are true. It hi
 
 7. John Ramirez, CIA [ret] PART 221 Dec 2022 — Did you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/](https://podcastufo.com/)
 
-
 19. <a id="endnote-19"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777](https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777)  
+   Link: <a href="https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Conspiracy Podcast#UFO #UAP #Disclosure #CrashedUFO #Aliens #MissingGeneral #RossCoulthart #JakeBarber #Extraterrestrial&quot; Become a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991](https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991)  
+   Link: <a href="https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Best of Coast to Coast AM - PodcastThe Best of Coast to Coast AM podcast, hosted by George Noory. A media phenomenon, Coast to Coast AM d...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins for the first time to disclose information about the projects he...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cQfySY_2BLc](https://www.youtube.com/watch?v=cQfySY_2BLc)  
+   Link: <a href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQfySY_2BLc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez - 2023 Update || That UFO Podcast...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: John Ramirez  
-   Link: [https://www.youtube.com/watch?v=pT1rT_M4iT0](https://www.youtube.com/watch?v=pT1rT_M4iT0)  
+   Link: <a href="https://www.youtube.com/watch?v=pT1rT_M4iT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pT1rT_M4iT0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CM33rZbO8E4](https://www.youtube.com/watch?v=CM33rZbO8E4)  
+   Link: <a href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CM33rZbO8E4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence and the National Counterproliferation Center...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: coasttocoastam.com  
-   Link: [https://www.coasttocoastam.com/show/2025-04-08-show/](https://www.coasttocoastam.com/show/2025-04-08-show/)  
+   Link: <a href="https://www.coasttocoastam.com/show/2025-04-08-show/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/show/2025-04-08-show/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracies &amp; the Unexplained / Defeating the Devil8 Apr 2025 — In the latter half, John Ramirez a former high-ranking satanic priest tu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: syfy.com  
-   Link: [https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent](https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent)  
+   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Will Reveal Themselves in 2027, Claims Former CIA...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: skepticalinquirer.org  
    Title: minister or mountebank was evangelist john ramirez once a satanist  
-   Link: [https://skepticalinquirer.org/exclusive/minister-or-mountebank-was-evangelist-john-ramirez-once-a-satanist/](https://skepticalinquirer.org/exclusive/minister-or-mountebank-was-evangelist-john-ramirez-once-a-satanist/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/minister-or-mountebank-was-evangelist-john-ramirez-once-a-satanist/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/minister-or-mountebank-was-evangelist-john-ramirez-once-a-satanist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minister or Mountebank: Was Evangelist John Ramirez...12 Sept 2024 — Ramirez claims he was born in 1963 and that his father&#x27;s side of th...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Becky Little, How the CIA Tried to Quell UFO Panic During the Cold War | HIS...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/](https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xtraterrestrials, Alien Contactees, Abductees &amp; Believers!Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: globalplayer.com  
-   Link: [https://www.globalplayer.com/podcasts/42L3Qv/](https://www.globalplayer.com/podcasts/42L3Qv/)  
+   Link: <a href="https://www.globalplayer.com/podcasts/42L3Qv/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L3Qv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scratch in 3D, and uncover a 1941 government map that...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/](https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e... On Coast to Coast AM, Semivan recounted in detail his own...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: storytel.com  
    Title: 537 john ramirez cia ret part 2 4797383  
-   Link: [https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383](https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383)  
+   Link: <a href="https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Ramirez, CIA [ret] PART 2 - Podcast UFO21 Dec 2022 — Did you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/...&quot;](https://podcastufo.com/...&quot;)...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: storytel.com  
    Title: 537 john ramirez cia ret part 2 4797383  
-   Link: [https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383](https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383)  
+   Link: <a href="https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>www.storytel.com537. John Ramirez, CIA [ret] PART 221 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of Science...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Retired CIA Officer Speaks Up About UFOs & Non-Human Intelligence  
-   Link: [https://www.youtube.com/watch?v=_bXOpWMYISw](https://www.youtube.com/watch?v=_bXOpWMYISw)  
+   Link: <a href="https://www.youtube.com/watch?v=_bXOpWMYISw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bXOpWMYISw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA UFO podcast interview 11-29-22 PART ONE John Ramirez, CIA (Ret), UFOs, the CIA &amp; More Podcast UFO Live Shows...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu](https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu)  
+   Link: <a href="https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>johnramirez #johnramirezufo #ufonews #uapnews #2027 #theageofdisclosure #ageofdisclosure #disclosure. See all episodes. More episodes lik...</p></details>

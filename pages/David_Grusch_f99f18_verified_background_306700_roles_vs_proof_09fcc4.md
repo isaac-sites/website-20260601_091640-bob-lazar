@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /background/
 nav_short_title: Roles vs Proof
 title: What Grusch's credentials actually prove
-title_full: What Grusch's credentials actually prove | Background
+title_full: What Grusch's credentials actually prove
 display_title_short: Roles vs Proof
 display_title: Roles vs Proof
 heading_title: What Grusch's credentials actually prove
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Grusch's Credentials Prove His Story? | Grusch
+parent_title: Do Grusch's Credentials Prove His Story?
 parent_permalink: /background/
 parent_nav_short_title: Background
 parent_heading_title: Do Grusch's Credentials Prove His Story?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /icig-complaint/
   short_title: ICIG Complaint
   heading_title: Did the whistleblower route make Grusch credible?
-date: '2026-06-09 02:52:43 '
+date: '2026-06-11 21:01:31 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_pr
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s intelligence [background]({{ 'background/' | relative_url }}) is one of the strongest parts of his public story. Unlike many UFO or UAP figures, he can point to documented service in the US Air Force, work inside major intelligence organisations, and official involvement with government UAP reporting structures. Those credentials matter because they make it plausible that he had access to classified discussions, sensitive reporting channels and senior personnel across the national-security system.
-
+David Grusch’s intelligence [background]({{ 'background/' | relative_url }}) is one of the strongest parts of his public story. Unlike many UFO or UAP figures, he can point to documented service in the US Air Force, work inside major intelligence organisations, and official involvement with government UAP reporting structures. Those credentials matter because they make it plausible that he had access to classified discussions, sensitive reporting channels and senior personnel across the national-security system.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-1-dark.svg" | relative_url }}" alt="Roles vs Proof illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 However, the central credibility question is not whether Grusch held those positions. It is whether those positions provide [public proof]({{ 'public-proof/' | relative_url }}) of the extraordinary claims he later made about secret crash-retrieval programmes, reverse-engineering efforts and recovered non-human technology. On that point, the distinction between verified roles and verified evidence becomes crucial. His background is largely documented; the alleged recovered craft and associated programmes remain publicly unproven. House [Oversight]({{ 'oversight/' | relative_url }}) Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — The whistleblower, David Charles Grusch, 36, a decorated former combat officer in Afghanistan...</span></span></span>
@@ -280,7 +279,6 @@ These details are important because the NGA and NRO are among the most sensitive
 
 This means Grusch was not presenting himself as an outsider speculating about hidden programmes. His claims emerged from someone whose career placed him within the defence and intelligence bureaucracy that would, in theory, be relevant to such allegations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SNgoul4vyDM" title="House holds hearing on UFOs, government transparency | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer">House holds hearing on UFOs, government transparency | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 3.9M &middot; Uploaded: July 2023 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SNgoul4vyDM">Open on YouTube</a></p></div></div></div>
 
 ## Why relevant access matters but has limits
@@ -298,7 +296,6 @@ That distinction matters enormously.
 A verified intelligence officer can truthfully report that senior officials told him something. That establishes that conversations occurred. It does not automatically establish that the underlying claims are true.
 
 In practical terms, Grusch's credentials support several narrower conclusions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,13 +315,12 @@ His credentials do not, by themselves, demonstrate:
 
 Those claims require independent evidence beyond the witness's status.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-2-dark.svg" | relative_url }}" alt="Roles vs Proof illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The whistleblower process strengthens the story, but only to a point
 
 One reason Grusch attracted unusual attention was that he did not emerge solely through podcasts or UFO conferences. He used formal whistleblower channels.
 
-Reporting surrounding his case states that complaints and disclosures were submitted through the Intelligence Community Inspector General process, and that [retaliation]({{ 'retaliation/' | relative_url }}) concerns were taken seriously enough to receive official review. This gave the case a degree of institutional legitimacy uncommon in UFO controversies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditClarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSeptember 21, 2023 — On May 25, 2022 – a Disclosure of Urgent Concern; Complaint of...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
+Reporting surrounding his case states that complaints and disclosures were submitted through the Intelligence Community Inspector General process, and that [retaliation]({{ 'retaliation/' | relative_url }}) concerns were taken seriously enough to receive official review. This gave the case a degree of institutional legitimacy uncommon in UFO controversies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSeptember 21, 2023 — On May 25, 2022 – a Disclosure of Urgent Concern; Complaint of...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
 
 Yet another distinction is often lost in public discussion.
 
@@ -332,24 +328,22 @@ The frequently repeated phrase that parts of his complaint were deemed "credible
 
 In other words, an oversight body can find that a whistleblower deserves to be heard without confirming the truth of every factual allegation the whistleblower relays.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-3-dark.svg" | relative_url }}" alt="Roles vs Proof illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_verified_background_306700_roles_vs_proof_09fcc4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the public record still cannot confirm
 
 The central weakness in the public case remains the same today as when Grusch first went public.
 
-No publicly released [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}) has independently verified his most dramatic claims. No recovered craft, recovered materials, engineering data, biological samples or programme documents have been authenticated in public and tied directly to the allegations he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
+No publicly released physical evidence has independently verified his most dramatic claims. No recovered craft, recovered materials, engineering data, biological samples or programme documents have been authenticated in public and tied directly to the allegations he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
 
 Supporters often respond that the relevant evidence remains classified and has allegedly been provided to inspectors general or congressional officials in secure settings. Critics answer that extraordinary claims require publicly verifiable evidence, not only testimony about classified information.
 
 That dispute sits at the centre of the Grusch debate.
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) has stated that it found no verifiable evidence supporting claims of secret government programmes possessing or reverse-engineering extraterrestrial technology. Former AARO director Sean Kirkpatrick has argued that many allegations appear to stem from interconnected networks of believers, misunderstandings or recycled stories rather than confirmed evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has stated that it found no verifiable evidence supporting claims of secret government programmes possessing or reverse-engineering extraterrestrial technology. Former AARO director Sean Kirkpatrick has argued that many allegations appear to stem from interconnected networks of believers, misunderstandings or recycled stories rather than confirmed evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
-Supporters counter that AARO may not have received access to all relevant information and note that some members of Congress have continued to pursue oversight questions after hearing testimony from Grusch and other witnesses. Senators including Marco Rubio and others have publicly said that additional individuals with purported knowledge have approached congressional offices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Supporters counter that AARO may not have received access to all relevant information and note that some members of Congress have continued to pursue oversight questions after [hearing]({{ 'hearing/' | relative_url }}) testimony from Grusch and other witnesses. Senators including Marco Rubio and others have publicly said that additional individuals with purported knowledge have approached congressional offices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 The result is an unresolved situation: there are verified witnesses, verified intelligence careers and verified government interest, but no publicly available proof that conclusively establishes the existence of the alleged programmes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lNiPCV6cAP4" title="Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer">Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 185.4K &middot; Uploaded: July 2023 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lNiPCV6cAP4">Open on YouTube</a></p></div></div></div>
 
@@ -363,9 +357,7 @@ But the same record also shows a clear limit. His public testimony repeatedly re
 
 That leaves Grusch in an unusual credibility category. His career helps establish that he had plausible access to sensitive conversations and insider claims. It does not establish that the claims themselves are true. The verified part of the story is the messenger and his institutional background. The disputed part remains the message.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SpzJnrwob1A" title="LIVE | Congress holds UFO hearing with retired Maj. David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer">LIVE | Congress holds UFO hearing with retired Maj. David Grusch</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.0M &middot; Uploaded: July 2023 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SpzJnrwob1A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -379,16 +371,16 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs In US AirSpace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=171wwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs In US AirSpace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs In US AirSpace">UFOs In US AirSpace</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John Scott Chace</p>
         
-        <p class="fr-book-desc">Directly addresses how credentials support but do not conclusively prove claims.</p>
+        <p class="fr-book-desc">UFOs In US AIRSPACE, Edition 2 has 5 new chapters. Over 12,000 UFO cases were studied by Project Blue Book in the 1950s and 1960s. This u...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,16 +388,16 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: The Great Last Days Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WHBTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO&#x27;s: The Great Last Days Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: The Great Last Days Deception">UFO&#x27;s: The Great Last Days Deception</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Billy Crone</p>
         
-        <p class="fr-book-desc">Explores the distinction between institutional access and verified evidence.</p>
+        <p class="fr-book-desc">Mention the topic of UFO&#x27;s and Aliens and not only have most people already formed their opinions about them, but virtually everyone on t...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -413,16 +405,16 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Briefing Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Briefing Book">UFO Briefing Book</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By James Lough</p>
         
-        <p class="fr-book-desc">Provides another case where official credentials are central to credibility debates.</p>
+        <p class="fr-book-desc">First published 2021. Subjects: Political science, Military art and science.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -430,16 +422,16 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+          <a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Science">UFO Science</a>
         </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+        <p class="fr-book-author">By G. O. Turner, Kaz Morran</p>
         
-        <p class="fr-book-desc">Helps readers separate authority from evidence.</p>
+        <p class="fr-book-desc">First published 2023. Subjects: Physics, Spirituality.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -447,7 +439,7 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs In US AirSpace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO&#x27;s: The Great Last Days Deception</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Briefing+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Briefing Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -484,15 +476,15 @@ That leaves Grusch in an unusual credibility category. His career helps establis
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +492,15 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +508,31 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +540,7 @@ That leaves Grusch in an unusual credibility category. His career helps establis
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="what-grusch-s-credentials-actually-prove-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-grusch-s-credentials-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-grusch-s-credentials-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -748,134 +756,134 @@ That leaves Grusch in an unusual credibility category. His career helps establis
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeOpening Statement25 Jul 2023 — My name is David Charles Grusch. I was an intelligence officer for 14 years, both...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/](https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditClarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSeptember 21, 2023 — On May 25, 2022 – a Disclosure of [Urgent Concern](&amp;#123;&amp;#123; &#x27;urgent-concern/&#x27; | relative_url &amp;#125;&amp;#125;); Complaint of...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSeptember 21, 2023 — On May 25, 2022 – a Disclosure of [Urgent Concern](&amp;#123;&amp;#123; &#x27;urgent-concern/&#x27; | relative_url &amp;#125;&amp;#125;); Complaint of...</p></details>
    Published: September 21, 2023  
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/6298958/ufos-congressional-hearing-what-to-know/](https://time.com/6298958/ufos-congressional-hearing-what-to-know/)  
+   Link: <a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: burlison.house.gov  
    Title: rep burlison welcomes former us air force officer david grusch special advisor  
-   Link: [https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor](https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor)  
+   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burlison Welcomes Former U.S. Air Force Officer David...Mar 27, 2025 — Washington, D.C. – Congressman Eric Burlison (R-MO-07) is pleased...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/](https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/)  
+   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrap Up: Lack of Transparency and Reporting...26 Jul 2023 — Subcommittee members discussed with witnesses the lack transparency and prop...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch. Former National Reconnaissance Officer Representative, Unidentified Anomalous...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Air Force allegedly used disinformation against a...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1ctlrg9/any_senior_us_air_force_people_here_who_can_help/](https://www.reddit.com/r/skeptic/comments/1ctlrg9/any_senior_us_air_force_people_here_who_can_help/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1ctlrg9/any_senior_us_air_force_people_here_who_can_help/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1ctlrg9/any_senior_us_air_force_people_here_who_can_help/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or Technical Advisor for UAP/Trans-Medium Issues&quot; for the National Geospatial-...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/](https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/)  
+   Link: <a href="https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o &quot;I was informed in the course of my official duties of...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — The whistleblower, David Charles Grusch, 36, a decorated former combat officer in Afghanistan...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: independent.co.uk  
    Title: ufo bombshell whistleblower david grusch b2352889  
-   Link: [https://www.independent.co.uk/news/world/americas/ufo-bombshell-whistleblower-david-grusch-b2352889.html](https://www.independent.co.uk/news/world/americas/ufo-bombshell-whistleblower-david-grusch-b2352889.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/ufo-bombshell-whistleblower-david-grusch-b2352889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/ufo-bombshell-whistleblower-david-grusch-b2352889.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentExotic spacecraft, extraterrestrial materials – and a cover-up7 Jun 2023 — From 2016 until 2021, Mr Grusch served as a sen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/07/ufo-hearing-congress](https://www.vanityfair.com/news/2023/07/ufo-hearing-congress)  
+   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: starsunfolded.com  
    Title: david grusch  
-   Link: [https://starsunfolded.com/david-grusch/](https://starsunfolded.com/david-grusch/)  
+   Link: <a href="https://starsunfolded.com/david-grusch/" target="_blank" rel="noopener noreferrer nofollow">https://starsunfolded.com/david-grusch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFO Whistleblower) Age, Wife, Family...26 Jul 2023 — David was selected in 2019 to be the NRO&#x27;s representative at the Unidentified Aeri...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: ufouap.com  
-   Link: [https://www.ufouap.com/profiles/david-grusch/](https://www.ufouap.com/profiles/david-grusch/)  
+   Link: <a href="https://www.ufouap.com/profiles/david-grusch/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/profiles/david-grusch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Charles GruschDavid Charles Grusch is a former U.S. Air Force intelligence officer and senior civilian intelligence official who be...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm](https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...It includes a testimony by the whistleblower and former member of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower tells Congress the U.S. is concealing...Retired Maj. David Grusch&#x27;s highly anticipated testimony before a House Ove...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thegalacticmind.com  
-   Link: [https://www.thegalacticmind.com/david-grusch-the-defining-uap-whistleblower/](https://www.thegalacticmind.com/david-grusch-the-defining-uap-whistleblower/)  
+   Link: <a href="https://www.thegalacticmind.com/david-grusch-the-defining-uap-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.thegalacticmind.com/david-grusch-the-defining-uap-whistleblower/</a>  
 
 20. <a id="endnote-20"></a>
    Source: en.as.com  
-   Link: [https://en.as.com/latest_news/ufo-sightings-who-is-david-grusch-and-what-position-did-he-hold-in-the-military-n/](https://en.as.com/latest_news/ufo-sightings-who-is-david-grusch-and-what-position-did-he-hold-in-the-military-n/)  
+   Link: <a href="https://en.as.com/latest_news/ufo-sightings-who-is-david-grusch-and-what-position-did-he-hold-in-the-military-n/" target="_blank" rel="noopener noreferrer nofollow">https://en.as.com/latest_news/ufo-sightings-who-is-david-grusch-and-what-position-did-he-hold-in-the-military-n/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings: who is David Grusch and what position did he...27 Jul 2023 — David Grusch, a former US intelligence official, took the congre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SpzJnrwob1A](https://www.youtube.com/watch?v=SpzJnrwob1A)  
+   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE | Congress holds UFO hearing with retired Maj. David...The subcommittee hearing on unidentified anomalous phenomena or uaps will co...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RBAISwCZ2v0](https://www.youtube.com/watch?v=RBAISwCZ2v0)  
+   Link: <a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBAISwCZ2v0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower David Grusch: &#x27;We are not alone&#x27;David Grush is a career intelligence official who this week is making some bombshell cl...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sandboxx.us  
-   Link: [https://www.sandboxx.us/news/airpower/everything-you-need-to-know-about-the-uap-whistleblower-who-says-the-us-has-recovered-alien-spacecraft/](https://www.sandboxx.us/news/airpower/everything-you-need-to-know-about-the-uap-whistleblower-who-says-the-us-has-recovered-alien-spacecraft/)  
+   Link: <a href="https://www.sandboxx.us/news/airpower/everything-you-need-to-know-about-the-uap-whistleblower-who-says-the-us-has-recovered-alien-spacecraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandboxx.us/news/airpower/everything-you-need-to-know-about-the-uap-whistleblower-who-says-the-us-has-recovered-alien-spacecraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force before transitioning into the National Geospatial-Intelligence Agency (NGA) and then the...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nextgov.com  
    Title: whistleblower alleges government coverup ufo sightings recovery efforts  
-   Link: [https://www.nextgov.com/emerging-tech/2023/07/whistleblower-alleges-government-coverup-ufo-sightings-recovery-efforts/388871/](https://www.nextgov.com/emerging-tech/2023/07/whistleblower-alleges-government-coverup-ufo-sightings-recovery-efforts/388871/)  
+   Link: <a href="https://www.nextgov.com/emerging-tech/2023/07/whistleblower-alleges-government-coverup-ufo-sightings-recovery-efforts/388871/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2023/07/whistleblower-alleges-government-coverup-ufo-sightings-recovery-efforts/388871/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower alleges government coverup of UFO...26 Jul 2023 — Former intelligence official turned whistleblower David Grusch told lawm...</p></details>

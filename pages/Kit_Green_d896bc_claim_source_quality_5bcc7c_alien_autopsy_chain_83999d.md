@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claim-sources/
 nav_short_title: Autopsy Claim
 title: Why the alien autopsy claim is so fragile
-title_full: Why the alien autopsy claim is so fragile | Claim Sources
+title_full: Why the alien autopsy claim is so fragile
 display_title_short: Autopsy Claim
 display_title: Autopsy Claim
 heading_title: Why the alien autopsy claim is so fragile
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Which Green Stories Are First Hand? | Green
+parent_title: Which Green Stories Are First Hand?
 parent_permalink: /claim-sources/
 parent_nav_short_title: Claim Sources
 parent_heading_title: Which Green Stories Are First Hand?
@@ -247,7 +247,7 @@ next_link:
   permalink: /claim-labels/
   short_title: Claim Labels
   heading_title: How to label Green claims without overreaching
-date: '2026-06-09 03:00:51 '
+date: '2026-06-11 21:06:02 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy
 
 ## Introduction
 
-The alien autopsy story is probably the weakest part of [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s public UFO-related record because it depends almost entirely on disputed documents, indirect reporting, recollections of alleged briefings, and a media phenomenon that was itself widely exposed as a hoax. Unlike Green’s documented medical work on reported UAP-related injuries, the autopsy claim has no publicly available first-hand evidence from Green that can be independently verified. Instead, the story rests on a chain of attribution: leaked notes, reported conversations, later retellings, and interpretations of what Green may have been shown decades earlier.
-
+The alien autopsy story is probably the weakest part of Kit Green’s public UFO-related record because it depends almost entirely on disputed documents, indirect reporting, recollections of alleged briefings, and a media phenomenon that was itself widely exposed as a hoax. Unlike Green’s documented medical work on reported UAP-related injuries, the autopsy claim has no publicly available first-hand evidence from Green that can be independently verified. Instead, the story rests on a chain of attribution: leaked notes, reported conversations, later retellings, and interpretations of what Green may have been shown decades earlier.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-1-dark.svg" | relative_url }}" alt="Autopsy Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters when assessing credibility. The question is not whether Green held senior scientific and intelligence-linked positions. His background is unusually well documented. The question is whether the evidence connecting him to alleged alien cadaver examinations survives scrutiny. On that narrower question, the evidential chain becomes much weaker and increasingly dependent on folklore rather than verifiable records.
@@ -266,10 +265,9 @@ That distinction matters when assessing credibility. The question is not whether
 
 Green’s association with alien autopsy claims did not emerge from a public government report, a sworn statement, a released intelligence document, or a first-hand publication from Green himself. Instead, it largely grew through a leaked memorandum and later UFO-community circulation.
 
-The most frequently cited source is a document commonly called the “Kit Green memo”, usually presented as a March 2001 communication attributed to physicist Eric Davis. Versions of the memo claim that Green was shown photographs, reports and briefing material relating to an alleged non-human cadaver during a Pentagon meeting after he left the CIA. The document further claims that Green believed the body he supposedly viewed was consistent with the creature later depicted in the 1995 Santilli alien autopsy film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdMemo Kit Green | PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span>
+The most frequently cited source is a document commonly called the “Kit Green memo”, usually presented as a March 2001 communication attributed to physicist Eric Davis. Versions of the memo claim that Green was shown photographs, reports and briefing material relating to an alleged non-human cadaver during a Pentagon meeting after he left the CIA. The document further claims that Green believed the body he supposedly viewed was consistent with the creature later depicted in the 1995 Santilli alien autopsy film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Memo Kit Green &#124; PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span>
 
 Several problems appear immediately:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,14 +297,13 @@ The problem is that the film itself accumulated a long record of credibility fai
 Among the key issues:
 
 * Numerous special-effects artists and critics argued that the footage looked staged soon after release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">alien autopsy hoax history</span><span class="citation-popover-snippet">The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</span></span></span>
-* Participants later stated that their sceptical comments had been edited out of broadcasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">autopsy or fraud topsy</span><span class="citation-popover-snippet">TimeAUTOPSY OR FRAUD-TOPSY?26 Nov 1995 — Randle believes that extraterrestrials did land there but that “the alien-autopsy film is a hoax...</span></span></span>
+* Participants later stated that their sceptical comments had been edited out of broadcasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">autopsy or fraud topsy</span><span class="citation-popover-snippet">AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 — Randle believes that extraterrestrials did land there but that “the alien-autopsy film is a hoax...</span></span></span>
 * Ray Santilli eventually acknowledged that the released film had been fabricated, though he later modified his story by claiming it was a “restoration” of lost original footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ray_Santilli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ray Santilli</span><span class="citation-popover-snippet">Ray Santilli</span></span></span>
 * Accounts from those involved described the construction of fake alien bodies, improvised organs and a recreated filming environment in London. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</span></span></span>
 
 A further complication is that multiple versions of the story emerged over time. Different participants offered different explanations about what was original, what was reconstructed and whether any authentic source material had ever existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien Autopsy (1995 film</span><span class="citation-popover-snippet">Alien Autopsy (1995 film</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=hLKNRRJ15Ag" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Alien or Not?</span><span class="citation-popover-snippet">Alien or Not? - History&#x27;s Greatest Hoaxes - S01 EP1Dive into one of history&#x27;s greatest hoaxes: the alleged 1947 Roswell alien autopsy. In...</span></span></span>
 
 For Green’s credibility assessment, the crucial point is simple: if a memo claims consistency between alleged cadaver photographs and a film that was later publicly admitted to be fabricated, the burden of proof becomes much higher, not lower.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CtrR84jboT4" title="Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery | World&#x27;s Strangest UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer">Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery | World&#x27;s Strangest UFO Stories</a></p><p class="youtube-embed-meta">Channel: DMAX UK &middot; Views: 1.7M &middot; Uploaded: October 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CtrR84jboT4">Open on YouTube</a></p></div></div></div>
 
@@ -326,10 +323,9 @@ That means researchers are evaluating claims about evidence rather than the evid
 
 ### The briefing source remains opaque
 
-Versions of the story describe Green being shown material by military or government-connected individuals. Yet the identities of the people involved, their authority, and the provenance of the alleged materials have never been publicly established in a way that outside investigators can verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdMemo Kit Green | PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span>
+Versions of the story describe Green being shown material by military or government-connected individuals. Yet the identities of the people involved, their authority, and the provenance of the alleged materials have never been publicly established in a way that outside investigators can verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Memo Kit Green &#124; PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span>
 
 Without provenance, even genuine photographs would be difficult to authenticate.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-2-dark.svg" | relative_url }}" alt="Autopsy Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The memo itself is not the event
@@ -348,7 +344,6 @@ As stories circulate, details often become simplified. Nuances disappear, uncert
 
 In reality, repetition is not corroboration.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8uBtI_Fzhb0" title="Roswell Alien Autopsy Solved (2023) Full Movie | Documentary | Sci-Fi | UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8uBtI_Fzhb0" target="_blank" rel="noopener noreferrer">Roswell Alien Autopsy Solved (2023) Full Movie | Documentary | Sci-Fi | UFO</a></p><p class="youtube-embed-meta">Channel: EncourageTV &middot; Views: 5.5K &middot; Uploaded: December 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8uBtI_Fzhb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8uBtI_Fzhb0">Open on YouTube</a></p></div></div></div>
 
 ## The possibility that Green was reporting a briefing, not a fact
@@ -361,10 +356,9 @@ The answer is less than many assume.
 
 Intelligence and defence officials are routinely exposed to compartmented claims that later prove mistaken, exaggerated or deliberately deceptive. A briefing demonstrates that information was presented. It does not automatically validate the information.
 
-This is especially relevant because later discussions attributed to Green reportedly suggested concern that he may himself have been exposed to misleading information. Some UFO commentators have noted occasions where Green appeared more cautious about the autopsy narrative than simplified retellings implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAt least two key documents, the Wilson memo and...Kit Green quickly distanced himself from his alien autopsy claims by suggesting...</span></span></span>
+This is especially relevant because later discussions attributed to Green reportedly suggested concern that he may himself have been exposed to misleading information. Some UFO commentators have noted occasions where Green appeared more cautious about the autopsy narrative than simplified retellings implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">At least two key documents, the Wilson memo and...Kit Green quickly distanced himself from his alien autopsy claims by suggesting...</span></span></span>
 
 That possibility creates an alternative interpretation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +370,6 @@ That possibility creates an alternative interpretation:
 </div>
 
 Those possibilities cannot currently be ruled out because the underlying evidence remains unavailable.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-3-dark.svg" | relative_url }}" alt="Autopsy Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_alien_autopsy_chain_83999d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would be needed to treat the claim seriously
@@ -397,7 +390,6 @@ For the alien cadaver claim to move beyond speculation, several things would be 
 
 None of those requirements has been publicly satisfied.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GxZItnSe5gY" title="The Alien Autopsy That Fooled The World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GxZItnSe5gY" target="_blank" rel="noopener noreferrer">The Alien Autopsy That Fooled The World</a></p><p class="youtube-embed-meta">Channel: Ripley&#x27;s Believe It or Not! &middot; Views: 5.4K &middot; Uploaded: March 2023 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GxZItnSe5gY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GxZItnSe5gY">Open on YouTube</a></p></div></div></div>
 
 ## Why this remains Green's weakest evidence chain
@@ -412,7 +404,7 @@ The central claim depends on alleged briefings, disputed memoranda, missing sour
 
 That does not prove Green fabricated anything. Nor does it prove he never saw unusual material. What it does mean is that the claim occupies the weakest part of the evidence spectrum: not first-hand public proof, not independently verifiable documentation, but a chain of second-hand reporting that became embedded in UFO folklore.
 
-For readers trying to separate Green’s strongest evidence from his weakest, the alien autopsy narrative is the clearest example of where verified credentials and unverified stories diverge. The story survives largely because of what people say Green may have been shown, not because the public can examine the alleged evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdMemo Kit Green | PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eosty.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eosty.medium.com</span><span class="citation-popover-snippet">Autopsy video proof by CIA | by Eosty | MediumThis person showed Kit the alien autopsy photos and reports etc. The photos of the alien ca...</span></span></span>
+For readers trying to separate Green’s strongest evidence from his weakest, the alien autopsy narrative is the clearest example of where verified credentials and unverified stories diverge. The story survives largely because of what people say Green may have been shown, not because the public can examine the alleged evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Memo Kit Green &#124; PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eosty.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eosty.medium.com</span><span class="citation-popover-snippet">Autopsy video proof by CIA &#124; by Eosty &#124; MediumThis person showed Kit the alien autopsy photos and reports etc. The photos of the alien ca...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -531,15 +523,15 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +539,15 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +555,15 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +571,15 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +587,7 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="autopsy-claim-why-the-alien-autopsy-claim-is-so-fragile-kit-green-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-alien-autopsy-claim-is-so-fragile-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-the-alien-autopsy-claim-is-so-fragile-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,179 +802,179 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
 
 1. <a id="endnote-1"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/764026660/Memo-Kit-Green](https://www.scribd.com/document/764026660/Memo-Kit-Green)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdMemo Kit Green | PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</p></details>
+   Link: <a href="https://www.scribd.com/document/764026660/Memo-Kit-Green" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/764026660/Memo-Kit-Green</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memo Kit Green | PDFThis person showed Kit the alien autopsy photos and reports, ste, The photos of the alien cadaver Kit sew were...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: eosty.medium.com  
-   Link: [https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80](https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80)  
+   Link: <a href="https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80" target="_blank" rel="noopener noreferrer nofollow">https://eosty.medium.com/alien-autopsy-video-proof-by-cia-4258f8930d80</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy video proof by CIA | by Eosty | MediumThis person showed Kit the alien autopsy photos and reports etc. The photos of the alien ca...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Alien Autopsy (1995 film)  
-   Link: [https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29](https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: time.com  
    Title: alien autopsy hoax history  
-   Link: [https://time.com/4376871/alien-autopsy-hoax-history/](https://time.com/4376871/alien-autopsy-hoax-history/)  
+   Link: <a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The grainy footage purportedly showed an autopsy on an extraterrestrial being, stirring widespread fascination and spawning debates about...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
    Title: autopsy or fraud topsy  
-   Link: [https://time.com/archive/6728224/autopsy-or-fraud-topsy/](https://time.com/archive/6728224/autopsy-or-fraud-topsy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeAUTOPSY OR FRAUD-TOPSY?26 Nov 1995 — Randle believes that extraterrestrials did land there but that “the alien-autopsy film is a hoax...</p></details>
+   Link: <a href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6728224/autopsy-or-fraud-topsy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTOPSY OR FRAUD-TOPSY?26 Nov 1995 — Randle believes that extraterrestrials did land there but that “the alien-autopsy film is a hoax...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ray Santilli  
-   Link: [https://en.wikipedia.org/wiki/Ray_Santilli](https://en.wikipedia.org/wiki/Ray_Santilli)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ray_Santilli" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ray_Santilli</a>  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: You Tube Alien or Not?  
-   Link: [https://www.youtube.com/watch?v=hLKNRRJ15Ag](https://www.youtube.com/watch?v=hLKNRRJ15Ag)  
+   Link: <a href="https://www.youtube.com/watch?v=hLKNRRJ15Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hLKNRRJ15Ag</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien or Not? - History&#x27;s Greatest Hoaxes - S01 EP1Dive into one of history&#x27;s greatest hoaxes: the alleged 1947 Roswell alien autopsy. In...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/169c1du/eric_davis_colm_kelleher_kit_green_bigelow_email/](https://www.reddit.com/r/UFOs/comments/169c1du/eric_davis_colm_kelleher_kit_green_bigelow_email/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/169c1du/eric_davis_colm_kelleher_kit_green_bigelow_email/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169c1du/eric_davis_colm_kelleher_kit_green_bigelow_email/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kit Green is emphatically stating the alien autopsy video is real??... The Wilson memo is credible because of Wilson. Davis has said he...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/](https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAt least two key documents, the Wilson memo and...Kit Green quickly distanced himself from his alien autopsy claims by suggesting...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1brt64d/at_least_two_key_documents_the_wilson_memo_and/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>At least two key documents, the Wilson memo and...Kit Green quickly distanced himself from his alien autopsy claims by suggesting...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/](https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nhw95k/alien_autopsy_email_communication_from_2001/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy Email Communication from 2001...Alien Autopsy Email Communication from 2001 between Dr.... The super-duper fake looking...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: Alien Autopsy  
-   Link: [https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/](https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16dg3s0/alien_autopsy_almost_30_years_later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Almost 30 Years Later... alien autopsy hoax footage that was released to news stations in 1995.... The alien autopsy film of Ray Santill...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wz-fPsoAM1I](https://www.youtube.com/watch?v=wz-fPsoAM1I)  
+   Link: <a href="https://www.youtube.com/watch?v=wz-fPsoAM1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wz-fPsoAM1I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More Experts Confirm The Video Is Real | Alien AutopsyThe Alien Autopsy Memo is a string of emails between doctors... Inside Look At Are...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ALdTYnoVugA](https://www.youtube.com/watch?v=ALdTYnoVugA)  
+   Link: <a href="https://www.youtube.com/watch?v=ALdTYnoVugA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ALdTYnoVugA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal · Comments.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Roswell Alien Autopsy  
-   Link: [https://www.youtube.com/watch?v=NnkA0LShDAQ](https://www.youtube.com/watch?v=NnkA0LShDAQ)  
+   Link: <a href="https://www.youtube.com/watch?v=NnkA0LShDAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NnkA0LShDAQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Story (Omnibus Edit)I made this documentary about the legendary 90s Alien Autopsy footage as part of my portfolio for universi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VTrIGyKxMCw](https://www.youtube.com/watch?v=VTrIGyKxMCw)  
+   Link: <a href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyKxMCw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy That Fooled The World...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Alien Autopsy That Fooled The World  
-   Link: [https://www.youtube.com/watch?v=GxZItnSe5gY](https://www.youtube.com/watch?v=GxZItnSe5gY)  
+   Link: <a href="https://www.youtube.com/watch?v=GxZItnSe5gY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GxZItnSe5gY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Alien Autopsy Solved (2023) Full Movie | Documentary | Sci-Fi | UFO...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8uBtI_Fzhb0](https://www.youtube.com/watch?v=8uBtI_Fzhb0)  
+   Link: <a href="https://www.youtube.com/watch?v=8uBtI_Fzhb0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8uBtI_Fzhb0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Video Footage Of An Alien Autopsy Sheds Light Over UFO Mystery  
-   Link: [https://www.youtube.com/watch?v=CtrR84jboT4](https://www.youtube.com/watch?v=CtrR84jboT4)  
+   Link: <a href="https://www.youtube.com/watch?v=CtrR84jboT4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CtrR84jboT4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review - Alien Autopsy (1995) + John Humphreys interview // VHS...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7U3WZri7km4](https://www.youtube.com/watch?v=7U3WZri7km4)  
+   Link: <a href="https://www.youtube.com/watch?v=7U3WZri7km4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7U3WZri7km4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Official Trailer for Alien Autopsy: Fact or Fiction? provides context on the original 1995 television special that launched the glob...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/news/9382232/leaked-memo-suggests-fake-roswell-alien-autopsy-video-real-cia-scientist-pentagon-briefing/](https://www.thesun.co.uk/news/9382232/leaked-memo-suggests-fake-roswell-alien-autopsy-video-real-cia-scientist-pentagon-briefing/)  
+   Link: <a href="https://www.thesun.co.uk/news/9382232/leaked-memo-suggests-fake-roswell-alien-autopsy-video-real-cia-scientist-pentagon-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/9382232/leaked-memo-suggests-fake-roswell-alien-autopsy-video-real-cia-scientist-pentagon-briefing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunCIA scientist thought fake Roswell alien autopsy video was...2 Jul 2019 — The memo claims Kit Green was briefed on the so-called...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ripleys.com  
    Title: alien autopsy  
-   Link: [https://www.ripleys.com/stories/alien-autopsy](https://www.ripleys.com/stories/alien-autopsy)  
+   Link: <a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy that Fooled the World3 Mar 2023 — Alien Autopsy Exhibit at UFO Museum – Roswell, New Mexico. Credit... Santilli still...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thewebmatrix.net  
    Title: Eric Davis  
-   Link: [https://thewebmatrix.net/Eric%20Davis%20-%20Alien%20Autopsy%20Memo%20and%20eMails.pdf](https://thewebmatrix.net/Eric%20Davis%20-%20Alien%20Autopsy%20Memo%20and%20eMails.pdf)  
+   Link: <a href="https://thewebmatrix.net/Eric%20Davis%20-%20Alien%20Autopsy%20Memo%20and%20eMails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thewebmatrix.net/Eric%20Davis%20-%20Alien%20Autopsy%20Memo%20and%20eMails.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy Memo and...conversations with Kit Green reganéing the Roswell incident aliens, their hmiies, the crash retzievai program...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: journalnews.com.ph  
-   Link: [https://journalnews.com.ph/ex-cia-scientist-believed-roswell-alien-autopsy-film-was-real-leaked-memo-revealed/](https://journalnews.com.ph/ex-cia-scientist-believed-roswell-alien-autopsy-film-was-real-leaked-memo-revealed/)  
+   Link: <a href="https://journalnews.com.ph/ex-cia-scientist-believed-roswell-alien-autopsy-film-was-real-leaked-memo-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/ex-cia-scientist-believed-roswell-alien-autopsy-film-was-real-leaked-memo-revealed/</a>  
 
 25. <a id="endnote-25"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq](https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq)  
+   Link: <a href="https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/law/article/magician-court-louis-theroux-alien-autopsy-film-sgmcp7qhq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The black-and-white, silent footage allegedly shows an autopsy of extraterrestrials recovered from the 1947 Roswell incident. Melaris, ag...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: spacecentre.co.uk  
-   Link: [https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/](https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/)  
+   Link: <a href="https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: alien autopsy fact or fiction was a huge successalien autopsy fact or fiction wa  
-   Link: [https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/](https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/)  
+   Link: <a href="https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheDizRadioShow/posts/alien-autopsy-fact-or-fiction-was-a-huge-successalien-autopsy-fact-or-fiction-wa/1018088976970740/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alien Autopsy: Fact or Fiction” was a pseudo-documentary...In 1998, Fox aired a new special, The World&#x27;s Greatest Hoaxes and Secrets Re...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/timesandsundaytimes/posts/a-magician-who-filmed-famous-footage-of-a-purported-examination-of-an-extraterre/1355785086578884/](https://www.facebook.com/timesandsundaytimes/posts/a-magician-who-filmed-famous-footage-of-a-purported-examination-of-an-extraterre/1355785086578884/)  
+   Link: <a href="https://www.facebook.com/timesandsundaytimes/posts/a-magician-who-filmed-famous-footage-of-a-purported-examination-of-an-extraterre/1355785086578884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesandsundaytimes/posts/a-magician-who-filmed-famous-footage-of-a-purported-examination-of-an-extraterre/1355785086578884/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It challenged belief systems. It asked, “Do Aliens exist, and are they visiting our planet?” The film...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: projectavalon.net  
    Title: Was that some autonomic reaction? The poor quality of the video,  
-   Link: [https://projectavalon.net/forum4/printthread.php?pp=40&t=107706](https://projectavalon.net/forum4/printthread.php?pp=40&t=107706)  
+   Link: <a href="https://projectavalon.net/forum4/printthread.php?pp=40&amp;t=107706" target="_blank" rel="noopener noreferrer nofollow">https://projectavalon.net/forum4/printthread.php?pp=40&amp;t=107706</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Senior Medical Officer Kit Green claims Alien Autopsy...At time 10:29, after they removed the black film covering the alien&#x27;s eyes...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/ROSWELL-ALIEN-AUTOPSY-Behind-Shocked-ebook/dp/B01NB1JCN1](https://www.amazon.co.uk/ROSWELL-ALIEN-AUTOPSY-Behind-Shocked-ebook/dp/B01NB1JCN1)  
+   Link: <a href="https://www.amazon.co.uk/ROSWELL-ALIEN-AUTOPSY-Behind-Shocked-ebook/dp/B01NB1JCN1" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/ROSWELL-ALIEN-AUTOPSY-Behind-Shocked-ebook/dp/B01NB1JCN1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ok, so... The front man for the &#x27;Alien Autopsy&#x27; was Ray Santilli; and his ability...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: checktheevidence.com  
    Title: alien autopsy new document bob lazar and joe rogan  
-   Link: [https://www.checktheevidence.com/wordpress/2019/06/25/alien-autopsy-new-document-bob-lazar-and-joe-rogan/](https://www.checktheevidence.com/wordpress/2019/06/25/alien-autopsy-new-document-bob-lazar-and-joe-rogan/)  
+   Link: <a href="https://www.checktheevidence.com/wordpress/2019/06/25/alien-autopsy-new-document-bob-lazar-and-joe-rogan/" target="_blank" rel="noopener noreferrer nofollow">https://www.checktheevidence.com/wordpress/2019/06/25/alien-autopsy-new-document-bob-lazar-and-joe-rogan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy – “New” Document, Bob Lazar and Joe Rogan25 Jun 2019 — The documents and emails are to do with the 1995 Santilli Alien Auto...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: lewissilkin.com  
    Title: close encounters of the copyright kind 102mmh4  
-   Link: [https://www.lewissilkin.com/insights/2026/03/11/close-encounters-of-the-copyright-kind-102mmh4](https://www.lewissilkin.com/insights/2026/03/11/close-encounters-of-the-copyright-kind-102mmh4)  
+   Link: <a href="https://www.lewissilkin.com/insights/2026/03/11/close-encounters-of-the-copyright-kind-102mmh4" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/insights/2026/03/11/close-encounters-of-the-copyright-kind-102mmh4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Copyright Kind11 Mar 2026 —... movie director Spyros Melaris in the 1995 pseudo-documentary &#x27;Alien Autopsy&#x27;...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: yahoo.com  
-   Link: [https://www.yahoo.com/news/fact-check-video-authentic-alien-173800757.html](https://www.yahoo.com/news/fact-check-video-authentic-alien-173800757.html)  
+   Link: <a href="https://www.yahoo.com/news/fact-check-video-authentic-alien-173800757.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/fact-check-video-authentic-alien-173800757.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check: Was This Video of an Authentic Alien Autopsy?14 Aug 2023 — Professional skeptics find the film a clever or clumsy hoax...</p></details>

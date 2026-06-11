@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /ttsa-materials/
 nav_short_title: Army deal
 title: Did the Army deal prove anything?
-title_full: Did the Army deal prove anything? | TTSA Materials
+title_full: Did the Army deal prove anything?
 display_title_short: Army deal
 display_title: Army deal
 heading_title: Did the Army deal prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did The Materials Claims Deliver? | Puthoff
+parent_title: Did The Materials Claims Deliver?
 parent_permalink: /ttsa-materials/
 parent_nav_short_title: TTSA Materials
 parent_heading_title: Did The Materials Claims Deliver?
@@ -247,7 +247,7 @@ next_link:
   permalink: /metal-sample/
   short_title: Metal sample
   heading_title: The metal sample that did not deliver
-date: '2026-06-09 03:02:51 '
+date: '2026-06-11 21:06:46 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testin
 ## Introduction
 
 The 2019 research agreement between To The Stars Academy (TTSA) and the US Army became one of the strongest factual pillars behind TTSA's claims about unusual materials. Unlike many UFO-related stories, the agreement was real, documented and publicly acknowledged. That mattered because TTSA, whose advisers included [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}), had spent years promoting the idea that it possessed or had access to potentially significant [metamaterials]({{ 'metamaterials/' | relative_url }}) linked to unidentified aerial phenomena.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1-dark.svg" | relative_url }}" alt="Army deal illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 However, a common mistake quickly emerged in media coverage and online discussion: many people treated the Army's willingness to test the materials as proof that the materials were extraordinary. The agreement did not say that. It authorised research and evaluation. It did not certify alien technology, confirm UFO crash claims or validate TTSA's broader narrative. Understanding that distinction is important when assessing Puthoff's credibility, because the episode demonstrates both his ability to attract institutional attention and the recurring tendency for official interest to be mistaken for official endorsement.
@@ -271,7 +270,6 @@ In October 2019, TTSA announced a Cooperative Research and Development Agreement
 The announcement immediately attracted attention because TTSA had already publicised claims that some of its materials might originate from unidentified craft. To many readers, "the Army is studying it" sounded like "the Army believes it is real". Those are very different propositions.
 
 A research organisation can investigate a claim for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ The most significant factual takeaway was therefore narrower than some headlines
 
 That distinction is easy to lose once a story enters popular UFO discussion, where institutional engagement is often treated as a proxy for confirmation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OBSdg3nwxoo" title="Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer">Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan</a></p><p class="youtube-embed-meta">Channel: Dr Brian Keating &middot; Views: 723.1K &middot; Uploaded: August 2021 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OBSdg3nwxoo">Open on YouTube</a></p></div></div></div>
 
 ## Why testing is not endorsement
@@ -324,16 +321,69 @@ Critics argued that the Army was merely conducting due diligence on claims that 
 
 The available record supports the second interpretation more strongly. The Army agreed to investigate; it did not publicly announce successful validation.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-2-dark.svg" | relative_url }}" alt="Army deal illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The validation mistake in public discussion
 
 The most persistent misunderstanding surrounding the CRADA was a chain of reasoning that looked persuasive but was logically weak:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. TTSA claimed to possess unusual materials.
+2. The Army signed a research agreement with TTSA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[tothestars.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
+3. Therefore the Army must already know the materials are extraordinary.
+
+</div>
+
+The third step does not follow from the first two.
+
+Government agencies frequently investigate uncertain claims because the consequences of being wrong in either direction can be significant. If a material genuinely offered novel performance characteristics, it would be worth understanding. If it did not, testing could establish that.
+
+The distinction became even clearer in later years as additional analysis of the best-known TTSA material samples emerged. Publicly discussed examinations, including work associated with Oak Ridge National Laboratory and later analysis referenced by the Pentagon's All-domain Anomaly Resolution Office (AARO), did not produce evidence that the material was alien technology. Instead, the findings pointed toward terrestrial manufacture and challenged some of the more dramatic interpretations previously attached to the sample. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
+
+That outcome did not prove every TTSA-related claim false. It did, however, demonstrate why institutional testing cannot be treated as institutional confirmation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mifx4nzPY68" title="New UAP Materials Tests: What the Results Reveal | Dr. Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mifx4nzPY68" target="_blank" rel="noopener noreferrer">New UAP Materials Tests: What the Results Reveal | Dr. Garry Nolan</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation &middot; Views: 58.2K &middot; Uploaded: March 2026 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mifx4nzPY68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mifx4nzPY68">Open on YouTube</a></p></div></div></div>
+
+## How the agreement affected Puthoff's credibility
+
+For Puthoff, the Army deal had both positive and negative implications.
+
+On the positive side, it showed that organisations connected to him could attract attention from legitimate government research entities. Critics sometimes portray Puthoff as operating entirely outside serious institutions, but the CRADA demonstrates that Army researchers were willing to engage with a project in which he was a prominent scientific figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
+
+The agreement also reinforced a broader pattern in Puthoff's career. Whether in [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) research, advanced propulsion concepts or UAP investigations, he has repeatedly operated at the boundary between speculative ideas and official institutions. The Army partnership fit that pattern.
+
+On the negative side, the episode highlighted a recurring credibility problem surrounding Puthoff-adjacent claims. Institutional interest was often presented publicly in ways that encouraged audiences to infer more than the evidence justified.
+
+The CRADA became a symbol of that problem. Supporters sometimes cited it as proof that TTSA's materials had effectively been validated. Yet the publicly available documents never made that claim, and subsequent analysis did not produce the dramatic confirmation many expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...Oct 20, 2019 — An official agreement makes it clear the Army wants to expl...</span></span></span>
+
+As a result, the Army deal ultimately strengthened Puthoff's credibility in one narrow sense while weakening it in another.
+
+It strengthened the case that he had access to networks capable of engaging real defence institutions.
+
+It weakened arguments that such engagement should be treated as evidence that extraordinary UAP-related material claims had already been proven.
+
+<img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-dark.svg" | relative_url }}" alt="Army deal illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What remains established and what remains unproven
+
+Several points are relatively secure.
+
+Established facts include:
+
+* TTSA entered into a formal CRADA with the US Army in 2019. The Black Vault <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span>
+* The agreement involved research into advanced materials and related technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
+* Puthoff was one of the most visible scientific figures associated with TTSA's materials programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireTo The Stars Academy of Arts &amp; Science Announces...Oct 17, 2019 — 17, 2019 /PRNewswire/ -- To The Stars Academy of Arts &amp; Sci...</span></span></span>
+* The Army agreement represented genuine institutional engagement rather than a fabricated claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span>
+
+What remains unproven is equally important:
+
+* The agreement did not establish that TTSA possessed alien technology.
+* The agreement did not verify UFO crash-retrieval stories.
+* The agreement did not demonstrate [exotic physics]({{ 'exotic-physics/' | relative_url }}).
+* The agreement did not show that claimed metamaterials performed beyond known science.
+
+The key lesson from the episode is therefore not that the Army secretly confirmed TTSA's narrative. It is that official testing and official validation are different things. In the debate over Hal Puthoff's credibility, that distinction is central. The CRADA demonstrated institutional curiosity and research interest. It did not resolve the underlying question of whether the extraordinary claims attached to the materials were true.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MzrnJtNbwZE" title="The ADAM Research Project Begins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer">The ADAM Research Project Begins</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 72.2K &middot; Uploaded: August 2018 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MzrnJtNbwZE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -452,15 +502,15 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,15 +518,15 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +534,15 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +550,15 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,7 +566,7 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="army-deal-did-the-army-deal-prove-anything-hal-puthoff-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-army-deal-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-army-deal-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -727,189 +777,130 @@ The most persistent misunderstanding surrounding the CRADA was a chain of reason
 </script>
 </section>
 
-2. The Army signed a research agreement with TTSA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[tothestars.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
-3. Therefore the Army must already know the materials are extraordinary.
-
-</div>
-
-The third step does not follow from the first two.
-
-Government agencies frequently investigate uncertain claims because the consequences of being wrong in either direction can be significant. If a material genuinely offered novel performance characteristics, it would be worth understanding. If it did not, testing could establish that.
-
-The distinction became even clearer in later years as additional analysis of the best-known TTSA material samples emerged. Publicly discussed examinations, including work associated with Oak Ridge National Laboratory and later analysis referenced by the Pentagon's All-domain Anomaly Resolution Office (AARO), did not produce evidence that the material was alien technology. Instead, the findings pointed toward terrestrial manufacture and challenged some of the more dramatic interpretations previously attached to the sample. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
-
-That outcome did not prove every TTSA-related claim false. It did, however, demonstrate why institutional testing cannot be treated as institutional confirmation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mifx4nzPY68" title="New UAP Materials Tests: What the Results Reveal | Dr. Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mifx4nzPY68" target="_blank" rel="noopener noreferrer">New UAP Materials Tests: What the Results Reveal | Dr. Garry Nolan</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation &middot; Views: 58.2K &middot; Uploaded: March 2026 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mifx4nzPY68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mifx4nzPY68">Open on YouTube</a></p></div></div></div>
-
-## How the agreement affected Puthoff's credibility
-
-For Puthoff, the Army deal had both positive and negative implications.
-
-On the positive side, it showed that organisations connected to him could attract attention from legitimate government research entities. Critics sometimes portray Puthoff as operating entirely outside serious institutions, but the CRADA demonstrates that Army researchers were willing to engage with a project in which he was a prominent scientific figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
-
-The agreement also reinforced a broader pattern in Puthoff's career. Whether in [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) research, advanced propulsion concepts or UAP investigations, he has repeatedly operated at the boundary between speculative ideas and official institutions. The Army partnership fit that pattern.
-
-On the negative side, the episode highlighted a recurring credibility problem surrounding Puthoff-adjacent claims. Institutional interest was often presented publicly in ways that encouraged audiences to infer more than the evidence justified.
-
-The CRADA became a symbol of that problem. Supporters sometimes cited it as proof that TTSA's materials had effectively been validated. Yet the publicly available documents never made that claim, and subsequent analysis did not produce the dramatic confirmation many expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...Oct 20, 2019 — An official agreement makes it clear the Army wants to expl...</span></span></span>
-
-As a result, the Army deal ultimately strengthened Puthoff's credibility in one narrow sense while weakening it in another.
-
-It strengthened the case that he had access to networks capable of engaging real defence institutions.
-
-It weakened arguments that such engagement should be treated as evidence that extraordinary UAP-related material claims had already been proven.
-
-
-<img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-dark.svg" | relative_url }}" alt="Army deal illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What remains established and what remains unproven
-
-Several points are relatively secure.
-
-Established facts include:
-
-* TTSA entered into a formal CRADA with the US Army in 2019. The Black Vault <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span>
-* The agreement involved research into advanced materials and related technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</span></span></span>
-* Puthoff was one of the most visible scientific figures associated with TTSA's materials programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireTo The Stars Academy of Arts &amp; Science Announces...Oct 17, 2019 — 17, 2019 /PRNewswire/ -- To The Stars Academy of Arts &amp; Sci...</span></span></span>
-* The Army agreement represented genuine institutional engagement rather than a fabricated claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</span></span></span>
-
-What remains unproven is equally important:
-
-* The agreement did not establish that TTSA possessed alien technology.
-* The agreement did not verify UFO crash-retrieval stories.
-* The agreement did not demonstrate [exotic physics]({{ 'exotic-physics/' | relative_url }}).
-* The agreement did not show that claimed metamaterials performed beyond known science.
-
-The key lesson from the episode is therefore not that the Army secretly confirmed TTSA's narrative. It is that official testing and official validation are different things. In the debate over Hal Puthoff's credibility, that distinction is central. The CRADA demonstrated institutional curiosity and research interest. It did not resolve the underlying question of whether the extraordinary claims attached to the materials were true.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MzrnJtNbwZE" title="The ADAM Research Project Begins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer">The ADAM Research Project Begins</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 72.2K &middot; Uploaded: August 2018 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MzrnJtNbwZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MzrnJtNbwZE">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: arl.devcom.army.mil  
-   Link: [https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/](https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/)  
+   Link: <a href="https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/" target="_blank" rel="noopener noreferrer nofollow">https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEVCOM Army Research LaboratoryCooperative Research and Development Agreement (CRADA)A Cooperative Research and Development Agreement (CR...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cbc.devcom.army.mil  
-   Link: [https://www.cbc.devcom.army.mil/wp-content/uploads/2024/11/FY19-CCDC-CBC-Proceedings-Report_WEB_FINAL.pdf](https://www.cbc.devcom.army.mil/wp-content/uploads/2024/11/FY19-CCDC-CBC-Proceedings-Report_WEB_FINAL.pdf)  
+   Link: <a href="https://www.cbc.devcom.army.mil/wp-content/uploads/2024/11/FY19-CCDC-CBC-Proceedings-Report_WEB_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cbc.devcom.army.mil/wp-content/uploads/2024/11/FY19-CCDC-CBC-Proceedings-Report_WEB_FINAL.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the CCDC CBC ILIR and SSI Programs FY19 iAs part of the Combat Development element, CCDC focuses on fundamental scientific research, t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tothestars.media  
    Title: To The Stars*TTSA Announces CRADA with U.S  
-   Link: [https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR](https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR)  
+   Link: <a href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorTezS7GcDTnKmaiEUZJjDvkbmt8xwraWHqgcA2gt50uPZmsLrR</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army CCDCOct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilitie...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: prnewswire.com  
-   Link: [https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html](https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireTo The Stars Academy of Arts &amp; Science Announces...Oct 17, 2019 — 17, 2019 /PRNewswire/ -- To The Stars Academy of Arts &amp; Sci...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: documents2.theblackvault.com  
    Title: TTSA ARMY CRADA  
-   Link: [https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf](https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultTTSA-ARMY-CRADA.pdfOct 1, 2019 — Cooperative Research and Development Agreement (&quot;CRADA&quot;) that will be binding upon... CR...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Cooperative research and development agreement  
-   Link: [https://en.wikipedia.org/wiki/Cooperative_research_and_development_agreement](https://en.wikipedia.org/wiki/Cooperative_research_and_development_agreement)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cooperative_research_and_development_agreement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cooperative_research_and_development_agreement</a>  
 
 7. <a id="endnote-7"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims](https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims)  
+   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...Oct 20, 2019 — An official agreement makes it clear the Army wants to expl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company](https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company)  
+   Link: <a href="https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army has confirmed that it has signed a cooperative research deal with former Blink 182 frontman Tom DeLonge&#x27;s To The Stars Academy...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tothestars.media  
    Title: To The Stars*TTS* Analysis on ORNL Report  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorYJtuAKQzykm3fOoyhi-8d3FKm2fMozqX0zU6RzpJevVTZ-tkK](https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorYJtuAKQzykm3fOoyhi-8d3FKm2fMozqX0zU6RzpJevVTZ-tkK)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorYJtuAKQzykm3fOoyhi-8d3FKm2fMozqX0zU6RzpJevVTZ-tkK" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorYJtuAKQzykm3fOoyhi-8d3FKm2fMozqX0zU6RzpJevVTZ-tkK</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 28, 2025 — The Puthoff/Davis analysis and the ORNL analysis answer most of the fundamental questions about the structure of the...</p></details>
    Published: February 28, 2025  
 
 10. <a id="endnote-10"></a>
    Source: tothestars.media  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoobze0IEc88tWxsFN8n96bCTOvZTNLirHu-8iDLC2TMjm9-jFM6](https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoobze0IEc88tWxsFN8n96bCTOvZTNLirHu-8iDLC2TMjm9-jFM6)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoobze0IEc88tWxsFN8n96bCTOvZTNLirHu-8iDLC2TMjm9-jFM6" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoobze0IEc88tWxsFN8n96bCTOvZTNLirHu-8iDLC2TMjm9-jFM6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRADA FAQThe U.S. Army approached To The Stars Academy in search of additional information about mechanical and electro-magnetic (EM) met...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: to the stars academy of arts science ttsa  
-   Link: [https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/](https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Combat...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: [https://en.wikipedia.org/wiki/To_The_Stars_Inc](https://en.wikipedia.org/wiki/To_The_Stars_Inc)  
+   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Inc.... cooperative research and development agreement with the United States Army Combat Capabilities Development Comman...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theblackvault.com  
    Title: Secrecy Deepens About U.S  
-   Link: [https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/](https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Agreement To Analyze...12 Mar 2020 — “TTSA sending metamaterials to the Army isn&#x27;t what they implied they were going to do a couple...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: sec.gov  
-   Link: [https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm](https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SECus army combat capabilities development commandCOOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENT. BETWEEN. TO THE STARS ACADEMY OF ARTS A...</p></details>
+   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>us army combat capabilities development commandCOOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENT. BETWEEN. TO THE STARS ACADEMY OF ARTS A...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nextgov.com  
-   Link: [https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf](https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf)  
+   Link: <a href="https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COOPERATIVE RESEARCH AND DEVELOPMENT...COOPERATIVE RESEARCH AND DEVELOPMENT AGREEMENT. BETWEEN. TO THE STARS ACADEMY OF ARTS AND SCIENCE...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/165450020177678/posts/2412605535462104/](https://www.facebook.com/groups/165450020177678/posts/2412605535462104/)  
+   Link: <a href="https://www.facebook.com/groups/165450020177678/posts/2412605535462104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/165450020177678/posts/2412605535462104/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Army partners with To The Stars AcademyThe contract states that To the Stars will provide samples in its possession of “metamaterials”...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: smsbiotech.com  
-   Link: [https://www.smsbiotech.com/blog/smsbiotech-establishes-a-crada-with-the-u-s-army-medical-research-institute-of-chemical-defense](https://www.smsbiotech.com/blog/smsbiotech-establishes-a-crada-with-the-u-s-army-medical-research-institute-of-chemical-defense)  
+   Link: <a href="https://www.smsbiotech.com/blog/smsbiotech-establishes-a-crada-with-the-u-s-army-medical-research-institute-of-chemical-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.smsbiotech.com/blog/smsbiotech-establishes-a-crada-with-the-u-s-army-medical-research-institute-of-chemical-defense</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SMSbiotech Establishes a CRADA with the U.S. Army...22 Apr 2025 — Under this agreement, SMSbiotech and USAMRICD will conduct joint resea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/](https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/)  
+   Link: <a href="https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tom-delonges-ufo-research-group-signs-contract-with-us-army-to-develop-far-future-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge&#x27;s UFO Research Group Signs Contract With...21 Oct 2019 — The group, called To the Stars Academy, just signed an agreement wi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: metabunk.org  
    Title: claim the cia blocked the transfer of meta materials from crashed ufos.13773  
-   Link: [https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/](https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/)  
+   Link: <a href="https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-the-cia-blocked-the-transfer-of-meta-materials-from-crashed-ufos.13773/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: The CIA Blocked the Transfer of Meta-materials...19 Nov 2024 — As noted, Hal Puthoff was present in the AAWSAP/BAASS meeting with...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nextgov.com  
    Title: army partners ufo researchers study active camouflage and other sci fi tech  
-   Link: [https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/](https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/)  
+   Link: <a href="https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWArmy Partners with UFO Researchers to Study Active...22 Oct 2019 — The partnership will explore metamaterials, quantum commun...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/DEPS-BOARD-24-01](https://www.nationalacademies.org/projects/DEPS-BOARD-24-01)  
+   Link: <a href="https://www.nationalacademies.org/projects/DEPS-BOARD-24-01" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DEPS-BOARD-24-01</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preventing Technology Surprise: The Army&#x27;s Leading Edge...The Army relies on its science and technology research enterprise to ensure th...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/pkle7i/why_did_ttsa_send_their_samples_to_the_army_for/](https://www.reddit.com/r/ufo/comments/pkle7i/why_did_ttsa_send_their_samples_to_the_army_for/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/pkle7i/why_did_ttsa_send_their_samples_to_the_army_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/pkle7i/why_did_ttsa_send_their_samples_to_the_army_for/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis?In 2012 Howe sent the materials to Hal Puthoff for testing. He told her he couldn&#x27;t find anything special about them, and sent t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/](https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/)  
+   Link: <a href="https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>non-human life connected to crashed UAPs He said his...Read more...</p></details>

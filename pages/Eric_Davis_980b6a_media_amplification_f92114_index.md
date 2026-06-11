@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-media-amplification/
 description: Focused pages that expand on Media Role.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Eric_Davis_980b6a_media_amplification_f92114
-parent_title: Media Role | How Credible Is Eric Davis?
+parent_title: Media Role
 parent_nav_short_title: Media Role
 parent_permalink: /media-role/
 ---

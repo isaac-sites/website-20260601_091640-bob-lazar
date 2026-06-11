@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /source-type/
 nav_short_title: Secrecy gap
 title: Can classification stand in for evidence?
-title_full: Can classification stand in for evidence? | Source Type
+title_full: Can classification stand in for evidence?
 display_title_short: Secrecy gap
 display_title: Secrecy gap
 heading_title: Can classification stand in for evidence?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Was Davis A Witness Or A Messenger? | Davis
+parent_title: Was Davis A Witness Or A Messenger?
 parent_permalink: /source-type/
 parent_nav_short_title: Source Type
 parent_heading_title: Was Davis A Witness Or A Messenger?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /layered-memo/
   short_title: Layered memo
   heading_title: What did the Wilson Davis memo really show?
-date: '2026-06-09 03:04:43 '
+date: '2026-06-11 21:07:25 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classificati
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s most controversial UFO-related claims often sit behind a wall of secrecy. Supporters argue that this is exactly what should be expected if the subject involves sensitive defence programmes, special-access compartments or recovered technology. Critics respond that classification can explain why evidence is hidden, but it cannot itself function as evidence that extraordinary claims are true.
-
+Eric Davis’s most controversial UFO-related claims often sit behind a wall of secrecy. Supporters argue that this is exactly what should be expected if the subject involves sensitive defence programmes, special-access compartments or recovered technology. Critics respond that classification can explain why evidence is hidden, but it cannot itself function as evidence that extraordinary claims are true.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-1-dark.svg" | relative_url }}" alt="Secrecy gap illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension is central to assessing Davis’s credibility. Unlike some UFO personalities, Davis has a documented history of work connected to defence-related advanced aerospace studies. Yet the strongest public claims associated with him — hidden retrieval programmes, “off-world vehicles”, and the alleged Wilson-Davis conversation about deeply buried access programmes — remain difficult for outsiders to verify because the underlying evidence is said to be classified, restricted, leaked, or unavailable. The result is a persistent secrecy gap: claims are presented as too sensitive to prove publicly, while the absence of public proof makes independent assessment difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — Davis, who once produced a repor...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
@@ -273,7 +272,6 @@ However, the existence of classified programmes does not automatically validate 
 A practical credibility problem emerges when a claim depends almost entirely on inaccessible evidence. If a person says that recovered non-human technology exists but the supporting documents, physical materials, laboratory analyses and chain-of-custody records cannot be examined publicly, outside observers are left evaluating the source rather than the evidence itself.
 
 In Davis’s case, many debates therefore revolve around trust:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,10 +295,9 @@ A useful distinction is:
 
 **Verified**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Davis worked on advanced theoretical aerospace and propulsion-related studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: envisioning.com">[envisioning.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">envisioning.com</span><span class="citation-popover-snippet">Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</span></span></span>
+* Davis worked on advanced theoretical aerospace and propulsion-related studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: envisioning.com">[envisioning.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">envisioning.com</span><span class="citation-popover-snippet">Aerospace Studies &#124; XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</span></span></span>
 * Davis participated in circles associated with AAWSAP-era research.
 * Government-linked technical reports bearing his name exist publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — There was originally one other criterion for...</span></span></span>
 
@@ -317,9 +314,6 @@ The first category can be independently checked. The second category depends hea
 
 That does not make the second category false. It means it cannot be tested with the same confidence as the first.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ye0eVR5Oho" title="The Wilson Memo Unveiled: Secret UFO Programs and Pentagon Intrigue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ye0eVR5Oho" target="_blank" rel="noopener noreferrer">The Wilson Memo Unveiled: Secret UFO Programs and Pentagon Intrigue</a></p><p class="youtube-embed-meta">Channel: UFO to UAP: The Evolution of the Unexplained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ye0eVR5Oho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ye0eVR5Oho">Open on YouTube</a></p></div></div></div>
-
 ## The “off-world vehicles” example shows the secrecy gap clearly
 
 The best-known modern example is the reporting that Davis briefed government officials about retrievals from “off-world vehicles not made on this earth”.
@@ -329,7 +323,6 @@ The claim gained attention because it was not presented as a casual rumour. Repo
 Yet the public evidence remains limited.
 
 The reporting established that Davis allegedly made the claim. It did not publicly establish:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -350,7 +343,6 @@ Sceptics counter that a classified briefing can contain mistakes, assumptions or
 
 That is the central evidential problem: secrecy may explain the absence of proof, but it cannot replace proof.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-2-dark.svg" | relative_url }}" alt="Secrecy gap illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How secrecy can hide both facts and mistakes
 
@@ -367,7 +359,6 @@ Historically, secrecy has hidden genuine information. Intelligence agencies, mil
 At the same time, classified environments are not immune to error.
 
 Information inside compartmented systems can become distorted through:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -386,14 +377,11 @@ Even if Davis spoke with highly placed officials, that does not guarantee those 
 
 The possibility of error is one reason intelligence claims in other domains are normally judged by documentary evidence, physical evidence and independent corroboration rather than status alone.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gpG_VeVy-4M" title="Whistleblower tells Congress the US is concealing ‘multi-decade’ program that captures UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gpG_VeVy-4M" target="_blank" rel="noopener noreferrer">Whistleblower tells Congress the US is concealing ‘multi-decade’ program that captures UFOs</a></p><p class="youtube-embed-meta">Channel: ShanghaiEye魔都眼</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gpG_VeVy-4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gpG_VeVy-4M">Open on YouTube</a></p></div></div></div>
-
 ## The Wilson-Davis memo highlights the verification problem
 
 The alleged Wilson-Davis memo is perhaps the clearest example of classification being used as both an explanation and a barrier.
 
-The document purports to record notes from a 2002 conversation between Davis and former Defence Intelligence Agency director Thomas Wilson. According to the notes, Wilson allegedly discovered a deeply hidden UFO-related programme and was denied access despite his senior position. The story has become one of the most discussed documents in modern UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+The document purports to record notes from a 2002 conversation between Davis and former Defence Intelligence Agency director Thomas Wilson. According to the notes, Wilson allegedly discovered a deeply hidden UFO-related programme and was denied access despite his senior position. The story has become one of the most discussed documents in modern UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 Several features make the memo unusual:
 
@@ -401,7 +389,7 @@ Several features make the memo unusual:
 * The notes are not supported by released programme records.
 * No publicly available archive confirms the alleged programme.
 * Wilson has publicly disputed aspects of the story.
-* [Debate]({{ 'debate/' | relative_url }}) continues over authenticity, authorship and accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
+* [Debate]({{ 'debate/' | relative_url }}) continues over authenticity, authorship and accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</span></span></span>
 
 Supporters point to details that they believe fit known bureaucratic structures and later whistleblower allegations. Some also note that Davis has made comments that many interpret as acknowledging involvement with the document. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richarddolanmembers.com">[Richard Dolan Members]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richarddolanmembers.com</span><span class="citation-popover-title">eric davis appears to admit writing wilson davis memo</span><span class="citation-popover-snippet">Eric Davis Appears to Admit Writing Wilson/Davis Memo2 Sept 2024 — Physicist Dr. Eric Davis seems to have confirmed his authorship of the...</span></span></span>
 
@@ -410,7 +398,6 @@ Critics focus on a simpler issue: even if the notes were genuinely written by Da
 This distinction is often overlooked.
 
 A document can be authentic while still containing claims that remain unverified.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-3-dark.svg" | relative_url }}" alt="Secrecy gap illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_classification_missi_9393c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical test for Davis’s strongest claims
@@ -429,15 +416,11 @@ The evidence is weaker but still substantial.
 
 Multiple reports place him in briefing and advisory environments connected to UAP-related investigations and discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — Davis, who once produced a repor...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 ### Does that prove the existence of recovered non-human technology?
 
 This is where the evidential foundation becomes much thinner.
 
 The public lacks:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -582,15 +565,15 @@ The result is a credibility assessment that cannot rest solely on credentials, s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Iron On Patch Space X Files 90s Alien Abduction Badge/Applique/Trans"><img src="https://i.ebayimg.com/images/g/GSAAAOSwNMVaXywJ/s-l225.jpg" alt="Listing image for Rainbow UFO Iron On Patch Space X Files 90s Alien Abduction Badge/Applique/Trans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Iron On Patch Space X Files 90s Alien Abduction Badge/Applique/Trans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +581,15 @@ The result is a credibility assessment that cannot rest solely on credentials, s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns"><img src="https://i.ebayimg.com/images/g/XhQAAOSwZpNe8HNX/s-l225.jpg" alt="Listing image for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +597,15 @@ The result is a credibility assessment that cannot rest solely on credentials, s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-FILES I STILL WANT TO BELIEVE UFO pin Badge Patch New High Quality Fox Mulder"><img src="https://i.ebayimg.com/images/g/BQEAAOSwypFnlQ7W/s-l225.jpg" alt="Listing image for X-FILES I STILL WANT TO BELIEVE UFO pin Badge Patch New High Quality Fox Mulder" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">X-FILES I STILL WANT TO BELIEVE UFO pin Badge Patch New High Quality Fox Mulder</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,15 +613,15 @@ The result is a credibility assessment that cannot rest solely on credentials, s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On"><img src="https://i.ebayimg.com/images/g/2hYAAOSwd8Bgk-7r/s-l225.jpg" alt="Listing image for Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -646,7 +629,7 @@ The result is a credibility assessment that cannot rest solely on credentials, s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="secrecy-gap-5463d5-can-classification-stand-in-for-evidence-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-classification-stand-in-for-evidence-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="can-classification-stand-in-for-evidence-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -861,135 +844,135 @@ The result is a credibility assessment that cannot rest solely on credentials, s
 
 1. <a id="endnote-1"></a>
    Source: earthtech.org  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W. DavisDavis, E. W. (2010), “Traversable Wormholes, Stargates, and [Negative Energy](&amp;#123;&amp;#123; &#x27;negative-energy/&#x27; | relative_url &amp;#125;&amp;#125;),” Defense Intelligence Reference Document, Acqui...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DocumentCloudEric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis meeting with Adm. WilsonEric Davis meeting with Adm. Wilson. File. File Text Pages Notes Results. Search. Search...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/](https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/y9z9g4/what_are_your_thoughts_on_the_wilsondavis_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is taken after a 2002 meeting with former Admiral Thomas R. Wilson...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/](https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18op4ob/dr_eric_davis_himself_confirms_that_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis himself confirms that the Wilson-Davis Memo...December 22, 2023 — Eric Davis himself confirms that the Wilson-Davis Memo was...</p></details>
    Published: December 22, 2023  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: the alleged [wilson memo](&#123;&#123; 'wilson-memo/' | relative_url &#125;&#125;) leak from 2002 has very  
-   Link: [https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/](https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169a9ia/the_alleged_wilson_memo_leak_from_2002_has_very/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged “Wilson Memo” leak from 2002 has very...Eric Davis himself has stated that the leak originated from the estate of astronaut...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/](https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gceoz4/context_on_wilsondavis_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context on &quot;Wilson-Davis memo&quot;?: r/aliensI recently came across this doc just from surface level google searching, which for now has bee...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/](https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ade to a private Facebook group on August 13.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: “Off world vehicles, not made of this earth.” Dr  
-   Link: [https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/](https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W DavisDr. Eric Davis&#x27;s quote regarding briefing the senate select committee on intelligence to UFO/UAP crash retrieval programs exe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/](https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17mirrs/complete_summary_of_the_wilson_memo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the &quot;Wilson Memo&quot;: r/aliensGansler said UFO&#x27;s are real but alien abductions are not real. He told Wilson to drop the matter a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: disclosure dr eric w davis said he laid it all  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rfsvkm/disclosure_dr_eric_w_davis_said_he_laid_it_all/](https://www.reddit.com/r/UFOs/comments/1rfsvkm/disclosure_dr_eric_w_davis_said_he_laid_it_all/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rfsvkm/disclosure_dr_eric_w_davis_said_he_laid_it_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rfsvkm/disclosure_dr_eric_w_davis_said_he_laid_it_all/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W Davis said he laid it all out in his interviews.: r/...He authored at least six of the 38 Defense Intelligence Reference Documen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — Davis, who once produced a repor...</p></details>
    Published: July 24, 2020  
 
 13. <a id="endnote-13"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — There was originally one other criterion for...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: richarddolanmembers.com  
-   Title: eric davis appears to admit writing [wilson davis memo](&#123;&#123; 'wilson-memo/' | relative_url &#125;&#125;)  
-   Link: [https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/](https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/)  
+   Title: eric davis appears to admit writing wilson davis memo  
+   Link: <a href="https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-secrecy/eric-davis-appears-to-admit-writing-wilson-davis-memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis Appears to Admit Writing Wilson/Davis Memo2 Sept 2024 — Physicist Dr. Eric Davis seems to have confirmed his authorship of the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering [warp drives](&amp;#123;&amp;#123; &#x27;warp-drive-bc4c41/&#x27; | relative_url &amp;#125;&amp;#125;), traversable wormh...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: cropper.watch.aetnd.com  
-   Link: [https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf](https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf)  
+   Link: <a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wormholes, Stargates, and Negative EnergyThis product is one in a series of advanced technology reports produced in FY 2009 under the Def...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/](https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/)  
+   Link: <a href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: exopaedia.org  
-   Link: [https://www.exopaedia.org/Wilson%2BMemo](https://www.exopaedia.org/Wilson%2BMemo)  
+   Link: <a href="https://www.exopaedia.org/Wilson%2BMemo" target="_blank" rel="noopener noreferrer nofollow">https://www.exopaedia.org/Wilson%2BMemo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilson MemoThe Wilson Document is a leaked UFO memorandum that Eric Davis typed up describing his meeting with Admiral Tom Wilson in 2002...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo](https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo)  
+   Link: <a href="https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-ar/podcasts/91a82420-e551-49ed-988c-15b42ffe689e/episodes/b1a46c97-45ec-4fd4-aa13-827482f8caaa/it%27s-a-very-exciting-time-03-the-admiral-wilson-memo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com03. The Admiral Wilson MemoA document that records an alleged conversation between astrophysicist Dr. Eric Davis and Admiral Wi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — Davis, who now works for defense contractor A...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: interstellarresearchcentre.org  
-   Link: [https://interstellarresearchcentre.org/papers](https://interstellarresearchcentre.org/papers)  
+   Link: <a href="https://interstellarresearchcentre.org/papers" target="_blank" rel="noopener noreferrer nofollow">https://interstellarresearchcentre.org/papers</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KtE4kJ79yjc](https://www.youtube.com/watch?v=KtE4kJ79yjc)  
+   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. DavisEric discusses his direct involvement in classified UAP programs, advanced propulsion researc...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: creators.spotify.com  
-   Link: [https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa](https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa)  
+   Link: <a href="https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/vettedufo/episodes/The-Entire-Eric-Davis--Admiral-Wilson-UFO-MEMO-Read-Aloud-e2j82fa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/vettedufo...No](https://creators.spotify.com/pod/profile/vettedufo...No) information is available for this page...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
    Title: Engineering Wormhole Redirectors | PDF | General Relativity Eric W  
-   Link: [https://www.scribd.com/document/340321955/Teleportation-via-Wormhole-Stargates](https://www.scribd.com/document/340321955/Teleportation-via-Wormhole-Stargates)  
+   Link: <a href="https://www.scribd.com/document/340321955/Teleportation-via-Wormhole-Stargates" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/340321955/Teleportation-via-Wormhole-Stargates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy. PDF... Defense Intelligence Reference Document Traversible Wormholes, Stargates...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT](https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT)  
+   Link: <a href="https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Wilson-Davis-Memo-Interview-Engineering-Documents-ebook/dp/B0CJ7GBTKT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis and Admiral Thomas Wilson concerning UFOs. It was reportedly found in the...Read more...</p></details>

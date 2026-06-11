@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /cia-career/
 nav_short_title: Insider halo
 title: Why insider status can mislead readers
-title_full: Why insider status can mislead readers | CIA Career
+title_full: Why insider status can mislead readers
 display_title_short: Insider halo
 display_title: Insider halo
 heading_title: Why insider status can mislead readers
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does His CIA Career Prove? | Ramirez
+parent_title: What Does His CIA Career Prove?
 parent_permalink: /cia-career/
 parent_nav_short_title: CIA Career
 parent_heading_title: What Does His CIA Career Prove?
@@ -253,7 +253,7 @@ next_link:
   permalink: /resume-limits/
   short_title: Resume limits
   heading_title: How far can a CIA resume go?
-date: '2026-06-09 02:59:29 '
+date: '2026-06-11 21:05:10 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_
 
 ## Introduction
 
-One of the easiest mistakes in UFO and UAP debates is to assume that a person with a high-level intelligence background must have seen the whole picture. [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})'s credibility debates often revolve around exactly this problem. His [CIA career]({{ 'cia-career/' | relative_url }}) gives him a degree of institutional credibility, but intelligence systems are built around compartmentalisation: even senior officials usually see only the information necessary for their specific duties. A security clearance is not the same thing as unrestricted access. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> That distinction matters because many audiences treat intelligence credentials as indirect evidence for extraordinary claims. When a former CIA officer discusses UFOs, alien hybrids, hidden programmes or future disclosure scenarios, listeners may assume those ideas come from privileged access. In reality, the public often cannot tell where verified professional knowledge ends and personal interpretation, second-hand information, speculation or UFO-community narratives begin.
-
+One of the easiest mistakes in UFO and UAP debates is to assume that a person with a high-level intelligence background must have seen the whole picture. John Ramirez's credibility debates often revolve around exactly this problem. His [CIA career]({{ 'cia-career/' | relative_url }}) gives him a degree of institutional credibility, but intelligence systems are built around compartmentalisation: even senior officials usually see only the information necessary for their specific duties. A security clearance is not the same thing as unrestricted access. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> That distinction matters because many audiences treat intelligence credentials as indirect evidence for extraordinary claims. When a former CIA officer discusses UFOs, alien hybrids, hidden programmes or future disclosure scenarios, listeners may assume those ideas come from privileged access. In reality, the public often cannot tell where verified professional knowledge ends and personal interpretation, second-hand information, speculation or UFO-community narratives begin.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-1-dark.svg" | relative_url }}" alt="Insider halo illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why intelligence careers create an "insider halo"
@@ -276,7 +275,6 @@ This is not unique to Ramirez. UFO history contains repeated examples where form
 
 A former intelligence officer may genuinely understand:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * How classified reporting works.
@@ -287,7 +285,6 @@ A former intelligence officer may genuinely understand:
 </div>
 
 That same background does not automatically establish that the person had access to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -302,7 +299,7 @@ The public often compresses these separate questions into a single judgement: "H
 
 ## How compartmentalisation limits what even senior officials know
 
-The US intelligence system is intentionally designed so that access is restricted not merely by clearance level but by "need to know". CIA and intelligence-community guidance explicitly states that an employee is not entitled to information simply because they possess the required clearance. Access requires both clearance and authorised need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIASENSITIVE COMPARTMENTED INFORMATION:...They serve to restrict access to the protected information to persons who (a) have a clearly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">4. Discussion of information concerning the activities of...</span></span></span>
+The US intelligence system is intentionally designed so that access is restricted not merely by clearance level but by "need to know". CIA and intelligence-community guidance explicitly states that an employee is not entitled to information simply because they possess the required clearance. Access requires both clearance and authorised need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SENSITIVE COMPARTMENTED INFORMATION:...They serve to restrict access to the protected information to persons who (a) have a clearly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">4. Discussion of information concerning the activities of...</span></span></span>
 
 Sensitive Compartmented Information (SCI) systems work on this principle. Even individuals with Top Secret eligibility do not automatically gain access to every compartment. They must be formally [read into]({{ 'read-into/' | relative_url }}) particular programmes and information channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdse.edu/Portals/124/Documents/student-guides/SCI100-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdse.edu">[2cdse.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdse.edu</span><span class="citation-popover-snippet">Sensitive Compartmented Information (SCI) RefresherThis guidance established that heads of IC elements must accept investigations, securi...</span></span></span>
 
@@ -319,14 +316,11 @@ Compartmentalisation means both assumptions can be wrong.
 
 For Ramirez, this means his CIA service neither proves nor disproves his UFO-related claims. It demonstrates that he operated inside classified environments. It does not show that he possessed direct access to any specific UAP programme being discussed publicly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/199bR_vIjzQ" title="Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer">Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 44.9K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=199bR_vIjzQ">Open on YouTube</a></p></div></div></div>
-
 ## Why audiences often overread secrecy and clearance
 
 Security clearances carry symbolic power.
 
-To many listeners, phrases such as "CIA officer", "Top Secret", "intelligence insider" or "[counterproliferation]({{ 'threat-work/' | relative_url }}) specialist" imply hidden knowledge. Popular culture reinforces the idea that senior intelligence personnel possess near-complete awareness of secret government activities.
+To many listeners, phrases such as "CIA officer", "Top Secret", "intelligence insider" or "counterproliferation specialist" imply hidden knowledge. Popular culture reinforces the idea that senior intelligence personnel possess near-complete awareness of secret government activities.
 
 Real intelligence systems are far less centralised.
 
@@ -339,7 +333,6 @@ That second sentence is rarely demonstrated.
 ## Separating informed context from claimed access
 
 A useful way to evaluate Ramirez's statements is to separate different categories of information.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-2-dark.svg" | relative_url }}" alt="Insider halo illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Strongest category: institutional observations
@@ -356,13 +349,11 @@ An intelligence veteran may look at unusual military reporting patterns, classif
 
 The distinction matters because informed inference is still inference.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hbfYpZOGTYI" title="An Intelligence Officer with an Important Story to Tell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hbfYpZOGTYI" target="_blank" rel="noopener noreferrer">An Intelligence Officer with an Important Story to Tell</a></p><p class="youtube-embed-meta">Channel: Whitley Strieber</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hbfYpZOGTYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hbfYpZOGTYI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/199bR_vIjzQ" title="Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer">Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 44.9K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=199bR_vIjzQ">Open on YouTube</a></p></div></div></div>
 
 ### Weakest category: extraordinary factual claims
 
 The credibility burden rises sharply when claims move into areas such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,7 +378,6 @@ This creates a misleading impression of direct knowledge. Listeners may assume t
 
 The distinction is especially important because many public UAP narratives rely on phrases such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "I was told."
@@ -399,11 +389,10 @@ The distinction is especially important because many public UAP narratives rely 
 
 Such statements can be sincere while remaining difficult to verify.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-3-dark.svg" | relative_url }}" alt="Insider halo illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_insider_halo_compart_1b5819-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What sceptics and supporters argue
 
-[Supporters]({{ 'supporters-124489/' | relative_url }}) of Ramirez often argue that his intelligence background makes it unlikely that he is simply inventing stories. They see his career as evidence that he understands classified systems and may have encountered information unavailable to the public. Some also argue that compartmentalisation itself could explain why evidence remains scarce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditRetired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — This is basically a summary of the broad content spectrum...</span><span class="citation-popover-meta">Published: August 16, 2024</span></span></span>
+[Supporters]({{ 'supporters-124489/' | relative_url }}) of Ramirez often argue that his intelligence background makes it unlikely that he is simply inventing stories. They see his career as evidence that he understands classified systems and may have encountered information unavailable to the public. Some also argue that compartmentalisation itself could explain why evidence remains scarce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Retired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — This is basically a summary of the broad content spectrum...</span><span class="citation-popover-meta">Published: August 16, 2024</span></span></span>
 
 [Sceptics]({{ 'sceptics-70c753/' | relative_url }}) generally focus on a different point. They argue that intelligence credentials are being used as a substitute for evidence. Critics note that many of Ramirez's most controversial claims have not been accompanied by verifiable documents, official confirmations or independently confirmed first-hand evidence. Some observers in UFO communities themselves have questioned whether his public claims exceed what his known professional background can reasonably support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">same thing about Roswell over the years...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Former CIA Signal Specialist John Ramirez shares</span><span class="citation-popover-snippet">So this ex CIA guy can go on record and disclose that the aliens are coming in 2027 and that he knows who they are...</span></span></span>
 
@@ -420,10 +409,6 @@ What it does not do is independently verify every UFO or extraterrestrial claim 
 For readers trying to assess credibility, the key question is not whether someone held a clearance. It is whether the specific claim is supported by identifiable access, first-hand knowledge, documents, corroborating witnesses or independently verifiable evidence. Compartmentalisation means even highly cleared officials may know far less than the public imagines, while the insider halo effect encourages audiences to assume they know far more.
 
 That tension sits at the centre of the John Ramirez debate. His career credentials are real and relevant. The extent of any UAP-specific access behind his most extraordinary public claims remains much harder to establish.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fhw2bv_QvAw" title="Humans Have Alien DNA Says Former CIA Officer John Ramirez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fhw2bv_QvAw" target="_blank" rel="noopener noreferrer">Humans Have Alien DNA Says Former CIA Officer John Ramirez</a></p><p class="youtube-embed-meta">Channel: Cosmic Road</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fhw2bv_QvAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fhw2bv_QvAw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -542,15 +527,15 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spy Game Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="https://i.ebayimg.com/images/g/rpYAAeSwWuBosCCm/s-l225.jpg" alt="Listing image for Spy Game Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3” CIA MKULTRA PVC PATCH HOOK LOOP HUMINT PSYOPS MK ULTRA SOD COVERT OSS SOG"><img src="https://i.ebayimg.com/images/g/rrAAAeSwuJxoaUWx/s-l225.jpg" alt="Listing image for 3” CIA MKULTRA PVC PATCH HOOK LOOP HUMINT PSYOPS MK ULTRA SOD COVERT OSS SOG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Spy Game Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer">3” CIA MKULTRA PVC PATCH HOOK LOOP HUMINT PSYOPS MK ULTRA SOD COVERT OSS SOG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: spy memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +543,15 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vanity Fair Spy Print Cricket Memorabilia Collection Print"><img src="https://i.ebayimg.com/images/g/n-AAAOSwc-NkoHXr/s-l225.jpg" alt="Listing image for Vanity Fair Spy Print Cricket Memorabilia Collection Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR"><img src="https://i.ebayimg.com/images/g/Ig8AAeSw2QVpzWp1/s-l225.jpg" alt="Listing image for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vanity Fair Spy Print Cricket Memorabilia Collection Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: spy memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +559,31 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Man from U.N.C.L.E. Pen Communicator Prop - Napoleon Solo Spy Gadget Fan Art"><img src="https://i.ebayimg.com/images/g/NygAAeSwAaFp2MUQ/s-l225.jpg" alt="Listing image for The Man from U.N.C.L.E. Pen Communicator Prop - Napoleon Solo Spy Gadget Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330"><img src="https://i.ebayimg.com/images/g/4QMAAOSwiW5oWdh8/s-l225.jpg" alt="Listing image for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Man from U.N.C.L.E. Pen Communicator Prop - Napoleon Solo Spy Gadget Fan Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spy memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: spy memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch"><img src="https://i.ebayimg.com/images/g/D4kAAOSw~4pltTNN/s-l225.jpg" alt="Listing image for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer">American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,7 +591,7 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spy+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-spy-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spy memorabilia" data-ebay-reference="why-insider-status-can-mislead-readers-spy-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-insider-status-can-mislead-readers-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="why-insider-status-can-mislead-readers-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -805,154 +806,154 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
 
 1. <a id="endnote-1"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIASENSITIVE COMPARTMENTED INFORMATION:...They serve to restrict access to the protected information to persons who (a) have a clearly e...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP91B00390R000400380023-0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SENSITIVE COMPARTMENTED INFORMATION:...They serve to restrict access to the protected information to persons who (a) have a clearly e...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Sensitive compartmented information  
-   Link: [https://en.wikipedia.org/wiki/Sensitive_compartmented_information](https://en.wikipedia.org/wiki/Sensitive_compartmented_information)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensitive_compartmented_information</a>  
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R002400020006-0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4. Discussion of information concerning the activities of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdse.edu  
-   Link: [https://www.cdse.edu/Portals/124/Documents/student-guides/SCI100-guide.pdf](https://www.cdse.edu/Portals/124/Documents/student-guides/SCI100-guide.pdf)  
+   Link: <a href="https://www.cdse.edu/Portals/124/Documents/student-guides/SCI100-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Portals/124/Documents/student-guides/SCI100-guide.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensitive Compartmented Information (SCI) RefresherThis guidance established that heads of IC elements must accept investigations, securi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ndsshow.com  
-   Link: [https://www.ndsshow.com/how-intelligence-agencies-protect-their-sources-and-methods/](https://www.ndsshow.com/how-intelligence-agencies-protect-their-sources-and-methods/)  
+   Link: <a href="https://www.ndsshow.com/how-intelligence-agencies-protect-their-sources-and-methods/" target="_blank" rel="noopener noreferrer nofollow">https://www.ndsshow.com/how-intelligence-agencies-protect-their-sources-and-methods/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NDS Show PodcastHow Intelligence Agencies Protect Their Sources and MethodsMarch 19, 2026 — Compartmentalization limits damage from s...</p></details>
    Published: March 19, 2026  
 
 6. <a id="endnote-6"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: [https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent](https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent)  
+   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: grunge.com  
    Title: cia agent who made startling claims about aliens  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For conspiracy theory aficionados, former CIA operative John Ramirez&#x27;s alien claims are...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRetired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — This is basically a summary of the broad content spectrum...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA officer John Ramirez on “The Phenomena”...August 16, 2024 — This is basically a summary of the broad content spectrum...</p></details>
    Published: August 16, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/](https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>same thing about Roswell over the years...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Former CIA Signal Specialist John Ramirez shares  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/](https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So this ex CIA guy can go on record and disclose that the aliens are coming in 2027 and that he knows who they are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...Ramirez: something big is happening with aliens in 2027. Person... &quot;It is 2023, I...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/legaladviceofftopic/comments/1euc92u/if_you_have_an_intelligence_clearance_such_as/](https://www.reddit.com/r/legaladviceofftopic/comments/1euc92u/if_you_have_an_intelligence_clearance_such_as/)  
+   Link: <a href="https://www.reddit.com/r/legaladviceofftopic/comments/1euc92u/if_you_have_an_intelligence_clearance_such_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/legaladviceofftopic/comments/1euc92u/if_you_have_an_intelligence_clearance_such_as/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: why 2027  
-   Link: [https://www.reddit.com/r/aliens/comments/15he0cv/why_2027/](https://www.reddit.com/r/aliens/comments/15he0cv/why_2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15he0cv/why_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15he0cv/why_2027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/aliensMost compelling evidence of alien life. Fascinating theories about ancient aliens. Impact of UFO sightings on society. Docume...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/](https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/](https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/](https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/)  
+   Link: <a href="https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831584017041492/posts/2833072003559360/</a>  
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYyF6KqSTvU/](https://www.instagram.com/p/DYyF6KqSTvU/)  
+   Link: <a href="https://www.instagram.com/p/DYyF6KqSTvU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYyF6KqSTvU/</a>  
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 23. <a id="endnote-23"></a>
    Source: ibtimes.co.uk  
    Title: 2027 predicted reveal shocking alien contact ai cracks mystery 1771191  
-   Link: [https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191](https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191)  
+   Link: <a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hypefresh.com  
    Title: retired cia insider exposes the reality of ufos and alien encounters  
-   Link: [https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/](https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/)  
+   Link: <a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — This classification resonates with long-standing theories in U...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dbllawyers.com  
    Title: These are not clearance levels in themselves but restrict access  
-   Link: [https://www.dbllawyers.com/wp-content/uploads/2025/03/Ultimate-Guide-to-Security-Clearance-Free-Resource.pdf](https://www.dbllawyers.com/wp-content/uploads/2025/03/Ultimate-Guide-to-Security-Clearance-Free-Resource.pdf)  
+   Link: <a href="https://www.dbllawyers.com/wp-content/uploads/2025/03/Ultimate-Guide-to-Security-Clearance-Free-Resource.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dbllawyers.com/wp-content/uploads/2025/03/Ultimate-Guide-to-Security-Clearance-Free-Resource.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Security Clearance Free ResourceInformation Compartmentalization: Limiting access to specific information on a need-to...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens at Area 51 | The. Independent, September 19, 2024. 15. ”Trump Claims He Has Access To UFO Files. Here&#x27;s What Experts Say,” Newswee...</p></details>
    Published: September 19, 2024  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Former CIA Agent Reveals NEW Details About 'The Age of Disclosure'  
-   Link: [https://www.youtube.com/watch?v=199bR_vIjzQ](https://www.youtube.com/watch?v=199bR_vIjzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=199bR_vIjzQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists is highly relevant because it provides a thoroug...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WellnessCode25/posts/stanford-professor-dr-gary-nolan-reveals-the-shocking-moment-cia-agents-showed-u/717315564510101/](https://www.facebook.com/WellnessCode25/posts/stanford-professor-dr-gary-nolan-reveals-the-shocking-moment-cia-agents-showed-u/717315564510101/)  
+   Link: <a href="https://www.facebook.com/WellnessCode25/posts/stanford-professor-dr-gary-nolan-reveals-the-shocking-moment-cia-agents-showed-u/717315564510101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WellnessCode25/posts/stanford-professor-dr-gary-nolan-reveals-the-shocking-moment-cia-agents-showed-u/717315564510101/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>st in UFO/UAP issues and cases, appeared on George Knapp&#x27;s...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt](https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ents the best available evidence for the existence of UFOs.Read more...</p></details>

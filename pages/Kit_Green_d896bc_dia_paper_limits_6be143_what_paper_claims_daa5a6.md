@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /dia-paper/
 nav_short_title: Paper Claims
 title: Did the Paper Prove UAP Injuries?
-title_full: Did the Paper Prove UAP Injuries? | DIA Paper
+title_full: Did the Paper Prove UAP Injuries?
 display_title_short: Paper Claims
 display_title: Paper Claims
 heading_title: Did the Paper Prove UAP Injuries?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Green's DIA Paper Actually Prove? | Green
+parent_title: What Does Green's DIA Paper Actually Prove?
 parent_permalink: /dia-paper/
 parent_nav_short_title: DIA Paper
 parent_heading_title: What Does Green's DIA Paper Actually Prove?
@@ -253,7 +253,7 @@ next_link:
   permalink: /role-boundary/
   short_title: Role Boundary
   heading_title: Was Green Inside AAWSAP or Adjacent?
-date: '2026-06-09 03:00:20 '
+date: '2026-06-11 21:05:38 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims
 
 ## Introduction
 
-The 2010 Defense Intelligence Agency-linked paper often appears in UFO discussions as if it proved that unidentified aerial phenomena caused documented human injuries. That is not what the document actually does. The paper, usually associated with physician and former CIA analyst Christopher “Kit” Green, argues that some reported injury patterns are consistent with known electromagnetic, radiofrequency and [microwave exposure]({{ 'microwaves/' | relative_url }}) mechanisms, and that those patterns could potentially be used as intelligence clues when investigating unusual aerospace incidents. It does not establish that non-human craft existed, that reported cases were authentic UFO encounters, or that the underlying technology came from an unknown civilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
-
+The 2010 Defense Intelligence Agency-linked paper often appears in UFO discussions as if it proved that unidentified aerial phenomena caused documented human injuries. That is not what the document actually does. The paper, usually associated with physician and former CIA analyst Christopher “Kit” Green, argues that some reported injury patterns are consistent with known electromagnetic, radiofrequency and microwave exposure mechanisms, and that those patterns could potentially be used as intelligence clues when investigating unusual aerospace incidents. It does not establish that non-human craft existed, that reported cases were authentic UFO encounters, or that the underlying technology came from an unknown civilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-1-dark.svg" | relative_url }}" alt="Paper Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For assessing Green's credibility, that distinction matters. The paper is strong evidence that Green was involved in government-adjacent analysis of alleged UAP-related medical effects. It is much weaker as evidence that the reported injuries were definitively caused by UAP. The document is best read as a medical-intelligence hypothesis paper rather than a confirmed finding about extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
@@ -276,7 +275,6 @@ The document, titled *Anomalous Acute and Subacute Field Effects on Human Biolog
 
 A useful way to understand the paper is to separate three different claims:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Human beings can suffer real injuries from electromagnetic or radiofrequency exposure.**
@@ -285,8 +283,7 @@ A useful way to understand the paper is to separate three different claims:
 
 </div>
 
-The paper strongly argues for the first point, cautiously explores the second, and treats the third as a hypothesis worth studying. It never demonstrates that the aerospace systems in question were genuinely unidentified, non-human or even necessarily observed accurately by witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCInteractions between electromagnetic radiation and biological...by L Liu · 2024 · Cited by 69 — The published works have investigated...</span></span></span>
-
+The paper strongly argues for the first point, cautiously explores the second, and treats the third as a hypothesis worth studying. It never demonstrates that the aerospace systems in question were genuinely unidentified, non-human or even necessarily observed accurately by witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Interactions between electromagnetic radiation and biological...by L Liu · 2024 · Cited by 69 — The published works have investigated...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 20.3K &middot; Uploaded: January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +292,6 @@ The paper strongly argues for the first point, cautiously explores the second, a
 The document's central question is often misunderstood because later media coverage focused on dramatic phrases such as “UFO injuries”.
 
 In reality, much of the paper concerns known biophysical effects. It reviews reported symptoms including:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +312,6 @@ Its opening case study is particularly revealing. The reported injuries are ulti
 
 That approach resembles a forensic investigation into an unknown hazard more than an attempt to prove extraterrestrial visitation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sUkzQFtd1cw" title="Anomalous Acute and Subacute Field Effects on Human Biological Tissues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer">Anomalous Acute and Subacute Field Effects on Human Biological Tissues</a></p><p class="youtube-embed-meta">Channel: Gilad James Mystery School &middot; Views: 148 &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sUkzQFtd1cw">Open on YouTube</a></p></div></div></div>
 
 ## What the Document Assumes About the Underlying Events
@@ -335,7 +330,7 @@ A recurring misunderstanding is that the document somehow verified every case it
 
 One of the strongest implications of the document concerns Green himself.
 
-For years, discussions of [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})'s involvement in UAP-related programmes relied heavily on interviews, conference appearances, second-hand accounts and claims about classified work. The paper provides something more concrete: an officially released DIA-related reference document focused on medical consequences allegedly associated with anomalous aerospace encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+For years, discussions of Kit Green's involvement in UAP-related programmes relied heavily on interviews, conference appearances, second-hand accounts and claims about classified work. The paper provides something more concrete: an officially released DIA-related reference document focused on medical consequences allegedly associated with anomalous aerospace encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 The paper therefore supports several narrower claims:
 
@@ -345,7 +340,6 @@ The paper therefore supports several narrower claims:
 * Medical data and injury reports were considered relevant to intelligence assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program Download PDF; Watch · Edit</span><span class="citation-popover-snippet">The Advanced Aerospace... &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green...Read more...</span></span></span> Those points are important because they are supported by a real document rather than by rumour alone.
 
 However, the paper does not show that Green personally verified every case, had direct access to every underlying record, or reached a final conclusion that the reported systems were extraterrestrial.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-2-dark.svg" | relative_url }}" alt="Paper Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Microwave and Electromagnetic Mechanisms Matter
@@ -363,7 +357,6 @@ Instead, it explores a more limited possibility: that unusual aerospace systems 
 [Sceptics]({{ 'sceptics-078368/' | relative_url }}) respond that demonstrating a possible injury mechanism does not identify the source of the exposure. A microwave injury, if one occurred, could theoretically have multiple explanations. The existence of a plausible mechanism therefore does not validate the accompanying UFO narrative.
 
 Both observations can be true simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q42441-1l8k" title="The Next Steps in UFO Research with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer">The Next Steps in UFO Research with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 29.0K &middot; Uploaded: February 2022 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q42441-1l8k">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +378,6 @@ The distinction between “consistent with” and “caused by” is crucial.
 Much of the document concerns symptom patterns that could be consistent with certain forms of energy exposure. Consistency is not proof of causation. In medicine, toxicology and accident investigation, multiple explanations often remain possible unless there is strong corroborating evidence linking exposure and outcome.
 
 The paper does not eliminate those alternative explanations.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-3-dark.svg" | relative_url }}" alt="Paper Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Document Remains Important Despite Its Limits
@@ -517,15 +509,15 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +525,15 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +541,15 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +557,15 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,7 +573,7 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="paper-claims-did-the-paper-prove-uap-injuries-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-paper-prove-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="did-the-paper-prove-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -797,89 +789,89 @@ That balance is the key takeaway. The paper is evidence of Green's involvement i
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program Download PDF; Watch · Edit  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace... &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInteractions between electromagnetic radiation and biological...by L Liu · 2024 · Cited by 69 — The published works have investigated...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10906530/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interactions between electromagnetic radiation and biological...by L Liu · 2024 · Cited by 69 — The published works have investigated...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Radiofrequency Electromagnetic Field...by JH Kim · 2018 · Cited by 285 — It has been found that RF-EMF can induce changes in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7890848/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7890848/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7890848/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7890848/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of injury models in studies of biological effects...by YF Lai · 2021 · Cited by 38 — In this article, we review the microwave exposure c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Anomalous Acute and Subacute Field Effects on Human Biological Tissues  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A. Kelleher...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.livescience.com/ufo-report-human-biological-injuries](https://www.livescience.com/ufo-report-human-biological-injuries)  
+   Link: <a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled Anomalous A...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/opennet/servlets/purl/16365752.pdf](https://www.osti.gov/opennet/servlets/purl/16365752.pdf)  
+   Link: <a href="https://www.osti.gov/opennet/servlets/purl/16365752.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/servlets/purl/16365752.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOME EFFECTS OF IONIZING RADIATION ON...The data which were ob- tained substantial y increase the fundamental knowledge of radiation inj...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/](https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/)  
+   Link: <a href="https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological and Physiological Claims and EvidenceDefense Intelligence Agency (DIA): Anomalous Acute and Subacute Field Effects on Human Bi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mdsafetech.org  
-   Link: [https://mdsafetech.org/science/military-studies-and-compendiums/](https://mdsafetech.org/science/military-studies-and-compendiums/)  
+   Link: <a href="https://mdsafetech.org/science/military-studies-and-compendiums/" target="_blank" rel="noopener noreferrer nofollow">https://mdsafetech.org/science/military-studies-and-compendiums/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military and Government ReportsThese reports are long but thorough compendiums that indicate harm from this type of non-ionizing radiatio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/](https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/)  
+   Link: <a href="https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jillianmichaels/posts/what-started-as-ufo-sightings-reportedly-turned-into-medical-investigations-insi/1530268818457791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What started as UFO sightings reportedly turned into...UFO encounters left witnesses with radiation burns, brain problems &amp; damaged nerv...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: 7news.com.au  
-   Link: [https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715](https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715)  
+   Link: <a href="https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/ufo/alien-abductions-sexual-encounters-and-deaths-among-hundreds-of-reported-ufo-effects-c-6348715</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductions, sexual encounters and deaths among...5 Apr 2022 — The study, compiled back in 2010 and titled Anomalous Acute And Suba...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a82e55240f0b62305b94e8e/Vol_16_TAR_Human_Cancer.pdf](https://assets.publishing.service.gov.uk/media/5a82e55240f0b62305b94e8e/Vol_16_TAR_Human_Cancer.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a82e55240f0b62305b94e8e/Vol_16_TAR_Human_Cancer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a82e55240f0b62305b94e8e/Vol_16_TAR_Human_Cancer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 human cancerThe aims of this project are threefold: I). To identify ways to improve gene therapy. II). To show gene therapy can be.Rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/](https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/</a>  
 
 17. <a id="endnote-17"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled Ano...</p></details>

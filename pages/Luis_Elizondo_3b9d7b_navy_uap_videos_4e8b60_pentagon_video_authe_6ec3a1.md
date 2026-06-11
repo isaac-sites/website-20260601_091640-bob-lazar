@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /navy-videos/
 nav_short_title: Authentication
 title: What Did the Pentagon Actually Confirm?
-title_full: What Did the Pentagon Actually Confirm? | Navy Videos
+title_full: What Did the Pentagon Actually Confirm?
 display_title_short: Authentication
 display_title: Authentication
 heading_title: What Did the Pentagon Actually Confirm?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did the Navy Videos Actually Show? | Elizondo
+parent_title: What Did the Navy Videos Actually Show?
 parent_permalink: /navy-videos/
 parent_nav_short_title: Navy Videos
 parent_heading_title: What Did the Navy Videos Actually Show?
@@ -247,7 +247,7 @@ next_link:
   permalink: /gimbal-flir/
   short_title: Gimbal FLIR
   heading_title: Why Gimbal and FLIR Still Divide Viewers
-date: '2026-06-09 02:54:10 '
+date: '2026-06-11 21:02:16 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video
 
 ## Introduction
 
-When the Pentagon formally released three [Navy UAP videos]({{ 'navy-videos/' | relative_url }}) in April 2020, it gave [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}) one of the strongest pieces of public support for his broader claim that unusual military encounters deserved serious attention. The release mattered because it moved the discussion beyond leaked clips and media reports. The Department of Defense confirmed that the footage was genuine military material and that the objects shown remained officially unidentified at the time. What it did not do was confirm alien craft, advanced non-human technology or impossible physics. That distinction is central to understanding both Elizondo's credibility and the limits of the evidence.
-
+When the Pentagon formally released three Navy UAP videos in April 2020, it gave Luis Elizondo one of the strongest pieces of public support for his broader claim that unusual military encounters deserved serious attention. The release mattered because it moved the discussion beyond leaked clips and media reports. The Department of Defense confirmed that the footage was genuine military material and that the objects shown remained officially unidentified at the time. What it did not do was confirm alien craft, advanced non-human technology or impossible physics. That distinction is central to understanding both Elizondo's credibility and the limits of the evidence.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-1-dark.svg" | relative_url }}" alt="Authentication illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For supporters, the release showed that Elizondo had helped bring attention to authentic military footage rather than fabricated UFO stories. For sceptics, the same release demonstrated that official authentication is not the same thing as proving extraordinary conclusions. The Pentagon's wording was careful, and its caution remains important when judging what the videos actually establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...")
@@ -267,7 +266,6 @@ For supporters, the release showed that Elizondo had helped bring attention to a
 The Department of Defense statement of 27 April 2020 authorised the public release of three unclassified [Navy videos]({{ 'navy-videos/' | relative_url }}) commonly known as FLIR, Gimbal and GoFast. According to the Pentagon, the clips had already circulated publicly following unauthorised releases in 2007 and 2017, and the Navy had previously acknowledged that they were genuine Navy recordings. The department said it was releasing them to resolve public confusion about whether the footage was real and whether additional hidden content existed. It also stated that the aerial phenomena shown remained classified as "unidentified". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[The War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</span></span></span>
 
 That confirmation established several specific facts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -282,7 +280,6 @@ Those points may sound modest, but they are more significant than many earlier U
 
 At the same time, the Pentagon avoided making claims that many members of the public assumed were being implied. The statement did not attribute the objects to extraterrestrials, secret foreign technology or any other specific source. It simply confirmed that the videos showed phenomena that had not been conclusively identified within the scope of the available investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...")
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/McVqKmUaaok" title="Here&#x27;s What We Really Know About These Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer">Here&#x27;s What We Really Know About These Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 345.1K &middot; Uploaded: August 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=McVqKmUaaok">Open on YouTube</a></p></div></div></div>
 
 ## Genuine Footage Is Not the Same as a Proven Explanation
@@ -292,7 +289,6 @@ One of the most persistent misunderstandings surrounding the Navy videos is the 
 Authentication answers one question: is the footage real military material?
 
 It does not answer other questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +304,6 @@ The Pentagon's release resolved the first question but left the others largely o
 
 This distinction is especially important because infrared targeting footage can be difficult for non-specialists to interpret. Sensor zoom levels, tracking modes, viewing angles and aircraft movement can all affect how an object appears on screen. The public generally sees only short video excerpts rather than complete sensor records, radar data, telemetry or classified mission information.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-2-dark.svg" | relative_url }}" alt="Authentication illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Release Helped Elizondo's Credibility
 
@@ -321,7 +316,6 @@ This mattered because Elizondo's public profile depended heavily on the claim th
 The release also reinforced the broader shift from the language of "UFOs" toward "unidentified aerial phenomena" or UAPs. Navy officials emphasised flight safety and airspace security concerns rather than alien visitation. That framing aligned closely with Elizondo's argument that the subject should be treated as a potential defence and intelligence issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Navy Confirms Existence of &#x27;Unidentified&#x27; Flying Objects Seen in Leaked Footage</span><span class="citation-popover-snippet">Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</span></span></span>
 
 Importantly, the release supported part of Elizondo's narrative rather than all of it. It provided evidence that unusual encounters existed and that military organisations had examined them. It did not independently verify every claim Elizondo later made about the scope of government knowledge, classified programmes or the possible origins of the objects.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SAnsjGX6rC0" title="Pentagon releases declassified UFO footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SAnsjGX6rC0" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO footage</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 438.6K &middot; Uploaded: May 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SAnsjGX6rC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SAnsjGX6rC0">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +330,6 @@ This gap between identification and interpretation became a major fault line in 
 Supporters often argued that trained military personnel, advanced sensors and multiple witnesses made ordinary explanations unlikely. Critics responded that incomplete data frequently produces unresolved cases and that uncertainty alone should not be treated as evidence for non-human technology.
 
 The Pentagon itself largely stayed outside that argument. Even when creating later UAP-focused programmes and task forces, officials repeatedly described the issue as one involving unidentified objects and potential national-security concerns, while avoiding claims that the evidence demonstrated extraterrestrial origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2020/08/14/pentagon-unidentified-aerial-phenomena-task-force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">Department of Defense announced the formation of the Unidentified Aerial Phenomena Task Force (UAPTF), which will be led by the Navy. The...</span></span></span>
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-3-dark.svg" | relative_url }}" alt="Authentication illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_pentagon_video_authe_6ec3a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Debate Over Performance Claims
@@ -357,9 +350,7 @@ For assessing Luis Elizondo, that distinction is crucial. The release strengthen
 
 Understanding that boundary helps explain why the videos remain central to debates about Elizondo. They provide documented evidence that something unusual was recorded and investigated. They do not, by themselves, settle the larger questions that continue to surround his claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...")
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E7hTk3jAi00" title="THIS is a ‘national security issue,’ says Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E7hTk3jAi00" target="_blank" rel="noopener noreferrer">THIS is a ‘national security issue,’ says Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 218.7K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E7hTk3jAi00" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E7hTk3jAi00">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -373,16 +364,16 @@ Understanding that boundary helps explain why the videos remain central to debat
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Covers Elizondo&#x27;s account of the Navy videos, Pentagon involvement, and UAP investigations.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,16 +381,16 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Examines military and government UFO cases similar to the Navy encounters discussed on the page.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,16 +398,16 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports without assuming extraordinary conclusions.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +415,16 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Explores how institutions, belief, and evidence interact in contemporary UFO discussions.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,7 +432,7 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -478,15 +469,15 @@ Understanding that boundary helps explain why the videos remain central to debat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Navy Aircraft Carrier Kaga Premium Model Kit 1/350 Scale"><img src="https://i.ebayimg.com/images/g/SU8AAeSwEZJpV-OI/s-l225.jpg" alt="Listing image for Navy Aircraft Carrier Kaga Premium Model Kit 1/350 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Navy Aircraft Carrier Kaga Premium Model Kit 1/350 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +485,15 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/dca3b3f2a8ad218bfe80.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft 1:160 Grumman F14 Tomcat US Navy Top Gun"><img src="https://i.ebayimg.com/images/g/uNIAAeSw6kpqKoqB/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft 1:160 Grumman F14 Tomcat US Navy Top Gun" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft 1:160 Grumman F14 Tomcat US Navy Top Gun</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +501,15 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Alien | Kit Made With Real LEGO"><img src="{{ '/assets/images/marketplace-covers/4544821242366bb2d0e3.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Alien | Kit Made With Real LEGO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAMIYA Model AS Acrylic Aircraft Spray Paint 100ml All Colours UK Shop"><img src="https://i.ebayimg.com/images/g/7i4AAOSwO7pceoqW/s-l225.jpg" alt="Listing image for TAMIYA Model AS Acrylic Aircraft Spray Paint 100ml All Colours UK Shop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Alien | Kit Made With Real LEGO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">TAMIYA Model AS Acrylic Aircraft Spray Paint 100ml All Colours UK Shop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +517,15 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010"><img src="{{ '/assets/images/marketplace-covers/43f101947a052715dbff.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="https://i.ebayimg.com/images/g/D~UAAeSwBslpeL00/s-l225.jpg" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer HO/N/TT/Z Gauge Busch 1010</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +533,7 @@ Understanding that boundary helps explain why the videos remain central to debat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model kit" data-ebay-reference="authentication-what-did-the-pentagon-actually-confirm-luis-elizondo-flying-saucer-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-confirm-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="what-did-the-pentagon-actually-confirm-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,138 +748,138 @@ Understanding that boundary helps explain why the videos remain central to debat
 
 1. <a id="endnote-1"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/](https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarStatement by the Department of Defense on the Release...The Department of Defense has authorized the release of th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html](https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html)  
+   Link: <a href="https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Declassifies its Notorious &#x27;UFO Sighting&#x27; Videos&quot;DoD is releasing the videos in order to clear up any misconceptions by the public o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: Navy Confirms Existence of 'Unidentified' Flying Objects Seen in Leaked Footage  
-   Link: [https://time.com/5680192/navy-confirms-ufo-videos-real/](https://time.com/5680192/navy-confirms-ufo-videos-real/)  
+   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2020/08/14/pentagon-unidentified-aerial-phenomena-task-force](https://www.axios.com/2020/08/14/pentagon-unidentified-aerial-phenomena-task-force)  
+   Link: <a href="https://www.axios.com/2020/08/14/pentagon-unidentified-aerial-phenomena-task-force" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2020/08/14/pentagon-unidentified-aerial-phenomena-task-force</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense announced the formation of the Unidentified Aerial Phenomena Task Force (UAPTF), which will be led by the Navy. The...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: Gimbal UFO  
-   Link: [https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/](https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/)  
+   Link: <a href="https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-ufo-a-new-analysis.12333/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked in 2017, and officially released in 2019, it&#x27;s considered by many to show a genuine anomalous...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: For those who don't know, the Gimbal and [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) videos  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the original videos were officially released in 2017 the Navy intentionally...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: secnav.navy.mil  
    Title: mil Unidentified Aerial Phenomena (UAPs)  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Phenomena (UAPs) - secnav.navy.mil24 Jul 2020 — DOD STATEMENT of April 27, 2020. The Department of Defense has authorized the rele...</p></details>
    Published: April 27, 2020  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/g93q97/pentagon_formally_releases_3_navy_videos_showing/](https://www.reddit.com/r/technology/comments/g93q97/pentagon_formally_releases_3_navy_videos_showing/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/g93q97/pentagon_formally_releases_3_navy_videos_showing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/g93q97/pentagon_formally_releases_3_navy_videos_showing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>aerial phenomena&quot;, UAP?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: THIS is a 'national security issue,' says Luis Elizondo  
-   Link: [https://www.youtube.com/watch?v=E7hTk3jAi00](https://www.youtube.com/watch?v=E7hTk3jAi00)  
+   Link: <a href="https://www.youtube.com/watch?v=E7hTk3jAi00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E7hTk3jAi00</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Luis Elizondo  
-   Link: [https://www.youtube.com/watch?v=9gLPtRwXgCM](https://www.youtube.com/watch?v=9gLPtRwXgCM)  
+   Link: <a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gLPtRwXgCM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: twz.com  
    Title: navy officially releases infamous ufo videos  
-   Link: [https://www.twz.com/33179/navy-officially-releases-infamous-ufo-videos](https://www.twz.com/33179/navy-officially-releases-infamous-ufo-videos)  
+   Link: <a href="https://www.twz.com/33179/navy-officially-releases-infamous-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33179/navy-officially-releases-infamous-ufo-videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Officially Releases Controversial UFO Videos27 Apr 2020 — The full Pentagon statement is as follows: “The Department of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s whyJune 11, 2021 — 11 Jun 2021 — This is also probably why the navy gave it the code name “Gimbal”, rather than, say, “Flying Sauc...</p></details>
    Published: June 11, 2021  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: pentagon releases three ufo videos taken by us navy pilots  
-   Link: [https://www.theguardian.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots](https://www.theguardian.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots)  
+   Link: <a href="https://www.theguardian.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/apr/27/pentagon-releases-three-ufo-videos-taken-by-us-navy-pilots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Apr 2020 — The Pentagon on Monday released three declassified videos that show US navy pilots encountering what appear to be unidentif...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/video/2020/apr/28/pentagon-officially-releases-ufo-videos-video](https://www.theguardian.com/world/video/2020/apr/28/pentagon-officially-releases-ufo-videos-video)  
+   Link: <a href="https://www.theguardian.com/world/video/2020/apr/28/pentagon-officially-releases-ufo-videos-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2020/apr/28/pentagon-officially-releases-ufo-videos-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vy pilots that have circulated for years showing interactions with &#x27;unidentified...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SikkimNews.NoFavourNoFear/posts/ufo-sighted-pentagon-shares-videos-of-unexplained-aerial-phenomena-taken-by-us-n/2704804923132347/](https://www.facebook.com/SikkimNews.NoFavourNoFear/posts/ufo-sighted-pentagon-shares-videos-of-unexplained-aerial-phenomena-taken-by-us-n/2704804923132347/)  
+   Link: <a href="https://www.facebook.com/SikkimNews.NoFavourNoFear/posts/ufo-sighted-pentagon-shares-videos-of-unexplained-aerial-phenomena-taken-by-us-n/2704804923132347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SikkimNews.NoFavourNoFear/posts/ufo-sighted-pentagon-shares-videos-of-unexplained-aerial-phenomena-taken-by-us-n/2704804923132347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted? Pentagon shares videos of &#x27;unexplained...The Pentagon formally released unclassified videos taken by Navy pilots of &quot;uniden...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: mick west explains the navy ufo videosnot new and they were officially acknowled  
-   Link: [https://www.facebook.com/skepticalinquirer/posts/mick-west-explains-the-navy-ufo-videosnot-new-and-they-were-officially-acknowled/10157080483482621/](https://www.facebook.com/skepticalinquirer/posts/mick-west-explains-the-navy-ufo-videosnot-new-and-they-were-officially-acknowled/10157080483482621/)  
+   Link: <a href="https://www.facebook.com/skepticalinquirer/posts/mick-west-explains-the-navy-ufo-videosnot-new-and-they-were-officially-acknowled/10157080483482621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skepticalinquirer/posts/mick-west-explains-the-navy-ufo-videosnot-new-and-they-were-officially-acknowled/10157080483482621/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West explains the Navy UFO videos31 Jul 2024 —... Navy officially considers the craft in these three videos &quot;unidentified aerial ph...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: news.sky.com  
    Title: pentagon releases footage to confirm unidentified aerial phenomena 11979750  
-   Link: [https://news.sky.com/story/pentagon-releases-footage-to-confirm-unidentified-aerial-phenomena-11979750](https://news.sky.com/story/pentagon-releases-footage-to-confirm-unidentified-aerial-phenomena-11979750)  
+   Link: <a href="https://news.sky.com/story/pentagon-releases-footage-to-confirm-unidentified-aerial-phenomena-11979750" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-footage-to-confirm-unidentified-aerial-phenomena-11979750</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>releases footage to confirm &#x27;unidentified aerial...28 Apr 2020 — One of the clips shows a dark circular object flying in front of a jet...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=McVqKmUaaok](https://www.youtube.com/watch?v=McVqKmUaaok)  
+   Link: <a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=McVqKmUaaok</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What We Really Know About These Pentagon UFO...UFOs for the most part are real but by definition UFO is an unidentified flying ob...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SAnsjGX6rC0](https://www.youtube.com/watch?v=SAnsjGX6rC0)  
+   Link: <a href="https://www.youtube.com/watch?v=SAnsjGX6rC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SAnsjGX6rC0</a>  
 
 20. <a id="endnote-20"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183](https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183)  
+   Link: <a href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy videos that show &quot;unexplained aerial phenomena&quot; and that some believe could show...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wired.com  
    Title: does it matter that the dod released those ufo videos  
-   Link: [https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos/](https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos/)  
+   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2020 — The US Department of Defense officially released three videos depicting encounters between Navy pilots and unidentified ae...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: abc.net.au  
    Title: us department of defense confirms ufo sightings  
-   Link: [https://www.abc.net.au/news/2020-04-28/us-department-of-defense-confirms-ufo-sightings/12192768](https://www.abc.net.au/news/2020-04-28/us-department-of-defense-confirms-ufo-sightings/12192768)  
+   Link: <a href="https://www.abc.net.au/news/2020-04-28/us-department-of-defense-confirms-ufo-sightings/12192768" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-04-28/us-department-of-defense-confirms-ufo-sightings/12192768</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic UFO videos released by Pentagon includes object...27 Apr 2020 — Historic UFO videos released by Pentagon includes object that o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aa.com.tr  
    Title: us pentagon releases 3 ufo videos taken by navy  
-   Link: [https://www.aa.com.tr/en/americas/us-pentagon-releases-3-ufo-videos-taken-by-navy/1821558](https://www.aa.com.tr/en/americas/us-pentagon-releases-3-ufo-videos-taken-by-navy/1821558)  
+   Link: <a href="https://www.aa.com.tr/en/americas/us-pentagon-releases-3-ufo-videos-taken-by-navy/1821558" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/us-pentagon-releases-3-ufo-videos-taken-by-navy/1821558</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US: Pentagon releases 3 UFO videos taken by Navy28 Apr 2020 — Taken in 2004 and 2015, the videos were leaked in the public domain after u...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: space.com  
    Title: ufos videos declassified navy release  
-   Link: [https://www.space.com/ufos-videos-declassified-navy-release.html](https://www.space.com/ufos-videos-declassified-navy-release.html)  
+   Link: <a href="https://www.space.com/ufos-videos-declassified-navy-release.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufos-videos-declassified-navy-release.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO&#x27; videos declassified by US Navy28 Apr 2020 — Department of Defense officials decided to release the videos after determining that th...</p></details>

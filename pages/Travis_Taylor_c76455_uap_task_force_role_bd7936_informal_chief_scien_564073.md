@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /task-force/
 nav_short_title: Chief title
 title: Was Taylor really the UAP chief scientist?
-title_full: Was Taylor really the UAP chief scientist? | Task Force
+title_full: Was Taylor really the UAP chief scientist?
 display_title_short: Chief title
 display_title: Chief title
 heading_title: Was Taylor really the UAP chief scientist?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Taylor Actually Do for the UAP Task Force? | Taylor
+parent_title: What Did Taylor Actually Do for the UAP Task Force?
 parent_permalink: /task-force/
 parent_nav_short_title: Task Force
 parent_heading_title: What Did Taylor Actually Do for the UAP Task Force?
@@ -253,7 +253,7 @@ next_link:
   permalink: /role-limits/
   short_title: Role limits
   heading_title: Advice is not the same as authority
-date: '2026-06-09 03:11:38 '
+date: '2026-06-11 21:08:50 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_c
 ## Introduction
 
 [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) is frequently described online as the Pentagon’s “chief scientist” for the Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF). That description is not entirely wrong, but it is often presented in a way that makes the role sound more formal, permanent and authoritative than the public record supports. The strongest available evidence indicates that Taylor was a genuine participant in the UAPTF effort and was regarded by its leadership as a senior scientific adviser. However, Pentagon statements describe the title as informal, tied to a temporary assignment, and part of a broader multi-agency support structure rather than a standalone executive office. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">pentagon releases details about dr travis taylors uap task force involvement</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor&#x27;s UAP...29 Jun 2022 — Last week, George Knapp with KLAS-TV exclusively...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-1-dark.svg" | relative_url }}" alt="Chief title illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers assessing Taylor’s credibility, this distinction matters. The role provides evidence that he had access to real government UAP work and was trusted enough to contribute to it. It does not automatically establish that he directed the task force, controlled its conclusions, spoke for the entire intelligence community, or possessed definitive knowledge about the nature of UAP.
@@ -285,7 +284,6 @@ That wording is important because it narrows what can be claimed with confidence
 
 In practical terms, the Pentagon confirmed Taylor's participation and scientific advisory status while simultaneously limiting the implications of the title.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MF9DDa5wn0" title="Jay Stratton The Secret of Skinwalker Ranch Comic con San Diego on The Pulse TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MF9DDa5wn0" target="_blank" rel="noopener noreferrer">Jay Stratton The Secret of Skinwalker Ranch Comic con San Diego on The Pulse TV</a></p><p class="youtube-embed-meta">Channel: The Pulse &middot; Views: 1.4K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MF9DDa5wn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MF9DDa5wn0">Open on YouTube</a></p></div></div></div>
 
 ## How Taylor's biography phrases the role
@@ -300,7 +298,6 @@ The difference is not necessarily a contradiction. A person can be known interna
 
 A reader encountering only the phrase “Chief Scientist, UAP Task Force” could reasonably assume:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a Senate-confirmed or formally appointed leadership position;
@@ -311,7 +308,6 @@ A reader encountering only the phrase “Chief Scientist, UAP Task Force” coul
 </div>
 
 The available evidence does not support those stronger interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">pentagon releases details about dr travis taylors uap task force involvement</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor&#x27;s UAP...29 Jun 2022 — Last week, George Knapp with KLAS-TV exclusively...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-2-dark.svg" | relative_url }}" alt="Chief title illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the title did prove
@@ -347,7 +343,6 @@ The UAPTF itself was a relatively small and evolving organisation whose stated m
 
 This distinction is central to evaluating his credibility. The strongest interpretation is that Taylor had a real advisory role in a genuine government UAP effort. The weakest interpretation is that the title was entirely invented or meaningless. Neither extreme fits the available evidence.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-3-dark.svg" | relative_url }}" alt="Chief title illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the wording became controversial
 
@@ -371,9 +366,7 @@ The title therefore strengthens Taylor's claim to have participated in the gover
 
 In credibility terms, the role is significant but bounded: it is a verified indicator of access and participation, not a blanket validation of every claim associated with Taylor's broader public profile.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aJ8fdNH7K4I" title="Rocket Scientist Travis Taylor on the UFOs That Were Shot Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer">Rocket Scientist Travis Taylor on the UFOs That Were Shot Down</a></p><p class="youtube-embed-meta">Channel: Rick Burgess Show &middot; Views: 257.9K &middot; Uploaded: February 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aJ8fdNH7K4I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -492,15 +485,15 @@ In credibility terms, the role is significant but bounded: it is a verified indi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +501,15 @@ In credibility terms, the role is significant but bounded: it is a verified indi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +517,15 @@ In credibility terms, the role is significant but bounded: it is a verified indi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +533,15 @@ In credibility terms, the role is significant but bounded: it is a verified indi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +549,7 @@ In credibility terms, the role is significant but bounded: it is a verified indi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="chief-title-was-taylor-really-the-uap-chief-scientist-travis-taylor-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-taylor-really-the-uap-chief-scientist-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-taylor-really-the-uap-chief-scientist-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,116 +765,116 @@ In credibility terms, the role is significant but bounded: it is a verified indi
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: pentagon releases details about dr [travis taylors](&#123;&#123; 'how-credible-is-travis-taylor-on-uaps/' | relative_url &#125;&#125;) uap task force involvement  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases Details about Dr. Travis Taylor&#x27;s UAP...29 Jun 2022 — Last week, George Knapp with KLAS-TV exclusively...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/](https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UAP Task Force: Heavily Redacted...12 May 2023 — Recently, reports have emerged suggesting he was the “chief scientist” of th...</p></details>
    Published: May 2023  
 
 3. <a id="endnote-3"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/](https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultOPINION: Yes, Science Magazine Printed An Altered...1 Jul 2022 — The article quoted the Pentagon with a statement that se...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
 5. <a id="endnote-5"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s UAP Task Force5 Aug 2021 — Travis Taylor, an aerospace engineer and... After carefully considering this information, the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 21, 2022, George Knapp with KLAS-TV exclusively published the identity of one of the scientists working with the UAP Task Force...</p></details>
    Published: June 21, 2022  
 
 7. <a id="endnote-7"></a>
    Source: theblackvault.com  
    Title: ep 118 dr travis taylor former chief scientist on the uap task force  
-   Link: [https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/](https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#118 – Dr. Travis Taylor, Former Chief Scientist on the UAP...Today, Dr. Travis Taylor steps into the Vault to discuss his long career...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: army.mil  
    Title: smdc employee aims to be a rocket star  
-   Link: [https://www.army.mil/article/66084/smdc_employee_aims_to_be_a_rocket_star](https://www.army.mil/article/66084/smdc_employee_aims_to_be_a_rocket_star)  
+   Link: <a href="https://www.army.mil/article/66084/smdc_employee_aims_to_be_a_rocket_star" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/66084/smdc_employee_aims_to_be_a_rocket_star</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Article23 Sept 2011 — Taylor who lives near Huntsville has a bachelor&#x27;s degree in electrical engineering, two masters&#x27; degrees in physics...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Symposium 2026Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/](https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/)  
+   Link: <a href="https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysicist backs Reform&#x27;s UFO taskforceInside the UAP Task Force: Heavily Redacted Communications Regarding Dr. Travis Taylor and UFO...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/](https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/)  
+   Link: <a href="https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor has a new star map theory!Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science and En...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/UFO.html](https://www.handprint.com/UFO/UFO.html)  
+   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO as wildlifeFormer UAPTF chief scientist Travis Taylor explains the thermodynamic incongruity of this apparently transmedium UFO. In 2...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: Travis' revelation about the UAP Task Force That discussion led to his  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceThat discussion led to his introduction to the head of the new UAPTF, who asked him to join as...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mississippitelevision/posts/according-to-recent-claims-from-longtime-ufo-researcher-dr-don-donderi-intellige/883979951356060/](https://www.facebook.com/mississippitelevision/posts/according-to-recent-claims-from-longtime-ufo-researcher-dr-don-donderi-intellige/883979951356060/)  
+   Link: <a href="https://www.facebook.com/mississippitelevision/posts/according-to-recent-claims-from-longtime-ufo-researcher-dr-don-donderi-intellige/883979951356060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mississippitelevision/posts/according-to-recent-claims-from-longtime-ufo-researcher-dr-don-donderi-intellige/883979951356060/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor – Astrophysicist, former DoD UAP Task Force chief scientist: &quot;UAP propulsion defies physics, consistent with extraterrestrial...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider](https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider)  
+   Link: <a href="https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JASON COLAVITOThe Travis Taylor Saga Grows Stranger and Stupider30 Jun 2022 — SMDC loaned Taylor to the UAPTF, whose leader, John Stratto...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...Goes on to say the Gimbal Video. Approx. 39:30 minutes, Travis says no money was...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/](https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vnvi1a/pentagon_releases_details_about_dr_travis_taylors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed to Dr. Taylor as his chief scientist as efforts to assemble a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sted in being the chief scientist,” Taylor said. “And I was...</p></details>

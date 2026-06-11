@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-eric-davis/
 nav_short_title: Media Role
 title: How Media Coverage Changed Davis's Reputation
-title_full: How Media Coverage Changed Davis's Reputation | Davis
+title_full: How Media Coverage Changed Davis's Reputation
 display_title_short: Media Role
 display_title: Media Role
 heading_title: How Media Coverage Changed Davis's Reputation
@@ -289,7 +289,7 @@ next_link:
   permalink: /off-world-claim/
   short_title: Off World Claim
   heading_title: What About The Off World Vehicles Claim?
-date: '2026-06-09 03:03:10 '
+date: '2026-06-11 21:06:55 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview-soci
 
 ## Introduction
 
-Media coverage changed [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s UAP reputation by turning a niche technical consultant into a recognisable figure in the modern UFO/UAP [debate]({{ 'debate/' | relative_url }}). The shift did not happen because new public evidence proved his most extraordinary claims. It happened because a small number of high-impact reports placed his name beside phrases such as “Pentagon UFO programme”, “classified briefing”, “off-world vehicles” and “reverse-engineering”. Those phrases travelled faster than the caveats around them. The result is a reputation with two layers: Davis is verifiably connected to defence-adjacent speculative aerospace work, but the public image built around him often exceeds what the available evidence can safely support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gvwire.com">[GV Wire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gvwire.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
-
+Media coverage changed Eric Davis’s UAP reputation by turning a niche technical consultant into a recognisable figure in the modern UFO/UAP [debate]({{ 'debate/' | relative_url }}). The shift did not happen because new public evidence proved his most extraordinary claims. It happened because a small number of high-impact reports placed his name beside phrases such as “Pentagon UFO programme”, “classified briefing”, “off-world vehicles” and “reverse-engineering”. Those phrases travelled faster than the caveats around them. The result is a reputation with two layers: Davis is verifiably connected to defence-adjacent speculative aerospace work, but the public image built around him often exceeds what the available evidence can safely support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gvwire.com">[GV Wire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gvwire.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview.webp" | relative_url }}" alt="Overview image for Media Role" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Davis’s credibility is frequently judged through repetition rather than evidence. Once a claim appears in a major outlet, is summarised by secondary sites, quoted on social media, and folded into later documentaries or congressional-discourse narratives, readers can easily mistake prominence for corroboration. In Davis’s case, media amplification made him seem less like one source in a contested chain and more like a confirmed insider whose statements had already been institutionally validated.
@@ -313,7 +312,6 @@ This distinction was blurred in public discussion after the DIA’s list of AATI
 The Black Vault’s FOIA archive then reinforced the document trail by publishing and organising the DIA Defense Intelligence Reference Documents. Its archive notes that a leaked version of 38 reports appeared in 2018, that a DIA list followed in 2019, and that by March 2022 all but one of the 38 reports had been officially released through FOIA. This gave researchers and journalists a real paper trail to cite when discussing Davis. Yet the same archive also underlines a key limitation: these were advanced-technology reports, not recovered-craft evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Media amplification therefore began from a partly solid foundation. Davis was not invented by the press, and his defence-adjacent technical work was not imaginary. The problem was interpretive: technical authorship in a speculative government-funded programme became a credential that later coverage could attach to much stronger claims about crash retrievals, off-world materials and secret programmes.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-1-dark.svg" | relative_url }}" alt="Media Role illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “off-world vehicles” moment
@@ -334,10 +332,9 @@ The 2020 coverage did include caveats. It described a small group of former offi
 
 But caveats have weak afterlives. Headlines, screenshots and short posts usually carry the dramatic line, not the qualifiers. In Davis’s case, the words “classified briefing” also created a credibility loop. The lack of public evidence could be framed by supporters as what one would expect if the matter were classified, while sceptics could point to the same absence as the central evidential failure. Media coverage did not resolve that tension; it made the tension more visible and more emotionally charged.
 
-The official context around UAP also helped the story travel. In August 2020, the Department of Defense announced the establishment of the Unidentified Aerial Phenomena Task Force, saying it would detect, analyse and catalogue UAP that could pose a national security threat. That announcement gave the wider UAP topic a legitimate national-security frame, even though it did not validate Davis’s strongest claims about off-world vehicles or crash retrievals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Establishment of Unidentified Aerial Phenomena Task Force &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-3 "Snippet: Establishment of Unidentified Aerial Phenomena Task Force > U.S. Department of War > Release | U.S. Department of War")
+The official context around UAP also helped the story travel. In August 2020, the Department of Defense announced the establishment of the Unidentified Aerial Phenomena Task Force, saying it would detect, analyse and catalogue UAP that could pose a national security threat. That announcement gave the wider UAP topic a legitimate national-security frame, even though it did not validate Davis’s strongest claims about off-world vehicles or crash retrievals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Establishment of Unidentified Aerial Phenomena Task Force &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-3 "Snippet: Establishment of Unidentified Aerial Phenomena Task Force > U.S. Department of War > Release | U.S. Department of War")
 
 The 2021 ODNI preliminary assessment added another layer. It said the limited amount of high-quality reporting hampered firm conclusions, that most reported UAP probably represented physical objects, and that some incidents appeared to show unusual flight characteristics requiring further analysis. It did not endorse extraterrestrial technology, but it did keep UAP in official discourse. For Davis’s media reputation, that was useful background: official uncertainty around UAP made extraordinary claims seem less dismissible, even when those specific claims remained unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Prelimary Assessment UAP 20210625</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c8k1xa5P4Jg" title="U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer">U.S. Defense Officials Briefed On ‘Off-World Vehicles Not Made On This Earth’</a></p><p class="youtube-embed-meta">Channel: The Daily Wire &middot; Views: 52.3K &middot; Uploaded: July 2020 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c8k1xa5P4Jg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c8k1xa5P4Jg">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +349,6 @@ This is especially visible in the way the Wilson-Davis memo is discussed. The me
 Later coverage widened this effect. The Washington Post’s reporting on *The Age of Disclosure* described Davis as the author of the Wilson-Davis memo in the context of a documentary built around claims of a long-running UAP cover-up. The Guardian’s coverage of the same film noted that figures including Puthoff and Davis confidently assert extraterrestrial interference on Earth, but also stressed that this was presented without documentation. Those pieces show how Davis had moved from a specialist source to part of a recognisable cast of modern disclosure figures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The problem is not that media should ignore Davis. His role is relevant to the modern UAP story. The problem is that repetition can make unresolved claims feel settled. A name recurring across the New York Times, FOIA archives, documentaries and congressional-adjacent debate can acquire an aura of confirmation even when each individual item still rests on limited or disputed evidence.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-2-dark.svg" | relative_url }}" alt="Media Role illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later official responses narrowed the evidential space
@@ -375,7 +371,6 @@ Sceptics see the same pattern as a case study in how fringe or weakly evidenced 
 
 The fairest assessment sits between those readings. Media coverage did not fabricate Davis’s relevance, but it did magnify the most dramatic interpretation of that relevance. His verified paper trail makes him more significant than a casual commentator. His unverified crash-retrieval and off-world-material associations remain much weaker than his media profile can make them appear.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W3EHW_2W6Ac" title="Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer">Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 313 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W3EHW_2W6Ac">Open on YouTube</a></p></div></div></div>
 
 ## What media amplification changed
@@ -388,7 +383,6 @@ Second, it shifted the burden of interpretation. Instead of asking, “What exac
 
 Third, it created a reputational lag. Later official reviews, including AARO’s negative findings on extraterrestrial technology and reverse-engineering claims, have not erased the earlier media imprint. For many readers, the 2020 phrase remains more memorable than the 2024 evidential caveat. That is the central lesson of Davis’s media role: first impressions in high-profile UAP coverage can outlast later narrowing, correction or official scepticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KtE4kJ79yjc" title="UFO/UAP Disclosure Update with Eric W. Davis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer">UFO/UAP Disclosure Update with Eric W. Davis</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 48.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KtE4kJ79yjc">Open on YouTube</a></p></div></div></div>
 
 ## Credibility takeaway
@@ -398,7 +392,6 @@ Media coverage elevated Eric Davis because he sits at a rare intersection: real 
 The strongest verified claim is that Davis was part of a defence-adjacent research and consulting world that produced speculative studies for official programmes. The weaker claim is that his public statements or alleged briefings establish the existence of recovered off-world vehicles or secret reverse-engineering programmes. Major media helped move the second claim into mainstream conversation, but later official review has not publicly substantiated it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
 
 Davis’s amplified reputation is therefore best treated as a signal of influence, not proof of accuracy. The media made him important to the UAP debate; it did not make his most extraordinary claims established fact.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-3-dark.svg" | relative_url }}" alt="Media Role illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -519,15 +512,15 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +528,15 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +544,15 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +560,15 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70â€™s , 80â€™s T Shirt ðŸ”¥ðŸ”¥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,7 +576,7 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -book -books" data-ebay-reference="media-role-how-media-coverage-changed-davis-s-reputation-eric-davis-ufo-memorabilia-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-media-coverage-changed-davis-s-reputation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-media-coverage-changed-davis-s-reputation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -799,221 +792,221 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/](https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/)  
+   Link: <a href="https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/release/article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishment of Unidentified Aerial Phenomena Task Force &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 6. <a id="endnote-6"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/](https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f5ede9/eric_davis_appears_to_admit_writing_wilsondavis/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/](https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oq4men/off_world_vehicles_not_made_of_this_earth_dr_eric/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: what happened to the off world vehicles not made  
-   Link: [https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/](https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/14iev82/okay_this_is_interesting_but_very_technical_a/](https://www.reddit.com/r/ufo/comments/14iev82/okay_this_is_interesting_but_very_technical_a/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/14iev82/okay_this_is_interesting_but_very_technical_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/14iev82/okay_this_is_interesting_but_very_technical_a/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/](https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16hs3hl/heres_what_hal_puthoff_and_eric_davis_are_working/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/](https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: the dia reading room just dropped over 1500 pages  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/](https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vpq33f/in_light_of_keith_kloors_hit_piece_on_dr_travis/](https://www.reddit.com/r/UFOs/comments/vpq33f/in_light_of_keith_kloors_hit_piece_on_dr_travis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vpq33f/in_light_of_keith_kloors_hit_piece_on_dr_travis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vpq33f/in_light_of_keith_kloors_hit_piece_on_dr_travis/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h02x1h/jacques_vallee_the_legendary_ufo_researcher_in/](https://www.reddit.com/r/UFOs/comments/1h02x1h/jacques_vallee_the_legendary_ufo_researcher_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h02x1h/jacques_vallee_the_legendary_ufo_researcher_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h02x1h/jacques_vallee_the_legendary_ufo_researcher_in/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: comparison analysis of june 2021 preliminary  
-   Link: [https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/](https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/tnpgww/comparison_analysis_of_june_2021_preliminary/</a>  
    Published: june 2021  
 
 20. <a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 21. <a id="endnote-21"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt](https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
 
 23. <a id="endnote-23"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
 25. <a id="endnote-25"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: gvwire.com  
-   Link: [https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/](https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/)  
+   Link: <a href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow">https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/</a>  
 
 27. <a id="endnote-27"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 28. <a id="endnote-28"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 29. <a id="endnote-29"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has ‘Off-World Vehicles’ Not From Earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/](https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/)  
+   Link: <a href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/</a>  
 
 31. <a id="endnote-31"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows. Again. Perhaps  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
 
 32. <a id="endnote-32"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)On  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 33. <a id="endnote-33"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 13 DIRD Warp Drive Dark energy and the Manipulation of Extra Dimensions  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: documents2.theblackvault.com  
    Title: UAPTFHPSCIBrief Redacted  
-   Link: [https://documents2.theblackvault.com/documents/ufos/UAPTFHPSCIBriefRedacted.pdf](https://documents2.theblackvault.com/documents/ufos/UAPTFHPSCIBriefRedacted.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ufos/UAPTFHPSCIBriefRedacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ufos/UAPTFHPSCIBriefRedacted.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: navy.mil  
    Title: establishment of unidentified aerial phenomena task force  
-   Link: [https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/)  
+   Link: <a href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/</a>  
 
 38. <a id="endnote-38"></a>
    Source: pdfcoffee.com  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: skeptic.com  
    Title: ufology from fringe to mainstream to fringe  
-   Link: [https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/](https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/)  
+   Link: <a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Understanding the AAWSAP and AATIP Credibility Cycle  
-   Link: [https://www.youtube.com/watch?v=0h9VqjPZ_7E](https://www.youtube.com/watch?v=0h9VqjPZ_7E)  
+   Link: <a href="https://www.youtube.com/watch?v=0h9VqjPZ_7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9VqjPZ_7E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Role of Insiders in Modern UAP Narratives...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/](https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KFOXTV/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1413062624191797/](https://www.facebook.com/KFOXTV/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1413062624191797/)  
+   Link: <a href="https://www.facebook.com/KFOXTV/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1413062624191797/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KFOXTV/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1413062624191797/</a>  
 
 44. <a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/](https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/)  
+   Link: <a href="https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/techexplorerzone/posts/1555998789275934/](https://www.facebook.com/groups/techexplorerzone/posts/1555998789275934/)  
+   Link: <a href="https://www.facebook.com/groups/techexplorerzone/posts/1555998789275934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/techexplorerzone/posts/1555998789275934/</a>  
 
 47. <a id="endnote-47"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013](https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013)  
+   Link: <a href="https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Amazing.Science.Factss/posts/former-cia-contractor-hal-puthoff-claimed-on-a-podcast-that-the-united-states-ha/1299094989002843/](https://www.facebook.com/Amazing.Science.Factss/posts/former-cia-contractor-hal-puthoff-claimed-on-a-podcast-that-the-united-states-ha/1299094989002843/)  
+   Link: <a href="https://www.facebook.com/Amazing.Science.Factss/posts/former-cia-contractor-hal-puthoff-claimed-on-a-podcast-that-the-united-states-ha/1299094989002843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Amazing.Science.Factss/posts/former-cia-contractor-hal-puthoff-claimed-on-a-podcast-that-the-united-states-ha/1299094989002843/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fossbytes/posts/former-cia-researcher-hal-puthoff-claimed-the-us-recovered-4-alien-species-from-/1434367868731253/](https://www.facebook.com/fossbytes/posts/former-cia-researcher-hal-puthoff-claimed-the-us-recovered-4-alien-species-from-/1434367868731253/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/former-cia-researcher-hal-puthoff-claimed-the-us-recovered-4-alien-species-from-/1434367868731253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/former-cia-researcher-hal-puthoff-claimed-the-us-recovered-4-alien-species-from-/1434367868731253/</a>

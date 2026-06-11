@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-unknown-craft/
 description: Focused pages that expand on Craft Claim.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: James_Lacatski_1e11f1_unknown_craft_claim_f6cbff
-parent_title: Craft Claim | How Credible Is James Lacatski?
+parent_title: Craft Claim
 parent_nav_short_title: Craft Claim
 parent_permalink: /craft-claim/
 ---

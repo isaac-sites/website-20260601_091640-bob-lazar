@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /contact-claims/
 nav_short_title: Alien ancestry
 title: Alien ancestry or ancient human DNA?
-title_full: Alien ancestry or ancient human DNA? | Contact Claims
+title_full: Alien ancestry or ancient human DNA?
 display_title_short: Alien ancestry
 display_title: Alien ancestry
 heading_title: Alien ancestry or ancient human DNA?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Far Do His Alien Claims Go? | Ramirez
+parent_title: How Far Do His Alien Claims Go?
 parent_permalink: /contact-claims/
 parent_nav_short_title: Contact Claims
 parent_heading_title: How Far Do His Alien Claims Go?
@@ -247,7 +247,7 @@ next_link:
   permalink: /cia-access/
   short_title: CIA access
   heading_title: Could Ramirez have known that?
-date: '2026-06-09 03:00:03 '
+date: '2026-06-11 21:05:24 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ance
 
 ## Introduction
 
-Claims about alien ancestry, hidden bloodlines and human–extraterrestrial hybrids appear frequently in the more speculative end of UFO culture, including some of the public statements associated with [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}). [Supporters]({{ 'supporters-124489/' | relative_url }}) sometimes argue that unusual DNA markers, family lineages or ancient human history point to non-human intervention. Mainstream genetics, however, reaches a very different conclusion. Modern human DNA research has revealed evidence of interbreeding with other ancient human relatives such as Neanderthals and Denisovans, but it has not produced accepted evidence for extraterrestrial ancestry, alien genetic engineering or hidden alien bloodlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanorigins.si.edu">[Human Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanorigins.si.edu</span><span class="citation-popover-title">ancient dna and neanderthals</span><span class="citation-popover-snippet">Human OriginsAncient DNA and Neanderthals20 Feb 2024 — The evidence we have of Neanderthal-modern human interbreeding sheds light on the...</span></span></span> PMC The distinction matters because both discussions use similar words: hybridisation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Contribution of Neanderthal Introgression to Modern...by PF Reilly · 2022 · Cited by 112 — DNA retrieved from ancient specimens revealed...</span></span></span>, ancestry, admixture and ancient DNA. In UFO media those terms are often linked to extraterrestrial claims. In genetics they describe documented evolutionary processes involving different populations of humans and closely related hominin groups. Understanding that difference helps explain why alien ancestry claims remain controversial despite genuine scientific discoveries about human origins.
-
+Claims about alien ancestry, hidden bloodlines and human–extraterrestrial hybrids appear frequently in the more speculative end of UFO culture, including some of the public statements associated with John Ramirez. [Supporters]({{ 'supporters-124489/' | relative_url }}) sometimes argue that unusual DNA markers, family lineages or ancient human history point to non-human intervention. Mainstream genetics, however, reaches a very different conclusion. Modern human DNA research has revealed evidence of interbreeding with other ancient human relatives such as Neanderthals and Denisovans, but it has not produced accepted evidence for extraterrestrial ancestry, alien genetic engineering or hidden alien bloodlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanorigins.si.edu">[Human Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanorigins.si.edu</span><span class="citation-popover-title">ancient dna and neanderthals</span><span class="citation-popover-snippet">Human OriginsAncient DNA and Neanderthals20 Feb 2024 — The evidence we have of Neanderthal-modern human interbreeding sheds light on the...</span></span></span> PMC The distinction matters because both discussions use similar words: hybridisation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Contribution of Neanderthal Introgression to Modern...by PF Reilly · 2022 · Cited by 112 — DNA retrieved from ancient specimens revealed...</span></span></span>, ancestry, admixture and ancient DNA. In UFO media those terms are often linked to extraterrestrial claims. In genetics they describe documented evolutionary processes involving different populations of humans and closely related hominin groups. Understanding that difference helps explain why alien ancestry claims remain controversial despite genuine scientific discoveries about human origins.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-1-dark.svg" | relative_url }}" alt="Alien ancestry illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How UFO media uses hybrid language
@@ -265,7 +264,6 @@ Claims about alien ancestry, hidden bloodlines and human–extraterrestrial hybr
 Within UFO and contact-claim communities, hybrid narratives often suggest that extraterrestrials have interbred with humans, altered human genetics or left detectable traces in modern populations. In interviews and podcasts, Ramirez has discussed alleged human–alien hybrids, supposed intelligence-community interest in hybrid tracking, and claims that unusual DNA findings point towards non-human influence. These assertions are generally presented through interviews, podcasts and discussion programmes rather than through published genetic evidence or official scientific documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/11xujy9/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CIA Officer John Ramirez: “I give credence to fact that...March 21, 2023 — They discovered an alien DNA in the human genome, which led t...</span><span class="citation-popover-meta">Published: March 21, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhancements...</span></span></span>
 
 A recurring pattern in these narratives is the use of real scientific language. Terms such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,7 +281,6 @@ are all legitimate concepts within biology. However, in UFO-related discussions 
 This overlap can create confusion for audiences. A headline mentioning "alien DNA", "unknown ancestry" or "hybrid humans" may sound superficially similar to legitimate discoveries about ancient human populations, even when the underlying claims are entirely different in evidential quality.
 
 Some recent fringe claims have gone further, alleging that genealogy databases could reveal extraterrestrial ancestry or that hidden DNA signatures identify alien-descended individuals. These claims have attracted media attention but have not been validated through peer-reviewed genetics research or recognised human origins studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/26/lifestyle/cia-used-dna-from-23andme-ancestry-to-hunt-aliens-whistleblower-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Philosopher Jason Reza Jorjani shared this theory in a podcast, citing information from Lyn Buchanan, a former participant in a CIA remot...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/73Mk3UZRWVo" title="The Hybrid Theory: Human or Alien? | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=73Mk3UZRWVo" target="_blank" rel="noopener noreferrer">The Hybrid Theory: Human or Alien? | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.0M &middot; Uploaded: November 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=73Mk3UZRWVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=73Mk3UZRWVo">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +300,6 @@ These discoveries were initially surprising because older models often assumed t
 
 Importantly, the evidence comes from measurable sources:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Ancient skeletal remains
@@ -314,7 +310,6 @@ Importantly, the evidence comes from measurable sources:
 </div>
 
 That evidence chain differs fundamentally from claims based on anecdotal testimony, alleged briefings or unverifiable insider accounts.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IVdukVMOar0" title="34 Years in a Death Row Prison | Minutes With | @ladbiblestories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IVdukVMOar0" target="_blank" rel="noopener noreferrer">34 Years in a Death Row Prison | Minutes With | @ladbiblestories</a></p><p class="youtube-embed-meta">Channel: LADbible Stories &middot; Views: 3.0M &middot; Uploaded: March 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IVdukVMOar0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IVdukVMOar0">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +326,6 @@ The difference can be illustrated through the evidence standards involved:
 Mainstream human origins findingsAlien ancestry claimsAncient remains recovered and datedUsually no publicly available biological specimensDNA sequenced and independently analysedRarely supported by accessible genetic datasetsPublished in peer-reviewed journalsMostly discussed in interviews, podcasts or booksFindings repeatedly tested by other researchersIndependent verification generally absentIntegrated with archaeology and anthropologyOften rely on testimony or alleged classified knowledge
 
 The existence of Neanderthal ancestry therefore does not function as indirect evidence for extraterrestrial ancestry. It demonstrates that ancient human populations mixed with other terrestrial hominin groups.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-2-dark.svg" | relative_url }}" alt="Alien ancestry illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The "unknown ancestor" misunderstanding
@@ -352,7 +346,6 @@ The credibility issue is not simply whether Ramirez worked in intelligence-relat
 
 A statement that intelligence agencies tracked unusual genetic patterns would already require substantial documentation. A further claim that those patterns reveal alien ancestry would require even stronger evidence, including:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Identifiable genetic markers
@@ -363,12 +356,11 @@ A statement that intelligence agencies tracked unusual genetic patterns would al
 
 </div>
 
-Public discussions associated with Ramirez have generally not supplied that level of evidence. Instead, the claims tend to rely on alleged briefings, unnamed sources, personal interpretations or conversations said to have occurred within government-related circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.youtube.com/podcast/_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-title">Ez Pm S2HVDg</span><span class="citation-popover-snippet">comWARNING: CIA Insider Reveals the 2027 Arrival Date9 Mar 2026 — Ex-CIA Officer Reveals: Alien Technology 1,000 Years Ahead...</span></span></span>
+Public discussions associated with Ramirez have generally not supplied that level of evidence. Instead, the claims tend to rely on alleged briefings, unnamed sources, personal interpretations or conversations said to have occurred within government-related circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.youtube.com/podcast/_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-title">Ez Pm S2HVDg</span><span class="citation-popover-snippet">comWARNING: CIA Insider Reveals the 2027 Arrival Date9 Mar 2026 — Ex-CIA Officer Reveals: Alien Technology 1,000 Years Ahead...</span></span></span>
 
 That does not automatically prove the claims false. However, it places them in the category of unverified assertions rather than demonstrated scientific findings.
 
 The same standard applies regardless of whether the speaker is a former intelligence officer, military witness, academic or civilian experiencer. Extraordinary ancestry claims require evidence that can be independently examined.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-3-dark.svg" | relative_url }}" alt="Alien ancestry illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f_alien_ancestry_vs_ge_711fa0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why similar words can mislead readers
@@ -376,7 +368,6 @@ The same standard applies regardless of whether the speaker is a former intellig
 The strongest reason alien ancestry narratives persist is that they often attach themselves to genuine scientific discoveries.
 
 When readers encounter phrases such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,9 +385,7 @@ In reality, the scientific evidence currently supports a history of interaction 
 
 For assessments of Ramirez's credibility, this distinction is important. His discussions of alien ancestry and hybridisation move beyond unresolved UAP observations and into claims about human origins. In that area, mainstream genetics already possesses a large and rapidly expanding evidence base. So far, that evidence has strengthened understanding of ancient human interbreeding while providing no accepted confirmation of extraterrestrial ancestry, alien bloodlines or hidden human–alien hybrid populations. PMC 3Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanorigins.si.edu">[Human Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanorigins.si.edu</span><span class="citation-popover-title">ancient dna and neanderthals</span><span class="citation-popover-snippet">Human OriginsAncient DNA and Neanderthals20 Feb 2024 — The evidence we have of Neanderthal-modern human interbreeding sheds light on the...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sXt4KMz2Ti4" title="This CIA Officer FINALLY Breaks Silence On UFO And Alien Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer">This CIA Officer FINALLY Breaks Silence On UFO And Alien Evidence</a></p><p class="youtube-embed-meta">Channel: The Ultimate Discovery &middot; Views: 9.1K &middot; Uploaded: August 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sXt4KMz2Ti4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -515,15 +504,15 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/pcEAAOSwONBZD8bf/s-l225.jpg" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +520,15 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CLASSIC 80S FILM POSTERS MOVIE PRINTS NOSTALGIC FILM POSTERS A3 A4 A5 HOME DÉCOR"><img src="https://i.ebayimg.com/images/g/Z6IAAeSwiC5odAn1/s-l225.jpg" alt="Listing image for CLASSIC 80S FILM POSTERS MOVIE PRINTS NOSTALGIC FILM POSTERS A3 A4 A5 HOME DÉCOR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer">CLASSIC 80S FILM POSTERS MOVIE PRINTS NOSTALGIC FILM POSTERS A3 A4 A5 HOME DÉCOR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +536,15 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART PRINT SIZE -A3 A4"><img src="https://i.ebayimg.com/images/g/eBYAAOSw8z5k3f10/s-l225.jpg" alt="Listing image for ALIEN POSTER WALL ART PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART PRINT SIZE -A3 A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +552,15 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="https://i.ebayimg.com/images/g/WE0AAOSwgPVn5pIb/s-l225.jpg" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +568,7 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="alien-ancestry-alien-ancestry-or-ancient-human-dna-john-ramirez-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alien-ancestry-or-ancient-human-dna-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="alien-ancestry-or-ancient-human-dna-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -794,241 +783,241 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contribution of Neanderthal Introgression to Modern...by PF Reilly · 2022 · Cited by 112 — DNA retrieved from ancient specimens revealed...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4947341/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4947341/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4947341/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4947341/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>interbreeding and the evolution of human variationby KH Ko · 2016 · Cited by 61 — The evidence also supports interbreeding between Homo s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/11xujy9/ret_cia_officer_john_ramirez_i_give_credence_to/](https://www.reddit.com/r/aliens/comments/11xujy9/ret_cia_officer_john_ramirez_i_give_credence_to/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11xujy9/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11xujy9/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Officer John Ramirez: “I give credence to fact that...March 21, 2023 — They discovered an alien DNA in the human genome, which led t...</p></details>
    Published: March 21, 2023  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SGK1fpUx84g](https://www.youtube.com/watch?v=SGK1fpUx84g)  
+   Link: <a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez: The CIA is Tracking Humans that are Alien...Former CIA agent John Ramirez reveals the truth about &quot;Alien DNA&quot; enhancements...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: In prehistoric interbreeding, it was Neanderthal men and Homo sapiens women  
-   Link: [https://www.reuters.com/science/prehistoric-interbreeding-it-was-neanderthal-men-homo-sapiens-women-2026-02-26/](https://www.reuters.com/science/prehistoric-interbreeding-it-was-neanderthal-men-homo-sapiens-women-2026-02-26/)  
+   Link: <a href="https://www.reuters.com/science/prehistoric-interbreeding-it-was-neanderthal-men-homo-sapiens-women-2026-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/prehistoric-interbreeding-it-was-neanderthal-men-homo-sapiens-women-2026-02-26/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion is based on analysis of the X chromosome, which shows significant Homo sapiens DNA in Neanderthal genomes, but little Nea...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Interbreeding between archaic and modern humans  
-   Link: [https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans)  
+   Link: <a href="https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans</a>  
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-024-08420-x](https://www.nature.com/articles/s41586-024-08420-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureEarliest modern human genomes constrain timing of...by AP Sümer · 2025 · Cited by 58 — In the last few thousand years of their doc...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-024-08420-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08420-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earliest modern human genomes constrain timing of...by AP Sümer · 2025 · Cited by 58 — In the last few thousand years of their doc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/](https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1136hrm/excia_john_ramirez_humans_are_hybrids_there_are/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>into the UAPs that he learned in his career.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/](https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez16 votes, 112 comments. And r/ufo trusts the CIA and anyone who claims to have ever worked for them now?...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: john ramirez talking about 2027  
-   Link: [https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/](https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens... not the same as admitting in the UFO/NHI phenomenon.... Timothy Gallaudet says that a &quot;higher order&quot; non-human intelligence...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n interacted with governments. One of the highest-ranking...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/15kityh/i_think_we_already_have_an_idea_about_that_alien/](https://www.reddit.com/r/aliens/comments/15kityh/i_think_we_already_have_an_idea_about_that_alien/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15kityh/i_think_we_already_have_an_idea_about_that_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15kityh/i_think_we_already_have_an_idea_about_that_alien/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>erse engineering of aliens from ancient humans...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/](https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien hybrid, CIA programs, etc. r/UFOs - John Ramirez...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensEx-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Coming In 2027 · Comment...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureDNA evidence makes this irrefutable. If alien DNA is compatible with ours, then the alien...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/](https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reptilians and insectoids were total crap until I began...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/](https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist -...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: music.youtube.com  
    Title: Ez Pm S2HVDg  
-   Link: [https://music.youtube.com/podcast/_EzPmS2HVDg](https://music.youtube.com/podcast/_EzPmS2HVDg)  
+   Link: <a href="https://music.youtube.com/podcast/_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/_EzPmS2HVDg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comWARNING: CIA Insider Reveals the 2027 Arrival Date9 Mar 2026 — Ex-CIA Officer Reveals: Alien Technology 1,000 Years Ahead...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: music.youtube.com  
-   Link: [https://music.youtube.com/podcast/nS_Insp7i_Y](https://music.youtube.com/podcast/nS_Insp7i_Y)  
+   Link: <a href="https://music.youtube.com/podcast/nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/nS_Insp7i_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sXt4KMz2Ti4](https://www.youtube.com/watch?v=sXt4KMz2Ti4)  
+   Link: <a href="https://www.youtube.com/watch?v=sXt4KMz2Ti4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXt4KMz2Ti4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ere&#x27;s a jaw-dropping revelation that could rewrite our...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/](https://www.nature.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
+   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Science](https://en.wikipedia.org/wiki/Science)  
+   Link: <a href="https://en.wikipedia.org/wiki/Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceScience is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=1ErlrhcEdn4](http://www.youtube.com/watch?v=1ErlrhcEdn4)  
+   Link: <a href="http://www.youtube.com/watch?v=1ErlrhcEdn4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1ErlrhcEdn4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex cia agent John Ramirez speaks on reptilian aliens who run the world...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Ex cia agent John Ramirez speaks on reptilian aliens who run the world  
-   Link: [http://www.youtube.com/watch?v=Z8c-wH8pIHM](http://www.youtube.com/watch?v=Z8c-wH8pIHM)  
+   Link: <a href="http://www.youtube.com/watch?v=Z8c-wH8pIHM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z8c-wH8pIHM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Revealing Interview!  
-   Link: [http://www.youtube.com/watch?v=nJiS7p98x-E](http://www.youtube.com/watch?v=nJiS7p98x-E)  
+   Link: <a href="http://www.youtube.com/watch?v=nJiS7p98x-E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nJiS7p98x-E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hybrid Theory: Human or Alien? | Ancient Aliens | History...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Hybrid Theory: Human or Alien? | Ancient Aliens | History  
-   Link: [http://www.youtube.com/watch?v=73Mk3UZRWVo](http://www.youtube.com/watch?v=73Mk3UZRWVo)  
+   Link: <a href="http://www.youtube.com/watch?v=73Mk3UZRWVo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=73Mk3UZRWVo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA alien ancestry human origins DNA The Hybrid Theory: Human or Alien? | Ancient Aliens | History HISTORY...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: LADbible Stories  
-   Link: [https://www.youtube.com/watch?v=IVdukVMOar0&t=1s](https://www.youtube.com/watch?v=IVdukVMOar0&t=1s)  
+   Link: <a href="https://www.youtube.com/watch?v=IVdukVMOar0&amp;t=1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVdukVMOar0&amp;t=1s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA podcast 2027 John Ramirez is a former CIA agent who appeared on the show &quot;Cosmic Disclosure&quot; discussing 2027...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: humanorigins.si.edu  
    Title: ancient dna and neanderthals  
-   Link: [https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals](https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals)  
+   Link: <a href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human OriginsAncient DNA and Neanderthals20 Feb 2024 — The evidence we have of Neanderthal-modern human interbreeding sheds light on the...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/26/lifestyle/cia-used-dna-from-23andme-ancestry-to-hunt-aliens-whistleblower-claims/](https://nypost.com/2026/05/26/lifestyle/cia-used-dna-from-23andme-ancestry-to-hunt-aliens-whistleblower-claims/)  
+   Link: <a href="https://nypost.com/2026/05/26/lifestyle/cia-used-dna-from-23andme-ancestry-to-hunt-aliens-whistleblower-claims/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/26/lifestyle/cia-used-dna-from-23andme-ancestry-to-hunt-aliens-whistleblower-claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosopher Jason Reza Jorjani shared this theory in a podcast, citing information from Lyn Buchanan, a former participant in a CIA remot...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nypost.com  
    Title: New York Post'Alien' DNA found inside humans  
-   Link: [https://nypost.com/2025/10/06/science/alien-dna-lurks-inside-human-genome-scientist-claims/](https://nypost.com/2025/10/06/science/alien-dna-lurks-inside-human-genome-scientist-claims/)  
+   Link: <a href="https://nypost.com/2025/10/06/science/alien-dna-lurks-inside-human-genome-scientist-claims/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/10/06/science/alien-dna-lurks-inside-human-genome-scientist-claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Max Rempel, founder of the DNA Resonance Research Foundation, conducted the research by analyzing DNA from both general populations a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7032934/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7032934/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7032934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7032934/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govNeanderthal-Denisovan ancestors interbred with a distantly...by AR Rogers · 2020 · Cited by 96 — There is evidence for admixture...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtu.be  
    Title: 8ZHWc Mndj KI  
-   Link: [https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi](https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi)  
+   Link: <a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets20 Jun 2025 — Patrick discusses shocking revelations from Area 52 interview&#x27;s with Form...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTI-QspDxlf/](https://www.instagram.com/reel/DTI-QspDxlf/)  
+   Link: <a href="https://www.instagram.com/reel/DTI-QspDxlf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTI-QspDxlf/</a>  
 
 37. <a id="endnote-37"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/](https://www.sciencedaily.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDaily: Your source for the latest research newsScienceDaily features breaking news about the latest discoveries in science, health...</p></details>
+   Link: <a href="https://www.sciencedaily.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your source for the latest research newsScienceDaily features breaking news about the latest discoveries in science, health...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ibtimes.co.uk  
    Title: 2027 predicted reveal shocking alien contact ai cracks mystery 1771191  
-   Link: [https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191](https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191)  
+   Link: <a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: creators.spotify.com  
-   Link: [https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5](https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5)  
+   Link: <a href="https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/debriefed...No](https://creators.spotify.com/pod/profile/debriefed...No) information is available for this page...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: news.berkeley.edu  
    Title: a new timeline for neanderthal interbreeding with modern humans  
-   Link: [https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)  
+   Link: <a href="https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/" target="_blank" rel="noopener noreferrer nofollow">https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>new timeline for Neanderthal interbreeding with modern...12 Dec 2024 — The genome-based estimate is consistent with archeological eviden...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: [https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent](https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent)  
+   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez claims aliens will be revealed in 2027... Podcast UFO, during which he warned of an oncoming alien revelation in 2027.Read...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: mappingignorance.org  
    Title: multiple denisovan interbreeding events with modern humans  
-   Link: [https://mappingignorance.org/2024/11/12/multiple-denisovan-interbreeding-events-with-modern-humans/](https://mappingignorance.org/2024/11/12/multiple-denisovan-interbreeding-events-with-modern-humans/)  
+   Link: <a href="https://mappingignorance.org/2024/11/12/multiple-denisovan-interbreeding-events-with-modern-humans/" target="_blank" rel="noopener noreferrer nofollow">https://mappingignorance.org/2024/11/12/multiple-denisovan-interbreeding-events-with-modern-humans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Denisovan interbreeding events with modern...Nov 12, 2024 — The Denisovans that interbred with modern day humans passed on some...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: thelibertyline.com  
-   Link: [https://thelibertyline.com/2026/05/20/aliens-files-cia-breeding-program/](https://thelibertyline.com/2026/05/20/aliens-files-cia-breeding-program/)  
+   Link: <a href="https://thelibertyline.com/2026/05/20/aliens-files-cia-breeding-program/" target="_blank" rel="noopener noreferrer nofollow">https://thelibertyline.com/2026/05/20/aliens-files-cia-breeding-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>we are all aliens” and that there is an alien-human hybrid breeding program.Read more...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: lammuseum.wfu.edu  
    Title: what is the impact of genes introduced by non humans  
-   Link: [https://lammuseum.wfu.edu/exhibits/virtual/human-evolution/genetics/what-is-the-impact-of-genes-introduced-by-non-humans/](https://lammuseum.wfu.edu/exhibits/virtual/human-evolution/genetics/what-is-the-impact-of-genes-introduced-by-non-humans/)  
+   Link: <a href="https://lammuseum.wfu.edu/exhibits/virtual/human-evolution/genetics/what-is-the-impact-of-genes-introduced-by-non-humans/" target="_blank" rel="noopener noreferrer nofollow">https://lammuseum.wfu.edu/exhibits/virtual/human-evolution/genetics/what-is-the-impact-of-genes-introduced-by-non-humans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Impact of Genes Introduced by Non-Humans?Genetic evidence demonstrates that early humans (Homo sapiens) mated with Neanderthals (H...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: grunge.com  
    Title: cia agent who made startling claims about aliens  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — As retired CIA officer John Ramirez says: Aliens are real, aliens are h...</p></details>

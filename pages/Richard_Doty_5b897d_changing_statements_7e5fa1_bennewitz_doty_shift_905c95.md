@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /statements/
 nav_short_title: Bennewitz shift
 title: Can Doty's Bennewitz Story Be Trusted?
-title_full: Can Doty's Bennewitz Story Be Trusted? | Statements
+title_full: Can Doty's Bennewitz Story Be Trusted?
 display_title_short: Bennewitz shift
 display_title: Bennewitz shift
 heading_title: Can Doty's Bennewitz Story Be Trusted?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Consistent Are Doty's Public Stories? | Doty
+parent_title: How Consistent Are Doty's Public Stories?
 parent_permalink: /statements/
 parent_nav_short_title: Statements
 parent_heading_title: How Consistent Are Doty's Public Stories?
@@ -247,7 +247,7 @@ next_link:
   permalink: /claim-boundaries/
   short_title: Claim boundaries
   heading_title: Where Does Doty's Story Change Shape?
-date: '2026-06-09 02:55:00 '
+date: '2026-06-11 21:02:58 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_d
 
 ## Introduction
 
-The Paul [Bennewitz affair]({{ 'bennewitz/' | relative_url }}) is the strongest test case for [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s credibility because it is the point where claims of government UFO secrecy intersect with documented allegations of deliberate deception. Unlike many UFO controversies, the central issue is not simply whether extraordinary claims are true. It is whether a man who later presented himself as an insider source on hidden UFO programmes can be trusted after acknowledging a role in misleading at least some civilian researchers. The question is not whether Doty had contact with Paul Bennewitz; that is widely accepted. The question is what exactly Doty did, how much he has admitted, and whether those admissions strengthen or destroy the credibility of his later insider claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">say have detected “anomalous” aircraft, aka UFOs. But getting the Pentagon... Doty fed his unwitting stooges fake evidence of captured a...</span></span></span>
-
+The Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair is the strongest test case for Richard Doty’s credibility because it is the point where claims of government UFO secrecy intersect with documented allegations of deliberate deception. Unlike many UFO controversies, the central issue is not simply whether extraordinary claims are true. It is whether a man who later presented himself as an insider source on hidden UFO programmes can be trusted after acknowledging a role in misleading at least some civilian researchers. The question is not whether Doty had contact with Paul Bennewitz; that is widely accepted. The question is what exactly Doty did, how much he has admitted, and whether those admissions strengthen or destroy the credibility of his later insider claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">say have detected “anomalous” aircraft, aka UFOs. But getting the Pentagon... Doty fed his unwitting stooges fake evidence of captured a...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-1-dark.svg" | relative_url }}" alt="Bennewitz shift illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [supporters]({{ 'supporters/' | relative_url }}), the [Bennewitz]({{ 'bennewitz/' | relative_url }}) story shows that Doty was close enough to classified activity to be involved in sensitive counterintelligence operations. For critics, it demonstrates the opposite lesson: that Doty became publicly known precisely because he helped circulate false or misleading information, making later claims about aliens, recovered craft and secret programmes difficult to evaluate independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Richard Doty Personnel File – New Mexico State Police</span><span class="citation-popover-snippet">May 20, 2021 — Background Richard Doty, who has been a name long-standing in the UFO field as a &quot;disinformation agent,&quot; previously worked...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
+For [supporters]({{ 'supporters/' | relative_url }}), the Bennewitz story shows that Doty was close enough to classified activity to be involved in sensitive counterintelligence operations. For critics, it demonstrates the opposite lesson: that Doty became publicly known precisely because he helped circulate false or misleading information, making later claims about aliens, recovered craft and secret programmes difficult to evaluate independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Richard Doty Personnel File – New Mexico State Police</span><span class="citation-popover-snippet">May 20, 2021 — Background Richard Doty, who has been a name long-standing in the UFO field as a &quot;disinformation agent,&quot; previously worked...</span><span class="citation-popover-meta">Published: May 20, 2021</span></span></span>
 
 ## What Doty Has Admitted — And What He Has Not
 
@@ -271,7 +270,6 @@ The most widely cited admissions relate to the idea that false information was s
 A separate line of reporting concerns Linda Moulton Howe, who has long maintained that Doty showed her documents relating to UFO crashes and secret government programmes. For years Doty disputed aspects of that story. Later accounts, however, record him acknowledging that misleading material had been provided, reportedly saying that “some bad information” was given to Howe. That shift is significant because it moved the debate away from whether disinformation occurred at all and toward questions about its scale and purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou.R...</span></span></span>
 
 What remains less clear is the precise boundary between authorised activity and later reconstruction. Doty has often described Bennewitz as a civilian who was observing sensitive military projects and drawing incorrect conclusions. In later interviews, he has suggested that disinformation was used to protect classified programmes from exposure. Critics argue that this explanation still leaves major unanswered questions about proportionality and responsibility, particularly given Bennewitz’s deteriorating mental health. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TVTargeted Disinformation</span><span class="citation-popover-snippet">Apple TVTargeted Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who intercepte...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2cD5WETr_DA" title="Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer">Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind</a></p><p class="youtube-embed-meta">Channel: Behind the Bastards &middot; Views: 96 &middot; Uploaded: February 2026 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2cD5WETr_DA">Open on YouTube</a></p></div></div></div>
 
@@ -285,7 +283,6 @@ Critics draw the opposite conclusion. They argue that the very skill set Doty cl
 
 That difference matters because many of Doty’s later UFO-related claims rely heavily on his own [authority]({{ 'authority/' | relative_url }}). When discussing alleged crash-retrieval programmes, secret documents, Majestic 12 stories or other insider narratives, the reader is often asked to trust the source before independent corroboration is available. The Bennewitz affair makes that trust much harder to grant automatically.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tK6ZNcFTkqc" title="She Exposed Government Secrets… And Paid With Her Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tK6ZNcFTkqc" target="_blank" rel="noopener noreferrer">She Exposed Government Secrets… And Paid With Her Life</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 14.8K &middot; Uploaded: July 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tK6ZNcFTkqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tK6ZNcFTkqc">Open on YouTube</a></p></div></div></div>
 
 ## The Problem With The Later Insider Claims
@@ -295,7 +292,6 @@ A recurring feature of Doty’s later public appearances is that they combine ad
 In documentaries such as *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, Doty appears as both participant and narrator. The film's central argument is that military and intelligence actors helped shape UFO mythology through deception and manipulation. Yet Doty simultaneously remains a source of claims about what was supposedly happening behind the scenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
 This leaves readers with several unresolved possibilities:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +303,6 @@ This leaves readers with several unresolved possibilities:
 </div>
 
 The difficulty is that independent verification becomes weaker as the claims become more extraordinary. The fact that false information was circulated in the Bennewitz era is supported by multiple sources and is broadly accepted across sceptical and many UFO-oriented accounts. Claims about alien bodies, secret extraterrestrial agreements or vast hidden retrieval programmes are much harder to verify and often depend on testimony rather than documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">say have detected “anomalous” aircraft, aka UFOs. But getting the Pentagon... Doty fed his unwitting stooges fake evidence of captured a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread disinformation about UFOs had been...</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-2-dark.svg" | relative_url }}" alt="Bennewitz shift illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Independent Evidence Actually Supports
@@ -329,7 +324,6 @@ There is no comparable level of independent proof for many of the larger claims 
 
 That distinction is important because the Bennewitz case often gets used in two incompatible ways. One side treats it as proof that the government lies about UFOs and therefore that extraordinary UFO claims may be true. The other side treats it as proof that extraordinary UFO claims themselves can be manufactured through official deception. The documented evidence supports the existence of disinformation more strongly than it supports the truth of the underlying alien narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">mirage men a new chapter in ufology</span><span class="citation-popover-snippet">Mirage Men: A New Chapter in UFOlogy29 May 2014 — Through interviews of Doty and those with whom he has interacted, Mirage Men... disinf...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-3-dark.svg" | relative_url }}" alt="Bennewitz shift illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can The Bennewitz Story Be Trusted?
 
@@ -341,9 +335,7 @@ The expansive version is that the same history should persuade readers that Doty
 
 Within the broader question of Richard Doty’s changing public statements, that is the enduring tension. The Bennewitz case is the strongest evidence that Doty was genuinely involved in something important. It is also the strongest reason many researchers remain cautious about treating him as a reliable narrator of what that “something” actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...14 Mar 2025 — Richard Doty: Disinformation, Paul Bennewitz, and UAP W...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XS8WGTqBBik" title="Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer">Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary</a></p><p class="youtube-embed-meta">Channel: BingeWorthy Documentaries &middot; Views: 9.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XS8WGTqBBik">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -357,16 +349,16 @@ Within the broader question of Richard Doty’s changing public statements, that
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Directly addresses the events that shaped perceptions of Doty&#x27;s trustworthiness.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -374,16 +366,16 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Explores admissions, contradictions, and competing interpretations of Doty&#x27;s role.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,16 +383,16 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating conflicting testimony and belief systems.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -408,16 +400,16 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Adds context about secrecy and credibility issues in military lore.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -425,7 +417,7 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -462,15 +454,15 @@ Within the broader question of Richard Doty’s changing public statements, that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +470,15 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +486,31 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,7 +518,7 @@ Within the broader question of Richard Doty’s changing public statements, that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="can-doty-s-bennewitz-story-be-trusted-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -726,158 +734,158 @@ Within the broader question of Richard Doty’s changing public statements, that
 1. <a id="endnote-1"></a>
    Source: issues.org  
    Title: in Science and Technology UFOs Won't Go Away  
-   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>say have detected “anomalous” aircraft, aka UFOs. But getting the Pentagon... Doty fed his unwitting stooges fake evidence of captured a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: Richard Doty Personnel File – New Mexico State Police  
-   Link: [https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/](https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2021 — Background Richard Doty, who has been a name long-standing in the UFO field as a &quot;disinformation agent,&quot; previously worked...</p></details>
    Published: May 20, 2021  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou.R...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 5. <a id="endnote-5"></a>
    Source: tv.apple.com  
    Title: TVTargeted Disinformation  
-   Link: [https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple TVTargeted Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who intercepte...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tv.apple.com  
    Title: TVProject Seven Lambs  
-   Link: [https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62](https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62)  
+   Link: <a href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.65xahxcky8hu9qrpz5m86116s?showId=umc.cmc.65nmebzu3rwg43oqcvoy2dw62</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple TVProject Seven Lambs - Alien Files ReopenedIn 1978, UFO enthusiast Paul Bennewitz claims he&#x27;s intercepted extraterrestrial message...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread disinformation about UFOs had been...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul BennewitzAccording to some sources, Bennewitz was the target of a government disinformation campaign that ultimately led to his p...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: skeptoid.com  
    Title: mirage men a new chapter in ufology  
-   Link: [https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/](https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/)  
+   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A New Chapter in UFOlogy29 May 2014 — Through interviews of Doty and those with whom he has interacted, Mirage Men... disinf...</p></details>
    Published: May 2014  
 
 11. <a id="endnote-11"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Spying, disinformation accusations follow UFO figure Rick Doty — an exclusive interview – Mystery Wire. INTERVI...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN](https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Feb 28, 2025 — We dive into the story of Richard Doty—a former U.S...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810](https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Feb 13, 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/richard-doty-ufo-disinformation-inside-project-beta/id1644993683?i=1000741545855](https://podcasts.apple.com/us/podcast/richard-doty-ufo-disinformation-inside-project-beta/id1644993683?i=1000741545855)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-ufo-disinformation-inside-project-beta/id1644993683?i=1000741545855" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-ufo-disinformation-inside-project-beta/id1644993683?i=1000741545855</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty &amp; UFO Disinformation, Inside Project Beta...16 Dec 2025 — Today, we&#x27;re talking with Gregg Bishop, author of Project Beta, a leading...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: men in black ufo sightings mirage makers movie  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/](https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/)  
+   Link: <a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...14 Mar 2025 — Richard Doty: Disinformation, Paul Bennewitz, and UAP W...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/film/556599/doty](https://www.e-flux.com/film/556599/doty)  
+   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-flux... UFO investigators purporting to tell the “truth” about government involvement with extraterrestrials. On the other hand...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
+   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride through a world of d...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: ftp.cdc.gov  
-   Link: [https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt](https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt)  
+   Link: <a href="https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cdc.govmmds_spell.txt... UFO SOU RUQ TMH SOX SSE RYA VAV VAX TOE ERUPTIVELY TOG WAC SUD SUE SSP WAG STM SSS TOO TPK DISALLOWS SUM SUN VET...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/](https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoDoty &#x27;befriended&#x27; Bennewitz for the sole purpose of spreading disinformation... Mirage Men i&#x27;m convinc...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64](https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64)  
+   Link: <a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?What if the Men in Black don&#x27;t exist to tidy up paranormal messes but to sew disinform...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/ebe.htm](https://sacred-texts.com/ufo/ebe.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/ebe.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ebe.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/782154062/Saucers-Spooks-and-Kooks-UFO-Adam-Gorightly-24](https://www.scribd.com/document/782154062/Saucers-Spooks-and-Kooks-UFO-Adam-Gorightly-24)  
+   Link: <a href="https://www.scribd.com/document/782154062/Saucers-Spooks-and-Kooks-UFO-Adam-Gorightly-24" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/782154062/Saucers-Spooks-and-Kooks-UFO-Adam-Gorightly-24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government project related to UFOs that included information about a human-alien exchange program. Doty...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/8677692-mirage-men](https://www.goodreads.com/book/show/8677692-mirage-men)  
+   Link: <a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: podcasts.happyscribe.com  
    Title: project beta pt d35917be 6a0f 419b 97a7 ec393c22336d  
-   Link: [https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d](https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d)  
+   Link: <a href="https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - Podcast TranscriptsThen in the summer of 1981, Paul Benowitz received a top secret file from fellow Ufologist Bill Moore. It was titl...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Part Two: How The U.S. Government Used Aliens To Destroy a Man's Mind  
-   Link: [https://www.youtube.com/watch?v=2cD5WETr_DA](https://www.youtube.com/watch?v=2cD5WETr_DA)  
+   Link: <a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mirage Men Full Documentary is highly relevant as it features Richard Doty detailing how he conducted psychological operations agains...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/](https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sinfo agent to buy some of the community&#x27;s trust back.Read more...</p></details>

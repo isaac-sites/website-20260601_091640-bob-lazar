@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /core-claims-b197cc/
 nav_short_title: Unresolved UAP
 title: When Unidentified Does Not Mean Alien
-title_full: When Unidentified Does Not Mean Alien | Core Claims
+title_full: When Unidentified Does Not Mean Alien
 display_title_short: Unresolved UAP
 display_title: Unresolved UAP
 heading_title: When Unidentified Does Not Mean Alien
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Kirkpatrick Actually Claim? | Kirkpatrick
+parent_title: What Did Kirkpatrick Actually Claim?
 parent_permalink: /core-claims-b197cc/
 parent_nav_short_title: Core Claims
 parent_heading_title: What Did Kirkpatrick Actually Claim?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /safety-risks/
   short_title: Safety Risks
   heading_title: Why UAP Still Matter Without Aliens
-date: '2026-06-09 02:57:54 '
+date: '2026-06-11 21:04:23 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_
 
 ## Introduction
 
-A central test of [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s credibility is whether he has consistently maintained the distinction between an unresolved UAP case and evidence of alien technology. Throughout his tenure as director of the Pentagon’s All-domain Anomaly Resolution Office (AARO), Kirkpatrick argued that many reports are genuinely unidentified, but that “unidentified” is a description of the current state of knowledge rather than proof of a particular explanation. That distinction sounds simple, yet it sits at the heart of the debate over UFOs and UAPs. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) see it as a necessary scientific safeguard. Critics argue that it can become a convenient way to dismiss potentially extraordinary cases. The question is whether the available evidence supports Kirkpatrick’s threshold for moving from “unresolved” to “evidence of non-human technology.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO HunterJan 19, 2024 — A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...</span></span></span>
-
+A central test of Sean Kirkpatrick’s credibility is whether he has consistently maintained the distinction between an unresolved UAP case and evidence of alien technology. Throughout his tenure as director of the Pentagon’s All-domain Anomaly Resolution Office (AARO), Kirkpatrick argued that many reports are genuinely unidentified, but that “unidentified” is a description of the current state of knowledge rather than proof of a particular explanation. That distinction sounds simple, yet it sits at the heart of the debate over UFOs and UAPs. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) see it as a necessary scientific safeguard. Critics argue that it can become a convenient way to dismiss potentially extraordinary cases. The question is whether the available evidence supports Kirkpatrick’s threshold for moving from “unresolved” to “evidence of non-human technology.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO HunterJan 19, 2024 — A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved UAP illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What unresolved really means in UAP reporting
@@ -275,7 +274,6 @@ This alignment matters because Kirkpatrick’s position was not unique to AARO. 
 The strongest support for Kirkpatrick’s position comes from the practical mechanics of UAP investigations.
 
 Most UAP reports do not involve a perfectly documented event. Instead, investigators often receive some combination of:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -296,7 +294,6 @@ This creates a well-known analytical problem. An object that appears to accelera
 
 Under those conditions, “unidentified” often means that the evidence is too weak to support any explanation, not that the event demonstrates unknown technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## The gap between anomaly and proof
@@ -304,7 +301,6 @@ Under those conditions, “unidentified” often means that the evidence is too 
 Kirkpatrick’s credibility on this issue largely depends on whether readers accept a high evidential threshold.
 
 His position can be summarised as follows:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -321,7 +317,6 @@ The distinction is particularly important because many widely discussed UAP case
 
 Kirkpatrick has argued that public discussion often skips this step, moving directly from uncertainty to extraordinary conclusions. In his public writings after leaving AARO, he criticised reliance on hearsay, repeated stories, and unsupported claims rather than verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO HunterJan 19, 2024 — A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved UAP illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Kirkpatrick's threshold helps
 
@@ -334,7 +329,6 @@ AARO's historical review argued that many unresolved reports likely fall into th
 This approach also reduces the risk of confirmation bias. If investigators assume an extraterrestrial explanation whenever evidence is incomplete, they may stop looking for more mundane explanations. Kirkpatrick’s threshold forces investigators to separate the existence of a mystery from the explanation of that mystery.
 
 The logic is straightforward: a mystery is evidence of missing information, not necessarily evidence of aliens.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUB8TybhftM" title="NASA releases independent report on UAPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer">NASA releases independent report on UAPS</a></p><p class="youtube-embed-meta">Channel: CBS Chicago &middot; Views: 1.7K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUB8TybhftM">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +344,6 @@ There is also a [transparency]({{ 'transparency/' | relative_url }}) issue. Beca
 
 However, these criticisms do not by themselves demonstrate extraterrestrial technology. They challenge the completeness of the evidence base rather than providing positive proof of a non-human origin.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved UAP illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for assessing Kirkpatrick
 
@@ -360,91 +353,47 @@ Whether one agrees with every AARO conclusion is a separate question. Critics ma
 
 As a result, this particular aspect of Kirkpatrick’s credibility rests less on proving what UAPs are and more on maintaining a disciplined distinction between what is known, what is suspected, and what remains unknown. In the current public record, unresolved UAP cases demonstrate continuing uncertainty. They do not, on their own, demonstrate extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO HunterJan 19, 2024 — A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to When Unidentified Does Not Mean Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for When Unidentified Does Not Mean Alien, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly addresses the distinction between unexplained observations and extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Examines unresolved cases without automatically treating them as proof of alien origin.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Provides contemporary examples of unresolved reports and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explores standards of evidence and critical thinking relevant to UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -481,15 +430,15 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +446,15 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +462,15 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +478,15 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +494,7 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="unresolved-uap-d5436d-when-unidentified-does-not-mean-alien-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unidentified-does-not-mean-alien-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-unidentified-does-not-mean-alien-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,156 +710,156 @@ As a result, this particular aspect of Kirkpatrick’s credibility rests less on
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of &#x27;extraterrestrial origin... The [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report-8d3982/&#x27; | relative_url &amp;#125;&amp;#125;) points out that UAP sightings and beliefs that UFOs represent alien technolog...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: [https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review](https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review)  
+   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyA recent unclassified report from the U.S. Department...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 June 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently colle...</p></details>
    Published: June 2022  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWhat are some common objects/causes frequently reported as UAP? Has the Department found any evidence of extraterrestrial techno...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Space Time with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=yGVQ5858dZs](https://www.youtube.com/watch?v=yGVQ5858dZs)  
+   Link: <a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGVQ5858dZs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S  
-   Link: [https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/](https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/)  
+   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO HunterJan 19, 2024 — A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nssaspace.org  
    Title: Space Time Series with Dr  
-   Link: [https://nssaspace.org/event/kirkpatrick-2024/](https://nssaspace.org/event/kirkpatrick-2024/)  
+   Link: <a href="https://nssaspace.org/event/kirkpatrick-2024/" target="_blank" rel="noopener noreferrer nofollow">https://nssaspace.org/event/kirkpatrick-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick14 Mar 2024 —... official review panel has confirmed that any sighting of a UAP represented extraterrestrial technology...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/](https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/)  
+   Link: <a href="https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/we-need-to-investigate-ufos-but-without-the-distraction-of-conspiracy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanWe Need to Investigate UFOs—But Without the Distraction...6 Mar 2024 — If people claim to have evidence involving ali...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: pentagon releases trove of new ufo files but skeptics arent impressed  
-   Link: [https://www.scientificamerican.com/article/pentagon-releases-trove-of-new-ufo-files-but-skeptics-arent-impressed/](https://www.scientificamerican.com/article/pentagon-releases-trove-of-new-ufo-files-but-skeptics-arent-impressed/)  
+   Link: <a href="https://www.scientificamerican.com/article/pentagon-releases-trove-of-new-ufo-files-but-skeptics-arent-impressed/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/pentagon-releases-trove-of-new-ufo-files-but-skeptics-arent-impressed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP that found no evidence linking such phenomena to aliens or extraterrestrial activity. “These files, hidden behind classifications, have...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scientificamerican.com  
    Title: what really happened at the pentagons once hidden ufo office  
-   Link: [https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/](https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/)  
+   Link: <a href="https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/what-really-happened-at-the-pentagons-once-hidden-ufo-office/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened at the Pentagon&#x27;s Once-Hidden...Sep 26, 2024 — Last year congressional hearings heard claims of alien technology re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scientificamerican.com  
    Title: Stories by Sean Kirkpatrick Here's What I Learned as the U.S  
-   Link: [https://www.scientificamerican.com/author/sean-kirkpatrick/](https://www.scientificamerican.com/author/sean-kirkpatrick/)  
+   Link: <a href="https://www.scientificamerican.com/author/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/sean-kirkpatrick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO Hunter. A forthcoming investigational report from an office of the Pentagon has found no evidence of aliens...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scientificamerican.com  
    Title: The U.S  
-   Link: [https://www.scientificamerican.com/article/the-u-s-governments-top-ufo-scientist-has-an-open-mind-about-alien/](https://www.scientificamerican.com/article/the-u-s-governments-top-ufo-scientist-has-an-open-mind-about-alien/)  
+   Link: <a href="https://www.scientificamerican.com/article/the-u-s-governments-top-ufo-scientist-has-an-open-mind-about-alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-u-s-governments-top-ufo-scientist-has-an-open-mind-about-alien/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Top UFO Scientist Has an Open...25 Mar 2025 — The U.S. Government&#x27;s Top UFO Scientist Has an Open Mind about Alien Visitati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scientificamerican.com  
    Title: the governments former ufo hunter has a lot to say  
-   Link: [https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/](https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/)  
+   Link: <a href="https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/podcast/episode/the-governments-former-ufo-hunter-has-a-lot-to-say/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What he found is, to him, more concerning than little green men.Read more...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...It is not likely that alien life exists due to the numbers in astronomy.... r/space - NA...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/](https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/)  
+   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...Oct 18, 2023 — A new Pentagon report confirms that AARO has received a total of 80...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: legion.org  
-   Link: [https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators](https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators)  
+   Link: <a href="https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;No credible evidence&#x27; of UFO activity has been found...20 Apr 2023 — “I state clearly for the record that in our research, AARO has fo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos](https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos)  
+   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...Analysis: Whistleblower testimonies did not change our basic understanding of UFOs...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: potomacofficersclub.com  
    Title: dod office sees no evidence to support extraterrestrial explanation for uaps  
-   Link: [https://www.potomacofficersclub.com/dod-office-sees-no-evidence-to-support-extraterrestrial-explanation-for-uaps/](https://www.potomacofficersclub.com/dod-office-sees-no-evidence-to-support-extraterrestrial-explanation-for-uaps/)  
+   Link: <a href="https://www.potomacofficersclub.com/dod-office-sees-no-evidence-to-support-extraterrestrial-explanation-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://www.potomacofficersclub.com/dod-office-sees-no-evidence-to-support-extraterrestrial-explanation-for-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Office Sees No Evidence To Support...Apr 25, 2023 — Kirkpatrick, a former Potomac Officers Club event speaker, said few UAPs fe...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bR0PaotZxD0](https://www.youtube.com/watch?v=bR0PaotZxD0)  
+   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...... independent panel found no evidence that Unidentified Anomalous Phenom...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dUB8TybhftM](https://www.youtube.com/watch?v=dUB8TybhftM)  
+   Link: <a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPSNeil deGrasse Tyson to govt.: &#x27;Bring out the alien&#x27;. CNN. New. 332K &amp;middot; 30:48... Whistleblo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

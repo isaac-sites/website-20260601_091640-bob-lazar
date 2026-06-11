@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /remote-viewing/
 nav_short_title: SRI Origins
 title: What Green's SRI Link Really Proves
-title_full: What Green's SRI Link Really Proves | Remote Viewing
+title_full: What Green's SRI Link Really Proves
 display_title_short: SRI Origins
 display_title: SRI Origins
 heading_title: What Green's SRI Link Really Proves
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did Remote Viewing Help Or Hurt Green's Credibility? | Green
+parent_title: Did Remote Viewing Help Or Hurt Green's Credibility?
 parent_permalink: /remote-viewing/
 parent_nav_short_title: Remote Viewing
 parent_heading_title: Did Remote Viewing Help Or Hurt Green's Credibility?
@@ -253,7 +253,7 @@ next_link:
   permalink: /star-gate/
   short_title: Star Gate
   heading_title: Did Star Gate Validate Remote Viewing?
-date: '2026-06-09 03:00:26 '
+date: '2026-06-11 21:05:44 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1.webp
@@ -262,14 +262,12 @@ image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_ro
 
 ## Introduction
 
-[Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s connection to the origins of the Stanford Research Institute (SRI) remote-viewing programme is one of the strongest documented parts of his wider UFO-era reputation. It matters because it shows that Green was not merely a later storyteller attaching himself to intelligence folklore. Declassified records, later programme histories and retrospective accounts place him near the earliest CIA interest in parapsychology during the Cold War. What that link proves, however, is narrower than many enthusiasts claim.
-
+Kit Green’s connection to the origins of the Stanford Research Institute (SRI) remote-viewing programme is one of the strongest documented parts of his wider UFO-era reputation. It matters because it shows that Green was not merely a later storyteller attaching himself to intelligence folklore. Declassified records, later programme histories and retrospective accounts place him near the earliest CIA interest in parapsychology during the Cold War. What that link proves, however, is narrower than many enthusiasts claim.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1-dark.svg" | relative_url }}" alt="SRI Origins illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The available record supports the view that Green was a genuine CIA contact involved in early discussions that helped bring paranormal claims to official attention. It does not show that he personally validated remote viewing, proved psychic functioning, or possessed secret confirmation that extraordinary claims were true. The distinction is central to assessing Green’s credibility. His role demonstrates access and institutional relevance. It does not automatically validate the underlying phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Christopher Green (“Kit Green”), at the time with the CIA, to discuss parapsychology. Later, Dr. Harold Puthoff...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[2newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7CPUNSlXKs" title="NEW Giza Pyramid SAR Scan Breakdown &amp; Military Lasers that TALK | Museum of Tarot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7CPUNSlXKs" target="_blank" rel="noopener noreferrer">NEW Giza Pyramid SAR Scan Breakdown &amp; Military Lasers that TALK | Museum of Tarot</a></p><p class="youtube-embed-meta">Channel: Danny Jones &middot; Views: 181.5K &middot; Uploaded: May 2025 &middot; Length: 2 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7CPUNSlXKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7CPUNSlXKs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bMDdBwjfY8" title="The History of Remote Viewing with Paul H. Smith (4K Reboot)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bMDdBwjfY8" target="_blank" rel="noopener noreferrer">The History of Remote Viewing with Paul H. Smith (4K Reboot)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 3.1K &middot; Uploaded: February 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bMDdBwjfY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bMDdBwjfY8">Open on YouTube</a></p></div></div></div>
 
 ## The 1972 CIA-SRI Contact Trail
 
@@ -279,8 +277,7 @@ This chronology matters because it places Green near the beginning of the govern
 
 The broader Cold War context also helps explain why such contacts occurred. American intelligence agencies were receiving reports that the Soviet Union was investing resources in research related to psychotronics, psychic functioning and other unconventional subjects. Even officials who were sceptical could justify exploratory research if they feared a potential intelligence gap. Multiple retrospective accounts describe this concern as part of the rationale for early CIA engagement with SRI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucdavis.edu">[UC Davis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucdavis.edu</span><span class="citation-popover-title">psychic spying research produces credible evidence</span><span class="citation-popover-snippet">1970s at the Stanford Research Institute -- now called SRI International -- in Menlo Park, Calif. The program was initiated by the CIA in...</span></span></span>
 
-For Green's credibility, this is significant because it aligns with a verifiable historical process. The CIA did fund exploratory work. SRI researchers did pursue remote-viewing experiments. Green's name appears within that environment rather than emerging solely from later UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAM... program was initiated at what was then the Stanford Research Institute, now called SRI...</span></span></span>
-
+For Green's credibility, this is significant because it aligns with a verifiable historical process. The CIA did fund exploratory work. SRI researchers did pursue remote-viewing experiments. Green's name appears within that environment rather than emerging solely from later UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAM... program was initiated at what was then the Stanford Research Institute, now called SRI...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3D7A-X1nd3c" title="Third Eye Spies with Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3D7A-X1nd3c" target="_blank" rel="noopener noreferrer">Third Eye Spies with Russell Targ</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 10.0K &middot; Uploaded: December 2024 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3D7A-X1nd3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3D7A-X1nd3c">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +288,6 @@ The strongest evidence concerns Green's position, not the success of the program
 Publicly available biographical records independently confirm that Green served in senior analytical and scientific roles within the CIA during the period in question. His career included work connected to science and technology assessment, making it plausible that he would encounter unconventional research proposals. His presence in discussions about psychic claims therefore fits his documented professional background rather than appearing as an obvious historical anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Christopher Green (“Kit Green”), at the time with the CIA, to discuss parapsychology. Later, Dr. Harold Puthoff...Read more...</span></span></span>
 
 The available record supports several relatively modest conclusions:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -308,7 +304,6 @@ There is no publicly available evidence showing that Green personally authentica
 
 This distinction often disappears in later retellings. A reader may hear that Green was involved in the origins of remote viewing and assume this means he possessed secret knowledge that the phenomenon worked. The documentary trail does not support that stronger conclusion.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-2-dark.svg" | relative_url }}" alt="SRI Origins illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Official Interest Was Not the Same as Validation
 
@@ -322,7 +317,6 @@ This is where Green’s credibility assessment becomes more complicated.
 
 His documented involvement in the programme’s early history strengthens claims that he had access to unusual intelligence discussions. It does not strengthen claims that remote viewing itself was demonstrated beyond reasonable doubt. A person can be genuinely connected to a real government programme while still being wrong about the programme’s conclusions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgyYms376Mg" title="Scientific and Spiritual Implications of Psychic Abilities - Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer">Scientific and Spiritual Implications of Psychic Abilities - Russell Targ</a></p><p class="youtube-embed-meta">Channel: Science and Nonduality &middot; Views: 217.7K &middot; Uploaded: February 2015 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgyYms376Mg">Open on YouTube</a></p></div></div></div>
 
 ## Where Access Stops Becoming Validation
@@ -331,12 +325,11 @@ The most useful way to view Green’s SRI connection is as evidence of access ra
 
 For supporters, the episode shows that Green occupied circles where classified research decisions were being made. That weakens suggestions that he fabricated his intelligence associations after the fact. The SRI connection fits a broader pattern of documented government and contractor relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Christopher Green (“Kit Green”), at the time with the CIA, to discuss parapsychology. Later, Dr. Harold Puthoff...Read more...</span></span></span>
 
-For [sceptics]({{ 'sceptics-078368/' | relative_url }}), the same episode illustrates a recurring problem. Intelligence agencies sometimes investigate low-probability or fringe ideas because the perceived cost of ignoring them appears higher than the cost of testing them. In that environment, participation in a programme does not automatically confer scientific credibility on the programme's claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA-RDP96-00789R002600250001-6on the study of telepathic clairvoyance, recently termed. &quot;remote viewing&quot; by Stanford Research Institute (...</span></span></span>
+For [sceptics]({{ 'sceptics-078368/' | relative_url }}), the same episode illustrates a recurring problem. Intelligence agencies sometimes investigate low-probability or fringe ideas because the perceived cost of ignoring them appears higher than the cost of testing them. In that environment, participation in a programme does not automatically confer scientific credibility on the programme's claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">RDP96-00789R002600250001-6on the study of telepathic clairvoyance, recently termed. &quot;remote viewing&quot; by Stanford Research Institute (...</span></span></span>
 
 This distinction becomes especially relevant when later UFO and UAP discussions invoke Green’s background. The strongest interpretation is that Green’s SRI link demonstrates real institutional access to a genuine intelligence project. The weakest interpretation is that the link proves remote viewing worked, proved paranormal perception, or indirectly validates later extraordinary claims connected to UFOs.
 
 The documentary record supports the first conclusion far more strongly than the second. Green’s role in the SRI origin story is important because it is verifiable. It shows he was close to the beginning of a remarkable and controversial intelligence experiment. What it does not show is that the experiment ultimately confirmed the extraordinary claims that inspired it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Christopher Green (“Kit Green”), at the time with the CIA, to discuss parapsychology. Later, Dr. Harold Puthoff...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080008-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">DIRECT PERCEPTION OF REMOTE GEOGRAPHICAL...Harold Puthoff and Russell Targ, &quot;A Per- ceptual channel for information transfer over kilome...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-3-dark.svg" | relative_url }}" alt="SRI Origins illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -457,15 +450,15 @@ The documentary record supports the first conclusion far more strongly than the 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot Of 4: Vintage Masonic Memorabilia- Keychain, 2 Coins &amp; Single Cuff Link"><img src="{{ '/assets/images/marketplace-covers/c33cf40e6b15ca686965.jpg' | relative_url }}" alt="Listing image for Lot Of 4: Vintage Masonic Memorabilia- Keychain, 2 Coins &amp; Single Cuff Link" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater"><img src="https://i.ebayimg.com/images/g/vNwAAeSwKOdp~eVF/s-l225.jpg" alt="Listing image for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lot Of 4: Vintage Masonic Memorabilia- Keychain, 2 Coins &amp; Single Cuff Link</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for link memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: link memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,15 +466,15 @@ The documentary record supports the first conclusion far more strongly than the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 2 Vintage MG Motors Memorabilia Cuff Link Keychain Collectibles"><img src="{{ '/assets/images/marketplace-covers/d4387ff65f1c4f3cf9be.jpg' | relative_url }}" alt="Listing image for Lot of 2 Vintage MG Motors Memorabilia Cuff Link Keychain Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSwEllpy~tK/s-l225.jpg" alt="Listing image for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Lot of 2 Vintage MG Motors Memorabilia Cuff Link Keychain Collectibles</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for link memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: link memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +482,15 @@ The documentary record supports the first conclusion far more strongly than the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Link Movie FYC Laika Jigsaw Puzzle Rare Promo 2019 movie memorabilia Sea"><img src="{{ '/assets/images/marketplace-covers/86d5f7c73eaef5cbdd34.jpg' | relative_url }}" alt="Listing image for Missing Link Movie FYC Laika Jigsaw Puzzle Rare Promo 2019 movie memorabilia Sea" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/9FkAAOSwuvRnpUv-/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Missing Link Movie FYC Laika Jigsaw Puzzle Rare Promo 2019 movie memorabilia Sea</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for link memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: link memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +498,15 @@ The documentary record supports the first conclusion far more strongly than the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Gladiator 2 Helmet 3D Keychain Golden Link Theater Promotion Memorabilia"><img src="{{ '/assets/images/marketplace-covers/2c71a2164ac1e81c1c9d.jpg' | relative_url }}" alt="Listing image for NEW Gladiator 2 Helmet 3D Keychain Golden Link Theater Promotion Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster"><img src="https://i.ebayimg.com/images/g/2foAAOSwkhdnSejQ/s-l225.jpg" alt="Listing image for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">NEW Gladiator 2 Helmet 3D Keychain Golden Link Theater Promotion Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for link memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: link memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,7 +514,7 @@ The documentary record supports the first conclusion far more strongly than the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=link+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="link memorabilia -book -books -dvd" data-ebay-reference="sri-origins-what-green-s-sri-link-really-proves-kit-green-link-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-green-s-sri-link-really-proves-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="what-green-s-sri-link-really-proves-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,102 +730,102 @@ The documentary record supports the first conclusion far more strongly than the 
 1. <a id="endnote-1"></a>
    Source: newdualism.org  
    Title: CIA Initiated Remote Viewing At Stanford Research Institute  
-   Link: [https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm](https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm)  
+   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</p></details>
    Published: July 1995  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAAN EVALUATION OF THE REMOTE VIEWING PROGRAM... program was initiated at what was then the Stanford Research Institute, now called SRI...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAM... program was initiated at what was then the Stanford Research Institute, now called SRI...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rd Research Institute, later known as SRI International, and...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SRI conducted by Puthoff, Targ, and their several associates.... Ingo Swann visits Puthoff...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP96-00789R002600250001-6on the study of telepathic clairvoyance, recently termed. &quot;remote viewing&quot; by Stanford Research Institute (...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RDP96-00789R002600250001-6on the study of telepathic clairvoyance, recently termed. &quot;remote viewing&quot; by Stanford Research Institute (...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080008-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080008-6.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080008-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080008-6.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECT PERCEPTION OF REMOTE GEOGRAPHICAL...Harold Puthoff and Russell Targ, &quot;A Per- ceptual channel for information transfer over kilome...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573](https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Green (“Kit Green”), at the time with the CIA, to discuss parapsychology. Later, Dr. Harold Puthoff...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ucdavis.edu  
    Title: psychic spying research produces credible evidence  
-   Link: [https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence](https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence)  
+   Link: <a href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1970s at the Stanford Research Institute -- now called SRI International -- in Menlo Park, Calif. The program was initiated by the CIA in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: [https://en.wikipedia.org/wiki/Remote_viewing](https://en.wikipedia.org/wiki/Remote_viewing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingThe program ran from 1975 to 1995 and ended after evaluators concluded that remote viewers consistently failed to produc...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/](https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEAKED call between CIA Dr. Kit Green &amp; Psychic-...Here are the key notes: there exist a leaked phone call. It will be linked below. Rem...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: papersmiths.co.uk  
-   Link: [https://www.papersmiths.co.uk/collections/purpose-journals?srsltid=AfmBOor9n5WQyImOCPlyAwkjTt5FAkhRQ-gFh4wGEvf-8EqKjLSusWGH](https://www.papersmiths.co.uk/collections/purpose-journals?srsltid=AfmBOor9n5WQyImOCPlyAwkjTt5FAkhRQ-gFh4wGEvf-8EqKjLSusWGH)  
+   Link: <a href="https://www.papersmiths.co.uk/collections/purpose-journals?srsltid=AfmBOor9n5WQyImOCPlyAwkjTt5FAkhRQ-gFh4wGEvf-8EqKjLSusWGH" target="_blank" rel="noopener noreferrer nofollow">https://www.papersmiths.co.uk/collections/purpose-journals?srsltid=AfmBOor9n5WQyImOCPlyAwkjTt5FAkhRQ-gFh4wGEvf-8EqKjLSusWGH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purpose JournalsDaily and weekly design-led purpose journals, self-help workbooks and gratitude diaries to support your daily or weekly j...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: johnlewis.com  
-   Link: [https://www.johnlewis.com/browse/home-garden/stationery/notebooks-journals/notebooks-journals/_/N-1djfZq4pk](https://www.johnlewis.com/browse/home-garden/stationery/notebooks-journals/notebooks-journals/_/N-1djfZq4pk)  
+   Link: <a href="https://www.johnlewis.com/browse/home-garden/stationery/notebooks-journals/notebooks-journals/_/N-1djfZq4pk" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlewis.com/browse/home-garden/stationery/notebooks-journals/notebooks-journals/_/N-1djfZq4pk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shop Journals | John Lewis &amp; PartnersBrowse our collection of Journals at John Lewis &amp; Partners + free UK mainland delivery when you spen...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: papier.com  
-   Link: [https://www.papier.com/notebooks-journals/](https://www.papier.com/notebooks-journals/)  
+   Link: <a href="https://www.papier.com/notebooks-journals/" target="_blank" rel="noopener noreferrer nofollow">https://www.papier.com/notebooks-journals/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: the man who saw alien bases on the mooningo swann claimed to be a psychic who wa  
-   Link: [https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/](https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/)  
+   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/the-man-who-saw-alien-bases-on-the-mooningo-swann-claimed-to-be-a-psychic-who-wa/495442988976748/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Why FilesThe CIA suddenly sat up and took notice. In 1972, with CIA funding, Harold Puthoff and Russell Targ began collaborating at S...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/journals/s?k=journals](https://www.amazon.co.uk/journals/s?k=journals)  
+   Link: <a href="https://www.amazon.co.uk/journals/s?k=journals" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/journals/s?k=journals</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3D7A-X1nd3c](https://www.youtube.com/watch?v=3D7A-X1nd3c)  
+   Link: <a href="https://www.youtube.com/watch?v=3D7A-X1nd3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3D7A-X1nd3c</a>  
 
 17. <a id="endnote-17"></a>
    Source: graham-pemberton.medium.com  
    Title: the reality of esp the american remote viewing programme 52605581b865  
-   Link: [https://graham-pemberton.medium.com/the-reality-of-esp-the-american-remote-viewing-programme-52605581b865](https://graham-pemberton.medium.com/the-reality-of-esp-the-american-remote-viewing-programme-52605581b865)  
+   Link: <a href="https://graham-pemberton.medium.com/the-reality-of-esp-the-american-remote-viewing-programme-52605581b865" target="_blank" rel="noopener noreferrer nofollow">https://graham-pemberton.medium.com/the-reality-of-esp-the-american-remote-viewing-programme-52605581b865</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reality of ESP — the American Remote Viewing...The best-known programme began in the early 1970s at the Stanford Research Institute, und...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
    Title: CIA Initiated Remote Viewing Program at Stanford Research Institute  
-   Link: [https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute](https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute)  
+   Link: <a href="https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) CIA-Initiated Remote Viewing Program at Stanford...In July 1995 the CIA declassified, and approved for release, documents revealin...</p></details>
    Published: July 1995  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: cia readingroom document cia rdp96 00792r000600310001 7  
-   Link: [https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7](https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7)  
+   Link: <a href="https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Reading Room cia-rdp96-00792r000600310001-7:...27 Jun 2023 — PUTHOFF, MEMBER, IEEE, AND RUSSELL TARG, SENIOR MEMBER, IEEE... Hella...</p></details>

@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /was-richard-doty-an-insider-or/
 nav_short_title: Sceptics
 title: Why Do Critics Call Doty a Disinformation Agent?
-title_full: Why Do Critics Call Doty a Disinformation Agent? | Doty
+title_full: Why Do Critics Call Doty a Disinformation Agent?
 display_title_short: Sceptics
 display_title: Sceptics
 heading_title: Why Do Critics Call Doty a Disinformation Agent?
@@ -289,7 +289,7 @@ next_link:
   permalink: /serpo/
   short_title: Serpo
   heading_title: What Does Project Serpo Reveal About Doty's Claims?
-date: '2026-06-09 02:54:47 '
+date: '2026-06-11 21:02:47 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview.webp
@@ -298,20 +298,18 @@ image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview-s
 
 ## Introduction
 
-Critics call [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }}) a disinformation agent because the strongest sceptical case against him is not simply that he made unusual UFO claims. It is that he allegedly used his official-seeming Air Force Office of Special Investigations role, and later his insider persona, to seed false or unverifiable UFO stories into civilian research networks. The central example is the Paul [Bennewitz affair]({{ 'bennewitz/' | relative_url }}) at Kirtland Air Force Base, where critics argue that Bennewitz’s genuine observations or technical curiosity were redirected into an elaborate alien-conspiracy narrative, with Doty as a key channel for misleading material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
-
+Critics call Richard Doty a disinformation agent because the strongest sceptical case against him is not simply that he made unusual UFO claims. It is that he allegedly used his official-seeming Air Force Office of Special Investigations role, and later his insider persona, to seed false or unverifiable UFO stories into civilian research networks. The central example is the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair at Kirtland Air Force Base, where critics argue that Bennewitz’s genuine observations or technical curiosity were redirected into an elaborate alien-conspiracy narrative, with Doty as a key channel for misleading material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview.webp" | relative_url }}" alt="Overview image for Sceptics" loading="eager" decoding="sync" fetchpriority="high">
 The importance of this case is larger than one man’s credibility. For sceptics, Doty shows how a story can acquire the feel of official confirmation without ever gaining reliable evidence. A uniform, a security background, a guarded briefing, a stamped-looking document or a whisper about “classified” programmes can make weak claims look stronger than they are. That is why Doty’s critics treat him less as an ordinary UFO witness and more as a cautionary mechanism: a case study in how the UFO field can be contaminated when official access, rumour, half-truths and fabricated detail become hard to separate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 ## The deliberate-misinformation interpretation
 
-The sceptical case begins with a narrow but serious claim: Doty was not merely mistaken, overenthusiastic or passing along rumours. Critics argue that he knowingly helped feed false information to UFO researchers, especially Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}), while attached to AFOSI circles at Kirtland. AFOSI’s public mission includes criminal investigations and counterintelligence services, so Doty’s association with that institution matters: it gave his contacts with civilians a level of [authority]({{ 'authority/' | relative_url }}) that an ordinary UFO storyteller would not have had. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">mil Air Force Office of Special Investigations</span></span></span>
+The sceptical case begins with a narrow but serious claim: Doty was not merely mistaken, overenthusiastic or passing along rumours. Critics argue that he knowingly helped feed false information to UFO researchers, especially Paul Bennewitz, while attached to AFOSI circles at Kirtland. AFOSI’s public mission includes criminal investigations and counterintelligence services, so Doty’s association with that institution matters: it gave his contacts with civilians a level of [authority]({{ 'authority/' | relative_url }}) that an ordinary UFO storyteller would not have had. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">mil Air Force Office of Special Investigations</span></span></span>
 
 Bennewitz was an Albuquerque electronics businessman and UFO investigator who lived near Kirtland Air Force Base. By 1980, he believed he was recording unusual aerial activity and electronic signals connected to extraterrestrial operations near the base. The key sceptical point is not that Bennewitz’s interpretations were reliable; it is that, after he approached Kirtland with his concerns, his beliefs were reportedly amplified rather than corrected. Accounts drawn from Mark Pilkington’s *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, Gregg Bishop’s *Project Beta*, and later summaries describe Bennewitz as being drawn further into claims about alien bases, government-alien treaties, underground facilities near Dulce, and hostile extraterrestrial control schemes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catdir.loc.gov">[Catalog of Temporal Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catdir.loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Critics see three features as especially damaging to Doty’s credibility:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -322,7 +320,6 @@ Critics see three features as especially damaging to Doty’s credibility:
 </div>
 
 This is why sceptics use the phrase “disinformation agent” even when they cannot prove every chain of command behind every incident. The accusation is not only about formal job title. It is about function: a person with intelligence-world credibility allegedly transmitting false or unverifiable material into a community primed to interpret secrecy as confirmation.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-1-dark.svg" | relative_url }}" alt="Sceptics illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bennewitz is the core case
@@ -339,10 +336,9 @@ The most charitable version of the sceptical case does not require believing in 
 
 Kirtland was not just a random backdrop. It sat close to military, nuclear and test-related infrastructure that would naturally create security concerns. In that environment, a civilian with cameras, receivers and a growing UFO network might have seemed more like a counterintelligence problem than a harmless hobbyist. AFOSI’s own description of its responsibilities includes counterintelligence services and protection of Air Force interests, which helps explain why civilian observations near sensitive installations could draw official attention even without any extraterrestrial issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-The *Mirage Men* thesis, as reported by Wired and The Guardian, is that some UFO stories may have been cultivated not to hide aliens but to hide [human programmes]({{ 'human-programmes/' | relative_url }}): aircraft, sensors, radar spoofing, surveillance systems or other classified capabilities. In that reading, UFO belief becomes a fog machine. It does not need to persuade everyone. It only needs to make the public trail noisy enough that the sensitive signal disappears inside absurdity, factional disputes and unverifiable claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">WIREDMirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride thr...</span></span></span>
+The *Mirage Men* thesis, as reported by Wired and The Guardian, is that some UFO stories may have been cultivated not to hide aliens but to hide [human programmes]({{ 'human-programmes/' | relative_url }}): aircraft, sensors, radar spoofing, surveillance systems or other classified capabilities. In that reading, UFO belief becomes a fog machine. It does not need to persuade everyone. It only needs to make the public trail noisy enough that the sensitive signal disappears inside absurdity, factional disputes and unverifiable claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride thr...</span></span></span>
 
 This motive also explains why the sceptical case against Doty is different from ordinary debunking. Sceptics are not merely saying, “His alien stories are unsupported.” They are saying, “His alien stories may have been useful because they were unsupported.” A story about secret human technology can attract journalists, foreign interest or congressional attention. A story about underground alien wars near Dulce can be dismissed as fantasy. If both stories grow from the same initial observations, the more outlandish narrative can discredit the more sensitive one.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2cD5WETr_DA" title="Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer">Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind</a></p><p class="youtube-embed-meta">Channel: Behind the Bastards &middot; Views: 96 &middot; Uploaded: February 2026 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2cD5WETr_DA">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +349,6 @@ A second pillar in the sceptical case is the role of UFO researcher William Moor
 For sceptics, this matters because it shows how disinformation can move through trusted civilian channels, not only official ones. A uniformed or intelligence-linked contact can seed a claim, but the claim becomes far more powerful when repeated by researchers, conference speakers, authors, television producers or document collectors. The UFO community then appears to be corroborating itself, when in reality multiple branches may trace back to the same contaminated source.
 
 That is one reason Doty’s critics focus on mechanism rather than only personality. The alleged system worked because different forms of credibility reinforced one another:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,7 +361,6 @@ That is one reason Doty’s critics focus on mechanism rather than only personal
 </div>
 
 The result was a closed loop. Each failure to produce clean evidence could be explained away as compartmentalisation, suppression or the danger of revealing too much. Sceptics argue that Doty’s career illustrates exactly how that loop can be engineered.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-2-dark.svg" | relative_url }}" alt="Sceptics illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## MJ-12 and the problem of official-looking documents
@@ -389,7 +383,6 @@ For UFO research, the harm was broader. The alleged disinformation did not remai
 
 This is the contamination problem sceptics emphasise. A false claim can do more than mislead one audience. It can become raw material for future whistleblower stories, fictionalised documents, conference lore, anonymous leaks and online theories. By the time later researchers encounter it, the claim may appear to have multiple sources. In reality, those sources may be echoes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XS8WGTqBBik" title="Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer">Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary</a></p><p class="youtube-embed-meta">Channel: BingeWorthy Documentaries &middot; Views: 9.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XS8WGTqBBik">Open on YouTube</a></p></div></div></div>
 
 ## Why some people still listen to Doty
@@ -400,7 +393,6 @@ Sceptics respond that this is exactly the trap. Once a source is known or credib
 
 This does not mean every sentence Doty has ever spoken is false. It means his testimony is high-risk evidence. In a responsible credibility assessment, Doty may be useful as a witness to how UFO disinformation worked, but he is much weaker as a witness to the truth of extraordinary UFO claims. His value to historians may lie less in what he says about aliens and more in what his career reveals about manipulation, secrecy and belief.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kOT39FXstho" title="&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer">&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 361.6K &middot; Uploaded: August 2021 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kOT39FXstho">Open on YouTube</a></p></div></div></div>
 
 ## What the Doty case teaches about official-seeming UFO claims
@@ -408,7 +400,6 @@ This does not mean every sentence Doty has ever spoken is false. It means his te
 The sceptics’ disinformation case against Doty is ultimately a warning about evidence standards. UFO/UAP claims often gain power from proximity to government: a former intelligence officer, a classified programme, a base, a clearance, a leaked document, a source name, a refusal to disclose more. Doty’s critics argue that those same features can be used to mislead.
 
 A practical credibility test follows from the Doty case:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -421,7 +412,6 @@ A practical credibility test follows from the Doty case:
 </div>
 
 For Richard Doty, this is why sceptics remain so severe. The case against him is not based merely on disbelief in UFOs. It rests on a specific historical allegation: that official-seeming channels were used to feed false narratives into UFO research, with Bennewitz as the clearest victim and later UFO culture as the wider casualty. The unresolved question is how much of that activity was formally authorised, improvised, exaggerated in hindsight or mixed with genuine classified concerns. But for critics, the minimum lesson is already clear: Doty’s involvement makes a claim less secure unless it can be verified independently of Doty himself.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-3-dark.svg" | relative_url }}" alt="Sceptics illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -437,16 +427,16 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Directly addresses allegations that intelligence-linked actors seeded UFO myths.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,16 +444,16 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Detailed treatment of the Bennewitz affair and alleged disinformation tactics.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -471,16 +461,16 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fit, Failure &amp; the Hall of Fame on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/472798-M.jpg" alt="Cover for Fit, Failure &amp; the Hall of Fame" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fit, Failure &amp; the Hall of Fame">Fit, Failure &amp; the Hall of Fame</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Useful for understanding how extraordinary claims gain social traction.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -488,16 +478,16 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Useful for understanding how extraordinary claims gain social traction.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -505,7 +495,7 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fit%2C+Failure+%26+the+Hall+of+Fame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fit, Failure &amp; the Hall of Fame</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -542,15 +532,15 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +548,15 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;"><img src="https://i.ebayimg.com/images/g/Y0gAAOSw0LlnzfYK/s-l225.jpg" alt="Listing image for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +564,31 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="https://i.ebayimg.com/images/g/bLgAAeSwIDhqDxIn/s-l225.jpg" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="https://i.ebayimg.com/images/g/Wo8AAOSwjsNmv2Mp/s-l225.jpg" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,7 +596,7 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-do-critics-call-doty-a-disinformation-agent-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -806,121 +812,121 @@ For Richard Doty, this is why sceptics remain so severe. The case against him is
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 3. <a id="endnote-3"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations</a>  
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDMirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride thr...</p></details>
+   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride thr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: files.bluebookfiles.org  
    Title: Lee Graham Doty  
-   Link: [https://files.bluebookfiles.org/pdfs/15648.pdf](https://files.bluebookfiles.org/pdfs/15648.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/15648.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15648.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 7. <a id="endnote-7"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Richard Doty on Disinformation, Paul Bennewitz, and UAP  
-   Link: [https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN](https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&l=zh-Hans-CN)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: [https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations](https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations)  
+   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Hughes OH 6 Cayuse  
-   Link: [https://en.wikipedia.org/wiki/Hughes_OH-6_Cayuse](https://en.wikipedia.org/wiki/Hughes_OH-6_Cayuse)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hughes_OH-6_Cayuse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hughes_OH-6_Cayuse</a>  
 
 11. <a id="endnote-11"></a>
    Source: osi.af.mil  
    Title: mil Air Force Office of Special Investigations  
-   Link: [https://www.osi.af.mil/](https://www.osi.af.mil/)  
+   Link: <a href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/](https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/)  
+   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/</a>  
 
 13. <a id="endnote-13"></a>
    Source: catdir.loc.gov  
-   Link: [https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html](https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html)  
+   Link: <a href="https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AirForceOSI/?locale=en_GB](https://www.facebook.com/AirForceOSI/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/AirForceOSI/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/?locale=en_GB</a>  
 
 15. <a id="endnote-15"></a>
    Source: books.google.com  
    Title: Project Beta  
-   Link: [https://books.google.com/books/about/Project_Beta.html?id=HWYvNErLKHsC](https://books.google.com/books/about/Project_Beta.html?id=HWYvNErLKHsC)  
+   Link: <a href="https://books.google.com/books/about/Project_Beta.html?id=HWYvNErLKHsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Beta.html?id=HWYvNErLKHsC</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=XS8WGTqBBik](https://www.youtube.com/watch?v=XS8WGTqBBik)  
+   Link: <a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XS8WGTqBBik</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Air Force Officer FINALLY Comes Clean About UFO's | UFO Whistleblower #1  
-   Link: [https://www.youtube.com/watch?v=xbRdAlFThu4](https://www.youtube.com/watch?v=xbRdAlFThu4)  
+   Link: <a href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xbRdAlFThu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: How the US Government Shaped the UFO Mythology  
-   Link: [https://www.youtube.com/watch?v=409SD8MJL7A](https://www.youtube.com/watch?v=409SD8MJL7A)  
+   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7](https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Part Two: How The U.S. Government Used Aliens To Destroy a Man's Mind  
-   Link: [https://www.youtube.com/watch?v=2cD5WETr_DA](https://www.youtube.com/watch?v=2cD5WETr_DA)  
+   Link: <a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/WeirdWings/comments/gmoksl/the_quiet_one_one_of_the_two_modified_stealth/](https://www.reddit.com/r/WeirdWings/comments/gmoksl/the_quiet_one_one_of_the_two_modified_stealth/)  
+   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/gmoksl/the_quiet_one_one_of_the_two_modified_stealth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/gmoksl/the_quiet_one_one_of_the_two_modified_stealth/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Fox32Chicago/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1154301186743080/](https://www.facebook.com/Fox32Chicago/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1154301186743080/)  
+   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1154301186743080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1154301186743080/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/](https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/)  
+   Link: <a href="https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/</a>  
 
 24. <a id="endnote-24"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/air-americas-black-helicopter-24960500/](https://www.smithsonianmag.com/air-space-magazine/air-americas-black-helicopter-24960500/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/air-americas-black-helicopter-24960500/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/air-americas-black-helicopter-24960500/</a>  
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-](https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-)  
+   Link: <a href="https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/air-force-office-of-special-investigations-afosi-</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /biological-claims/
 nav_short_title: Roswell claim
 title: Why Roswell makes the bodies claim harder
-title_full: Why Roswell makes the bodies claim harder | Biological Claims
+title_full: Why Roswell makes the bodies claim harder
 display_title_short: Roswell claim
 display_title: Roswell claim
 heading_title: Why Roswell makes the bodies claim harder
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Biological Claims Need Caution | Elizondo
+parent_title: Why the Biological Claims Need Caution
 parent_permalink: /biological-claims/
 parent_nav_short_title: Biological Claims
 parent_heading_title: Why the Biological Claims Need Caution
@@ -253,7 +253,7 @@ next_link:
   permalink: /samples-wording/
   short_title: Samples wording
   heading_title: Did Elizondo really claim alien bodies?
-date: '2026-06-09 02:54:24 '
+date: '2026-06-11 21:02:28 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_b
 
 ## Introduction
 
-Roswell is the point where claims about recovered non-human bodies become much harder to evaluate. For supporters of [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }}), references to Roswell can appear to strengthen the idea that the US government has concealed crash recoveries for decades. For sceptics, Roswell demonstrates the opposite problem: a case so heavily retold, reinterpreted and mythologised that later testimony becomes difficult to separate from memory contamination, folklore and hindsight reconstruction.
-
+Roswell is the point where claims about recovered non-human bodies become much harder to evaluate. For supporters of Luis Elizondo, references to Roswell can appear to strengthen the idea that the US government has concealed crash recoveries for decades. For sceptics, Roswell demonstrates the opposite problem: a case so heavily retold, reinterpreted and mythologised that later testimony becomes difficult to separate from memory contamination, folklore and hindsight reconstruction.
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-1-dark.svg" | relative_url }}" alt="Roswell claim illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That tension matters because Elizondo's more dramatic claims about [biological remains]({{ 'biological-claims/' | relative_url }}) do not emerge from newly released physical evidence. Instead, they connect to an already disputed historical event. The central question is therefore not simply whether Roswell happened, but whether modern claims about recovered bodies add genuinely new evidence or mainly reuse a story that has been argued over since 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span>
+That tension matters because Elizondo's more dramatic claims about biological remains do not emerge from newly released physical evidence. Instead, they connect to an already disputed historical event. The central question is therefore not simply whether Roswell happened, but whether modern claims about recovered bodies add genuinely new evidence or mainly reuse a story that has been argued over since 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span>
 
 ## What the Roswell bodies claim adds
 
@@ -284,7 +283,6 @@ The official US Air Force position developed through two major investigations in
 
 The first report concluded that debris recovered near Roswell was most likely associated with Project Mogul, a then-classified Cold War programme that used high-altitude balloon arrays to detect Soviet nuclear tests. Because the project was secret in 1947, military officials had incentives to obscure its true purpose. The report argued that witnesses describing unusual materials were likely encountering components from these balloon systems and radar reflectors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> Wikipedia The Project Mogul explanation has several features that investigators regard as important: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The programme genuinely existed and was classified.
@@ -298,7 +296,6 @@ Supporters of the Air Force explanation argue that this provides a concrete, his
 
 For evaluating Elizondo's credibility, the key point is that Roswell is not an unexplained blank space. Any modern claim about bodies or non-human technology must first overcome an existing official explanation supported by military records and historical research.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z5PAJ2EDhDE" title="UFO whistleblowers: Lue Elizondo calls David Grusch a &#x27;hero&#x27; | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z5PAJ2EDhDE" target="_blank" rel="noopener noreferrer">UFO whistleblowers: Lue Elizondo calls David Grusch a &#x27;hero&#x27; | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.3M &middot; Uploaded: August 2024 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z5PAJ2EDhDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z5PAJ2EDhDE">Open on YouTube</a></p></div></div></div>
 
 ## The Air Force dummy explanation
@@ -311,7 +308,6 @@ The report focused heavily on high-altitude research programmes conducted in New
 
 The Air Force argued that several recurring details matched these operations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Small human-like figures.
@@ -322,10 +318,9 @@ The Air Force argued that several recurring details matched these operations:
 
 </div>
 
-This explanation remains heavily criticised by Roswell believers because the dummy drops occurred years after 1947. Critics argue that an event in the 1950s cannot directly explain reports supposedly originating in 1947. Some researchers have described the Air Force account as an attempt to retrofit disparate events into a single explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSo what actually happened at Roswell?: r/aliensThe explanation for the bodies was a project that began years later which dropped t...</span></span></span>
+This explanation remains heavily criticised by Roswell believers because the dummy drops occurred years after 1947. Critics argue that an event in the 1950s cannot directly explain reports supposedly originating in 1947. Some researchers have described the Air Force account as an attempt to retrofit disparate events into a single explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">So what actually happened at Roswell?: r/aliensThe explanation for the bodies was a project that began years later which dropped t...</span></span></span>
 
 The Air Force response was that many body stories were not documented in 1947 at all. Instead, numerous body-recovery accounts surfaced decades later, making memory confusion a plausible factor. Investigators argued that witnesses may have attached later experiences to the already famous Roswell narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</span></span></span>
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-2-dark.svg" | relative_url }}" alt="Roswell claim illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the timing problem matters
@@ -348,7 +343,6 @@ The existence of multiple explanations does not prove any single one. However, i
 
 That is one reason Roswell remains difficult terrain for evaluating Elizondo's claims. The body narrative he references comes from a historical record already affected by long delays, contradictory testimony and repeated reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCr9ft4yWaI" title="Official Reports on the Roswell UFO Incident | USAF Documentary | 1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer">Official Reports on the Roswell UFO Incident | USAF Documentary | 1997</a></p><p class="youtube-embed-meta">Channel: The Best Film Archives &middot; Views: 15.0K &middot; Uploaded: December 2015 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCr9ft4yWaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCr9ft4yWaI">Open on YouTube</a></p></div></div></div>
 
 ## Why old UFO stories create contamination risk
@@ -361,15 +355,18 @@ Psychologists and historians have documented how memory reconstruction works. Hu
 
 Roswell is arguably the most contaminated UFO case in history because nearly every major element of the modern narrative has been publicly debated for generations:
 
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
 * Crashed saucers.
 * Alien bodies.
 * Secret hangars.
 * Military intimidation.
-* [Recovered technology]({{ 'proof-gap-eced37/' | relative_url }}).
+* Recovered technology.
 * Government cover-ups.
 
-As a result, new Roswell testimony rarely enters a neutral evidential environment. It enters a story ecosystem that has existed for nearly eighty years. That does not automatically make every witness wrong, but it makes source evaluation substantially harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</span></span></span>
+</div>
 
+As a result, new Roswell testimony rarely enters a neutral evidential environment. It enters a story ecosystem that has existed for nearly eighty years. That does not automatically make every witness wrong, but it makes source evaluation substantially harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-3-dark.svg" | relative_url }}" alt="Roswell claim illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Roswell means for judging Elizondo's credibility
@@ -382,9 +379,7 @@ Supporters view this as corroboration of a long-suspected hidden history. Critic
 
 At present, the public evidence remains heavily weighted toward testimony, memoir accounts and alleged insider knowledge rather than verifiable biological material. That does not settle the question, but it explains why Roswell remains one of the hardest parts of the biological-remains debate and one of the most challenging areas for assessing Elizondo's credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">pentagon ufo expert says secret group has non human material k9556s7rc</span><span class="citation-popover-snippet">The TimesPentagon UFO expert says secret group has &#x27;non-human...Aug 20, 2024 — “Four deceased non-human bodies were in fact recovered fr...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gLPtRwXgCM" title="Joe Rogan Experience #2194 - Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2194 - Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 3.2M &middot; Uploaded: August 2024 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gLPtRwXgCM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -398,16 +393,16 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L7etDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ufos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos">Ufos</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By A. R. Roberts</p>
         
-        <p class="fr-book-desc">Contains Elizondo&#x27;s reported assertions about Roswell recoveries.</p>
+        <p class="fr-book-desc">UFOs: What Is the Government Really Covering Up? is not just another book about the 1947 Roswell crash. Ingeniously, Roberts takes a step...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,16 +410,16 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Focuses on evidence and witness claims surrounding the incident.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -432,16 +427,16 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Discusses alternative explanations and mythology around Roswell.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -449,16 +444,16 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Captured!: The Betty and Barney Hill UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-d5EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Captured!: The Betty and Barney Hill UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!: The Betty and Barney Hill UFO Experience">Captured!: The Betty and Barney Hill UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+        <p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
         
-        <p class="fr-book-desc">Directly concerns the alleged recovery of bodies at Roswell.</p>
+        <p class="fr-book-desc">Today, 46 years after the UFO abduction of Betty and Barney Hill, more and more people are convinced that UFOs are real and their existen...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -466,7 +461,7 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -503,15 +498,15 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="https://i.ebayimg.com/images/g/RHoAAeSwGjlofOcj/s-l225.jpg" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +514,15 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6c2923dde6b1d981ca1a.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA aliens alien warrior blue 9” unboxed action figure"><img src="https://i.ebayimg.com/images/g/~QkAAeSwyqVqKsUW/s-l225.jpg" alt="Listing image for NECA aliens alien warrior blue 9” unboxed action figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA aliens alien warrior blue 9” unboxed action figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +530,15 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/05ce5a2d8cafac9c3293.jpg' | relative_url }}" alt="Listing image for Roswell 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph"><img src="https://i.ebayimg.com/images/g/4dQAAeSwr~JqKpFP/s-l225.jpg" alt="Listing image for NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Roswell 1 Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens action figures Hicks Hudson Vasquez Frost Bishop Burke Xenomorph</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +546,15 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/95ea8b62670f38440edd.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien 3 Series 8 Weyland-Yutani Commando Action Figure"><img src="https://i.ebayimg.com/images/g/cDAAAeSw~INqJeMH/s-l225.jpg" alt="Listing image for NECA Alien 3 Series 8 Weyland-Yutani Commando Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien 3 Series 8 Weyland-Yutani Commando Action Figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: roswell poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,7 +562,7 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=roswell+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="roswell poster -book -books -dvd" data-ebay-reference="roswell-claim-why-roswell-makes-the-bodies-claim-harder-luis-elizondo-roswell-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-roswell-makes-the-bodies-claim-harder-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="why-roswell-makes-the-bodies-claim-harder-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -783,160 +778,160 @@ At present, the public evidence remains heavily weighted toward testimony, memoi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoIn the book, Elizondo claims that four non-human bodies were recovered from Roswell. In his memoir, Elizondo claims that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kqed.org  
-   Link: [https://www.kqed.org/arts/13962929/a-former-pentagon-insider-reveals-all-he-knows-about-ufos-in-new-book](https://www.kqed.org/arts/13962929/a-former-pentagon-insider-reveals-all-he-knows-about-ufos-in-new-book)  
+   Link: <a href="https://www.kqed.org/arts/13962929/a-former-pentagon-insider-reveals-all-he-knows-about-ufos-in-new-book" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/arts/13962929/a-former-pentagon-insider-reveals-all-he-knows-about-ufos-in-new-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Book Review: &#x27;Imminent&#x27; by Luis ElizondoAug 20, 2024 — A good starting point might be what happened to the remains of non-human bodie...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: [https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf](https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)  
+   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Subsequent to the 1994 report, Air Force researchers discovered informa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/](https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSo what actually happened at Roswell?: r/aliensThe explanation for the bodies was a project that began years later which dropped t...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1o5pmo8/so_what_actually_happened_at_roswell/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>So what actually happened at Roswell?: r/aliensThe explanation for the bodies was a project that began years later which dropped t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/63659/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...It appears that UFO proponents have failed to establish the accur...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/](https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/)  
+   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1fjp6su/luis_elizondo_roswell_ufo_crash_absolutely_real/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LUIS ELIZONDO: ROSWELL UFO CRASH “ABSOLUTELY...Luis Elizondo Handled ALIEN IMPLANT According To New Book IMMINENT. 4. 0. So what actuall...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/](https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ebobzy/lue_elizondos_imminent_on_trying_to_recover/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tractor and being blocked by the Air Force, Hal Puthoff&#x27;s idea on...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/](https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gtoe6q/elizondo_claims_he_signed_an_nda_prohibiting_him/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD did not redact the Roswell information. During several...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/](https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude balloons for...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/](https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pukljc/the_roswell_report_case_closed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed: r/UFOsI mean, who calls an ambulance for a crash test dummy, and who uses that excuse for the Roswell i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/63659/pg63659-images.html](https://www.gutenberg.org/cache/epub/63659/pg63659-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/63659/pg63659-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/63659/pg63659-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case ClosedHanging Anthropomorphic Dummies and Hospital Gurney. 41. Anthropomorphic Dummy in Insulation Bag. 42–43. H...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: people.com  
-   Link: [https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935](https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935)  
+   Link: <a href="https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935" target="_blank" rel="noopener noreferrer nofollow">https://people.com/roswell-incident-true-story-unsolved-mysteries-8722935</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27;: The True Story of the Roswell UFO...Oct 6, 2024 — The report claimed that the bodies were test dummies that were c...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: [https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell](https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell)  
+   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
 17. <a id="endnote-17"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thetimes.com  
    Title: pentagon ufo expert says secret group has non human material k9556s7rc  
-   Link: [https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc](https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc)  
+   Link: <a href="https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The TimesPentagon UFO expert says secret group has &#x27;non-human...Aug 20, 2024 — “Four deceased non-human bodies were in fact recovered fr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc](https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc)  
+   Link: <a href="https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He recounts personal sightings of green glowing orbs in his home, experienced along with his family. Elizondo claims a secretive governme...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DRMSHPhD/posts/why-is-the-us-armys-explanation-for-what-happened-in-roswell-suspiciousthe-us-ar/1474901737340298/](https://www.facebook.com/DRMSHPhD/posts/why-is-the-us-armys-explanation-for-what-happened-in-roswell-suspiciousthe-us-ar/1474901737340298/)  
+   Link: <a href="https://www.facebook.com/DRMSHPhD/posts/why-is-the-us-armys-explanation-for-what-happened-in-roswell-suspiciousthe-us-ar/1474901737340298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DRMSHPhD/posts/why-is-the-us-armys-explanation-for-what-happened-in-roswell-suspiciousthe-us-ar/1474901737340298/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: aliens or crash test dummies the roswell reports 1997 us air force film on the 1  
-   Link: [https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/](https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/)  
+   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens or Crash Test Dummies!? &quot;The Roswell Reports...On #ThisDayInHistory in 1997, U.S. Air Force officials released a 231-page report...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ndtv.com  
    Title: ex pentagon official claims us recovered non human specimens report 6517187  
-   Link: [https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187](https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187)  
+   Link: <a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official Claims US Recovered Non-Human...Sep 8, 2024 — Mr Elizondo claims that one of the recovered spacecraft is from the i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z5PAJ2EDhDE](https://www.youtube.com/watch?v=Z5PAJ2EDhDE)  
+   Link: <a href="https://www.youtube.com/watch?v=Z5PAJ2EDhDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z5PAJ2EDhDE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;): Lue Elizondo calls David Grusch a &#x27;...UFO whistleblowers: Lue Elizondo calls David Grusch a &#x27;hero&#x27; | Reality Check w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/](https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/)  
+   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsThese high-altitude drops of humanlike dummies contributed to the Roswell myth...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: caliber.az  
    Title: ex pentagon insider claims us has alien bodies from ufo crashes  
-   Link: [https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes](https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes)  
+   Link: <a href="https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon insider claims US has alien bodies from UFO...Aug 24, 2024 — In a recent interview, Elizondo revealed that the US has recove...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: [https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/](https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/)  
+   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — In some cases, the “alien” bodies were in reality anthropom...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: brobible.com  
    Title: Ex-Pentagon UFO Investigator Says New Files Contradict  
-   Link: [https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/](https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/)  
+   Link: <a href="https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/pentagon-ufo-investigator-files-nasa-narratives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2026 — Four deceased nonhuman bodies were in fact recovered from the 1947 Roswell crash.” Luis Elizondo&#x27;s claims have not gone un...</p></details>
    Published: May 21, 2026  
 
 28. <a id="endnote-28"></a>
    Source: metabunk.org  
-   Title: errors in [luis elizondos](&#123;&#123; 'how-credible-is-luis-elizondo/' | relative_url &#125;&#125;) ufo book imminent.13613  
-   Link: [https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/](https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/)  
+   Title: errors in luis elizondos ufo book imminent.13613  
+   Link: <a href="https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/errors-in-luis-elizondos-ufo-book-imminent.13613/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Errors in Luis Elizondo&#x27;s UFO Book &quot;Imminent&quot;Aug 23, 2024 — Luis Elizondo&#x27;s book &quot;Imminent - Inside the Pentagon&#x27;s Hunt for UFOs&quot; contain...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: [https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997](https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997)  
+   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive, 25 June 1997: Where no mannequin has...Jun 25, 2010 — But the air force said yesterday that witnesses who claimed to h...</p></details>
-   Published: June 1997  
+   Published: June 1997

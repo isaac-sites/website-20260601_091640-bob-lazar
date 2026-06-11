@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics-8407e0/
 nav_short_title: Hypersonic Clip
 title: Was the hypersonic UAP just a nearby bug?
-title_full: Was the hypersonic UAP just a nearby bug? | Sceptics
+title_full: Was the hypersonic UAP just a nearby bug?
 display_title_short: Hypersonic Clip
 display_title: Hypersonic Clip
 heading_title: Was the hypersonic UAP just a nearby bug?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Are Sceptics Unconvinced by Taylor? | Taylor
+parent_title: Why Are Sceptics Unconvinced by Taylor?
 parent_permalink: /sceptics-8407e0/
 parent_nav_short_title: Sceptics
 parent_heading_title: Why Are Sceptics Unconvinced by Taylor?
@@ -247,7 +247,7 @@ next_link:
   permalink: /raw-data-gap/
   short_title: Raw Data Gap
   heading_title: Where is the raw data behind the claims?
-date: '2026-06-09 03:11:30 '
+date: '2026-06-11 21:08:47 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_o
 
 One of the most cited sceptical challenges to [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s public UAP evidence came from a brief clip on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* that was interpreted on-screen as a possible object moving at extreme speed. Critics on the Metabunk forum argued that the footage demonstrated a recurring problem in television-based UFO investigations: speed estimates can become meaningless if the distance to the object is unknown. In their view, a tiny nearby insect crossing a camera frame can appear to move as dramatically as a distant hypersonic craft.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1-dark.svg" | relative_url }}" alt="Hypersonic Clip illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The dispute became a useful case study because it was not mainly about whether the object was “identified”. It was about methodology. Taylor and the programme treated the footage as potentially extraordinary, while [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argued that basic questions about range, scale, camera geometry and alternative explanations had not been resolved before discussing extreme performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Season 4 Episode 10</span><span class="citation-popover-snippet">MetabunkSeason 4 Episode 10 - 3600 MPH UFO Claim [Fly]30 Jun 2023 — The irony is, if the Skinwalker &quot;Unidentified probably-a-Fly Object&quot;...</span></span></span>
+The dispute became a useful case study because it was not mainly about whether the object was “identified”. It was about methodology. Taylor and the programme treated the footage as potentially extraordinary, while [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argued that basic questions about range, scale, camera geometry and alternative explanations had not been resolved before discussing extreme performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Season 4 Episode 10</span><span class="citation-popover-snippet">Season 4 Episode 10 - 3600 MPH UFO Claim [Fly]30 Jun 2023 — The irony is, if the Skinwalker &quot;Unidentified probably-a-Fly Object&quot;...</span></span></span>
 
 ## What the clip appeared to show
 
@@ -270,9 +269,6 @@ In the programme’s framing, the object appeared to traverse the camera image s
 
 Sceptics did not argue that the object was certainly identified. Their criticism was that the available footage did not establish the key variable needed for any speed calculation: distance from the camera. Without that information, they argued, the same apparent motion could represent either an extraordinary distant object or something small and mundane passing close to the lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/skinwalker-ranch-s4-e11-claims-of-wormhole-from-lidar-scan-with-gap.13038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">skinwalker ranch s4 e11 claims of wormhole from lidar scan with gap.13038</span><span class="citation-popover-snippet">Skinwalker Ranch S4 E11 Claims of &quot;Wormhole&quot; from...13 Jul 2023 — Due to the Skinwalker Ranch crew&#x27;s demonstrated inability to procure o...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WfuTNgS1prk" title="Mass Hysteria: Mick West Debunks &quot;Mysterious&quot; Drone Reports | FP LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WfuTNgS1prk" target="_blank" rel="noopener noreferrer">Mass Hysteria: Mick West Debunks &quot;Mysterious&quot; Drone Reports | FP LIVE</a></p><p class="youtube-embed-meta">Channel: The Free Press &middot; Views: 16.6K &middot; Uploaded: December 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WfuTNgS1prk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WfuTNgS1prk">Open on YouTube</a></p></div></div></div>
-
 ## Why distance controls speed claims
 
 The central sceptical argument was straightforward physics rather than a claim about UFOs specifically.
@@ -280,7 +276,6 @@ The central sceptical argument was straightforward physics rather than a claim a
 A camera records angular motion across its field of view. To convert that into an actual velocity, investigators need to know how far away the object is. If the distance estimate changes dramatically, the calculated speed changes as well.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +290,6 @@ Metabunk contributors argued that the Skinwalker Ranch footage lacked enough inf
 
 This criticism mirrors a broader point made repeatedly in official and scientific discussions of UAP analysis: apparent speed, acceleration and manoeuvring can be misinterpreted when distance, viewing angle and sensor characteristics are uncertain.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-2-dark.svg" | relative_url }}" alt="Hypersonic Clip illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics focused on the “fly” explanation
 
@@ -307,9 +301,7 @@ More significant than the humour was a claim made during later discussion of the
 
 Supporters of Taylor would argue that exploring unusual possibilities is part of the programme’s purpose and that unusual observations deserve investigation. Sceptics counter that extraordinary interpretations should come only after ordinary explanations have been rigorously eliminated.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9efsA_SoEys" title="Skinwalkers at the Pentagon: Unveiling the Truth (Critical Review)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9efsA_SoEys" target="_blank" rel="noopener noreferrer">Skinwalkers at the Pentagon: Unveiling the Truth (Critical Review)</a></p><p class="youtube-embed-meta">Channel: Randomness Reloaded</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9efsA_SoEys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9efsA_SoEys">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-dark.svg" | relative_url }}" alt="Hypersonic Clip illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics read Taylor’s interpretation
 
 The dispute was not simply about a single object. It became an example of how critics think Taylor approaches ambiguous evidence.
@@ -330,8 +322,8 @@ Critics noted that viewers were generally not given complete datasets, calibrati
 
 For sceptics, the lesson was not that every Skinwalker Ranch anomaly is solved by insects. Rather, they argued that the hypersonic-speed claim illustrated how easily an ordinary object can appear extraordinary when crucial measurement uncertainties are overlooked.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WfuTNgS1prk" title="Mass Hysteria: Mick West Debunks &quot;Mysterious&quot; Drone Reports | FP LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WfuTNgS1prk" target="_blank" rel="noopener noreferrer">Mass Hysteria: Mick West Debunks &quot;Mysterious&quot; Drone Reports | FP LIVE</a></p><p class="youtube-embed-meta">Channel: The Free Press &middot; Views: 16.6K &middot; Uploaded: December 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WfuTNgS1prk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WfuTNgS1prk">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-dark.svg" | relative_url }}" alt="Hypersonic Clip illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the dispute says about Taylor’s credibility
 
 The incident occupies a relatively small place in the broader debate about Travis Taylor, but it is often cited because it demonstrates a methodological concern rather than a personal one.
@@ -343,10 +335,6 @@ The sceptical criticism is that expertise alone does not guarantee correct inter
 Supporters can reasonably reply that unusual observations deserve open-minded investigation and that not every anomaly can be immediately resolved. Yet even many neutral observers see the dispute as a reminder that apparent speed in a video is one of the easiest characteristics to misjudge. A fast-moving dot on a screen does not automatically indicate a fast-moving object in the sky.
 
 That is why the “hypersonic object” debate remains a notable sceptical case against some of Taylor’s public evidence claims. The disagreement was ultimately less about UFOs than about measurement. Before a video can support claims of extraordinary performance, investigators must first know what they are measuring, how far away it was, and whether a nearby mundane object has truly been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/self-healing-ceramic-material-from-skinwalker-ranch-sem-scanning-electron-microscope-analysis.14382/page-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Self-healing&quot; Ceramic Material from Skinwalker Ranch12 Aug 2025 — This is a clip from The Secret of Skinwalker Ranch, Behind the Gates...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -465,15 +453,15 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +469,15 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +485,15 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +501,15 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,7 +517,7 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="hypersonic-clip-was-the-hypersonic-uap-just-a-nearby-bug-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-the-hypersonic-uap-just-a-nearby-bug-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,144 +733,144 @@ That is why the “hypersonic object” debate remains a notable sceptical case 
 1. <a id="endnote-1"></a>
    Source: metabunk.org  
    Title: Season 4 Episode 10  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/](https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkSeason 4 Episode 10 - 3600 MPH UFO Claim [Fly]30 Jun 2023 — The irony is, if the Skinwalker &quot;Unidentified probably-a-Fly Object&quot;...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-season-4-episode-10-3600-mph-ufo-claim-fly.13023/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 4 Episode 10 - 3600 MPH UFO Claim [Fly]30 Jun 2023 — The irony is, if the Skinwalker &quot;Unidentified probably-a-Fly Object&quot;...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
    Title: Skinwalker Ranch  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-2](https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Self-healing&quot; Ceramic Material from Skinwalker Ranch - SEM (Scanning Electron Microscope)...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complex15 Nov 2022 — Taylor is already very well known in the UFO entertainment industry, playing an excitable scientist...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: skinwalker ranch s4 e11 claims of wormhole from lidar scan with gap.13038  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-s4-e11-claims-of-wormhole-from-lidar-scan-with-gap.13038/](https://www.metabunk.org/threads/skinwalker-ranch-s4-e11-claims-of-wormhole-from-lidar-scan-with-gap.13038/)  
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-s4-e11-claims-of-wormhole-from-lidar-scan-with-gap.13038/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-s4-e11-claims-of-wormhole-from-lidar-scan-with-gap.13038/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch S4 E11 Claims of &quot;Wormhole&quot; from...13 Jul 2023 — Due to the Skinwalker Ranch crew&#x27;s demonstrated inability to procure o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Travis S  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TaylorMarch 23, 2026 —... Skinwalker Ranch. Travis S. Taylor. Born, (1968-07-24) July 24, 1968 (age 57)... Taylor was the chief scienti...</p></details>
    Published: March 23, 2026  
 
 6. <a id="endnote-6"></a>
    Source: metabunk.org  
    Title: The Secret of Skinwalker Ranch S03E09  
-   Link: [https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/](https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/)  
+   Link: <a href="https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tap to unmute. Your browser can&#x27;t...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metabunk.org  
    Title: skinwalker ranch laser changing color.13499  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-laser-changing-color.13499/](https://www.metabunk.org/threads/skinwalker-ranch-laser-changing-color.13499/)  
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-laser-changing-color.13499/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-laser-changing-color.13499/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Laser Changing Color5 Jun 2024 — In this clip, Travis Taylor describes an experiment done to... The Secret of Skinwalk...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/tags/skinwalker-ranch/](https://www.metabunk.org/tags/skinwalker-ranch/)  
+   Link: <a href="https://www.metabunk.org/tags/skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/skinwalker-ranch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>skinwalker ranchSkinwalker Ranch is popular both in the UFO and the Paranormal communities as a place where supposed strange things happe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
    Title: Secrets of skinwalker ranch  
-   Link: [https://www.metabunk.org/threads/secrets-of-skinwalker-ranch-simple-debunk-of-magnetic-deviation.12524/](https://www.metabunk.org/threads/secrets-of-skinwalker-ranch-simple-debunk-of-magnetic-deviation.12524/)  
+   Link: <a href="https://www.metabunk.org/threads/secrets-of-skinwalker-ranch-simple-debunk-of-magnetic-deviation.12524/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/secrets-of-skinwalker-ranch-simple-debunk-of-magnetic-deviation.12524/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>simple debunk of magnetic...19 Jul 2022 — This is my first reply to one of Taylor&#x27;s observations from “secrets of skinwalker ranch serie...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: metabunk.org  
    Title: page 2  
-   Link: [https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/page-2](https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/page-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thread starter...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
    Title: Skinwalker Ranch  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-3](https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-3)  
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-3" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-laser-beam-stops-and-starts-in-mid-air.13479/page-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there several lasers of each color that are beam-split between the outputs. Or one laser per mini-beam?Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/self-healing-ceramic-material-from-skinwalker-ranch-sem-scanning-electron-microscope-analysis.14382/page-2](https://www.metabunk.org/threads/self-healing-ceramic-material-from-skinwalker-ranch-sem-scanning-electron-microscope-analysis.14382/page-2)  
+   Link: <a href="https://www.metabunk.org/threads/self-healing-ceramic-material-from-skinwalker-ranch-sem-scanning-electron-microscope-analysis.14382/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/self-healing-ceramic-material-from-skinwalker-ranch-sem-scanning-electron-microscope-analysis.14382/page-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Self-healing&quot; Ceramic Material from Skinwalker Ranch12 Aug 2025 — This is a clip from The Secret of Skinwalker Ranch, Behind the Gates...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: metabunk.org  
    Title: skinwalker ranch trailing ufo s2 e8.12203  
-   Link: [https://www.metabunk.org/threads/skinwalker-ranch-trailing-ufo-s2-e8.12203/](https://www.metabunk.org/threads/skinwalker-ranch-trailing-ufo-s2-e8.12203/)  
+   Link: <a href="https://www.metabunk.org/threads/skinwalker-ranch-trailing-ufo-s2-e8.12203/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/skinwalker-ranch-trailing-ufo-s2-e8.12203/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Trailing UFO (S2 E8)5 Jan 2022 — In this episode, Travis Taylor... &quot;Self-healing&quot; Ceramic Material from Skinwalker Ranc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/home/authors/mick-west.1/](https://www.metabunk.org/home/authors/mick-west.1/)  
+   Link: <a href="https://www.metabunk.org/home/authors/mick-west.1/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/authors/mick-west.1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestAt the start of this season (six) of Skinwalker Ranch, they posted a segment on the recovery and analysis of some small pieces o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/home/](https://www.metabunk.org/home/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAt the start of this season (six) of Skinwalker Ranch, they posted a segment on the recovery and analysis of some small pieces of...</p></details>
+   Link: <a href="https://www.metabunk.org/home/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/home/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the start of this season (six) of Skinwalker Ranch, they posted a segment on the recovery and analysis of some small pieces of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Metabunk: Skinwalker Ranch Hypersonic Object Analysis  
-   Link: [https://www.youtube.com/watch?v=kYJ4M-8tLRE](https://www.youtube.com/watch?v=kYJ4M-8tLRE)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ4M-8tLRE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ4M-8tLRE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Skinwalker Ranch UFO Footage...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDr. Travis Taylor, Former Chief Scientist on the UAP Task...Since Mick West... I want to like Taylor, but I just can&#x27;t trust some...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor, Former Chief Scientist on the UAP Task...Since Mick West... I want to like Taylor, but I just can&#x27;t trust some...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/](https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/)  
+   Link: <a href="https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/tonight-at-6-the-chief-scientist-for-the-uap-task-force-was-asked-if-these-ufos-/395746585920244/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TONIGHT AT 6: The chief scientist for the UAP [Task Force](&amp;#123;&amp;#123; &#x27;task-force/&#x27; | relative_url &amp;#125;&amp;#125;)...TONIGHT AT 6: The chief scientist for the UAP Task Force was asked if these U...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vuaadm/mick_west_convinced_travis_taylor_the_pyramid_uap/](https://www.reddit.com/r/UFOs/comments/vuaadm/mick_west_convinced_travis_taylor_the_pyramid_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vuaadm/mick_west_convinced_travis_taylor_the_pyramid_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vuaadm/mick_west_convinced_travis_taylor_the_pyramid_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it&#x27;s used widely in any general media representation of the recent, renewed interest in UAP.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1511602300492416/](https://www.facebook.com/groups/911734917145827/posts/1511602300492416/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/](https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g hundreds of illuminated drones, the timing leaves the Team in...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: Flying object recorded during S04E10  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/14m9785/flying_object_recorded_during_s04e10_its_not/](https://www.reddit.com/r/skinwalkerranch/comments/14m9785/flying_object_recorded_during_s04e10_its_not/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/14m9785/flying_object_recorded_during_s04e10_its_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14m9785/flying_object_recorded_during_s04e10_its_not/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not moving as...Historical events linked to Skinwalker Ranch. Fan theories about Skinwalker Ranch lore. Influence of Skinwalker Ran...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CurseofOakIsland/posts/astrophysicist-travis-taylor-presents-a-new-star-map-theory-to-the-oak-island-te/3753244901556771/](https://www.facebook.com/CurseofOakIsland/posts/astrophysicist-travis-taylor-presents-a-new-star-map-theory-to-the-oak-island-te/3753244901556771/)  
+   Link: <a href="https://www.facebook.com/CurseofOakIsland/posts/astrophysicist-travis-taylor-presents-a-new-star-map-theory-to-the-oak-island-te/3753244901556771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CurseofOakIsland/posts/astrophysicist-travis-taylor-presents-a-new-star-map-theory-to-the-oak-island-te/3753244901556771/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No problem! Insiders get access to...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WfuTNgS1prk](https://www.youtube.com/watch?v=WfuTNgS1prk)  
+   Link: <a href="https://www.youtube.com/watch?v=WfuTNgS1prk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WfuTNgS1prk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>diplomas and a long work history that show he is as legit...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1dbjox4/mick_wests_metabunk_group_struggling_to_explain/](https://www.reddit.com/r/skinwalkerranch/comments/1dbjox4/mick_wests_metabunk_group_struggling_to_explain/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dbjox4/mick_wests_metabunk_group_struggling_to_explain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dbjox4/mick_wests_metabunk_group_struggling_to_explain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>153. 137. Popular debunker Mick West admits he...Read more...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-degree-verification/
 description: Focused pages that expand on Degrees.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_degree_verification_eaee04
-parent_title: Degrees | Did Bob Lazar's Story Hold Up?
+parent_title: Degrees
 parent_nav_short_title: Degrees
 parent_permalink: /degrees/
 ---

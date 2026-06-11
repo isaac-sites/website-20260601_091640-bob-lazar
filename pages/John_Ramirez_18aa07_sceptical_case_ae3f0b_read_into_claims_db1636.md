@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics-70c753/
 nav_short_title: Read Into
 title: What does 'read into' really prove?
-title_full: What does 'read into' really prove? | Sceptics
+title_full: What does 'read into' really prove?
 display_title_short: Read Into
 display_title: Read Into
 heading_title: What does 'read into' really prove?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where The Sceptical Case Is Strongest | Ramirez
+parent_title: Where The Sceptical Case Is Strongest
 parent_permalink: /sceptics-70c753/
 parent_nav_short_title: Sceptics
 parent_heading_title: Where The Sceptical Case Is Strongest
@@ -247,7 +247,7 @@ prev_link:
   permalink: /grusch-compare/
   short_title: Grusch Compare
   heading_title: Why formal process changes the evidence test
-date: '2026-06-09 02:59:02 '
+date: '2026-06-11 21:04:55 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims
 
 One of the most persuasive-sounding phrases in UFO and intelligence discussions is that someone was “read into” a programme. In ordinary conversation, it can sound like direct proof that a person had access to hidden government knowledge. In practice, the phrase is far more complicated.
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-1-dark.svg" | relative_url }}" alt="Read Into illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [sceptics]({{ 'sceptics-70c753/' | relative_url }}) assessing [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }})’s credibility, the issue is not whether secret programmes exist. The issue is what, exactly, a claimed read-in demonstrates. A former intelligence officer may genuinely have held sensitive clearances, signed compartment-specific secrecy agreements, and received access to restricted information. Yet none of that automatically proves access to UFO crash-retrieval projects, alien biological research, reverse-engineering efforts, or other extraordinary claims later discussed in public. The gap between verified access and inferred knowledge is where rumours, assumptions and credibility disputes often grow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdse.edu">[CDSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdse.edu</span><span class="citation-popover-title">IC Markings System Register</span><span class="citation-popover-snippet">U) Intelligence Community Markings System Register and...Dec 31, 2016 — classification marking for the data and a read-in for HCS-P acc...</span></span></span>
+For [sceptics]({{ 'sceptics-70c753/' | relative_url }}) assessing John Ramirez’s credibility, the issue is not whether secret programmes exist. The issue is what, exactly, a claimed read-in demonstrates. A former intelligence officer may genuinely have held sensitive clearances, signed compartment-specific secrecy agreements, and received access to restricted information. Yet none of that automatically proves access to UFO crash-retrieval projects, alien biological research, reverse-engineering efforts, or other extraordinary claims later discussed in public. The gap between verified access and inferred knowledge is where rumours, assumptions and credibility disputes often grow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdse.edu">[CDSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdse.edu</span><span class="citation-popover-title">IC Markings System Register</span><span class="citation-popover-snippet">U) Intelligence Community Markings System Register and...Dec 31, 2016 — classification marking for the data and a read-in for HCS-P acc...</span></span></span>
 
 ## Why the phrase sounds stronger than it may be
 
@@ -268,7 +267,7 @@ In the US intelligence and defence system, being “read into” a compartment n
 
 The problem for outside observers is that the phrase carries a powerful psychological effect. Once an audience hears that a former CIA officer was “read into” something, many listeners assume the person therefore possesses hidden truths about all related subjects. That assumption often goes beyond what the phrase actually establishes.
 
-In the case of John Ramirez, discussions about his background frequently combine verified elements of an intelligence career with much broader UFO claims involving non-human intelligence, alien-human hybrids, disclosure timelines and alleged classified knowledge. [Supporters]({{ 'supporters-124489/' | relative_url }}) sometimes treat his former status as evidence that these claims emerged from privileged access. Sceptics argue that this leap is precisely where the evidential chain becomes weak. Apple Podcasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">GaiaWatch John Ramirez: CIA Agent&#x27;s Close EncountersIn this and coming episodes, Ramirez reveals his direct contact experiences with extr...</span></span></span>
+In the case of John Ramirez, discussions about his background frequently combine verified elements of an intelligence career with much broader UFO claims involving non-human intelligence, alien-human hybrids, disclosure timelines and alleged classified knowledge. [Supporters]({{ 'supporters-124489/' | relative_url }}) sometimes treat his former status as evidence that these claims emerged from privileged access. Sceptics argue that this leap is precisely where the evidential chain becomes weak. Apple Podcasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close EncountersIn this and coming episodes, Ramirez reveals his direct contact experiences with extr...</span></span></span>
 
 A genuine read-in can prove access to something. It does not automatically prove access to the particular thing being discussed.
 
@@ -279,7 +278,6 @@ A key distinction in intelligence work is the difference between authorised prog
 Even highly classified organisations contain rumours, speculation, professional folklore and second-hand stories. People hear fragments from colleagues, contractors, conference conversations, briefings, old reports and institutional legends. Some stories later prove true. Others become part of workplace mythology.
 
 This distinction matters because many public UFO discussions blur together several very different categories of information:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -295,7 +293,6 @@ These categories do not carry equal evidential weight.
 
 For sceptics, one of the central questions about any read-into claim is whether the speaker is describing direct programme access or later conclusions assembled from conversations and rumours. Intelligence agencies are heavily compartmentalised. Someone can spend decades inside the system and still have no access to large numbers of programmes operating elsewhere. Former officials often emphasise this point themselves when discussing classified structures. Access to one compartment does not create automatic visibility into every other compartment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensitive compartmented information</span><span class="citation-popover-snippet">Sensitive compartmented information</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nuclear-documents-us-classification-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">nuclear documents us classification system</span><span class="citation-popover-snippet">Although Trump denied possessing such documents, experts speculate that these could refer to various categories including nuclear weapon...</span></span></span> This is why critics frequently argue that intelligence credentials should be separated from UFO conclusions. A real career may establish that a person understands classified culture. It does not necessarily establish that their later UFO claims come from firsthand programme knowledge.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nJiS7p98x-E" title="Revealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nJiS7p98x-E" target="_blank" rel="noopener noreferrer">Revealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP</a></p><p class="youtube-embed-meta">Channel: Mysterious Unexplained UAP USO UFO Sighting &middot; Views: 3.7K &middot; Uploaded: December 2021 &middot; Length: 1 hour 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nJiS7p98x-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nJiS7p98x-E">Open on YouTube</a></p></div></div></div>
 
 ## The specific problem with unnamed programmes
@@ -303,7 +300,6 @@ For sceptics, one of the central questions about any read-into claim is whether 
 The credibility problem becomes sharper when references to read-ins are not accompanied by identifiable programme details.
 
 A claim such as “I was read into a programme” can mean several different things:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +322,6 @@ That dynamic appears repeatedly in modern UFO disclosure culture. Public interes
 
 The UFO field contains a recurring pattern:
 
-
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-2-dark.svg" | relative_url }}" alt="Read Into illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -341,14 +336,13 @@ The UFO field contains a recurring pattern:
 
 By the time the story circulates through podcasts, conference appearances, social media clips and discussion forums, a tentative claim can acquire an appearance of certainty.
 
-This process is visible in reactions to Ramirez interviews and discussions across UFO communities. Online debates frequently move beyond what can actually be verified, with supporters treating intelligence credentials as indirect confirmation and critics arguing that no documentary evidence has emerged to support the most extraordinary claims. The discussion often becomes less about evidence and more about competing assumptions regarding insider status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">RedditEx-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Back Engineered Alien Propulsion?</span><span class="citation-popover-snippet">CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</span></span></span>
+This process is visible in reactions to Ramirez interviews and discussions across UFO communities. Online debates frequently move beyond what can actually be verified, with supporters treating intelligence credentials as indirect confirmation and critics arguing that no documentary evidence has emerged to support the most extraordinary claims. The discussion often becomes less about evidence and more about competing assumptions regarding insider status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Back Engineered Alien Propulsion?</span><span class="citation-popover-snippet">CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</span></span></span>
 
 For sceptics, this is the core rumour problem. Information can gain authority simply because it appears connected to someone who once held a sensitive position.
 
 ## Questions that would make the claim testable
 
 When evaluating statements about being read into a secret programme, several questions help separate evidential claims from prestige-based claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_EzPmS2HVDg" title="WARNING: CIA Insider Reveals the 2027 Arrival Date" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_EzPmS2HVDg" target="_blank" rel="noopener noreferrer">WARNING: CIA Insider Reveals the 2027 Arrival Date</a></p><p class="youtube-embed-meta">Channel: X-File Findings &middot; Views: 124 &middot; Uploaded: March 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_EzPmS2HVDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_EzPmS2HVDg">Open on YouTube</a></p></div></div></div>
 
@@ -368,7 +362,6 @@ Firsthand access does not prove extraordinary claims are true, but it is a stron
 
 Independent corroboration can include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Additional witnesses.
@@ -379,7 +372,6 @@ Independent corroboration can include:
 </div>
 
 Corroboration does not automatically validate UFO-related conclusions, but it helps establish whether the access claim itself is credible.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-3-dark.svg" | relative_url }}" alt="Read Into illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_read_into_claims_db1636-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What information was actually obtained?
@@ -400,91 +392,47 @@ The argument is that the phrase proves less than many audiences assume.
 
 If Ramirez was read into classified compartments during his intelligence career, that would be compatible with the type of work described in public biographies of his CIA and intelligence-community service. What remains much harder to establish is whether any such access specifically involved the UFO-related subjects he later discussed publicly. Publicly available evidence does not provide independent verification of alleged access to crash-retrieval programmes, alien-hybrid projects, disclosure planning efforts or comparable claims. Much of the discussion remains dependent on personal testimony, interpretation and inference rather than inspectable records. Apple TV 3Apple Podcasts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spreaker.com">[spreaker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spreaker.com</span><span class="citation-popover-title">April 23/25</span><span class="citation-popover-snippet">The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</span></span></span> That leaves a narrower conclusion than either believers or debunkers often prefer. A claimed read-in may support the idea that someone operated inside a classified environment. By itself, however, it does not establish the truth of the extraordinary UFO narrative that later becomes attached to that claim. The crucial evidential question remains not whether access existed, but access to what.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ZHWcMndjKI" title="John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer">John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 32.2K &middot; Uploaded: June 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ZHWcMndjKI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What does &#x27;read into&#x27; really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What does &#x27;read into&#x27; really prove?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Shows the difference between access claims and documented evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Addresses how impressive-sounding claims can exceed available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides an evidence-based lens for assessing insider assertions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
-        
-        <p class="fr-book-desc">Examines authority, insider status and belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -521,15 +469,15 @@ If Ramirez was read into classified compartments during his intelligence career,
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +485,15 @@ If Ramirez was read into classified compartments during his intelligence career,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +501,15 @@ If Ramirez was read into classified compartments during his intelligence career,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +517,15 @@ If Ramirez was read into classified compartments during his intelligence career,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,7 +533,7 @@ If Ramirez was read into classified compartments during his intelligence career,
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="read-into-what-does-read-into-really-prove-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-read-into-really-prove-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-does-read-into-really-prove-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -801,114 +749,114 @@ If Ramirez was read into classified compartments during his intelligence career,
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sensitive compartmented information  
-   Link: [https://en.wikipedia.org/wiki/Sensitive_compartmented_information](https://en.wikipedia.org/wiki/Sensitive_compartmented_information)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensitive_compartmented_information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensitive_compartmented_information</a>  
 
 2. <a id="endnote-2"></a>
    Source: cdse.edu  
    Title: IC Markings System Register  
-   Link: [https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf](https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf)  
+   Link: <a href="https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Portals/124/Documents/jobaids/information/IC-Markings-System-Register.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(U) Intelligence Community Markings System Register and...Dec 31, 2016 — classification marking for the data and a read-in for HCS-P acc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: nuclear documents us classification system  
-   Link: [https://www.wired.com/story/nuclear-documents-us-classification-system](https://www.wired.com/story/nuclear-documents-us-classification-system)  
+   Link: <a href="https://www.wired.com/story/nuclear-documents-us-classification-system" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nuclear-documents-us-classification-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although Trump denied possessing such documents, experts speculate that these could refer to various categories including nuclear weapon...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dcsecurityclearanceconsultants.com  
-   Link: [https://www.dcsecurityclearanceconsultants.com/sensitive-compartmented-information.php](https://www.dcsecurityclearanceconsultants.com/sensitive-compartmented-information.php)  
+   Link: <a href="https://www.dcsecurityclearanceconsultants.com/sensitive-compartmented-information.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dcsecurityclearanceconsultants.com/sensitive-compartmented-information.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>re agreement, are &quot;read in&quot; or indoctrinated and the fact of...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139](https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139)  
+   Link: <a href="https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ke/podcast/premium-john-ramirez-ex-cia/id1511121397?i=1000542275139</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsPremium; John Ramirez, ex-CIA–That UFO Podcast17 Nov 2021 — Retired CIA officer, John Ramirez has made a big impact in a sh...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GaiaWatch John Ramirez: CIA Agent&#x27;s Close EncountersIn this and coming episodes, Ramirez reveals his direct contact experiences with extr...</p></details>
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersIn this and coming episodes, Ramirez reveals his direct contact experiences with extr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Former CIA Agent J...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/](https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEx-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1mcr9tr/excia_officer_confirms_alien_hybrids_exist_john/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John RamirezJuly 30, 2025 — 16 votes, 112 comments. And r/ufo trusts the CIA and anyo...</p></details>
    Published: July 30, 2025  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: [https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/](https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hy...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez - DEBRIEFED e... 16. 112. A Former CIA Agent Receives a Visitor.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: spreaker.com  
    Title: April 23/25  
-   Link: [https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549](https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549)  
+   Link: <a href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensEx-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Coming In 2027 · Comment...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1fmu48r/2027/](https://www.reddit.com/r/aliens/comments/1fmu48r/2027/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fmu48r/2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fmu48r/2027/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2027: r/aliensThis subreddit is primarily for the discussion of extraterrestrial life, but since this topic is intertwined with UFOs/UAP...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer John Ramirez On UFOs & Aliensr/aliens  
-   Link: [https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/](https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/](https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureDNA evidence makes this irrefutable. If alien DNA is compatible with ours, then the alien...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/](https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/](https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>️Former CIA Officer John Ramirez claims that government...Whatever strange occurrences happen on Earth, you can find them here...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/](https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>same thing about Roswell over the years...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321](https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com...</p></details>
 
 5
@@ -917,27 +865,26 @@ If Ramirez was read into classified compartments during his intelligence career,
 
 7. John Ramirez, CIA [ret] PART 221 Dec 2022 — Did you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/](https://podcastufo.com/)
 
-
 22. <a id="endnote-22"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777](https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777)  
+   Link: <a href="https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/the-daily-conspiracy-podcast/id1281366777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Conspiracy Podcast#UFO #UAP #Disclosure #CrashedUFO #Aliens #MissingGeneral #RossCoulthart #JakeBarber #Extraterrestrial&quot; Become a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027](https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027)  
+   Link: <a href="https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/former-cia-officer-confirms-alien-hybrids-are-real/id1724258920?i=1000713854027</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Officer Confirms Alien Hybrids are Real20 Jun 2025 — Former CIA analyst John Ramirez joins me for one of the most revealing conversat...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/archives/jm/criminal-resource-manual-2052-contacts-intelligence-community-regarding-criminal-investigations](https://www.justice.gov/archives/jm/criminal-resource-manual-2052-contacts-intelligence-community-regarding-criminal-investigations)  
+   Link: <a href="https://www.justice.gov/archives/jm/criminal-resource-manual-2052-contacts-intelligence-community-regarding-criminal-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/jm/criminal-resource-manual-2052-contacts-intelligence-community-regarding-criminal-investigations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contacts With The Intelligence Community...It should be read in the context of how those well-known issues should be viewed when classif...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired](https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com...</p></details>
 
 4
@@ -946,48 +893,47 @@ If Ramirez was read into classified compartments during his intelligence career,
 
 4. John Ramirez, CIA Retired-Podcast UFOLeave Us a Voicemail: [https://podcastufo.com/ufo-sightings/ufo-encounter-voicemail](https://podcastufo.com/ufo-sightings/ufo-encounter-voicemail) Po
 
-
 26. <a id="endnote-26"></a>
    Source: acq.osd.mil  
-   Link: [https://www.acq.osd.mil/ncbdp/nm/NMHB2020rev/docs/NMHB2020rev_Ch18.pdf](https://www.acq.osd.mil/ncbdp/nm/NMHB2020rev/docs/NMHB2020rev_Ch18.pdf)  
+   Link: <a href="https://www.acq.osd.mil/ncbdp/nm/NMHB2020rev/docs/NMHB2020rev_Ch18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acq.osd.mil/ncbdp/nm/NMHB2020rev/docs/NMHB2020rev_Ch18.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD does not require a &#x27;read-in&#x27; for access to RD or FRD in the possession of DoD with the exception of access to CNWDI. To access CNWDI...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA working with a UFO control group or another agency but he wouldn... He also claims on 30 April 1964, the first communication between...</p></details>
    Published: April 1964  
 
 28. <a id="endnote-28"></a>
    Source: Lawfare  
    Title: matthew bissonnettes duties concerning classified information  
-   Link: [https://www.lawfaremedia.org/article/matthew-bissonnettes-duties-concerning-classified-information](https://www.lawfaremedia.org/article/matthew-bissonnettes-duties-concerning-classified-information)  
+   Link: <a href="https://www.lawfaremedia.org/article/matthew-bissonnettes-duties-concerning-classified-information" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/matthew-bissonnettes-duties-concerning-classified-information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bissonnette&#x27;s Duties Concerning Classified...Sep 10, 2012 — The unknowable (at least to the public) factual issue is whether the Special...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: irs.gov  
-   Link: [https://www.irs.gov/irm/part10/irm_10-023-001](https://www.irs.gov/irm/part10/irm_10-023-001)  
+   Link: <a href="https://www.irs.gov/irm/part10/irm_10-023-001" target="_blank" rel="noopener noreferrer nofollow">https://www.irs.gov/irm/part10/irm_10-023-001</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statutes: United States Code (USC) at: [http://uscode...Read](http://uscode...Read) more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: grunge.com  
    Title: cia agent who made startling claims about aliens  
-   Link: [https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/](https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/)  
+   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Like, actual extraterrestrial biological beings piloting actual flying saucers.... As retired CIA officer John Ramirez says: Aliens are...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3AJohn_Ramirez_retired_CIA_officer_interwith_with_Moszkowicz_about_UAP_%28UFOs%29.webm](https://commons.wikimedia.org/wiki/File%3AJohn_Ramirez_retired_CIA_officer_interwith_with_Moszkowicz_about_UAP_%28UFOs%29.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AJohn_Ramirez_retired_CIA_officer_interwith_with_Moszkowicz_about_UAP_%28UFOs%29.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AJohn_Ramirez_retired_CIA_officer_interwith_with_Moszkowicz_about_UAP_%28UFOs%29.webm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:John Ramirez retired CIA officer interwith with...25 Sept 2024 — File:John Ramirez retired CIA officer interwith with...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: storytel.com  
    Title: 537. John Ramirez, CIA [ret] PART 2  
-   Link: [https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383](https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383)  
+   Link: <a href="https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast UFO21 Dec 2022 — Podcasts · Podcast UFO. 537. John Ramirez, CIA [ret] PART 2. By. Producer: Donna Killeen. Episode. 445.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_EzPmS2HVDg](https://www.youtube.com/watch?v=_EzPmS2HVDg)  
+   Link: <a href="https://www.youtube.com/watch?v=_EzPmS2HVDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_EzPmS2HVDg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42 addresses the exact nature of what Ramirez claims he was &quot;r...</p></details>

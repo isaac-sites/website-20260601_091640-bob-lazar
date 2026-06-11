@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-scope/
 nav_short_title: Skinwalker
 title: Why Skinwalker Ranch complicates AAWSAP
-title_full: Why Skinwalker Ranch complicates AAWSAP | AAWSAP Scope
+title_full: Why Skinwalker Ranch complicates AAWSAP
 display_title_short: Skinwalker
 display_title: Skinwalker
 heading_title: Why Skinwalker Ranch complicates AAWSAP
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Was AAWSAP Really A UFO Programme? | Lacatski
+parent_title: Was AAWSAP Really A UFO Programme?
 parent_permalink: /aawsap-scope/
 parent_nav_short_title: AAWSAP Scope
 parent_heading_title: Was AAWSAP Really A UFO Programme?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /exotic-studies/
   short_title: Exotic Studies
   heading_title: When aerospace research sounds like UFO proof
-date: '2026-06-09 02:56:28 '
+date: '2026-06-11 21:03:33 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anoma
 
 ## Introduction
 
-Skinwalker Ranch is one of the clearest examples of why AAWSAP (the Advanced Aerospace Weapon System Applications Program) remains controversial. The programme was funded through the Defence Intelligence Agency as a study of future aerospace threats, yet some of its most discussed activities became tied to a Utah property associated with reports of UFOs, strange creatures, apparitions, poltergeist-like events, remote viewing and other paranormal claims. That shift matters when assessing [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})'s credibility. Supporters argue that a government scientist followed evidence wherever it led. Critics argue that involvement with highly speculative and poorly verifiable claims weakened the programme's scientific and intelligence value. The tension between those views sits at the centre of the "anomaly-work problem" surrounding AAWSAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AAR O_Historical_Record_Repor</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain An...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
-
+Skinwalker Ranch is one of the clearest examples of why AAWSAP (the Advanced Aerospace Weapon System Applications Program) remains controversial. The programme was funded through the Defence Intelligence Agency as a study of future aerospace threats, yet some of its most discussed activities became tied to a Utah property associated with reports of UFOs, strange creatures, apparitions, poltergeist-like events, remote viewing and other paranormal claims. That shift matters when assessing James Lacatski's credibility. Supporters argue that a government scientist followed evidence wherever it led. Critics argue that involvement with highly speculative and poorly verifiable claims weakened the programme's scientific and intelligence value. The tension between those views sits at the centre of the "anomaly-work problem" surrounding AAWSAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AAR O_Historical_Record_Repor</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain An...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-1-dark.svg" | relative_url }}" alt="Skinwalker illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What AARO says happened at the Utah property
@@ -267,7 +266,6 @@ The Pentagon's All-domain Anomaly Resolution Office (AARO) addressed Skinwalker 
 AARO's account is important because it comes from the current official office responsible for reviewing the historical record. Its conclusion was not that these phenomena were proven false in every case, but that such investigations were not specifically outlined in AAWSAP's original statement of work. The office characterised the paranormal research as activity pursued by the contractor with support from the DIA programme manager rather than as a clearly authorised requirement of the original aerospace-threat mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AAR O_Historical_Record_Repor</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain An...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 This distinction is central to understanding why Skinwalker Ranch became controversial. The issue is not merely whether investigators visited the ranch. It is whether government-funded research intended to assess future aerospace threats should have devoted substantial attention to phenomena that were difficult or impossible to verify through conventional intelligence methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCQRMGOc9M8" title="Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer">Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 397.1K &middot; Uploaded: August 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCQRMGOc9M8">Open on YouTube</a></p></div></div></div>
 
@@ -284,7 +282,6 @@ This creates several problems:
 * **Scientific reproducibility issues:** Claims that cannot be reliably reproduced are difficult to test using standard scientific methods.
 * **Resource-allocation concerns:** Critics argue that government funding should prioritise questions with clearer intelligence value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span> Supporters of Lacatski and AAWSAP counter that intelligence organisations sometimes investigate unusual reports precisely because they are unexplained. From that perspective, dismissing anomalous claims before investigation could overlook genuinely novel phenomena. The counterargument is that investigation and endorsement are different things: studying a claim does not establish that the claim is true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Inside the US Government Covert UFO ProgramDecember 26, 2024 — that occurred in Brazil in the 1970s; Project Ranch, which continued inves...</span><span class="citation-popover-meta">Published: December 26, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LndTfQGXUU" title="Skinwalker Ranch - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer">Skinwalker Ranch - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 4.3M &middot; Uploaded: October 2022 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LndTfQGXUU">Open on YouTube</a></p></div></div></div>
 
 ## The Skinwalker Ranch claims associated with Lacatski
@@ -295,14 +292,12 @@ According to accounts repeated in later reporting and in books authored or co-au
 
 Lacatski and his collaborators later promoted additional concepts associated with Skinwalker Ranch, including the so-called "[hitchhiker effect]({{ 'hitchhiker-effect/' | relative_url }})"—the idea that anomalous phenomena could follow visitors home and affect family members or others after exposure to the ranch environment. These claims became prominent in books written by programme insiders but remain highly controversial because they rely heavily on testimony and anecdotal reporting rather than publicly available scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abebooks.com">[AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abebooks.com</span><span class="citation-popover-title">Abe Books Skinwalkers at the Pentagon</span><span class="citation-popover-snippet">Lacatski... Skinwalker Ranch. Written by two program insiders and a respected journalist, Skinwalkers at the Pentagon comes to a conclusi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit For credibility assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>, the key point is that these are not merely second-hand stories repeated by later enthusiasts. They are claims advanced by Lacatski and other AAWSAP insiders themselves. That increases their relevance when evaluating his judgement and evidential standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abebooks.com">[AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abebooks.com</span><span class="citation-popover-title">Abe Books Skinwalkers at the Pentagon</span><span class="citation-popover-snippet">Lacatski... Skinwalker Ranch. Written by two program insiders and a respected journalist, Skinwalkers at the Pentagon comes to a conclusi...</span></span></span>
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-2-dark.svg" | relative_url }}" alt="Skinwalker illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters and sceptics interpret the same record
 
 Supporters and sceptics often look at the same facts and reach very different conclusions.
 
 Supporters argue that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +316,6 @@ Sceptics argue that:
 
 The disagreement is therefore not about whether AAWSAP investigated Skinwalker Ranch. That point is largely undisputed. The disagreement concerns whether the investigation reflected open-minded intelligence gathering or a drift into increasingly speculative territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_skinwalker_anomaly_p_07591a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How this affects Lacatski's credibility as a programme insider
 
@@ -333,91 +327,47 @@ On the other hand, credibility is not a single yes-or-no attribute. A source may
 
 For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore not simply a side story. It is the clearest example of the broader anomaly-work problem: a real government programme, a real insider, and a set of claims that become increasingly difficult to verify as they move away from aerospace technology and toward the paranormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UA...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 20.3K &middot; Uploaded: January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why Skinwalker Ranch complicates AAWSAP. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Why Skinwalker Ranch complicates AAWSAP, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
-        <p class="fr-book-desc">Directly covers the ranch and anomalous claims linked to AAWSAP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785613-M.jpg" alt="Cover for American Cosmic: UFOs, Religion, Technology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores belief, experience, and anomalous phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores belief, experience, and anomalous phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Connects Skinwalker Ranch investigations to AAWSAP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic: UFOs, Religion, Technology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,15 +404,15 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +420,15 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +436,15 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +452,15 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +468,7 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="skinwalker-a36414-why-skinwalker-ranch-complicates-aawsap-james-lacatski-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-skinwalker-ranch-complicates-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-skinwalker-ranch-complicates-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,214 +684,214 @@ For readers assessing James Lacatski specifically, Skinwalker Ranch is therefore
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AAR O_Historical_Record_Repor  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain An...</p></details>
    Published: March 8, 2024  
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UA...</p></details>
    Published: May 2024  
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/questions-pentagon-ufo-report](https://www.wired.com/story/questions-pentagon-ufo-report)  
+   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoSkinwalker Ranch, previously known as Sherman Ranch, is a property located in Utah...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: [https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/](https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/)  
+   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government Covert UFO ProgramDecember 26, 2024 — that occurred in Brazil in the 1970s; Project Ranch, which continued inves...</p></details>
    Published: December 26, 2024  
 
 7. <a id="endnote-7"></a>
    Source: abebooks.com  
    Title: Abe Books Skinwalkers at the Pentagon  
-   Link: [https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp](https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp)  
+   Link: <a href="https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9798212437172/Skinwalkers-Pentagon-James-Lacatski-Colm/plp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lacatski... Skinwalker Ranch. Written by two program insiders and a respected journalist, Skinwalkers at the Pentagon comes to a conclusi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/](https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/15yjr5n/hitchhiker_effect/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/](https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/16twjro/the_pentagons_secret_ufo_program_the_hitchhiker/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lker Ranch, got &quot;infected&quot;, and then this &quot;infection&quot; spread to...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/](https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18zkcuy/making_sense_of_aatip_awsap_aimsog_and_lue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making sense of AATIP, AWSAP, AIMSOG and Lue ElizondoAAWSAP was much more than Skinwalker Ranch, as demonstrated by Initial Revelations p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government...Results: The committee&#x27;s report stated that UFOs did not threaten U.S. national security and that it could find no UFO case...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Title, Report on the Historical Record of U.S. Governmen...</p></details>
    Published: May 2024  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1op88kz/skinwalker_ranch_experiencer_dr_james_lacatski/](https://www.reddit.com/r/skinwalkerranch/comments/1op88kz/skinwalker_ranch_experiencer_dr_james_lacatski/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1op88kz/skinwalker_ranch_experiencer_dr_james_lacatski/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1op88kz/skinwalker_ranch_experiencer_dr_james_lacatski/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in total secrecy and it happened right here in las vegas...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/](https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsSkinwalker Ranch Experiencer Dr. James Lacatski admits AAWSAP program was reverse-en...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/sfw5sn/has_everyone_heard_about_skinwalkers_at_the/](https://www.reddit.com/r/aliens/comments/sfw5sn/has_everyone_heard_about_skinwalkers_at_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sfw5sn/has_everyone_heard_about_skinwalkers_at_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sfw5sn/has_everyone_heard_about_skinwalkers_at_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ho were involved in almost 150 full scientific studies at Skinwalker...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: brandon meeting with kirkpatrick in 2018 means  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1coqpht/brandon_meeting_with_kirkpatrick_in_2018_means/](https://www.reddit.com/r/skinwalkerranch/comments/1coqpht/brandon_meeting_with_kirkpatrick_in_2018_means/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1coqpht/brandon_meeting_with_kirkpatrick_in_2018_means/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1coqpht/brandon_meeting_with_kirkpatrick_in_2018_means/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence was found by AARO Investigation of the existence of UFOs/UAPs... Skinwalker Ranch... what exactly was he overseeing?...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/](https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1clsz5c/any_idea_what_the_hoax_uap_program_and_fake_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly leaked Skinwalker Ranch data from U.S. Government Program...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/](https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nomalous phenomena occurring at Skinwalker Ranch (not just...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: Hitchhiker effect due to watching the show?  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1l396p9/hitchhiker_effect_due_to_watching_the_show_or_am/](https://www.reddit.com/r/skinwalkerranch/comments/1l396p9/hitchhiker_effect_due_to_watching_the_show_or_am/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1l396p9/hitchhiker_effect_due_to_watching_the_show_or_am/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1l396p9/hitchhiker_effect_due_to_watching_the_show_or_am/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Or am I just too...Read James Lacatski&#x27;s Skinwalkers at the Pentagon, and Inside the US... Travis describes worst Skinwalker Ranch Hitc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1teep3p/deep_dive_into_dr_jim_lacatskis_aawsap_uap/](https://www.reddit.com/r/skinwalkerranch/comments/1teep3p/deep_dive_into_dr_jim_lacatskis_aawsap_uap/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1teep3p/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1teep3p/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP DisclosuresImpact of Skinwalker Ranch on local culture. Best episodes of Skinwalker Ranch se...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/](https://www.reddit.com/r/skinwalkerranch/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchWhat&#x27;s actually in the AAWSAP files (the 2008-2010 DIA Skinwalker contract that ran $22 million)... This subreddit is a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddMixed in between these discussions is reporting of the more vaporous paranormal phenomena that consti- tute...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Skinwalkers At The Pentagon | Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm Kelleher...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NtilGOcNmgY](https://www.youtube.com/watch?v=NtilGOcNmgY)  
+   Link: <a href="https://www.youtube.com/watch?v=NtilGOcNmgY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NtilGOcNmgY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch - The Full Story | Documentary...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Secret Advanced Aviation Threat Identification Program...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... Skinwalker Ranch – a large property in Utah. The book has proved to be instrumental in modern ufolog...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
    Title: The Guardian The Pentagon released its UFO videos  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundApril 22, 2026 — In &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavel...</p></details>
    Published: April 22, 2026  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker RanchIts name is taken from the skin-walker, a malevolent witch in Navajo legend. Skinwalker Ranch. One entrance to the ran...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: amazon.de  
-   Link: [https://www.amazon.de/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLCNLFC](https://www.amazon.de/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLCNLFC)  
+   Link: <a href="https://www.amazon.de/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLCNLFC" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Skinwalkers-at-Pentagon-James-Lacatski/dp/B0BQLCNLFC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon GermanySkinwalkers at the PentagonSkinwalkers at the Pentagon: Lacatski, James T., Kelleher, Colm A., Knapp... Skinwalker Ranch...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: amazon.de  
-   Link: [https://www.amazon.de/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC](https://www.amazon.de/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC)  
+   Link: <a href="https://www.amazon.de/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the U.S. Government Covert UFO ProgramThis is the third book in the best-selling “Skinwalkers at the... AAWSAP team uncovered ARO...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained](https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained)  
+   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
 
 33. <a id="endnote-33"></a>
    Source: hoopladigital.com  
-   Link: [https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-ph-d/15674546](https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-ph-d/15674546)  
+   Link: <a href="https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-ph-d/15674546" target="_blank" rel="noopener noreferrer nofollow">https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-ph-d/15674546</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the PentagonSkinwalkers at the Pentagon unmasks the massive scope of the Pentagon&#x27;s landmark UFO study that ran from the D...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — The Mystre Wire website has a plug for Lataski&#x27;s book and claims it was Ski...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramThus, an eerie cause-and-effect lineage exists beginning in 1996 with NIDS&#x27;s res...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: evolvefirst.org  
    Title: how do you assess the claims of david grusch james t lacatski and others  
-   Link: [https://www.evolvefirst.org/uap/how-do-you-assess-the-claims-of-david-grusch-james-t-lacatski-and-others](https://www.evolvefirst.org/uap/how-do-you-assess-the-claims-of-david-grusch-james-t-lacatski-and-others)  
+   Link: <a href="https://www.evolvefirst.org/uap/how-do-you-assess-the-claims-of-david-grusch-james-t-lacatski-and-others" target="_blank" rel="noopener noreferrer nofollow">https://www.evolvefirst.org/uap/how-do-you-assess-the-claims-of-david-grusch-james-t-lacatski-and-others</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you assess the claims of David Grusch, James T...30 Oct 2023 — Skinwalkers at the Pentagon included enthralling accounts of a “hi...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/](https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/)  
+   Link: <a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — pentagonsflawed-ufo-report-demands-congressional-action/; Marik...</p></details>

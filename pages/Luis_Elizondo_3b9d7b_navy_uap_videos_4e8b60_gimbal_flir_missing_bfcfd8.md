@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /navy-videos/
 nav_short_title: Gimbal FLIR
 title: Why Gimbal and FLIR Still Divide Viewers
-title_full: Why Gimbal and FLIR Still Divide Viewers | Navy Videos
+title_full: Why Gimbal and FLIR Still Divide Viewers
 display_title_short: Gimbal FLIR
 display_title: Gimbal FLIR
 heading_title: Why Gimbal and FLIR Still Divide Viewers
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did the Navy Videos Actually Show? | Elizondo
+parent_title: What Did the Navy Videos Actually Show?
 parent_permalink: /navy-videos/
 parent_nav_short_title: Navy Videos
 parent_heading_title: What Did the Navy Videos Actually Show?
@@ -253,7 +253,7 @@ next_link:
   permalink: /go-fast/
   short_title: Go Fast
   heading_title: Did Go Fast Really Show Something Racing?
-date: '2026-06-09 02:54:07 '
+date: '2026-06-11 21:02:13 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_mi
 
 ## Introduction
 
-The public clips known as Gimbal and FLIR became central to [Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s reputation because they appeared to move the UFO debate away from rumour and towards military evidence. Yet they remain far more contested than many casual viewers realise. The Pentagon confirmed that the videos were genuine Navy recordings and that the objects shown were unidentified at the time of release. What remains disputed is whether the footage itself demonstrates extraordinary technology, or whether the strongest claims depend on pilot testimony, radar reports, sensor data that has never been released, and interpretations that go beyond what the public can directly inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
-
+The public clips known as Gimbal and FLIR became central to Luis Elizondo’s reputation because they appeared to move the UFO debate away from rumour and towards military evidence. Yet they remain far more contested than many casual viewers realise. The Pentagon confirmed that the videos were genuine Navy recordings and that the objects shown were unidentified at the time of release. What remains disputed is whether the footage itself demonstrates extraordinary technology, or whether the strongest claims depend on pilot testimony, radar reports, sensor data that has never been released, and interpretations that go beyond what the public can directly inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-dark.svg" | relative_url }}" alt="Gimbal FLIR illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters when assessing Elizondo’s credibility. Supporters argue that the clips are only the visible tip of a larger body of military evidence. Critics argue that the public discussion often treats witness recollections and missing data as if they were already confirmed facts. The debate therefore centres less on whether the videos are authentic and more on how much weight should be placed on information that remains unavailable to independent analysis.
@@ -288,7 +287,6 @@ Supporters of Elizondo often point to this combination of witnesses, radar opera
 
 Sceptics respond that witness testimony, even from trained military personnel, is still testimony. Memories evolve, details can become reinforced through years of public discussion, and independent analysts cannot verify every claimed radar track or sensor observation because the underlying records remain unavailable. The result is a case that appears stronger when viewed as a whole narrative than when viewed solely through publicly accessible evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ### Gimbal relies even more on information outside the clip
@@ -300,7 +298,6 @@ Former Navy pilot Ryan Graves has described repeated encounters with unidentifie
 If those accounts are accurate, then the most significant evidence may never have been visible in the released video. In that interpretation, the public clip merely captures one piece of a broader sensor event involving radar tracks, tactical displays and pilot observations.
 
 The problem is that most of this supporting information remains inaccessible to independent researchers. Viewers are effectively asked to decide how much confidence they place in witness recollections and official statements without seeing the complete data themselves.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFRAvDOPZP0" title="UFO Expert: “We Have Proof They Exist,” with Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer">UFO Expert: “We Have Proof They Exist,” with Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 1.1M &middot; Uploaded: October 2024 &middot; Length: 2 hours 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFRAvDOPZP0">Open on YouTube</a></p></div></div></div>
 
@@ -314,14 +311,12 @@ For sceptics, the rotation is exactly the kind of effect that requires careful t
 
 That nuance is often lost in public arguments. The real disagreement is not necessarily "alien craft versus hoax". It is whether the most dramatic visual features are properties of the object or properties of the sensor.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-2-dark.svg" | relative_url }}" alt="Gimbal FLIR illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing data problem
 
 A recurring issue in both Gimbal and FLIR is that crucial information has never entered the public domain.
 
 Independent analysts lack access to:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -343,7 +338,6 @@ Critics counter that references to unseen evidence create a credibility challeng
 
 This is one reason why Gimbal and FLIR continue to divide audiences years after their release. Neither side possesses a complete evidential record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
 ## What this means for assessing Elizondo
@@ -357,7 +351,6 @@ At the same time, the cases do not independently verify some of the larger concl
 That leaves Gimbal and FLIR in an unusual position. They are too substantial to dismiss as simple internet myths, yet too incomplete to resolve the debate. For supporters of Elizondo, they suggest that important evidence remains hidden behind classification barriers. For sceptics, they illustrate how ambiguous sensor footage can acquire a far more dramatic reputation than the publicly available data alone can justify.
 
 The enduring divide exists because both sides can point to genuine weaknesses in the available record. The videos are authentic. The encounters were real. The objects were not conclusively identified. But the evidence needed to move from "unidentified" to a definitive explanation remains largely out of public reach.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-dark.svg" | relative_url }}" alt="Gimbal FLIR illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -373,16 +366,16 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Covers the videos and their role in public UAP discussions.</p>
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,16 +383,16 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Emphasizes testimony and military reporting rather than internet speculation.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,16 +400,16 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Addresses unresolved cases and the problem of missing evidence.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +417,16 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Useful for understanding limits of incomplete observational data.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,7 +434,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -478,15 +471,15 @@ The enduring divide exists because both sides can point to genuine weaknesses in
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model"><img src="https://i.ebayimg.com/images/g/a8UAAeSwapVo3T7O/s-l225.jpg" alt="Listing image for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +487,15 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !"><img src="https://i.ebayimg.com/images/g/pbwAAeSwZXlqGVn3/s-l225.jpg" alt="Listing image for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +503,31 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit"><img src="https://i.ebayimg.com/images/g/fn8AAeSw5ShqJyCN/s-l225.jpg" alt="Listing image for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT"><img src="https://i.ebayimg.com/images/g/cggAAeSwmw9qHTve/s-l225.jpg" alt="Listing image for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +535,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,46 +750,46 @@ The enduring divide exists because both sides can point to genuine weaknesses in
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Unite...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/](https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkClaim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — Note the ATFLIR in the video is in slave mode, he was sla...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — Note the ATFLIR in the video is in slave mode, he was sla...</p></details>
    Published: May 2021  
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: a gimbal glare explainer.12230  
-   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkA Gimbal Glare Explainer17 Jan 2022 — Mick West said: 7. The video is called &quot;Gimbal&quot; by the US Navy, suggesting they might think...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — Mick West said: 7. The video is called &quot;Gimbal&quot; by the US Navy, suggesting they might think...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: petapixel.com  
    Title: famous navy ufo video was actually camera glare evidence suggests  
-   Link: [https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)  
+   Link: <a href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191](https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191)  
+   Link: <a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUS Navy pilot speaks out about UFO sighting 15 years on20 Dec 2019 — Chad Underwood recorded an oblong-shaped object from an infr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 7. <a id="endnote-7"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nymag.com  
    Title: New York Magazine'Tic Tac' UFO Video: Q&A With Navy Pilot Chad Underwood  
-   Link: [https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html](https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html)  
+   Link: <a href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</p></details>
    Published: December 19, 2019  
 
@@ -788,55 +797,55 @@ The enduring divide exists because both sides can point to genuine weaknesses in
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/](https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/)  
+   Link: <a href="https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILE #1 DECLASSIFIED: What did US Navy pilots actually...Thoughts? The #USNavy has confirmed that three online videos purportedly showin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/](https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript of Underwood interview: Navy aviator who...CHAD UNDERWOOD My name is Chad Underwood. My callsign is &#x27;Nutz&#x27;. I was a lieutenan...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: boingboing.net  
    Title: navy ufo moves with camera mechanisms in glaring problem for alien fans  
-   Link: [https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html](https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html)  
+   Link: <a href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Navy UFO&quot; moves with camera mechanisms in glaring...14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: quick guide to modern video analysis techniques for uap and ufos  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide to Modern Video Analysis Techniques for UAP...Short for “Situation Recreation,” this tool was originally designed to analyze...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: interestingengineering.com  
    Title: Second UAP file release adds videos and testimony  
-   Link: [https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo](https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo)  
+   Link: <a href="https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases second batch of UAP files and videos...22 May 2026 — Pentagon&#x27;s second UFO files reveal aerial sightings over conflict...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS](https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS)  
+   Link: <a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IR Glare Hypothesis. Mick West · 3:55 · Gimbal UFO: New Footage Proves Glare Rotation.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/](https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/)  
+   Link: <a href="https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ravor&#x27;s plane, Underwood&#x27;s plane was equipped with a state-of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/](https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/)  
+   Link: <a href="https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nveiling a second tranche of records that includes a 2025...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/](https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/)  
+   Link: <a href="https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iles on Friday, revealing additional videos and documents...</p></details>

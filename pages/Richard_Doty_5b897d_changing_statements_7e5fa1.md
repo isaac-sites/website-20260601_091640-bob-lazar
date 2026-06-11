@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /was-richard-doty-an-insider-or/
 nav_short_title: Statements
 title: How Consistent Are Doty's Public Stories?
-title_full: How Consistent Are Doty's Public Stories? | Doty
+title_full: How Consistent Are Doty's Public Stories?
 display_title_short: Statements
 display_title: Statements
 heading_title: How Consistent Are Doty's Public Stories?
@@ -289,7 +289,7 @@ next_link:
   permalink: /supporters/
   short_title: Supporters
   heading_title: Why Do Some Ufologists Still Trust Doty?
-date: '2026-06-09 02:54:43 '
+date: '2026-06-11 21:02:43 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview-so
 
 ## Introduction
 
-[Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s public credibility problem is not only that he has been accused of spreading UFO disinformation. It is that his later public identity depends on a difficult reversal: the former AFOSI-linked figure who says he helped feed false UFO stories to researchers has also continued to present himself as someone with insider knowledge about alien bodies, secret programmes, classified documents and cover-ups. That creates a central contradiction. If Doty was telling false stories then, readers have to ask why his later stories should be treated as more reliable now. If he was telling partial truths inside disinformation, the problem becomes even harder: which parts were deception, which parts were authorised, and which parts were later self-protection or performance? <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">in Science and Technology UFOs Won&#x27;t Go Away</span></span></span>
-
+Richard Doty’s public credibility problem is not only that he has been accused of spreading UFO disinformation. It is that his later public identity depends on a difficult reversal: the former AFOSI-linked figure who says he helped feed false UFO stories to researchers has also continued to present himself as someone with insider knowledge about alien bodies, secret programmes, classified documents and cover-ups. That creates a central contradiction. If Doty was telling false stories then, readers have to ask why his later stories should be treated as more reliable now. If he was telling partial truths inside disinformation, the problem becomes even harder: which parts were deception, which parts were authorised, and which parts were later self-protection or performance? <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">in Science and Technology UFOs Won&#x27;t Go Away</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview.webp" | relative_url }}" alt="Overview image for Statements" loading="eager" decoding="sync" fetchpriority="high">
 The strongest evidence supports a narrow conclusion: Doty really was connected to the UFO-disinformation story around Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}), and his name is tied to a documented pattern of claims, denials, re-framings and media retellings. The weaker evidence is the expansive part of his later narrative: claims that move from “I misled UFO researchers” to “I can still tell you what was really behind the curtain”. That jump is where most critics place the credibility break. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Richard Doty Personnel File – New Mexico State Police</span><span class="citation-popover-snippet">Richard Doty Personnel File – New Mexico State Police</span></span></span>
@@ -314,14 +313,13 @@ The consistency test is therefore simple but demanding: has Doty separated clear
 
 ## Early Disinformation Accounts
 
-The earliest and most important consistency issue is the Paul [Bennewitz affair]({{ 'bennewitz/' | relative_url }}). Bennewitz was an Albuquerque businessman and UFO investigator who lived near Kirtland Air Force Base and became convinced that lights and electronic signals he observed were connected to extraterrestrial activity. Later accounts, including *[Mirage Men]({{ 'mirage-men/' | relative_url }})* reporting and summaries of the case, describe Doty as one of the official or semi-official figures who encouraged Bennewitz’s alien interpretation rather than correcting it. The Guardian’s account of *Mirage Men* says Doty and others fed UFO researchers “lies and half-truths”, while Bennewitz was encouraged to go deeper into a belief system that eventually consumed his life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The earliest and most important consistency issue is the Paul Bennewitz affair. Bennewitz was an Albuquerque businessman and UFO investigator who lived near Kirtland Air Force Base and became convinced that lights and electronic signals he observed were connected to extraterrestrial activity. Later accounts, including *[Mirage Men]({{ 'mirage-men/' | relative_url }})* reporting and summaries of the case, describe Doty as one of the official or semi-official figures who encouraged Bennewitz’s alien interpretation rather than correcting it. The Guardian’s account of *Mirage Men* says Doty and others fed UFO researchers “lies and half-truths”, while Bennewitz was encouraged to go deeper into a belief system that eventually consumed his life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Doty’s later public admissions or semi-admissions are a major reason this episode is so damaging. He is not simply accused by outsiders of deception; he has appeared in media contexts where the story is that he helped mislead UFO researchers. The science-and-technology policy writer Keith Kloor summarised the issue bluntly: Doty “came forward to say” that he deliberately gave false information to UFO researchers while assigned to Kirtland in the 1980s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-title">in Science and Technology UFOs Won&#x27;t Go Away</span><span class="citation-popover-snippet">in Science and Technology UFOs Won&#x27;t Go Away</span></span></span>
 
 The contradiction is not just moral. It is evidential. Doty’s later [authority]({{ 'authority/' | relative_url }}) often rests on the idea that he was inside the system and knows what was real. But his early public significance rests on the idea that he was inside a system that mixed real military secrecy with invented alien narratives. Once that is established, a reader cannot safely treat later insider detail as self-authenticating. His claimed access may explain how he could have known more than outsiders, but it also explains how he could have manufactured more convincing falsehoods.
 
 There is also a narrower institutional point. AFOSI’s own historical material confirms that Air Force investigators had long been involved in UFO-report handling under Projects Sign, Grudge and Blue Book, especially through District 17 at Kirtland Air Force Base. That does not verify Doty’s most dramatic claims, but it does show why a Kirtland-linked AFOSI figure could plausibly sit at the intersection of real investigations, Cold War secrecy, civilian UFO interest and counterintelligence concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</span></span></span>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-1-dark.svg" | relative_url }}" alt="Statements illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From “I Misled Them” to “I Know the Real Story”
@@ -343,7 +341,6 @@ Doty’s link to the MJ-12 ecosystem is contested in detail but central in perce
 The key credibility issue is provenance. A document that appears mysteriously, lacks a clean chain of custody, contains format or historical problems, and is later judged bogus by official or archival reviewers cannot be rescued simply because a former intelligence-linked figure says it points towards a hidden truth. In Doty’s case, the problem is sharper because he is associated with a milieu in which forged or misleading papers were allegedly part of the method.
 
 This does not prove that every secret UFO document is false, nor does it prove Doty authored every questionable paper attributed to his orbit. It does mean that document-based claims connected to him should be treated as high-risk until independently authenticated. For a reader assessing credibility, “Doty says he saw it” or “Doty says the document reflects a real programme” is not enough.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SSTsW_wFn_U" title="The Feds Told Him to Chase Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer">The Feds Told Him to Chase Aliens</a></p><p class="youtube-embed-meta">Channel: Oki&#x27;s Weird Stories &middot; Views: 410.8K &middot; Uploaded: October 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SSTsW_wFn_U">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +364,6 @@ But verified employment is not the same as verified truthfulness about alien pro
 
 The risk, then, is circular authority. Doty is treated as credible because he sounds like an insider; he sounds like an insider because he uses the vocabulary and posture of classified access; and the classified-access frame prevents ordinary verification. That loop is exactly what the Bennewitz and MJ-12 stories warn readers to resist.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-2-dark.svg" | relative_url }}" alt="Statements illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patterns Critics Say Undermine Reliability
 
@@ -383,7 +379,6 @@ Critics do not usually argue that Doty’s story changes in only one simple way.
 
 **Fifth, the human consequences of the Bennewitz affair raise the stakes.** Bennewitz’s deterioration and hospitalisation are part of why Doty is not treated merely as a colourful UFO raconteur. Accounts of the case describe a man whose beliefs were reinforced rather than corrected by people who knew more than he did. Even if details remain disputed, the episode makes later Doty claims ethically and evidentially harder to separate from a pattern of manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbRdAlFThu4" title="Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1 | Full UAP Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer">Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1 | Full UAP Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 13.4K &middot; Uploaded: January 2026 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbRdAlFThu4">Open on YouTube</a></p></div></div></div>
 
 ## What Supporters Can Still Argue
@@ -397,7 +392,6 @@ A second argument is that Doty may have been a low-level operator rather than th
 A third argument is that blanket rejection may be too easy. UFO history includes genuine official secrecy, real classified aircraft, real surveillance concerns and real institutional reluctance to discuss unusual reports. AFOSI’s own historical account of earlier UFO investigations shows that official involvement in UFO reporting was not imaginary, even though Project Blue Book concluded there was no evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">project blue book part 1 ufo reports</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</span></span></span>
 
 These arguments keep Doty relevant, but they do not restore full credibility. They support the possibility that his accounts contain historically useful fragments. They do not justify accepting his later alien-related claims without independent corroboration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XS8WGTqBBik" title="Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer">Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary</a></p><p class="youtube-embed-meta">Channel: BingeWorthy Documentaries &middot; Views: 9.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XS8WGTqBBik">Open on YouTube</a></p></div></div></div>
 
@@ -414,7 +408,6 @@ The best way to read Doty is not to ask, “Is he telling the truth or lying?”
 **Unverified insider expansion:** Claims about alien bodies, exchange programmes, secret committees or recovered craft require evidence beyond Doty’s say-so. Where the claim overlaps with MJ-12-style documents or Serpo-style narratives, the reliability risk rises sharply because the surrounding evidence is weak, disputed or officially rejected. FBI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This framework avoids both extremes. It does not pretend Doty is irrelevant, because his role in UFO disinformation history is important. It also does not reward contradiction by treating every later revelation as a deeper layer of truth.
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-3-dark.svg" | relative_url }}" alt="Statements illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom Line
@@ -435,16 +428,16 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Examines contradictions, disinformation, and shifting accounts.</p>
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -452,16 +445,16 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Provides historical grounding for evaluating later statements.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -469,16 +462,16 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Helps readers understand how narratives evolve and persist.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -486,16 +479,16 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Recent UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oEVi0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Recent UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
         </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+        <p class="fr-book-author">By Charles River</p>
         
-        <p class="fr-book-desc">Offers an external framework for assessing claims and sources.</p>
+        <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -503,7 +496,7 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -540,15 +533,15 @@ The result is a credibility profile with a strong warning attached. Doty is usef
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;"><img src="https://i.ebayimg.com/images/g/Y0gAAOSw0LlnzfYK/s-l225.jpg" alt="Listing image for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +549,15 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Michael Schenker Photo Original Black And White Press Promo November 1985"><img src="https://i.ebayimg.com/images/g/2IEAAOSwxQBnMgB1/s-l225.jpg" alt="Listing image for UFO Michael Schenker Photo Original Black And White Press Promo November 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Michael Schenker Photo Original Black And White Press Promo November 1985</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +565,15 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="https://i.ebayimg.com/images/g/yn0AAOSw~r1htoYO/s-l225.jpg" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +581,15 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="https://i.ebayimg.com/images/g/cOkAAOSwQb5hqPMn/s-l225.jpg" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +597,7 @@ The result is a credibility profile with a strong warning attached. Doty is usef
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="statements-how-consistent-are-doty-s-public-stories-richard-doty-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-consistent-are-doty-s-public-stories-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="how-consistent-are-doty-s-public-stories-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -820,147 +813,147 @@ The result is a credibility profile with a strong warning attached. Doty is usef
 1. <a id="endnote-1"></a>
    Source: issues.org  
    Title: in Science and Technology UFOs Won't Go Away  
-   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
 
 2. <a id="endnote-2"></a>
    Source: theblackvault.com  
    Title: Richard Doty Personnel File – New Mexico State Police  
-   Link: [https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/](https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/</a>  
 
 3. <a id="endnote-3"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: [https://vault.fbi.gov/Majestic%2012](https://vault.fbi.gov/Majestic%2012)  
+   Link: <a href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Majestic%2012</a>  
 
 5. <a id="endnote-5"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/search?SearchableText=Majestic](https://vault.fbi.gov/search?SearchableText=Majestic)  
+   Link: <a href="https://vault.fbi.gov/search?SearchableText=Majestic" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=Majestic</a>  
 
 6. <a id="endnote-6"></a>
    Source: hybridsrising.com  
-   Link: [https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html](https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html)  
+   Link: <a href="https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html" target="_blank" rel="noopener noreferrer nofollow">https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 8. <a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/remoteviewing/stargate/STARGATE%20%2313%20587/Part0004/CIA-RDP96-00792R000400300004-7.TXT](https://documents.theblackvault.com/documents/remoteviewing/stargate/STARGATE%20%2313%20587/Part0004/CIA-RDP96-00792R000400300004-7.TXT)  
+   Link: <a href="https://documents.theblackvault.com/documents/remoteviewing/stargate/STARGATE%20%2313%20587/Part0004/CIA-RDP96-00792R000400300004-7.TXT" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/remoteviewing/stargate/STARGATE%20%2313%20587/Part0004/CIA-RDP96-00792R000400300004-7.TXT</a>  
 
 9. <a id="endnote-9"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: majestic 12  
-   Link: [https://www.theblackvault.com/documentarchive/majestic-12/](https://www.theblackvault.com/documentarchive/majestic-12/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/majestic-12/</a>  
 
 11. <a id="endnote-11"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/search?Subject%3Alist=Unexplained+Phenomenon](https://vault.fbi.gov/search?Subject%3Alist=Unexplained+Phenomenon)  
+   Link: <a href="https://vault.fbi.gov/search?Subject%3Alist=Unexplained+Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?Subject%3Alist=Unexplained+Phenomenon</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
 
 15. <a id="endnote-15"></a>
    Source: dailygrail.com  
    Title: Mirage Men  
-   Link: [https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/](https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/)  
+   Link: <a href="https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2013/06/a-fractured-hall-of-mirrors/</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: [https://en.wikipedia.org/wiki/Majestic_12](https://en.wikipedia.org/wiki/Majestic_12)  
+   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: [https://es.wikipedia.org/wiki/Paul_Bennewitz](https://es.wikipedia.org/wiki/Paul_Bennewitz)  
+   Link: <a href="https://es.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
 20. <a id="endnote-20"></a>
    Source: journals.ala.org  
-   Link: [https://journals.ala.org/index.php/dttp/article/view/7028/9553](https://journals.ala.org/index.php/dttp/article/view/7028/9553)  
+   Link: <a href="https://journals.ala.org/index.php/dttp/article/view/7028/9553" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/7028/9553</a>  
 
 21. <a id="endnote-21"></a>
    Source: e-flux.com  
-   Link: [https://www.e-flux.com/film/556599/doty](https://www.e-flux.com/film/556599/doty)  
+   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Air Force Officer FINALLY Comes Clean About UFO's | UFO Whistleblower #1  
-   Link: [https://www.youtube.com/watch?v=xbRdAlFThu4](https://www.youtube.com/watch?v=xbRdAlFThu4)  
+   Link: <a href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xbRdAlFThu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For an in-depth exploration of this topic, the Mirage Men Full Documentary is highly relevant as it features Richard Doty himself detaili...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Part Two: How The U.S. Government Used Aliens To Destroy a Man's Mind  
-   Link: [https://www.youtube.com/watch?v=2cD5WETr_DA](https://www.youtube.com/watch?v=2cD5WETr_DA)  
+   Link: <a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=XS8WGTqBBik](https://www.youtube.com/watch?v=XS8WGTqBBik)  
+   Link: <a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XS8WGTqBBik</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How the US Government Shaped the UFO Mythology  
-   Link: [https://www.youtube.com/watch?v=409SD8MJL7A](https://www.youtube.com/watch?v=409SD8MJL7A)  
+   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0001505261](https://www.cia.gov/readingroom/document/0001505261)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0001505261" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0001505261</a>  
 
 27. <a id="endnote-27"></a>
    Source: media.defense.gov  
-   Link: [https://media.defense.gov/2021/Jul/13/2002761346/-1/-1/0/REPORT_UFO_CRASH_FALSE.PDF](https://media.defense.gov/2021/Jul/13/2002761346/-1/-1/0/REPORT_UFO_CRASH_FALSE.PDF)  
+   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761346/-1/-1/0/REPORT_UFO_CRASH_FALSE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761346/-1/-1/0/REPORT_UFO_CRASH_FALSE.PDF</a>  
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/107283258/A_Probability_Assessment_On_Six_Responses_To_the_Extraterrestrial_Hypothesis](https://www.academia.edu/107283258/A_Probability_Assessment_On_Six_Responses_To_the_Extraterrestrial_Hypothesis)  
+   Link: <a href="https://www.academia.edu/107283258/A_Probability_Assessment_On_Six_Responses_To_the_Extraterrestrial_Hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107283258/A_Probability_Assessment_On_Six_Responses_To_the_Extraterrestrial_Hypothesis</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KRDO13/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1406209824883155/](https://www.facebook.com/KRDO13/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1406209824883155/)  
+   Link: <a href="https://www.facebook.com/KRDO13/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1406209824883155/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1406209824883155/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DrMichaelSalla/posts/a-researcher-has-found-classified-markings-in-leaked-majestic-12-documents-that-/1487088119452092/](https://www.facebook.com/DrMichaelSalla/posts/a-researcher-has-found-classified-markings-in-leaked-majestic-12-documents-that-/1487088119452092/)  
+   Link: <a href="https://www.facebook.com/DrMichaelSalla/posts/a-researcher-has-found-classified-markings-in-leaked-majestic-12-documents-that-/1487088119452092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DrMichaelSalla/posts/a-researcher-has-found-classified-markings-in-leaked-majestic-12-documents-that-/1487088119452092/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WATE6OnYourSide/posts/a-retired-army-intelligence-officer-and-longtime-ufo-investigator-is-warning-the/4832836400082310/](https://www.facebook.com/WATE6OnYourSide/posts/a-retired-army-intelligence-officer-and-longtime-ufo-investigator-is-warning-the/4832836400082310/)  
+   Link: <a href="https://www.facebook.com/WATE6OnYourSide/posts/a-retired-army-intelligence-officer-and-longtime-ufo-investigator-is-warning-the/4832836400082310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WATE6OnYourSide/posts/a-retired-army-intelligence-officer-and-longtime-ufo-investigator-is-warning-the/4832836400082310/</a>

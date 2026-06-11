@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /off-world-claim/
 nav_short_title: AARO Sample
 title: What happened to the alleged off world sample?
-title_full: What happened to the alleged off world sample? | Off World Claim
+title_full: What happened to the alleged off world sample?
 display_title_short: AARO Sample
 display_title: AARO Sample
 heading_title: What happened to the alleged off world sample?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What About The Off World Vehicles Claim? | Davis
+parent_title: What About The Off World Vehicles Claim?
 parent_permalink: /off-world-claim/
 parent_nav_short_title: Off World Claim
 parent_heading_title: What About The Off World Vehicles Claim?
@@ -247,7 +247,7 @@ next_link:
   permalink: /briefing-trail/
   short_title: Briefing Trail
   heading_title: Who actually heard the off world claim?
-date: '2026-06-09 03:05:03 '
+date: '2026-06-11 21:07:28 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_
 
 ## Introduction
 
-The strongest public test of recent claims about recovered “off-world” technology did not come from a whistleblower interview or a leaked story. It came from a laboratory analysis. In 2024, the Pentagon’s All-domain Anomaly Resolution Office (AARO) said that a metal sample promoted as possible extraterrestrial material was, after examination, an ordinary terrestrial alloy with no demonstrated exotic properties. That finding matters because it directly intersects with the kind of claims associated with figures such as <a href="https://en.wikipedia.org/wiki/Eric_W._Davis_(physicist)">[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})</a>, whose reported comments about retrieved “off-world vehicles” helped drive public interest in alleged crash-retrieval and reverse-engineering programmes.
-
+The strongest public test of recent claims about recovered “off-world” technology did not come from a whistleblower interview or a leaked story. It came from a laboratory analysis. In 2024, the Pentagon’s All-domain Anomaly Resolution Office (AARO) said that a metal sample promoted as possible extraterrestrial material was, after examination, an ordinary terrestrial alloy with no demonstrated exotic properties. That finding matters because it directly intersects with the kind of claims associated with figures such as <a href="https://en.wikipedia.org/wiki/Eric_W._Davis_(physicist)">Eric Davis</a>, whose reported comments about retrieved “off-world vehicles” helped drive public interest in alleged crash-retrieval and reverse-engineering programmes.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1-dark.svg" | relative_url }}" alt="AARO Sample illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The sample result did not prove that every crash-retrieval claim is false. What it did do was expose a recurring problem in the UFO/UAP [debate]({{ 'debate/' | relative_url }}): dramatic claims often circulate for years before reaching a point where physical evidence can be independently tested, and when a concrete sample is finally examined, the result may be far less extraordinary than the story surrounding it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Meta...</span></span></span>
 
 ## What happened to the alleged off-world sample?
 
-AARO's March 2024 historical review included a specific case involving a material allegedly recovered from an extraterrestrial craft. According to the report, investigators learned from an interviewee that a private-sector organisation claimed to possess material from a crashed non-human vehicle supposedly recovered sometime in the 1940s or 1950s. The material was said to have unusual properties connected to terahertz-frequency waveguides and alleged effects described as “anti-gravity” or mass reduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/32Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Al...</span></span></span>
+AARO's March 2024 historical review included a specific case involving a material allegedly recovered from an extraterrestrial craft. According to the report, investigators learned from an interviewee that a private-sector organisation claimed to possess material from a crashed non-human vehicle supposedly recovered sometime in the 1940s or 1950s. The material was said to have unusual properties connected to terahertz-frequency waveguides and alleged effects described as “anti-gravity” or mass reduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/32Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Al...</span></span></span>
 
 Rather than relying on testimony alone, AARO arranged scientific examination of the specimen. The material was analysed with assistance from Oak Ridge National Laboratory, one of the United States government's leading research laboratories. The result was far more mundane than the claim.
 
@@ -273,9 +272,9 @@ AARO stated that the specimen was:
 * A metallic alloy.
 * Terrestrial in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">on the Historical Record of US Government...10 May 2024 — AARO determined that a piece of metal alleged to be recovered from an off-worl...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 * Lacking exceptional or anomalous properties.
-* Possibly connected to historical US Air Force-related manufacturing rather than any non-human source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">on the Historical Record of US Government...10 May 2024 — AARO determined that a piece of metal alleged to be recovered from an off-worl...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* Possibly connected to historical US Air Force-related manufacturing rather than any non-human source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">on the Historical Record of US Government...10 May 2024 — AARO determined that a piece of metal alleged to be recovered from an off-worl...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The office summarised its conclusion bluntly: a piece of metal alleged to have come from an off-world spacecraft was found to be ordinary material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The office summarised its conclusion bluntly: a piece of metal alleged to have come from an off-world spacecraft was found to be ordinary material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 This is one of the few publicly documented cases in which a claimed UFO “metamaterial” advanced from rumour and testimony to laboratory review under official scrutiny.
 
@@ -284,10 +283,6 @@ This is one of the few publicly documented cases in which a claimed UFO “metam
 The importance of the finding is not that it settled the entire UFO question. Its significance is methodological.
 
 Many crash-retrieval narratives rely on several layers of indirect evidence:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I8bKWzWfMvE" title="Pentagon Has Off-World Vehicles Not Made on This Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer">Pentagon Has Off-World Vehicles Not Made on This Earth</a></p><p class="youtube-embed-meta">Channel: Lew Later &middot; Views: 514.5K &middot; Uploaded: July 2020 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I8bKWzWfMvE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -300,7 +295,7 @@ Many crash-retrieval narratives rely on several layers of indirect evidence:
 
 At each stage, public verification becomes harder.
 
-The AARO sample represented a rare opportunity to test a physical object rather than evaluate stories about one. When examined, the object did not support the extraordinary claims attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</span></span></span>
+The AARO sample represented a rare opportunity to test a physical object rather than evaluate stories about one. When examined, the object did not support the extraordinary claims attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</span></span></span>
 
 For readers assessing the credibility of figures such as Eric Davis, that distinction is important. Davis became associated with allegations that recovered craft or materials existed somewhere within classified systems. The AARO case demonstrates that claims about unusual materials can sound persuasive before laboratory testing but still fail when subjected to detailed analysis.
 
@@ -308,19 +303,18 @@ The broader historical pattern is familiar. Throughout decades of UFO investigat
 
 In that sense, the AARO result functions as a concrete counterexample to the assumption that possession of an unusual metal automatically implies extraterrestrial origin.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-2-dark.svg" | relative_url }}" alt="AARO Sample illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The connection to reverse-engineering claims
 
 The sample finding appeared inside a much larger AARO review of allegations that the US government and defence contractors had secretly recovered and reverse-engineered alien technology.
 
-That review concluded that investigators found no empirical evidence supporting claims that government agencies or private companies had successfully conducted reverse-engineering programmes involving extraterrestrial hardware. AARO also reported that many named companies and officials denied involvement when interviewed on the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology.Read more</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+That review concluded that investigators found no empirical evidence supporting claims that government agencies or private companies had successfully conducted reverse-engineering programmes involving extraterrestrial hardware. AARO also reported that many named companies and officials denied involvement when interviewed on the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The sample case became one of the report's most tangible examples because it moved beyond witness testimony. Instead of evaluating memories, rumours or compartmented-programme stories, investigators could examine an actual object.
 
 This matters when considering the public credibility gap around “off-world vehicles”. Davis's reported statements generated attention partly because they implied physical artefacts existed somewhere within government or contractor possession. If such artefacts exist, many observers argue that material analysis should eventually provide the strongest evidence.
 
-The AARO sample points in the opposite direction. At least in this documented instance, a supposedly extraordinary material was not extraordinary when tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+The AARO sample points in the opposite direction. At least in this documented instance, a supposedly extraordinary material was not extraordinary when tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 ## Why critics still do not regard the case as settled
 
@@ -337,8 +331,7 @@ Some observers have also pointed out that AARO's report did not publicly identif
 
 These objections do not validate the extraterrestrial interpretation. They simply explain why the debate continued even after the laboratory result was released.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JfQ51ESeXj0" title="Video captures flying objects that officials can&#x27;t explain (2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JfQ51ESeXj0" target="_blank" rel="noopener noreferrer">Video captures flying objects that officials can&#x27;t explain (2020)</a></p><p class="youtube-embed-meta">Channel: CNN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JfQ51ESeXj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JfQ51ESeXj0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I8bKWzWfMvE" title="Pentagon Has Off-World Vehicles Not Made on This Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer">Pentagon Has Off-World Vehicles Not Made on This Earth</a></p><p class="youtube-embed-meta">Channel: Lew Later &middot; Views: 514.5K &middot; Uploaded: July 2020 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I8bKWzWfMvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I8bKWzWfMvE">Open on YouTube</a></p></div></div></div>
 
 ## What the finding does not settle
 
@@ -352,10 +345,9 @@ It did not disprove the possibility that undisclosed aerospace programmes exist.
 
 It did not definitively resolve allegations made by Eric Davis, David Grusch, Hal Puthoff, or other figures associated with crash-retrieval discussions.
 
-What it did provide was a measurable benchmark. AARO's review showed what happens when a specific physical claim reaches a stage where testing becomes possible. In that instance, the extraordinary interpretation failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</span></span></span>
+What it did provide was a measurable benchmark. AARO's review showed what happens when a specific physical claim reaches a stage where testing becomes possible. In that instance, the extraordinary interpretation failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</span></span></span>
 
 For the wider “off-world vehicles” debate, that is arguably the central lesson. Public discussions are often dominated by insider accounts, classified briefings, unnamed sources and second-hand testimony. The sample case demonstrates how dramatically the evidential picture can change once a claim leaves the realm of narrative and enters the realm of laboratory examination.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-3-dark.svg" | relative_url }}" alt="AARO Sample illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The larger public-proof gap
@@ -369,10 +361,6 @@ Believers argue that the absence of public proof may reflect secrecy.
 Sceptics argue that decades of extraordinary claims should by now have produced stronger physical evidence than stories, recollections and classified assertions.
 
 The analysed alloy sits directly in the middle of that dispute. It is one of the rare occasions where an alleged piece of “off-world” material became a testable object. The result did not support the extraterrestrial claim. That does not close the wider debate, but it does illustrate why the burden of proof remains so high for claims about recovered non-human vehicles. Until comparable materials are independently examined and shown to possess genuinely unexplained properties, the public evidence remains far weaker than the claims themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 —... reverse-engineering extraterrestrial technology...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uS5G3OnRjPg" title="Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer">Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction</a></p><p class="youtube-embed-meta">Channel: Ben Lovegrove &middot; Views: 43.8K &middot; Uploaded: around July 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uS5G3OnRjPg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -491,15 +479,15 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,15 +495,15 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit"><img src="{{ '/assets/images/marketplace-covers/ebe3cf393219aa33bee6.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator UFO Spaceship + Stand Movie 3D Printed Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -523,15 +511,15 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +527,15 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,7 +543,7 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="aaro-sample-what-happened-to-the-alleged-off-world-sample-eric-davis-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-alleged-off-world-sample-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-to-the-alleged-off-world-sample-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,145 +759,145 @@ The analysed alloy sits directly in the middle of that dispute. It is one of the
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Meta...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/32Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Al...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/32</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/32Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Al...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: [https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2](https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2)  
+   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — AARO determined that a piece of metal alleged to be recovered from an off-worl...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companies have been...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology.Read more  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
    Published: May 2024  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/](https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...8 Mar 2024 —... reverse-engineering extraterrestrial technology...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wired.com  
    Title: The 4 Big Questions the Pentagon's New UFO Report Fails to Answer  
-   Link: [https://www.wired.com/story/questions-pentagon-ufo-report](https://www.wired.com/story/questions-pentagon-ufo-report)  
+   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Material Recovered from a UAP Crash Denied on the Record... Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Alloy...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more  
-   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
    Published: May 2024  
 
 12. <a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/94 May 2024 — AARO assesses that the inaccurate claim that the USG is...</p></details>
    Published: May 2024  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office... found &quot;no empirical evidence&quot; of alien technology. Contents... &quot;Pentagon UFO office finds &#x27;no...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pentagon UFO unit to publicly release some findings after ex-official says &#x27;off-world vehicle&#x27; found&quot;.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Consultant Briefed Senators on &#x27;Off-World...24 Jul 2020 — Davis said that in some cases he had failed to determine the source o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994](https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994)  
+   Link: <a href="https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Metal Shard Probably Isn&#x27;t Evidence Of Alien...Sep 18, 2024 — The metal had the potential to rewrite history if it could be prov...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — A long-hidden UFO investigative unit within the Pentagon will...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pentagonufofiles.io  
-   Link: [https://pentagonufofiles.io/](https://pentagonufofiles.io/)  
+   Link: <a href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow">https://pentagonufofiles.io/</a>  
 
 22. <a id="endnote-22"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen](https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen)  
+   Link: <a href="https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/809922037/AAROs-Supplement-to-ORNLs-Analysis-of-a-Metallic-Specimen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uploaded by. garrettgooding. AI... 27, pp 112-115. 10 (U) Report, Light Metals and the Thermal Frontier; Perry...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gizmodo.com  
    Title: pentagon publishes report on material from a reported alien aircraft 2000469433  
-   Link: [https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433](https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433)  
+   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — The All-domain Anomaly Resolution Office (AARO)—the DoD&#x27;s UFO inve...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: [https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/](https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>

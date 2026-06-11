@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aaro-report-8d3982/
 nav_short_title: Witness Claims
 title: What happened to the named alien retrieval leads?
-title_full: What happened to the named alien retrieval leads? | AARO Report
+title_full: What happened to the named alien retrieval leads?
 display_title_short: Witness Claims
 display_title: Witness Claims
 heading_title: What happened to the named alien retrieval leads?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did AARO Close The Crash Retrieval Story? | Kirkpatrick
+parent_title: Did AARO Close The Crash Retrieval Story?
 parent_permalink: /aaro-report-8d3982/
 parent_nav_short_title: AARO Report
 parent_heading_title: Did AARO Close The Crash Retrieval Story?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /material-sample/
   short_title: Material Sample
   heading_title: Was the alleged alien material just an alloy?
-date: '2026-06-09 02:58:13 '
+date: '2026-06-11 21:04:34 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1.webp
@@ -256,18 +256,16 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_
 
 ## Introduction
 
-One of the most important parts of the debate over alleged alien crash-retrieval programmes is not the broad claim that such programmes exist, but what happens when specific stories are attached to specific people, companies and documents. Under [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})'s leadership, the All-domain Anomaly Resolution Office (AARO) attempted to move beyond anonymous testimony and test named allegations against records and direct witnesses. The result was a series of denials, signed statements and documentary findings that became central to AARO's argument that many retrieval narratives collapse when examined in detail. At the same time, critics argue that official denials are not equivalent to proof that the allegations were false. The dispute therefore turns less on belief versus scepticism than on competing standards of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</span></span></span>
-
+One of the most important parts of the debate over alleged alien crash-retrieval programmes is not the broad claim that such programmes exist, but what happens when specific stories are attached to specific people, companies and documents. Under Sean Kirkpatrick's leadership, the All-domain Anomaly Resolution Office (AARO) attempted to move beyond anonymous testimony and test named allegations against records and direct witnesses. The result was a series of denials, signed statements and documentary findings that became central to AARO's argument that many retrieval narratives collapse when examined in detail. At the same time, critics argue that official denials are not equivalent to proof that the allegations were false. The dispute therefore turns less on belief versus scepticism than on competing standards of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1-dark.svg" | relative_url }}" alt="Witness Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The CIA official, military officer and company claims
 
 AARO's historical report devoted unusual attention to a set of retrieval-related allegations that could be checked against identifiable individuals. Rather than treating all crash-retrieval stories as a single category, the office examined particular claims and reported what happened when investigators contacted the named participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</span></span></span>
 
-One of the most notable examples involved a former CIA official who had been identified by interviewees as someone allegedly involved in moving and experimenting on recovered "off-world" technology. According to AARO, the former official denied the allegation and signed a memorandum rejecting the claim that he had managed any programme involving extraterrestrial materials. For Kirkpatrick and AARO, this was significant because the allegation had progressed beyond rumour into a claim involving a named person who could be questioned directly. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> A second example concerned an allegation that a former military officer had personally touched an extraterrestrial craft and later describedthe experience in detail. AARO reported that the officer denied the story on the record. According to the report, the officer instead recalled touching an F-117 Nighthawk stealth aircraft, a classified platform whose unusual appearance might have been misunderstood or retold as an encounter with non-human technology. AARO judged the retrieval story inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+One of the most notable examples involved a former CIA official who had been identified by interviewees as someone allegedly involved in moving and experimenting on recovered "off-world" technology. According to AARO, the former official denied the allegation and signed a memorandum rejecting the claim that he had managed any programme involving extraterrestrial materials. For Kirkpatrick and AARO, this was significant because the allegation had progressed beyond rumour into a claim involving a named person who could be questioned directly. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> A second example concerned an allegation that a former military officer had personally touched an extraterrestrial craft and later describedthe experience in detail. AARO reported that the officer denied the story on the record. According to the report, the officer instead recalled touching an F-117 Nighthawk stealth aircraft, a classified platform whose unusual appearance might have been misunderstood or retold as an encounter with non-human technology. AARO judged the retrieval story inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The report also addressed claims involving private industry. Interviewees had identified specific companies as allegedly possessing recovered alien technology or participating in reverse-engineering efforts. AARO stated that it met executives, scientists and chief technology officers from the named firms and that those officials denied possessing, recovering or attempting to reverse-engineer extraterrestrial technology. AARO reported finding no evidence that any US company had possessed "off-world" material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">MetabunkAARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 —... former CIA official was not involved in the movement of extraterrestrial...</span></span></span> These cases mattered because they represented the strongest version of AARO's argument. The office was not merely saying that evidence was absent; it was saying that when concrete leads were followed, the individuals involved either rejected the stories or pointed investigators towards conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
-
+The report also addressed claims involving private industry. Interviewees had identified specific companies as allegedly possessing recovered alien technology or participating in reverse-engineering efforts. AARO stated that it met executives, scientists and chief technology officers from the named firms and that those officials denied possessing, recovering or attempting to reverse-engineer extraterrestrial technology. AARO reported finding no evidence that any US company had possessed "off-world" material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 —... former CIA official was not involved in the movement of extraterrestrial...</span></span></span> These cases mattered because they represented the strongest version of AARO's argument. The office was not merely saying that evidence was absent; it was saying that when concrete leads were followed, the individuals involved either rejected the stories or pointed investigators towards conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3uKe5AoPKKo" title="Joe Speaks to Former CIA Officer Mike Baker About UFO Whistleblower&#x27;s Claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3uKe5AoPKKo" target="_blank" rel="noopener noreferrer">Joe Speaks to Former CIA Officer Mike Baker About UFO Whistleblower&#x27;s Claims</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.4M &middot; Uploaded: August 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3uKe5AoPKKo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3uKe5AoPKKo">Open on YouTube</a></p></div></div></div>
 
@@ -275,12 +273,11 @@ The report also addressed claims involving private industry. Interviewees had id
 
 The denial trail extended beyond people to documents and physical evidence.
 
-AARO reported that an alleged 1961 intelligence estimate frequently cited in UFO circles was inauthentic. It also reviewed an account in which an interviewee believed he had witnessed the testing of extraterrestrial technology at a government facility. According to the office, the description closely matched an authentic but non-UAP-related technology programme, leading investigators to conclude that the witness had likely observed a classified terrestrial activity rather than alien hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO reported that an alleged 1961 intelligence estimate frequently cited in UFO circles was inauthentic. It also reviewed an account in which an interviewee believed he had witnessed the testing of extraterrestrial technology at a government facility. According to the office, the description closely matched an authentic but non-UAP-related technology programme, leading investigators to conclude that the witness had likely observed a classified terrestrial activity rather than alien hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The office also examined a purported sample said to have originated from a crashed non-human craft. AARO concluded that the material was a manufactured terrestrial alloy and did not exhibit evidence of extraterrestrial origin or extraordinary properties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The office also examined a purported sample said to have originated from a crashed non-human craft. AARO concluded that the material was a manufactured terrestrial alloy and did not exhibit evidence of extraterrestrial origin or extraordinary properties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Taken together, these examples illustrate AARO's preferred investigative method. Instead of evaluating the overall plausibility of crash-retrieval claims, it attempted to trace individual stories back to named sources, physical samples or identifiable records and then determine whether those specific claims survived scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</span></span></span>
-
+Taken together, these examples illustrate AARO's preferred investigative method. Instead of evaluating the overall plausibility of crash-retrieval claims, it attempted to trace individual stories back to named sources, physical samples or identifiable records and then determine whether those specific claims survived scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-2-dark.svg" | relative_url }}" alt="Witness Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why denials and memos matter but do not end the debate
@@ -293,11 +290,9 @@ Another criticism is that some whistleblower claims, including those associated 
 
 This is why the debate persists. AARO's findings challenge specific stories, but believers often view those stories as only part of a larger body of testimony. Sceptics, by contrast, see the failure of named allegations as evidence that the broader narrative may be built on weak foundations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...March 22, 2024 — 22 Mar 2024 — Sean Kirkpatrick has faced threats for his work – and a new report concluding no eviden...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer">Analyzing Unidentified Aerial Phenomena</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer">Analyzing Unidentified Aerial Phenomena</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yADLnhfvVg4">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9ncpiLOTe8" title="Pentagon UFO Files Finally Revealed? The AARO Report Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer">Pentagon UFO Files Finally Revealed? The AARO Report Explained</a></p><p class="youtube-embed-meta">Channel: Thiện Thông TV &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9ncpiLOTe8">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yADLnhfvVg4" title="Analyzing Unidentified Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer">Analyzing Unidentified Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute &middot; Views: 9.8K &middot; Uploaded: March 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yADLnhfvVg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yADLnhfvVg4">Open on YouTube</a></p></div></div></div>
 
 ## What this says about Kirkpatrick's evidence standard
 
@@ -307,90 +302,47 @@ The historical report reflects that philosophy. AARO's strongest rebuttals were 
 
 For assessing Kirkpatrick's credibility, this distinction is important. His case does not rest primarily on proving that aliens do not exist. It rests on the narrower claim that the named retrieval leads examined by AARO did not produce evidence sufficient to support allegations of recovered non-human technology. Whether readers find that persuasive often depends on how much weight they give to direct denials, documentary review and institutional investigation compared with whistleblower testimony and the possibility that relevant evidence remains hidden. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarSean Kirkpatrick, Director of AARO. Dr. Kirkpatrick provided updates on the mission, activities, oversight, and bud...</span></span></span>
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-3-dark.svg" | relative_url }}" alt="Witness Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What happened to the named alien retrieval leads?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What happened to the named alien retrieval leads?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Addresses witness claims and government investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Centers on testimony, credibility and official witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">scientific UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Examines named sources and retrieval allegations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores credibility, insider stories and modern mythmaking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP investigation books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -427,15 +379,15 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge"><img src="https://i.ebayimg.com/images/g/xGQAAOSwxktdbtEZ/s-l225.jpg" alt="Listing image for 3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">3&quot; Area 51 UFO Alien X Files Conspiracy Sublimation Iron Or Sew On Patch Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -443,15 +395,15 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully"><img src="https://i.ebayimg.com/images/g/19kAAeSwU8Fpqx1I/s-l225.jpg" alt="Listing image for UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Embroidered Iron On Patch Goth Emo Punk Small X Files Mulder Scully</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -459,15 +411,15 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052"><img src="https://i.ebayimg.com/images/g/2y4AAOSwbYFftP6g/s-l225.jpg" alt="Listing image for Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Patch - I Want To Believe UFO Aliens X-Files Sci-Fi Embroidered Iron On #110052</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -475,15 +427,15 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On"><img src="https://i.ebayimg.com/images/g/2hYAAOSwd8Bgk-7r/s-l225.jpg" alt="Listing image for Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Astral Travel Alien Patch UFO X Files Roswell Embroidered Traveller Iron On</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,7 +443,7 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books -dvd" data-ebay-reference="witness-claims-what-happened-to-the-named-alien-retrieval-leads-sean-kirkpatrick-alien-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="what-happened-to-the-named-alien-retrieval-leads-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -707,134 +659,134 @@ For assessing Kirkpatrick's credibility, this distinction is important. His case
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by interviewees that he...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The same former CIA officer signed a memo rejecting a claim made by i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — The same former CIA officer signed a memo rejecting a claim...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 —... former CIA official was not involved in the movement of extraterrestrial...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 —... former CIA official was not involved in the movement of extraterrestrial...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...Mar 8, 2024 — &quot;AARO has found no verifiable evidence that any UAP...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wunc.org  
-   Link: [https://www.wunc.org/2023-07-27/u-s-recovered-non-human-biologics-from-ufo-crash-sites-former-intel-official-says](https://www.wunc.org/2023-07-27/u-s-recovered-non-human-biologics-from-ufo-crash-sites-former-intel-official-says)  
+   Link: <a href="https://www.wunc.org/2023-07-27/u-s-recovered-non-human-biologics-from-ufo-crash-sites-former-intel-official-says" target="_blank" rel="noopener noreferrer nofollow">https://www.wunc.org/2023-07-27/u-s-recovered-non-human-biologics-from-ufo-crash-sites-former-intel-official-says</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>recovered non-human &#x27;biologics&#x27; from UFO crash sites...27 Jul 2023 — A former Air Force intelligence officer who claimed the US governme...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: legion.org  
-   Link: [https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators](https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators)  
+   Link: <a href="https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/newsletters/2023/april/no-credible-evidence-of-ufo-activity-has-been-found-pentagon-official-tells-senators</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Legion&#x27;No credible evidence&#x27; of UFO activity has been found...20 Apr 2023 — “I state clearly for the record that in our re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — All-Domain Anomaly Resolution Office Director Sean Kirkpatrick he...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
    Title: Studies in Intelligence 68, No  
-   Link: [https://www.cia.gov/resources/csi/static/UNCLASSIFIED-EXTRACTS-Studies-68-1-March-2024-web.pdf](https://www.cia.gov/resources/csi/static/UNCLASSIFIED-EXTRACTS-Studies-68-1-March-2024-web.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/UNCLASSIFIED-EXTRACTS-Studies-68-1-March-2024-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/UNCLASSIFIED-EXTRACTS-Studies-68-1-March-2024-web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 (Extracts, March 2024)6 Jul 2023 — Retired intelligence officers and academics for decades have offered political risk analysis and ris...</p></details>
    Published: March 2024  
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...March 22, 2024 — 22 Mar 2024 — Sean Kirkpatrick has faced threats for his work – and a new report concluding no eviden...</p></details>
    Published: March 22, 2024  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/](https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarSean Kirkpatrick, Director of AARO. Dr. Kirkpatrick provided updates on the mission, activities, oversight, and bud...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAerospace Companies Denied Involvement in Recovering Extraterrestrial Craft AARO... The AA...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...Mar 8, 2024 — The Pentagon&#x27;s UFO office has once again stressed that it ha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: defensescoop.com  
    Title: pentagons uap office now investigating more than [650 cases](&#123;&#123; '650-cases/' | relative_url &#125;&#125;)  
-   Link: [https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/](https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/)  
+   Link: <a href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s nascent All-domain Anomaly Resolution Office (AARO)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: docs.house.gov  
    Title: former CIA official Ron Pandolfi, and former Rep. David D.Read more  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — In its report, AARO said it assessed as inaccurate the “claim that the USG is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: [https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/](https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/)  
+   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 11, 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and ha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ggpw0n/revealed_in_foia_by_british_news_sean_kirkpatrick/](https://www.reddit.com/r/UFOs/comments/1ggpw0n/revealed_in_foia_by_british_news_sean_kirkpatrick/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ggpw0n/revealed_in_foia_by_british_news_sean_kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ggpw0n/revealed_in_foia_by_british_news_sean_kirkpatrick/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ey issue to be addressed, the meeting memo added. Although Dr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: armed-services.senate.gov  
    Title: kirkpatrick statement  
-   Link: [https://www.armed-services.senate.gov/download/kirkpatrick-statement](https://www.armed-services.senate.gov/download/kirkpatrick-statement)  
+   Link: <a href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/kirkpatrick-statement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Armed Services CommitteeDr. Sean Kirkpatrick19 Apr 2023 — &#x27; The majority of unidentified objects reported to AARO demonstrate mund...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: [https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/](https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/)  
+   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office&quot;New official US government UFO report released, and sightings are way up&quot;. Boing Boing. Retrieved...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ifpLXP0poug](https://www.youtube.com/watch?v=ifpLXP0poug)  
+   Link: <a href="https://www.youtube.com/watch?v=ifpLXP0poug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ifpLXP0poug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Pentagon UFO Files Finally Revealed? The [AARO Report](&amp;#123;&amp;#123; &#x27;aaro-report-8d3982/&#x27; | relative_url &amp;#125;&amp;#125;) Explained...</p></details>

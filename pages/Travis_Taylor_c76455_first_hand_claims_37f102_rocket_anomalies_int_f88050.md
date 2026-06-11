@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claims/
 nav_short_title: Rocket claims
 title: Do The Rocket Tests Prove Anything Strange?
-title_full: Do The Rocket Tests Prove Anything Strange? | Claims
+title_full: Do The Rocket Tests Prove Anything Strange?
 display_title_short: Rocket claims
 display_title: Rocket claims
 heading_title: Do The Rocket Tests Prove Anything Strange?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Has Taylor Really Claimed First Hand? | Taylor
+parent_title: What Has Taylor Really Claimed First Hand?
 parent_permalink: /claims/
 parent_nav_short_title: Claims
 parent_heading_title: What Has Taylor Really Claimed First Hand?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /ranch-sightings/
   short_title: Ranch sightings
   heading_title: What Did Taylor Actually See at the Ranch?
-date: '2026-06-09 03:11:22 '
+date: '2026-06-11 21:08:46 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-1.webp
@@ -258,7 +258,6 @@ image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anoma
 
 The rocket launches featured on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* became some of [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s most widely discussed on-camera investigations. Supporters often point to them as evidence that something physically unusual affects aircraft, drones, GPS systems or projectiles above the ranch. Critics point to the same footage as an example of how a television experiment can move quickly from an odd result to a much larger claim without providing enough raw data for independent verification.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-1-dark.svg" | relative_url }}" alt="Rocket claims illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For credibility purposes, the rocket episodes sit in an important middle category. Taylor was not simply repeating somebody else’s story. He was present, helped design experiments and publicly interpreted what happened. At the same time, viewers usually see edited sequences rather than complete telemetry records, calibration reports, launch logs or full environmental data. That makes the rocket incidents more significant than pure hearsay, but less conclusive than a fully documented scientific test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</span></span></span>
 
@@ -268,7 +267,7 @@ Taylor and the ranch team repeatedly used rockets as probes for what they descri
 
 Several televised [claims]({{ 'claims/' | relative_url }}) emerged from these tests:
 
-* Rockets allegedly deviated from expected trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[the-secret-of-skinwalker-ranch.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchRocket Experiments | The Secret of Skinwalker Ranch WikiAnomalous Trajectories/Disappearances: A common &quot;fi...</span></span></span>
+* Rockets allegedly deviated from expected trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[the-secret-of-skinwalker-ranch.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchRocket Experiments &#124; The Secret of Skinwalker Ranch WikiAnomalous Trajectories/Disappearances: A common &quot;fi...</span></span></span>
 * Tracking systems sometimes failed or produced inconsistent readings.
 * Some launches appeared to coincide with unidentified lights or aerial objects.
 * The team argued that certain launches suggested the presence of a structured anomaly or “bubble” above the ranch. The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Rockets defy laws of physics?!</span><span class="citation-popover-snippet">Sky HISTORY TV channelRockets defy laws of physics?! - Curse of Skinwalker RanchThe team attempt to launch rockets through laser beams in...</span></span></span>
@@ -285,7 +284,6 @@ However, a rocket moving differently from a pre-launch expectation does not auto
 
 In conventional aerospace testing, a surprising trajectory can result from many ordinary causes:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Wind shear at different altitudes.
@@ -299,12 +297,11 @@ In conventional aerospace testing, a surprising trajectory can result from many 
 
 </div>
 
-Even university-level model rocket projects routinely identify changing wind conditions as one of the largest sources of trajectory prediction error. Small differences in atmospheric conditions can produce landing locations and flight paths that diverge significantly from simplified forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01970" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivModel Rocket Project for Aerospace Engineering Course: Trajectory Simulation and Propellant AnalysisAugust 7, 2017...</span><span class="citation-popover-meta">Published: August 7, 2017</span></span></span>
+Even university-level model rocket projects routinely identify changing wind conditions as one of the largest sources of trajectory prediction error. Small differences in atmospheric conditions can produce landing locations and flight paths that diverge significantly from simplified forecasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01970" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Model Rocket Project for Aerospace Engineering Course: Trajectory Simulation and Propellant AnalysisAugust 7, 2017...</span><span class="citation-popover-meta">Published: August 7, 2017</span></span></span>
 
 This does not prove that every Skinwalker Ranch rocket anomaly had a mundane cause. It does mean that any claim of an unknown force acting on a rocket must first demonstrate that these more common explanations were systematically eliminated.
 
 That is where outside observers encounter a problem: the programme rarely releases the complete engineering documentation needed to perform that assessment independently.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cIvKoXnPpLo" title="ABNORMAL UFO ACTIVITY SPOTTED - “There’s Something There!” | The Secret of Skinwalker Ranch (S3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cIvKoXnPpLo" target="_blank" rel="noopener noreferrer">ABNORMAL UFO ACTIVITY SPOTTED - “There’s Something There!” | The Secret of Skinwalker Ranch (S3)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.3M &middot; Uploaded: May 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cIvKoXnPpLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cIvKoXnPpLo">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +310,6 @@ That is where outside observers encounter a problem: the programme rarely releas
 The strongest version of Taylor’s argument would require outsiders to inspect the underlying measurements.
 
 For example, if a rocket genuinely altered course in a way inconsistent with known aerodynamics, investigators would ideally want access to:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -332,8 +328,7 @@ Instead, television audiences usually see edited highlights and post-event discu
 
 The difference matters because many apparent anomalies disappear when complete datasets become available. A tracking failure may look like a disappearing object. A GPS glitch may resemble a sudden jump in position. A camera losing lock on a fast-moving object can create the impression that something vanished. None of those explanations are guaranteed to be correct in a specific case, but they are common enough that investigators normally try to eliminate them before proposing a novel mechanism.
 
-Taylor's critics therefore argue that viewers are being asked to trust interpretations rather than inspect evidence. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) counter that the team often works with proprietary equipment, television production constraints and incomplete access to the phenomenon itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditDoes anyone else find the latest experiments disturbing?At the risk of losing a readers interest for being too long, I’m going to t...</span></span></span>
-
+Taylor's critics therefore argue that viewers are being asked to trust interpretations rather than inspect evidence. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) counter that the team often works with proprietary equipment, television production constraints and incomplete access to the phenomenon itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Does anyone else find the latest experiments disturbing?At the risk of losing a readers interest for being too long, I’m going to t...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-2-dark.svg" | relative_url }}" alt="Rocket claims illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When telemetry failures become part of the mystery
@@ -352,7 +347,6 @@ A stronger evidential standard would require demonstrating that the failure rate
 
 Publicly available footage rarely provides enough information to make that comparison.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7ID_hXzSGI" title="The Secret of Skinwalker Ranch: Experiment Triggers MYSTERIOUS Thermal Anomaly (S4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7ID_hXzSGI" target="_blank" rel="noopener noreferrer">The Secret of Skinwalker Ranch: Experiment Triggers MYSTERIOUS Thermal Anomaly (S4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 344.9K &middot; Uploaded: June 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7ID_hXzSGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7ID_hXzSGI">Open on YouTube</a></p></div></div></div>
 
 ## Why edited experiment sequences limit public confidence
@@ -365,7 +359,6 @@ The gap between those approaches becomes especially important when a claim depen
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * A rocket briefly disappearing from view could reflect a camera limitation.
@@ -376,8 +369,7 @@ For example:
 
 Without complete sequences and supporting datasets, outside analysts cannot easily determine which interpretation is most justified.
 
-Even some viewers sympathetic to the ranch investigations have argued that the programme sometimes appears too eager to frame ambiguous outcomes as evidence of a larger mystery before ordinary explanations have been fully explored. Discussions among fans and sceptics alike frequently return to concerns about confirmation bias and selective presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I know there are shows that play up findings with drama...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditLatest Skinwalker Ranch episode. Drone and Rocket go...The FP Drone and Rocket go behind invisible object in the sky which was fil...</span></span></span>
-
+Even some viewers sympathetic to the ranch investigations have argued that the programme sometimes appears too eager to frame ambiguous outcomes as evidence of a larger mystery before ordinary explanations have been fully explored. Discussions among fans and sceptics alike frequently return to concerns about confirmation bias and selective presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I know there are shows that play up findings with drama...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Latest Skinwalker Ranch episode. Drone and Rocket go...The FP Drone and Rocket go behind invisible object in the sky which was fil...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-3-dark.svg" | relative_url }}" alt="Rocket claims illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_rocket_anomalies_int_f88050-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the rocket claims actually show about Taylor's credibility
@@ -394,9 +386,7 @@ Because the public normally receives edited footage rather than complete experim
 
 That makes the rocket incidents a revealing credibility test. They show a technically trained investigator confronting unusual field results. They do not, on their own, prove that an unknown force altered the rockets, nor do they provide decisive evidence for non-human technology. What they mainly demonstrate is the tension that runs through much of Taylor's public UFO profile: the gap between something unexplained occurring on camera and a stronger claim about what that unexplained event actually means. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Rockets defy laws of physics?!</span><span class="citation-popover-snippet">Sky HISTORY TV channelRockets defy laws of physics?! - Curse of Skinwalker RanchThe team attempt to launch rockets through laser beams in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8iAvJrFeyqg" title="Travis Taylor: &quot;Something TERRIFYING Has Emerged At The Skinwalker Ranch!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8iAvJrFeyqg" target="_blank" rel="noopener noreferrer">Travis Taylor: &quot;Something TERRIFYING Has Emerged At The Skinwalker Ranch!&quot;</a></p><p class="youtube-embed-meta">Channel: Atlantis &middot; Views: 2.0K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8iAvJrFeyqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8iAvJrFeyqg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -515,15 +505,15 @@ That makes the rocket incidents a revealing credibility test. They show a techni
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +521,15 @@ That makes the rocket incidents a revealing credibility test. They show a techni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +537,15 @@ That makes the rocket incidents a revealing credibility test. They show a techni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +553,15 @@ That makes the rocket incidents a revealing credibility test. They show a techni
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +569,7 @@ That makes the rocket incidents a revealing credibility test. They show a techni
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="rocket-claims-do-the-rocket-tests-prove-anything-strange-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-rocket-tests-prove-anything-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-the-rocket-tests-prove-anything-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -794,159 +784,159 @@ That makes the rocket incidents a revealing credibility test. They show a techni
 
 1. <a id="endnote-1"></a>
    Source: uah.edu  
-   Link: [https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch](https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch)  
+   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/investigating-the-mysterious-2000-foot-bubble-surrounding-skinwalker-ranch-the-t/1544684383891199/](https://www.facebook.com/HISTORY/posts/investigating-the-mysterious-2000-foot-bubble-surrounding-skinwalker-ranch-the-t/1544684383891199/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/investigating-the-mysterious-2000-foot-bubble-surrounding-skinwalker-ranch-the-t/1544684383891199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/investigating-the-mysterious-2000-foot-bubble-surrounding-skinwalker-ranch-the-t/1544684383891199/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY&#x27;s postInvestigating the mysterious 2,000-foot bubble surrounding Skinwalker Ranch, the team launches a balloon-kite experiment to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01970](https://arxiv.org/abs/1708.01970)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivModel Rocket Project for Aerospace Engineering Course: Trajectory Simulation and Propellant AnalysisAugust 7, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1708.01970" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01970</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Rocket Project for Aerospace Engineering Course: Trajectory Simulation and Propellant AnalysisAugust 7, 2017...</p></details>
    Published: August 7, 2017  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/](https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDoes anyone else find the latest experiments disturbing?At the risk of losing a readers interest for being too long, I’m going to t...</p></details>
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone else find the latest experiments disturbing?At the risk of losing a readers interest for being too long, I’m going to t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/](https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/)  
+   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/was-this-rocket-hit-by-a-uap-thesecretofskinwalkerranch/1537174427975528/](https://www.facebook.com/HISTORY/posts/was-this-rocket-hit-by-a-uap-thesecretofskinwalkerranch/1537174427975528/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWas This Rocket Hit by a UAP? #...Their telemetry systems malfunctioned, making it impossible to retrieve crucial data. Energy F...</p></details>
+   Link: <a href="https://www.facebook.com/HISTORY/posts/was-this-rocket-hit-by-a-uap-thesecretofskinwalkerranch/1537174427975528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/was-this-rocket-hit-by-a-uap-thesecretofskinwalkerranch/1537174427975528/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Was This Rocket Hit by a UAP? #...Their telemetry systems malfunctioned, making it impossible to retrieve crucial data. Energy F...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/](https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditLatest Skinwalker Ranch episode. Drone and Rocket go...The FP Drone and Rocket go behind invisible object in the sky which was fil...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e5zi23/latest_skinwalker_ranch_episode_drone_and_rocket/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest Skinwalker Ranch episode. Drone and Rocket go...The FP Drone and Rocket go behind invisible object in the sky which was fil...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/](https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-rocket-launch-at-the-ranch-reveals-a-strange-light-through-the-smoke-leaving-t/1536175601408744/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eaving the team questioning what exactly appeared in the sky during the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1065166071460425/posts/1658977938745899/](https://www.facebook.com/groups/1065166071460425/posts/1658977938745899/)  
+   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1658977938745899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1658977938745899/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s rocket launch at Skinwalker RanchRockets became one of the team&#x27;s most dramatic tools for testing strange aerial anomalie...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3573615919533687/posts/4567777736784162/](https://www.facebook.com/groups/3573615919533687/posts/4567777736784162/)  
+   Link: <a href="https://www.facebook.com/groups/3573615919533687/posts/4567777736784162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3573615919533687/posts/4567777736784162/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s rocket launch at Skinwalker RanchRockets became one of the team&#x27;s most dramatic tools for testing strange aerial anomalie...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/426695226792404/posts/716268834501707/](https://www.facebook.com/groups/426695226792404/posts/716268834501707/)  
+   Link: <a href="https://www.facebook.com/groups/426695226792404/posts/716268834501707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/426695226792404/posts/716268834501707/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ell aware that engines fail sometimes by blowing up...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: This experiment left us speechless  
-   Link: [https://www.facebook.com/HISTORY/posts/this-experiment-left-us-speechless-beyondskinwalker-is-back-with-more-astonishin/821075922918719/](https://www.facebook.com/HISTORY/posts/this-experiment-left-us-speechless-beyondskinwalker-is-back-with-more-astonishin/821075922918719/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/this-experiment-left-us-speechless-beyondskinwalker-is-back-with-more-astonishin/821075922918719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/this-experiment-left-us-speechless-beyondskinwalker-is-back-with-more-astonishin/821075922918719/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#BeyondSkinwalker is...The Secret of Skinwalker Ranch Season 5 Episode 2 did not disappoint! The new experiment of sending a very low po...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/does-anyone-see-the-rocket-skinwalkerranch/826715402354771/](https://www.facebook.com/HISTORY/posts/does-anyone-see-the-rocket-skinwalkerranch/826715402354771/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/does-anyone-see-the-rocket-skinwalkerranch/826715402354771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/does-anyone-see-the-rocket-skinwalkerranch/826715402354771/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone see the rocket? #SkinwalkerRanchLast night on Skinwalker Insiders, Travis says they still have not found that rocket!!... Ta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/](https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a suspected &quot;invisible bubble&quot; of energy, high-altitude [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1416137140038933/](https://www.facebook.com/groups/911734917145827/posts/1416137140038933/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1416137140038933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1416137140038933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch experiment reveals unknown phenomenaLed by Dr. Travis Taylor at Skinwalker Ranch, this operation used military-grade tec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/](https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/when-the-team-launches-an-illuminated-swarm-of-drones-on-skinwalker-ranch-they-a/1194299858929655/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are stunned by a series of mysterious events...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/](https://www.reddit.com/r/skinwalkerranch/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchHere is a good video of Chris Ramsey of Area 52 interviewing Ben Woodruff about the ranch. Very good stuff in it. I high...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 19. <a id="endnote-19"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Rockets defy laws of physics?!  
-   Link: [https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch](https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch)  
+   Link: <a href="https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/rockets-defy-laws-of-physics-curse-of-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelRockets defy laws of physics?! - Curse of Skinwalker RanchThe team attempt to launch rockets through laser beams in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Pn9N4E9Tb58](https://www.youtube.com/watch?v=Pn9N4E9Tb58)  
+   Link: <a href="https://www.youtube.com/watch?v=Pn9N4E9Tb58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pn9N4E9Tb58</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rocket [HD] [2026] &amp;middot; Comments...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical](https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical)  
+   Link: <a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...14 Oct 2025 — The &quot;Triangle&quot; region of Skinwalker Ranch exhibits a constella...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
-   Link: [https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments](https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments)  
+   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Rocket%20Experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchRocket Experiments | The Secret of Skinwalker Ranch WikiAnomalous Trajectories/Disappearances: A common &quot;fi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: zombiesinmyblog.com  
    Title: skinwalkers still strange the setbacks of season 5  
-   Link: [https://zombiesinmyblog.com/skinwalkers-still-strange-the-setbacks-of-season-5/](https://zombiesinmyblog.com/skinwalkers-still-strange-the-setbacks-of-season-5/)  
+   Link: <a href="https://zombiesinmyblog.com/skinwalkers-still-strange-the-setbacks-of-season-5/" target="_blank" rel="noopener noreferrer nofollow">https://zombiesinmyblog.com/skinwalkers-still-strange-the-setbacks-of-season-5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker&#x27;s Still Strange: The Setbacks of Season 52 Sept 2024 — Redneck Rocket Scientist Travis Taylor briefly dealt with trust issues...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: history.co.uk  
    Title: Astrophysicist Dr Travis Taylor returns  
-   Link: [https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch](https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch)  
+   Link: <a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of Skinwalker...Skinwalker Ranch and the surrounding area have been referred to as &quot;UFO alley&quot; since the 1950s when numerous anoma...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S7ID_hXzSGI](https://www.youtube.com/watch?v=S7ID_hXzSGI)  
+   Link: <a href="https://www.youtube.com/watch?v=S7ID_hXzSGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S7ID_hXzSGI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: Team Launches Rocket into Mysterious Anomaly...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5lTT0GYzkao](https://www.youtube.com/watch?v=5lTT0GYzkao)  
+   Link: <a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>search to find out what&#x27;s really happening at Skinwalker Ranch...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8iAvJrFeyqg](https://www.youtube.com/watch?v=8iAvJrFeyqg)  
+   Link: <a href="https://www.youtube.com/watch?v=8iAvJrFeyqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8iAvJrFeyqg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spine—an eerie, glowing object hovering at Skinwalker Ranch...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>diplomas and a long work history that show he is as legit...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: ABNORMA L UFO ACTIVITY SPOTTED  
-   Link: [https://www.youtube.com/watch?v=cIvKoXnPpLo](https://www.youtube.com/watch?v=cIvKoXnPpLo)  
+   Link: <a href="https://www.youtube.com/watch?v=cIvKoXnPpLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cIvKoXnPpLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABNORMAL UFO ACTIVITY SPOTTED - “There&#x27;s Something...More questions arise as the team calls in the astronomical society to conduct anoth...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Secret of Skinwalker Ranch: Team Launches Rocket into Mysterious Anomaly  
-   Link: [https://www.youtube.com/watch?v=2Tz89O77Z5E](https://www.youtube.com/watch?v=2Tz89O77Z5E)  
+   Link: <a href="https://www.youtube.com/watch?v=2Tz89O77Z5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Tz89O77Z5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: Strange Data After Rocket Launch...</p></details>

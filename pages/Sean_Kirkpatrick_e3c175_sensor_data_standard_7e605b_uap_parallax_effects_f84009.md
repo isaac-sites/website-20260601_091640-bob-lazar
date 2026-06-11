@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sensor-data/
 nav_short_title: Parallax
 title: Are Some Extreme UAP Movements Just Perspective Effects?
-title_full: Are Some Extreme UAP Movements Just Perspective Effects? | Sensor Data
+title_full: Are Some Extreme UAP Movements Just Perspective Effects?
 display_title_short: Parallax
 display_title: Parallax
 heading_title: Are Some Extreme UAP Movements Just Perspective Effects?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Better Sensors Change UAP Claims | Kirkpatrick
+parent_title: Why Better Sensors Change UAP Claims
 parent_permalink: /sensor-data/
 parent_nav_short_title: Sensor Data
 parent_heading_title: Why Better Sensors Change UAP Claims
@@ -247,7 +247,7 @@ next_link:
   permalink: /proof-standard/
   short_title: Proof Standard
   heading_title: When Does a UAP Sighting Become Strong Evidence?
-date: '2026-06-09 02:58:14 '
+date: '2026-06-11 21:04:36 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_pa
 
 ## Introduction
 
-A central part of [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s scepticism about dramatic UAP manoeuvres is the idea that some apparently impossible motion is not actually a property of the object at all. Instead, it can be a consequence of parallax: a geometric effect that occurs when a moving observer views a distant object without knowing its exact range. In those circumstances, a stationary object can appear to race across a sensor display, while a slow-moving object can seem to perform extraordinary accelerations. AARO, the Pentagon’s All-domain Anomaly Resolution Office under Kirkpatrick’s leadership, has repeatedly highlighted parallax as a major source of misinterpretation in military UAP footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
-
+A central part of Sean Kirkpatrick’s scepticism about dramatic UAP manoeuvres is the idea that some apparently impossible motion is not actually a property of the object at all. Instead, it can be a consequence of parallax: a geometric effect that occurs when a moving observer views a distant object without knowing its exact range. In those circumstances, a stationary object can appear to race across a sensor display, while a slow-moving object can seem to perform extraordinary accelerations. AARO, the Pentagon’s All-domain Anomaly Resolution Office under Kirkpatrick’s leadership, has repeatedly highlighted parallax as a major source of misinterpretation in military UAP footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-1-dark.svg" | relative_url }}" alt="Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not prove that every unusual sighting is a perspective error. Rather, it explains why Kirkpatrick consistently argued that claims of extreme speed, sudden acceleration or exotic flight characteristics require precise range measurements before they can be treated as evidence of genuinely anomalous technology.
@@ -270,7 +269,6 @@ The same principle applies to airborne sensors. If a military aircraft is travel
 
 This creates a common misunderstanding in UAP discussions. Viewers often assume that movement across a video frame directly represents the object's true speed. In reality, without knowing the object's distance, the same visual track could represent:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A nearby object moving quickly.
@@ -282,7 +280,6 @@ This creates a common misunderstanding in UAP discussions. Viewers often assume 
 
 The video alone may not distinguish between these possibilities.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Why Range Data Matters So Much
@@ -290,7 +287,6 @@ The video alone may not distinguish between these possibilities.
 Range is the missing ingredient in many famous UAP clips. A camera records angles, not distances. If analysts know only where an object appears in the frame but not how far away it is, calculating speed becomes highly uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span>
 
 Consider two hypothetical scenarios:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -305,18 +301,16 @@ This issue sits at the heart of Kirkpatrick's broader emphasis on sensor standar
 
 In practical terms, an object that appears to accelerate from a standstill to extraordinary speed may simply be crossing a particular geometric threshold relative to a moving aircraft, creating an illusion of sudden motion rather than a real change in velocity.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-2-dark.svg" | relative_url }}" alt="Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AARO's Examples of Sensor Misreads
 
 During public briefings, Kirkpatrick frequently used examples intended to demonstrate how sensor geometry can produce misleading impressions. One of the most discussed cases involved the Navy's "Go Fast" video.
 
-AARO later assessed that the object in the footage was not displaying anomalous performance. According to the office's analysis, the impression of extreme speed resulted primarily from motion parallax. The object's apparent rapid movement was generated by the viewing geometry between the target and the fast-moving aircraft rather than evidence of extraordinary propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video</span><span class="citation-popover-snippet">RedditPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+AARO later assessed that the object in the footage was not displaying anomalous performance. According to the office's analysis, the impression of extreme speed resulted primarily from motion parallax. The object's apparent rapid movement was generated by the viewing geometry between the target and the fast-moving aircraft rather than evidence of extraordinary propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
-The broader lesson for AARO was not that every unidentified object is a balloon, bird or conventional aircraft. Rather, it was that dramatic visual impressions can emerge before the underlying geometry is fully understood. Kirkpatrick repeatedly stressed that analysts must reconstruct aircraft position, sensor orientation, viewing angle and range before interpreting apparent manoeuvres as evidence of advanced technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagon office developing new sensors to better detect ufos</span><span class="citation-popover-snippet">DefenseScoopPentagon office developing new sensors to better detect...31 May 2023 — AARO director Sean Kirkpatrick provided an update on...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The broader lesson for AARO was not that every unidentified object is a balloon, bird or conventional aircraft. Rather, it was that dramatic visual impressions can emerge before the underlying geometry is fully understood. Kirkpatrick repeatedly stressed that analysts must reconstruct aircraft position, sensor orientation, viewing angle and range before interpreting apparent manoeuvres as evidence of advanced technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagon office developing new sensors to better detect ufos</span><span class="citation-popover-snippet">Pentagon office developing new sensors to better detect...31 May 2023 — AARO director Sean Kirkpatrick provided an update on...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Another example presented during NASA's public UAP discussions involved military infrared recordings in which apparently unusual motion became less remarkable once the sensor's movement and tracking behaviour were analysed in detail. These cases reinforced the view that understanding the instrument is often as important as understanding the object being observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Western U.S. Objects31 May 2023 —... (UAP) on May 31, 2023, Dr. Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Public Meeting on Unidentified Anomalous Phenomena...Watch our first deliberative meeting of NASA&#x27;s independent study team on evaluating...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5tDOoDXHO2s" title="Parallax Explained &amp; How Telescopes Work | Astronomy Basics Made Simple | Special Relativity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5tDOoDXHO2s" target="_blank" rel="noopener noreferrer">Parallax Explained &amp; How Telescopes Work | Astronomy Basics Made Simple | Special Relativity</a></p><p class="youtube-embed-meta">Channel: DrOfEng &middot; Views: 234 &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5tDOoDXHO2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5tDOoDXHO2s">Open on YouTube</a></p></div></div></div>
 
@@ -326,11 +320,10 @@ Many of the most striking UAP narratives involve reports of objects making insta
 
 From this perspective, a report becomes significantly stronger when analysts can independently verify:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * The object's range.
-* The observer's motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video</span><span class="citation-popover-snippet">RedditPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+* The observer's motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video</span><span class="citation-popover-snippet">Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 * Radar measurements.
 * Infrared tracking data.
 * Environmental conditions.
@@ -342,7 +335,6 @@ Without those elements, apparent performance may reflect geometry rather than ph
 
 [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick's approach argue that parallax provides a well-understood, testable explanation for many apparently extraordinary observations and should be ruled out before invoking exotic technologies. Critics sometimes counter that not every military UAP case can be reduced to perspective effects and that some incidents involve multiple witnesses or multiple sensors. Both points can be true simultaneously: parallax is a powerful explanation for some sightings, but demonstrating that it applies in any specific case requires detailed reconstruction rather than assumption.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_parallax_effects_f84009-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Parallax Means for Kirkpatrick's Credibility
 
@@ -350,93 +342,49 @@ Parallax occupies an important place in Kirkpatrick's credibility assessment bec
 
 That position aligns closely with the conclusions of NASA's independent UAP study, which emphasised that limited data, missing metadata and insufficient sensor calibration frequently prevent firm conclusions about unusual observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">NASA ScienceUAP FAQsMay 8, 2026 — Most UAP sightings result in very limited data, making it difficult to draw scientific conclusions abou...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-As a result, parallax serves as more than a technical curiosity in Kirkpatrick's framework. It is a reminder that extraordinary-looking motion is not necessarily extraordinary motion. Until distance, geometry and sensor behaviour are established, an object that appears to perform impossible manoeuvres may simply be revealing the limits of the observation rather than the capabilities of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
-
+As a result, parallax serves as more than a technical curiosity in Kirkpatrick's framework. It is a reminder that extraordinary-looking motion is not necessarily extraordinary motion. Until distance, geometry and sensor behaviour are established, an object that appears to perform impossible manoeuvres may simply be revealing the limits of the observation rather than the capabilities of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Are Some Extreme UAP Movements Just Perspective Effects?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Are Some Extreme UAP Movements Just Perspective Effects?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
-        
-        <p class="fr-book-desc">Provides broader context for modern UAP interpretation debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly supports the need to test apparent observations against reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
-        <p class="fr-book-desc">Explains how misleading interpretations can arise from incomplete data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
-        
-        <p class="fr-book-desc">Reinforces lessons about perception, measurement and inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -473,15 +421,15 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9MIAAeSwPIZp2SJf/s-l225.jpg" alt="Listing image for Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Technician Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +437,15 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/f2sAAeSwTFBp2SLl/s-l225.jpg" alt="Listing image for Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the Radar Technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +453,15 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/spoAAeSwe1Np2SNR/s-l225.jpg" alt="Listing image for Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Official Merchandise TShirt F Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +469,15 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/swoAAeSw9fpp2SNV/s-l225.jpg" alt="Listing image for RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer">RADAR Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +485,7 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="parallax-are-some-extreme-uap-movements-just-perspective-effects-sean-kirkpatrick-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-some-extreme-uap-movements-just-perspective-effects-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="are-some-extreme-uap-movements-just-perspective-effects-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,176 +700,176 @@ As a result, parallax serves as more than a technical curiosity in Kirkpatrick's
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEffect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — Because of parallax, stationary objects can appear to have mot...</p></details>
    Published: May 8, 2024  
 
 2. <a id="endnote-2"></a>
    Source: defensescoop.com  
    Title: pentagon office developing new sensors to better detect ufos  
-   Link: [https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/](https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoopPentagon office developing new sensors to better detect...31 May 2023 — AARO director Sean Kirkpatrick provided an update on...</p></details>
+   Link: <a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — AARO director Sean Kirkpatrick provided an update on...</p></details>
    Published: May 2023  
 
 3. <a id="endnote-3"></a>
    Source: cesar.esa.int  
-   Link: [https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf](https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf)  
+   Link: <a href="https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cesar.esa.int/upload/201709/Parallax_Effect_Booklet.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Pentagon Releases [AARO Report](&#123;&#123; 'aaro-report-8d3982/' | relative_url &#125;&#125;) on 'Go Fast' Video  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditPentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...February 13, 2025 — “The object&#x27;s apparent high speed is attributable to motion...</p></details>
    Published: February 13, 2025  
 
 7. <a id="endnote-7"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects)  
+   Link: <a href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/885193/western-us-objects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western U.S. Objects31 May 2023 —... (UAP) on May 31, 2023, Dr. Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office (...</p></details>
    Published: May 31, 2023  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bQo08JRY0iM](https://www.youtube.com/watch?v=bQo08JRY0iM)  
+   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena...Watch our first deliberative meeting of NASA&#x27;s independent study team on evaluating...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsMay 8, 2026 — Most UAP sightings result in very limited data, making it difficult to draw scientific conclusions abou...</p></details>
    Published: May 8, 2026  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — NASA commissioned the study to examine UAP from a scientific perspectiv...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/XulaIPyY2Iw](https://www.youtube.com/shorts/XulaIPyY2Iw)  
+   Link: <a href="https://www.youtube.com/shorts/XulaIPyY2Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/XulaIPyY2Iw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at different speeds depending on how far away they are...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Breakdown of the Pentagon UFO videos with Mick West  
-   Link: [https://www.youtube.com/watch?v=Le7Fqbsrrm8](https://www.youtube.com/watch?v=Le7Fqbsrrm8)  
+   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=VyK46wdMJkQ](https://www.youtube.com/watch?v=VyK46wdMJkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Explained &amp; How Telescopes Work | Astronomy Basics Made Simple...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Parallax Explained & How Telescopes Work | Astronomy Basics Made Simple  
-   Link: [https://www.youtube.com/watch?v=5tDOoDXHO2s](https://www.youtube.com/watch?v=5tDOoDXHO2s)  
+   Link: <a href="https://www.youtube.com/watch?v=5tDOoDXHO2s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tDOoDXHO2s</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — AARO receives UAP-related pilot reports or PIRE...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxParallax is a displacement or difference in the apparent position of an object viewed along two different lines of sightRead more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous](https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous)  
+   Link: <a href="https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/newly-released-ufo-video-sean-kirkpatrick-pentagon-all-domain-anomaly-resolution-office-aaro-truly-anomalous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released UFO video broken down &#x27;frame by...Apr 24, 2023 — Two videos of reported UFO sightings shown during last week&#x27;s Senate hea...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptAfter my opening remarks, we&#x27;ll hear from Sean Kirkpatrick from the AARO, and it&#x27;s the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: 7atc.army.mil  
-   Link: [https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&dvpmoduleid=4969&videoid=885190](https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&dvpmoduleid=4969&videoid=885190)  
+   Link: <a href="https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&amp;dvpmoduleid=4969&amp;videoid=885190" target="_blank" rel="noopener noreferrer nofollow">https://www.7atc.army.mil/Media-News/Video/?dvpTag=UAP&amp;dvpmoduleid=4969&amp;videoid=885190</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, director of the All-domain Anomaly Resolution Office (AARO), shared a video depicting three unidentified objects recorded on...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: vgis.io  
    Title: understanding the parallax effect in ar why your 3d objects may move  
-   Link: [https://www.vgis.io/2025/07/11/understanding-the-parallax-effect-in-ar-why-your-3d-objects-may-move/](https://www.vgis.io/2025/07/11/understanding-the-parallax-effect-in-ar-why-your-3d-objects-may-move/)  
+   Link: <a href="https://www.vgis.io/2025/07/11/understanding-the-parallax-effect-in-ar-why-your-3d-objects-may-move/" target="_blank" rel="noopener noreferrer nofollow">https://www.vgis.io/2025/07/11/understanding-the-parallax-effect-in-ar-why-your-3d-objects-may-move/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Parallax Effect in AR: Why Your 3D Objects...11 Jul 2025 — Understand how the parallax effect in AR can be a cause of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of unidentified anomalo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: [https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/](https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/)  
+   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — NASA said its investigation of unidentified anomalous phenomena or...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: theguardian.com  
    Title: sean kirkpatrick pentagon ufo conspiracy theory myths  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ex-UFO chief says conspiracy theorists in...Jan 27, 2024 — Sean Kirkpatrick, the first director of the all-domain anomaly resol...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: nevadacurrent.com  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>

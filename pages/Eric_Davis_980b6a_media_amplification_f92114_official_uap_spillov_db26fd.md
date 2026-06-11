@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /media-role/
 nav_short_title: Official spillover
 title: Did official UAP news validate Davis?
-title_full: Did official UAP news validate Davis? | Media Role
+title_full: Did official UAP news validate Davis?
 display_title_short: Official spillover
 display_title: Official spillover
 heading_title: Did official UAP news validate Davis?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Coverage Changed Davis's Reputation | Davis
+parent_title: How Media Coverage Changed Davis's Reputation
 parent_permalink: /media-role/
 parent_nav_short_title: Media Role
 parent_heading_title: How Media Coverage Changed Davis's Reputation
@@ -253,7 +253,7 @@ next_link:
   permalink: /quote-spread/
   short_title: Quote spread
   heading_title: How one quote reshaped Davis's reputation
-date: '2026-06-09 03:04:07 '
+date: '2026-06-11 21:07:20 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1.webp
@@ -262,11 +262,10 @@ image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_
 
 ## Introduction
 
-Official UAP announcements from the Pentagon, the Office of the Director of National Intelligence (ODNI), Congress and later investigative offices changed the public environment around UFO claims. They made the subject appear more legitimate and less culturally marginal. For [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}), that shift had an important side effect: many people began treating his more dramatic statements as indirectly validated by government action.
-
+Official UAP announcements from the Pentagon, the Office of the Director of National Intelligence (ODNI), Congress and later investigative offices changed the public environment around UFO claims. They made the subject appear more legitimate and less culturally marginal. For Eric Davis, that shift had an important side effect: many people began treating his more dramatic statements as indirectly validated by government action.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1-dark.svg" | relative_url }}" alt="Official spillover illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is that official UAP acknowledgement and validation of Davis's strongest claims are not the same thing. Government agencies publicly confirmed that military personnel had reported unexplained aerial incidents and that those reports deserved investigation. They did not publicly confirm Davis's claims about recovered non-human technology, crash-retrieval programmes, "off-world vehicles", or secret reverse-engineering efforts. The credibility spillover came from association rather than direct institutional endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">establishment of unidentified aerial phenomena task force</span><span class="citation-popover-snippet">U.S. NavyEstablishment of Unidentified Aerial Phenomena Task Force14 Aug 2020 — On Aug. 4, 2020, Deputy Secretary of Defense David L. Nor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</span></span></span>
+The key distinction is that official UAP acknowledgement and validation of Davis's strongest claims are not the same thing. Government agencies publicly confirmed that military personnel had reported unexplained aerial incidents and that those reports deserved investigation. They did not publicly confirm Davis's claims about recovered non-human technology, crash-retrieval programmes, "off-world vehicles", or secret reverse-engineering efforts. The credibility spillover came from association rather than direct institutional endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">establishment of unidentified aerial phenomena task force</span><span class="citation-popover-snippet">U.S. NavyEstablishment of Unidentified Aerial Phenomena Task Force14 Aug 2020 — On Aug. 4, 2020, Deputy Secretary of Defense David L. Nor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</span></span></span>
 
 ## What official UAP announcements did establish
 
@@ -276,12 +275,11 @@ In August 2020, the Department of Defense formally announced the Unidentified Ae
 
 The June 2021 ODNI preliminary assessment went further. It reviewed 144 military UAP reports and concluded that most could not yet be explained with confidence. The report stated that some incidents appeared unusual and warranted further analysis. At the same time, it repeatedly emphasised data limitations and uncertainty. It did not conclude that the objects were extraterrestrial, nor did it identify evidence of recovered alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">2024 Consolidated Annual Report on Unidentified...Nov 14, 2024 — The Office of the Director of National Intelligence (ODNI) and the Depa...</span></span></span>
 
-Subsequent government activity reinforced the message that UAP reports were a legitimate intelligence and aviation-safety issue. The UAPTF evolved into the All-domain Anomaly Resolution Office (AARO), which was tasked with investigating reports across multiple domains. Annual reporting continued, and Congress held hearings that treated the subject as worthy of oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
+Subsequent government activity reinforced the message that UAP reports were a legitimate intelligence and aviation-safety issue. The UAPTF evolved into the All-domain Anomaly Resolution Office (AARO), which was tasked with investigating reports across multiple domains. Annual reporting continued, and Congress held hearings that treated the subject as worthy of oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 &#124; Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
 
 For many observers, these developments created a simple impression: if the Pentagon was taking UAPs seriously, then long-dismissed UFO insiders might have been right all along.
 
 That perception became important for Davis because his public profile rose during the same period.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jx77bLbFdxw" title="Dr Eric Davis Reveals Government UAP Secrets at Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jx77bLbFdxw" target="_blank" rel="noopener noreferrer">Dr Eric Davis Reveals Government UAP Secrets at Hearing</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 3.8K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jx77bLbFdxw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jx77bLbFdxw">Open on YouTube</a></p></div></div></div>
 
@@ -293,12 +291,11 @@ The most influential example came from reporting in 2020 that quoted Davis discu
 
 However, none of the major official UAP documents released during the following years publicly confirmed those assertions.
 
-The 2021 ODNI assessment did not state that the United States possessed recovered non-human craft. It did not mention crash-retrieval programmes. It did not confirm reverse-engineering efforts. It did not identify extraterrestrial technology as the explanation for unresolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</span></span></span>
+The 2021 ODNI assessment did not state that the United States possessed recovered non-human craft. It did not mention crash-retrieval programmes. It did not confirm reverse-engineering efforts. It did not identify extraterrestrial technology as the explanation for unresolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</span></span></span>
 
 Likewise, later public reporting from AARO and associated Defence Department reviews did not provide public evidence that recovered alien vehicles had been verified. Even when reports acknowledged unresolved incidents or "true anomalies", officials continued distinguishing unexplained observations from proof of non-human origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Report (U.S. Intelligence</span><span class="citation-popover-snippet">UFO Report (U.S. Intelligence)On August 14, 2020, a successor of this program, the Unidentified Aerial Phenomena Task Force, was estab...</span><span class="citation-popover-meta">Published: August 14, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span>
 
 This gap matters because Davis's strongest claims concern hidden programmes and recovered materials rather than merely unidentified observations in the sky. Official acknowledgement of the second category does not automatically verify the first.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-2-dark.svg" | relative_url }}" alt="Official spillover illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How legitimacy spills over onto unproven claims
@@ -308,7 +305,6 @@ The Davis case illustrates a common credibility mechanism in controversial subje
 A government institution acknowledges a limited problem. Media coverage then places that acknowledgement next to broader or more extraordinary claims. Audiences often remember the association more clearly than the distinction.
 
 In practice, several separate propositions became blurred together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,14 +321,13 @@ This effect was especially powerful because Davis was not a random commentator. 
 
 Those are different conclusions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/slLm4WhYhq0" title="David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer">David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs</a></p><p class="youtube-embed-meta">Channel: Newsweek &middot; Views: 236.1K &middot; Uploaded: July 2023 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=slLm4WhYhq0">Open on YouTube</a></p></div></div></div>
 
 ## Why the distinction became harder for the public to see
 
 Several factors made the spillover stronger.
 
-First, official secrecy itself encouraged inference. Government reports repeatedly acknowledged unresolved cases while withholding classified details. That created space for speculation that hidden evidence might support claims made by figures such as Davis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
+First, official secrecy itself encouraged inference. Government reports repeatedly acknowledged unresolved cases while withholding classified details. That created space for speculation that hidden evidence might support claims made by figures such as Davis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 &#124; Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
 
 Second, media coverage often emphasised dramatic language. Headlines focusing on "off-world vehicles", secret briefings or recovered materials attracted more attention than the narrower findings contained in government reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalreview.com">[National Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalreview.com</span><span class="citation-popover-snippet">Pentagon Consultant Briefed Senators on &#x27;Off-World...24 Jul 2020 — A consultant for the Pentagon U.F.O program is speaking out about ret...</span></span></span>
 
@@ -342,23 +337,20 @@ Sceptical commentators repeatedly highlighted this problem. They argued that off
 
 Supporters countered that official interest made older insider accounts seem more plausible and suggested that classified evidence could exist beyond what had been publicly released. But that argument depends heavily on inference rather than publicly verifiable confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From</span><span class="citation-popover-snippet">New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-3-dark.svg" | relative_url }}" alt="Official spillover illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did official UAP news validate Davis?
 
 The narrow answer is no.
 
-Official UAP announcements validated the existence of government concern about unexplained aerial incidents. They validated that military personnel had reported events that warranted investigation. They validated that agencies created structures to collect and analyse those reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">establishment of unidentified aerial phenomena task force</span><span class="citation-popover-snippet">U.S. NavyEstablishment of Unidentified Aerial Phenomena Task Force14 Aug 2020 — On Aug. 4, 2020, Deputy Secretary of Defense David L. Nor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
+Official UAP announcements validated the existence of government concern about unexplained aerial incidents. They validated that military personnel had reported events that warranted investigation. They validated that agencies created structures to collect and analyse those reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">establishment of unidentified aerial phenomena task force</span><span class="citation-popover-snippet">U.S. NavyEstablishment of Unidentified Aerial Phenomena Task Force14 Aug 2020 — On Aug. 4, 2020, Deputy Secretary of Defense David L. Nor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 &#124; Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
 
-They did not publicly validate Davis's most consequential claims about recovered non-human craft, secret reverse-engineering programmes or possession of off-world technology. No publicly released government UAP report has provided direct confirmation of those specific assertions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
+They did not publicly validate Davis's most consequential claims about recovered non-human craft, secret reverse-engineering programmes or possession of off-world technology. No publicly released government UAP report has provided direct confirmation of those specific assertions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 &#124; Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">reports publications 2021</span><span class="citation-popover-snippet">Reports &amp; Publications 2021 &#124; Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</span></span></span>
 
 The credibility spillover came because official recognition of one category of claim made many people more receptive to another category. That shift helped elevate Davis's reputation from a specialist figure in defence-adjacent UFO circles to a widely cited insider voice. Whether that elevation was justified remains a separate question from whether governments acknowledged the existence of unresolved UAP cases.
 
 For assessing Davis specifically, the distinction remains essential: official UAP announcements strengthened the plausibility of continued investigation into unidentified phenomena, but they did not independently verify his strongest public claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvmZUI7llHQ" title="House committee holds UFO hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer">House committee holds UFO hearing</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.1M &middot; Uploaded: July 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvmZUI7llHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvmZUI7llHQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,15 +469,15 @@ For assessing Davis specifically, the distinction remains essential: official UA
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft"><img src="{{ '/assets/images/marketplace-covers/03f9b9f1db439abeea53.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/~K0AAeSwFMNodldp/s-l225.jpg" alt="Listing image for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +485,15 @@ For assessing Davis specifically, the distinction remains essential: official UA
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft Hovering Above Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/12303b110b8eb2e33712.jpg' | relative_url }}" alt="Listing image for Spacecraft Hovering Above Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spacecraft Hovering Above Alien Landscape Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +501,15 @@ For assessing Davis specifically, the distinction remains essential: official UA
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft Hovering Above Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/12303b110b8eb2e33712.jpg' | relative_url }}" alt="Listing image for Spacecraft Hovering Above Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spacecraft Hovering Above Alien Landscape Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +517,15 @@ For assessing Davis specifically, the distinction remains essential: official UA
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA"><img src="{{ '/assets/images/marketplace-covers/ef5539a510be39cf556c.jpg' | relative_url }}" alt="Listing image for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="https://i.ebayimg.com/images/g/LZ0AAOSw~TJjKxLg/s-l225.jpg" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,7 +533,7 @@ For assessing Davis specifically, the distinction remains essential: official UA
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="official-spillover-did-official-uap-news-validate-davis-eric-davis-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-uap-news-validate-davis-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="did-official-uap-news-validate-davis-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,91 +749,91 @@ For assessing Davis specifically, the distinction remains essential: official UA
 1. <a id="endnote-1"></a>
    Source: navy.mil  
    Title: establishment of unidentified aerial phenomena task force  
-   Link: [https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/)  
+   Link: <a href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. NavyEstablishment of Unidentified Aerial Phenomena Task Force14 Aug 2020 — On Aug. 4, 2020, Deputy Secretary of Defense David L. Nor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</p></details>
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — The. Unidentified Aerial Phenomena Task Force (UAPTF) considere...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...Nov 14, 2024 — The Office of the Director of National Intelligence (ODNI) and the Depa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dni.gov  
    Title: reports publications 2021  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports &amp; Publications 2021 | Office of the Director...The Office of the Director of National Intelligence submitted to Congress a preli...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)On August 14, 2020, a successor of this program, the Unidentified Aerial Phenomena Task Force, was estab...</p></details>
    Published: August 14, 2020  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramOn July 23, 2020, The New York Times reported that while former Senator Harry... &quot;Pen...</p></details>
    Published: July 23, 2020  
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: us department defense ufo taskforce  
-   Link: [https://www.theguardian.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce](https://www.theguardian.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce)  
+   Link: <a href="https://www.theguardian.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2020/aug/15/us-department-defense-ufo-taskforce</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US defense department creates taskforce to investigate UFOs15 Aug 2020 — The Unidentified Aerial Phenomena Task Force (UAPTF) was created...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nymag.com  
    Title: New York Magazine UFO Report: Pentagon Has 'Off-World Vehicles' Not From  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York MagazineUFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...July 24, 2020 — 24 Jul 2020 — The latest UFO report from the &#x27;...</p></details>
    Published: July 24, 2020  
 
 12. <a id="endnote-12"></a>
    Source: nationalreview.com  
-   Link: [https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/](https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/)  
+   Link: <a href="https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalreview.com/news/pentagon-consultant-briefed-senators-on-discovery-of-off-world-vehicles-not-made-on-this-earth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Consultant Briefed Senators on &#x27;Off-World...24 Jul 2020 — A consultant for the Pentagon U.F.O program is speaking out about ret...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Again. Perhaps.... 2020, New York Times article titled “No Longer in Shadows, Pentagon&#x27;s U.F.O.... off-world vehicles not made on this e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gjiet9/us_navy_new_uap_documents_released_by_united/](https://www.reddit.com/r/UFOs/comments/1gjiet9/us_navy_new_uap_documents_released_by_united/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gjiet9/us_navy_new_uap_documents_released_by_united/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gjiet9/us_navy_new_uap_documents_released_by_united/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy: New UAP documents released by United States...Page 9 - UAPTF established by Navy at DepSecDef direction August 2020. [REDACTED]...</p></details>
    Published: August 2020  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
    Published: June 2021  
 
@@ -849,54 +841,54 @@ For assessing Davis specifically, the distinction remains essential: official UA
 
 16. <a id="endnote-16"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthThat is to say, of course the pentagon has a UFO program, because the pentagon doe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/01/14/ufo-sightings-2022-report](https://www.axios.com/2023/01/14/ufo-sightings-2022-report)  
+   Link: <a href="https://www.axios.com/2023/01/14/ufo-sightings-2022-report" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/01/14/ufo-sightings-2022-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Office of the Director of National Intelligence (ODNI) highlighted that these unidentified aerial phenomena (UAP) pose potential thre...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: livemint.com  
-   Link: [https://www.livemint.com/news/trends/ufo-controversy-reignites-after-former-cia-linked-researcher-claims-us-recovered-multiple-alien-species-11779027399196.html](https://www.livemint.com/news/trends/ufo-controversy-reignites-after-former-cia-linked-researcher-claims-us-recovered-multiple-alien-species-11779027399196.html)  
+   Link: <a href="https://www.livemint.com/news/trends/ufo-controversy-reignites-after-former-cia-linked-researcher-claims-us-recovered-multiple-alien-species-11779027399196.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livemint.com/news/trends/ufo-controversy-reignites-after-former-cia-linked-researcher-claims-us-recovered-multiple-alien-species-11779027399196.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO controversy reignites after former CIA-linked...17 May 2026 — UFO controversy reignites after former CIA-linked researcher claims US...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40osirisuap/the-uaptf-unmasked-what-declassified-navy-documents-reveal-and-conceal-58acf79b6a58](https://medium.com/%40osirisuap/the-uaptf-unmasked-what-declassified-navy-documents-reveal-and-conceal-58acf79b6a58)  
+   Link: <a href="https://medium.com/%40osirisuap/the-uaptf-unmasked-what-declassified-navy-documents-reveal-and-conceal-58acf79b6a58" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/the-uaptf-unmasked-what-declassified-navy-documents-reveal-and-conceal-58acf79b6a58</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAPTF Unmasked: What Declassified Navy...A Pentagon press release announcing the Task Force in August 2020 stated that the DoD “esta...</p></details>
    Published: August 2020  
 
 21. <a id="endnote-21"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, an astrophysicist who worked as a subcontractor and a consultant for the Pentagon UFO program. Davis...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...Nov 14, 2024 — You can find the unclassified version of the annual UAP report here...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jx77bLbFdxw](https://www.youtube.com/watch?v=Jx77bLbFdxw)  
+   Link: <a href="https://www.youtube.com/watch?v=Jx77bLbFdxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jx77bLbFdxw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Eric Davis Reveals Government UAP Secrets at HearingDr Eric Davis Reveals Government UAP Secrets at Hearing Full presentation video he...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KtE4kJ79yjc](https://www.youtube.com/watch?v=KtE4kJ79yjc)  
+   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. DavisEric W. Davis is an astrophysicist and a leading expert in advanced... New UFO claims are ra...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: war.gov  
    Title: Presidential Unsealing and Reporting System for UAP  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — This release of declassified documents demonstrates the Trump Administration&#x27;s earnest commitment to unprecedented transpar...</p></details>
-   Published: May 8, 2026  
+   Published: May 8, 2026

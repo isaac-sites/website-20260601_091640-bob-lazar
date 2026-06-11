@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /bennewitz/
 nav_short_title: Ethical harm
 title: When does misdirection become personal harm?
-title_full: When does misdirection become personal harm? | Bennewitz
+title_full: When does misdirection become personal harm?
 display_title_short: Ethical harm
 display_title: Ethical harm
 heading_title: When does misdirection become personal harm?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Did the Bennewitz Affair Define Doty's Legacy? | Doty
+parent_title: Did the Bennewitz Affair Define Doty's Legacy?
 parent_permalink: /bennewitz/
 parent_nav_short_title: Bennewitz
 parent_heading_title: Did the Bennewitz Affair Define Doty's Legacy?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /cover-story/
   short_title: Cover story
   heading_title: Was the UFO story a shield for secrets?
-date: '2026-06-09 02:54:56 '
+date: '2026-06-11 21:02:54 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-1.webp
@@ -256,29 +256,26 @@ image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethi
 
 ## Introduction
 
-The case of **Paul Bennewitz’s psychological breakdown** has become a central touchstone in debates about the **ethics of misinformation and misdirection** in UFO/UAP discourse. Beyond the broader *[Bennewitz affair]({{ 'bennewitz/' | relative_url }}) and the disinformation question*, this section focuses on how an intelligence‑linked campaign — in which former U.S. Air Force Office of Special Investigations (AFOSI) agent **[Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})** figures prominently — intersected with a susceptible civilian’s mental health. The real ethical question raised is not simply whether misinformation was used, but **at what point such tactics became harmful to Bennewitz himself and whether officials bear responsibility for the personal harm that followed**.
-
+The case of **Paul [Bennewitz]({{ 'bennewitz/' | relative_url }})’s psychological breakdown** has become a central touchstone in debates about the **ethics of misinformation and misdirection** in UFO/UAP discourse. Beyond the broader *Bennewitz affair and the disinformation question*, this section focuses on how an intelligence‑linked campaign — in which former U.S. Air Force Office of Special Investigations (AFOSI) agent **Richard Doty** figures prominently — intersected with a susceptible civilian’s mental health. The real ethical question raised is not simply whether misinformation was used, but **at what point such tactics became harmful to Bennewitz himself and whether officials bear responsibility for the personal harm that followed**.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-1-dark.svg" | relative_url }}" alt="Ethical harm illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Bennewitz’s Escalating Beliefs and Personal Crisis
 
-During the late 1970s and early 1980s, Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}), a New Mexico electronics entrepreneur, came to believe he was intercepting **extraterrestrial communications and observing alien activity near military facilities**. Accounts suggest that his interpretations became progressively more elaborate — including narratives about alien abductions, secret treaties, and underground bases — and that his mental health deteriorated alongside these beliefs. By **August 1988**, he was reportedly accusing his wife of being controlled by aliens and exhibiting behaviours such as barricading himself at home; his family had him admitted to **a mental health unit** where he remained under observation for about a month. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+During the late 1970s and early 1980s, Paul Bennewitz, a New Mexico electronics entrepreneur, came to believe he was intercepting **extraterrestrial communications and observing alien activity near military facilities**. Accounts suggest that his interpretations became progressively more elaborate — including narratives about alien abductions, secret treaties, and underground bases — and that his mental health deteriorated alongside these beliefs. By **August 1988**, he was reportedly accusing his wife of being controlled by aliens and exhibiting behaviours such as barricading himself at home; his family had him admitted to **a mental health unit** where he remained under observation for about a month. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 Contemporary retellings by UFO researchers and secondary sources describe a period during which **his paranoia deepened, he experienced insomnia, emotional instability, and physical deterioration**, and his personal relationships suffered dramatically. Some accounts portray a steady psychological slide from curiosity into crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-snippet">The Daily GrailUFO DISINFO: Four times the US military hoaxed alien contact through the decadesJune 7, 2021...</span><span class="citation-popover-meta">Published: June 7, 2021</span></span></span>
 
 This personal collapse frames the ethical debate: was Bennewitz’s breakdown merely the result of pre‑existing vulnerabilities — or did the misinformation campaign accelerate or worsen his condition?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kJQ_FsmU19g" title="The Airforce UFO Cover Up That Drove a Man INSANE | They&#x27;re LYING to US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kJQ_FsmU19g" target="_blank" rel="noopener noreferrer">The Airforce UFO Cover Up That Drove a Man INSANE | They&#x27;re LYING to US</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.4M &middot; Uploaded: September 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kJQ_FsmU19g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kJQ_FsmU19g">Open on YouTube</a></p></div></div></div>
 
 ## The Ethical Line Between Diversion and Exploitation
 
-The [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}) is often cited as an extreme example of the potential harm that can arise when **official or semi‑official actors use deceptive tactics against civilians**. Scholars of ethics argue that misinformation becomes especially problematic when it *uses an individual as a means to an end*, rather than respecting them as autonomous agents — a principle grounded in broader ethical theories about deception and harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation in Experimental Political Science | Perspectives on Politics | Cambridge CoreOctobe...</span></span></span> University Press & Assessment
+The [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}) is often cited as an extreme example of the potential harm that can arise when **official or semi‑official actors use deceptive tactics against civilians**. Scholars of ethics argue that misinformation becomes especially problematic when it *uses an individual as a means to an end*, rather than respecting them as autonomous agents — a principle grounded in broader ethical theories about deception and harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation in Experimental Political Science &#124; Perspectives on Politics &#124; Cambridge CoreOctobe...</span></span></span> University Press & Assessment
 
 Critics of the tactics employed in the 1980s suggest that what began — according to some UFO‑centric narratives — as an attempt to deflect attention from classified military projects soon evolved into something far more consequential for Bennewitz’s wellbeing. By feeding him increasingly elaborate false narratives, including fabricated documents and sensational anthropological claims, the operation arguably did more than protect secrets: it **perpetuated and reinforced his emerging delusional convictions**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicalblindness.com">[Historical Blindness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicalblindness.com</span><span class="citation-popover-title">Historical Blindness UFO Disinfo: Part Three</span><span class="citation-popover-snippet">Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</span><span class="citation-popover-meta">Published: August 16, 2021</span></span></span>
 
 The severity of this outcome raises uncomfortable ethical issues:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -288,18 +285,16 @@ The severity of this outcome raises uncomfortable ethical issues:
 
 </div>
 
-These ethical dimensions reflect broader debates in misinformation studies about the line between strategic deception for security and the exploitation of vulnerable individuals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation in Experimental Political Science | Perspectives on Politics | Cambridge CoreOctobe...</span></span></span> University Press & Assessment
-
+These ethical dimensions reflect broader debates in misinformation studies about the line between strategic deception for security and the exploitation of vulnerable individuals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation in Experimental Political Science &#124; Perspectives on Politics &#124; Cambridge CoreOctobe...</span></span></span> University Press & Assessment
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3xYW6K2u60" title="Richard Doty &amp; UFO Disinformation | Inside Project Beta author Greg Bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3xYW6K2u60" target="_blank" rel="noopener noreferrer">Richard Doty &amp; UFO Disinformation | Inside Project Beta author Greg Bishop</a></p><p class="youtube-embed-meta">Channel: Rebelliously Curious with Chrissy Newton &middot; Views: 38.8K &middot; Uploaded: December 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3xYW6K2u60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3xYW6K2u60">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-3-dark.svg" | relative_url }}" alt="Ethical harm illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-2-dark.svg" | relative_url }}" alt="Ethical harm illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_bennewitz_ethical_ha_7e0371-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Harm Debate Shapes Doty’s Credibility
 
-Richard Doty’s role in the Bennewitz affair — including his later public discussions acknowledging that he passed on fabricated documents — remains controversial. Some proponents of the “disinformation as diversion” narrative view Doty as a deliberate operator in an intelligence strategy that used misinformation to redirect civilian attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">WIREDMirage Men: UFO researcher Mark Pilkington on deception and psychological warfare | WIREDOctober 6, 2010...</span><span class="citation-popover-meta">Published: October 6, 2010</span></span></span>
+Richard Doty’s role in the Bennewitz affair — including his later public discussions acknowledging that he passed on fabricated documents — remains controversial. Some proponents of the “disinformation as diversion” narrative view Doty as a deliberate operator in an intelligence strategy that used misinformation to redirect civilian attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception and psychological warfare &#124; WIREDOctober 6, 2010...</span><span class="citation-popover-meta">Published: October 6, 2010</span></span></span>
 
 However, this framing is not unchallenged: critics argue that it **places too much weight on Doty’s later retrospective accounts** and that there is no definitive official record of authorisation for an intentional psychological operation. Critics also contend that Bennewitz’s behaviour may have been driven by underlying psychological vulnerabilities that existed prior to, and independent of, any interaction with intelligence figures. What is clear from both sides is that the extent to which misinformation caused or merely coincided with Bennewitz’s breakdown remains contested.
 
@@ -307,9 +302,7 @@ Regardless of motive, the ethical implications have shaped how Doty is perceived
 
 In this light, the Bennewitz case serves not just as a footnote in UFO folklore, but as a cautionary example of the **risk inherent in deploying misinformation without regard for individual consequences** — a lens that continues to influence discussions about Doty’s broader credibility and the ethics of disinformation in sensitive contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YCO_GSHgb-A" title="The Airforce UFO Cover Up That Drove a Man INSANE | The Paul Bennewitz Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YCO_GSHgb-A" target="_blank" rel="noopener noreferrer">The Airforce UFO Cover Up That Drove a Man INSANE | The Paul Bennewitz Story</a></p><p class="youtube-embed-meta">Channel: The Why Files: Operation Podcast &middot; Views: 634 &middot; Uploaded: April 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YCO_GSHgb-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YCO_GSHgb-A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -323,16 +316,16 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UugAST0XW9gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
         </h4>
-        <p class="fr-book-author">By Greg Bishop</p>
+        <p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Addresses Bennewitz&#x27;s deterioration and the controversy over responsibility.</p>
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -340,16 +333,16 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Explores manipulation, belief, and alleged psychological harm.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -357,16 +350,16 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
         </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Provides tools for understanding how extraordinary beliefs develop.</p>
+        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -374,16 +367,16 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Helps explain belief reinforcement and self-justification dynamics.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,7 +384,7 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -428,15 +421,15 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -444,15 +437,15 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -460,15 +453,31 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,7 +485,7 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-does-misdirection-become-personal-harm-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-misdirection-become-personal-harm-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="when-does-misdirection-become-personal-harm-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -692,30 +701,30 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28](https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28)  
+   Link: <a href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/perspectives-on-politics/article/misinformation-in-experimental-political-science/3A7A0F8F48C863C57C4AED4D54424E28</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMisinformation in Experimental Political Science | Perspectives on Politics | Cambridge CoreOctobe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: [mirage men](&#123;&#123; 'mirage-men/' | relative_url &#125;&#125;)  
-   Link: [https://www.wired.com/story/mirage-men](https://www.wired.com/story/mirage-men)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDMirage Men: UFO researcher Mark Pilkington on deception and psychological warfare | WIREDOctober 6, 2010...</p></details>
+   Link: <a href="https://www.wired.com/story/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception and psychological warfare | WIREDOctober 6, 2010...</p></details>
    Published: October 6, 2010  
 
 5. <a id="endnote-5"></a>
    Source: dailygrail.com  
-   Link: [https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/](https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/)  
+   Link: <a href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailUFO DISINFO: Four times the US military hoaxed alien contact through the decadesJune 7, 2021...</p></details>
    Published: June 7, 2021  
 
 6. <a id="endnote-6"></a>
    Source: historicalblindness.com  
    Title: Historical Blindness UFO Disinfo: Part Three  
-   Link: [https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception](https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception)  
+   Link: <a href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</p></details>
    Published: August 16, 2021  
 
@@ -723,63 +732,63 @@ In this light, the Bennewitz case serves not just as a footnote in UFO folklore,
 
 7. <a id="endnote-7"></a>
    Source: ufofeed.com  
-   Link: [https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/](https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/)  
+   Link: <a href="https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/21244/a-reminder-that-government-agencies-pump-the-ufo-community-with-disinformation-richard-doty-and-paul-bennewitz/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 — UFO A REMINDER THAT GOVERNMENT AGENCIES PUMP THE UFO COMMUNITY WITH DISINFORMATION (RICHARD DOTY AND PAUL BENNEWITZ) October 30, 202...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/blog/a-logical-take/202307/a-logical-take-on-the-new-news-about-aliens](https://www.psychologytoday.com/gb/blog/a-logical-take/202307/a-logical-take-on-the-new-news-about-aliens)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/a-logical-take/202307/a-logical-take-on-the-new-news-about-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/a-logical-take/202307/a-logical-take-on-the-new-news-about-aliens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Kyle Johnson Ph.D. A Logical Take MAGICAL THINKING WHY YOU SHOULD DOUBT THE NEW &quot;EVIDENCE&quot; ABOUT ALIENS AND UFOS USING LOGIC TO EVA...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: research-repository.uwa.edu.au  
-   Link: [https://research-repository.uwa.edu.au/en/publications/best-practices-for-ethical-conduct-of-misinformation-research-a-s/](https://research-repository.uwa.edu.au/en/publications/best-practices-for-ethical-conduct-of-misinformation-research-a-s/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/best-practices-for-ethical-conduct-of-misinformation-research-a-s/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/best-practices-for-ethical-conduct-of-misinformation-research-a-s/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practices for Ethical Conduct of Misinformation Research: A Scoping Review and Critical Commentary - the UWA Profiles and Research Reposi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: paranormalinsight.co.uk  
    Title: Doty’s name is impossible to separate from Paul Bennewitz. One was convin  
-   Link: [https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies](https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies)  
+   Link: <a href="https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalinsight.co.uk/blog/paul-bennewitz-and-richard-doty-the-ufo-insider-who-profited-from-lies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz &amp; Richard Doty: The UFO Insider Who Profited From LiesSeptember 30, 2025 — PAUL BENNEWITZ AND RICHARD DOTY: THE UFO INSIDE...</p></details>
    Published: September 30, 2025  
 
 11. <a id="endnote-11"></a>
    Source: infra.org.pl  
    Title: UF O i broń jądrowa: Agent, który oszukał ufologię – Portal Infra  
-   Link: [https://www.infra.org.pl/2012/05/19/ufo-i-bro-jdrowa-agent-ktory-oszuka-ufologi/](https://www.infra.org.pl/2012/05/19/ufo-i-bro-jdrowa-agent-ktory-oszuka-ufologi/)  
+   Link: <a href="https://www.infra.org.pl/2012/05/19/ufo-i-bro-jdrowa-agent-ktory-oszuka-ufologi/" target="_blank" rel="noopener noreferrer nofollow">https://www.infra.org.pl/2012/05/19/ufo-i-bro-jdrowa-agent-ktory-oszuka-ufologi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO i broń jądrowa: Agent, który oszukał ufologię – Portal InfraMay 19, 2012 — Choć w książkach Marka Pilkingtona, Nicka Redferna czy Gre...</p></details>
    Published: May 19, 2012  
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
    Title: Full article: The Problem of Disinformation: A Critical Approach  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2346127](https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2346127)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2346127" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2346127</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2024 — THE PROBLEM OF DISINFORMATION: A CRITICAL APPROACH Tim HaywardSchool of Social and Political Science, The University of Ed...</p></details>
    Published: May 20, 2024  
 
 13. <a id="endnote-13"></a>
    Source: cato.org  
    Title: The Misleading Panic over Misinformation | Cato Institute  
-   Link: [https://www.cato.org/policy-analysis/misleading-panic-over-misinformation](https://www.cato.org/policy-analysis/misleading-panic-over-misinformation)  
+   Link: <a href="https://www.cato.org/policy-analysis/misleading-panic-over-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cato.org/policy-analysis/misleading-panic-over-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 26, 2025 — Policy Analysis THE MISLEADING PANIC OVER MISINFORMATION AND WHY GOVERNMENT SOLUTIONS WON’T WORK People can’t agree on ho...</p></details>
    Published: June 26, 2025  
 
 14. <a id="endnote-14"></a>
    Source: subterraneanbases.com  
    Title: Alleged Human Rights Abuses at a Joint US Govt-ET Base,  
-   Link: [https://subterraneanbases.com/alleged-human-rights-abuses-at-a-joint-us-govt-et-base-dulce-nm/](https://subterraneanbases.com/alleged-human-rights-abuses-at-a-joint-us-govt-et-base-dulce-nm/)  
+   Link: <a href="https://subterraneanbases.com/alleged-human-rights-abuses-at-a-joint-us-govt-et-base-dulce-nm/" target="_blank" rel="noopener noreferrer nofollow">https://subterraneanbases.com/alleged-human-rights-abuses-at-a-joint-us-govt-et-base-dulce-nm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Subterranean BasesSeptember 25, 2003 — For instance, in an online article that is critical of evidence for the Dulce base, the writer Roy...</p></details>
    Published: September 25, 2003  
 
 15. <a id="endnote-15"></a>
    Source: dailygrail.com  
    Title: Mirage Men: An Interview with Mark Pilkington  
-   Link: [https://www.dailygrail.com/2010/08/mirage-men-2/](https://www.dailygrail.com/2010/08/mirage-men-2/)  
+   Link: <a href="https://www.dailygrail.com/2010/08/mirage-men-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2010/08/mirage-men-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2010 — TDG: This theme of government psy-ops forms a substantial part of Mirage Men, with one of the focus points being the di...</p></details>
    Published: August 13, 2010  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Airforce UFO Cover Up That Drove a Man INSANE | The Paul Bennewitz Story  
-   Link: [https://www.youtube.com/watch?v=YCO_GSHgb-A](https://www.youtube.com/watch?v=YCO_GSHgb-A)  
+   Link: <a href="https://www.youtube.com/watch?v=YCO_GSHgb-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCO_GSHgb-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Why Files&quot; Paul Bennewitz The Airforce UFO Cover Up That Drove a Man INSANE | They&#x27;re LYING to US The Why Files...</p></details>

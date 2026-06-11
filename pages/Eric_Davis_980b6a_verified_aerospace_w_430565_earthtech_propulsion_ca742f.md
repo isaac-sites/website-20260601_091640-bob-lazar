@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /verified-work/
 nav_short_title: Propulsion work
 title: Does speculative propulsion make UFO claims stronger?
-title_full: Does speculative propulsion make UFO claims stronger? | Verified Work
+title_full: Does speculative propulsion make UFO claims stronger?
 display_title_short: Propulsion work
 display_title: Propulsion work
 heading_title: Does speculative propulsion make UFO claims stronger?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Can Actually Be Verified? | Davis
+parent_title: What Can Actually Be Verified?
 parent_permalink: /verified-work/
 parent_nav_short_title: Verified Work
 parent_heading_title: What Can Actually Be Verified?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /off-world-claim-179a09/
   short_title: Off world claim
   heading_title: Why the off world vehicle claim remains unresolved
-date: '2026-06-09 03:05:23 '
+date: '2026-06-11 21:07:33 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1.webp
@@ -256,15 +256,14 @@ image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_pr
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }})’s credibility in UFO and UAP debates is often tied to a genuine and unusual part of his professional background: his work on advanced propulsion, warp-drive concepts, spacetime engineering, and other far-future aerospace ideas. Unlike many UFO commentators, Davis has a documented publication record in speculative physics and has worked through organisations such as EarthTech International and the Institute for Advanced Studies at Austin. That record is real and verifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> EarthTech The harder question is whether that technical background makes his claims about recovered non-human technology <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>, crash retrieval programmes, or alleged off-world vehicles more credible. The answer is more limited than supporters sometimes suggest. Davis’s propulsion work demonstrates expertise in theoretical aerospace concepts and government-funded exploratory research. It does not independently verify claims about alien craft. Understanding that distinction is essential when assessing his overall credibility.
-
+Eric Davis’s credibility in UFO and UAP debates is often tied to a genuine and unusual part of his professional background: his work on advanced propulsion, warp-drive concepts, spacetime engineering, and other far-future aerospace ideas. Unlike many UFO commentators, Davis has a documented publication record in speculative physics and has worked through organisations such as EarthTech International and the Institute for Advanced Studies at Austin. That record is real and verifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> EarthTech The harder question is whether that technical background makes his claims about recovered non-human technology <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>, crash retrieval programmes, or alleged off-world vehicles more credible. The answer is more limited than supporters sometimes suggest. Davis’s propulsion work demonstrates expertise in theoretical aerospace concepts and government-funded exploratory research. It does not independently verify claims about alien craft. Understanding that distinction is essential when assessing his overall credibility.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1-dark.svg" | relative_url }}" alt="Propulsion work illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The verified EarthTech and AIAA publication trail
 
 The strongest evidence for Davis’s professional standing comes from a public record that extends well beyond UFO media appearances.
 
-EarthTech International identifies Davis as a senior science adviser and lists extensive publications in propulsion physics, general relativity, quantum field theory, directed-energy systems, and advanced spaceflight concepts. These publications include conference papers, technical studies, book chapters, and aerospace-related research projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> EarthTech One of the most frequently cited examples is <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>*Frontiers of Propulsion Science*, edited by Marc Millis and Eric Davis and published through the American Institute of Aeronautics and Astronautics (AIAA). The book was not a UFO publication. It was an attempt to survey highly speculative propulsion concepts and assess which ideas might merit scientific investigation. AIAA and related descriptions present it as a large-scale review of concepts such as [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}), gravity control, spacetime manipulation and faster-than-light travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterstones.com">[Waterstones]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterstones.com</span><span class="citation-popover-title">Frontiers of Propulsion Science by Marc G Millis, Eric W</span><span class="citation-popover-snippet">WaterstonesFrontiers of Propulsion Science by Marc G Millis, Eric W...March 30, 2009 — Publisher information; Publisher: American Insti...</span><span class="citation-popover-meta">Published: March 30, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksFrontiers of Propulsion ScienceFrontiers of Propulsion Science is the first-ever compilation of emerging science relevant to...</span></span></span>
+EarthTech International identifies Davis as a senior science adviser and lists extensive publications in propulsion physics, general relativity, quantum field theory, directed-energy systems, and advanced spaceflight concepts. These publications include conference papers, technical studies, book chapters, and aerospace-related research projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> EarthTech One of the most frequently cited examples is <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>*Frontiers of Propulsion Science*, edited by Marc Millis and Eric Davis and published through the American Institute of Aeronautics and Astronautics (AIAA). The book was not a UFO publication. It was an attempt to survey highly speculative propulsion concepts and assess which ideas might merit scientific investigation. AIAA and related descriptions present it as a large-scale review of concepts such as [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}), gravity control, spacetime manipulation and faster-than-light travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterstones.com">[Waterstones]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterstones.com</span><span class="citation-popover-title">Frontiers of Propulsion Science by Marc G Millis, Eric W</span><span class="citation-popover-snippet">Frontiers of Propulsion Science by Marc G Millis, Eric W...March 30, 2009 — Publisher information; Publisher: American Insti...</span><span class="citation-popover-meta">Published: March 30, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksFrontiers of Propulsion ScienceFrontiers of Propulsion Science is the first-ever compilation of emerging science relevant to...</span></span></span>
 
 This publication history matters because it shows that Davis occupied a recognised niche within advanced aerospace research. His work was not merely self-published speculation. He participated in technical communities willing to explore long-horizon propulsion questions, even when practical engineering applications remained uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Frontiers-Propulsion-Progress-Astronautics-Aeronautics/dp/1563479567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">Amazon UKFrontiers of Propulsion Science: 227 (Progress in...A Professional-grade publication that covering diverse topics relating to p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksFrontiers of Propulsion ScienceFrontiers of Propulsion Science is the first-ever compilation of emerging science relevant to...</span></span></span>
 
@@ -274,23 +273,21 @@ Supporters often point to this record as evidence that Davis should be taken ser
 
 A common misunderstanding is that research into warp drives or wormholes represents evidence that such technologies exist.
 
-In reality, much of the work associated with Davis concerns theoretical possibilities permitted under certain interpretations of general relativity rather than demonstrated engineering achievements. Papers discussing traversable wormholes, spacetime warps, [negative energy]({{ 'negative-energy/' | relative_url }}) densities or metric engineering generally explore mathematical frameworks and physical constraints rather than functioning hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> ResearchGate The Defence Intelligence Agency reference document <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateNegative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>*Traversable Wormholes, Stargates, and Negative Energy*, authored by Davis under the Advanced Aerospace Weapon System Applications programme, is a good example. The document surveys theoretical literature and discusses requirements for hypothetical traversable wormholes. It does not claim that operational wormholes have been built, discovered, or reverse-engineered. Instead, it examines what known physics would require if such systems were ever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">traversablewormholes drdavis</span><span class="citation-popover-snippet">Davis, Ph.D. Earthtech International, Inc. 11855 Research... [8] Davis, E. W., &quot;Teleportation Physics Study,&quot; Air Force...Read more...</span></span></span>
+In reality, much of the work associated with Davis concerns theoretical possibilities permitted under certain interpretations of general relativity rather than demonstrated engineering achievements. Papers discussing traversable wormholes, spacetime warps, [negative energy]({{ 'negative-energy/' | relative_url }}) densities or metric engineering generally explore mathematical frameworks and physical constraints rather than functioning hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> ResearchGate The Defence Intelligence Agency reference document <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>*Traversable Wormholes, Stargates, and Negative Energy*, authored by Davis under the Advanced Aerospace Weapon System Applications programme, is a good example. The document surveys theoretical literature and discusses requirements for hypothetical traversable wormholes. It does not claim that operational wormholes have been built, discovered, or reverse-engineered. Instead, it examines what known physics would require if such systems were ever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">traversablewormholes drdavis</span><span class="citation-popover-snippet">Davis, Ph.D. Earthtech International, Inc. 11855 Research... [8] Davis, E. W., &quot;Teleportation Physics Study,&quot; Air Force...Read more...</span></span></span>
 
 This distinction often disappears in UFO discussions. A government-sponsored paper on wormholes can sound dramatic, but government interest in a topic is not evidence that the topic has been realised technologically. Defence agencies routinely fund exploratory studies into concepts that may never become practical systems.
 
 The same issue applies to many propulsion concepts discussed in Davis-linked work:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Warp-drive models frequently require exotic forms of matter or energy that have never been produced in useful quantities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateNegative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>
+* Warp-drive models frequently require exotic forms of matter or energy that have never been produced in useful quantities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>
 * Traversable wormhole proposals often depend on negative-energy conditions that remain experimentally problematic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span>
-* Later academic work continues to explore these questions mathematically, but practical implementation remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
+* Later academic work continues to explore these questions mathematically, but practical implementation remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
 
 </div>
 
 As a result, Davis’s propulsion research demonstrates engagement with speculative theoretical physics rather than evidence that revolutionary propulsion systems have already been achieved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/66Gp69Yv9rU" title="Overview of Breakthrough Propulsion at TU Dresden | Prof. Martin Tajmar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=66Gp69Yv9rU" target="_blank" rel="noopener noreferrer">Overview of Breakthrough Propulsion at TU Dresden | Prof. Martin Tajmar</a></p><p class="youtube-embed-meta">Channel: Interstellar Research Group &middot; Views: 708 &middot; Uploaded: April 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=66Gp69Yv9rU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=66Gp69Yv9rU">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +303,6 @@ Third, they point to his participation in programmes associated with the Advance
 
 That is a defensible point. His aerospace record is one reason journalists, congressional staff, defence-linked researchers and UFO investigators have treated him as a potentially important source rather than simply ignoring him.
 
-
-<img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-dark.svg" | relative_url }}" alt="Propulsion work illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why technical credentials do not prove crash retrievals
 
 The strongest sceptical response is that expertise and evidence are different things.
@@ -315,7 +310,6 @@ The strongest sceptical response is that expertise and evidence are different th
 A scientist can be highly qualified in one area and still be mistaken, overconfident, reliant on weak sourcing, or unable to publicly substantiate a claim in another area. History contains many examples of respected researchers endorsing ideas that later proved incorrect.
 
 This matters because the most controversial claims associated with Davis involve alleged recovered non-human vehicles and secret reverse-engineering efforts. Public discussion of those claims typically relies on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,9 +327,7 @@ This is where credibility assessments often become distorted. Some UFO advocates
 
 Even within advanced propulsion research itself, many concepts discussed by Davis remain hypothetical. Therefore, moving from “this scientist studies speculative propulsion” to “therefore crash-retrieval claims are true” involves a logical leap that the public evidence does not currently support.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W3EHW_2W6Ac" title="Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer">Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 313 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W3EHW_2W6Ac">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-dark.svg" | relative_url }}" alt="Propulsion work illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The gap between theoretical possibility and alien technology
 
 One reason Davis attracts attention is that his research topics overlap superficially with descriptions often associated with advanced UFO performance.
@@ -348,7 +340,6 @@ Physics contains many mathematically consistent ideas that remain experimentally
 
 For credibility purposes, this distinction is crucial:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * Davis’s work may support the claim that mainstream physics has explored unconventional propulsion concepts.
@@ -360,17 +351,14 @@ For credibility purposes, this distinction is crucial:
 
 Those are separate claims requiring separate evidence.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-3-dark.svg" | relative_url }}" alt="Propulsion work illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the propulsion record actually contributes to Davis’s credibility
 
 The most balanced assessment is that Davis’s EarthTech and propulsion work strengthens some aspects of his credibility while leaving the central UFO controversies unresolved.
 
-His publication history shows that he has a genuine background in advanced aerospace concepts, theoretical propulsion research and defence-adjacent technical studies. He is not simply presenting himself as a physicist; there is a verifiable record behind that description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>, the content of that work is often exploratory and highly speculative. The existence of papers on wormholes, warp drives or negative energy does not demonstrate the existence of alien craft, recovered technology or secret reverse-engineering programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateNegative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>, Davis’s propulsion record is best viewed as evidence that he belongs to a real, specialised aerospace research community. It justifies taking his technical background seriously. It does not, by itself, authenticate the extraordinary UFO claims that have become central to public [debate]({{ 'debate/' | relative_url }}) about his credibility.
+His publication history shows that he has a genuine background in advanced aerospace concepts, theoretical propulsion research and defence-adjacent technical studies. He is not simply presenting himself as a physicist; there is a verifiable record behind that description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Eric W. Davis</span><span class="citation-popover-snippet">Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</span></span></span>, the content of that work is often exploratory and highly speculative. The existence of papers on wormholes, warp drives or negative energy does not demonstrate the existence of alien craft, recovered technology or secret reverse-engineering programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">B.Read more</span><span class="citation-popover-snippet">Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</span></span></span>, Davis’s propulsion record is best viewed as evidence that he belongs to a real, specialised aerospace research community. It justifies taking his technical background seriously. It does not, by itself, authenticate the extraordinary UFO claims that have become central to public [debate]({{ 'debate/' | relative_url }}) about his credibility.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OBSdg3nwxoo" title="Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer">Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan</a></p><p class="youtube-embed-meta">Channel: Dr Brian Keating</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OBSdg3nwxoo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W3EHW_2W6Ac" title="Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer">Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 313 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W3EHW_2W6Ac">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -501,15 +489,15 @@ His publication history shows that he has a genuine background in advanced aeros
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales"><img src="https://i.ebayimg.com/images/g/AycAAeSw77xqC3~2/s-l225.jpg" alt="Listing image for Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE."><img src="https://i.ebayimg.com/images/g/iv4AAOSwfLpm8DkV/s-l225.jpg" alt="Listing image for New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Space X Starship V3 and Superheavy Booster Model Rocket Kit Various Scales</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer">New! The Mighty Soviet N1 Moon Rocket Kit model. ALL WHITE.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +505,15 @@ His publication history shows that he has a genuine background in advanced aeros
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo"><img src="https://i.ebayimg.com/images/g/bQYAAeSwO85qIuGV/s-l225.jpg" alt="Listing image for space rocket plastic model kits Mercury Atlas and Friendship 7 Duo" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled"><img src="https://i.ebayimg.com/images/g/xE8AAeSw6cJorv~J/s-l225.jpg" alt="Listing image for Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">space rocket plastic model kits Mercury Atlas and Friendship 7 Duo</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Black Arrow Rocket – 1:32 Scale – Display Scale Model – 406mm 16inch - Assembled</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +521,31 @@ His publication history shows that he has a genuine background in advanced aeros
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1984 NASA Space Shuttle Monogram Model Kit"><img src="https://i.ebayimg.com/images/g/fGUAAeSwA2NqJLcm/s-l225.jpg" alt="Listing image for 1984 NASA Space Shuttle Monogram Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model"><img src="https://i.ebayimg.com/images/g/IGsAAeSwVKVqAcsI/s-l225.jpg" alt="Listing image for Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">1984 NASA Space Shuttle Monogram Model Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Titan II Rocket Model Kit – Gemini NASA Space Rocket – 1/40 scale Display Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:144 Soyuz 2 Launch Vehicle Russian Space Rocket model kit Zvezda"><img src="https://i.ebayimg.com/images/g/EO4AAeSwhrZqDEmT/s-l225.jpg" alt="Listing image for 1:144 Soyuz 2 Launch Vehicle Russian Space Rocket model kit Zvezda" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer">1:144 Soyuz 2 Launch Vehicle Russian Space Rocket model kit Zvezda</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +553,7 @@ His publication history shows that he has a genuine background in advanced aeros
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-speculative-propulsion-make-ufo-claims-stronger-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="does-speculative-propulsion-make-ufo-claims-stronger-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,171 +769,171 @@ His publication history shows that he has a genuine background in advanced aeros
 1. <a id="endnote-1"></a>
    Source: earthtech.org  
    Title: Earth Tech Eric W. Davis  
-   Link: [https://earthtech.org/pubs/davis/](https://earthtech.org/pubs/davis/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthTechEric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</p></details>
+   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W. Davis - EarthTechEric Davis, Senior Science Advisor, Academic Books, Chapters in Books, Contribution to Books: Davis, EW...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Principal Team - EarthTechEric Davis. Senior Science Advisor. Eric W. Davis, Ph.D. is a Senior Science Advisor to EarthTech Int&#x27;l, Inc. a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: earthtech.org  
    Title: Earth Tech Publications  
-   Link: [https://earthtech.org/pubs/](https://earthtech.org/pubs/)  
+   Link: <a href="https://earthtech.org/pubs/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications - EarthTechPublications. Eric Davis. Senior Science Advisor. Publications. Scott Little. Experimentalist. Publications. Mari...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: waterstones.com  
    Title: Frontiers of Propulsion Science by Marc G Millis, Eric W  
-   Link: [https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564](https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WaterstonesFrontiers of Propulsion Science by Marc G Millis, Eric W...March 30, 2009 — Publisher information; Publisher: American Insti...</p></details>
+   Link: <a href="https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/frontiers-of-propulsion-science/marc-g-millis/eric-w-davis/9781563479564</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers of Propulsion Science by Marc G Millis, Eric W...March 30, 2009 — Publisher information; Publisher: American Insti...</p></details>
    Published: March 30, 2009  
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ](https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ)  
+   Link: <a href="https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Frontiers_of_Propulsion_Science.html?id=qcceAQAAIAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksFrontiers of Propulsion ScienceFrontiers of Propulsion Science is the first-ever compilation of emerging science relevant to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Frontiers-Propulsion-Progress-Astronautics-Aeronautics/dp/1563479567](https://www.amazon.co.uk/Frontiers-Propulsion-Progress-Astronautics-Aeronautics/dp/1563479567)  
+   Link: <a href="https://www.amazon.co.uk/Frontiers-Propulsion-Progress-Astronautics-Aeronautics/dp/1563479567" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Frontiers-Propulsion-Progress-Astronautics-Aeronautics/dp/1563479567</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKFrontiers of Propulsion Science: 227 (Progress in...A Professional-grade publication that covering diverse topics relating to p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/AIAA-2006-4908-747.pdf](https://www.earthtech.org/publications/AIAA-2006-4908-747.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/AIAA-2006-4908-747.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/AIAA-2006-4908-747.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis*. Institute for Advanced Studies at Austin, Austin, Texas, 78759. Implementation of faster-than-light (FTL) interstellar travel...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive](https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateNegative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teleportation via Wormhole- Stargates• Energy density of material required to create &amp; thread a traversable wormhole must be “negative”...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pdfcoffee.com  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2102.06628](https://arxiv.org/abs/2102.06628)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06628</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</p></details>
    Published: February 12, 2021  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Are Einstein-Dirac-Maxwell wormholes traversable?  
-   Link: [https://arxiv.org/abs/2305.11217](https://arxiv.org/abs/2305.11217)  
+   Link: <a href="https://arxiv.org/abs/2305.11217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.11217</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2107.07052](https://arxiv.org/abs/2107.07052)  
+   Link: <a href="https://arxiv.org/abs/2107.07052" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.07052</a>  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv Traversable Casimir Wormholes in D Dimensions  
-   Link: [https://arxiv.org/abs/2107.00605](https://arxiv.org/abs/2107.00605)  
+   Link: <a href="https://arxiv.org/abs/2107.00605" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.00605</a>  
 
 15. <a id="endnote-15"></a>
    Source: disclosure.org  
-   Link: [https://disclosure.org/team/eric-davis](https://disclosure.org/team/eric-davis)  
+   Link: <a href="https://disclosure.org/team/eric-davis" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/team/eric-davis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, Ph.D., is a leading expert in advanced aerospace and... In 2004-2019, he was the Chief Science Officer and Senior Research Physic...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: earthtech.org  
    Title: Robertson Murad Davis ECM 49 3  
-   Link: [https://www.earthtech.org/publications/Robertson-Murad-Davis_ECM_49_3.pdf](https://www.earthtech.org/publications/Robertson-Murad-Davis_ECM_49_3.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/Robertson-Murad-Davis_ECM_49_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/Robertson-Murad-Davis_ECM_49_3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Realistically, it is difficult to achieve this using current space propulsion science.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Eric-Davis-16](https://www.researchgate.net/profile/Eric-Davis-16)  
+   Link: <a href="https://www.researchgate.net/profile/Eric-Davis-16" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Eric-Davis-16</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contact Eric DAVIS...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/lab/Eric-W-Davis-Lab](https://www.researchgate.net/lab/Eric-W-Davis-Lab)  
+   Link: <a href="https://www.researchgate.net/lab/Eric-W-Davis-Lab" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/lab/Eric-W-Davis-Lab</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W. Davis&#x27;s lab | Independent ResearcherOur research interests include theories of spacetime, gravity and cosmology; studies of the q...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tauzero.aero  
-   Link: [https://tauzero.aero/who-we-are/](https://tauzero.aero/who-we-are/)  
+   Link: <a href="https://tauzero.aero/who-we-are/" target="_blank" rel="noopener noreferrer nofollow">https://tauzero.aero/who-we-are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tau Zero FoundationWho We AreEric W. Davis is a Senior Research Physicist at the Institute for Advanced Studies at Austin and is the Foun...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dia.mil  
    Title: B.Read more  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: documents.theblackvault.com  
    Title: traversablewormholes drdavis  
-   Link: [https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf](https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, Ph.D. Earthtech International, Inc. 11855 Research... [8] Davis, E. W., &quot;Teleportation Physics Study,&quot; Air Force...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ifind.swan.ac.uk  
    Title: swan.ac.uk Frontiers of propulsion science  
-   Link: [https://ifind.swan.ac.uk/discovery/fulldisplay/alma998286491402417/44WHELF_SWA%3A44WHELF_SWA_VU1](https://ifind.swan.ac.uk/discovery/fulldisplay/alma998286491402417/44WHELF_SWA%3A44WHELF_SWA_VU1)  
+   Link: <a href="https://ifind.swan.ac.uk/discovery/fulldisplay/alma998286491402417/44WHELF_SWA%3A44WHELF_SWA_VU1" target="_blank" rel="noopener noreferrer nofollow">https://ifind.swan.ac.uk/discovery/fulldisplay/alma998286491402417/44WHELF_SWA%3A44WHELF_SWA_VU1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of propulsion science - Swansea University - iFindThis books is the first compilation of emerging science relevant to such notions as spa...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/](https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis: r/UFOsEric Davis publicly stated that US government recovered off world vehicles. He gave briefing to some politicians few y...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013](https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013)  
+   Link: <a href="https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTL Space Warps: Theory and Applications | PDFDia Warpdrives. 34 pages. Traversable Wormholes and Stargates. PDF. No ratings yet. Travers...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lifeboat.com  
-   Link: [https://lifeboat.com/ex/bios.eric.w.davis](https://lifeboat.com/ex/bios.eric.w.davis)  
+   Link: <a href="https://lifeboat.com/ex/bios.eric.w.davis" target="_blank" rel="noopener noreferrer nofollow">https://lifeboat.com/ex/bios.eric.w.davis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lifeboat Foundation Bios: Dr. Eric W. DavisEric is a research physicist at the Institute for Advanced Studies-Austin and EarthTech Intern...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scriptbooks.co.uk  
-   Link: [https://www.scriptbooks.co.uk/product/54834/frontiers-of-propulsion-science](https://www.scriptbooks.co.uk/product/54834/frontiers-of-propulsion-science)  
+   Link: <a href="https://www.scriptbooks.co.uk/product/54834/frontiers-of-propulsion-science" target="_blank" rel="noopener noreferrer nofollow">https://www.scriptbooks.co.uk/product/54834/frontiers-of-propulsion-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers of Propulsion ScienceFrontiers of Propulsion Science is the first-ever compilation of emerging science relevant to such notions...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N](https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N)  
+   Link: <a href="https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy fund here: [https://lnkd.in/e5uTgK3a](https://lnkd.in/e5uTgK3a).... NEW PDF...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt](https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. UNCLASSIFIED//FOR OFFICIAL USE ONLY Defense Intelligence Reference...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)(PDF  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19. Antigravity for Aerospace Applications (PDF - 44 Pages) · 20...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748](https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748)  
+   Link: <a href="https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/the-science-of-antigravity-faster-than-light-ftl-travel-and-space-time-metric-engineering-9b81b78a0748</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of antigravity, faster than light (FTL) travel and...Traversable Wormholes, Stargates, and Negative Energy DIRD_18...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/4082367/davis-wormholestargates](https://www.scribd.com/document/4082367/davis-wormholestargates)  
+   Link: <a href="https://www.scribd.com/document/4082367/davis-wormholestargates" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/4082367/davis-wormholestargates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sions, but require &quot;exotic matter&quot; with negative energy density...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: centauri-dreams.org  
    Title: frontiers in propulsion science a major new text  
-   Link: [https://www.centauri-dreams.org/2008/06/10/frontiers-in-propulsion-science-a-major-new-text/](https://www.centauri-dreams.org/2008/06/10/frontiers-in-propulsion-science-a-major-new-text/)  
+   Link: <a href="https://www.centauri-dreams.org/2008/06/10/frontiers-in-propulsion-science-a-major-new-text/" target="_blank" rel="noopener noreferrer nofollow">https://www.centauri-dreams.org/2008/06/10/frontiers-in-propulsion-science-a-major-new-text/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis... The book&#x27;s scope only covers propulsion science because that was a topic which was missing a foundational publication.Read more...</p></details>

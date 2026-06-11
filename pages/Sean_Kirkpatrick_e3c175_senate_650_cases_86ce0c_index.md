@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-senate-650/
 description: Focused pages that expand on Senate Hearing.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c
-parent_title: Senate Hearing | Did Sean Kirkpatrick Debunk UFO Disclosure?
+parent_title: Senate Hearing
 parent_nav_short_title: Senate Hearing
 parent_permalink: /senate-hearing/
 ---

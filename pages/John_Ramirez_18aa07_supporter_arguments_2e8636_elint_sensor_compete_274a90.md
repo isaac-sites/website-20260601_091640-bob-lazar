@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-124489/
 nav_short_title: ELINT fit
 title: Does ELINT experience make Ramirez more credible?
-title_full: Does ELINT experience make Ramirez more credible? | Supporters
+title_full: Does ELINT experience make Ramirez more credible?
 display_title_short: ELINT fit
 display_title: ELINT fit
 heading_title: Does ELINT experience make Ramirez more credible?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Supporters Trust Ramirez? | Ramirez
+parent_title: Why Do Supporters Trust Ramirez?
 parent_permalink: /supporters-124489/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Do Supporters Trust Ramirez?
@@ -247,7 +247,7 @@ next_link:
   permalink: /foia-media/
   short_title: FOIA media
   heading_title: When UFO media makes an insider sound serious
-date: '2026-06-09 03:00:02 '
+date: '2026-06-11 21:05:22 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_senso
 
 ## Introduction
 
-[Supporters]({{ 'supporters-124489/' | relative_url }}) of [John Ramirez]({{ 'how-credible-is-john-ramirez/' | relative_url }}) often argue that his electronic intelligence, or ELINT, background makes him more credible than many other UFO commentators. The core claim is not that his résumé proves extraordinary allegations about non-human intelligence. Rather, it is that someone who spent years analysing radar systems, electronic emissions and technical intelligence would be better placed than an ordinary observer to understand sensor-based UAP reports, especially cases involving radar tracks, infrared systems, weapons sensors and military detection networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
-
+[Supporters]({{ 'supporters-124489/' | relative_url }}) of John Ramirez often argue that his electronic intelligence, or ELINT, background makes him more credible than many other UFO commentators. The core claim is not that his résumé proves extraordinary allegations about non-human intelligence. Rather, it is that someone who spent years analysing radar systems, electronic emissions and technical intelligence would be better placed than an ordinary observer to understand sensor-based UAP reports, especially cases involving radar tracks, infrared systems, weapons sensors and military detection networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-1-dark.svg" | relative_url }}" alt="ELINT fit illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the stronger [supporter arguments]({{ 'supporters-124489/' | relative_url }}) because it focuses on a concrete mechanism: technical competence. At the same time, it has clear limits. Expertise in ELINT can help a person evaluate how sensors work, how data is collected and how military systems identify anomalies. It does not automatically verify claims about aliens, secret programmes or hidden government knowledge. The debate therefore turns on a narrower question: how much does Ramirez's reported technical background actually help when assessing UAP evidence?
+This is one of the stronger supporter arguments because it focuses on a concrete mechanism: technical competence. At the same time, it has clear limits. Expertise in ELINT can help a person evaluate how sensors work, how data is collected and how military systems identify anomalies. It does not automatically verify claims about aliens, secret programmes or hidden government knowledge. The debate therefore turns on a narrower question: how much does Ramirez's reported technical background actually help when assessing UAP evidence?
 
 ## What ELINT work can realistically prepare someone to assess
 
@@ -269,7 +268,6 @@ Electronic intelligence is a specialised branch of signals intelligence concerne
 According to biographies circulated by Coast to Coast AM and other interview platforms, Ramirez worked on ballistic missile defence systems, weapons-system radar analysis and technical collection operations, and reportedly served as Chief of the Electronic Intelligence Analysis Branch during his intelligence career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
 If those public descriptions are broadly accurate, supporters argue that such work could provide familiarity with several issues that frequently appear in modern UAP discussions:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -282,14 +280,13 @@ If those public descriptions are broadly accurate, supporters argue that such wo
 
 </div>
 
-That background matters because many of the most discussed military UAP incidents are not primarily eyewitness stories. Cases such as those described by Navy personnel often involve combinations of radar data, infrared imagery, aircraft sensors and visual observations. The 2021 Office of the Director of National Intelligence UAP assessment specifically highlighted the role of multiple sensor systems while also warning that limited and inconsistent data complicated interpretation. The sensor problem sits at the centre of the UAP debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Signals-Intelligence/Overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">NSASignals Intelligence (SIGINT) OverviewSIGINT is intelligence derived from electronic signals and systems used by foreign targets, such...</span></span></span>
+That background matters because many of the most discussed military UAP incidents are not primarily eyewitness stories. Cases such as those described by Navy personnel often involve combinations of radar data, infrared imagery, aircraft sensors and visual observations. The 2021 Office of the Director of National Intelligence UAP assessment specifically highlighted the role of multiple sensor systems while also warning that limited and inconsistent data complicated interpretation. The sensor problem sits at the centre of the UAP debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Signals-Intelligence/Overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Signals Intelligence (SIGINT) OverviewSIGINT is intelligence derived from electronic signals and systems used by foreign targets, such...</span></span></span>
 
 From a supporter perspective, Ramirez's relevance comes from operating in a professional world built around exactly those questions.
 
 ## Where sensor expertise helps Ramirez's supporter case
 
 The strongest version of the supporter argument is not that Ramirez possesses secret knowledge about extraterrestrials. It is that he understands the practical realities of intelligence collection better than most public commentators.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZjVsH9zjbjU" title="Former Satanist - John Ramirez (part 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZjVsH9zjbjU" target="_blank" rel="noopener noreferrer">Former Satanist - John Ramirez (part 2)</a></p><p class="youtube-embed-meta">Channel: 100huntley &middot; Views: 405.1K &middot; Uploaded: April 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZjVsH9zjbjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZjVsH9zjbjU">Open on YouTube</a></p></div></div></div>
 
@@ -305,12 +302,11 @@ Supporters argue that someone with years of exposure to these systems is less li
 
 A second point concerns institutional knowledge.
 
-Public biographies describe Ramirez as having worked within CIA technical and intelligence organisations and later at the National [Counterproliferation]({{ 'threat-work/' | relative_url }}) Center. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
+Public biographies describe Ramirez as having worked within CIA technical and intelligence organisations and later at the National Counterproliferation Center. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
 
 Supporters often argue that this background gives him a realistic understanding of compartmented programmes, classified reporting channels and intelligence bureaucracy. Even if he never worked on UAP investigations directly, they contend that he would understand how sensitive technical information moves through government systems and how much information can remain hidden from public view.
 
 This argument is partly about process rather than content. Supporters frequently say Ramirez sounds credible because he discusses collection systems, analysis methods and bureaucratic structures in ways that resemble real intelligence work rather than popular UFO storytelling.
-
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-2-dark.svg" | relative_url }}" alt="ELINT fit illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Evaluating multi-sensor cases
@@ -325,18 +321,16 @@ Supporters therefore see Ramirez's background as relevant when he discusses repo
 
 The main weakness in the sensor-competence argument is that expertise and evidence are not the same thing.
 
-A person can be highly knowledgeable about radar systems, intelligence collection and classified environments while still reaching speculative conclusions that exceed the available evidence. This distinction becomes important because some of Ramirez's public comments move well beyond technical sensor analysis and into claims about non-human intelligence, alien-human hybrids and future disclosure scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+A person can be highly knowledgeable about radar systems, intelligence collection and classified environments while still reaching speculative conclusions that exceed the available evidence. This distinction becomes important because some of Ramirez's public comments move well beyond technical sensor analysis and into claims about non-human intelligence, alien-human hybrids and future disclosure scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 Supporters sometimes blur two separate propositions:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HOtsZSzpnhI" title="Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HOtsZSzpnhI" target="_blank" rel="noopener noreferrer">Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol</a></p><p class="youtube-embed-meta">Channel: Jordan &middot; Views: 17.4K &middot; Uploaded: February 2024 &middot; Length: 3 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HOtsZSzpnhI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HOtsZSzpnhI">Open on YouTube</a></p></div></div></div>
 
 1. Ramirez probably understands intelligence collection better than most UFO commentators.
 2. Ramirez's extraordinary claims are therefore probably true.
 
 The first proposition is easier to defend than the second.
 
+<img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-dark.svg" | relative_url }}" alt="ELINT fit illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### ELINT expertise does not guarantee access to UAP programmes
 
 Even if Ramirez held senior intelligence positions, publicly available biographies do not establish that he had direct access to every compartmented programme in the US government, let alone any alleged crash-retrieval or non-human-intelligence programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</span></span></span>
@@ -351,8 +345,8 @@ History contains many examples of highly trained military, intelligence and scie
 
 Critics therefore argue that Ramirez's background may justify listening carefully to his reasoning, but it does not exempt his conclusions from the same evidential standards applied to other public claims.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HOtsZSzpnhI" title="Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HOtsZSzpnhI" target="_blank" rel="noopener noreferrer">Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol</a></p><p class="youtube-embed-meta">Channel: Jordan &middot; Views: 17.4K &middot; Uploaded: February 2024 &middot; Length: 3 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HOtsZSzpnhI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HOtsZSzpnhI">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-dark.svg" | relative_url }}" alt="ELINT fit illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_elint_sensor_compete_274a90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The evidence remains mostly indirect
 
 A recurring feature of Ramirez's public UAP discussions is that supporters often point to his career background rather than publicly released documentation.
@@ -370,10 +364,6 @@ They are not necessarily claiming that his background proves alien visitation. I
 Viewed this way, the argument is less dramatic but more defensible. ELINT experience can plausibly help someone understand how military sensors work, how anomalies are investigated and why some detections resist easy explanation. It can make Ramirez a potentially informed commentator on sensor-based UAP reports.
 
 The leap from that point to broader claims about extraterrestrials, hidden programmes or future revelations is where the supporter case becomes much more contested. His technical background may strengthen the argument that he deserves attention. It does not, on its own, resolve the underlying questions about the reality or meaning of the phenomena he discusses.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cQfySY_2BLc" title="GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer">GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists</a></p><p class="youtube-embed-meta">Channel: Project Unity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cQfySY_2BLc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -492,15 +482,15 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11"><img src="https://i.ebayimg.com/images/g/55gAAeSwgMRo1NYR/s-l225.jpg" alt="Listing image for CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA PHOENIX ASSASSINATION PROGRAM Vietnam Patch VT-11</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +498,15 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330"><img src="https://i.ebayimg.com/images/g/4QMAAOSwiW5oWdh8/s-l225.jpg" alt="Listing image for CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA - Newspaper Back Patch - PHOENIX ASSASSINATION PROGRAM - Vietnam War - D.330</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +514,15 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN"><img src="https://i.ebayimg.com/images/g/pv8AAeSwVwRpXaJS/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +530,15 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central US Secret Service Hook and loop scratch patch"><img src="https://i.ebayimg.com/images/g/UmAAAeSwPXpp3WX8/s-l225.jpg" alt="Listing image for CIA Central US Secret Service Hook and loop scratch patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central US Secret Service Hook and loop scratch patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +546,7 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="elint-fit-does-elint-experience-make-ramirez-more-credible-john-ramirez-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-elint-experience-make-ramirez-more-credible-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="does-elint-experience-make-ramirez-more-credible-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -772,157 +762,157 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
 1. <a id="endnote-1"></a>
    Source: coasttocoastam.com  
    Title: john ramirez  
-   Link: [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)  
+   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezBiography: John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directora...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: storytel.com  
    Title: 537 john ramirez cia ret part 2 4797383  
-   Link: [https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383](https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383)  
+   Link: <a href="https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/ee/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.storytel.com537. John Ramirez, CIA [ret] PART 221 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of Science...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nsa.gov  
    Title: partial history elint at nsa  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/partial_history_elint_at_nsa.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/partial_history_elint_at_nsa.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/partial_history_elint_at_nsa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-quarterly/partial_history_elint_at_nsa.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA(U) A Partial History of ELINT at NSAMay 22, 1990 — (U) What is electronic intelligence, or ELINT? It is primarily information derived...</p></details>
    Published: May 22, 1990  
 
 4. <a id="endnote-4"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/elint.pdf](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/elint.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/elint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/misc/elint.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELECTRONIC INTELLIGENCE (ELINT) AT NSASince the early 1960s, NSA had been a participant in the NRO and US Navy-led GRAB and POPPY efforts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Signals-Intelligence/Overview/](https://www.nsa.gov/Signals-Intelligence/Overview/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSASignals Intelligence (SIGINT) OverviewSIGINT is intelligence derived from electronic signals and systems used by foreign targets, such...</p></details>
+   Link: <a href="https://www.nsa.gov/Signals-Intelligence/Overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Signals-Intelligence/Overview/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signals Intelligence (SIGINT) OverviewSIGINT is intelligence derived from electronic signals and systems used by foreign targets, such...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/1985ah...book.....W/abstract](https://ui.adsabs.harvard.edu/abs/1985ah...book.....W/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1985ah...book.....W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1985ah...book.....W/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSElectronic intelligence: The interception of radar signalsby RG Wiley · 1985 · Cited by 168 — Electronic intelligence (Elint) has its...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: crfs.com  
-   Link: [https://www.crfs.com/blog/gaining-electronic-intelligence-by-intercepting-and-analyzing-rf-radar-signals](https://www.crfs.com/blog/gaining-electronic-intelligence-by-intercepting-and-analyzing-rf-radar-signals)  
+   Link: <a href="https://www.crfs.com/blog/gaining-electronic-intelligence-by-intercepting-and-analyzing-rf-radar-signals" target="_blank" rel="noopener noreferrer nofollow">https://www.crfs.com/blog/gaining-electronic-intelligence-by-intercepting-and-analyzing-rf-radar-signals</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r with noise or by deceiving it with false signals that confuse the system...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/](https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditJohn Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</p></details>
    Published: June 25, 2025  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/](https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/](https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ns? Yo bro we are attacking 07/07/27 GLHF may the best...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: [https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/](https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensSince 2021, John Ramirez, who spent 25 years in the CIA, has been providing truthful insights...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/](https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cy&#x27; from 1984 - 2009, serving within the Directorate of Science &amp;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/](https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/)  
+   Link: <a href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ligence that isn&#x27;t just &#x27;lizard people.&#x27; They&#x27;ve been here...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: [https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/](https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/)  
+   Link: <a href="https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42 This was taken from Area 52 YouTube channel.Rea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp62-00634a000200010001-6](https://www.cia.gov/readingroom/document/cia-rdp62-00634a000200010001-6)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp62-00634a000200010001-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp62-00634a000200010001-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ELINT objectives of first priority to CIA relate to those signals...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Former Satanist  
-   Link: [https://www.youtube.com/watch?v=ZjVsH9zjbjU](https://www.youtube.com/watch?v=ZjVsH9zjbjU)  
+   Link: <a href="https://www.youtube.com/watch?v=ZjVsH9zjbjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZjVsH9zjbjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HOtsZSzpnhI](https://www.youtube.com/watch?v=HOtsZSzpnhI)  
+   Link: <a href="https://www.youtube.com/watch?v=HOtsZSzpnhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HOtsZSzpnhI</a>  
 
 18. <a id="endnote-18"></a>
    Source: irp.fas.org  
    Title: Intelligence Resource Program Signals Intelligence ELINT  
-   Link: [https://irp.fas.org/program/collect/vpu-001.htm](https://irp.fas.org/program/collect/vpu-001.htm)  
+   Link: <a href="https://irp.fas.org/program/collect/vpu-001.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/program/collect/vpu-001.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Resource ProgramSignals IntelligenceELINT - collecting and analyzing of radar, IFF, datalink and missile-firing signals (Ele...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Signals intelligence  
-   Link: [https://en.wikipedia.org/wiki/Signals_intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Signals_intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Signals_intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Signals intelligenceELINT can be used to detect ships and aircraft by their radar and other electromagnetic radiation; commanders have...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/357699214_The_E-Intelligence_System](https://www.researchgate.net/publication/357699214_The_E-Intelligence_System)  
+   Link: <a href="https://www.researchgate.net/publication/357699214_The_E-Intelligence_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357699214_The_E-Intelligence_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The E-Intelligence SystemOther than personal communications, ELINT intelligence is usually obtained. The goal is usually to determi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: magaero.com  
-   Link: [https://www.magaero.com/electronic-intelligence-elint-and-its-crucial-role-in-military-aircraft/](https://www.magaero.com/electronic-intelligence-elint-and-its-crucial-role-in-military-aircraft/)  
+   Link: <a href="https://www.magaero.com/electronic-intelligence-elint-and-its-crucial-role-in-military-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.magaero.com/electronic-intelligence-elint-and-its-crucial-role-in-military-aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Intelligence (ELINT) and its Crucial Role in...ELINT collects and analyzes electronic signals or non-communication signals, a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: amt-sigint.com  
-   Link: [https://www.amt-sigint.com/](https://www.amt-sigint.com/)  
+   Link: <a href="https://www.amt-sigint.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.amt-sigint.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGINT AM TechnologiesFundamentals of COMINT, ELINT, and SIGINT systems; Technical analysis of radar signals; Technical analysis of radio...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/nsa/cryptoalmanac/A_Brief_Look_at_ELINT_at_NSA.pdf](https://documents.theblackvault.com/documents/nsa/cryptoalmanac/A_Brief_Look_at_ELINT_at_NSA.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/nsa/cryptoalmanac/A_Brief_Look_at_ELINT_at_NSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/nsa/cryptoalmanac/A_Brief_Look_at_ELINT_at_NSA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documents(U) A Brief Look at ELINT at NSA~One branch is Technical ELINT (TechELINT), which describes the signal structure...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters](https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters)  
+   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired](https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attended...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: elint-alchemist.sourceforge.io  
-   Link: [https://elint-alchemist.sourceforge.io/elint/index.html](https://elint-alchemist.sourceforge.io/elint/index.html)  
+   Link: <a href="https://elint-alchemist.sourceforge.io/elint/index.html" target="_blank" rel="noopener noreferrer nofollow">https://elint-alchemist.sourceforge.io/elint/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IntelligenceELINT is the interception and analysis of non-communication signals, ie. signals from radar and navigation systems. ELINT is...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: amu.apus.edu  
    Title: American Military University What Is Signals Intelligence?  
-   Link: [https://www.amu.apus.edu/area-of-study/intelligence/resources/what-is-signals-intelligence/](https://www.amu.apus.edu/area-of-study/intelligence/resources/what-is-signals-intelligence/)  
+   Link: <a href="https://www.amu.apus.edu/area-of-study/intelligence/resources/what-is-signals-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.amu.apus.edu/area-of-study/intelligence/resources/what-is-signals-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding SIGINT23 Jul 2024 — Signals intelligence (SIGINT) is one of the central intelligence disciplines, focusing on collecting an...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: open-int.blog  
    Title: History of signals intelligence at the CIA  
-   Link: [https://open-int.blog/2018/01/15/history-of-signals-intelligence-at-the-cia/](https://open-int.blog/2018/01/15/history-of-signals-intelligence-at-the-cia/)  
+   Link: <a href="https://open-int.blog/2018/01/15/history-of-signals-intelligence-at-the-cia/" target="_blank" rel="noopener noreferrer nofollow">https://open-int.blog/2018/01/15/history-of-signals-intelligence-at-the-cia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open INT15 Jan 2018 — The relationship between the CIA and the NSA in signals intelligence has been historically rocky, as is evident fro...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mindmapai.app  
    Title: It develops advanced tools for surveillance and secure communications.Read more  
-   Link: [https://mindmapai.app/mind-mapping/cia-directorate-of-science-technology](https://mindmapai.app/mind-mapping/cia-directorate-of-science-technology)  
+   Link: <a href="https://mindmapai.app/mind-mapping/cia-directorate-of-science-technology" target="_blank" rel="noopener noreferrer nofollow">https://mindmapai.app/mind-mapping/cia-directorate-of-science-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Directorate of Science &amp; Technology: An Overview16 Mar 2026 — DS&amp;T drives technical intelligence collection and analysis...</p></details>

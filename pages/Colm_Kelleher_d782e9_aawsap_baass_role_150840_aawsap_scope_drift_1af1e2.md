@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-role/
 nav_short_title: Scope Drift
 title: Was AAWSAP aerospace research or UFO work?
-title_full: Was AAWSAP aerospace research or UFO work? | AAWSAP Role
+title_full: Was AAWSAP aerospace research or UFO work?
 display_title_short: Scope Drift
 display_title: Scope Drift
 heading_title: Was AAWSAP aerospace research or UFO work?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did Kelleher Actually Do For AAWSAP? | Kelleher
+parent_title: What Did Kelleher Actually Do For AAWSAP?
 parent_permalink: /aawsap-role/
 parent_nav_short_title: AAWSAP Role
 parent_heading_title: What Did Kelleher Actually Do For AAWSAP?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /deliverables/
   short_title: Deliverables
   heading_title: What did BAASS actually deliver to DIA?
-date: '2026-06-09 03:07:32 '
+date: '2026-06-11 21:07:52 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope
 
 One of the central arguments around the Advanced Aerospace Weapon System Applications Program (AAWSAP) is whether it was fundamentally an aerospace threat-analysis contract that later drifted into UFO investigations, or whether UFO research was always an implicit goal hidden behind more conventional defence language.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-1-dark.svg" | relative_url }}" alt="Scope Drift illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That question matters when assessing the credibility of figures such as [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }}). If AAWSAP was formally designed to study future aerospace threats but was later expanded by contractors into broader paranormal and UFO territory, then government funding does not automatically validate every claim that emerged from the programme. If, however, UFO investigation was understood from the beginning by key officials and contractors, then the gap between the official contract language and the programme's actual activities becomes a story about bureaucratic framing rather than mission drift.
+That question matters when assessing the credibility of figures such as Colm Kelleher. If AAWSAP was formally designed to study future aerospace threats but was later expanded by contractors into broader paranormal and UFO territory, then government funding does not automatically validate every claim that emerged from the programme. If, however, UFO investigation was understood from the beginning by key officials and contractors, then the gap between the official contract language and the programme's actual activities becomes a story about bureaucratic framing rather than mission drift.
 
 The documentary record shows a genuine tension between those interpretations. The contract paperwork emphasised advanced aerospace technologies and future foreign threats. Later reporting, insider accounts and the Pentagon's own historical review show that BAASS, the contractor employing Kelleher, conducted substantial UFO-related work that went well beyond the narrow wording of the original solicitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">OBJECTIVE: One aspect of the future threat environment involves advanced aerospace weapon system applications. The objective of this prog...</span></span></span>
 
@@ -281,14 +280,11 @@ This matters because critics of later AAWSAP narratives often point to the contr
 
 Supporting this interpretation are DIA briefing materials that discussed BAASS progress largely in terms of programme management plans and technical deliverables within the designated research areas. Those records present the contract as a structured aerospace-analysis effort rather than an openly paranormal project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Advanced Aerospace Weapon Systems Applications</span><span class="citation-popover-snippet">OBJECTIVE: One aspect of the future threat environment involves advanced aerospace weapon system applications. The objective of this prog...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## What AARO says BAASS actually investigated
 
 The major complication is that later evidence indicates BAASS's activities extended well beyond the contract's formal wording.
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) stated in its 2024 historical review that investigation of UFOs or UAPs was “not specifically outlined” in the contract statement of work. However, the report also states that the contractor nevertheless conducted UFO research with support from the DIA programme manager. According to AARO, this work included reviewing both contemporary UFO reports and historical Project Blue Book cases, conducting witness debriefings and investigations, and exploring proposals for laboratories that could analyse alleged recovered UFO materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</span></span></span>
+The Pentagon's All-domain Anomaly Resolution Office (AARO) stated in its 2024 historical review that investigation of UFOs or UAPs was “not specifically outlined” in the contract statement of work. However, the report also states that the contractor nevertheless conducted UFO research with support from the DIA programme manager. According to AARO, this work included reviewing both contemporary UFO reports and historical Project Blue Book cases, conducting witness debriefings and investigations, and exploring proposals for laboratories that could analyse alleged recovered UFO materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</span></span></span>
 
 AARO further stated that AAWSAP-linked activities expanded into investigations at [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) in Utah, including reports involving alleged paranormal experiences, “shadow figures”, claimed consciousness-related effects and other anomalous phenomena. The report says DIA neither specifically requested nor formally authorised many of these activities through the contract itself, even though a DIA official managed the programme relationship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records on Un...</span></span></span>
 
@@ -304,10 +300,9 @@ Terms such as “spatial/temporal translation”, breakthrough propulsion, advan
 
 Supporters of AAWSAP often argue that anomalous aerial reports naturally belonged within a programme tasked with identifying revolutionary aerospace capabilities. Under that reasoning, reports of objects displaying unusual manoeuvres or apparent technological capabilities would represent potential intelligence leads rather than a separate subject area.
 
-Critics respond that there is a major difference between analysing unusual aerospace observations and investigating alleged paranormal entities, psychic phenomena or consciousness anomalies. They argue that some BAASS activities crossed that boundary and therefore cannot be justified merely by reference to advanced aerospace threat analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AAROAARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</span></span></span>
+Critics respond that there is a major difference between analysing unusual aerospace observations and investigating alleged paranormal entities, psychic phenomena or consciousness anomalies. They argue that some BAASS activities crossed that boundary and therefore cannot be justified merely by reference to advanced aerospace threat analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</span></span></span>
 
 The dispute is therefore not simply about whether UFOs were discussed. It is about how far a defence contract can expand before it becomes a different programme in practice from the one described on paper.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-2-dark.svg" | relative_url }}" alt="Scope Drift illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supporter and sceptic readings of mission drift
@@ -317,7 +312,6 @@ The dispute is therefore not simply about whether UFOs were discussed. It is abo
 Those sympathetic to Kelleher, James Lacatski and other AAWSAP participants generally argue that the contract language was never intended to exclude UFO investigations.
 
 Under this interpretation:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -330,9 +324,7 @@ Under this interpretation:
 
 Supporters also note that senior officials were aware of at least some of the UFO-focused work and continued funding the programme for several years. They argue that describing the effort as a rogue contractor operation oversimplifies the relationship between BAASS and DIA management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records on Un...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GKzfHSRcl3I" title="The object dropped in the rotary table of the oil rig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GKzfHSRcl3I" target="_blank" rel="noopener noreferrer">The object dropped in the rotary table of the oil rig</a></p><p class="youtube-embed-meta">Channel: drillingformulas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GKzfHSRcl3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GKzfHSRcl3I">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-dark.svg" | relative_url }}" alt="Scope Drift illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sceptical view: the contractor expanded the mission
 
 Sceptics focus on the difference between the written contract and the later investigative activity.
@@ -348,8 +340,6 @@ From this perspective, the most important lesson is not whether UFO reports were
 
 The sceptical reading does not require claiming that AAWSAP never studied UFO reports. Instead, it argues that UFO and paranormal investigations became increasingly prominent even though they were not clearly defined as contract deliverables at the outset.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-dark.svg" | relative_url }}" alt="Scope Drift illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_aawsap_scope_drift_1af1e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Colm Kelleher's credibility
 
 For Kelleher, the mission-drift [debate]({{ 'debate-020cbc/' | relative_url }}) produces a mixed credibility assessment rather than a simple verdict.
@@ -361,10 +351,6 @@ The more difficult question concerns the UFO and anomalous investigations that b
 AARO's review does not support the idea that the original contract was openly established as a dedicated UFO-retrieval or alien-technology programme. At the same time, AARO acknowledges that UFO investigations were in fact conducted within the contractor effort. The result is a middle position: BAASS's UFO work was real, but the documentary record leaves room for debate about whether that work reflected the programme's intended purpose or an increasingly expansive interpretation by contractor personnel and supportive officials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</span></span></span>
 
 That unresolved tension remains one of the most important credibility questions surrounding Kelleher's AAWSAP involvement. The dispute is not over whether UFO research occurred. The dispute is over how central it was to the programme that the government formally purchased in the first place.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3vCKoBFCV6Q" title="The Crack of Doom ⚡️🌍 | A Thrilling Adventure You Can&#x27;t Miss!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3vCKoBFCV6Q" target="_blank" rel="noopener noreferrer">The Crack of Doom ⚡️🌍 | A Thrilling Adventure You Can&#x27;t Miss!</a></p><p class="youtube-embed-meta">Channel: Storytime Haven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3vCKoBFCV6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3vCKoBFCV6Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -483,15 +469,15 @@ That unresolved tension remains one of the most important credibility questions 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +485,15 @@ That unresolved tension remains one of the most important credibility questions 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +501,15 @@ That unresolved tension remains one of the most important credibility questions 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +517,15 @@ That unresolved tension remains one of the most important credibility questions 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +533,7 @@ That unresolved tension remains one of the most important credibility questions 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -dvd" data-ebay-reference="scope-drift-bb8008-was-aawsap-aerospace-research-or-ufo-work-colm-kelleher-ufo-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-aerospace-research-or-ufo-work-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-aerospace-research-or-ufo-work-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,69 +749,69 @@ That unresolved tension remains one of the most important credibility questions 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — • Although investigating UFO/UAP was not specifically outlined in the contract&#x27;s statemen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OBJECTIVE: One aspect of the future threat environment involves advanced...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Performance by Bigelow Aerospace Advanced. Space Studies (BAASS) has been excellent and they are in full compliance with...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — statement of work, the selected private sector organization cond...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf17 Feb 2026 — Records pertaining to the attached link regarding an unknown object sighted UFO... UFOs: Past, Present, and Future. Da...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — The National Archives and Records Administration (NARA) provides access to many government records on Un...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Official Objectives of the AAWSAP Program  
-   Link: [https://www.youtube.com/watch?v=F6QjK6H7j68](https://www.youtube.com/watch?v=F6QjK6H7j68)  
+   Link: <a href="https://www.youtube.com/watch?v=F6QjK6H7j68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F6QjK6H7j68</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Agency and Advanced Aerospace Threat Analysis...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Defense Intelligence Agency and Advanced Aerospace Threat Analysis  
-   Link: [https://www.youtube.com/watch?v=9QJ-FfG24eQ](https://www.youtube.com/watch?v=9QJ-FfG24eQ)  
+   Link: <a href="https://www.youtube.com/watch?v=9QJ-FfG24eQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QJ-FfG24eQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Aerospace Threat Research from UAP Investigations...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Black Vault Advanced Aerospace Weapon Systems Applications  
-   Link: [https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/](https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OBJECTIVE: One aspect of the future threat environment involves advanced aerospace weapon system applications. The objective of this prog...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: SOW Aerospace  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Weapon System Applications Program8 Sept 2008 — The objective of this program is to understand the physics and engineering of t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultAdvanced Aerospace Weapon System Applications...April 6, 2022 — 8 May 2009 — • BAASS Program Management Plans (PMPs) in t...</p></details>
    Published: April 6, 2022  
 
@@ -833,54 +819,54 @@ That unresolved tension remains one of the most important credibility questions 
 
 13. <a id="endnote-13"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Weapon System Applications ProgramAn official government contracting resource for small businesses. Find your local AP...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...The document appears to be part of the Defense Intelligence Agency&#x27;s Advanced Aerospa...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsThe goal of this report is not to prove or disprove any particular belief set, but rather t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/](https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/us-governments-now-defunct-advanced-aerospace-threat-identification-program-aati/2029675127243112/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US government&#x27;s now-defunct Advanced Aerospace Threat...The contract was known as the Advanced Aerospace Weapons System Applications Pro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: AAR O Report Codifies the New Skeptical Narrative: r/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/](https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP was not specifically outlined in the contract&#x27;s statement of work... r/UFOs - AARO has stated on record they will not find evide...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Report... report UAP to contact local law enforcement or a non-governmental organization such as the National UFO Reporting Ce...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>em applications with future technology projections over the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The meeting gathered 40 participants from government...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 — Yes, the Pentagon did have a UFO programme, but it was called the Advanced Aerospace Weapon System Appli...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — AARO assesses that all of the named and described alleged hidden UAP reverse engineer...</p></details>

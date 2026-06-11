@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-hal-puthoff/
 nav_short_title: Bigelow Links
 title: Why the Bigelow Network Matters
-title_full: Why the Bigelow Network Matters | Puthoff
+title_full: Why the Bigelow Network Matters
 display_title_short: Bigelow Links
 display_title: Bigelow Links
 heading_title: Why the Bigelow Network Matters
@@ -289,7 +289,7 @@ next_link:
   permalink: /credibility-split/
   short_title: Credibility Split
   heading_title: Why People Disagree About Puthoff
-date: '2026-06-09 03:01:15 '
+date: '2026-06-11 21:06:14 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview-so
 
 ## Introduction
 
-[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s Bigelow-era links matter because they place him inside one of the most important bridges between older paranormal research and modern UAP politics. The core point is not simply that Puthoff knew Robert Bigelow, or that Bigelow funded UFO studies. It is that the same network moved across several settings: the National Institute for Discovery Science, Skinwalker Ranch, Bigelow Aerospace Advanced Space Studies, AAWSAP/AATIP-adjacent work, exotic aerospace papers, and later disclosure-era organisations. Supporters see this continuity as evidence that serious people kept encountering a real unresolved phenomenon. Sceptics see a small circle recycling extraordinary claims, institutional access, and ambiguous data without producing public proof strong enough to settle the matter. Both readings are essential to assessing Puthoff’s credibility. His Bigelow connections strengthen the case that he was close to real programmes and real funding; they do not, by themselves, validate the paranormal or non-human claims attached to that network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerHow the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — Bigelow Aerospace Advanced Space Studies, o...</span><span class="citation-popover-meta">Published: April 30, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROHistory and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</span></span></span>
-
+[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s Bigelow-era links matter because they place him inside one of the most important bridges between older paranormal research and modern UAP politics. The core point is not simply that Puthoff knew Robert Bigelow, or that Bigelow funded UFO studies. It is that the same network moved across several settings: the National Institute for Discovery Science, Skinwalker Ranch, Bigelow Aerospace Advanced Space Studies, AAWSAP/AATIP-adjacent work, exotic aerospace papers, and later disclosure-era organisations. Supporters see this continuity as evidence that serious people kept encountering a real unresolved phenomenon. Sceptics see a small circle recycling extraordinary claims, institutional access, and ambiguous data without producing public proof strong enough to settle the matter. Both readings are essential to assessing Puthoff’s credibility. His Bigelow connections strengthen the case that he was close to real programmes and real funding; they do not, by themselves, validate the paranormal or non-human claims attached to that network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerHow the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — Bigelow Aerospace Advanced Space Studies, o...</span><span class="citation-popover-meta">Published: April 30, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview.webp" | relative_url }}" alt="Overview image for Bigelow Links" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Bigelow network changes the credibility question
@@ -309,7 +308,6 @@ Puthoff’s role in the UAP story is often misunderstood if he is treated only a
 That cuts both ways. On the supportive reading, Bigelow’s funding gave people like Puthoff a way to investigate anomalies that universities, defence agencies, and mainstream journals were unlikely to touch. On the sceptical reading, it created a self-reinforcing environment in which prior believers, unusual claims, and security-flavoured mystique could circulate without the normal pressure of open replication. The same fact therefore supports two different credibility judgements: Puthoff was not a marginal blogger, but he was also not operating in a plainly neutral scientific setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The New YorkerHow the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — Bigelow Aerospace Advanced Space Studies, o...</span><span class="citation-popover-meta">Published: April 30, 2021</span></span></span>
 
 The most useful way to read this part of Puthoff’s career is to separate three questions. First, did he have real links to Bigelow-backed research? Yes, that is well supported. Second, did those links reach into government-funded UAP work? Yes, through BAASS and AAWSAP/AATIP-related activity, though the naming and boundaries of those programmes remain contested in public accounts. Third, did that network prove paranormal or non-human technology claims? Publicly available official reviews have not established that. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the black vaults aawsap aatip and post 2017 ufo timeline project</span><span class="citation-popover-snippet">the black vaults aawsap aatip and post 2017 ufo timeline project</span></span></span>
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-1-dark.svg" | relative_url }}" alt="Bigelow Links illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NIDS and BAASS connections
@@ -322,8 +320,7 @@ BAASS, or Bigelow Aerospace Advanced Space Studies, was the later contractor veh
 
 Puthoff’s specific position is best described as technically influential rather than publicly proven as the owner of any final answer. The Black Vault reported that Puthoff was contacted about the Defense Intelligence Reference Documents, or DIRDs, and that he said he was responsible for choosing the topics of those reports. That matters because the DIRDs were not simply UFO witness interviews; they covered speculative aerospace and frontier-physics themes such as advanced propulsion, energy, invisibility, wormholes and related concepts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/documentarchive/murky-waters-drowning-ufo-debris-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Murky Waters Drowning “UFO Debris” Claims</span><span class="citation-popover-snippet">Murky Waters Drowning “UFO Debris” Claims</span></span></span>
 
-For a credibility assessment, this is one of the strongest verified points in Puthoff’s favour: he was not merely commenting from the outside. He was linked to the research infrastructure that shaped what government-funded AAWSAP-era work examined. The weakness is equally clear: choosing technical topics, advising a contractor, or working in a classified-adjacent environment does not demonstrate that the underlying anomalous claims were true. It demonstrates access and influence, not proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROHistory and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</span></span></span>
-
+For a credibility assessment, this is one of the strongest verified points in Puthoff’s favour: he was not merely commenting from the outside. He was linked to the research infrastructure that shaped what government-funded AAWSAP-era work examined. The weakness is equally clear: choosing technical topics, advising a contractor, or working in a classified-adjacent environment does not demonstrate that the underlying anomalous claims were true. It demonstrates access and influence, not proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GnA7Vvi8EG4" title="The Invisible Force Field Experiment (S7) | The Secret of Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GnA7Vvi8EG4" target="_blank" rel="noopener noreferrer">The Invisible Force Field Experiment (S7) | The Secret of Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 95.0K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GnA7Vvi8EG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GnA7Vvi8EG4">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +334,6 @@ The Bigelow connection therefore did not represent a sudden turn in Puthoff’s 
 
 Skinwalker Ranch is the clearest example of the tension. As a case environment, it produced many reported experiences and insider accounts, but not a public evidential package that settles the claims. Even sympathetic accounts often describe difficulty turning the ranch’s stories into conventional scientific publication. A useful credibility assessment therefore should not ask only whether Puthoff was near the ranch story; it should ask whether the ranch story generated evidence strong enough to carry the weight later placed on it. Publicly, that remains unresolved at best. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span><span class="citation-popover-snippet">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-2-dark.svg" | relative_url }}" alt="Bigelow Links illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Supporter arguments about continuity
 
@@ -350,7 +346,6 @@ Supporters also argue that unusual phenomena may not divide neatly into “aeros
 This is where Puthoff’s appeal to believers is strongest. He appears to offer a bridge between engineering, intelligence history, speculative physics and paranormal data. For readers who already think the UAP problem is stranger than unidentified aircraft, that breadth can look like an asset. It makes him seem willing to follow the evidence wherever it leads, rather than forcing anomalous reports into a narrow aerospace box. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span>
 
 The limit is that this argument depends heavily on trust in insider judgement. Much of the strongest claimed evidence remains private, classified, anecdotal, proprietary, or embedded in books and interviews rather than available as open scientific data. Supporters can reasonably point to continuity, seriousness and access; they cannot, from the public record alone, close the evidential gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and private...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mqldQHXofgE" title="CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer">CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: THIRD EYE DROPS with Michael Phillip &middot; Views: 177.5K &middot; Uploaded: September 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mqldQHXofgE">Open on YouTube</a></p></div></div></div>
 
@@ -366,7 +361,6 @@ Sceptics also point to the unusual programme design. BAASS was a Bigelow entity;
 
 A further sceptical concern is evidential drift. A programme publicly remembered as a Pentagon UFO investigation may, on closer inspection, include paranormal ranch cases, speculative aerospace papers, remote-viewing-adjacent histories, alleged exotic materials, and claims about hidden reverse-engineering programmes. That drift can make the subject feel deeper and more mysterious, but it can also make claims harder to test. A reader should be cautious whenever several weakly evidenced anomalies are bundled together as if they strengthen one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">the military ufo complex</span></span></span>
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-3-dark.svg" | relative_url }}" alt="Bigelow Links illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for judging Puthoff
 
@@ -378,9 +372,7 @@ The fairest assessment is therefore neither dismissal nor endorsement. Puthoff�
 
 A careful reader should treat Puthoff’s Bigelow-era record as evidence of access, continuity and influence. It should not be treated as independent proof of non-human craft, paranormal phenomena, or a hidden reverse-engineering programme. The strongest public conclusion is that Puthoff helped shape a real and consequential research network whose claims remain only partly documented, heavily disputed and unevenly supported.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gvtzivRF6ZQ" title="&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer">&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 44.7K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gvtzivRF6ZQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -499,15 +491,15 @@ A careful reader should treat Puthoff’s Bigelow-era record as evidence of acce
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +507,15 @@ A careful reader should treat Puthoff’s Bigelow-era record as evidence of acce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="https://i.ebayimg.com/images/g/Wo8AAOSwjsNmv2Mp/s-l225.jpg" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +523,31 @@ A careful reader should treat Puthoff’s Bigelow-era record as evidence of acce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="https://i.ebayimg.com/images/g/cOkAAOSwQb5hqPMn/s-l225.jpg" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="https://i.ebayimg.com/images/g/~EEAAeSwJyFoFLyk/s-l225.jpg" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +555,7 @@ A careful reader should treat Puthoff’s Bigelow-era record as evidence of acce
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-bigelow-network-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-bigelow-network-matters-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-bigelow-network-matters-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,169 +770,169 @@ A careful reader should treat Puthoff’s Bigelow-era record as evidence of acce
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROHistory and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEAARO traced the origin of the proposal for KONA BLUE to the Advanced Aerospace. Weapon System Applicat...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and private...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/](https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/)  
+   Link: <a href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/</a>  
 
 4. <a id="endnote-4"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: [https://reason.com/2022/11/15/the-military-ufo-complex/](https://reason.com/2022/11/15/the-military-ufo-complex/)  
+   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
 
 5. <a id="endnote-5"></a>
    Source: skeptic.com  
    Title: ufology from fringe to mainstream to fringe  
-   Link: [https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/](https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/)  
+   Link: <a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: the black vaults [aawsap aatip](&#123;&#123; 'aawsap-aatip/' | relative_url &#125;&#125;) and post 2017 ufo timeline project  
-   Link: [https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/](https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-black-vaults-aawsap-aatip-and-post-2017-ufo-timeline-project/</a>  
 
 8. <a id="endnote-8"></a>
    Source: theblackvault.com  
    Title: Murky Waters Drowning “UFO Debris” Claims  
-   Link: [https://www.theblackvault.com/documentarchive/murky-waters-drowning-ufo-debris-claims/](https://www.theblackvault.com/documentarchive/murky-waters-drowning-ufo-debris-claims/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/murky-waters-drowning-ufo-debris-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/murky-waters-drowning-ufo-debris-claims/</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: [https://earthtech.org/team/](https://earthtech.org/team/)  
+   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Pentagon's Secret UFO Program, the Hitchhiker Effect,  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/21-F-0299.pdf](https://documents2.theblackvault.com/documents/osd/21-F-0299.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/21-F-0299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/21-F-0299.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf](https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: [https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf](https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 20. <a id="endnote-20"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: [https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html](https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html)  
+   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — Bigelow Aerospace Advanced Space Studies, o...</p></details>
    Published: April 30, 2021  
 
 22. <a id="endnote-22"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 23. <a id="endnote-23"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: Robert Bigelow  
-   Link: [https://www.reddit.com/r/UFOs/comments/l2l4ks/robert_bigelow_nids_and_financing_research/](https://www.reddit.com/r/UFOs/comments/l2l4ks/robert_bigelow_nids_and_financing_research/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/l2l4ks/robert_bigelow_nids_and_financing_research/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/l2l4ks/robert_bigelow_nids_and_financing_research/</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Ep. 17: Skinwalkers at the Pentagon  
-   Link: [https://www.youtube.com/watch?v=XWcndzNshv4](https://www.youtube.com/watch?v=XWcndzNshv4)  
+   Link: <a href="https://www.youtube.com/watch?v=XWcndzNshv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XWcndzNshv4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow&#x27;s Billion-Dollar Search for Aliens &amp; Survival After Death...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Robert Bigelow on Skinwalker Ranch and his government UFO study (AAWSAP)  
-   Link: [https://www.youtube.com/watch?v=525j4K-Wc1E](https://www.youtube.com/watch?v=525j4K-Wc1E)  
+   Link: <a href="https://www.youtube.com/watch?v=525j4K-Wc1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=525j4K-Wc1E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Dr. Garry Nolan: UFOs, Aliens, and the Bigelow Connection  
-   Link: [https://www.youtube.com/watch?v=uTCc2-1tbBQ](https://www.youtube.com/watch?v=uTCc2-1tbBQ)  
+   Link: <a href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uTCc2-1tbBQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Bigelow on Skinwalker Ranch and his government UFO study (AAWSAP)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Dr. Hal Puthoff on Advanced Propulsion and the DIA  
-   Link: [https://www.youtube.com/watch?v=mqldQHXofgE](https://www.youtube.com/watch?v=mqldQHXofgE)  
+   Link: <a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqldQHXofgE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 17: Skinwalkers at the Pentagon - Colm Kelleher and George Knapp | WEAPONIZED...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 33. <a id="endnote-33"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/645814355517952/posts/1310578679041513/](https://www.facebook.com/groups/645814355517952/posts/1310578679041513/)  
+   Link: <a href="https://www.facebook.com/groups/645814355517952/posts/1310578679041513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/645814355517952/posts/1310578679041513/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/](https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/)  
+   Link: <a href="https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/](https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i5hzok/dr_hal_puthoff_talks_about_his_role_in_aawsap/</a>

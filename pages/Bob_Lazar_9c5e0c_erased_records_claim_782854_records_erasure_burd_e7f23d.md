@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /erased-records/
 nav_short_title: Erasure burden
 title: Could Lazar's records really disappear?
-title_full: Could Lazar's records really disappear? | Erased Records
+title_full: Could Lazar's records really disappear?
 display_title_short: Erasure burden
 display_title: Erasure burden
 heading_title: Could Lazar's records really disappear?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could Lazar's Records Have Been Erased? | Lazar
+parent_title: Could Lazar's Records Have Been Erased?
 parent_permalink: /erased-records/
 parent_nav_short_title: Erased Records
 parent_heading_title: Could Lazar's Records Have Been Erased?
@@ -247,7 +247,7 @@ next_link:
   permalink: /los-alamos-cdf4b2/
   short_title: Los Alamos
   heading_title: What the Los Alamos listing really proves
-date: '2026-06-09 02:52:17 '
+date: '2026-06-11 21:01:09 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1.webp
@@ -256,11 +256,10 @@ image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasu
 
 ## Introduction
 
-One of the key disputes in the [Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }}) story is whether missing records should be interpreted as evidence of a deliberate cover-up. Lazar has argued that parts of his educational and employment history were erased after he publicly discussed alleged work on reverse-engineering extraterrestrial technology. Supporters point to gaps, denials and inconsistencies in official records as signs of retaliation. Sceptics argue that the broader the alleged erasure becomes, the harder it is to explain why so many independent traces would also have to disappear.
-
+One of the key disputes in the Bob Lazar story is whether missing records should be interpreted as evidence of a deliberate cover-up. Lazar has argued that parts of his educational and employment history were erased after he publicly discussed alleged work on reverse-engineering extraterrestrial technology. Supporters point to gaps, denials and inconsistencies in official records as signs of retaliation. Sceptics argue that the broader the alleged erasure becomes, the harder it is to explain why so many independent traces would also have to disappear.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1-dark.svg" | relative_url }}" alt="Erasure burden illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central problem is not that records can never be lost, altered or hidden. Governments have classified programmes, institutions make mistakes, and archives are sometimes incomplete. The difficulty is proving a sweeping erasure across multiple unrelated systems. To accept the strongest version of Lazar's claim, a reader must believe that educational records, employment traces, professional contacts, administrative files and personal documentation all failed in ways that left remarkably little independent confirmation behind. That is a much larger claim than the simple existence of a missing file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span>
+The central problem is not that records can never be lost, altered or hidden. Governments have classified programmes, institutions make mistakes, and archives are sometimes incomplete. The difficulty is proving a sweeping erasure across multiple unrelated systems. To accept the strongest version of Lazar's claim, a reader must believe that educational records, employment traces, professional contacts, administrative files and personal documentation all failed in ways that left remarkably little independent confirmation behind. That is a much larger claim than the simple existence of a missing file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span>
 
 ## Why modern records leave redundant traces
 
@@ -285,14 +284,13 @@ A student attending a university typically leaves traces in:
 
 </div>
 
-US educational privacy law, known as FERPA, is built around the assumption that institutions maintain a range of educational records relating to students. Those records can include transcripts, schedules, coursework, evaluations and financial records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentprivacy.ed.gov/ferpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentprivacy.ed.gov">[Protecting Student Privacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentprivacy.ed.gov</span><span class="citation-popover-title">Protecting Student Privacy FERPA</span><span class="citation-popover-snippet">Protecting Student PrivacyFERPA - Protecting Student Privacy - Department of EducationCommonly referred to as the Family Educational Righ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.jhu.edu">[Johns Hopkins University Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins University RegistrarDefinitions and Terms | University RegistrarExamples of education records include transcripts; class sc...</span></span></span>
+US educational privacy law, known as FERPA, is built around the assumption that institutions maintain a range of educational records relating to students. Those records can include transcripts, schedules, coursework, evaluations and financial records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentprivacy.ed.gov/ferpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentprivacy.ed.gov">[Protecting Student Privacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentprivacy.ed.gov</span><span class="citation-popover-title">Protecting Student Privacy FERPA</span><span class="citation-popover-snippet">Protecting Student PrivacyFERPA - Protecting Student Privacy - Department of EducationCommonly referred to as the Family Educational Righ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.jhu.edu">[Johns Hopkins University Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.jhu.edu</span><span class="citation-popover-snippet">Johns Hopkins University RegistrarDefinitions and Terms &#124; University RegistrarExamples of education records include transcripts; class sc...</span></span></span>
 
 Importantly, records do not all sit in one place. Even if a registrar's office removed a student's entry, other traces might survive elsewhere. Former classmates may remember them. Archived course catalogues may contain enrolment references. Old addresses, student newspapers, departmental records, laboratory access logs or personal copies of transcripts may remain.
 
 That does not mean every trace survives forever. Universities have different retention policies, and FERPA itself does not require permanent retention of every document. Some files can legally be destroyed under institutional policies. Default <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordnations.com/blog/ferpa-how-to-manage-student-records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordnations.com">[Record Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordnations.com</span><span class="citation-popover-title">There are, however, many state laws that set retention restrictions.Read more</span><span class="citation-popover-snippet">Record NationsFERPA Compliance In Education: How Long Do Schools...8 Jul 2019 — According to FERPA, there&#x27;s no formal retention time for...</span></span></span>
 
 The issue for Lazar is scale. The claim is not merely that one office misplaced a file. The allegation is often interpreted as covering prestigious universities, government-linked employers and other institutions simultaneously. As the number of affected organisations increases, the evidential burden becomes heavier because each organisation would normally generate its own independent traces.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w9p9vSr6pOI" title="The CircleJerk - Arc 1: Bob Lazar Episode 2 of 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w9p9vSr6pOI" target="_blank" rel="noopener noreferrer">The CircleJerk - Arc 1: Bob Lazar Episode 2 of 4</a></p><p class="youtube-embed-meta">Channel: James Carrion &middot; Views: 402 &middot; Uploaded: April 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w9p9vSr6pOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w9p9vSr6pOI">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +308,6 @@ However, classified work and total biographical erasure are not the same thing.
 
 A secret programme might hide:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Specific duties
@@ -325,7 +322,6 @@ It does not automatically erase every ordinary trace of a person's existence. A 
 
 This distinction is important because evidence supporting one part of Lazar's story does not automatically support all parts of it. A documented connection to Los Alamos does not itself verify MIT attendance, Caltech attendance or employment at an alleged S-4 reverse-engineering facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Robert_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Lazar</span><span class="citation-popover-snippet">Robert LazarRobert „Bob“ Scott Lazar (* 26. Januar 1959 in Coral Gables) ist ein US-amerikanischer Unternehmer. Er behauptet, Reverse...</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-2-dark.svg" | relative_url }}" alt="Erasure burden illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Missing records are not the same as proof of erasure
 
@@ -333,9 +329,7 @@ A recurring logical problem in the debate is the difference between absence of e
 
 Suppose a university cannot locate a student's records decades later. Several explanations are possible:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gagYiTT9VGE" title="The Bob Lazar Story: What They Got Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gagYiTT9VGE" target="_blank" rel="noopener noreferrer">The Bob Lazar Story: What They Got Wrong</a></p><p class="youtube-embed-meta">Channel: NeverLeaveScience &middot; Views: 863 &middot; Uploaded: April 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gagYiTT9VGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gagYiTT9VGE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -351,8 +345,7 @@ The existence of possibilities one through four means that possibility five cann
 
 This is where many sceptics place the burden of proof. They argue that proving deliberate erasure requires positive evidence of intervention rather than merely pointing to a missing document. Evidence might include internal communications, testimony from administrators, archival anomalies, documented orders or other signs that records were intentionally altered.
 
-In Lazar's case, public discussion has generally focused on records that could not be verified rather than on documents showing an organised campaign of deletion. Stanton Friedman, one of the most prominent UFO researchers to examine Lazar's background, argued that inquiries failed to confirm Lazar's claimed attendance at MIT and Caltech while finding evidence of electronics coursework elsewhere. Friedman also criticised inconsistencies in Lazar's recollections of professors and academic history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span> Reddit Supporters counter that a cover-up would naturally leave limited evidence of its own existence. Yet that argument creates a methodological pr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">at Northridge, and Pierce Junior College in the San Fernando Valley, California.Read more...</span></span></span> oblem: every missing confirmation can be reinterpreted as proof that the erasure worked. Once that happens, the claim becomes difficult to test independently.
-
+In Lazar's case, public discussion has generally focused on records that could not be verified rather than on documents showing an organised campaign of deletion. Stanton Friedman, one of the most prominent UFO researchers to examine Lazar's background, argued that inquiries failed to confirm Lazar's claimed attendance at MIT and Caltech while finding evidence of electronics coursework elsewhere. Friedman also criticised inconsistencies in Lazar's recollections of professors and academic history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span> Reddit Supporters counter that a cover-up would naturally leave limited evidence of its own existence. Yet that argument creates a methodological pr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">at Northridge, and Pierce Junior College in the San Fernando Valley, California.Read more...</span></span></span> oblem: every missing confirmation can be reinterpreted as proof that the erasure worked. Once that happens, the claim becomes difficult to test independently.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBdUg1h9XLU" title="Stanton Friedman claims Bob Lazar is a fake." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer">Stanton Friedman claims Bob Lazar is a fake.</a></p><p class="youtube-embed-meta">Channel: masjosh &middot; Views: 174.5K &middot; Uploaded: January 2011 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBdUg1h9XLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBdUg1h9XLU">Open on YouTube</a></p></div></div></div>
 
@@ -368,92 +361,49 @@ If an alleged clean-up operation was powerful enough to remove university record
 
 Neither question fully resolves the dispute. Supporters answer that bureaucratic clean-ups are imperfect. Sceptics answer that the surviving evidence supports only a limited conclusion: Lazar was connected to parts of the Los Alamos ecosystem, but not necessarily in the way he later described.
 
-The result is an evidential gap rather than a settled verdict. Missing records can raise questions, especially when some contradictory documentation exists. But broad records erasure is inherently difficult to prove because proving it requires more than showing that records are absent. It requires evidence that records once existed in the claimed form and were later deliberately removed across multiple independent systems. In the public record surrounding Bob Lazar, that stronger level of proof has remained elusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">SkepticThe Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Robert_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Lazar</span><span class="citation-popover-snippet">Robert LazarRobert „Bob“ Scott Lazar (* 26. Januar 1959 in Coral Gables) ist ein US-amerikanischer Unternehmer. Er behauptet, Reverse...</span></span></span>
-
+The result is an evidential gap rather than a settled verdict. Missing records can raise questions, especially when some contradictory documentation exists. But broad records erasure is inherently difficult to prove because proving it requires more than showing that records are absent. It requires evidence that records once existed in the claimed form and were later deliberately removed across multiple independent systems. In the public record surrounding Bob Lazar, that stronger level of proof has remained elusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Robert_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Lazar</span><span class="citation-popover-snippet">Robert LazarRobert „Bob“ Scott Lazar (* 26. Januar 1959 in Coral Gables) ist ein US-amerikanischer Unternehmer. Er behauptet, Reverse...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-3-dark.svg" | relative_url }}" alt="Erasure burden illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Could Lazar&#x27;s records really disappear?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Could Lazar&#x27;s records really disappear?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains Lazar&#x27;s explanation for missing records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Directly useful for evaluating burdens of proof and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides context about classified programs and secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Explores why people accept or reject disputed claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,7 +416,7 @@ The result is an evidential gap rather than a settled verdict. Missing records c
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -490,15 +440,15 @@ The result is an evidential gap rather than a settled verdict. Missing records c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +456,15 @@ The result is an evidential gap rather than a settled verdict. Missing records c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +472,15 @@ The result is an evidential gap rather than a settled verdict. Missing records c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +488,15 @@ The result is an evidential gap rather than a settled verdict. Missing records c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Sci-fi Series Gerry Anderson Alternative Artwork Printed on Sheet Metal"><img src="{{ '/assets/images/marketplace-covers/a03081a1bf919ef7ee6c.jpg' | relative_url }}" alt="Listing image for UFO Sci-fi Series Gerry Anderson Alternative Artwork Printed on Sheet Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Sci-fi Series Gerry Anderson Alternative Artwork Printed on Sheet Metal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo metal sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +504,7 @@ The result is an evidential gap rather than a settled verdict. Missing records c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo metal sign" data-ebay-reference="erasure-burden-could-lazar-s-records-really-disappear-bob-lazar-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-lazar-s-records-really-disappear-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-lazar-s-records-really-disappear-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,131 +720,131 @@ The result is an evidential gap rather than a settled verdict. Missing records c
 1. <a id="endnote-1"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkepticThe Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</p></details>
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Bob Lazar23 Apr 2026 — He has claimed to have earned two master&#x27;s degrees, one in physics from MIT and the oth...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/](https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>at Northridge, and Pierce Junior College in the San Fernando Valley, California.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/](https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from MIT, a master in electronics from Caltech...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Bob Lazar's story, is it believable?  
-   Link: [https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/](https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is some of my...In 1982 he shows up in LANL and told a reporter who wrote about his jetcar that he was a physicist. In 1989 he used...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: bob lazar from phd physicist point of view  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ssls1n/bob_lazar_from_phd_physicist_point_of_view/](https://www.reddit.com/r/UFOs/comments/1ssls1n/bob_lazar_from_phd_physicist_point_of_view/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ssls1n/bob_lazar_from_phd_physicist_point_of_view/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ssls1n/bob_lazar_from_phd_physicist_point_of_view/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs... 1982 he was working in Los Alamos. So he obtained an undergrad... he lied about mit and caltech after working at los alamos, h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Stanton Friedman on UFO frauds: Bob Lazar and Philip J  
-   Link: [https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/](https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1j2zqw1/stanton_friedman_on_ufo_frauds_bob_lazar_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Scott Lazar, supposedly a nuclear physicist with a masters in physics from MIT, a master Electronics from Caltech who supposedly w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/](https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ir mind over the score lol. For me personally I put Bob Lazar...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/](https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/)  
+   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/1smaht7/great_4_part_series_of_factual_evidence_in_bob/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>how Bob was near these places at times in his career but...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Robert Lazar  
-   Link: [https://de.wikipedia.org/wiki/Robert_Lazar](https://de.wikipedia.org/wiki/Robert_Lazar)  
+   Link: <a href="https://de.wikipedia.org/wiki/Robert_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Robert_Lazar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert LazarRobert „Bob“ Scott Lazar (* 26. Januar 1959 in Coral Gables) ist ein US-amerikanischer Unternehmer. Er behauptet, Reverse...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: studentprivacy.ed.gov  
    Title: Protecting Student Privacy FERPA  
-   Link: [https://studentprivacy.ed.gov/ferpa](https://studentprivacy.ed.gov/ferpa)  
+   Link: <a href="https://studentprivacy.ed.gov/ferpa" target="_blank" rel="noopener noreferrer nofollow">https://studentprivacy.ed.gov/ferpa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting Student PrivacyFERPA - Protecting Student Privacy - Department of EducationCommonly referred to as the Family Educational Righ...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: registrar.jhu.edu  
-   Link: [https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/](https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/)  
+   Link: <a href="https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/" target="_blank" rel="noopener noreferrer nofollow">https://registrar.jhu.edu/ferpa-compliance/ferpa-terms-and-definitions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins University RegistrarDefinitions and Terms | University RegistrarExamples of education records include transcripts; class sc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: recordnations.com  
    Title: There are, however, many state laws that set retention restrictions.Read more  
-   Link: [https://www.recordnations.com/blog/ferpa-how-to-manage-student-records/](https://www.recordnations.com/blog/ferpa-how-to-manage-student-records/)  
+   Link: <a href="https://www.recordnations.com/blog/ferpa-how-to-manage-student-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordnations.com/blog/ferpa-how-to-manage-student-records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Record NationsFERPA Compliance In Education: How Long Do Schools...8 Jul 2019 — According to FERPA, there&#x27;s no formal retention time for...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: law.lclark.edu  
    Title: education records  
-   Link: [https://law.lclark.edu/academics/whats_what/administrative_rules_and_policies/education_records/](https://law.lclark.edu/academics/whats_what/administrative_rules_and_policies/education_records/)  
+   Link: <a href="https://law.lclark.edu/academics/whats_what/administrative_rules_and_policies/education_records/" target="_blank" rel="noopener noreferrer nofollow">https://law.lclark.edu/academics/whats_what/administrative_rules_and_policies/education_records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records • What&#x27;s What Law Student HandbookStudents the right to inspect, review, and control access to student educational records mainta...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/anaclaudiaurbinaa/posts/-bob-lazar-finally-shows-the-tech-they-said-didnt-exist-and-its-not-of-this-eart/1410647190432544/](https://www.facebook.com/anaclaudiaurbinaa/posts/-bob-lazar-finally-shows-the-tech-they-said-didnt-exist-and-its-not-of-this-eart/1410647190432544/)  
+   Link: <a href="https://www.facebook.com/anaclaudiaurbinaa/posts/-bob-lazar-finally-shows-the-tech-they-said-didnt-exist-and-its-not-of-this-eart/1410647190432544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anaclaudiaurbinaa/posts/-bob-lazar-finally-shows-the-tech-they-said-didnt-exist-and-its-not-of-this-eart/1410647190432544/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Finally Shows the Tech They Said Didn&#x27;t ExistBob Lazar Finally Shows the Tech They Said Didn&#x27;t Exist — and It&#x27;s Not of This Ear...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cornellcollege.edu  
-   Link: [https://www.cornellcollege.edu/registrar/ferpa/ferpa-definitions.shtml](https://www.cornellcollege.edu/registrar/ferpa/ferpa-definitions.shtml)  
+   Link: <a href="https://www.cornellcollege.edu/registrar/ferpa/ferpa-definitions.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.cornellcollege.edu/registrar/ferpa/ferpa-definitions.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FERPA DefinitionsWhat is FERPA and how does it work, really? Information on how FERPA is defined and applied to student records at Cornel...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: splc.org  
-   Link: [https://splc.org/ferpa-what-it-means-and-how-it-works/](https://splc.org/ferpa-what-it-means-and-how-it-works/)  
+   Link: <a href="https://splc.org/ferpa-what-it-means-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://splc.org/ferpa-what-it-means-and-how-it-works/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FERPA: What it means and how it worksFERPA serves a two-fold purpose: (1) to grant parents (and students 18 or older) access to informati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: teachprivacy.com  
-   Link: [https://teachprivacy.com/what-is-an-education-record-under-ferpa-a-flowchart/](https://teachprivacy.com/what-is-an-education-record-under-ferpa-a-flowchart/)  
+   Link: <a href="https://teachprivacy.com/what-is-an-education-record-under-ferpa-a-flowchart/" target="_blank" rel="noopener noreferrer nofollow">https://teachprivacy.com/what-is-an-education-record-under-ferpa-a-flowchart/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Educational Records According to FERPA?Educational records according to FERPA are those records, files, documents, and other mat...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
 
 20. <a id="endnote-20"></a>
    Source: v-j-enterprises.com  
-   Link: [https://www.v-j-enterprises.com/sflazar.html](https://www.v-j-enterprises.com/sflazar.html)  
+   Link: <a href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v-j-enterprises.com/sflazar.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VJ EnterprisesStanton T. Friedman / My Take On Bob LazarHe&#x27;s a Pierce physics prof, and never taught at Caltech. Lazar was registered in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theofficegurus.com  
    Title: ferpa and beyond data security must haves for higher education customer support  
-   Link: [https://theofficegurus.com/ferpa-and-beyond-data-security-must-haves-for-higher-education-customer-support/](https://theofficegurus.com/ferpa-and-beyond-data-security-must-haves-for-higher-education-customer-support/)  
+   Link: <a href="https://theofficegurus.com/ferpa-and-beyond-data-security-must-haves-for-higher-education-customer-support/" target="_blank" rel="noopener noreferrer nofollow">https://theofficegurus.com/ferpa-and-beyond-data-security-must-haves-for-higher-education-customer-support/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Office Gurus Call Center SolutionsFERPA Compliance for Higher Education Customer Support7 Aug 2025 — Effective data management requir...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Title: exploring [bob lazars](&#123;&#123; 'did-bob-lazars-story-hold-up/' | relative_url &#125;&#125;) claim government and alien technologies  
-   Link: [https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/](https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/)  
+   Title: exploring bob lazars claim government and alien technologies  
+   Link: <a href="https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Bob Lazar&#x27;s Claim: Government and Alien...A 1982 Los Alamos National Laboratory phonebook listed &quot;Lazar Robert&quot; among scientis...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: edutranscript.com  
-   Link: [https://www.edutranscript.com/blog/education-records-according-to-ferpa.html](https://www.edutranscript.com/blog/education-records-according-to-ferpa.html)  
+   Link: <a href="https://www.edutranscript.com/blog/education-records-according-to-ferpa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.edutranscript.com/blog/education-records-according-to-ferpa.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes: Grades and transcripts; Class schedules; Health and disciplinary...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gaia.com  
    Title: scientists claim of ufo fuel source verified decades later  
-   Link: [https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later](https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later)  
+   Link: <a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later9 Jun 2022 — In 1989 Bob Lazar claimed that [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;) powered antimatter gen...</p></details>

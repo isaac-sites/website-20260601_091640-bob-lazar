@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics-078368/
 nav_short_title: Credibility Shortcut
 title: When credentials become a shortcut to belief
-title_full: When credentials become a shortcut to belief | Sceptics
+title_full: When credentials become a shortcut to belief
 display_title_short: Credibility Shortcut
 display_title: Credibility Shortcut
 heading_title: When credentials become a shortcut to belief
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Does The Green Case Fall Short? | Green
+parent_title: Where Does The Green Case Fall Short?
 parent_permalink: /sceptics-078368/
 parent_nav_short_title: Sceptics
 parent_heading_title: Where Does The Green Case Fall Short?
@@ -247,7 +247,7 @@ next_link:
   permalink: /havana-analogy/
   short_title: Havana Analogy
   heading_title: What Havana Syndrome caution means for UAP injuries
-date: '2026-06-09 03:00:21 '
+date: '2026-06-11 21:05:40 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut
 
 ## Introduction
 
-One of the strongest sceptical arguments about [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) is not that he lacks credentials, but that his credentials can be used too broadly. Green's [verified career]({{ 'career-record/' | relative_url }}) is unusual: he worked in intelligence-related science and technology roles, held senior medical and research positions, and moved through circles that overlapped with national-security discussions about anomalous claims. Those facts are real and publicly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
-
+One of the strongest sceptical arguments about Kit Green is not that he lacks credentials, but that his credentials can be used too broadly. Green's verified career is unusual: he worked in intelligence-related science and technology roles, held senior medical and research positions, and moved through circles that overlapped with national-security discussions about anomalous claims. Those facts are real and publicly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1-dark.svg" | relative_url }}" alt="Credibility Shortcut illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The sceptical concern is what happens next. In UFO and UAP debates, Green's name is sometimes treated as a shortcut that allows a claim to bypass normal evidential scrutiny. A story may be weakly sourced, heavily second-hand, or lacking physical evidence, yet gain credibility simply because Green reportedly discussed it, investigated it, or took it seriously. [Sceptics]({{ 'sceptics-078368/' | relative_url }}) argue that this mechanism can make readers overestimate what has actually been established.
@@ -268,19 +267,18 @@ The question is therefore not whether Green had an impressive career. It is whet
 
 A sceptical reading starts by separating documented facts from inferred conclusions.
 
-Public biographical records support that Christopher "Kit" Green held significant positions connected to medicine, neuroscience, intelligence analysis and science-and-technology policy. National Academies material identifies him as a senior medical and scientific figure, while other public biographies describe his CIA service and later academic and corporate roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin | Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
+Public biographical records support that Christopher "Kit" Green held significant positions connected to medicine, neuroscience, intelligence analysis and science-and-technology policy. National Academies material identifies him as a senior medical and scientific figure, while other public biographies describe his CIA service and later academic and corporate roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin &#124; Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
 
 Those records verify several important points:
 
 * Green was not simply a UFO enthusiast operating outside professional institutions.
 * He had legitimate access to government, intelligence and scientific environments.
 * He possessed expertise in areas such as neurophysiology, toxicology, brain imaging and forensic medicine.
-* He was involved in discussions about advanced science and national-security issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin | Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
+* He was involved in discussions about advanced science and national-security issues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Umbrella Assassin &#124; Interview with Christopher C</span><span class="citation-popover-snippet">Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-snippet">Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</span></span></span>
 
 What they do not automatically verify is the truth of any particular UFO-related claim.
 
 A common logical leap in UAP debates is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -294,7 +292,6 @@ Sceptics regard that as a non sequitur. Investigating a claim is not the same as
 
 This distinction becomes especially important when Green is linked to stories involving alleged recovered materials, biological evidence, human effects cases, remote viewing claims or purported insider testimony. His involvement may show that the claim was considered worth examining. It does not show that the claim survived examination.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 445.3K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
 
 ## How authority can inflate second-hand claims
@@ -302,7 +299,6 @@ This distinction becomes especially important when Green is linked to stories in
 The credibility-shortcut problem becomes most visible when Green appears several steps away from the original evidence.
 
 Many UFO narratives are built from layered testimony:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +322,6 @@ The same pattern appears in stories involving classified briefings, insider rumo
 
 In practical terms, Green's reputation can function as a form of evidential multiplier. The original evidence remains unchanged, but the perceived credibility increases because a recognised insider is nearby.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-2-dark.svg" | relative_url }}" alt="Credibility Shortcut illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why intelligence credentials carry unusual weight
 
@@ -337,7 +332,6 @@ Most readers can assess a scientific paper, a photograph or a public document at
 That creates a temptation to fill gaps with assumptions.
 
 When audiences hear that Green worked in intelligence-related science and technology roles, they may infer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,7 +348,6 @@ The existence of classified access does not tell outsiders what was learned, how
 
 As a result, sceptics argue that "former CIA scientist" can become a rhetorical substitute for evidence. The title carries genuine weight, but the evidential burden still remains where it always was: on documents, witnesses, materials and independently testable claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EDyZvv3D3ws" title="Congress UFO Hearing - It&#x27;s even crazier than you think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer">Congress UFO Hearing - It&#x27;s even crazier than you think</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 190.9K &middot; Uploaded: July 2023 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EDyZvv3D3ws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EDyZvv3D3ws">Open on YouTube</a></p></div></div></div>
 
 ## The difference between seriousness and correctness
@@ -370,7 +363,6 @@ History contains many examples of highly qualified individuals investigating ide
 In UFO discussions, the transition from "a serious person considered this possibility" to "the possibility is probably true" often happens quietly. Green's reputation can accelerate that transition because his professional background signals competence and insider status.
 
 The sceptical warning is not that expertise is irrelevant. It is that expertise should influence how carefully a claim is examined, not determine the outcome before the evidence is reviewed.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-3-dark.svg" | relative_url }}" alt="Credibility Shortcut illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A sceptical test for reputation-based evidence
@@ -398,7 +390,6 @@ Documents, physical samples, contemporaneous records and named witnesses general
 In some cases, audiences attribute stronger conclusions to him than he has personally stated.
 
 This approach does not dismiss Green. Instead, it attempts to prevent reputation from performing the work that evidence is supposed to do.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YIGIQ3lF9mI" title="Pentagon report: UFO sightings left witnesses with burns, nerve damage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YIGIQ3lF9mI" target="_blank" rel="noopener noreferrer">Pentagon report: UFO sightings left witnesses with burns, nerve damage</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 22.7K &middot; Uploaded: April 2022 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YIGIQ3lF9mI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YIGIQ3lF9mI">Open on YouTube</a></p></div></div></div>
 
@@ -531,15 +522,15 @@ For sceptics, that is the core lesson of Green's reputation. His credentials may
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +538,15 @@ For sceptics, that is the core lesson of Green's reputation. His credentials may
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +554,31 @@ For sceptics, that is the core lesson of Green's reputation. His credentials may
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +586,7 @@ For sceptics, that is the core lesson of Green's reputation. His credentials may
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-credentials-become-a-shortcut-to-belief-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="when-credentials-become-a-shortcut-to-belief-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -795,86 +802,86 @@ For sceptics, that is the core lesson of Green's reputation. His credentials may
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI - NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHChristopher C. Green, Chair, is the assistant dean for Asia Pacific of the Wayne State School of Medicine (SOM) in Beijing, China...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pbs.org  
    Title: Umbrella Assassin | Interview with Christopher C  
-   Link: [https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/](https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/)  
+   Link: <a href="https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/secrets/umbrella-assassin-interview-christopher-c-green/1557/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green3 Jun 2014 — At the CIA, Green studied how the brain responds to chemicals and neurological agents, while also investigating foreign...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: uapedia.ai  
    Title: Unlocking New Realities Dr  
-   Link: [https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/](https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/)  
+   Link: <a href="https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher “Kit” Green: A Forensic Neurologist at the...Dr. Christopher “Kit” Green bridges intelligence, neuroscience, and UAP researc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4](https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>READINGS IN INTELLIGENCE | CIA FOIA (foia.cia.gov)Such a conception of the potential of the presidency is alien to most students of the A...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thebulletin.org  
-   Link: [https://thebulletin.org/biography/christopher-green/](https://thebulletin.org/biography/christopher-green/)  
+   Link: <a href="https://thebulletin.org/biography/christopher-green/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/biography/christopher-green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin of the Atomic ScientistsChristopher GreenA neuroscientist, Green is a professor of psychiatry and radiology at Wayne State Unive...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nsarchive2.gwu.edu  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/index2.html](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/index2.html)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/index2.html" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB54/index2.html</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Central_Intelligence_Agency](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Central_Intelligence_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Intelligence_Agency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Intelligence AgencyA major member of the United States Intelligence Community (IC), the CIA has reported to the director of na...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fetzer-franklin-fund.org  
-   Link: [https://www.fetzer-franklin-fund.org/media/christopher-green/](https://www.fetzer-franklin-fund.org/media/christopher-green/)  
+   Link: <a href="https://www.fetzer-franklin-fund.org/media/christopher-green/" target="_blank" rel="noopener noreferrer nofollow">https://www.fetzer-franklin-fund.org/media/christopher-green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Green | PersonAs Holder of the National Intelligence Medal, and Lifetime Member of the National Research Council and the Nati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/](https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEAKED call between CIA Dr. Kit Green &amp; Psychic-...Here are the key notes: there exist a leaked phone call. It will be linked below. Rem...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/units/DEPS-AFSB-15-08](https://www.nationalacademies.org/units/DEPS-AFSB-15-08)  
+   Link: <a href="https://www.nationalacademies.org/units/DEPS-AFSB-15-08" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/units/DEPS-AFSB-15-08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Community Studies BoardThe Intelligence Community Studies Board (ICSB) will serve as the convening authority for the discuss...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/481151978650301/posts/2569743463124465/](https://www.facebook.com/groups/481151978650301/posts/2569743463124465/)  
+   Link: <a href="https://www.facebook.com/groups/481151978650301/posts/2569743463124465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/481151978650301/posts/2569743463124465/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker RanchInteresting post by George Knapp: Davis&#x27; NIDS colleague, Dr. Kit Green, the former CIA analyst with Life Sciences Divisio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/](https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense has reportedly spread UFO misinformation for years. Former...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: intelligence.senate.gov  
    Title: sites default files commission report  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-commission-report.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-commission-report.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-commission-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-commission-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the National Commission2.1 The Office of the Director of National Intelligence must create a new joint program plan between the Direct...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Here are the released videos from Pentagon's first batch of UFO files  
-   Link: [https://www.youtube.com/watch?v=ADMcelTgWYo](https://www.youtube.com/watch?v=ADMcelTgWYo)  
+   Link: <a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon report: UFO sightings left witnesses with burns, nerve damage video highlights how official reports tracking clinical sympto...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — CIA urged the debunking of UFO sightings as cover of its efforts to develop cra...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10155939640796790/](https://www.facebook.com/groups/ufoupdates/posts/10155939640796790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10155939640796790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10155939640796790/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviary and any evidence that they are involved with TTSA et al.Read more...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-navy-uap-videos/
 description: Focused pages that expand on Navy Videos.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60
-parent_title: Navy Videos | How Credible Is Luis Elizondo?
+parent_title: Navy Videos
 parent_nav_short_title: Navy Videos
 parent_permalink: /navy-videos/
 ---

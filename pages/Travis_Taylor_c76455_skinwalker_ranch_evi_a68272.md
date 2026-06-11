@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-travis-taylor-on-uaps/
 nav_short_title: Skinwalker
 title: Does Skinwalker Ranch Strengthen or Weaken Taylor?
-title_full: Does Skinwalker Ranch Strengthen or Weaken Taylor? | Taylor
+title_full: Does Skinwalker Ranch Strengthen or Weaken Taylor?
 display_title_short: Skinwalker
 display_title: Skinwalker
 heading_title: Does Skinwalker Ranch Strengthen or Weaken Taylor?
@@ -289,7 +289,7 @@ next_link:
   permalink: /supporters-58c2df/
   short_title: Supporters
   heading_title: Why Do Supporters Trust Taylor's UAP Work?
-date: '2026-06-09 03:10:01 '
+date: '2026-06-11 21:08:25 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-overview.webp
@@ -300,34 +300,31 @@ image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-overview-
 
 Skinwalker Ranch probably weakens [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s public credibility as a source for UFO/UAP evidence, even while it explains why he became so visible. The ranch gave him a platform as the scientific face of *The Secret of Skinwalker Ranch*, and he has described unusual electromagnetic readings, reported health effects, camera failures, aerial anomalies and personal experiences that he says changed his view of witness testimony. But the problem is evidential, not theatrical: edited television, non-disclosure constraints, incomplete public datasets and dramatic framing are a weak substitute for independent, repeatable science. Taylor’s real technical background makes the programme more interesting than ordinary paranormal television, but it does not turn broadcast anomalies into public proof. The fair assessment is that Skinwalker Ranch made Taylor influential in UAP culture, but it also tied his reputation to [claims]({{ 'claims/' | relative_url }}) that have not yet been made open enough for outside scientific testing.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-overview.webp" | relative_url }}" alt="Overview image for Skinwalker" loading="eager" decoding="sync" fetchpriority="high">
 ## What the show presents as evidence
 
-*The Secret of Skinwalker Ranch* presents itself as a scientific investigation of a 512-acre Utah property associated with UFO sightings, animal injuries, [radiation]({{ 'radiation/' | relative_url }}) scares, equipment failures, electromagnetic anomalies and broader “high strangeness”. Sky History’s profile of Taylor stresses his engineering and aerospace [credentials]({{ 'credentials/' | relative_url }}) and says he joined the team to help apply “hard science” to the ranch mystery. That framing matters: Taylor is not just a presenter standing beside unusual footage. He is offered to viewers as the person who can translate strange events into testable observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span></span></span>
+*The Secret of Skinwalker Ranch* presents itself as a scientific investigation of a 512-acre Utah property associated with UFO sightings, animal injuries, [radiation]({{ 'radiation/' | relative_url }}) scares, equipment failures, electromagnetic anomalies and broader “high strangeness”. Sky History’s profile of Taylor stresses his engineering and aerospace [credentials]({{ 'credentials/' | relative_url }}) and says he joined the team to help apply “hard science” to the ranch mystery. That framing matters: Taylor is not just a presenter standing beside unusual footage. He is offered to viewers as the person who can translate strange events into testable observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span></span></span>
 
 The evidence shown around Taylor tends to fall into several categories. The first is instrument-based anomaly reporting: electromagnetic readings, microwave or radio-frequency signals, ground-penetrating radar results, balloon payloads, rockets, drones and aerial observations. The University of Alabama in Huntsville described Taylor working with UAH colleagues on instrument payloads, balloon launches and rocket-supported measurements at the ranch, with experiments broadly aimed at measuring electromagnetic anomalies. That is a real technical activity, not merely a campfire story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-title">College of Arts, Humanities, &amp; Social Sciences</span><span class="citation-popover-snippet">College of Arts, Humanities, &amp; Social Sciences</span></span></span>
 
-The second category is incident-driven television evidence. A prominent example is the Homestead 2 radiation episode, where Sky History’s programme description says Taylor became seriously unwell after the team uncovered a manhole while using ground-penetrating radar. The clip page presents the incident within a wider story of apparitions, hidden underground causes and a ranch “giving full access” for investigation. This is exactly the sort of episode that works well as television: a concrete event, a named scientist, a health scare and an unresolved cause. It is also exactly the sort of episode that requires careful independent documentation before it can bear much scientific weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span></span></span>
+The second category is incident-driven television evidence. A prominent example is the Homestead 2 radiation episode, where Sky History’s programme description says Taylor became seriously unwell after the team uncovered a manhole while using ground-penetrating radar. The clip page presents the incident within a wider story of apparitions, hidden underground causes and a ranch “giving full access” for investigation. This is exactly the sort of episode that works well as television: a concrete event, a named scientist, a health scare and an unresolved cause. It is also exactly the sort of episode that requires careful independent documentation before it can bear much scientific weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span></span></span>
 
-The third category is witness and interpretation evidence. In a Sky History interview, Taylor said he had previously been sceptical of most UFO and paranormal reports because witness accounts are often not repeatable and are not backed by scientific instrumentation. He then said his view changed after being on the ranch, where he believed there were events that could not be explained by ordinary causes. He also said the team measured unusual electromagnetic and microwave radiation for which they could not find a source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span></span></span>
+The third category is witness and interpretation evidence. In a Sky History interview, Taylor said he had previously been sceptical of most UFO and paranormal reports because witness accounts are often not repeatable and are not backed by scientific instrumentation. He then said his view changed after being on the ranch, where he believed there were events that could not be explained by ordinary causes. He also said the team measured unusual electromagnetic and microwave radiation for which they could not find a source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span></span></span>
 
 That is significant for assessing Taylor, because it shows the movement in his public position: he frames himself as a sceptic whose scepticism was softened by first-hand ranch experience. [Supporters]({{ 'supporters-58c2df/' | relative_url }}) see that as a strength: a technically trained investigator changed his mind after seeing data. Critics see a different pattern: an investigator embedded in an entertainment production begins using stronger language than the public evidence can support.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-1-dark.svg" | relative_url }}" alt="Skinwalker illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why television framing complicates credibility
 
 The central problem is not that a television programme can never contain useful observations. It can. The problem is that a television programme is not a laboratory record. Viewers see selected scenes, edited timelines, reaction shots, dramatic music, unresolved cliffhangers and partial explanations. They usually do not receive the full raw data, calibration records, null results, failed replications, environmental controls, equipment logs, data-processing steps or independent replication attempts.
 
-Taylor himself has acknowledged one of the key scientific problems with the earlier Bigelow-era investigation. In the Sky History interview, he said that because Robert Bigelow’s information had not been released, “it might as well never have happened” from the standpoint of the scientific method, because other scientists need to be able to repeat experiments. That same standard applies to the television-era claims too. If ranch evidence is to strengthen Taylor scientifically, the data cannot remain mainly inside episodes, interviews, private databases or subscription ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel</span></span></span>
+Taylor himself has acknowledged one of the key scientific problems with the earlier Bigelow-era investigation. In the Sky History interview, he said that because Robert Bigelow’s information had not been released, “it might as well never have happened” from the standpoint of the scientific method, because other scientists need to be able to repeat experiments. That same standard applies to the television-era claims too. If ranch evidence is to strengthen Taylor scientifically, the data cannot remain mainly inside episodes, interviews, private databases or subscription ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span><span class="citation-popover-snippet">Sky HISTORY TV channel Dr Travis Taylor &#124; Sky HISTORY TV Channel</span></span></span>
 
 The UAH article also illustrates the production problem. It notes that the show is produced by Prometheus Entertainment and that details of the visiting investigators’ stays were protected by non-disclosure agreements to avoid audience spoilers. That is understandable for television, but awkward for science. A non-disclosure agreement does not automatically invalidate results, yet it does limit timely outside scrutiny. It means the public is being asked to evaluate scientific-sounding claims inside a commercial storytelling structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-title">College of Arts, Humanities, &amp; Social Sciences</span><span class="citation-popover-snippet">College of Arts, Humanities, &amp; Social Sciences</span></span></span>
 
 Taylor’s language sometimes tries to avoid the most loaded paranormal framing. In an interview reported by CinemaBlend, he rejected the word “paranormal” and argued that if something exists in the universe, it is part of nature even if not yet understood. That is a sensible scientific instinct. But in the same interview, he was quoted as saying that instruments, witnesses and cameras had recorded phenomena that could not be explained by human technology at the time. That is a much stronger claim, and it requires a much stronger evidential trail than edited television can provide on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-snippet">Open source on cinemablend.com.</span></span></span>
 
 This tension is the heart of the Skinwalker problem for Taylor. His credentials encourage viewers to treat the show as an investigation; the show’s format encourages viewers to experience it as mystery entertainment. Those two modes are not the same. A viewer can reasonably enjoy the programme and still conclude that it has not met the evidential standard needed for extraordinary UAP claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SIIdzXiMDqI" title="How the UAP Task Force evaluated UFO cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer">How the UAP Task Force evaluated UFO cases</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 289.9K &middot; Uploaded: June 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SIIdzXiMDqI">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +338,6 @@ Greenwood is not a neutral admirer of the ranch narrative; he is a sceptical cri
 
 For Taylor’s credibility, the issue is not whether he sincerely felt unwell or whether a meter reading occurred. The issue is whether the public presentation allows a technically competent outsider to distinguish between a dangerous radiological anomaly, a localised instrument error, a mundane environmental source, misinterpretation, editing compression or an event whose key context is missing.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-2-dark.svg" | relative_url }}" alt="Skinwalker illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The government shadow over the ranch cuts both ways
 
@@ -349,10 +345,9 @@ Skinwalker Ranch also gains authority in popular culture because of its connecti
 
 That history can be read in two opposite ways. Supporters argue that government interest shows the ranch was not just folklore; it attracted serious attention and money. [Sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argue that the same history shows how UAP research can drift from aerospace questions into paranormal belief systems without producing robust public evidence. AARO’s account supports the cautious reading: it says DIA did not specifically authorise the paranormal work, that the programme’s scientific papers were not thoroughly peer reviewed, and that AARO had not uncovered substantive UAP case work from AAWSAP/AATIP beyond reviews, interviews and unrelated paranormal activity at the Utah property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-This matters for Taylor because his Skinwalker fame later intersected with his [UAP Task Force role]({{ 'task-force/' | relative_url }}). The Black Vault published Pentagon-released material and responses about Taylor’s task-force involvement, while Space Symposium’s public biography states that Taylor served from 2019 to 2022 as chief scientist for the UAP [Task Force]({{ 'task-force/' | relative_url }}) supporting ODNI and the Secretary of Defense. Those roles do not prove the ranch claims, but they do explain why viewers and critics both treat him as more than a TV personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters for Taylor because his Skinwalker fame later intersected with his UAP [Task Force role]({{ 'task-force-role/' | relative_url }}). The Black Vault published Pentagon-released material and responses about Taylor’s task-force involvement, while Space Symposium’s public biography states that Taylor served from 2019 to 2022 as chief scientist for the UAP [Task Force]({{ 'task-force/' | relative_url }}) supporting ODNI and the Secretary of Defense. Those roles do not prove the ranch claims, but they do explain why viewers and critics both treat him as more than a TV personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The risk is role-blending. A defence-linked scientist appearing in a mystery programme can make entertainment feel official. A classified or semi-classified UAP role can make non-public evidence feel implied. But implication is not evidence. Taylor’s institutional access may mean he has seen material the public has not seen; it does not allow the public to verify Skinwalker Ranch claims unless the relevant data are released in a usable form.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cAhDY7biYxM" title="Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 59.6K &middot; Uploaded: November 2022 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cAhDY7biYxM">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +356,6 @@ The risk is role-blending. A defence-linked scientist appearing in a mystery pro
 For Skinwalker Ranch to strengthen Taylor’s credibility rather than merely his profile, the evidence would need to move from “interesting televised anomaly” to “independently examinable dataset”. That does not necessarily mean every experiment must appear in a peer-reviewed journal before anyone may discuss it. It does mean that the strongest claims should be documented in a way that permits competent outsiders to test whether the interpretation follows from the data.
 
 A credible public evidence package would include several basics:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -379,7 +373,6 @@ The Galileo Project’s work on UAP observatories offers a useful contrast in me
 
 AARO’s current public language points in a similar direction from the government side. In 2024, an AARO official said the office had resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, while more than 900 reports lacked enough scientific data for analysis and could be reopened if better information emerged. That is an important standard for Skinwalker too: unresolved does not mean extraordinary; often it means under-documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[Joint Base San Antonio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-snippet">DOD examining unidentified anomalous phenomena &gt; Joint Base San Antonio &gt; News...</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-3-dark.svg" | relative_url }}" alt="Skinwalker illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does Skinwalker Ranch strengthen or weaken Taylor?
 
@@ -389,9 +382,7 @@ But as evidence for extraordinary UAP claims, the ranch weakens his public posit
 
 The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwalker work does not make him a fraud, nor does it make the ranch claims established. It places him in a high-risk credibility zone: a real scientist working inside a programme designed to preserve mystery. For a mainstream reader assessing Travis Taylor as a UAP figure, Skinwalker Ranch is best treated as a source of claims and questions, not as public proof.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5lTT0GYzkao" title="What&#x27;s Really Happening at Skinwalker Ranch | Dr. Travis Taylor | Ep 155" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer">What&#x27;s Really Happening at Skinwalker Ranch | Dr. Travis Taylor | Ep 155</a></p><p class="youtube-embed-meta">Channel: Rick Burgess Show &middot; Views: 468.3K &middot; Uploaded: April 2023 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5lTT0GYzkao">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -510,15 +501,15 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +517,15 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +533,15 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +549,15 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +565,7 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="skinwalker-4c0f0b-does-skinwalker-ranch-strengthen-or-weaken-taylor-travis-taylor-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-skinwalker-ranch-strengthen-or-weaken-taylor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,144 +781,144 @@ The fairest conclusion is therefore mixed but tilted cautious. Taylor’s Skinwa
 1. <a id="endnote-1"></a>
    Source: uah.edu  
    Title: College of Arts, Humanities, & Social Sciences  
-   Link: [https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch](https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch)  
+   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
 
 2. <a id="endnote-2"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series](https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series)  
+   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 5. <a id="endnote-5"></a>
    Source: jbsa.mil  
    Title: Joint Base San Antonio  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD examining unidentified anomalous phenomena &gt; Joint Base San Antonio &gt; News...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: [https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/](https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/)  
+   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 9. <a id="endnote-9"></a>
    Source: cinemablend.com  
-   Link: [https://www.cinemablend.com/television/2493883/how-dangerous-the-secret-of-skinwalker-ranch-property-really-is-according-to-a-scientist-who-lived-there](https://www.cinemablend.com/television/2493883/how-dangerous-the-secret-of-skinwalker-ranch-property-really-is-according-to-a-scientist-who-lived-there)  
+   Link: <a href="https://www.cinemablend.com/television/2493883/how-dangerous-the-secret-of-skinwalker-ranch-property-really-is-according-to-a-scientist-who-lived-there" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493883/how-dangerous-the-secret-of-skinwalker-ranch-property-really-is-according-to-a-scientist-who-lived-there</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor](https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
 
 11. <a id="endnote-11"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Dr Travis Taylor | Sky HISTORY TV Channel  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2  
-   Link: [https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch](https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch)  
+   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
 
 14. <a id="endnote-14"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
 
 15. <a id="endnote-15"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851](https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
 16. <a id="endnote-16"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: the black vault interviews dr travis taylor  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/z9g1mc/the_black_vault_interviews_dr_travis_taylor/](https://www.reddit.com/r/HighStrangeness/comments/z9g1mc/the_black_vault_interviews_dr_travis_taylor/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/z9g1mc/the_black_vault_interviews_dr_travis_taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/z9g1mc/the_black_vault_interviews_dr_travis_taylor/</a>  
 
 18. <a id="endnote-18"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/](https://www.theblackvault.com/casefiles/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/</a>  
 
 20. <a id="endnote-20"></a>
    Source: documents2.theblackvault.com  
    Title: Tic Tac Full Report1  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor on applying scientific methods to the ranch  
-   Link: [https://www.youtube.com/watch?v=aG0N69S9Lp8](https://www.youtube.com/watch?v=aG0N69S9Lp8)  
+   Link: <a href="https://www.youtube.com/watch?v=aG0N69S9Lp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG0N69S9Lp8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the science behind the Skinwalker Ranch anomalies...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Investigating the science behind the Skinwalker Ranch anomalies  
-   Link: [https://www.youtube.com/watch?v=P_Vn2v19z-U](https://www.youtube.com/watch?v=P_Vn2v19z-U)  
+   Link: <a href="https://www.youtube.com/watch?v=P_Vn2v19z-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_Vn2v19z-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal reality TV: Entertainment versus evidence...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: How reality television shapes UFO investigations  
-   Link: [https://www.youtube.com/watch?v=0h3R_YgD0Yc](https://www.youtube.com/watch?v=0h3R_YgD0Yc)  
+   Link: <a href="https://www.youtube.com/watch?v=0h3R_YgD0Yc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h3R_YgD0Yc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor on applying scientific methods to the ranch...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Scientists debate the credibility of Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=kYJqfKz2z_M](https://www.youtube.com/watch?v=kYJqfKz2z_M)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJqfKz2z_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJqfKz2z_M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How reality television shapes UFO investigations...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61550487235290/posts/5-minutes-ago-skinwalker-ranch-official-just-made-a-terrifying-discovery/122268010928016241/](https://www.facebook.com/61550487235290/posts/5-minutes-ago-skinwalker-ranch-official-just-made-a-terrifying-discovery/122268010928016241/)  
+   Link: <a href="https://www.facebook.com/61550487235290/posts/5-minutes-ago-skinwalker-ranch-official-just-made-a-terrifying-discovery/122268010928016241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61550487235290/posts/5-minutes-ago-skinwalker-ranch-official-just-made-a-terrifying-discovery/122268010928016241/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/](https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/a-daring-rocket-and-helicopter-experiment-results-in-the-team-witnessing-a-pheno/1154352163560881/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 29. <a id="endnote-29"></a>
    Source: steno.fm  
-   Link: [https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61](https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61)  
+   Link: <a href="https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61" target="_blank" rel="noopener noreferrer nofollow">https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1526650908987555/](https://www.facebook.com/groups/911734917145827/posts/1526650908987555/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1526650908987555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1526650908987555/</a>

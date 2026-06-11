@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /claim-sources/
 nav_short_title: Nolan MRIs
 title: What do the Nolan MRI reports really add?
-title_full: What do the Nolan MRI reports really add? | Claim Sources
+title_full: What do the Nolan MRI reports really add?
 display_title_short: Nolan MRIs
 display_title: Nolan MRIs
 heading_title: What do the Nolan MRI reports really add?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Which Green Stories Are First Hand? | Green
+parent_title: Which Green Stories Are First Hand?
 parent_permalink: /claim-sources/
 parent_nav_short_title: Claim Sources
 parent_heading_title: Which Green Stories Are First Hand?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /claim-labels/
   short_title: Claim Labels
   heading_title: How to label Green claims without overreaching
-date: '2026-06-09 03:01:06 '
+date: '2026-06-11 21:06:06 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1.webp
@@ -256,20 +256,18 @@ image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_cor
 
 ## Introduction
 
-The MRI stories associated with Stanford immunologist Garry Nolan are often presented as some of the strongest medical corroboration around [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}). In reality, they occupy a more limited evidential category. They suggest that Green was connected to a network of doctors, intelligence-linked personnel and researchers who were examining unusual health complaints and brain scans. They do not establish what caused those reported abnormalities, whether any UAP was involved, or whether the underlying cases can be independently verified.
-
+The MRI stories associated with Stanford immunologist Garry Nolan are often presented as some of the strongest medical corroboration around Kit Green. In reality, they occupy a more limited evidential category. They suggest that Green was connected to a network of doctors, intelligence-linked personnel and researchers who were examining unusual health complaints and brain scans. They do not establish what caused those reported abnormalities, whether any UAP was involved, or whether the underlying cases can be independently verified.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1-dark.svg" | relative_url }}" alt="Nolan MRIs illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because the MRI material is frequently used to strengthen Green's reputation as an insider with access to unusual cases. As corroboration of his access and professional involvement, it has some value. As proof of extraordinary causes, it remains second-hand and heavily dependent on interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+That distinction matters because the MRI material is frequently used to strengthen Green's reputation as an insider with access to unusual cases. As corroboration of his access and professional involvement, it has some value. As proof of extraordinary causes, it remains second-hand and heavily dependent on interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
 ## What Nolan said about the patient material
 
-Public discussion of the MRI work comes largely from interviews given by Nolan rather than from a peer-reviewed publication describing a defined patient cohort. Across multiple interviews, Nolan has described receiving or reviewing scans and medical data from individuals who reported anomalous encounters or unusual health incidents. He has repeatedly linked this work to Green and to a broader circle of researchers sometimes referred to as the “Invisible College”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+Public discussion of the MRI work comes largely from interviews given by Nolan rather than from a peer-reviewed publication describing a defined patient cohort. Across multiple interviews, Nolan has described receiving or reviewing scans and medical data from individuals who reported anomalous encounters or unusual health incidents. He has repeatedly linked this work to Green and to a broader circle of researchers sometimes referred to as the “Invisible College”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
-One recurring claim is that some subjects showed unusual features in areas of the brain associated with the caudate nucleus and putamen. Nolan has described comparing scans from people who reported anomalous experiences with control groups and has suggested that certain structural differences appeared more frequently among the experiencer group. In some interviews, he has speculated that these differences could relate to perception, intuition or information processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditStanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
+One recurring claim is that some subjects showed unusual features in areas of the brain associated with the caudate nucleus and putamen. Nolan has described comparing scans from people who reported anomalous experiences with control groups and has suggested that certain structural differences appeared more frequently among the experiencer group. In some interviews, he has speculated that these differences could relate to perception, intuition or information processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
 
 However, several limitations are easy to miss when these remarks are repeated online:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -282,7 +280,6 @@ However, several limitations are easy to miss when these remarks are repeated on
 
 As a result, the MRI claims are best understood as reported observations from a small research network, not as settled scientific findings.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HxVVz2Jorzk" title="“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer">“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563</a></p><p class="youtube-embed-meta">Channel: Jordan B Peterson &middot; Views: 2.6M &middot; Uploaded: July 2025 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HxVVz2Jorzk">Open on YouTube</a></p></div></div></div>
 
 ## Where Green fits in the reported medical network
@@ -291,22 +288,20 @@ For assessing Green's credibility, the most relevant point is not whether the MR
 
 Nolan has repeatedly stated that Green was involved in identifying or studying individuals who reported unusual encounters and health effects. In interviews, Nolan has described Green as having access to a collection of cases and patient material accumulated over many years. He has referred to Green's role in assembling cohorts and helping organise the medical side of the work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/rdg9uk/stanford_professor_garry_nolan_is_analyzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing...&quot; As some of you know, Kit Green was a proponent of the MJ-12 hoax... Or did Green post M...</span></span></span>
 
-This matters because it aligns with other public evidence showing Green's long-standing interest in alleged physiological effects linked to anomalous aerospace encounters. The DIA-linked report *Anomalous Acute and Subacute Field Effects on Human Biological Tissues* demonstrates that Green was engaged with questions about reported injuries, radiation-like symptoms and neurological effects. Nolan's statements therefore fit an already documented pattern rather than introducing a completely new role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhidden.org">[Unhidden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhidden.org</span><span class="citation-popover-snippet">UnhiddenPotential health effects associated with exposure to...September 5, 2025 — 7 Sept 2025 — Anomalous Acute and Subacute Field Effe...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
+This matters because it aligns with other public evidence showing Green's long-standing interest in alleged physiological effects linked to anomalous aerospace encounters. The DIA-linked report *Anomalous Acute and Subacute Field Effects on Human Biological Tissues* demonstrates that Green was engaged with questions about reported injuries, radiation-like symptoms and neurological effects. Nolan's statements therefore fit an already documented pattern rather than introducing a completely new role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhidden.org">[Unhidden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhidden.org</span><span class="citation-popover-snippet">Potential health effects associated with exposure to...September 5, 2025 — 7 Sept 2025 — Anomalous Acute and Subacute Field Effe...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
 
 From a credibility standpoint, the MRI stories provide a form of second-hand corroboration for several narrower claims:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Green was collecting or reviewing medical case material.
 * Green was connected to researchers interested in neurological and physiological effects.
 * Green was regarded by some scientists as a useful source of unusual patient cases.
-* Green's involvement extended beyond casual UFO discussion into medically framed investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+* Green's involvement extended beyond casual UFO discussion into medically framed investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
 </div>
 
 Those points are more modest than many retellings. They support Green's presence within a medical-UAP network, not the truth of every conclusion reached by that network.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-2-dark.svg" | relative_url }}" alt="Nolan MRIs illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why corroboration is not the same as causation
@@ -319,8 +314,7 @@ Even if every reported scan abnormality were accepted at face value, several que
 
 Most public descriptions do not include pre-incident scans. Without baseline imaging, it is often impossible to know whether a feature developed after an event or existed beforehand.
 
-This issue becomes especially important because some versions of Nolan's argument suggest that unusual brain structures might predate encounters and perhaps make certain individuals more likely to report them. That is a very different claim from saying an encounter damaged the brain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditStanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
-
+This issue becomes especially important because some versions of Nolan's argument suggest that unusual brain structures might predate encounters and perhaps make certain individuals more likely to report them. That is a very different claim from saying an encounter damaged the brain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W5oyHZu35Ao" title="Stanford Scientist On Intuition And Brain Activity | Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W5oyHZu35Ao" target="_blank" rel="noopener noreferrer">Stanford Scientist On Intuition And Brain Activity | Garry Nolan</a></p><p class="youtube-embed-meta">Channel: Curt Jaimungal &middot; Views: 65.9K &middot; Uploaded: January 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W5oyHZu35Ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W5oyHZu35Ao">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +330,6 @@ Many individuals discussed in these accounts reportedly came from military, inte
 
 Even when Nolan has described severe cases involving apparent neurological injury, he has often discussed possibilities rather than demonstrated mechanisms. Suggestions involving electromagnetic exposure, directed energy effects or unknown technologies remain hypotheses rather than proven causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">January 28, 2026 — 28 Jan 2026 — Stanford scientist Dr Gary Nolan reveals shocking CIA UAP research, describing brain injuries as if &#x27;the...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-3-dark.svg" | relative_url }}" alt="Nolan MRIs illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the MRI reports really add to Green's credibility
 
@@ -344,15 +337,13 @@ The MRI material is most useful when interpreted conservatively.
 
 It does not prove that Green discovered evidence of non-human technology. It does not independently verify UFO encounters. It does not establish that reported neurological abnormalities were caused by anomalous craft, exotic energy systems or intelligence activities.
 
-What it does provide is a second source placing Green inside a long-running network that treated some UAP-related claims as medical questions rather than purely folklore. Nolan's descriptions support the view that Green was handling patient material, discussing neurological findings and participating in attempts to evaluate reported injuries through clinical methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
+What it does provide is a second source placing Green inside a long-running network that treated some UAP-related claims as medical questions rather than purely folklore. Nolan's descriptions support the view that Green was handling patient material, discussing neurological findings and participating in attempts to evaluate reported injuries through clinical methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span>
 
 For readers assessing Green's credibility, that is a meaningful but limited form of corroboration. It strengthens the case that Green was genuinely involved in medical investigations connected to anomalous reports. It does not resolve whether the underlying reports were accurate, whether the scans were interpreted correctly, or whether any extraordinary cause was ever demonstrated.
 
-In the broader debate over first-hand claims versus second-hand folklore, the Nolan MRI accounts sit squarely in the middle. They are stronger than anonymous rumour because they come from an identifiable scientist discussing real medical data. Yet they remain weaker than publicly available clinical evidence because the underlying records, methods and causal explanations have not been independently established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanbuddhist.net">[American Buddhist Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanbuddhist.net</span><span class="citation-popover-title">a terrific writeup on an interview with gary nolan plus the interview itself</span><span class="citation-popover-snippet">American Buddhist NetA terrific writeup on an interview with Dr Garry Nolan plus...11 Dec 2021 — Nolan and Green had a cohort of patient...</span></span></span>
-
+In the broader debate over first-hand claims versus second-hand folklore, the Nolan MRI accounts sit squarely in the middle. They are stronger than anonymous rumour because they come from an identifiable scientist discussing real medical data. Yet they remain weaker than publicly available clinical evidence because the underlying records, methods and causal explanations have not been independently established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</span><span class="citation-popover-meta">Published: December 10, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanbuddhist.net">[American Buddhist Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanbuddhist.net</span><span class="citation-popover-title">a terrific writeup on an interview with gary nolan plus the interview itself</span><span class="citation-popover-snippet">American Buddhist NetA terrific writeup on an interview with Dr Garry Nolan plus...11 Dec 2021 — Nolan and Green had a cohort of patient...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uTCc2-1tbBQ" title="Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer">Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 6.6M &middot; Uploaded: February 2022 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uTCc2-1tbBQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,15 +462,15 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +478,15 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster"><img src="https://i.ebayimg.com/images/g/IVgAAeSwGIxoh3qE/s-l225.jpg" alt="Listing image for Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage EGYPTIAN PYRAMID UFO Wall Art, Alien Sci-Fi Egypt Decor, Giza UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +494,31 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,7 +526,7 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-nolan-mri-reports-really-add-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-do-the-nolan-mri-reports-really-add-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,97 +741,97 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
 
 1. <a id="endnote-1"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/](https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VICEStanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</p></details>
+   Link: <a href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Professor Garry Nolan Is Analyzing Anomalous...December 10, 2021 — 10 Dec 2021 — Stanford Professor Garry Nolan Is Analyzin...</p></details>
    Published: December 10, 2021  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/](https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditStanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qgft5w/stanford_geneticist_garry_nolan_studied_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford geneticist Garry Nolan studied the neurological...October 26, 2021 — If anomalous cognition were to enter the brain, wher...</p></details>
    Published: October 26, 2021  
 
 3. <a id="endnote-3"></a>
    Source: unhidden.org  
-   Link: [https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf](https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UnhiddenPotential health effects associated with exposure to...September 5, 2025 — 7 Sept 2025 — Anomalous Acute and Subacute Field Effe...</p></details>
+   Link: <a href="https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhidden.org/wp-content/uploads/2025/09/uNHIdden-Health-Effects-Report.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential health effects associated with exposure to...September 5, 2025 — 7 Sept 2025 — Anomalous Acute and Subacute Field Effe...</p></details>
    Published: September 5, 2025  
 
 4. <a id="endnote-4"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382](https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382)  
+   Link: <a href="https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2026 — 28 Jan 2026 — Stanford scientist Dr Gary Nolan reveals shocking CIA UAP research, describing brain injuries as if &#x27;the...</p></details>
    Published: January 28, 2026  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gk9fo7/had_an_mri_and_it_turns_out_i_have_the_extremely/](https://www.reddit.com/r/UFOs/comments/1gk9fo7/had_an_mri_and_it_turns_out_i_have_the_extremely/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gk9fo7/had_an_mri_and_it_turns_out_i_have_the_extremely/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gk9fo7/had_an_mri_and_it_turns_out_i_have_the_extremely/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow hired some sharp people with that 22 mill. Worth a look at and read of what...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/rdg9uk/stanford_professor_garry_nolan_is_analyzing/](https://www.reddit.com/r/ufo/comments/rdg9uk/stanford_professor_garry_nolan_is_analyzing/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/rdg9uk/stanford_professor_garry_nolan_is_analyzing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/rdg9uk/stanford_professor_garry_nolan_is_analyzing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Professor Garry Nolan Is Analyzing...&quot; As some of you know, Kit Green was a proponent of the MJ-12 hoax... Or did Green post M...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: americanbuddhist.net  
    Title: a terrific writeup on an interview with gary nolan plus the interview itself  
-   Link: [https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/](https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/)  
+   Link: <a href="https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/" target="_blank" rel="noopener noreferrer nofollow">https://americanbuddhist.net/2021/12/11/a-terrific-writeup-on-an-interview-with-gary-nolan-plus-the-interview-itself/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Buddhist NetA terrific writeup on an interview with Dr Garry Nolan plus...11 Dec 2021 — Nolan and Green had a cohort of patient...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon](https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon)  
+   Link: <a href="https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145565321/Consciousness_and_the_UAP_Phenomenon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Consciousness and the UAP PhenomenonStanford professor Garry Nolan analyzed MRI scans of government and... Anomalous Acute and Sub...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DanicaPatrick/posts/youtube-clips-with-dr-garry-nolan-on-the-prettyintensepodcast-is-the-most-import/607863087373910/](https://www.facebook.com/DanicaPatrick/posts/youtube-clips-with-dr-garry-nolan-on-the-prettyintensepodcast-is-the-most-import/607863087373910/)  
+   Link: <a href="https://www.facebook.com/DanicaPatrick/posts/youtube-clips-with-dr-garry-nolan-on-the-prettyintensepodcast-is-the-most-import/607863087373910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DanicaPatrick/posts/youtube-clips-with-dr-garry-nolan-on-the-prettyintensepodcast-is-the-most-import/607863087373910/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clips with Dr Garry Nolan on the...Garry Nolan, a Stanford Professor, talks to Danica Patrick in her Pretty Intense Podcast abou...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: singjupost.com  
    Title: transcript immunologist garry nolans interview on joe rogan experience 2372  
-   Link: [https://singjupost.com/transcript-immunologist-garry-nolans-interview-on-joe-rogan-experience-2372/](https://singjupost.com/transcript-immunologist-garry-nolans-interview-on-joe-rogan-experience-2372/)  
+   Link: <a href="https://singjupost.com/transcript-immunologist-garry-nolans-interview-on-joe-rogan-experience-2372/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-immunologist-garry-nolans-interview-on-joe-rogan-experience-2372/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript: Immunologist Garry Nolan&#x27;s Interview on Joe...29 Aug 2025 — Read the full transcript of immunologist Garry Nolan&#x27;s interview...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: (PDF) Neuroscience and psychology of alien abduction4 days ago —  
-   Link: [https://www.researchgate.net/publication/405404634_Neuroscience_and_psychology_of_alien_abduction_An_extended_review](https://www.researchgate.net/publication/405404634_Neuroscience_and_psychology_of_alien_abduction_An_extended_review)  
+   Link: <a href="https://www.researchgate.net/publication/405404634_Neuroscience_and_psychology_of_alien_abduction_An_extended_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405404634_Neuroscience_and_psychology_of_alien_abduction_An_extended_review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anomalous. phenomena, has invited a new embrace of the many... the speciﬁc caudate-putamen connectivity so far linked with UAP is not en...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubs.rsna.org  
-   Link: [https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152149](https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152149)  
+   Link: <a href="https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152149" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsna.org/doi/abs/10.1148/radiol.2016152149</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RSNA Publications OnlinePsychoradiology: The Frontier of Neuroimaging in Psychiatryby S Lui · 2016 · Cited by 294 — High-field MRI reveal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: From radiation burns to "unaccounted for pregnancy", this  
-   Link: [https://www.facebook.com/WIONews/posts/from-radiation-burns-to-unaccounted-for-pregnancy-this-pentagon-report-has-liste/2013401742203784/](https://www.facebook.com/WIONews/posts/from-radiation-burns-to-unaccounted-for-pregnancy-this-pentagon-report-has-liste/2013401742203784/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/from-radiation-burns-to-unaccounted-for-pregnancy-this-pentagon-report-has-liste/2013401742203784/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/from-radiation-burns-to-unaccounted-for-pregnancy-this-pentagon-report-has-liste/2013401742203784/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute And Subacute Field Effects on Human and Biological Tissues - investigates injuries to &quot;human observers by anomalous advanced aerosp...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wcti12/posts/nearly-nine-years-ago-a-ringing-in-gary-arnolds-ear-changed-his-life-foreverthe-/1395050422654327/](https://www.facebook.com/wcti12/posts/nearly-nine-years-ago-a-ringing-in-gary-arnolds-ear-changed-his-life-foreverthe-/1395050422654327/)  
+   Link: <a href="https://www.facebook.com/wcti12/posts/nearly-nine-years-ago-a-ringing-in-gary-arnolds-ear-changed-his-life-foreverthe-/1395050422654327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcti12/posts/nearly-nine-years-ago-a-ringing-in-gary-arnolds-ear-changed-his-life-foreverthe-/1395050422654327/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly nine years ago, a ringing in Gary Arnold&#x27;s ear...When asked if he could describe the more abnormal effects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/514745622413411/posts/888257908395512/](https://www.facebook.com/groups/514745622413411/posts/888257908395512/)  
+   Link: <a href="https://www.facebook.com/groups/514745622413411/posts/888257908395512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/514745622413411/posts/888257908395512/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ces in the brains of UAP experiencers vs &quot;average&quot; people.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: the-sun.com  
    Title: ufo encounter symptoms garry nolan brains  
-   Link: [https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/](https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/)  
+   Link: <a href="https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I test the brains of people who say they&#x27;ve had a UFO encounter10 Dec 2021 — Kit Green studied some of the people, from what Nolan called...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thesun.co.uk  
    Title: ufo encounter symptoms garry nolan brains  
-   Link: [https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/](https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/)  
+   Link: <a href="https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I test brains of people who say they had UFO encounter &amp;...11 Dec 2021 — When asked if he could describe the more abnormal effects on th...</p></details>

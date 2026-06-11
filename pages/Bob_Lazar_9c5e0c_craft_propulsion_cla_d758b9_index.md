@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-craft-propulsion-cla/
 description: Focused pages that expand on Propulsion.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9
-parent_title: Propulsion | Did Bob Lazar's Story Hold Up?
+parent_title: Propulsion
 parent_nav_short_title: Propulsion
 parent_permalink: /propulsion/
 ---

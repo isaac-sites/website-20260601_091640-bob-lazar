@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-58c2df/
 nav_short_title: Sceptical first
 title: Does Taylor really start as a sceptic?
-title_full: Does Taylor really start as a sceptic? | Supporters
+title_full: Does Taylor really start as a sceptic?
 display_title_short: Sceptical first
 display_title: Sceptical first
 heading_title: Does Taylor really start as a sceptic?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Supporters Trust Taylor's UAP Work? | Taylor
+parent_title: Why Do Supporters Trust Taylor's UAP Work?
 parent_permalink: /supporters-58c2df/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Do Supporters Trust Taylor's UAP Work?
@@ -253,7 +253,7 @@ next_link:
   permalink: /sensor-literacy/
   short_title: Sensor literacy
   heading_title: Why Taylor's technical background matters to believers
-date: '2026-06-09 03:11:16 '
+date: '2026-06-11 21:08:42 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1.webp
@@ -263,7 +263,6 @@ image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_firs
 ## Introduction
 
 One of the strongest arguments made by [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s supporters is that he presents himself as a sceptic first and an anomaly investigator second. In interviews about UAPs and *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})*, Taylor has repeatedly argued that most UFO and paranormal reports are not useful scientific evidence because they rely on unverified testimony, poor-quality observations or missing data. Supporters see that stance as a sign that he is trying to separate genuine anomalies from folklore, misidentification and exaggeration.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1-dark.svg" | relative_url }}" alt="Sceptical first illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate is more complicated than simply asking whether Taylor is sceptical. Critics generally accept that he often uses cautious language in interviews. Their concern is whether that caution survives the transition from interview format to television format. The credibility question is therefore not just what Taylor says about evidence, but whether the investigations he participates in consistently apply the sceptical standards he describes.
@@ -288,12 +287,9 @@ That distinction helps explain why supporters describe him as an investigator ra
 
 Critics, however, note that this argument can cut both ways. If most reports lack adequate data, [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) ask whether some of the incidents highlighted on television programmes actually clear the evidential threshold Taylor says is necessary. The tension is not over whether poor evidence exists. It is over whether the standards he describes are always applied consistently when unusual events are presented to viewers.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mpH9KR5x47Y" title="Transforming Skeptics: Experiences from Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mpH9KR5x47Y" target="_blank" rel="noopener noreferrer">Transforming Skeptics: Experiences from Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: Vetted Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mpH9KR5x47Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mpH9KR5x47Y">Open on YouTube</a></p></div></div></div>
-
 ## Why “high strangeness” sounds less conclusive than “paranormal”
 
-Taylor has frequently resisted the label “paranormal”. Instead, he has preferred terms such as “high strangeness”, arguing that “paranormal” implies something outside nature or beyond explanation. He has said that even if a phenomenon appears bizarre, it still exists within the universe and may eventually receive a scientific explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-title">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t</span><span class="citation-popover-snippet">CinemablendWhy One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...April 1, 2020 — 31 Mar 2020 — Dr. Travis Taylor, who helped study the...</span><span class="citation-popover-meta">Published: April 1, 2020</span></span></span>
+Taylor has frequently resisted the label “paranormal”. Instead, he has preferred terms such as “high strangeness”, arguing that “paranormal” implies something outside nature or beyond explanation. He has said that even if a phenomenon appears bizarre, it still exists within the universe and may eventually receive a scientific explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-title">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t</span><span class="citation-popover-snippet">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...April 1, 2020 — 31 Mar 2020 — Dr. Travis Taylor, who helped study the...</span><span class="citation-popover-meta">Published: April 1, 2020</span></span></span>
 
 This linguistic choice performs an important credibility function.
 
@@ -305,7 +301,6 @@ Supporters see this as evidence of restraint. They argue that Taylor is trying t
 
 The phrase also allows Taylor to occupy a middle ground in UAP debates. He can reject simplistic dismissal while also avoiding direct claims that alien spacecraft, interdimensional entities or supernatural forces have been proven.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-2-dark.svg" | relative_url }}" alt="Sceptical first illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility benefit of cautious wording
 
@@ -314,7 +309,6 @@ Taylor’s supporters often point to the contrast between his language and the l
 Rather than claiming definitive proof, Taylor commonly speaks in terms of anomalies, unexplained observations, missing information and competing hypotheses. Even when discussing Skinwalker Ranch, he has frequently framed the investigation as an attempt to determine what is happening rather than as a demonstration that a particular explanation is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemighty.com">[We Are The Mighty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemighty.com</span><span class="citation-popover-title">interview travis taylor skinwalker ranch</span><span class="citation-popover-snippet">Travis Taylor, the lead astrophysicist of “The Secret of Skinwalker Ranch” about his journey and his experience investigating the unexpla...</span></span></span>
 
 For audiences looking for a technically minded investigator, that caution can increase credibility in several ways:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -327,9 +321,7 @@ For audiences looking for a technically minded investigator, that caution can in
 
 Supporters therefore argue that Taylor’s reputation depends less on dramatic conclusions than on the perception that he remains willing to say “we do not know”.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Y81FI5B1eY" title="Travis Taylor QUITS Skinwalker Ranch After What He Saw on Camera... Brandon Fugal RESPONDS..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Y81FI5B1eY" target="_blank" rel="noopener noreferrer">Travis Taylor QUITS Skinwalker Ranch After What He Saw on Camera... Brandon Fugal RESPONDS...</a></p><p class="youtube-embed-meta">Channel: I Believe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Y81FI5B1eY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Y81FI5B1eY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-dark.svg" | relative_url }}" alt="Sceptical first illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics can still question the televised follow-through
 
 The strongest criticism of Taylor’s sceptical-first image is not that he claims certainty. It is that the television environment may reward mystery more than resolution.
@@ -346,8 +338,6 @@ If Taylor says most extraordinary claims fail because they lack rigorous data, c
 
 Supporters respond that television necessarily condenses lengthy investigations and that many experiments shown on screen are exploratory rather than conclusive. They argue that Taylor generally presents anomalies as unresolved findings rather than final proof of a paranormal explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemighty.com">[We Are The Mighty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemighty.com</span><span class="citation-popover-title">interview travis taylor skinwalker ranch</span><span class="citation-popover-snippet">Travis Taylor, the lead astrophysicist of “The Secret of Skinwalker Ranch” about his journey and his experience investigating the unexpla...</span></span></span>
 
-
-<img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-dark.svg" | relative_url }}" alt="Sceptical first illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved tension in Taylor’s public image
 
 Taylor’s credibility debate ultimately turns on a tension that has never been fully resolved.
@@ -359,10 +349,6 @@ On the other side is a television personality associated with one of the most fa
 The reason the issue remains important is that both sides draw on real aspects of Taylor’s public record. His interviews consistently contain sceptical language and warnings about weak evidence. At the same time, his highest-profile media work operates inside a format built around unresolved mysteries and audience intrigue.
 
 Whether a reader views Taylor as a careful investigator or as a participant in a highly commercialised mystery narrative often depends on which of those two elements they regard as more representative of his overall work.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,15 +467,15 @@ Whether a reader views Taylor as a careful investigator or as a participant in a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New"><img src="{{ '/assets/images/marketplace-covers/27cba91a01ad5f50f98f.jpg' | relative_url }}" alt="Listing image for I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer">I Want to Leave Shirt Gildan 5000 UFO Aliencore Tee Alien Abduction Gift 5XL New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo investigator t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo investigator t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +483,15 @@ Whether a reader views Taylor as a careful investigator or as a participant in a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Investigator - Classic Unisex Crewneck T-shirt"><img src="{{ '/assets/images/marketplace-covers/9a5d55539ce045b58a69.jpg' | relative_url }}" alt="Listing image for UFO Investigator - Classic Unisex Crewneck T-shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO Investigator - Classic Unisex Crewneck T-shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo investigator t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo investigator t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +499,31 @@ Whether a reader views Taylor as a careful investigator or as a participant in a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Graphic Tee Size SZ M Black Aliens UFO FBI Mulder Skully Lootcrate"><img src="{{ '/assets/images/marketplace-covers/4074090e594ffabd1bd5.jpg' | relative_url }}" alt="Listing image for The X Files Graphic Tee Size SZ M Black Aliens UFO FBI Mulder Skully Lootcrate" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer">The X Files Graphic Tee Size SZ M Black Aliens UFO FBI Mulder Skully Lootcrate</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo investigator t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo investigator t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,7 +531,7 @@ Whether a reader views Taylor as a careful investigator or as a participant in a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+investigator+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo investigator t shirt" data-ebay-reference="sceptical-first-does-taylor-really-start-as-a-sceptic-travis-taylor-ufo-investigator-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-taylor-really-start-as-a-sceptic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="does-taylor-really-start-as-a-sceptic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,97 +747,97 @@ Whether a reader views Taylor as a careful investigator or as a participant in a
 1. <a id="endnote-1"></a>
    Source: cinemablend.com  
    Title: Why One Secret Of Skinwalker Ranch Scientist Doesn't  
-   Link: [https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series](https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CinemablendWhy One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...April 1, 2020 — 31 Mar 2020 — Dr. Travis Taylor, who helped study the...</p></details>
+   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...April 1, 2020 — 31 Mar 2020 — Dr. Travis Taylor, who helped study the...</p></details>
    Published: April 1, 2020  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Do we all agree that Skinwalker Ranch is a grift?  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/](https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12yto7q/do_we_all_agree_that_skinwalker_ranch_is_a_grift/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m highly...It seems painfully evident that Skinwalker Ranch is one big grift. There is no mention of a science or research in any docu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12a6xvw/new_travis_taylor_interview_whats_really/](https://www.reddit.com/r/skinwalkerranch/comments/12a6xvw/new_travis_taylor_interview_whats_really/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12a6xvw/new_travis_taylor_interview_whats_really/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12a6xvw/new_travis_taylor_interview_whats_really/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>th to build their lairs then he&#x27;s a liar and he&#x27;s been compromised.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview](https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview)  
+   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of putting it, &#x27;high-strangeness&#x27; which is much better because paranormal suggests something that can&#x27;...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wearethemighty.com  
    Title: interview travis taylor skinwalker ranch  
-   Link: [https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/](https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/)  
+   Link: <a href="https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearethemighty.com/mighty-movies/interview-travis-taylor-skinwalker-ranch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, the lead astrophysicist of “The Secret of Skinwalker Ranch” about his journey and his experience investigating the unexpla...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wearethemighty.com  
    Title: two veterans shaped the ufo phenomenon from a joke into real federal policy  
-   Link: [https://www.wearethemighty.com/history/two-veterans-shaped-the-ufo-phenomenon-from-a-joke-into-real-federal-policy/](https://www.wearethemighty.com/history/two-veterans-shaped-the-ufo-phenomenon-from-a-joke-into-real-federal-policy/)  
+   Link: <a href="https://www.wearethemighty.com/history/two-veterans-shaped-the-ufo-phenomenon-from-a-joke-into-real-federal-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearethemighty.com/history/two-veterans-shaped-the-ufo-phenomenon-from-a-joke-into-real-federal-policy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar tracks, infrared imagery, and eyewitness accounts from trained military personnel...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/recent-sighting-analysis-from-skinwalker-ranch-erik-bard-principal-investigatora/1192614002985151/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/recent-sighting-analysis-from-skinwalker-ranch-erik-bard-principal-investigatora/1192614002985151/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/recent-sighting-analysis-from-skinwalker-ranch-erik-bard-principal-investigatora/1192614002985151/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/recent-sighting-analysis-from-skinwalker-ranch-erik-bard-principal-investigatora/1192614002985151/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent Sighting &amp; Analysis from Skinwalker RanchThe data collected is often outside the areas of expertise of Travis Taylor and Eric Bard...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
 11. <a id="endnote-11"></a>
    Source: news4sanantonio.com  
-   Link: [https://news4sanantonio.com/news/local/ufos-and-high-strangeness-the-secret-of-skinwalker-ranch-live-at-the-tobin-center](https://news4sanantonio.com/news/local/ufos-and-high-strangeness-the-secret-of-skinwalker-ranch-live-at-the-tobin-center)  
+   Link: <a href="https://news4sanantonio.com/news/local/ufos-and-high-strangeness-the-secret-of-skinwalker-ranch-live-at-the-tobin-center" target="_blank" rel="noopener noreferrer nofollow">https://news4sanantonio.com/news/local/ufos-and-high-strangeness-the-secret-of-skinwalker-ranch-live-at-the-tobin-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s and &#x27;High Strangeness:&#x27; The Secret of Skinwalker...5 Jan 2025 — This event is a live, in-person event meant to dive deeper into th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/](https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/)  
+   Link: <a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government has released a new batch of UFO -related records, renewing public debate over unidentified anomalous phenomena, or UAPs, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: perspectivia.net  
-   Link: [https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00006751/cultures_of_intelligence.pdf](https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00006751/cultures_of_intelligence.pdf)  
+   Link: <a href="https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00006751/cultures_of_intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://perspectivia.net/servlets/MCRFileNodeServlet/pnet_derivate_00006751/cultures_of_intelligence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone may freely read, download, distribute, and make the work available to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/](https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/)  
+   Link: <a href="https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4GQTV/posts/our-conversation-with-travis-taylor-and-jay-stratton-experts-from-the-history-ch/1285679932710904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>annel&#x27;s &#x27;The Secret of Skinwalker Ranch,&#x27; revealed intriguing...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/video/98658486/](https://abcnews.com/video/98658486/)  
+   Link: <a href="https://abcnews.com/video/98658486/" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/video/98658486/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h&#x27;. The upcoming season of the History show looks at more paranormal...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: edithhall.co.uk  
    Title: Sophocles and the Greek Tragic Tradition  
-   Link: [https://edithhall.co.uk/wp-content/uploads/2023/03/sophocles-and-the-greek-tragic-tradition.pdf](https://edithhall.co.uk/wp-content/uploads/2023/03/sophocles-and-the-greek-tragic-tradition.pdf)  
+   Link: <a href="https://edithhall.co.uk/wp-content/uploads/2023/03/sophocles-and-the-greek-tragic-tradition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edithhall.co.uk/wp-content/uploads/2023/03/sophocles-and-the-greek-tragic-tradition.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edith HallThirteen essays by senior international experts on Greek tragedy take a fresh look at Sophocles&#x27; dramas. They reassess their cr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/stevebalsamo/posts/hello-allif-youre-into-the-paranormal-high-strangeness-and-weird-stuff-you-might/1218805066736800/](https://www.facebook.com/stevebalsamo/posts/hello-allif-youre-into-the-paranormal-high-strangeness-and-weird-stuff-you-might/1218805066736800/)  
+   Link: <a href="https://www.facebook.com/stevebalsamo/posts/hello-allif-youre-into-the-paranormal-high-strangeness-and-weird-stuff-you-might/1218805066736800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stevebalsamo/posts/hello-allif-youre-into-the-paranormal-high-strangeness-and-weird-stuff-you-might/1218805066736800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ou might enjoy this interview with Dr. Jack Hunter, a hero of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Truth About Skinwalker Ranch: Travis Taylor | Ep 129  
-   Link: [https://www.youtube.com/watch?v=G_rEi2CUBv0](https://www.youtube.com/watch?v=G_rEi2CUBv0)  
+   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>paranormal with Travis Taylor on this episode of Rick &amp; Bubba University!... The Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 6...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-aaro/
 description: Focused pages that expand on AARO Role.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7
-parent_title: AARO Role | Did Sean Kirkpatrick Debunk UFO Disclosure?
+parent_title: AARO Role
 parent_nav_short_title: AARO Role
 parent_permalink: /aaro-role/
 ---

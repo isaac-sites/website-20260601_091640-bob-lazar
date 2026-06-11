@@ -299,7 +299,7 @@ next_link:
   title: Kirkpatrick
   permalink: /did-sean-kirkpatrick-debunk-ufo/
   short_title: Kirkpatrick
-date: '2026-06-09 02:51:39 '
+date: '2026-06-11 21:00:35 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c-overview.webp
@@ -309,7 +309,6 @@ image: /assets/images/Bob_Lazar_9c5e0c-overview-social.jpg
 ## Introduction
 
 The strongest fair assessment is mixed but sceptical. Lazar’s account contains a few details that gained later cultural or documentary resonance: Area 51 was later officially acknowledged as a real classified aviation site, he appears to have had some connection to Los Alamos through a directory and press coverage, and his story has remained broadly recognisable over decades. But the central claim — that he worked on non-human craft and an exotic stable form of [element 115]({{ 'element-115/' | relative_url }}) — remains unproven. His claimed MIT and Caltech [degrees]({{ 'degrees/' | relative_url }}) have not been independently verified, his alleged S-4 role has not been documented, no physical alien material has been produced publicly, and current US government UAP offices say they have found no evidence that the US government or private industry has had access to extraterrestrial technology. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">The Strange Case of Bob Lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c-overview.webp" | relative_url }}" alt="Overview image for Did Bob Lazar&#x27;s Story Hold Up?" loading="eager" decoding="sync" fetchpriority="high">
 ## What Bob Lazar actually claimed
@@ -333,8 +332,7 @@ The easiest part of Lazar’s story to verify is not the alien technology claim,
 
 That official acknowledgement helps explain why Lazar’s story became so durable. In the late 1980s and early 1990s, the government’s secrecy around Groom Lake made it plausible to many viewers that something extraordinary might be hidden there. But the declassified record points to secret aircraft, reconnaissance work, cover arrangements and testing infrastructure — not recovered alien craft. The existence of Area 51 therefore supports the setting of Lazar’s story, not the central claim about non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
-There is also evidence that Lazar was connected in some way to Los Alamos. A 1982 Los Alamos Monitor article about his jet-powered car described him as a physicist at the Los Alamos Meson Physics Facility, and later reporting has discussed a [Los Alamos directory]({{ 'directory-debate/' | relative_url }}) entry listing “Robert Lazar”. These are meaningful data points because they show Lazar was not simply an outsider with no contact at all with technical communities. However, they do not establish that he held the senior physics credentials he later claimed, nor do they verify work on classified alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
-
+There is also evidence that Lazar was connected in some way to Los Alamos. A 1982 Los Alamos Monitor article about his jet-powered car described him as a physicist at the Los Alamos Meson Physics Facility, and later reporting has discussed a Los Alamos directory entry listing “Robert Lazar”. These are meaningful data points because they show Lazar was not simply an outsider with no contact at all with technical communities. However, they do not establish that he held the senior physics credentials he later claimed, nor do they verify work on classified alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-1-dark.svg" | relative_url }}" alt="Did Bob Lazar&#x27;s Story Hold Up? illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The education problem remains central
@@ -352,7 +350,6 @@ The Los Alamos material is the strongest biographical point in Lazar’s favour,
 The problem is that a newspaper description is not the same as a verified job title, security clearance or employment file. Local profiles often rely on what a subject tells the reporter, especially in human-interest pieces about unusual hobbies. Later sceptical discussion has focused on whether Lazar worked directly for Los Alamos National Laboratory, worked for a contractor, held a technician-type role, or was simply described loosely in the press. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">The Strange Case of Bob Lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar</span></span></span>
 
 The fair conclusion is that Los Alamos gives Lazar more texture than a pure hoaxer with no technical background. It does not, by itself, validate his claimed advanced degrees, his alleged S-4 access, or his account of non-human craft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-7jA4OLNZvA" title="Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer">Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 706.6K &middot; Uploaded: January 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-7jA4OLNZvA">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +371,6 @@ No official document has publicly confirmed Lazar’s employment at S-4, the exi
 
 The current official UAP position also cuts against the core allegation. AARO, the US office responsible for UAP analysis, says it uses a scientific and data-driven approach, and its public-facing material states that the Department has not found evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> The ODNI and Department of Defense have continued to publish annual UAP reports to Congress, but those reports concern unidentified anomalous phenomena as a national-security and flight-safety issue, not confirmation of Lazar’s S-4 narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-2-dark.svg" | relative_url }}" alt="Did Bob Lazar&#x27;s Story Hold Up? illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters still take him seriously
 
@@ -393,7 +389,6 @@ Sceptics focus on the missing foundations. Lazar’s claimed elite education has
 They also note that classified aerospace work can explain part of the mythos without requiring aliens. Area 51’s documented history involves U-2 and OXCART aircraft, secret testing, cover arrangements, restricted airspace and aircraft that would have looked highly unusual to observers. That is enough to generate UFO stories even when the underlying objects are terrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 The strongest sceptical reading is not simply “Area 51 was fake” — that position has aged badly because Area 51 was real. The stronger position is: Lazar attached an extraordinary alien reverse-engineering story to a real secret aviation environment, but the specific extraordinary claims have not met the evidence standard they require.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgGO_O8k2nE" title="Filmmaker says US government worked with Russians at secret Nevada base | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer">Filmmaker says US government worked with Russians at secret Nevada base | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 466.2K &middot; Uploaded: May 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgGO_O8k2nE">Open on YouTube</a></p></div></div></div>
 
@@ -415,8 +410,6 @@ The timing also mattered. Lazar arrived at a moment when Cold War secrecy, emerg
 
 Lazar’s story also shaped the vocabulary of UFO culture. “Area 51”, “S-4”, “reverse-engineering”, “element 115” and “Sport Model” became recurring reference points in documentaries, forums, fiction and online debate. Even people who reject his claims often discuss the UFO cover-up idea using concepts popularised by Lazar’s account.
 
-
-<img src="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-3-dark.svg" | relative_url }}" alt="Did Bob Lazar&#x27;s Story Hold Up? illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What later UAP reporting changed — and what it did not
 
 The modern UAP era has made the Lazar question more complicated, but not necessarily stronger. Since 2017, mainstream outlets, US officials and congressional committees have treated UAP as a legitimate aviation, intelligence and national-security topic. ODNI and the Department of Defense now publish UAP reports, and AARO exists to collect and assess relevant cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
@@ -426,6 +419,8 @@ That shift helps Lazar indirectly in one limited sense: it makes it harder to di
 But the shift does not confirm Lazar’s central story. Official UAP attention is not the same as official confirmation of recovered alien craft. AARO’s public position is that it has not found evidence of extraterrestrial technology, and the strongest recent official reports have emphasised data quality, misidentification, national-security uncertainty and reporting procedures rather than proof of non-human engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 In other words, later UAP reporting widens the context but does not fill Lazar’s evidence gap.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GFhqpTK9Ysc" title="“It Can Be Weaponized”: Jeremy Corbell &amp; Bob Lazar Claim Element 115 is Dangerous" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GFhqpTK9Ysc" target="_blank" rel="noopener noreferrer">“It Can Be Weaponized”: Jeremy Corbell &amp; Bob Lazar Claim Element 115 is Dangerous</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 832.7K &middot; Uploaded: January 2019 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GFhqpTK9Ysc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GFhqpTK9Ysc">Open on YouTube</a></p></div></div></div>
 
 ## A practical credibility assessment
 
@@ -441,9 +436,6 @@ A balanced assessment has to separate four different questions that are often bl
 
 The fairest label is not “confirmed whistleblower” and not simply “irrelevant hoaxer”. Lazar is a historically important UFO claimant whose story rests on a small number of suggestive background details and a much larger set of unproven extraordinary claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GFhqpTK9Ysc" title="“It Can Be Weaponized”: Jeremy Corbell &amp; Bob Lazar Claim Element 115 is Dangerous" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GFhqpTK9Ysc" target="_blank" rel="noopener noreferrer">“It Can Be Weaponized”: Jeremy Corbell &amp; Bob Lazar Claim Element 115 is Dangerous</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 832.7K &middot; Uploaded: January 2019 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GFhqpTK9Ysc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GFhqpTK9Ysc">Open on YouTube</a></p></div></div></div>
-
 ## Bottom line
 
 Bob Lazar’s credibility is strongest at the edges and weakest at the centre. The setting of his story — a secretive Nevada aviation world — is real. His public impact is undeniable. Some biographical details suggest he had proximity to technical environments. Those facts explain why he remains compelling.
@@ -451,86 +443,44 @@ Bob Lazar’s credibility is strongest at the edges and weakest at the centre. T
 But the central claim requires much more than atmosphere, consistency and later confirmation that Area 51 existed. It requires verifiable evidence that Lazar had the claimed credentials, held the claimed classified role, accessed the claimed S-4 programme, and encountered non-human craft or material. That evidence has not been produced publicly. On the available record, Lazar is best understood as a major figure in UFO/UAP discourse whose claims remain culturally influential but evidentially unproven.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did Bob Lazar&#x27;s Story Hold Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did Bob Lazar&#x27;s Story Hold Up?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Presents Lazar&#x27;s own account of Area 51, S-4 and alleged reverse-engineering work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Provides historical context for Area 51 and the environment surrounding Lazar&#x27;s claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Offers a broader evidential framework for evaluating extraordinary UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Represents an influential alternative interpretation of UFO phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -567,15 +517,15 @@ But the central claim requires much more than atmosphere, consistency and later 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +533,15 @@ But the central claim requires much more than atmosphere, consistency and later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +549,15 @@ But the central claim requires much more than atmosphere, consistency and later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model â€“ Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model â€“ Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model â€“ Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +565,15 @@ But the central claim requires much more than atmosphere, consistency and later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model â€“ UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model â€“ UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model â€“ UFO Lore Figure with Red Eyes | Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo display model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,7 +581,7 @@ But the central claim requires much more than atmosphere, consistency and later 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo display model" data-ebay-reference="did-bob-lazars-story-hold-up-did-bob-lazar-s-story-hold-up-bob-lazar-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-bob-lazar-s-story-hold-up-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-bob-lazar-s-story-hold-up-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -847,170 +797,170 @@ But the central claim requires much more than atmosphere, consistency and later 
 1. <a id="endnote-1"></a>
    Source: skeptic.com  
    Title: The Strange Case of Bob Lazar  
-   Link: [https://www.skeptic.com/article/the-strange-case-of-bob-lazar/](https://www.skeptic.com/article/the-strange-case-of-bob-lazar/)  
+   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/](https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/)  
+   Link: <a href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/</a>  
 
 4. <a id="endnote-4"></a>
    Source: otherhand.org  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/</a>  
 
 5. <a id="endnote-5"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components](https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components</a>  
 
 6. <a id="endnote-6"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2006/Iowa-Chemical-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components](https://www.cpsc.gov/Newsroom/News-Releases/2006/Iowa-Chemical-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2006/Iowa-Chemical-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2006/Iowa-Chemical-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components</a>  
 
 7. <a id="endnote-7"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/FHSA-Requirements](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/FHSA-Requirements)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/FHSA-Requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/FHSA-Requirements</a>  
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 13. <a id="endnote-13"></a>
    Source: otherhand.org  
    Title: The Robert Lazar [Timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)(6) Las Vegas Review-Journal,  
-   Link: [https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/](https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/)  
+   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt](https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
 16. <a id="endnote-16"></a>
    Source: pls.llnl.gov  
-   Link: [https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115](https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115)  
+   Link: <a href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow">https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115</a>  
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
    Title: Area 51  
-   Link: [https://www.britannica.com/place/Area-51](https://www.britannica.com/place/Area-51)  
+   Link: <a href="https://www.britannica.com/place/Area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Area-51</a>  
 
 18. <a id="endnote-18"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moscovium](https://en.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://simple.wikipedia.org/wiki/Moscovium](https://simple.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://simple.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Moscovium</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.howstuffworks.com  
    Title: element 115  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/element-115.htm](https://science.howstuffworks.com/space/aliens-ufos/element-115.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
 
 25. <a id="endnote-25"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
-   Link: [https://pubchem.ncbi.nlm.nih.gov/element/Moscovium](https://pubchem.ncbi.nlm.nih.gov/element/Moscovium)  
+   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
 
 26. <a id="endnote-26"></a>
    Source: nev.fandom.com  
    Title: Robert Lazar  
-   Link: [https://nev.fandom.com/wiki/Robert_Lazar](https://nev.fandom.com/wiki/Robert_Lazar)  
+   Link: <a href="https://nev.fandom.com/wiki/Robert_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://nev.fandom.com/wiki/Robert_Lazar</a>  
 
 27. <a id="endnote-27"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mgGO_O8k2nE](https://www.youtube.com/watch?v=mgGO_O8k2nE)  
+   Link: <a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar convinced disks were alien, calls UFO secret &#x27;unfair outright&#x27; -- Part 6...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GFhqpTK9Ysc](https://www.youtube.com/watch?v=GFhqpTK9Ysc)  
+   Link: <a href="https://www.youtube.com/watch?v=GFhqpTK9Ysc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GFhqpTK9Ysc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Alien Pictures, Why Aliens Visit, & Element 115  
-   Link: [https://www.youtube.com/watch?v=-7jA4OLNZvA](https://www.youtube.com/watch?v=-7jA4OLNZvA)  
+   Link: <a href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-7jA4OLNZvA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“It Can Be Weaponized”: Jeremy Corbell &amp; Bob Lazar Claim Element 115 is Dangerous...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Watch this video  
-   Link: [https://www.youtube.com/watch?v=XaEMyYDrrf8](https://www.youtube.com/watch?v=XaEMyYDrrf8)  
+   Link: <a href="https://www.youtube.com/watch?v=XaEMyYDrrf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XaEMyYDrrf8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 33. <a id="endnote-33"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/](https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/)  
+   Link: <a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy](https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy)  
+   Link: <a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
 
 36. <a id="endnote-36"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/area51.htm](https://sacred-texts.com/ufo/area51.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/area51.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/area51.htm</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/](https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/</a>

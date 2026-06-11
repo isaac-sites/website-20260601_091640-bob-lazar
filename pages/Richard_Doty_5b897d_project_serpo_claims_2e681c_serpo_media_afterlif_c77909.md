@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /serpo/
 nav_short_title: Media Afterlife
 title: How Serpo Survived Without Stronger Proof
-title_full: How Serpo Survived Without Stronger Proof | Serpo
+title_full: How Serpo Survived Without Stronger Proof
 display_title_short: Media Afterlife
 display_title: Media Afterlife
 heading_title: How Serpo Survived Without Stronger Proof
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Project Serpo Reveal About Doty's Claims? | Doty
+parent_title: What Does Project Serpo Reveal About Doty's Claims?
 parent_permalink: /serpo/
 parent_nav_short_title: Serpo
 parent_heading_title: What Does Project Serpo Reveal About Doty's Claims?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /howe-meeting/
   short_title: Howe Meeting
   heading_title: The Manila Folder That Proved Too Little
-date: '2026-06-09 02:55:50 '
+date: '2026-06-11 21:03:12 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_medi
 
 ## Introduction
 
-Project [Serpo]({{ 'serpo/' | relative_url }}) did not become more credible as time passed, but it did become more culturally durable. After the original anonymous emails and insider-style claims failed to produce verifiable records, named participants, or independently confirmed documentation, the story found a second life through paranormal television, streaming platforms, podcasts, documentaries, forums, and social media. In that later phase, [Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }}) became an important figure not because he resolved the evidence problems surrounding Serpo, but because he helped keep the narrative visible. The result was a shift from alleged disclosure to recurring entertainment content: the story remained popular, while the factual gaps remained largely unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">January 18, 2003 — Doty spreads &quot;Project Serpo&quot; stories. edit. In 2005, UFO researcher Victor Martinez received an anonymous email about...</span><span class="citation-popover-meta">Published: January 18, 2003</span></span></span>
-
+Project [Serpo]({{ 'serpo/' | relative_url }}) did not become more credible as time passed, but it did become more culturally durable. After the original anonymous emails and insider-style claims failed to produce verifiable records, named participants, or independently confirmed documentation, the story found a second life through paranormal television, streaming platforms, podcasts, documentaries, forums, and social media. In that later phase, Richard Doty became an important figure not because he resolved the evidence problems surrounding Serpo, but because he helped keep the narrative visible. The result was a shift from alleged disclosure to recurring entertainment content: the story remained popular, while the factual gaps remained largely unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">January 18, 2003 — Doty spreads &quot;Project Serpo&quot; stories. edit. In 2005, UFO researcher Victor Martinez received an anonymous email about...</span><span class="citation-popover-meta">Published: January 18, 2003</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1-dark.svg" | relative_url }}" alt="Media Afterlife illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers assessing Doty's credibility, this distinction matters. Media amplification can make a claim familiar, memorable, and influential without making it better supported. Serpo's afterlife illustrates how a disputed UFO narrative can survive for decades through repetition, adaptation, and audience engagement even when its evidential foundation remains weak.
@@ -270,7 +269,6 @@ What changed after the mid-2000s was the media environment. UFO stories no longe
 
 In that environment, Serpo gained several advantages:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It already possessed a complete narrative structure: contact, diplomacy, interstellar travel, culture shock, and return.
@@ -281,7 +279,6 @@ In that environment, Serpo gained several advantages:
 </div>
 
 Those qualities made Serpo highly adaptable for television and long-form discussion formats even though the underlying evidence had not substantially improved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xAyxaoqzmso" title="Project Serpo | Full UFO Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xAyxaoqzmso" target="_blank" rel="noopener noreferrer">Project Serpo | Full UFO Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 328.4K &middot; Uploaded: March 2024 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xAyxaoqzmso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xAyxaoqzmso">Open on YouTube</a></p></div></div></div>
 
@@ -298,8 +295,7 @@ This creates an important credibility distinction:
 
 Viewers encountering Serpo through modern streaming platforms may experience it as an established part of UFO history simply because it is presented repeatedly and confidently. Yet the core evidential objections raised during the original internet-era controversy remain largely unresolved. Critics still point to missing documentation, changing versions of events, and the lack of independently verified participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">January 18, 2003 — Doty spreads &quot;Project Serpo&quot; stories. edit. In 2005, UFO researcher Victor Martinez received an anonymous email about...</span><span class="citation-popover-meta">Published: January 18, 2003</span></span></span>
 
-The same pattern can be seen across Doty's wider media presence. Promotional material for later seasons of *Cosmic Disclosure* shows him discussing increasingly expansive subjects including extraterrestrial civilisations, secret programmes, hidden technologies, interplanetary interactions, and alleged government cover-ups. The programmes often treat insider testimony itself as a primary form of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1</span><span class="citation-popover-snippet">GaiaCosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure/season-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">go after his unexplained disappearance from a nuclear...</span></span></span>
-
+The same pattern can be seen across Doty's wider media presence. Promotional material for later seasons of *Cosmic Disclosure* shows him discussing increasingly expansive subjects including extraterrestrial civilisations, secret programmes, hidden technologies, interplanetary interactions, and alleged government cover-ups. The programmes often treat insider testimony itself as a primary form of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1</span><span class="citation-popover-snippet">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure/season-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">go after his unexplained disappearance from a nuclear...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uqnlonvrQyE" title="Cosmic Disclosure (2020) - Richard Doty on Alien Autopsy / Alien Interview videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uqnlonvrQyE" target="_blank" rel="noopener noreferrer">Cosmic Disclosure (2020) - Richard Doty on Alien Autopsy / Alien Interview videos</a></p><p class="youtube-embed-meta">Channel: 4K Archivist &middot; Views: 6.1K &middot; Uploaded: June 2023 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uqnlonvrQyE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uqnlonvrQyE">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +313,6 @@ QuestionSerpo's PositionIs it a compelling narrative?Yes, for many audiences.Doe
 
 This distinction is often blurred in paranormal media. A story that generates audience engagement can remain commercially valuable regardless of whether new corroboration emerges. The longer a narrative circulates, the easier it becomes for newer audiences to encounter it detached from the original criticisms.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-2-dark.svg" | relative_url }}" alt="Media Afterlife illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Repetition Can Increase Familiarity Without Increasing Proof
 
@@ -333,17 +328,15 @@ Even supporters who continued promoting elements of the story sometimes acknowle
 
 As the narrative spread, debate increasingly focused on interpretation rather than documentation. Supporters argued that secrecy explained the absence of records. Critics argued that the absence of records was precisely the problem.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cvqYHKELGLA" title="Cosmic Disclosure - Project Serpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cvqYHKELGLA" target="_blank" rel="noopener noreferrer">Cosmic Disclosure - Project Serpo</a></p><p class="youtube-embed-meta">Channel: EBEN Sessions &middot; Views: 41.2K &middot; Uploaded: June 2023 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cvqYHKELGLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cvqYHKELGLA">Open on YouTube</a></p></div></div></div>
 
 ## The Internet's Role in Serpo's Survival
 
 The internet allowed Serpo to behave less like a conventional claim and more like an evolving mythology.
 
-Discussion boards, archived email releases, podcasts, Reddit threads, social-media reposts, documentaries, and video essays continually reintroduced the story to new audiences. Even highly sceptical discussions helped preserve awareness by keeping the subject visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The TTSA and Project Serpo Connection: r/ufo</span><span class="citation-popover-snippet">RedditThe TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Doty was dumb enough to use his home computer to send certain SERPO...</span><span class="citation-popover-meta">Published: February 1, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">t seems pretty far fetched, but I am intrigued by it. Do you...</span></span></span>
+Discussion boards, archived email releases, podcasts, Reddit threads, social-media reposts, documentaries, and video essays continually reintroduced the story to new audiences. Even highly sceptical discussions helped preserve awareness by keeping the subject visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The TTSA and Project Serpo Connection: r/ufo</span><span class="citation-popover-snippet">The TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Doty was dumb enough to use his home computer to send certain SERPO...</span><span class="citation-popover-meta">Published: February 1, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">t seems pretty far fetched, but I am intrigued by it. Do you...</span></span></span>
 
 This produced an unusual feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,7 +350,6 @@ This produced an unusual feedback loop:
 
 The mechanism rewards longevity more than verification. A narrative can become influential simply because people continue arguing about it.
 
-
 <img src="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-3-dark.svg" | relative_url }}" alt="Media Afterlife illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Amplification Changed UFO Culture More Than Credibility
 
@@ -367,7 +359,7 @@ The story helped normalise a style of UFO narrative centred on alleged insiders,
 
 In that sense, Serpo's legacy extends beyond the original exchange narrative. It contributed to a broader media ecosystem in which extraordinary claims could circulate through recurring interviews, subscription television, podcasts, and online communities without first passing through conventional evidential standards.
 
-For Richard Doty's credibility assessment, that distinction is important. His continued visibility in programmes such as *Cosmic Disclosure* demonstrates influence and audience reach, but influence is not the same thing as corroboration. The fact that Serpo remained widely discussed does not establish that the exchange programme occurred. What it demonstrates more clearly is the power of media repetition, insider framing, and long-running UFO storytelling to keep a disputed narrative alive long after the original evidence disputes remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TVProject Serpo: E.T. Exchange Program</span><span class="citation-popover-snippet">Apple TVProject Serpo: E.T. Exchange Program - Cosmic DisclosureJanuary 1, 2021 — In 1965, 12 humans left Earth to live on a distant plan...</span><span class="citation-popover-meta">Published: January 1, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1</span><span class="citation-popover-snippet">GaiaCosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</span></span></span>
+For Richard Doty's credibility assessment, that distinction is important. His continued visibility in programmes such as *Cosmic Disclosure* demonstrates influence and audience reach, but influence is not the same thing as corroboration. The fact that Serpo remained widely discussed does not establish that the exchange programme occurred. What it demonstrates more clearly is the power of media repetition, insider framing, and long-running UFO storytelling to keep a disputed narrative alive long after the original evidence disputes remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-title">TVProject Serpo: E.T. Exchange Program</span><span class="citation-popover-snippet">Apple TVProject Serpo: E.T. Exchange Program - Cosmic DisclosureJanuary 1, 2021 — In 1965, 12 humans left Earth to live on a distant plan...</span><span class="citation-popover-meta">Published: January 1, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gaia.com/series/cosmic-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1</span><span class="citation-popover-snippet">Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -381,16 +373,16 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
         </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+        <p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Explains how narratives survive through repetition, media and belief systems.</p>
+        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -398,16 +390,16 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">Examines how UFO stories persist culturally even when evidence remains contested.</p>
+        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,16 +407,16 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">Provides a benchmark for evidence-based UFO claims versus media amplification.</p>
+        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -432,16 +424,16 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
         </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+        <p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Explores mythmaking and cultural transmission of extraordinary narratives.</p>
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -449,7 +441,7 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,15 +478,15 @@ For Richard Doty's credibility assessment, that distinction is important. His co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +494,15 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +510,31 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,7 +542,7 @@ For Richard Doty's credibility assessment, that distinction is important. His co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="media-afterlife-how-serpo-survived-without-stronger-proof-richard-doty-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-serpo-survived-without-stronger-proof-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-serpo-survived-without-stronger-proof-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,146 +758,146 @@ For Richard Doty's credibility assessment, that distinction is important. His co
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 18, 2003 — Doty spreads &quot;Project Serpo&quot; stories. edit. In 2005, UFO researcher Victor Martinez received an anonymous email about...</p></details>
    Published: January 18, 2003  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
-   Link: [https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience](https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
 
 3. <a id="endnote-3"></a>
    Source: tv.apple.com  
    Title: TVProject Serpo: E.T. Exchange Program  
-   Link: [https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+   Link: <a href="https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-serpo-et-exchange-program/umc.cmc.31dr82kf679ftajy4yopm2pbu?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple TVProject Serpo: E.T. Exchange Program - Cosmic DisclosureJanuary 1, 2021 — In 1965, 12 humans left Earth to live on a distant plan...</p></details>
    Published: January 1, 2021  
 
 4. <a id="endnote-4"></a>
    Source: gaia.com  
    Title: Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1  
-   Link: [https://www.gaia.com/series/cosmic-disclosure](https://www.gaia.com/series/cosmic-disclosure)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GaiaCosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</p></details>
+   Link: <a href="https://www.gaia.com/series/cosmic-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/series/cosmic-disclosure</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure 30 Seasons. 313 Episodes TV-PGS30 E1 - Classified ET Bond: The Eagle Mine Cover-Up. 30 mins TV-PG. Featuring: Rich...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gaia.com  
-   Link: [https://www.gaia.com/series/cosmic-disclosure/season-26](https://www.gaia.com/series/cosmic-disclosure/season-26)  
+   Link: <a href="https://www.gaia.com/series/cosmic-disclosure/season-26" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/series/cosmic-disclosure/season-26</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>go after his unexplained disappearance from a nuclear...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: The TTSA and Project Serpo Connection: r/ufo  
-   Link: [https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/](https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Doty was dumb enough to use his home computer to send certain SERPO...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Doty was dumb enough to use his home computer to send certain SERPO...</p></details>
    Published: February 1, 2020  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/](https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/punm6p/where_does_everyone_currently_stand_on_project/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t seems pretty far fetched, but I am intrigued by it. Do you...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/yybqwc/lets_discuss_project_serpo_episode_of_twf/](https://www.reddit.com/r/aliens/comments/yybqwc/lets_discuss_project_serpo_episode_of_twf/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/yybqwc/lets_discuss_project_serpo_episode_of_twf/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/yybqwc/lets_discuss_project_serpo_episode_of_twf/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s discuss Project Serpo episode of TWF: r/aliensI know this could be a Richard Dotty misinfo campaign but the description reminded m...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: open.spotify.com  
    Title: 3ts8uj3w86DAq8YYutnh Cs  
-   Link: [https://open.spotify.com/episode/3ts8uj3w86DAq8YYutnhCs](https://open.spotify.com/episode/3ts8uj3w86DAq8YYutnhCs)  
+   Link: <a href="https://open.spotify.com/episode/3ts8uj3w86DAq8YYutnhCs" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/3ts8uj3w86DAq8YYutnhCs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure - Inside The Secret Space Program_SSP - Operation Chaos - Guest Corey Goode...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Dtg54m_ghXo](https://www.youtube.com/watch?v=Dtg54m_ghXo)  
+   Link: <a href="https://www.youtube.com/watch?v=Dtg54m_ghXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dtg54m_ghXo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo | Full UFO Documentary...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Serpo | Full UFO Documentary  
-   Link: [https://www.youtube.com/watch?v=xAyxaoqzmso](https://www.youtube.com/watch?v=xAyxaoqzmso)  
+   Link: <a href="https://www.youtube.com/watch?v=xAyxaoqzmso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAyxaoqzmso</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: primevideo.com  
    Title: Prime Video Cosmic Disclosure  
-   Link: [https://www.primevideo.com/-/sv/detail/0LWLKR7IVX7FN1CMU11EEIMGFU](https://www.primevideo.com/-/sv/detail/0LWLKR7IVX7FN1CMU11EEIMGFU)  
+   Link: <a href="https://www.primevideo.com/-/sv/detail/0LWLKR7IVX7FN1CMU11EEIMGFU" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/sv/detail/0LWLKR7IVX7FN1CMU11EEIMGFU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure - Season 19Explore the secrets of Area 51 with retired AFOSI agent Richard Doty, who discloses an incident in the 1980s...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Cosmic Disclosure  
-   Link: [https://www.youtube.com/watch?v=cvqYHKELGLA](https://www.youtube.com/watch?v=cvqYHKELGLA)  
+   Link: <a href="https://www.youtube.com/watch?v=cvqYHKELGLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvqYHKELGLA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project SerpoBut the most important question ever: Do you think it really happen? Cosmic Disclosure - Project Serpo... PiFi #114 - Ric...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt7482186/episodes/?season=15](https://www.imdb.com/title/tt7482186/episodes/?season=15)  
+   Link: <a href="https://www.imdb.com/title/tt7482186/episodes/?season=15" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt7482186/episodes/?season=15</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure (TV Series 2015–) - Episode listNow, a 20-year insider, Corey Goode, joins David Wilcock in this inaugural presentatio...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt7482186/episodes/?year=2018](https://www.imdb.com/title/tt7482186/episodes/?year=2018)  
+   Link: <a href="https://www.imdb.com/title/tt7482186/episodes/?year=2018" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt7482186/episodes/?year=2018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure (TV Series 2015–) - Episode listJoin David Wilcock in this episode of Cosmic Disclosure as Corey Goode and Emery Smith...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: primevideo.com  
    Title: Cosmic Disclosure  
-   Link: [https://www.primevideo.com/detail/0HJBTX13V7MJPQSQKG6HZ1Y9RE](https://www.primevideo.com/detail/0HJBTX13V7MJPQSQKG6HZ1Y9RE)  
+   Link: <a href="https://www.primevideo.com/detail/0HJBTX13V7MJPQSQKG6HZ1Y9RE" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/detail/0HJBTX13V7MJPQSQKG6HZ1Y9RE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 17Exploring their experiences, Tim and retired AFOSI agent Richard Doty share information regarding Zeta Reticuli, EBENs, and Greys...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/](https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/)  
+   Link: <a href="https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oniichanphofficial/posts/fun-fact-the-beloved-serpo-aliens-from-dandadan-got-their-name-from-project-serp/573572918730389/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FUN FACT: The beloved Serpo aliens from Dandadan got...FUN FACT: The beloved Serpo aliens from Dandadan got their name from &#x27;Project Ser...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tv.youtube.com  
-   Link: [https://tv.youtube.com/browse/cosmic-disclosure-UCL0BOXbMBS_veSHiegXV2Uw](https://tv.youtube.com/browse/cosmic-disclosure-UCL0BOXbMBS_veSHiegXV2Uw)  
+   Link: <a href="https://tv.youtube.com/browse/cosmic-disclosure-UCL0BOXbMBS_veSHiegXV2Uw" target="_blank" rel="noopener noreferrer nofollow">https://tv.youtube.com/browse/cosmic-disclosure-UCL0BOXbMBS_veSHiegXV2Uw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure onlineRichard Doty explains what Project Serpo entailed. Targeted Disinformation... Richard Doty, a retired counterint...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/324897304599197/posts/2084756418613268/](https://www.facebook.com/groups/324897304599197/posts/2084756418613268/)  
+   Link: <a href="https://www.facebook.com/groups/324897304599197/posts/2084756418613268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324897304599197/posts/2084756418613268/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These magazines had been popular for a hot minute in the late...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/brealtv/posts/when-the-government-is-meeting-with-world-religious-leaders-to-figure-out-a-way-/975664285048813/](https://www.facebook.com/brealtv/posts/when-the-government-is-meeting-with-world-religious-leaders-to-figure-out-a-way-/975664285048813/)  
+   Link: <a href="https://www.facebook.com/brealtv/posts/when-the-government-is-meeting-with-world-religious-leaders-to-figure-out-a-way-/975664285048813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brealtv/posts/when-the-government-is-meeting-with-world-religious-leaders-to-figure-out-a-way-/975664285048813/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>break the Alien Truth to their devotees ✝️ What are you...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: amazon.co.uk  
    Title: Watch Cosmic Disclosure  
-   Link: [https://www.amazon.co.uk/Cosmic-Disclosure-Season-24/dp/B0CYFS88TK](https://www.amazon.co.uk/Cosmic-Disclosure-Season-24/dp/B0CYFS88TK)  
+   Link: <a href="https://www.amazon.co.uk/Cosmic-Disclosure-Season-24/dp/B0CYFS88TK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Cosmic-Disclosure-Season-24/dp/B0CYFS88TK</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 24 | Prime VideoRetired counterintelligence agent Richard Doty provides insights into the hierarchy, roles, and responsibilities of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: Project Serpo Part 2  
-   Link: [https://www.facebook.com/SpiritLinkGaia/videos/stream-free-for-7-days-click-the-link-below/1783973016311241/](https://www.facebook.com/SpiritLinkGaia/videos/stream-free-for-7-days-click-the-link-below/1783973016311241/)  
+   Link: <a href="https://www.facebook.com/SpiritLinkGaia/videos/stream-free-for-7-days-click-the-link-below/1783973016311241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpiritLinkGaia/videos/stream-free-for-7-days-click-the-link-below/1783973016311241/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, 12 humans left Earth to live...Despite the discrepancies in details, Doty is certain that this extraterrestrial exchange progra...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=rwFbS95M2Ms](https://www.youtube.com/watch?v=rwFbS95M2Ms)  
+   Link: <a href="https://www.youtube.com/watch?v=rwFbS95M2Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rwFbS95M2Ms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Revisited: Project Serpo | Episode 13 | The Secret Human Exchange with Aliens...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Air Force Officer FINALLY Comes Clean About UFO's | UFO Whistleblower #1  
-   Link: [https://www.youtube.com/watch?v=xbRdAlFThu4](https://www.youtube.com/watch?v=xbRdAlFThu4)  
+   Link: <a href="https://www.youtube.com/watch?v=xbRdAlFThu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xbRdAlFThu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Disclosure (2020) - Richard Doty on Alien Autopsy / Alien Interview videos...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientsecrets/posts/390512723210670/](https://www.facebook.com/groups/ancientsecrets/posts/390512723210670/)  
+   Link: <a href="https://www.facebook.com/groups/ancientsecrets/posts/390512723210670/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientsecrets/posts/390512723210670/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty, who identified...Doty, who identified himself as a USAF sgt, claimed that he had provided records of the exchange program (SERPO)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uqnlonvrQyE](https://www.youtube.com/watch?v=uqnlonvrQyE)  
+   Link: <a href="https://www.youtube.com/watch?v=uqnlonvrQyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uqnlonvrQyE</a>

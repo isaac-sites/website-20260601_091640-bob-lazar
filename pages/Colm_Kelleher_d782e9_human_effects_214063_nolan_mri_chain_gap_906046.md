@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /human-effects/
 nav_short_title: Nolan MRI cases
 title: Can the Nolan brain scans carry the claim?
-title_full: Can the Nolan brain scans carry the claim? | Human Effects
+title_full: Can the Nolan brain scans carry the claim?
 display_title_short: Nolan MRI cases
 display_title: Nolan MRI cases
 heading_title: Can the Nolan brain scans carry the claim?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Should UAP Research Include Human Effects? | Kelleher
+parent_title: Should UAP Research Include Human Effects?
 parent_permalink: /human-effects/
 parent_nav_short_title: Human Effects
 parent_heading_title: Should UAP Research Include Human Effects?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /medical-records/
   short_title: Medical records
   heading_title: How should UAP injury claims be checked?
-date: '2026-06-09 03:06:44 '
+date: '2026-06-11 21:07:45 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-1.webp
@@ -258,11 +258,10 @@ image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_
 
 The MRI cases discussed by Stanford immunologist and entrepreneur Garry Nolan are among the most striking claims in the wider [debate]({{ 'debate-020cbc/' | relative_url }}) over alleged [human effects]({{ 'human-effects/' | relative_url }}) linked to unidentified anomalous phenomena (UAPs). Nolan has said that he was asked to examine scans and medical data from intelligence personnel, military figures and others who reported unusual neurological symptoms after encounters that were, in some cases, associated with UAP reports or later compared to what became known as Havana syndrome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">stanford professor garry nolan analyzing anomalous materials from ufo crashes</span><span class="citation-popover-snippet">Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-1-dark.svg" | relative_url }}" alt="Nolan MRI cases illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not that unusual medical cases exist. Governments have spent years investigating anomalous health incidents, and some patients clearly experienced real symptoms. The difficulty is that the most dramatic MRI-related claims are supported mainly through interviews, podcasts, magazine profiles and secondary reporting rather than publicly available [medical records]({{ 'medical-records/' | relative_url }}), peer-reviewed case files or independently reviewable datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Havana syndrome</span><span class="citation-popover-snippet">Havana syndrome</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/first-contact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-title">first contact</span><span class="citation-popover-snippet">Stanford MagazineFirst ContactThe MRI scans delivered to Nolan&#x27;s lab in 2013, for example, showed activity in two areas of the brain, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">stanford professor garry nolan analyzing anomalous materials from ufo crashes</span><span class="citation-popover-snippet">Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</span></span></span>
 
-For readers assessing [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})'s broader human-effects narrative, the Nolan cases sit at the centre of a key credibility question: can private medical evidence with incomplete public chain of custody support extraordinary conclusions about UAP-related injury?
+For readers assessing Colm Kelleher's broader human-effects narrative, the Nolan cases sit at the centre of a key credibility question: can private medical evidence with incomplete public chain of custody support extraordinary conclusions about UAP-related injury?
 
 ## What Nolan said about the patient group
 
@@ -273,7 +272,6 @@ One of the most frequently repeated claims concerns structural features in the b
 In public interviews, Nolan has also claimed that some scans showed signs of apparent injury. He has described white-matter abnormalities and damage that he compared to serious neurological disease processes. In some tellings, he stated that roughly a quarter of the individuals he examined later died from illnesses or injuries associated with the cases under review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">stanford professor garry nolan analyzing anomalous materials from ufo crashes</span><span class="citation-popover-snippet">Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">The SunI test brains of people who say they had UFO encounter &amp;...11 Dec 2021 — Nolan said that approximately a quarter of the MRI patie...</span></span></span>
 
 These statements helped transform the story from a discussion about unusual sightings into one about potential biological consequences. That shift is significant because human injury claims generally carry greater emotional and political weight than reports of unidentified objects alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HxVVz2Jorzk" title="“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer">“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563</a></p><p class="youtube-embed-meta">Channel: Jordan B Peterson &middot; Views: 2.6M &middot; Uploaded: July 2025 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HxVVz2Jorzk">Open on YouTube</a></p></div></div></div>
 
@@ -290,7 +288,7 @@ Several layers of chain-of-custody uncertainty remain unresolved:
 * Outside researchers cannot determine which cases involved confirmed UAP exposure, suspected exposure or merely anecdotal association.
 * The public cannot inspect the full diagnostic process used to exclude conventional causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/first-contact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-title">first contact</span><span class="citation-popover-snippet">Stanford MagazineFirst ContactThe MRI scans delivered to Nolan&#x27;s lab in 2013, for example, showed activity in two areas of the brain, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">stanford professor garry nolan analyzing anomalous materials from ufo crashes</span><span class="citation-popover-snippet">Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</span></span></span>
 
-This matters because neurological abnormalities are often difficult to interpret without extensive context. White-matter lesions, vascular changes, inflammation, prior trauma, autoimmune disease, ageing, medication effects and other medical conditions can all affect brain imaging. Without access to underlying records, independent specialists cannot evaluate alternative explanations or determine whether the reported findings were statistically unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSubcortical Brain Morphometry Differences between Adults...by A Weerasekera · 2022 · Cited by 11 — In fact, the caudate and putamen r...</span></span></span>
+This matters because neurological abnormalities are often difficult to interpret without extensive context. White-matter lesions, vascular changes, inflammation, prior trauma, autoimmune disease, ageing, medication effects and other medical conditions can all affect brain imaging. Without access to underlying records, independent specialists cannot evaluate alternative explanations or determine whether the reported findings were statistically unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Subcortical Brain Morphometry Differences between Adults...by A Weerasekera · 2022 · Cited by 11 — In fact, the caudate and putamen r...</span></span></span>
 
 The chain-of-custody issue becomes even more important when cases are presented as part of a larger UAP narrative. A brain scan may demonstrate that an individual has a medical problem. It does not automatically demonstrate what caused that problem.
 
@@ -299,7 +297,6 @@ The chain-of-custody issue becomes even more important when cases are presented 
 A recurring feature of Nolan's public discussion is that much of the supporting material cannot be disclosed because of privacy restrictions, classified connections or patient confidentiality. That position is understandable from a medical ethics perspective. However, it creates a difficult evidential situation.
 
 The audience is effectively asked to accept several propositions simultaneously:
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-2-dark.svg" | relative_url }}" alt="Nolan MRI cases illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -319,7 +316,6 @@ Another complication is the overlap between the MRI story and the broader Havana
 
 That does not prove Nolan's observations were wrong. It does mean that the wider scientific and intelligence picture remains unsettled. Claims that unusual MRI findings automatically point to exotic technology, directed-energy weapons or UAP-related mechanisms remain unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Havana syndrome</span><span class="citation-popover-snippet">Havana syndrome</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XR0JtbuLhPo" title="Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer">Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 4.3M &middot; Uploaded: December 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XR0JtbuLhPo">Open on YouTube</a></p></div></div></div>
 
 ## Can the brain-scan findings carry the larger claim?
@@ -338,7 +334,6 @@ Sceptics argue that the MRI story illustrates a recurring weakness in UAP medici
 
 The disagreement therefore centres less on whether patients suffered symptoms and more on whether the available evidence can support the extraordinary interpretations sometimes attached to those symptoms.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-3-dark.svg" | relative_url }}" alt="Nolan MRI cases illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_nolan_mri_chain_gap_906046-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the cases matter for Kelleher's human-effects narrative
 
@@ -350,9 +345,7 @@ At the same time, they illustrate the central vulnerability of the entire human-
 
 As a result, the Nolan MRI cases neither decisively confirm nor decisively undermine Kelleher's broader claims. Instead, they highlight the unresolved question at the heart of the human-effects debate: whether a body of private medical evidence exists that genuinely points towards an unexplained phenomenon, or whether a mixture of real illnesses, incomplete data and speculative interpretation has been assembled into a larger narrative that currently exceeds what the public record can support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/27/cia-havana-syndrome-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Senate Intelligence Committee report criticizes the CIA&#x27;s handling of Havana syndrome cases, highlighting inadequate medical care, delaye...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">stanford professor garry nolan analyzing anomalous materials from ufo crashes</span><span class="citation-popover-snippet">Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/garry-nolan-a-stanford-professors-quest-to-resolve-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Garry Nolan: A Stanford Professor&#x27;s Quest to Resolve...22 May 2023 — This led Nolan to the discovery of unique features in a particular...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W5oyHZu35Ao" title="Stanford Scientist On Intuition And Brain Activity | Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W5oyHZu35Ao" target="_blank" rel="noopener noreferrer">Stanford Scientist On Intuition And Brain Activity | Garry Nolan</a></p><p class="youtube-embed-meta">Channel: Curt Jaimungal &middot; Views: 65.9K &middot; Uploaded: January 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W5oyHZu35Ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W5oyHZu35Ao">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,15 +464,15 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +480,15 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +496,15 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +512,15 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +528,7 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="nolan-mri-cases-can-the-nolan-brain-scans-carry-the-claim-colm-kelleher-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-nolan-brain-scans-carry-the-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-nolan-brain-scans-carry-the-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,92 +744,92 @@ As a result, the Nolan MRI cases neither decisively confirm nor decisively under
 1. <a id="endnote-1"></a>
    Source: vice.com  
    Title: stanford professor garry nolan analyzing anomalous materials from ufo crashes  
-   Link: [https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/](https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/)  
+   Link: <a href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the people who claimed that they&#x27;d had an encounter, especially the pilots, describe...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Havana syndrome  
-   Link: [https://en.wikipedia.org/wiki/Havana_syndrome](https://en.wikipedia.org/wiki/Havana_syndrome)  
+   Link: <a href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Havana_syndrome</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSubcortical Brain Morphometry Differences between Adults...by A Weerasekera · 2022 · Cited by 11 — In fact, the caudate and putamen r...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9031550/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Subcortical Brain Morphometry Differences between Adults...by A Weerasekera · 2022 · Cited by 11 — In fact, the caudate and putamen r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/garry-nolan-a-stanford-professors-quest-to-resolve-unidentified-anomalous-phenomena/](https://thedebrief.org/garry-nolan-a-stanford-professors-quest-to-resolve-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://thedebrief.org/garry-nolan-a-stanford-professors-quest-to-resolve-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/garry-nolan-a-stanford-professors-quest-to-resolve-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan: A Stanford Professor&#x27;s Quest to Resolve...22 May 2023 — This led Nolan to the discovery of unique features in a particular...</p></details>
    Published: May 2023  
 
 5. <a id="endnote-5"></a>
    Source: stanfordmag.org  
    Title: first contact  
-   Link: [https://stanfordmag.org/contents/first-contact](https://stanfordmag.org/contents/first-contact)  
+   Link: <a href="https://stanfordmag.org/contents/first-contact" target="_blank" rel="noopener noreferrer nofollow">https://stanfordmag.org/contents/first-contact</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MagazineFirst ContactThe MRI scans delivered to Nolan&#x27;s lab in 2013, for example, showed activity in two areas of the brain, the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/](https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/)  
+   Link: <a href="https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/17006660/ufo-encounter-symptoms-garry-nolan-brains/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunI test brains of people who say they had UFO encounter &amp;...11 Dec 2021 — Nolan said that approximately a quarter of the MRI patie...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/dec/27/cia-havana-syndrome-report](https://www.theguardian.com/us-news/2024/dec/27/cia-havana-syndrome-report)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/dec/27/cia-havana-syndrome-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/27/cia-havana-syndrome-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Intelligence Committee report criticizes the CIA&#x27;s handling of Havana syndrome cases, highlighting inadequate medical care, delaye...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Experiencers/comments/1b7t6y5/garry_nolan_and_the_caudate_putamen_in_brain/](https://www.reddit.com/r/Experiencers/comments/1b7t6y5/garry_nolan_and_the_caudate_putamen_in_brain/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGarry Nolan and the Caudate putamen in brain damage...It&#x27;s scarring. It&#x27;s a big white blob, or multiple white blobs, scattered thr...</p></details>
+   Link: <a href="https://www.reddit.com/r/Experiencers/comments/1b7t6y5/garry_nolan_and_the_caudate_putamen_in_brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/1b7t6y5/garry_nolan_and_the_caudate_putamen_in_brain/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan and the Caudate putamen in brain damage...It&#x27;s scarring. It&#x27;s a big white blob, or multiple white blobs, scattered thr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bialikbreakdown.com  
-   Link: [https://www.bialikbreakdown.com/listen-podcasts/mysterious-cia-medical-cases-stanford-professor-garry-nolan-on-uap-contact-energy-weapons-havana-syndrome-and-how-alien-life-might-really-look](https://www.bialikbreakdown.com/listen-podcasts/mysterious-cia-medical-cases-stanford-professor-garry-nolan-on-uap-contact-energy-weapons-havana-syndrome-and-how-alien-life-might-really-look)  
+   Link: <a href="https://www.bialikbreakdown.com/listen-podcasts/mysterious-cia-medical-cases-stanford-professor-garry-nolan-on-uap-contact-energy-weapons-havana-syndrome-and-how-alien-life-might-really-look" target="_blank" rel="noopener noreferrer nofollow">https://www.bialikbreakdown.com/listen-podcasts/mysterious-cia-medical-cases-stanford-professor-garry-nolan-on-uap-contact-energy-weapons-havana-syndrome-and-how-alien-life-might-really-look</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Professor Garry Nolan on UAP Contact, Energy...Jan 27, 2026 — Mysterious CIA Medical Cases: Stanford Professor Garry Nolan on U...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: inteltoday.org  
-   Link: [https://inteltoday.org/2022/12/14/one-year-ago-havana-syndrome-conspiracy-theorists-truth-deniers-scientists-and-spies-update-the-story-of-dr-leonid-ber/](https://inteltoday.org/2022/12/14/one-year-ago-havana-syndrome-conspiracy-theorists-truth-deniers-scientists-and-spies-update-the-story-of-dr-leonid-ber/)  
+   Link: <a href="https://inteltoday.org/2022/12/14/one-year-ago-havana-syndrome-conspiracy-theorists-truth-deniers-scientists-and-spies-update-the-story-of-dr-leonid-ber/" target="_blank" rel="noopener noreferrer nofollow">https://inteltoday.org/2022/12/14/one-year-ago-havana-syndrome-conspiracy-theorists-truth-deniers-scientists-and-spies-update-the-story-of-dr-leonid-ber/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One Year Ago — Havana Syndrome: Conspiracy Theorists...14 Dec 2022 — “That ended up bringing me to the attention of some people associa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382](https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382)  
+   Link: <a href="https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/stanford-scientist-claims-cia-agents-suffered-fried-brains-during-uap-investigations-1774382</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Scientist Claims CIA Agents Suffered &#x27;Fried&#x27;...28 Jan 2026 — Stanford scientist Dr Gary Nolan reveals shocking CIA UAP research...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: shortform.com  
-   Link: [https://www.shortform.com/podcast/episode/the-jordan-b-peterson-podcast-2025-07-17-episode-summary-563-something-non-human-has-been-here-a-long-time-dr-garry-nolan](https://www.shortform.com/podcast/episode/the-jordan-b-peterson-podcast-2025-07-17-episode-summary-563-something-non-human-has-been-here-a-long-time-dr-garry-nolan)  
+   Link: <a href="https://www.shortform.com/podcast/episode/the-jordan-b-peterson-podcast-2025-07-17-episode-summary-563-something-non-human-has-been-here-a-long-time-dr-garry-nolan" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/the-jordan-b-peterson-podcast-2025-07-17-episode-summary-563-something-non-human-has-been-here-a-long-time-dr-garry-nolan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Something Non-Human Has Been Here A Long Time”Jul 17, 2025 — Through his work, Nolan has concluded that Havana syndrome is likely caused...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=W5oyHZu35Ao](https://www.youtube.com/watch?v=W5oyHZu35Ao)  
+   Link: <a href="https://www.youtube.com/watch?v=W5oyHZu35Ao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W5oyHZu35Ao</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Scientist On Intuition And Brain Activity | Garry NolanStanford Scientist and Professor Garry Nolan recounts a mysterious person...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: shortform.com  
-   Link: [https://www.shortform.com/podcast/episode/the-joe-rogan-experience-2025-08-28-episode-summary-2372-garry-nolan](https://www.shortform.com/podcast/episode/the-joe-rogan-experience-2025-08-28-episode-summary-2372-garry-nolan)  
+   Link: <a href="https://www.shortform.com/podcast/episode/the-joe-rogan-experience-2025-08-28-episode-summary-2372-garry-nolan" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/the-joe-rogan-experience-2025-08-28-episode-summary-2372-garry-nolan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#2372 - Garry Nolan Podcast Summary with...Aug 28, 2025 — He examined cases showing brain damage, including early instances of what woul...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: singjupost.com  
    Title: Serial biotech entrepreneur. He's a professor at Stanford University  
-   Link: [https://singjupost.com/something-non-human-has-been-here-a-long-time-dr-garry-nolan-transcript/](https://singjupost.com/something-non-human-has-been-here-a-long-time-dr-garry-nolan-transcript/)  
+   Link: <a href="https://singjupost.com/something-non-human-has-been-here-a-long-time-dr-garry-nolan-transcript/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/something-non-human-has-been-here-a-long-time-dr-garry-nolan-transcript/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Something Non-Human Has Been Here A Long TimeJul 18, 2025 — Garry Nolan is an immunologist, academic inventor and biotech entrepreneur...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: summify.io  
    Title: Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262  
-   Link: [https://summify.io/discover/garry-nolan-ufos-and-aliens-lex-fridman-podcast-262-uTCc2-/](https://summify.io/discover/garry-nolan-ufos-and-aliens-lex-fridman-podcast-262-uTCc2-/)  
+   Link: <a href="https://summify.io/discover/garry-nolan-ufos-and-aliens-lex-fridman-podcast-262-uTCc2-/" target="_blank" rel="noopener noreferrer nofollow">https://summify.io/discover/garry-nolan-ufos-and-aliens-lex-fridman-podcast-262-uTCc2-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan found in UAP experiencers? Nolan&#x27;s research on individuals claiming UAP encounters revealed an &#x27;enriched patch of MRI dense n...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theepochtimes.com  
    Title: how stanfords garry nolan came to research ufos 5779263  
-   Link: [https://www.theepochtimes.com/us/how-stanfords-garry-nolan-came-to-research-ufos-5779263](https://www.theepochtimes.com/us/how-stanfords-garry-nolan-came-to-research-ufos-5779263)  
+   Link: <a href="https://www.theepochtimes.com/us/how-stanfords-garry-nolan-came-to-research-ufos-5779263" target="_blank" rel="noopener noreferrer nofollow">https://www.theepochtimes.com/us/how-stanfords-garry-nolan-came-to-research-ufos-5779263</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anomalous health incidents like hearing noise, headaches, dizziness... However, when they underwent an MRI scan, there was no significan...</p></details>

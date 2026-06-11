@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /documents/
 nav_short_title: Source hierarchy
 title: Which Kelleher sources deserve the most weight?
-title_full: Which Kelleher sources deserve the most weight? | Documents
+title_full: Which Kelleher sources deserve the most weight?
 display_title_short: Source hierarchy
 display_title: Source hierarchy
 heading_title: Which Kelleher sources deserve the most weight?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Do The Public Records Really Prove? | Kelleher
+parent_title: What Do The Public Records Really Prove?
 parent_permalink: /documents/
 parent_nav_short_title: Documents
 parent_heading_title: What Do The Public Records Really Prove?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /missing-files/
   short_title: Missing files
   heading_title: What is still hidden in the BAASS record?
-date: '2026-06-09 03:07:08 '
+date: '2026-06-11 21:07:49 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hie
 
 ## Introduction
 
-Readers trying to assess [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s UFO and UAP-related credibility often encounter a confusing mix of government [documents]({{ 'documents/' | relative_url }}), leaked slides, memoir-style books, interviews, podcasts and secondary archives. The central question is not whether every source is true or false. It is which sources deserve the most weight.
-
+Readers trying to assess Colm Kelleher’s UFO and UAP-related credibility often encounter a confusing mix of government [documents]({{ 'documents/' | relative_url }}), leaked slides, memoir-style books, interviews, podcasts and secondary archives. The central question is not whether every source is true or false. It is which sources deserve the most weight.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-1-dark.svg" | relative_url }}" alt="Source hierarchy illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Kelleher, the strongest evidence usually comes from records that can be independently traced through Freedom of Information Act requests, official releases, congressional correspondence and Defence Department documentation. Those records establish verifiable facts about programmes, contracts, funding structures and institutional relationships. By contrast, books, conference appearances and interviews often move further into interpretation, recollection and claims that are difficult for outsiders to verify. The result is a clear source hierarchy: official documents are generally strongest for proving what existed, while personal accounts are usually strongest only for showing what participants say they experienced or believed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
@@ -270,24 +269,27 @@ Released DIA records confirm that Bigelow Aerospace Advanced Space Studies (BAAS
 
 That distinction matters because many of the most controversial claims associated with Kelleher involve subjects such as:
 
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
 * Skinwalker Ranch phenomena.(#endnote-14 "Snippet: gence Agency. This is the most mind") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">gence Agency. This is the most mind...</span></span></span>
 * Alleged biological effects on witnesses.
-* The so-called "[hitchhiker effect]({{ 'hitchhikers/' | relative_url }})".
+* The so-called "hitchhiker effect".
 * Claims about hidden UAP-related programmes.
 * Interpretations of military encounters.
+
+</div>
 
 The public documents generally do not prove those claims. Instead, they prove that people inside the programme discussed, investigated or documented them.
 
 A useful rule is that a FOIA document can usually establish that a report existed, that funding existed, that a briefing occurred, or that officials discussed a topic. It normally cannot establish that the underlying extraordinary claim was true.
 
-For example, a released memorandum supporting Senator Harry Reid's request for Special Access Program status demonstrates that senior officials sought additional protection for the programme. It does not demonstrate that the programme had confirmed non-human technology or verified paranormal findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — On 24 June 2009, Senator Reid sent a letter to then Deputy...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+For example, a released memorandum supporting Senator Harry Reid's request for Special Access Program status demonstrates that senior officials sought additional protection for the programme. It does not demonstrate that the programme had confirmed non-human technology or verified paranormal findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — On 24 June 2009, Senator Reid sent a letter to then Deputy...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## The strongest category: contemporaneous government records
 
 When weighing Kelleher-related claims, contemporaneous government records sit at the top of the hierarchy.
 
 These include:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -307,9 +309,6 @@ The 2024 AARO Historical Record Report is especially important because it repres
 Supporters and critics of Kelleher both cite AARO, but often for different reasons.
 
 Supporters point to AARO's confirmation that the programme genuinely existed and that paranormal and UAP-related investigations occurred within its orbit. Critics point to the same report's rejection of broader crash-retrieval narratives and its characterisation of some claims as unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## The middle tier: FOIA releases filtered through third-party archives
 
@@ -332,7 +331,6 @@ Kelleher's books occupy a different evidential category.
 
 Works such as *Hunt for the [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }})* and *Skinwalkers at the Pentagon* are valuable because they provide:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Insider perspectives.
@@ -347,7 +345,6 @@ They can also point researchers towards documents worth locating independently. 
 But books are not equivalent to FOIA releases.
 
 Several factors reduce their evidential weight:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -365,7 +362,6 @@ This does not make the material false. It means its reliability depends more hea
 
 For credibility assessment, books are usually best treated as investigative leads rather than final proof.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-2-dark.svg" | relative_url }}" alt="Source hierarchy illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to separate proximity from proof
 
@@ -378,7 +374,6 @@ The harder question is whether proximity proves the conclusions sometimes associ
 The answer is generally no.
 
 A person can have authentic access to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -393,10 +388,6 @@ Yet still reach conclusions that remain disputed, unverified or contested.
 
 The strongest documentary record surrounding Kelleher demonstrates access and involvement. The record becomes progressively weaker when moving from:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2AXeURnQHeU" title="TERRIFYINGLY Graphic Witness Account of Alien Abduction | UFO Witness | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2AXeURnQHeU" target="_blank" rel="noopener noreferrer">TERRIFYINGLY Graphic Witness Account of Alien Abduction | UFO Witness | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2AXeURnQHeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2AXeURnQHeU">Open on YouTube</a></p></div></div></div>
-
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Programme existence.
@@ -410,6 +401,7 @@ The strongest documentary record surrounding Kelleher demonstrates access and in
 
 Each step introduces additional layers of inference.
 
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-dark.svg" | relative_url }}" alt="Source hierarchy illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The recurring problem of unavailable case files
 
 A major limitation in assessing Kelleher's claims is that many underlying records remain unavailable.
@@ -430,8 +422,6 @@ Supporters argue that missing records may reflect classification, privacy restri
 
 That is why claims based primarily on inaccessible files generally deserve less weight than claims supported by documents that can be examined directly.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-dark.svg" | relative_url }}" alt="Source hierarchy illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_public_records_c1520f_foia_source_hierarch_38f58e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical source hierarchy for Kelleher claims
 
 For readers trying to judge individual claims, the most useful hierarchy is:
@@ -446,14 +436,9 @@ For readers trying to judge individual claims, the most useful hierarchy is:
 
 **Moderately high weight**
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Original documents hosted by reputable independent archives.
 * Direct reproductions of released records.
 * Contemporary reporting that cites identifiable documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Silhouette of an Experience: Confronting Epistemological...Kelleher, and George Knapp, Skinwalkers at the Pentagon: An Insider&#x27;s Account...</span></span></span>
-
-</div>
 
 **Moderate weight**
 
@@ -466,13 +451,9 @@ For readers trying to judge individual claims, the most useful hierarchy is:
 * Second-hand retellings.
 * Podcast summaries.
 * Anonymous-source claims without documentation.
-* Social-media interpretations of released records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Skinwalkers At The Pentagon &amp; FOIA: r/UFOs</span><span class="citation-popover-snippet">RedditSkinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — 685 votes, 284 comments. I&#x27;ve just finished reading the books &#x27;Hunt...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
+* Social-media interpretations of released records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Skinwalkers At The Pentagon &amp; FOIA: r/UFOs</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — 685 votes, 284 comments. I&#x27;ve just finished reading the books &#x27;Hunt...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
 
 Applied to Kelleher specifically, the strongest public case is not that extraordinary phenomena were proven. It is that released records establish his connection to a real defence-intelligence contractor effort, a real government contract and a documented UAP-related programme. The further a claim moves beyond those documented facts and into assertions about paranormal mechanisms, hidden legacy programmes or conclusions drawn from inaccessible investigations, the more dependent it becomes on trust in witnesses and authors rather than on publicly inspectable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is what caught my eye from the Reddit post. Image 1: Leaked today. Image 2:...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -591,15 +572,15 @@ Applied to Kelleher specifically, the strongest public case is not that extraord
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +588,15 @@ Applied to Kelleher specifically, the strongest public case is not that extraord
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,15 +604,31 @@ Applied to Kelleher specifically, the strongest public case is not that extraord
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -639,7 +636,7 @@ Applied to Kelleher specifically, the strongest public case is not that extraord
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-kelleher-sources-deserve-the-most-weight-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="which-kelleher-sources-deserve-the-most-weight-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -855,141 +852,141 @@ Applied to Kelleher specifically, the strongest public case is not that extraord
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: the dia reading room just dropped over 1500 pages  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/](https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ewlvql/the_dia_reading_room_just_dropped_over_1500_pages/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>full compliance with aerospace contract HHM402-08-C-0072. Program will likely become SAP by June 2010. BAASS has indicated that they are...</p></details>
    Published: June 2010  
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — On 24 June 2009, Senator Reid sent a letter to then Deputy...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — On 24 June 2009, Senator Reid sent a letter to then Deputy...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originally scheduled to end on September 30, 2010, the contract...Read more...</p></details>
    Published: September 30, 2010  
 
 7. <a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html](https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html)  
+   Link: <a href="https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-myths-conspiracies-and-realities-9780312648343-2010039157-9781429994835.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths, conspiracies, and realities 9780312648343...... book Hunt for the Skinwalker by Colm Kelleher and George Knapp is recommended. I...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Skinwalkers At The Pentagon & FOIA: r/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/](https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSkinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — 685 votes, 284 comments. I&#x27;ve just finished reading the books &#x27;Hunt...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — 685 votes, 284 comments. I&#x27;ve just finished reading the books &#x27;Hunt...</p></details>
    Published: December 15, 2021  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/](https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1khd1iu/here_is_what_i_found_interesting_about_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what caught my eye from the Reddit post. Image 1: Leaked today. Image 2:...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — Records 1/1/2016 - 12/31/2021 including e-mails referencing &quot;Black. Matter&quot; and &quot;ransomware&quot;. May 2016 letter from the DIA...</p></details>
    Published: May 2016  
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies](https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies)  
+   Link: <a href="https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Silhouette of an Experience: Confronting Epistemological...Kelleher, and George Knapp, Skinwalkers at the Pentagon: An Insider&#x27;s Account...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/](https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/)  
+   Link: <a href="https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/independentresearchsociety/posts/4556332651151456/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gence Agency. This is the most mind...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009](https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009)  
+   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFAll advisors had previously read the book &#x27;Hunt for the. Skinwalker&#x27; and were aware of various event...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/645814355517952/posts/1310578679041513/](https://www.facebook.com/groups/645814355517952/posts/1310578679041513/)  
+   Link: <a href="https://www.facebook.com/groups/645814355517952/posts/1310578679041513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/645814355517952/posts/1310578679041513/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cles/2015/07/02/why- do-ufos-love-this-utah-ranch-so-much)...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEWSMAX/posts/time-to-open-the-books-but-will-americans-get-true-transparency-ufo-expert-jerem/1519138113592119/](https://www.facebook.com/NEWSMAX/posts/time-to-open-the-books-but-will-americans-get-true-transparency-ufo-expert-jerem/1519138113592119/)  
+   Link: <a href="https://www.facebook.com/NEWSMAX/posts/time-to-open-the-books-but-will-americans-get-true-transparency-ufo-expert-jerem/1519138113592119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/time-to-open-the-books-but-will-americans-get-true-transparency-ufo-expert-jerem/1519138113592119/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Defence Intelligence Agency. This is the most mind...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/](https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/)  
+   Link: <a href="https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The billionaires: Robert Bigelow (see [Skinwalker Ranch](&amp;#123;&amp;#123; &#x27;skinwalker-0286bd/&#x27; | relative_url &amp;#125;&amp;#125;)) Elon...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: skunkworksblog.com  
-   Link: [https://skunkworksblog.com/tag/ufology/](https://skunkworksblog.com/tag/ufology/)  
+   Link: <a href="https://skunkworksblog.com/tag/ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skunkworksblog.com/tag/ufology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>story). But, worse, they no-less...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald The...18 Jun 2025 — This FOIA request is for records &quot;regarding the history and custody of the videos described as video...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hFDxu0uho2M](https://www.youtube.com/watch?v=hFDxu0uho2M)  
+   Link: <a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hFDxu0uho2M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Covert U.S. Government UFO Program Discovered with Colm Kelleher...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Archives of the Impossible conference | Flash Talk: Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=VD0ZVbtbnfI](https://www.youtube.com/watch?v=VD0ZVbtbnfI)  
+   Link: <a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=A_F_U2X3P_o](https://www.youtube.com/watch?v=A_F_U2X3P_o)  
+   Link: <a href="https://www.youtube.com/watch?v=A_F_U2X3P_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A_F_U2X3P_o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A. Kelleher...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2020/04/](https://www.blueblurrylines.com/2020/04/)  
+   Link: <a href="https://www.blueblurrylines.com/2020/04/" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 202023 Apr 2020 — BAASS was paid $10 million through contract # HHM402-08-C-0072. 2008 Date? - Jacques Vallee oversaw the &quot;Capella...</p></details>

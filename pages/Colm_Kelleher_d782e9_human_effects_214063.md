@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Human Effects
 title: Should UAP Research Include Human Effects?
-title_full: Should UAP Research Include Human Effects? | Kelleher
+title_full: Should UAP Research Include Human Effects?
 display_title_short: Human Effects
 display_title: Human Effects
 heading_title: Should UAP Research Include Human Effects?
@@ -289,7 +289,7 @@ next_link:
   permalink: /skinwalker-0286bd/
   short_title: Skinwalker
   heading_title: Why Skinwalker Ranch Defines Kelleher's Reputation
-date: '2026-06-09 03:05:33 '
+date: '2026-06-11 21:07:36 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview-social.
 
 ## Introduction
 
-[Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s most distinctive contribution to modern UAP [debate]({{ 'debate-020cbc/' | relative_url }}) is that he helped move the question beyond “what was seen in the sky?” and towards “what happened to the people who reported being near it?” In the AAWSAP/BAASS orbit, human effects were treated as possible evidence: burns, neurological symptoms, psychological disturbance, “hitchhiker” experiences and broader reports of anomalous effects around witnesses. That makes his work more ambitious than ordinary sighting collection, but also more vulnerable. The strongest version of the case is that unusual witness effects deserve careful medical documentation rather than ridicule. The weakest version is that dramatic, mixed paranormal claims were gathered without enough independent, peer-reviewed evidence to prove a UAP cause. Kelleher’s credibility on this subtopic therefore depends less on whether human effects are worth studying — they are — and more on whether the cases were investigated to a standard strong enough to separate injury, stress, misattribution, environmental exposure, folklore and genuine anomaly.
-
+Colm Kelleher’s most distinctive contribution to modern UAP [debate]({{ 'debate-020cbc/' | relative_url }}) is that he helped move the question beyond “what was seen in the sky?” and towards “what happened to the people who reported being near it?” In the AAWSAP/BAASS orbit, human effects were treated as possible evidence: burns, neurological symptoms, psychological disturbance, “hitchhiker” experiences and broader reports of anomalous effects around witnesses. That makes his work more ambitious than ordinary sighting collection, but also more vulnerable. The strongest version of the case is that unusual witness effects deserve careful medical documentation rather than ridicule. The weakest version is that dramatic, mixed paranormal claims were gathered without enough independent, peer-reviewed evidence to prove a UAP cause. Kelleher’s credibility on this subtopic therefore depends less on whether human effects are worth studying — they are — and more on whether the cases were investigated to a standard strong enough to separate injury, stress, misattribution, environmental exposure, folklore and genuine anomaly.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview.webp" | relative_url }}" alt="Overview image for Human Effects" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Kelleher Made Human Effects Part of the UAP Problem
@@ -326,7 +325,6 @@ That gives Kelleher’s human-effects framing a plausible physical vocabulary, b
 
 A cautious assessment would separate three levels of claim:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Strongly plausible in principle:** intense electromagnetic, thermal, acoustic or radiological exposures can injure people.
@@ -336,7 +334,6 @@ A cautious assessment would separate three levels of claim:
 </div>
 
 Kelleher’s work is strongest when it argues for the second point. It becomes much weaker if readers are encouraged to treat the third point as already proven.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-1-dark.svg" | relative_url }}" alt="Human Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Psychological and Paranormal Claims
@@ -353,7 +350,6 @@ The psychological dimension should not be reduced to “people imagined it”. U
 
 At the same time, stigma is not the same as validation. Psychological shock, sleep disruption, expectation, group belief, family stress, environmental anxiety and media exposure can all shape how people interpret ambiguous experiences. A serious human-effects protocol would protect witnesses from ridicule while still testing alternative explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nPQCtWYtAk" title="Exploring the unexplained: A new chapter in the Archives of the Impossible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer">Exploring the unexplained: A new chapter in the Archives of the Impossible</a></p><p class="youtube-embed-meta">Channel: Rice University &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nPQCtWYtAk">Open on YouTube</a></p></div></div></div>
 
 ## The Nolan and “Brain Injury” Thread
@@ -366,8 +362,6 @@ That distinction is crucial. The public often hears “UAP caused brain injury�
 
 For Kelleher’s credibility, the Nolan thread cuts both ways. It shows that scientifically credentialled people did not dismiss all witness-health reports out of hand. But it also shows why medical anomaly is not enough. Without clean timelines, baseline scans, exposure measurements, blinded review, clinical records and control groups, an unusual MRI or symptom cluster cannot by itself identify a UAP cause.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-dark.svg" | relative_url }}" alt="Human Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AAWSAP Documents Strengthen — and What They Do Not
 
 The public AAWSAP document trail strengthens one part of Kelleher’s position: human effects were not an afterthought added later by internet speculation. The Black Vault archive of DIA-released AAWSAP/AATIP [documents]({{ 'documents/' | relative_url }}) lists *Anomalous Acute and Subacute Field Effects on Human Biological Tissues* among the released Defense Intelligence Reference Documents, showing that biological effects sat inside the broader AAWSAP-era research package. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -379,7 +373,6 @@ So the document trail confirms that the subject was real within the programme’
 AARO’s later review is the strongest institutional counterweight. It says the AAWSAP/AATIP contract produced exploratory papers addressing scientific areas in the statement of work, but that the papers were “never thoroughly peer reviewed”. It also says AARO had not uncovered other substantive UAP case work conducted by AAWSAP/AATIP, instead describing reviews of Project Blue Book and private cases, interviews of observers and unrelated paranormal work at the Utah property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-6 "Endnote 6")
 
 That does not mean every human-effects case is false. It means the public record is not strong enough to treat the AAWSAP human-effects material as a validated medical finding. The best available institutional critique is not “nothing happened”; it is “the programme’s outputs and methods do not support the weight later placed on them”.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-2-dark.svg" | relative_url }}" alt="Human Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Standards for Human-Impact Cases
@@ -394,22 +387,19 @@ A weak case would rely on memory long after the event, vague symptoms, no baseli
 
 The problem becomes especially acute with paranormal spillover claims. A reported burn can be photographed, biopsied or compared with known injury patterns. A family’s later report of strange noises, lights, apparitions or nightmares may be sincere and distressing, but it is much harder to tie causally to a previous UAP encounter. Kelleher’s framework asks researchers to keep those reports in view; sceptics ask whether doing so dilutes the investigation beyond testable science.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7XhRKYo-l1Q" title="What a Covert U.S. Government UFO Program Discovered with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7XhRKYo-l1Q" target="_blank" rel="noopener noreferrer">What a Covert U.S. Government UFO Program Discovered with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 713.4K &middot; Uploaded: December 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7XhRKYo-l1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7XhRKYo-l1Q">Open on YouTube</a></p></div></div></div>
 
 ## How This Affects Kelleher’s Credibility
 
 Kelleher deserves credit for insisting that UAP investigations should not treat witnesses as disposable instruments. If people report illness, burns, neurological effects or psychological disturbance after close encounters, a serious inquiry should document those claims rather than leaving them to tabloids, podcasts or folklore. His biochemistry background and AAWSAP/[BAASS role]({{ 'baass-role/' | relative_url }}) gave him a stronger basis than most UFO commentators for arguing that biological effects might matter.
 
-But the credibility ceiling is low unless the evidence becomes more open and medically testable. The most dramatic claims linked to this area — especially [hitchhiker effects]({{ 'hitchhikers/' | relative_url }}), contagious household anomalies and consciousness-related phenomena — remain far less substantiated than Kelleher’s verified programme role. They may be important as testimony, but they are not established as mechanisms.
+But the credibility ceiling is low unless the evidence becomes more open and medically testable. The most dramatic claims linked to this area — especially hitchhiker effects, contagious household anomalies and consciousness-related phenomena — remain far less substantiated than Kelleher’s verified programme role. They may be important as testimony, but they are not established as mechanisms.
 
 The fair assessment is therefore mixed. Kelleher helped identify a real gap in UAP research: witness effects need a disciplined evidential pathway. Yet the AAWSAP/Skinwalker implementation appears to have blended medical, aerospace, psychological and paranormal claims in a way that made outside validation difficult. AARO’s critique that the papers were not thoroughly peer reviewed and that substantive case work was not uncovered weighs heavily against treating the programme’s human-effects conclusions as settled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-6 "Endnote 6")
 
 For readers assessing Kelleher, the key distinction is this: **his argument that human effects belong in UAP research is reasonable; the stronger implication that these effects demonstrate exotic UAP technology or paranormal transmission is not publicly proven.** That distinction preserves the serious part of the issue without overstating what the evidence can currently support.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0uKx1lF9NF4" title="Why Do You Lose Your Voice? - Laryngitis Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0uKx1lF9NF4" target="_blank" rel="noopener noreferrer">Why Do You Lose Your Voice? - Laryngitis Explained</a></p><p class="youtube-embed-meta">Channel: DocUnlock</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0uKx1lF9NF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0uKx1lF9NF4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-dark.svg" | relative_url }}" alt="Human Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -528,15 +518,15 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +534,15 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +550,15 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +566,15 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,7 +582,7 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="human-effects-should-uap-research-include-human-effects-colm-kelleher-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-uap-research-include-human-effects-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="should-uap-research-include-human-effects-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -808,162 +798,162 @@ For readers assessing Kelleher, the key distinction is this: **his argument that
 1. <a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
    Title: Title of Site | Rice University Colm A. Kelleher  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 2. <a id="endnote-2"></a>
    Source: simonandschuster.co.uk  
    Title: Simon & Schuster UKHunt for the Skinwalker e Book by Colm A. Kelleher  
-   Link: [https://www.simonandschuster.co.uk/books/Hunt-for-the-Skinwalker/Colm-A-Kelleher/9781416526933](https://www.simonandschuster.co.uk/books/Hunt-for-the-Skinwalker/Colm-A-Kelleher/9781416526933)  
+   Link: <a href="https://www.simonandschuster.co.uk/books/Hunt-for-the-Skinwalker/Colm-A-Kelleher/9781416526933" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/books/Hunt-for-the-Skinwalker/Colm-A-Kelleher/9781416526933</a>  
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 4. <a id="endnote-4"></a>
    Source: who.int  
    Title: radiation electromagnetic fields  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields](https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/radiation-electromagnetic-fields</a>  
 
 5. <a id="endnote-5"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD](https://www.amazon.co.uk/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD)  
+   Link: <a href="https://www.amazon.co.uk/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD</a>  
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: vice.com  
    Title: Stanford Professor Garry Nolan Is Analyzing Anomalous Materials From UFO Crashes  
-   Link: [https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/](https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/)  
+   Link: <a href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/electromagnetic-fields](https://www.who.int/health-topics/electromagnetic-fields)  
+   Link: <a href="https://www.who.int/health-topics/electromagnetic-fields" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/electromagnetic-fields</a>  
 
 11. <a id="endnote-11"></a>
    Source: news.rice.edu  
    Title: archives impossible conference explores cultivation impossibility  
-   Link: [https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility](https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility)  
+   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
 
 12. <a id="endnote-12"></a>
    Source: impossiblearchives.rice.edu  
    Title: archives impossible ii schedule  
-   Link: [https://impossiblearchives.rice.edu/archives-impossible-ii-schedule](https://impossiblearchives.rice.edu/archives-impossible-ii-schedule)  
+   Link: <a href="https://impossiblearchives.rice.edu/archives-impossible-ii-schedule" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/archives-impossible-ii-schedule</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: [https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html](https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html)  
+   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: news.sky.com  
    Title: ufo meeting live nasa panel to examine recent sightings for first time 12893723  
-   Link: [https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723](https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723)  
+   Link: <a href="https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 18. <a id="endnote-18"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
 
 20. <a id="endnote-20"></a>
    Source: theblackvault.com  
    Title: the advanced aviation threat identification program aatip dird report research  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: [https://www.intownmag.com/2025/03/archives-of-the-impossible/](https://www.intownmag.com/2025/03/archives-of-the-impossible/)  
+   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
 
 23. <a id="endnote-23"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)On  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 24. <a id="endnote-24"></a>
    Source: share.libbyapp.com  
-   Link: [https://share.libbyapp.com/title/9494565](https://share.libbyapp.com/title/9494565)  
+   Link: <a href="https://share.libbyapp.com/title/9494565" target="_blank" rel="noopener noreferrer nofollow">https://share.libbyapp.com/title/9494565</a>  
 
 25. <a id="endnote-25"></a>
    Source: bionity.com  
    Title: Colm Kelleher  
-   Link: [https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html](https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html)  
+   Link: <a href="https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/09.pdf](https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/09.pdf)  
+   Link: <a href="https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/09.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Biological Effects of UAP: Challenges in Investigation  
-   Link: [https://www.youtube.com/watch?v=Fj-6-jR5-40](https://www.youtube.com/watch?v=Fj-6-jR5-40)  
+   Link: <a href="https://www.youtube.com/watch?v=Fj-6-jR5-40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-6-jR5-40</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical and Physiological Evidence in UAP Reports...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Examining Reported Biological Injuries from UAP Exposure  
-   Link: [https://www.youtube.com/watch?v=wX-y5Q61v60](https://www.youtube.com/watch?v=wX-y5Q61v60)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-y5Q61v60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y5Q61v60</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Approaches to UAP Biological Data...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/index/article/download_article/id/953.html](https://www.sciepublish.com/index/article/download_article/id/953.html)  
+   Link: <a href="https://www.sciepublish.com/index/article/download_article/id/953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/index/article/download_article/id/953.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 31. <a id="endnote-31"></a>
    Source: 4orbs.com  
-   Link: [https://4orbs.com/research/aatip/](https://4orbs.com/research/aatip/)  
+   Link: <a href="https://4orbs.com/research/aatip/" target="_blank" rel="noopener noreferrer nofollow">https://4orbs.com/research/aatip/</a>  
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/](https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/after-a-summer-of-remarkable-breakthroughs-on-skinwalker-ranch-the-team-meets-to/10158584241781003/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/](https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/</a>  
 
 35. <a id="endnote-35"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>

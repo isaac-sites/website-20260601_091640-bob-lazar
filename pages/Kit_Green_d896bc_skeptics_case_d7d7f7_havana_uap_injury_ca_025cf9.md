@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /sceptics-078368/
 nav_short_title: Havana Analogy
 title: What Havana Syndrome caution means for UAP injuries
-title_full: What Havana Syndrome caution means for UAP injuries | Sceptics
+title_full: What Havana Syndrome caution means for UAP injuries
 display_title_short: Havana Analogy
 display_title: Havana Analogy
 heading_title: What Havana Syndrome caution means for UAP injuries
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where Does The Green Case Fall Short? | Green
+parent_title: Where Does The Green Case Fall Short?
 parent_permalink: /sceptics-078368/
 parent_nav_short_title: Sceptics
 parent_heading_title: Where Does The Green Case Fall Short?
@@ -253,7 +253,7 @@ next_link:
   permalink: /official-reviews/
   short_title: Official Reviews
   heading_title: Do official UAP reviews support Green overclaims?
-date: '2026-06-09 03:00:23 '
+date: '2026-06-11 21:05:41 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1.webp
@@ -262,22 +262,20 @@ image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca
 
 ## Introduction
 
-Comparisons between alleged UAP-related injuries and Havana Syndrome have become one of the most contentious parts of the debate around [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}). [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) argue that both involve clusters of unusual neurological symptoms reported by credible government, military or intelligence-linked personnel. Sceptics respond that similar symptoms do not establish a shared cause, much less prove exotic technology or non-human involvement.
-
+Comparisons between alleged UAP-related injuries and Havana Syndrome have become one of the most contentious parts of the debate around Kit Green. [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) argue that both involve clusters of unusual neurological symptoms reported by credible government, military or intelligence-linked personnel. [Sceptics]({{ 'sceptics-078368/' | relative_url }}) respond that similar symptoms do not establish a shared cause, much less prove exotic technology or non-human involvement.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1-dark.svg" | relative_url }}" alt="Havana Analogy illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The comparison matters because Green has been associated with efforts to examine reports of physiological effects allegedly linked to UFO encounters. In some interviews and second-hand accounts, he has suggested that certain historical cases resembled what later became known as Havana Syndrome. For supporters, that looks like early recognition of a genuine medical pattern. For [sceptics]({{ 'sceptics-078368/' | relative_url }}), it illustrates the danger of moving too quickly from unexplained symptoms to extraordinary conclusions. The Havana Syndrome debate itself shows how difficult it can be to separate real suffering, uncertain mechanisms, intelligence speculation and evidential overreach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">He was in charge of studying some of these individuals... The majority of these patients had symptomology that&#x27;s basically identical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIAn Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
+The comparison matters because Green has been associated with efforts to examine reports of physiological effects allegedly linked to UFO encounters. In some interviews and second-hand accounts, he has suggested that certain historical cases resembled what later became known as Havana Syndrome. For supporters, that looks like early recognition of a genuine medical pattern. For sceptics, it illustrates the danger of moving too quickly from unexplained symptoms to extraordinary conclusions. The Havana Syndrome debate itself shows how difficult it can be to separate real suffering, uncertain mechanisms, intelligence speculation and evidential overreach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">He was in charge of studying some of these individuals... The majority of these patients had symptomology that&#x27;s basically identical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
 
 ## Why the comparison appeals to Green supporters
 
 The analogy has intuitive appeal because both narratives involve people who appear, at least on the surface, to be relatively credible witnesses reporting unusual health effects.
 
-In the Havana Syndrome cases first reported by US personnel in Cuba from 2016 onwards, symptoms included dizziness, headaches, tinnitus, balance problems, cognitive difficulties and sensations of pressure or vibration in the head. Some reports described a sudden onset associated with unusual sounds or directional sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIAn Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
+In the Havana Syndrome cases first reported by US personnel in Cuba from 2016 onwards, symptoms included dizziness, headaches, tinnitus, balance problems, cognitive difficulties and sensations of pressure or vibration in the head. Some reports described a sudden onset associated with unusual sounds or directional sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
 
 Accounts associated with Green's UAP-related work often describe overlapping symptom categories: neurological complaints, vestibular problems, cognitive changes, burns, skin effects or longer-term medical complications allegedly following close encounters with anomalous objects. Some public discussions of Green's work have claimed that a subset of cases showed symptom profiles similar to later Havana Syndrome reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">He was in charge of studying some of these individuals... The majority of these patients had symptomology that&#x27;s basically identical...</span></span></span>
 
 For supporters, several features appear noteworthy:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -291,7 +289,6 @@ For supporters, several features appear noteworthy:
 This comparison allows supporters to make a narrower argument than "UFOs caused injuries". Instead, they can argue that unusual injury reports should not be dismissed automatically simply because their cause remains unclear.
 
 That position gained some rhetorical force when the National Academies assessment of Havana Syndrome concluded that directed, pulsed radiofrequency energy was the most plausible mechanism among the explanations it reviewed, while also stressing the limits of available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-title">National Academies An Assessment of Illness in U.S</span><span class="citation-popover-snippet">Government Employees...2020 · Cited by 55 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began to report the development of an...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1jmAj9OUOs" title="Source: Havana Syndrome investigation is &quot;a massive CIA cover-up&quot; | 60 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1jmAj9OUOs" target="_blank" rel="noopener noreferrer">Source: Havana Syndrome investigation is &quot;a massive CIA cover-up&quot; | 60 Minutes</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 3.0M &middot; Uploaded: March 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1jmAj9OUOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1jmAj9OUOs">Open on YouTube</a></p></div></div></div>
 
@@ -309,8 +306,7 @@ A 2023 US intelligence community review concluded that most reported incidents w
 
 Then, in 2024, NIH researchers reported that advanced testing found no significant MRI-detectable brain injury and no major biological abnormalities distinguishing affected personnel from control groups, although sufferers continued to report substantial symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[National Institutes of Health (NIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-snippet">compared to controls, among a group of federal employees who experienced anomalous health incidents (AHIs). These incidents, including...</span></span></span>
 
-For sceptics examining Green's [UAP injury claims]({{ 'injury-claims/' | relative_url }}), this is the key lesson. Even after years of investigation involving intelligence agencies, medical specialists, classified briefings and congressional attention, Havana Syndrome remains an unresolved and heavily debated phenomenon. If a case with hundreds of reported victims, official medical evaluations and extensive government resources still lacks a universally accepted explanation, then claims of UAP-related injuries face an even higher evidential hurdle. National Institutes of Health (NIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Havana syndrome</span><span class="citation-popover-snippet">Havana syndrome</span></span></span>
-
+For sceptics examining Green's UAP [injury claims]({{ 'injury-claims/' | relative_url }}), this is the key lesson. Even after years of investigation involving intelligence agencies, medical specialists, classified briefings and congressional attention, Havana Syndrome remains an unresolved and heavily debated phenomenon. If a case with hundreds of reported victims, official medical evaluations and extensive government resources still lacks a universally accepted explanation, then claims of UAP-related injuries face an even higher evidential hurdle. National Institutes of Health (NIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Havana syndrome</span><span class="citation-popover-snippet">Havana syndrome</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-2-dark.svg" | relative_url }}" alt="Havana Analogy illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The danger of symptom matching
@@ -325,7 +321,6 @@ Sceptics therefore argue that statements such as "this looks like Havana Syndrom
 
 That distinction is particularly important when discussions move from observed symptoms to claims about advanced weapons, secret technology or non-human systems. Similar outcomes do not automatically imply similar causes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bb1cuYU09Ck" title="The most fascinating UFO encounter | Garry Nolan and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bb1cuYU09Ck" target="_blank" rel="noopener noreferrer">The most fascinating UFO encounter | Garry Nolan and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 1.3M &middot; Uploaded: February 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bb1cuYU09Ck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bb1cuYU09Ck">Open on YouTube</a></p></div></div></div>
 
 ## How clinical rigour changes the evidential standard
@@ -338,12 +333,11 @@ For Green's supporters, this is an argument for taking UAP injury reports seriou
 
 For sceptics, however, the same principle cuts the other way. Serious symptoms alone cannot validate claims about exotic technology. To move beyond anecdote, investigators would need:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Contemporaneous medical records.
 * Clear timelines of exposure and symptom onset.
-* Independent clinical assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIAn Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
+* Independent clinical assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</span></span></span>
 * Biological markers or imaging findings that can be reproduced.
 * Reliable environmental measurements.
 * A mechanism that fits established physics and medicine.
@@ -352,7 +346,6 @@ For sceptics, however, the same principle cuts the other way. Serious symptoms a
 </div>
 
 The Havana Syndrome controversy demonstrates how difficult this standard is to meet even when governments devote years of effort to the problem. The more extraordinary the proposed cause, the more important those evidential safeguards become. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[National Institutes of Health (NIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-snippet">compared to controls, among a group of federal employees who experienced anomalous health incidents (AHIs). These incidents, including...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-snippet">compared to controls, among a group of federal employees who experienced anomalous health incidents (AHIs). These incidents, including...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-3-dark.svg" | relative_url }}" alt="Havana Analogy illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the analogy does and does not prove about Green
@@ -363,9 +356,7 @@ It arguably strengthens one narrow point: reports of unusual physiological sympt
 
 However, the comparison does not establish that UAP encounters caused the reported injuries, nor does it validate stronger claims sometimes attached to Green's reputation. In fact, the unresolved nature of Havana Syndrome can support the sceptical case. A phenomenon may be medically significant while its cause remains uncertain, contested or ultimately more mundane than initial theories suggested. National Institutes of Health (NIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Havana syndrome</span><span class="citation-popover-snippet">Havana syndrome</span></span></span> That is why sceptics often treat the Havana analogy as a cautionary example rather than a confirmation. It shows that unexplained symptoms deserve investigation. It does not show that the most dramatic explanation is correct. In the context of Kit Green's UAP-related injury discussions, the comparison mainly raises the standard of evidence required before moving from "something happened" to "we know what happened".
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ixdsvizqt-Q" title="The 60 Minutes investigation into Havana Syndrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ixdsvizqt-Q" target="_blank" rel="noopener noreferrer">The 60 Minutes investigation into Havana Syndrome</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 36.6K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ixdsvizqt-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ixdsvizqt-Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,15 +475,15 @@ However, the comparison does not establish that UAP encounters caused the report
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture â€“Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,15 +491,15 @@ However, the comparison does not establish that UAP encounters caused the report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller"><img src="{{ '/assets/images/marketplace-covers/0c260ee1c9611393fd05.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible ðŸ‡¬ðŸ‡§ UK seller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +507,15 @@ However, the comparison does not establish that UAP encounters caused the report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +523,15 @@ However, the comparison does not establish that UAP encounters caused the report
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Standâ€“ Sci-Fi Collectible UkSeller</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,7 +539,7 @@ However, the comparison does not establish that UAP encounters caused the report
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="havana-analogy-what-havana-syndrome-caution-means-for-uap-injuries-kit-green-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-havana-syndrome-caution-means-for-uap-injuries-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-havana-syndrome-caution-means-for-uap-injuries-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,112 +754,112 @@ However, the comparison does not establish that UAP encounters caused the report
 
 1. <a id="endnote-1"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/](https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/)  
+   Link: <a href="https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/many-high-ranking-people-have-confirmed-existence-of-secret-ufo-programs-who-has-already-made-similar-claims.13110/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He was in charge of studying some of these individuals... The majority of these patients had symptomology that&#x27;s basically identical...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK566407/](https://www.ncbi.nlm.nih.gov/books/NBK566407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIAn Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK566407/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK566407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Assessment of Illness in U.S. Government Employees and...5 Dec 2020 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nih.gov  
-   Link: [https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities](https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities)  
+   Link: <a href="https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities" target="_blank" rel="noopener noreferrer nofollow">https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>compared to controls, among a group of federal employees who experienced anomalous health incidents (AHIs). These incidents, including...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Havana syndrome  
-   Link: [https://en.wikipedia.org/wiki/Havana_syndrome](https://en.wikipedia.org/wiki/Havana_syndrome)  
+   Link: <a href="https://en.wikipedia.org/wiki/Havana_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Havana_syndrome</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCClinical, Biomarker, and Research Tests Among US  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10949151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10949151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Chan · 2024 · Cited by 15 — The US government has labeled these anomalous health incidents (AHIs). Objective. To assess whether p...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10949151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10949151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Chan · 2024 · Cited by 15 — The US government has labeled these anomalous health incidents (AHIs). Objective. To assess whether p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10508825/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10508825/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10508825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10508825/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>high-power radio frequency energy can cause non...by O Yaghmazadeh · 2023 · Cited by 7 — High-power sub-millisecond radio frequency ener...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: health.mil  
-   Link: [https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents](https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents)  
+   Link: <a href="https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.health.mil/Military-Health-Topics/Warfighter-Brain-Health/Brain-Health-Topics/Anomalous-Health-Incidents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Health IncidentsThe Department of Defense and Defense Health Agency are committed to preventing, treatment, and recovering pati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nationalacademies.org  
    Title: National Academies An Assessment of Illness in U.S  
-   Link: [https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889](https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889)  
+   Link: <a href="https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/units/HMD-BGH-18-07/publication/25889</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Employees...2020 · Cited by 55 — In late 2016, U.S. Embassy personnel in Havana, Cuba, began to report the development of an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalacademies.org  
    Title: National Academies New Report Assesses Illnesses Among U.S  
-   Link: [https://www.nationalacademies.org/news/new-report-assesses-illnesses-among-us-government-personnel-and-their-families-at-overseas-embassies](https://www.nationalacademies.org/news/new-report-assesses-illnesses-among-us-government-personnel-and-their-families-at-overseas-embassies)  
+   Link: <a href="https://www.nationalacademies.org/news/new-report-assesses-illnesses-among-us-government-personnel-and-their-families-at-overseas-embassies" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-assesses-illnesses-among-us-government-personnel-and-their-families-at-overseas-embassies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government...5 Dec 2020 — “The committee found these cases quite concerning, in part because of the plausible role of directed, pulsed r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/25889](https://www.nationalacademies.org/read/25889)  
+   Link: <a href="https://www.nationalacademies.org/read/25889" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25889</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>directed, pulsed radio frequency (RF) energy. Studies published in the open...Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/60minutes/posts/the-most-plausible-explanation-for-a-subset-of-these-havana-syndrome-cases-was-a/1280834587245255/](https://www.facebook.com/60minutes/posts/the-most-plausible-explanation-for-a-subset-of-these-havana-syndrome-cases-was-a/1280834587245255/)  
+   Link: <a href="https://www.facebook.com/60minutes/posts/the-most-plausible-explanation-for-a-subset-of-these-havana-syndrome-cases-was-a/1280834587245255/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60minutes/posts/the-most-plausible-explanation-for-a-subset-of-these-havana-syndrome-cases-was-a/1280834587245255/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>60 MinutesA committee of 19 experts in medicine and other fields concluded that directed, pulsed radiofrequency energy is the “most plaus...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/have-you-ever-heard-of-nonlocalatemporal-perception-skinwalker-ranchs-very-own-e/886573650255856/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/have-you-ever-heard-of-nonlocalatemporal-perception-skinwalker-ranchs-very-own-e/886573650255856/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/have-you-ever-heard-of-nonlocalatemporal-perception-skinwalker-ranchs-very-own-e/886573650255856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/have-you-ever-heard-of-nonlocalatemporal-perception-skinwalker-ranchs-very-own-e/886573650255856/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker-RanchKit Green, former CIA and consultant during the NIDS era at... Havana Syndrome, the parallels are hard to dismiss. The s...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ehtrust.org  
-   Link: [https://ehtrust.org/u-s-government-report-on-havana-syndrome-better-patient-communication-and-monitoring-needed-to-ensure-timely-treatment/](https://ehtrust.org/u-s-government-report-on-havana-syndrome-better-patient-communication-and-monitoring-needed-to-ensure-timely-treatment/)  
+   Link: <a href="https://ehtrust.org/u-s-government-report-on-havana-syndrome-better-patient-communication-and-monitoring-needed-to-ensure-timely-treatment/" target="_blank" rel="noopener noreferrer nofollow">https://ehtrust.org/u-s-government-report-on-havana-syndrome-better-patient-communication-and-monitoring-needed-to-ensure-timely-treatment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Government Report on Havana Syndrome29 Jul 2024 — Wireless devices from cell phones, to baby monitors to Wi-Fi speakers and cell tow...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uapedia.ai  
    Title: dr christopher kit green a forensic neurologist at the edge of the uap problem  
-   Link: [https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/](https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/)  
+   Link: <a href="https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/dr-christopher-kit-green-a-forensic-neurologist-at-the-edge-of-the-uap-problem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher “Kit” Green: A Forensic Neurologist at the...Dr. Christopher “Kit” Green bridges intelligence, neuroscience, and UAP researc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: havana syndrome directed radio frequency likely cause of illness report  
-   Link: [https://www.theguardian.com/us-news/2020/dec/06/havana-syndrome-directed-radio-frequency-likely-cause-of-illness-report](https://www.theguardian.com/us-news/2020/dec/06/havana-syndrome-directed-radio-frequency-likely-cause-of-illness-report)  
+   Link: <a href="https://www.theguardian.com/us-news/2020/dec/06/havana-syndrome-directed-radio-frequency-likely-cause-of-illness-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2020/dec/06/havana-syndrome-directed-radio-frequency-likely-cause-of-illness-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Havana syndrome: &#x27;directed&#x27; radio frequency likely cause...6 Dec 2020 — First official explanation of illness that affected US diplomats...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kit Green tells Jacques Vallee that funding for [AAWSAP](&amp;#123;&amp;#123; &#x27;aawsap/&#x27; | relative_url &amp;#125;&amp;#125;)... It is worth determining if UAP proximity effects account for any Havana Syndro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
    Title: Luis Elizondo, Imminent Inside the Pentagon s Hunt for UFOs  
-   Link: [https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf](https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf)  
+   Link: <a href="https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, Imminent Inside the Pentagon...16 May 2024 — AAWSAP and BAASS were no different, from my observations. In the... Christo...</p></details>
    Published: May 2024  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/the-cia-inspector-general-has-completed-a-review-that-criticized-the-agencys-han/10163053162181509/](https://www.facebook.com/cnn/posts/the-cia-inspector-general-has-completed-a-review-that-criticized-the-agencys-han/10163053162181509/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/the-cia-inspector-general-has-completed-a-review-that-criticized-the-agencys-han/10163053162181509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/the-cia-inspector-general-has-completed-a-review-that-criticized-the-agencys-han/10163053162181509/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>commentary on anomalous health incidents. The assessment was...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: The injury that should have changed everything  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1n5ebas/the_injury_that_should_have_changed_everything/](https://www.reddit.com/r/skinwalkerranch/comments/1n5ebas/the_injury_that_should_have_changed_everything/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1n5ebas/the_injury_that_should_have_changed_everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1n5ebas/the_injury_that_should_have_changed_everything/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>but didn&#x27;tChristopher “Kit” Green, a former CIA medical officer with Top... anomalous exposure. Instead, it remains a suppressed landmar...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fpri.org  
    Title: havana syndrome the history behind the mystery  
-   Link: [https://www.fpri.org/article/2024/04/havana-syndrome-the-history-behind-the-mystery/](https://www.fpri.org/article/2024/04/havana-syndrome-the-history-behind-the-mystery/)  
+   Link: <a href="https://www.fpri.org/article/2024/04/havana-syndrome-the-history-behind-the-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2024/04/havana-syndrome-the-history-behind-the-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Havana Syndrome: The History Behind the Mystery1 Apr 2024 — ” The report, from the Intelligence Community Experts Panel on Anomalous Heal...</p></details>

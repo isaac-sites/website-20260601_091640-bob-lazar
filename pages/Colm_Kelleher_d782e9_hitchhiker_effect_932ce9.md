@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-colm-kelleher/
 nav_short_title: Hitchhikers
 title: What Is The Hitchhiker Effect Claim?
-title_full: What Is The Hitchhiker Effect Claim? | Kelleher
+title_full: What Is The Hitchhiker Effect Claim?
 display_title_short: Hitchhikers
 display_title: Hitchhikers
 heading_title: What Is The Hitchhiker Effect Claim?
@@ -289,7 +289,7 @@ next_link:
   permalink: /human-effects/
   short_title: Human Effects
   heading_title: Should UAP Research Include Human Effects?
-date: '2026-06-09 03:05:56 '
+date: '2026-06-11 21:07:40 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview.webp
@@ -298,18 +298,16 @@ image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview-soc
 
 ## Introduction
 
-The “hitchhiker effect” is one of [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s most striking and least settled claims. In his usage, it refers to alleged anomalous experiences that seem to follow people home after contact with [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) or other UAP-related settings, sometimes spreading to family members or close contacts. Kelleher has also linked some cases to reported health problems, including autoimmune diagnoses. The important distinction is this: he has argued that a repeatable pattern may exist, but public evidence has not established a cause, a mechanism, or even a reliable medical risk profile. The strongest available reading is therefore neither simple dismissal nor acceptance. Kelleher’s claim is specific enough to analyse, and his AAWSAP/BAASS role gives it historical relevance, but the public record remains dominated by interviews, case narratives, private medical review claims and modelling analogies rather than independently reproducible clinical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
-
+The “hitchhiker effect” is one of Colm Kelleher’s most striking and least settled claims. In his usage, it refers to alleged anomalous experiences that seem to follow people home after contact with [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) or other UAP-related settings, sometimes spreading to family members or close contacts. Kelleher has also linked some cases to reported health problems, including autoimmune diagnoses. The important distinction is this: he has argued that a repeatable pattern may exist, but public evidence has not established a cause, a mechanism, or even a reliable medical risk profile. The strongest available reading is therefore neither simple dismissal nor acceptance. Kelleher’s claim is specific enough to analyse, and his AAWSAP/[BAASS role]({{ 'baass-role/' | relative_url }}) gives it historical relevance, but the public record remains dominated by interviews, case narratives, private medical review claims and modelling analogies rather than independently reproducible clinical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview.webp" | relative_url }}" alt="Overview image for Hitchhikers" loading="eager" decoding="sync" fetchpriority="high">
 ## What Is The Hitchhiker Effect Claim?
 
-Kelleher’s hitchhiker claim sits inside his wider [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch and AAWSAP work, not as a separate medical discovery. Rice University’s Archives of the Impossible identifies him as a co-author of *Hunt for the Skinwalker* and *Skinwalkers at the Pentagon*, and his public reputation in this area comes from a combination of NIDS-era ranch investigation, BAASS/AAWSAP programme work, and later public writing about anomalous “after-effects”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
+Kelleher’s hitchhiker claim sits inside his wider [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch and AAWSAP work, not as a separate medical discovery. Rice University’s Archives of the Impossible identifies him as a co-author of *Hunt for the Skinwalker* and *Skinwalkers at the Pentagon*, and his public reputation in this area comes from a combination of NIDS-era ranch investigation, BAASS/AAWSAP programme work, and later public writing about anomalous “after-effects”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 In a 2022 *EdgeScience* article, Kelleher described the hitchhiker effect as the feeling of “bringing something home” and the alleged person-to-person transmissibility of paranormal phenomena that can last for years. He connected it to reports from DIA personnel who visited Skinwalker Ranch, including a pseudonymous naval intelligence officer “Jonathan Axelrod”, as well as later reports from families, security officers and other people linked to the ranch investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 The claim has three layers, and they should not be treated as equally strong:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +319,6 @@ The claim has three layers, and they should not be treated as equally strong:
 
 That last layer is where the credibility problem becomes most acute. Reports of strange events are difficult enough to verify. Reports that those events may have biological consequences require a much higher evidential standard: timelines, diagnoses, comparison groups, exposure records, pre-existing risk factors, family history, environmental checks and independent medical publication. Publicly, those elements remain incomplete.
 
-
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-1-dark.svg" | relative_url }}" alt="Hitchhikers illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reported After-Effects Beyond The Ranch
 
@@ -332,9 +329,6 @@ Kelleher also cites cases that widen the claim beyond the original ranch boundar
 This is where Kelleher’s position is both stronger and weaker than casual UFO folklore. It is stronger because he is not simply repeating anonymous internet stories; he is describing cases he says were connected to a government-funded contractor investigation and to people with military or intelligence backgrounds. It is weaker because the details most needed for independent assessment — names, records, raw case files, medical timelines, environmental measurements and full witness statements — are either anonymised, unpublished or not available for public challenge.
 
 A useful way to understand the hitchhiker claim is as a proposed pattern, not a proven mechanism. Kelleher is saying that a cluster of post-ranch effects appeared often enough to deserve modelling. Sceptics would respond that a cluster can emerge from expectation, stress, selective reporting, ambiguous household events, retrospective pattern-matching, media reinforcement or unmeasured environmental and medical factors. The public evidence does not yet allow a clean separation between those possibilities.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWbpF3xtkd0" title="George Knapp &amp; Colm Kelleher on Deceptive Factors Clouding UFO Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWbpF3xtkd0" target="_blank" rel="noopener noreferrer">George Knapp &amp; Colm Kelleher on Deceptive Factors Clouding UFO Issues</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 5.5K &middot; Uploaded: January 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWbpF3xtkd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWbpF3xtkd0">Open on YouTube</a></p></div></div></div>
 
 ## Health Claims And Autoimmune Caveats
 
@@ -348,8 +342,8 @@ The same applies to claims of neurological injury or chronic blood disease. Kell
 
 The fairest conclusion is that the medical claims are serious enough to require careful language. They should not be mocked as impossible merely because they sit in a paranormal setting. But they also should not be promoted as established UAP-related injury patterns without transparent clinical evidence.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWbpF3xtkd0" title="George Knapp &amp; Colm Kelleher on Deceptive Factors Clouding UFO Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWbpF3xtkd0" target="_blank" rel="noopener noreferrer">George Knapp &amp; Colm Kelleher on Deceptive Factors Clouding UFO Issues</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 5.5K &middot; Uploaded: January 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWbpF3xtkd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWbpF3xtkd0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-dark.svg" | relative_url }}" alt="Hitchhikers illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Kelleher Reaches For Contagion Models
 
 Kelleher’s most distinctive move is not simply to say that strange events followed people home. It is to suggest that the pattern might be modelled like contagion. In *EdgeScience*, he discusses both an “infectious agent” analogy and a “social contagion” analogy, including the possibility of measuring a reproduction number, onset interval and transmissibility window if enough cases were collected in a future study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
@@ -359,9 +353,6 @@ This is an important nuance. Kelleher does not publicly demonstrate that a biolo
 That analogy has some value. It gives investigators a way to ask structured questions: Who was exposed first? Who later reported effects? What was the time gap? Did symptoms or experiences cluster around households, work teams or social contacts? Were there people exposed to the same setting who did not report anything?
 
 But the analogy can also mislead. Calling something an “infection” may make a weakly understood pattern sound more biologically concrete than it is. In Kelleher’s article, the language moves between metaphor, modelling and possible biological consequence. For a public reader, the safest interpretation is that “contagion” is a proposed investigative framework, not a demonstrated pathogen, radiation signature, psychological mechanism or paranormal entity.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nPQCtWYtAk" title="Exploring the unexplained: A new chapter in the Archives of the Impossible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer">Exploring the unexplained: A new chapter in the Archives of the Impossible</a></p><p class="youtube-embed-meta">Channel: Rice University &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nPQCtWYtAk">Open on YouTube</a></p></div></div></div>
 
 ## The DIA Medical Paper Does Not Prove The Hitchhiker Claim
 
@@ -375,8 +366,7 @@ The public record also contains a strong institutional caution. AARO’s 2024 hi
 
 That does not settle every factual dispute in favour of AARO, especially because some AAWSAP figures contest aspects of the official history. But it does weaken any argument that “the Pentagon studied it” automatically means “the Pentagon confirmed it”. In credibility terms, the official connection establishes that the topic entered a government-funded contractor environment; it does not establish that the hitchhiker mechanism was real.
 
-
-<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-dark.svg" | relative_url }}" alt="Hitchhikers illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-dark.svg" | relative_url }}" alt="Hitchhikers illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Causation Remains Unresolved
 
 The hitchhiker effect remains unresolved because almost every important link in the causal chain is still public-evidence-poor. The claim requires several things to be true at once: that an initial exposure occurred, that later experiences were genuinely anomalous, that the later experiences were connected to the initial exposure, that family or household cases were not independent, and that medical conditions were not coincidental or better explained by ordinary risk factors.
@@ -392,18 +382,18 @@ The current public evidence falls short in several ways:
 
 That last point is especially important. A person can sincerely report strange events. A family member can genuinely receive an autoimmune diagnosis. Both can be real events in the ordinary sense without proving that one caused the other.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-dark.svg" | relative_url }}" alt="Hitchhikers illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What The Claim Does To Kelleher’s Credibility
 
-Kelleher’s hitchhiker claims cut both ways. They make him more interesting because he is willing to treat witness after-effects as a pattern that might be studied rather than as isolated folklore. His scientific [background]({{ 'background-ef59e9/' | relative_url }}) and programme role mean he understood, at least in principle, the need for data, modelling and medical review. His proposal to examine timing, transmission and family clustering is more structured than ordinary paranormal storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site | Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site | Rice University Colm A. Kelleher</span></span></span>
+Kelleher’s hitchhiker claims cut both ways. They make him more interesting because he is willing to treat witness after-effects as a pattern that might be studied rather than as isolated folklore. His scientific [background]({{ 'background-ef59e9/' | relative_url }}) and programme role mean he understood, at least in principle, the need for data, modelling and medical review. His proposal to examine timing, transmission and family clustering is more structured than ordinary paranormal storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-title">Title of Site &#124; Rice University Colm A. Kelleher</span><span class="citation-popover-snippet">Title of Site &#124; Rice University Colm A. Kelleher</span></span></span>
 
 At the same time, these claims expose the weakest part of his public credibility. The more extraordinary the proposed mechanism becomes — a phenomenon that follows people home, spreads socially or biologically, and correlates with autoimmune disease — the more the burden shifts towards transparent, reproducible evidence. At present, the public record does not meet that burden.
 
 Supporters can reasonably say that Kelleher is pointing to an under-studied human-effects pattern that deserves careful investigation, especially if private case files contain stronger evidence than has been released. Sceptics can reasonably say that the public evidence is too anecdotal, too dependent on insider narration, too medically under-specified and too vulnerable to expectation effects to support the stronger conclusion.
 
 The balanced assessment is that the hitchhiker effect should be treated as a claim under investigation, not a fact about UAP exposure. It is central to Kelleher’s distinctiveness in modern UAP discourse because it moves beyond objects in the sky into alleged human and household consequences. But until the medical and case data are published in a way that independent clinicians, epidemiologists and statisticians can test, the mechanism remains unproven and the health implications remain medically uncertain.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nPQCtWYtAk" title="Exploring the unexplained: A new chapter in the Archives of the Impossible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer">Exploring the unexplained: A new chapter in the Archives of the Impossible</a></p><p class="youtube-embed-meta">Channel: Rice University &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nPQCtWYtAk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -522,15 +512,15 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Joke Men&#x27;s Hoody Funny Aliens Spaceship Area 51 Roswell Conspiracy Hoodie"><img src="{{ '/assets/images/marketplace-covers/9f0375929b92e7adc445.jpg' | relative_url }}" alt="Listing image for UFO Joke Men&#x27;s Hoody Funny Aliens Spaceship Area 51 Roswell Conspiracy Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer">UFO Joke Men&#x27;s Hoody Funny Aliens Spaceship Area 51 Roswell Conspiracy Hoodie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +528,15 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN INVASION HOODY HOODIE COOL UFO ALIENS SPACE ASTRONAUT RETRO COOL DESIGN"><img src="{{ '/assets/images/marketplace-covers/426a41da994f73683e8b.jpg' | relative_url }}" alt="Listing image for ALIEN INVASION HOODY HOODIE COOL UFO ALIENS SPACE ASTRONAUT RETRO COOL DESIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer">ALIEN INVASION HOODY HOODIE COOL UFO ALIENS SPACE ASTRONAUT RETRO COOL DESIGN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +544,15 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Hoodie Mens Womens Funny Graphic Sweatshirt Green UFO Streetwear Top UK"><img src="{{ '/assets/images/marketplace-covers/d972a2a91ac69f768439.jpg' | relative_url }}" alt="Listing image for Alien Hoodie Mens Womens Funny Graphic Sweatshirt Green UFO Streetwear Top UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer">Alien Hoodie Mens Womens Funny Graphic Sweatshirt Green UFO Streetwear Top UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +560,15 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Believe Space Illuminati Men Women Unisex Top Hoodie Sweatshirt 1601"><img src="{{ '/assets/images/marketplace-covers/f0fac711375c60188a57.jpg' | relative_url }}" alt="Listing image for UFO Alien Believe Space Illuminati Men Women Unisex Top Hoodie Sweatshirt 1601" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Believe Space Illuminati Men Women Unisex Top Hoodie Sweatshirt 1601</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +576,7 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO hoodie" data-ebay-reference="hitchhikers-what-is-the-hitchhiker-effect-claim-colm-kelleher-ufo-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-hitchhiker-effect-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-is-the-hitchhiker-effect-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -802,174 +792,174 @@ The balanced assessment is that the hitchhiker effect should be treated as a cla
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: The Black Vault  
-   Link: [https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)  
+   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: impossiblearchives.rice.edu  
    Title: Title of Site | Rice University Colm A. Kelleher  
-   Link: [https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher](https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher)  
+   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
 
 4. <a id="endnote-4"></a>
    Source: niehs.nih.gov  
-   Link: [https://www.niehs.nih.gov/health/topics/conditions/autoimmune](https://www.niehs.nih.gov/health/topics/conditions/autoimmune)  
+   Link: <a href="https://www.niehs.nih.gov/health/topics/conditions/autoimmune" target="_blank" rel="noopener noreferrer nofollow">https://www.niehs.nih.gov/health/topics/conditions/autoimmune</a>  
 
 5. <a id="endnote-5"></a>
    Source: nhs.uk  
    Title: Rheumatoid arthritis  
-   Link: [https://www.nhs.uk/conditions/rheumatoid-arthritis/causes/](https://www.nhs.uk/conditions/rheumatoid-arthritis/causes/)  
+   Link: <a href="https://www.nhs.uk/conditions/rheumatoid-arthritis/causes/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/rheumatoid-arthritis/causes/</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/[Documents](https://www.dia.mil/Portals/110/[Documents)  
+   Link: <a href="https://www.dia.mil/Portals/110/[Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/[Documents</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12367657/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12367657/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367657/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367657/</a>  
 
 9. <a id="endnote-9"></a>
    Source: niehs.nih.gov  
    Title: autoimmune diseases and your environment 508  
-   Link: [https://www.niehs.nih.gov/sites/default/files/health/materials/autoimmune_diseases_and_your_environment_508.pdf](https://www.niehs.nih.gov/sites/default/files/health/materials/autoimmune_diseases_and_your_environment_508.pdf)  
+   Link: <a href="https://www.niehs.nih.gov/sites/default/files/health/materials/autoimmune_diseases_and_your_environment_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niehs.nih.gov/sites/default/files/health/materials/autoimmune_diseases_and_your_environment_508.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10876734/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10876734/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10876734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10876734/</a>  
 
 11. <a id="endnote-11"></a>
    Source: niddk.nih.gov  
    Title: hashimotos disease  
-   Link: [https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease](https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease)  
+   Link: <a href="https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease</a>  
 
 12. <a id="endnote-12"></a>
    Source: mayo.edu  
-   Link: [https://www.mayo.edu/research/clinical-trials/diseases-conditions/autoimmune-diseases](https://www.mayo.edu/research/clinical-trials/diseases-conditions/autoimmune-diseases)  
+   Link: <a href="https://www.mayo.edu/research/clinical-trials/diseases-conditions/autoimmune-diseases" target="_blank" rel="noopener noreferrer nofollow">https://www.mayo.edu/research/clinical-trials/diseases-conditions/autoimmune-diseases</a>  
 
 13. <a id="endnote-13"></a>
    Source: mft.nhs.uk  
-   Link: [https://mft.nhs.uk/the-trust/other-departments/laboratory-medicine/immunology/clinical-conditions-covered-by-the-immunology-department/rheumatology-connective-tissue-disease/](https://mft.nhs.uk/the-trust/other-departments/laboratory-medicine/immunology/clinical-conditions-covered-by-the-immunology-department/rheumatology-connective-tissue-disease/)  
+   Link: <a href="https://mft.nhs.uk/the-trust/other-departments/laboratory-medicine/immunology/clinical-conditions-covered-by-the-immunology-department/rheumatology-connective-tissue-disease/" target="_blank" rel="noopener noreferrer nofollow">https://mft.nhs.uk/the-trust/other-departments/laboratory-medicine/immunology/clinical-conditions-covered-by-the-immunology-department/rheumatology-connective-tissue-disease/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 15. <a id="endnote-15"></a>
    Source: bradfordhospitals.nhs.uk  
-   Link: [https://www.bradfordhospitals.nhs.uk/rheumatology-clinic/rheumatology-conditions/](https://www.bradfordhospitals.nhs.uk/rheumatology-clinic/rheumatology-conditions/)  
+   Link: <a href="https://www.bradfordhospitals.nhs.uk/rheumatology-clinic/rheumatology-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.bradfordhospitals.nhs.uk/rheumatology-clinic/rheumatology-conditions/</a>  
 
 16. <a id="endnote-16"></a>
    Source: mayoclinic.org  
    Title: Rheumatoid arthritis  
-   Link: [https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648](https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648)  
+   Link: <a href="https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648</a>  
 
 17. <a id="endnote-17"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789](https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789)  
+   Link: <a href="https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789</a>  
 
 18. <a id="endnote-18"></a>
    Source: documents2.theblackvault.com  
    Title: Nov132024Hearing Shellenberger  
-   Link: [https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf](https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/congress/Nov132024Hearing-Shellenberger.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
    Title: Tic Tac Full Report1  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf](https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-0163.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/](https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-black-vault-radio-show-notes-episode-breakdown/</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents2.theblackvault.com  
    Title: DIA FOIA Request Log 2018  
-   Link: [https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf](https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/foia/DIA-FOIA_Request_Log_2018.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Fsb0TnP1MrE](https://www.youtube.com/watch?v=Fsb0TnP1MrE)  
+   Link: <a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fsb0TnP1MrE</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1530056291980350/](https://www.facebook.com/groups/911734917145827/posts/1530056291980350/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1530056291980350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1530056291980350/</a>  
 
 25. <a id="endnote-25"></a>
    Source: books.google.com  
    Title: Hunt for the Skinwalker  
-   Link: [https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC](https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC)  
+   Link: <a href="https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Hunt_for_the_Skinwalker.html?id=_EfaAO12k2wC</a>  
 
 26. <a id="endnote-26"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: [https://www.intownmag.com/2025/03/archives-of-the-impossible/](https://www.intownmag.com/2025/03/archives-of-the-impossible/)  
+   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1771091/full](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1771091/full)  
+   Link: <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1771091/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1771091/full</a>  
 
 28. <a id="endnote-28"></a>
    Source: sd036d2424f3c53a7.jimcontent.com  
    Title: Hunt for the skinwalker  
-   Link: [https://sd036d2424f3c53a7.jimcontent.com/download/version/1662114968/module/6524295980/name/Hunt%20for%20the%20skinwalker.pdf](https://sd036d2424f3c53a7.jimcontent.com/download/version/1662114968/module/6524295980/name/Hunt%20for%20the%20skinwalker.pdf)  
+   Link: <a href="https://sd036d2424f3c53a7.jimcontent.com/download/version/1662114968/module/6524295980/name/Hunt%20for%20the%20skinwalker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sd036d2424f3c53a7.jimcontent.com/download/version/1662114968/module/6524295980/name/Hunt%20for%20the%20skinwalker.pdf</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Hitchhiker Effect: Examining the Skinwalker Ranch Narrative  
-   Link: [https://www.youtube.com/watch?v=R9pQGjOaU0o](https://www.youtube.com/watch?v=R9pQGjOaU0o)  
+   Link: <a href="https://www.youtube.com/watch?v=R9pQGjOaU0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9pQGjOaU0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Claims of Anomalous After-Effects at Skinwalker Ranch...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Investigating Claims of Anomalous After-Effects at Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=kY31R95d_h0](https://www.youtube.com/watch?v=kY31R95d_h0)  
+   Link: <a href="https://www.youtube.com/watch?v=kY31R95d_h0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY31R95d_h0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher on the Hunt for the Skinwalker...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Paranormal Credibility and Scientific Analysis of UAP  
-   Link: [https://www.youtube.com/watch?v=wX-y5Q61v60](https://www.youtube.com/watch?v=wX-y5Q61v60)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-y5Q61v60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y5Q61v60</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Unexplained Phenomena and [Health Claims](&amp;#123;&amp;#123; &#x27;health-claims/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/](https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/)  
+   Link: <a href="https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chad.riley.12/posts/they-woke-up-burned-or-injured-top-brain-expert-and-ex-cia-officer-reveals-hundr/7180116858766863/</a>  
 
 34. <a id="endnote-34"></a>
    Source: autoimmuneinstitute.org  
-   Link: [https://www.autoimmuneinstitute.org/7-ad-risk-factors/](https://www.autoimmuneinstitute.org/7-ad-risk-factors/)  
+   Link: <a href="https://www.autoimmuneinstitute.org/7-ad-risk-factors/" target="_blank" rel="noopener noreferrer nofollow">https://www.autoimmuneinstitute.org/7-ad-risk-factors/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/](https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 37. <a id="endnote-37"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: steno.fm  
-   Link: [https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61](https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61)  
+   Link: <a href="https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61" target="_blank" rel="noopener noreferrer nofollow">https://www.steno.fm/show/b7bb2612-5f63-516a-9808-d59ece65ed61</a>

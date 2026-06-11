@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aawsap-aatip/
 nav_short_title: DIRD papers
 title: When does a defence paper prove anything?
-title_full: When does a defence paper prove anything? | AAWSAP AATIP
+title_full: When does a defence paper prove anything?
 display_title_short: DIRD papers
 display_title: DIRD papers
 heading_title: When does a defence paper prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Did AAWSAP Actually Prove? | Puthoff
+parent_title: What Did AAWSAP Actually Prove?
 parent_permalink: /aawsap-aatip/
 parent_nav_short_title: AAWSAP AATIP
 parent_heading_title: What Did AAWSAP Actually Prove?
@@ -247,7 +247,7 @@ next_link:
   permalink: /mission-drift/
   short_title: Mission drift
   heading_title: Did paranormal research weaken the AAWSAP story?
-date: '2026-06-09 03:02:01 '
+date: '2026-06-11 21:06:32 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_specul
 ## Introduction
 
 The Defense Intelligence Reference Documents, usually shortened to DIRDs, are among the strongest publicly available pieces of evidence linking [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) to the government-funded side of the modern UFO and UAP story. They show that researchers connected to the Advanced Aerospace Weapon System Applications Program (AAWSAP) were commissioned to write technical papers on subjects ranging from advanced propulsion and wormholes to invisibility cloaking and quantum vacuum effects. What they do not show is equally important. A funded research paper is evidence that a government office was willing to explore an idea; it is not evidence that the idea worked, that it was experimentally validated, or that recovered non-human technology existed.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1-dark.svg" | relative_url }}" alt="DIRD papers illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For assessing Puthoff's credibility, the DIRDs matter because they provide a documented institutional link between his theoretical work and a real Defence Intelligence Agency (DIA) programme. They are less useful as proof of the extraordinary conclusions that supporters sometimes draw from them. The key question is not whether the papers existed. They did. The question is what government sponsorship actually means when the subject matter is highly speculative.
@@ -269,7 +268,6 @@ The DIRDs emerged publicly after Freedom of Information Act releases connected t
 This is one reason the documents became controversial. Critics saw them as evidence that taxpayer money had been directed toward fringe ideas with little prospect of practical application. Supporters argued that defence planners sometimes investigate low-probability, high-impact technologies precisely because future breakthroughs can emerge from unexpected directions.
 
 The DIA's involvement does establish several facts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,12 +282,9 @@ What it does not establish is that the authors possessed working exotic technolo
 
 That distinction is central to understanding the credibility debate around both AAWSAP and Puthoff.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UnCjbN7LCCs" title="Dr Hal Puthoff Presentation &amp; Q&amp;A, UFO/UAP Disclosure Special." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UnCjbN7LCCs" target="_blank" rel="noopener noreferrer">Dr Hal Puthoff Presentation &amp; Q&amp;A, UFO/UAP Disclosure Special.</a></p><p class="youtube-embed-meta">Channel: Livewire - Podcast Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UnCjbN7LCCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UnCjbN7LCCs">Open on YouTube</a></p></div></div></div>
-
 ## Why Puthoff's vacuum-engineering paper matters
 
-Among the released DIRDs, the paper most closely associated with Puthoff is *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering*. Publicly available versions identify H. E. Puthoff as the author and connect the work to the AAWSAP-era DIA research effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+Among the released DIRDs, the paper most closely associated with Puthoff is *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering*. Publicly available versions identify H. E. Puthoff as the author and connect the work to the AAWSAP-era DIA research effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 The paper explored whether the quantum vacuum and spacetime metric could theoretically be manipulated to produce revolutionary propulsion effects. It discussed concepts already present in theoretical physics literature, including warp-drive proposals, traversable wormholes, altered inertial effects and vacuum-energy engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Keywords: Space propulsion, metric...Read more...</span></span></span>
 
@@ -300,7 +295,6 @@ However, the paper's contents also reveal the limits of that credential.
 The document does not present a functioning propulsion system. It does not claim that spacetime engineering has been achieved. Instead, it surveys theoretical possibilities, outlines mathematical implications and discusses areas where future research might be worthwhile. Even sympathetic readers generally acknowledge that the work is exploratory rather than demonstrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Keywords: Space propulsion, metric...Read more...</span></span></span>
 
 As a result, the paper strengthens one specific claim about Puthoff's credibility: he participated in real government-sponsored frontier research. It does not independently verify broader claims that advanced non-human technology exists or that such technology has been successfully reverse-engineered.
-
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-2-dark.svg" | relative_url }}" alt="DIRD papers illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The gap between speculative research and official proof
@@ -331,7 +325,6 @@ Even allowing for those objections, AARO's findings reinforce an important disti
 
 That leaves the DIRDs in an unusual position. They are stronger evidence than rumours, anonymous stories or second-hand recollections because they are real documents tied to a documented government programme. At the same time, they are weaker evidence than successful experiments, recovered hardware or independently replicated scientific results.
 
-
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-3-dark.svg" | relative_url }}" alt="DIRD papers illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the DIRDs do and do not prove about Hal Puthoff
 
@@ -339,18 +332,16 @@ For evaluating Puthoff specifically, the DIRD archive cuts both ways.
 
 The papers support several credibility-enhancing conclusions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * He was connected to a genuine DIA-funded programme.
 * His technical interests influenced part of AAWSAP's research agenda.
 * His work attracted enough institutional interest to receive formal funding.
-* His role in the programme is documented rather than merely claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence |]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
+* His role in the programme is documented rather than merely claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">DIA Advanced Space Propulsion</span><span class="citation-popover-snippet">Public Intelligence &#124;Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</span></span></span>
 
 </div>
 
 But the same documents also impose limits:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,10 +355,6 @@ But the same documents also impose limits:
 In credibility terms, the DIRDs are best understood as evidence of access and influence rather than evidence of technological success. They show that Puthoff operated inside a real government-funded frontier-research environment. They do not settle the larger question of whether the extraordinary possibilities discussed in those papers correspond to real-world capabilities.
 
 That distinction is often lost in public arguments. Yet it is precisely where the evidential value of the DIRDs begins and ends. The papers prove that the speculation was funded. They do not prove that the speculation was correct.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: around May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,15 +473,15 @@ That distinction is often lost in public arguments. Yet it is precisely where th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science"><img src="{{ '/assets/images/marketplace-covers/8e0889d19e5c91733acf.jpg' | relative_url }}" alt="Listing image for American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft New Plastic Model Kit"><img src="https://i.ebayimg.com/images/g/mKoAAOSw7MZiIzjv/s-l225.jpg" alt="Listing image for Spacecraft New Plastic Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">American Alchemy Wall Art, Jesse Michels Podcast Poster, UFO UAP History Science</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Spacecraft New Plastic Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +489,15 @@ That distinction is often lost in public arguments. Yet it is precisely where th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Ufo Blue Science Fiction Painting Wall Art Home Decor - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/ecbe03549465c4cd801a.jpg' | relative_url }}" alt="Listing image for I Believe Ufo Blue Science Fiction Painting Wall Art Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell NASA Artemis Space Launch System Model Kit 1:144 Scale 03760"><img src="https://i.ebayimg.com/images/g/~asAAeSwL6lqI~cn/s-l225.jpg" alt="Listing image for Revell NASA Artemis Space Launch System Model Kit 1:144 Scale 03760" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Believe Ufo Blue Science Fiction Painting Wall Art Home Decor - POSTER 20x30</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Revell NASA Artemis Space Launch System Model Kit 1:144 Scale 03760</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +505,15 @@ That distinction is often lost in public arguments. Yet it is precisely where th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/1bf3bcf651774de3f2c8.jpg' | relative_url }}" alt="Listing image for science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals"><img src="https://i.ebayimg.com/images/g/fZ4AAOSws21nyuzp/s-l225.jpg" alt="Listing image for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">science fiction digital art UFO military vehicle Arctic dawn 11x17 Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +521,15 @@ That distinction is often lost in public arguments. Yet it is precisely where th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anime Manga Ufo Science Fiction 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/3ba744eab340f1855787.jpg' | relative_url }}" alt="Listing image for Anime Manga Ufo Science Fiction 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3-5mm NASA US Flags Apollo Insignias Markings Spacecraft Model Water Decal 68345"><img src="https://i.ebayimg.com/images/g/y-sAAOSw1hFnpwr~/s-l225.jpg" alt="Listing image for 3-5mm NASA US Flags Apollo Insignias Markings Spacecraft Model Water Decal 68345" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Anime Manga Ufo Science Fiction 11x17 Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">3-5mm NASA US Flags Apollo Insignias Markings Spacecraft Model Water Decal 68345</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: spacecraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +537,7 @@ That distinction is often lost in public arguments. Yet it is precisely where th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo science poster -book -books" data-ebay-reference="dird-papers-when-does-a-defence-paper-prove-anything-hal-puthoff-ufo-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-defence-paper-prove-anything-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="when-does-a-defence-paper-prove-anything-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,105 +753,105 @@ That distinction is often lost in public arguments. Yet it is precisely where th
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — These scientific papers were never thoroughly peer reviewed. • A...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/1204.2184](https://arxiv.org/pdf/1204.2184)  
+   Link: <a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Space propulsion, metric...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1204.2184](https://arxiv.org/abs/1204.2184)  
+   Link: <a href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1204.2184</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Space Propulsion Based on Vacuum...by HE Puthoff · 2012 · Cited by 44 — The concept that empty space itself (the quantum vacuum...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: info.publicintelligence.net  
    Title: DIA Advanced Space Propulsion  
-   Link: [https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf](https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf)  
+   Link: <a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Intelligence |Advanced Space Propulsion Based оп Vacuum (...29 Mar 2010 — This product is one in а series of advanced technology...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/advanced](https://dictionary.cambridge.org/dictionary/english/advanced)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryADVANCED definition: 1. modern and well developed: 2. at a higher, more difficult level: 3. havin...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/advanced" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/advanced</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryADVANCED definition: 1. modern and well developed: 2. at a higher, more difficult level: 3. havin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english-spanish/advanced](https://dictionary.cambridge.org/us/dictionary/english-spanish/advanced)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english-spanish/advanced" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english-spanish/advanced</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Spanish - Cambridge Dictionary7 days ago — a school class that is doing work of a higher standard than is usual for students at that s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: advanced-adv.com  
    Title: Compra con 3 cuotas sin interés  
-   Link: [https://www.advanced-adv.com/](https://www.advanced-adv.com/)  
+   Link: <a href="https://www.advanced-adv.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.advanced-adv.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced | Tienda online | Ropa para Niños, Niñas y Bebés...Advanced - Ropa para chicos y recién nacidos, moda infantil, chicos modernos...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wordreference.com  
-   Link: [https://www.wordreference.com/enes/advanced](https://www.wordreference.com/enes/advanced)  
+   Link: <a href="https://www.wordreference.com/enes/advanced" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/enes/advanced</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>advanced - English-Spanish DictionarySynonyms: highly-developed, exceptional, superior, high-level, developed, more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: marcellocatalano.com  
-   Link: [https://www.marcellocatalano.com/aaro.htm](https://www.marcellocatalano.com/aaro.htm)  
+   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoResults: The AAWSAP/AATIP contract with the private sector organization produced e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ingles.com  
-   Link: [https://www.ingles.com/listas/157629/advanced](https://www.ingles.com/listas/157629/advanced)  
+   Link: <a href="https://www.ingles.com/listas/157629/advanced" target="_blank" rel="noopener noreferrer nofollow">https://www.ingles.com/listas/157629/advanced</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VocabularioAdvanced; stand. aguantar; miraculously. milagrosamente; paranoid. paranoico; acquired. adquirido; charge. cargo.Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of U.S. Government. Involvement with Unidenti ed Anomalous Phenomena. (UAP). Volume I. February...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/advanced](https://www.merriam-webster.com/dictionary/advanced)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/advanced" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/advanced</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADVANCED Definition &amp; Meaning1. far on in time or course; a man advanced in years. 2. a: being beyond others in progress or ideas; taste...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies](https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/predict/space-time-metric-engineering-43aaed2c081c](https://medium.com/predict/space-time-metric-engineering-43aaed2c081c)  
+   Link: <a href="https://medium.com/predict/space-time-metric-engineering-43aaed2c081c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/space-time-metric-engineering-43aaed2c081c</a>  
 
 15. <a id="endnote-15"></a>
    Source: silvarecord.com  
-   Link: [https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/](https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/)  
+   Link: <a href="https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/" target="_blank" rel="noopener noreferrer nofollow">https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>38th DIRD Title Surfaces With Letter Addressed To McCain...17 Jan 2019 — Hal Puthoff gave a detailed overview of why the DIRDs were writ...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bis-space.com  
-   Link: [https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/](https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/)  
+   Link: <a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>£5.00. H. Puthoff (2010), JBIS, 63, 82-89. Refcode: 2010.63.82. Keywords: Space...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: Tim Burchett officially entered a document into the record  
-   Link: [https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/](https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15nkioe/tim_burchett_officially_entered_a_document_into/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering... Hal Puthoff and Eric Davis have a very similar paper in whic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — the findings of AARO&#x27;s Historical Record Report Volume I, available on www.a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fascientists/posts/defense-intelligence-agency-funded-research-on-stargates-wormholes-and-warp-driv/10158098703737519/](https://www.facebook.com/fascientists/posts/defense-intelligence-agency-funded-research-on-stargates-wormholes-and-warp-driv/10158098703737519/)  
+   Link: <a href="https://www.facebook.com/fascientists/posts/defense-intelligence-agency-funded-research-on-stargates-wormholes-and-warp-driv/10158098703737519/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fascientists/posts/defense-intelligence-agency-funded-research-on-stargates-wormholes-and-warp-driv/10158098703737519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18, following a Freedom of Information Act request from Steven Aftergood, director of...</p></details>

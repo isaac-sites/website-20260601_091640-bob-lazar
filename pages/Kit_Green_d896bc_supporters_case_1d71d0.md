@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-kit-greens-uap-story/
 nav_short_title: Supporters
 title: Why Do Some Researchers Trust Green?
-title_full: Why Do Some Researchers Trust Green? | Green
+title_full: Why Do Some Researchers Trust Green?
 display_title_short: Supporters
 display_title: Supporters
 heading_title: Why Do Some Researchers Trust Green?
@@ -283,7 +283,7 @@ prev_link:
   permalink: /sceptics-078368/
   short_title: Sceptics
   heading_title: Where Does The Green Case Fall Short?
-date: '2026-06-09 03:00:10 '
+date: '2026-06-11 21:05:30 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0-overview.webp
@@ -294,10 +294,8 @@ image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0-overview-social.jp
 
 Some researchers take Christopher “Kit” Green seriously because his UAP-related work sits at an unusual intersection: a verifiable intelligence career, medical and neurophysiology expertise, and a documented role in government-linked anomalous-phenomena research. The strongest pro-Green argument is not that he has proved extraterrestrial technology, recovered bodies, or a hidden crash programme. It is narrower: supporters argue that Green had the kind of background needed to assess whether unusual witness-injury reports deserved serious forensic review rather than ridicule. His own publicly discussed UAP work is cautious in important respects, especially when he has said the injuries he assessed could be explained by known terrestrial mechanisms rather than non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBiographical Sketches of Committee Members</span><span class="citation-popover-snippet">NCBIBiographical Sketches of Committee Members</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-overview.webp" | relative_url }}" alt="Overview image for Supporters" loading="eager" decoding="sync" fetchpriority="high">
 That is why Green attracts attention in a different way from many UFO personalities. He does not mainly trade on public charisma, dramatic first-person sightings, or a simple disclosure narrative. The case for taking him seriously rests on professional fit: intelligence analysis, science-and-technology advisory experience, forensic medicine, brain imaging, toxicology and neurophysiology. The case against over-reading him is equally important: credentials make him a serious evaluator, not an automatic validator of the most extraordinary claims attached to the UAP subject.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6Wud0LzFQY" title="Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer">Spooky Hustlers: How wacky UFO activists and &quot;crazy&quot; ghost hunters duped Congress into hunting UFOs</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 99.4K &middot; Uploaded: December 2023 &middot; Length: 3 hours 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6Wud0LzFQY">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,6 @@ This does not prove that any particular UAP account is true. It does, however, m
 
 Green’s history with intelligence-sponsored fringe research also cuts both ways. Public [CIA records]({{ 'cia-record/' | relative_url }}) and later reviews confirm that the US government did fund remote-viewing research, and secondary accounts place Green in the early Stanford Research Institute remote-viewing network with figures such as Hal Puthoff and Russell Targ. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span> Supporters see this as evidence that Green was trusted to monitor unconventional claims for government customers. [Sceptics]({{ 'sceptics-078368/' | relative_url }}) see the same association as a warning: official interest in a topic does not make the topic scientifically sound. The fair reading is that Green’s background shows unusual access and experience, not automatic correctness.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-1-dark.svg" | relative_url }}" alt="Supporters illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why medical expertise matters to injury claims
 
@@ -319,10 +316,9 @@ The clearest reason supporters cite Green is his work on alleged health effects 
 
 That distinction is central to the pro-Green case. Supporters are not strongest when they argue that Green’s paper proves exotic craft. They are strongest when they argue that it treats a neglected class of claims in a medically structured way. Instead of asking only “Was the object real?”, the paper asks a more forensic question: are there clustered physical effects, time patterns and exposure scenarios that deserve systematic analysis? It also explicitly places the question in a future aerospace-weapons context, including possible human exposure to strong or unconventional fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-The document’s official trail also matters. The DIA’s list of Defense Intelligence Reference Documents included “Field Effects on Biological Tissues” by Dr [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) of Wayne State University, and the released version of the related paper is now publicly accessible through the DIA reading room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documentsdia-aatip-reports.pdf</span><span class="citation-popover-snippet">The Black Vault Documentsdia-aatip-reports.pdf</span></span></span> For supporters, this moves Green’s role beyond hearsay: there is a real government-linked paper, on a real list of programme products, written in the language of biomedical risk rather than tabloid UFO speculation.
+The document’s official trail also matters. The DIA’s list of Defense Intelligence Reference Documents included “Field Effects on Biological Tissues” by Dr Kit Green of Wayne State University, and the released version of the related paper is now publicly accessible through the DIA reading room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documentsdia-aatip-reports.pdf</span><span class="citation-popover-snippet">The Black Vault Documentsdia-aatip-reports.pdf</span></span></span> For supporters, this moves Green’s role beyond hearsay: there is a real government-linked paper, on a real list of programme products, written in the language of biomedical risk rather than tabloid UFO speculation.
 
 At the same time, the paper is not the evidential endpoint that some enthusiasts imply. In an interview reported by Popular Mechanics, Green said the work focused on forensic assessment of injuries that could have resulted from claimed UAP encounters, but he also cautioned that it did not provide evidence for extraterrestrial or non-human technologies and that the injuries he assessed could be accounted for by known terrestrial means. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">government secret ufo program investigation</span></span></span> That caveat does not destroy the supporter case; it refines it. The credible pro-Green argument is that he took reported injuries seriously enough to analyse them, not that he publicly established their exotic cause.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gvtzivRF6ZQ" title="&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer">&#x27;America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren’t human&#x27;</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 44.7K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gvtzivRF6ZQ">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +334,6 @@ Third, Green has shown public caution in ways that make him more credible to mod
 
 Fourth, Green’s work anticipated a live policy question. Later official UAP reporting has included concern about flight safety and potential health implications, even while stating that no UAP encounters had been confirmed to directly cause adverse health effects. The 2022 ODNI report said no encounters had been confirmed to contribute directly to adverse health-related effects, while noting that AARO would track reported health implications should they emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> That does not vindicate Green’s injury cases, but it does show that “health effects” is no longer only a fringe conversation; it has become part of the formal reporting framework.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-2-dark.svg" | relative_url }}" alt="Supporters illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What supporters can fairly claim — and what they cannot
 
@@ -350,7 +345,6 @@ What supporters cannot fairly claim, based on the public evidence, is that Green
 
 That does not mean supporters must dismiss Green. It means the serious pro-Green position has to stay disciplined. Green is strongest as a medically qualified investigator of unusual injury claims and as a historically important intelligence-linked participant in anomalous-phenomena research. He is weakest when others use his name as a shortcut to claims he has not publicly proved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EEMJoZvN-dQ" title="The CIA’s UAP &amp; Alien Research! ‘Their Brains Looked Fried’ | Stanford’s Garry Nolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EEMJoZvN-dQ" target="_blank" rel="noopener noreferrer">The CIA’s UAP &amp; Alien Research! ‘Their Brains Looked Fried’ | Stanford’s Garry Nolan</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 810.2K &middot; Uploaded: January 2026 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EEMJoZvN-dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EEMJoZvN-dQ">Open on YouTube</a></p></div></div></div>
 
 ## A balanced credibility assessment
@@ -360,7 +354,6 @@ The best reason to take Green seriously is not that he offers a simple answer to
 For a mainstream reader, the practical takeaway is this: Green’s credibility is strongest where his expertise is closest to the evidence. His medical and forensic background makes him relevant to alleged injury patterns, exposure mechanisms and the question of whether witnesses deserve structured clinical review. His intelligence background makes it plausible that he had access to unusual networks and sensitive conversations. Neither point proves the origin of UAP cases.
 
 Supporters therefore have a real but limited case. They can say Green had the qualifications, access and caution needed to make his UAP-related medical work worth examining. They should not say that his credentials alone settle the larger UFO debate. The most defensible pro-Green view is not belief without reservation, but refusal to dismiss him without reading the medical, institutional and historical record carefully.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-3-dark.svg" | relative_url }}" alt="Supporters illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_supporters_case_1d71d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -481,15 +474,15 @@ Supporters therefore have a real but limited case. They can say Green had the qu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +490,15 @@ Supporters therefore have a real but limited case. They can say Green had the qu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +506,15 @@ Supporters therefore have a real but limited case. They can say Green had the qu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +522,15 @@ Supporters therefore have a real but limited case. They can say Green had the qu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +538,7 @@ Supporters therefore have a real but limited case. They can say Green had the qu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="supporters-c7fa00-why-do-some-researchers-trust-green-kit-green-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-some-researchers-trust-green-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-do-some-researchers-trust-green-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,210 +754,210 @@ Supporters therefore have a real but limited case. They can say Green had the qu
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp83m00914r003000050017-0](https://www.cia.gov/readingroom/document/cia-rdp83m00914r003000050017-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp83m00914r003000050017-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp83m00914r003000050017-0</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
    Title: (EST PUB DATE) THE DCIS G[16184363]  
-   Link: [https://www.cia.gov/readingroom/docs/%28EST%20PUB%20DATE%29%20THE%20DCIS%20G%5B16184363%5D.pdf](https://www.cia.gov/readingroom/docs/%28EST%20PUB%20DATE%29%20THE%20DCIS%20G%5B16184363%5D.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/%28EST%20PUB%20DATE%29%20THE%20DCIS%20G%5B16184363%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/%28EST%20PUB%20DATE%29%20THE%20DCIS%20G%5B16184363%5D.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100240001-2.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100240001-2.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100240001-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100240001-2.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5](https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4](https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4</a>  
 
 13. <a id="endnote-13"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 19. <a id="endnote-19"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: government secret ufo program investigation  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 21. <a id="endnote-21"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573](https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
 
 22. <a id="endnote-22"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documentsdia-aatip-reports.pdf  
-   Link: [https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf](https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf](https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: documents2.theblackvault.com  
    Title: Tic Tac Full Report1  
-   Link: [https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf](https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 04 Pages 901 1200  
-   Link: [https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2004%20-%20Pages%20901-1200.pdf](https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2004%20-%20Pages%20901-1200.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2004%20-%20Pages%20901-1200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2004%20-%20Pages%20901-1200.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf](https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/19-F-1420.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-182-1.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2033-1.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: theblackvault.com  
    Title: the advanced aviation threat identification program aatip dird report research  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 33. <a id="endnote-33"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2019-1.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf](https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/nasa/21-HQ-603-5-fixed.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)An  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 37. <a id="endnote-37"></a>
    Source: defensescoop.com  
-   Link: [https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/](https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/)  
+   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gvtzivRF6ZQ](https://www.youtube.com/watch?v=gvtzivRF6ZQ)  
+   Link: <a href="https://www.youtube.com/watch?v=gvtzivRF6ZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gvtzivRF6ZQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Never seen UFO videos: Pentagon releases second set | FOX6 News Milwaukee...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a6Wud0LzFQY](https://www.youtube.com/watch?v=a6Wud0LzFQY)  
+   Link: <a href="https://www.youtube.com/watch?v=a6Wud0LzFQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6Wud0LzFQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: [https://www.youtube.com/watch?v=BSItX-WvGQ8](https://www.youtube.com/watch?v=BSItX-WvGQ8)  
+   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren&#x27;t human...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 42. <a id="endnote-42"></a>
    Source: nro.gov  
-   Link: [https://www.nro.gov/Portals/65/documents/history/csnr/leaders/Leaders_of_NRO_Vol_I_July_2019_web.pdf?timestamp=1568815046728&ver=2019-09-18-094920-410](https://www.nro.gov/Portals/65/documents/history/csnr/leaders/Leaders_of_NRO_Vol_I_July_2019_web.pdf?timestamp=1568815046728&ver=2019-09-18-094920-410)  
+   Link: <a href="https://www.nro.gov/Portals/65/documents/history/csnr/leaders/Leaders_of_NRO_Vol_I_July_2019_web.pdf?timestamp=1568815046728&amp;ver=2019-09-18-094920-410" target="_blank" rel="noopener noreferrer nofollow">https://www.nro.gov/Portals/65/documents/history/csnr/leaders/Leaders_of_NRO_Vol_I_July_2019_web.pdf?timestamp=1568815046728&amp;ver=2019-09-18-094920-410</a>  
 
 43. <a id="endnote-43"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm](https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/paradigmresearchgroup/posts/clinical-medical-acute-subacute-field-effects-on-human-dermal-neurological-tissu/608952727936574/](https://www.facebook.com/paradigmresearchgroup/posts/clinical-medical-acute-subacute-field-effects-on-human-dermal-neurological-tissu/608952727936574/)  
+   Link: <a href="https://www.facebook.com/paradigmresearchgroup/posts/clinical-medical-acute-subacute-field-effects-on-human-dermal-neurological-tissu/608952727936574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paradigmresearchgroup/posts/clinical-medical-acute-subacute-field-effects-on-human-dermal-neurological-tissu/608952727936574/</a>  
 
 45. <a id="endnote-45"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force](https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force)  
+   Link: <a href="https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44615051/The_Pentagons_UAP_Task_Force</a>  
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports](https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports)  
+   Link: <a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>

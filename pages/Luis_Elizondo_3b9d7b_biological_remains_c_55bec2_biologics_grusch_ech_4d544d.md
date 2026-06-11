@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /biological-claims/
 nav_short_title: Grusch echo
 title: When biologics claims depend on hidden evidence
-title_full: When biologics claims depend on hidden evidence | Biological Claims
+title_full: When biologics claims depend on hidden evidence
 display_title_short: Grusch echo
 display_title: Grusch echo
 heading_title: When biologics claims depend on hidden evidence
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the Biological Claims Need Caution | Elizondo
+parent_title: Why the Biological Claims Need Caution
 parent_permalink: /biological-claims/
 parent_nav_short_title: Biological Claims
 parent_heading_title: Why the Biological Claims Need Caution
@@ -247,7 +247,7 @@ next_link:
   permalink: /roswell-claim/
   short_title: Roswell claim
   heading_title: Why Roswell makes the bodies claim harder
-date: '2026-06-09 02:54:22 '
+date: '2026-06-11 21:02:27 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics
 
 ## Introduction
 
-[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s comments about alleged non-human biological material increasingly resemble a pattern that became familiar after David Grusch’s 2023 congressional testimony: dramatic claims are presented as credible because of the claimant’s access, clearance history, or insider status, while the underlying evidence remains classified, inaccessible, or second-hand. That does not automatically make the claims false. It does, however, leave the public in a difficult position. The central question becomes less “Are there [biological remains]({{ 'biological-claims/' | relative_url }})?” and more “How much weight should be given to testimony that cannot be independently checked?”
-
+Luis Elizondo’s comments about alleged non-human biological material increasingly resemble a pattern that became familiar after David Grusch’s 2023 congressional testimony: dramatic claims are presented as credible because of the claimant’s access, clearance history, or insider status, while the underlying evidence remains classified, inaccessible, or second-hand. That does not automatically make the claims false. It does, however, leave the public in a difficult position. The central question becomes less “Are there biological remains?” and more “How much weight should be given to testimony that cannot be independently checked?”
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-1-dark.svg" | relative_url }}" alt="Grusch echo illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This issue matters because biological remains are among the strongest possible UFO-related claims. A strange radar track, an unexplained video, or an unusual military encounter can remain unresolved without proving anything extraterrestrial. Biological material is different. If genuine non-human remains existed and could be examined openly, they would potentially transform the debate. Yet both Elizondo’s public comments and Grusch’s most widely discussed assertions ultimately depend on evidence the public has not seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Non-human biologics&#x27; found on crashed craftThe government is in possession of potentially non-human spacecraft based on your expe...</span></span></span>
@@ -272,7 +271,6 @@ Elizondo's more recent comments about “biological samples” operate in a simi
 
 In both cases, the argument follows a recognisable pattern:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * The claimant possesses or claims unusual government access.
@@ -286,15 +284,13 @@ That is different from presenting physical evidence for independent scrutiny.
 
 Supporters argue that this is exactly how genuine classified information would appear. If recovery programmes existed, they would almost certainly be compartmented, heavily restricted and unavailable for public examination. Critics respond that this logic is difficult to distinguish from any unsupported claim that invokes secrecy as the reason evidence cannot be shown.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M-qH3E7EC14" title="What a Pentagon Insider Discovered About UFOs with Lue Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M-qH3E7EC14" target="_blank" rel="noopener noreferrer">What a Pentagon Insider Discovered About UFOs with Lue Elizondo</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 373.5K &middot; Uploaded: October 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M-qH3E7EC14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M-qH3E7EC14">Open on YouTube</a></p></div></div></div>
 
 ## What first-hand and second-hand knowledge can prove
 
-A recurring problem in [UAP whistleblower]({{ 'whistleblowers/' | relative_url }}) debates is the tendency to blur first-hand and second-hand evidence.
+A recurring problem in UAP whistleblower debates is the tendency to blur first-hand and second-hand evidence.
 
 First-hand evidence would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +302,6 @@ First-hand evidence would include:
 </div>
 
 Second-hand evidence includes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,14 +332,12 @@ Sceptics often focus on this pattern. They argue that carefully chosen terminolo
 
 Either way, the [public debate]({{ 'public-debate/' | relative_url }}) frequently centres on implications rather than demonstrated evidence.
 
-
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-2-dark.svg" | relative_url }}" alt="Grusch echo illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why classified evidence leaves readers stuck
 
 The most difficult credibility issue is not whether Elizondo or Grusch appear sincere. It is that the core evidence remains inaccessible.
 
 If biological material exists, several questions would normally follow:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -368,14 +361,13 @@ Critics reach the opposite conclusion. They argue that claims about recovered no
 
 The result is a kind of evidential deadlock. Neither side can conclusively prove its position using publicly available material.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ZDZGLaWEak" title="UFO whistleblower makes claim on the existence of &#x27;non-human&#x27; biologics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ZDZGLaWEak" target="_blank" rel="noopener noreferrer">UFO whistleblower makes claim on the existence of &#x27;non-human&#x27; biologics</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 74.3K &middot; Uploaded: July 2023 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ZDZGLaWEak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ZDZGLaWEak">Open on YouTube</a></p></div></div></div>
 
 ## The Pentagon response and the problem of competing authority
 
 The Grusch-Elizondo pattern has collided directly with official government assessments.
 
-The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})) stated in its 2024 historical review that it found no evidence that the US government or private industry possessed extraterrestrial technology and no evidence of programmes hiding such material from Congress. The report also rejected claims that investigations had uncovered verified extraterrestrial craft or beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no evidence to suggest that the USAF had a policy intended...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
+The Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro-b41c4f/' | relative_url }})) stated in its 2024 historical review that it found no evidence that the US government or private industry possessed extraterrestrial technology and no evidence of programmes hiding such material from Congress. The report also rejected claims that investigations had uncovered verified extraterrestrial craft or beings. [U.S. Department of War+2U.S. Department of War]
 
 AARO further argued that many recovery-programme stories emerged from what it described as circular reporting, in which claims were repeated among communities that already believed them without producing verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostPentagon report finds no evidence of alien visits, hidden...8 Mar 2024 — Pentagon report finds no evidence of alien v...</span></span></span> [2U.S.] Department of War
 
@@ -383,19 +375,17 @@ Supporters of Elizondo and Grusch challenge these conclusions. Some argue that A
 
 For readers trying to assess credibility, this creates a contest between competing authorities rather than a contest between publicly available datasets. One side points to experienced insiders making extraordinary claims. The other points to official investigations reporting no corroborating evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rqJsbdLQJKg" title="US Congress UAP Hearing &quot;Exposing The Truth&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rqJsbdLQJKg" target="_blank" rel="noopener noreferrer">US Congress UAP Hearing &quot;Exposing The Truth&quot;</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 27.5K &middot; Uploaded: November 2024 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rqJsbdLQJKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rqJsbdLQJKg">Open on YouTube</a></p></div></div></div>
 
 ## What the Grusch echo means for Elizondo's credibility
 
 The most important takeaway is not that Elizondo and Grusch make identical claims. It is that they occupy the same evidential category.
 
-Both men have backgrounds that encourage audiences to take them seriously. Both describe alleged information networks involving [recovered technology]({{ 'proof-gap-eced37/' | relative_url }}) and biological material. Both suggest that significant evidence exists beyond public view. And both leave the public unable to independently examine the material that would settle the matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Non-human biologics&#x27; found on crashed craftThe government is in possession of potentially non-human spacecraft based on your expe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+Both men have backgrounds that encourage audiences to take them seriously. Both describe alleged information networks involving recovered technology and biological material. Both suggest that significant evidence exists beyond public view. And both leave the public unable to independently examine the material that would settle the matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Non-human biologics&#x27; found on crashed craftThe government is in possession of potentially non-human spacecraft based on your expe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 For credibility assessment, that places clear limits on what can reasonably be concluded.
 
 A cautious reader can acknowledge that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -407,13 +397,16 @@ A cautious reader can acknowledge that:
 
 At the same time, a cautious reader must also acknowledge that:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * The biologics claims remain largely second-hand in public form.
 * No publicly verified biological specimen has been produced.
 * Independent scientific confirmation is absent.
-* Official government reviews continue to dispute the existence of the alleged recovery programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
+* Official government reviews continue to dispute the existence of the alleged recovery programmes. [U.S. Department of War+2U.S. Department of War]
+
+</div>
 
 That is why the “Grusch echo” matters. It highlights a recurring feature of modern UAP whistleblower narratives: the decisive evidence is always described as existing somewhere beyond public reach. Until that changes, debates over biological remains are likely to remain arguments about trust, access and testimony rather than arguments settled by demonstrable physical proof.
-
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-3-dark.svg" | relative_url }}" alt="Grusch echo illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -429,16 +422,16 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
         </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+        <p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">Provides Elizondo&#x27;s own biologics-related claims and framing.</p>
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -446,16 +439,16 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Captured!: The Betty and Barney Hill UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-d5EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Captured!: The Betty and Barney Hill UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!: The Betty and Barney Hill UFO Experience">Captured!: The Betty and Barney Hill UFO Experience</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
         
-        <p class="fr-book-desc">Examines insider testimony, secrecy and hidden evidence claims.</p>
+        <p class="fr-book-desc">Today, 46 years after the UFO abduction of Betty and Barney Hill, more and more people are convinced that UFOs are real and their existen...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -463,16 +456,16 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
         </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+        <p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Helps readers separate testimony from verifiable evidence.</p>
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -480,16 +473,16 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L7etDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ufos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos">Ufos</a>
         </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        <p class="fr-book-author">By A. R. Roberts</p>
         
-        <p class="fr-book-desc">Explores belief, authority and hidden knowledge structures.</p>
+        <p class="fr-book-desc">UFOs: What Is the Government Really Covering Up? is not just another book about the 1947 Roswell crash. Ingeniously, Roberts takes a step...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -497,7 +490,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Captured!: The Betty and Barney Hill UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -510,7 +503,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -534,15 +527,15 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="https://i.ebayimg.com/images/g/w2YAAeSwjchpqcsg/s-l225.jpg" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +543,15 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/diIAAeSw0lVqCLJN/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +559,31 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift"><img src="https://i.ebayimg.com/images/g/VHUAAeSw7pFqCu4A/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/ob0AAOSwe2dhqm-Q/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,7 +591,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-biologics-claims-depend-on-hidden-evidence-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="when-biologics-claims-depend-on-hidden-evidence-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -797,141 +806,141 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9wHyoEOyT6Q](https://www.youtube.com/watch?v=9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/watch?v=9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wHyoEOyT6Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftThe government is in possession of potentially non-human spacecraft based on your expe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;...Former military intelligence officer-turned-whistleblower David Grusch told Ho...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no evidence to suggest that the USAF had a policy intended...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nofeMMRGuyI](https://www.youtube.com/watch?v=nofeMMRGuyI)  
+   Link: <a href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nofeMMRGuyI</a>  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/live/9wHyoEOyT6Q](https://www.youtube.com/live/9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/live/9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/live/9wHyoEOyT6Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; found on crashed craftDuring a congressional hearing on July 26, 2023, David Grusch a former combat officer and vet...</p></details>
    Published: July 26, 2023  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/onxkNszWcac](https://www.youtube.com/shorts/onxkNszWcac)  
+   Link: <a href="https://www.youtube.com/shorts/onxkNszWcac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/onxkNszWcac</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s! Before you think MBB is going off the deep end into...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
-   Link: [https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims](https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims)  
+   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — UFO whistleblower tells Congress the US government is hiding evidence o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO whistleblower makes claim on the existence of 'non-human' biologics  
-   Link: [https://www.youtube.com/watch?v=7ZDZGLaWEak](https://www.youtube.com/watch?v=7ZDZGLaWEak)  
+   Link: <a href="https://www.youtube.com/watch?v=7ZDZGLaWEak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ZDZGLaWEak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: US Congress UAP Hearing "Exposing The Truth"  
-   Link: [https://www.youtube.com/watch?v=rqJsbdLQJKg](https://www.youtube.com/watch?v=rqJsbdLQJKg)  
+   Link: <a href="https://www.youtube.com/watch?v=rqJsbdLQJKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rqJsbdLQJKg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Insider Discovered About UFOs with Lue Elizondo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: What a Pentagon Insider Discovered About UFOs with Lue Elizondo  
-   Link: [https://www.youtube.com/watch?v=M-qH3E7EC14](https://www.youtube.com/watch?v=M-qH3E7EC14)  
+   Link: <a href="https://www.youtube.com/watch?v=M-qH3E7EC14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M-qH3E7EC14</a>  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/](https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/)  
+   Link: <a href="https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostPentagon report finds no evidence of alien visits, hidden...8 Mar 2024 — Pentagon report finds no evidence of alien v...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/](https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Congress UFO hearings: whistleblower David Grusch...US Congress UFO hearings: whistleblower David Grusch says &#x27;non-human biologics&#x27; f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s files contain all available data related to each UAP case,” said Gough...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fox7austin.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: [https://www.fox7austin.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity](https://www.fox7austin.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)  
+   Link: <a href="https://www.fox7austin.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox7austin.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...Nov 16, 2024 — The Pentagon said Thursday it has not discovered any verifiable evide...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: UF O researcher and filmmaker Jon Stewart claims the U.S  
-   Link: [https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/](https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/)  
+   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/ufo-researcher-and-filmmaker-jon-stewart-claims-the-us-government-has-possessed-/1457549333084929/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“As I&#x27;ve stated publicly already in my NewsNation interview, biologics came with some of these recoveries, yeah.” Asked about whether the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1thrx8b/grusch_on_videos_to_be_declassified_some_of_those/](https://www.reddit.com/r/UFOs/comments/1thrx8b/grusch_on_videos_to_be_declassified_some_of_those/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1thrx8b/grusch_on_videos_to_be_declassified_some_of_those/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1thrx8b/grusch_on_videos_to_be_declassified_some_of_those/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>irwoman Luna right now is asking the Department of Defense to declassify...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: Robert Powell's takedown analysis of the AARO report  
-   Link: [https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/](https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>simplistic statement that &quot;we have found no evidence of extraterrestrial intelligence&quot; is made by someone who lacks a thorough...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newscientist/posts/despite-testimony-by-david-grusch-to-us-congress-about-non-human-biologics-and-u/676350667866887/](https://www.facebook.com/newscientist/posts/despite-testimony-by-david-grusch-to-us-congress-about-non-human-biologics-and-u/676350667866887/)  
+   Link: <a href="https://www.facebook.com/newscientist/posts/despite-testimony-by-david-grusch-to-us-congress-about-non-human-biologics-and-u/676350667866887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscientist/posts/despite-testimony-by-david-grusch-to-us-congress-about-non-human-biologics-and-u/676350667866887/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d UFO crash sites, there is still no evidence aliens have ever...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/technology/science/space/us-congress-hears-claims-of-secret-uap-crash-programs-descriptions-of-alien-craft/news-story/adafa5b8c00a4e63ff283746182c93de](https://www.news.com.au/technology/science/space/us-congress-hears-claims-of-secret-uap-crash-programs-descriptions-of-alien-craft/news-story/adafa5b8c00a4e63ff283746182c93de)  
+   Link: <a href="https://www.news.com.au/technology/science/space/us-congress-hears-claims-of-secret-uap-crash-programs-descriptions-of-alien-craft/news-story/adafa5b8c00a4e63ff283746182c93de" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/us-congress-hears-claims-of-secret-uap-crash-programs-descriptions-of-alien-craft/news-story/adafa5b8c00a4e63ff283746182c93de</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key witnesses included Dr. Tim Gallaudet, Luis Elizondo, Michael Gold, and journalist Michael Shellenberger. Despite expectations, new ev...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/](https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/)  
+   Link: <a href="https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ogics,” the hearing pushed UFOs from fringe speculation...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/](https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/)  
+   Link: <a href="https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/samharris/comments/15c7wu6/what_do_you_make_of_davids_gruschs_testimony_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h whistleblower Davis Grusch, as well as witnesses Ryan...Read more...</p></details>

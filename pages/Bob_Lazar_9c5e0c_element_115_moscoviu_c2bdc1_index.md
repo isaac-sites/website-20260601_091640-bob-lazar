@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-element-115-moscoviu/
 description: Focused pages that expand on Element 115.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1
-parent_title: Element 115 | Did Bob Lazar's Story Hold Up?
+parent_title: Element 115
 parent_nav_short_title: Element 115
 parent_permalink: /element-115/
 ---

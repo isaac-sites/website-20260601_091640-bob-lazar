@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-james-lacatski/
 nav_short_title: AAWSAP Scope
 title: Was AAWSAP Really A UFO Programme?
-title_full: Was AAWSAP Really A UFO Programme? | Lacatski
+title_full: Was AAWSAP Really A UFO Programme?
 display_title_short: AAWSAP Scope
 display_title: AAWSAP Scope
 heading_title: Was AAWSAP Really A UFO Programme?
@@ -289,7 +289,7 @@ next_link:
   permalink: /craft-claim/
   short_title: Craft Claim
   heading_title: Did The US Possess An Unknown Craft?
-date: '2026-06-09 02:56:16 '
+date: '2026-06-11 21:03:22 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview-social.
 
 ## Introduction
 
-AAWSAP is best understood as a programme with two faces. On paper, the Defense Intelligence Agency contract was framed as a study of future foreign aerospace threats: advanced lift, propulsion, materials, controls and related technologies out to 2050. In insider and later investigative accounts, however, the work was much wider, including UFO case collection, Skinwalker Ranch, alleged anomalous effects and proposals around recovered materials. That mismatch matters because [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s credibility partly rests on it: he was linked to a real government-funded programme, but the public record does not show that the programme’s most dramatic UFO interpretations were officially authorised, independently proven, or judged useful by later Pentagon reviewers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
-
+AAWSAP is best understood as a programme with two faces. On paper, the Defense Intelligence Agency contract was framed as a study of future foreign aerospace threats: advanced lift, propulsion, materials, controls and related technologies out to 2050. In insider and later investigative accounts, however, the work was much wider, including UFO case collection, Skinwalker Ranch, alleged anomalous effects and proposals around recovered materials. That mismatch matters because James Lacatski’s credibility partly rests on it: he was linked to a real government-funded programme, but the public record does not show that the programme’s most dramatic UFO interpretations were officially authorised, independently proven, or judged useful by later Pentagon reviewers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview.webp" | relative_url }}" alt="Overview image for AAWSAP Scope" loading="eager" decoding="sync" fetchpriority="high">
 The central question is not whether AAWSAP existed. It did. The sharper question is whether its aerospace wording was a neutral national-security frame for unconventional technology research, a bureaucratic cover for UFO work, or a mixture of both. The available evidence points to the third answer: the official contract language was conventional enough to sit inside defence procurement, while the contractor and programme insiders pursued a much broader anomaly agenda that the Pentagon’s current UAP office treats with caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
@@ -314,7 +313,6 @@ The [solicitation]({{ 'solicitation/' | relative_url }}) also required technical
 
 AARO’s 2024 historical report broadly preserves that official framing. It says the FY2008 and FY2010 appropriations provided $22 million for DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. It also states that AAWSAP’s primary purpose was to investigate potential next-generation aerospace technologies in specific areas such as lift, propulsion, unconventional materials and signature reduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP Scope illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UFO work appears in the gap between tasking and execution
 
@@ -325,7 +323,6 @@ AARO states plainly that UFO or UAP investigation was not specifically outlined 
 That is the core governance problem. The formal mandate was aerospace threat assessment; the operational work, at least in part, became UFO and anomaly investigation. AARO also says AAWSAP/AATIP investigated an alleged hotspot of UAP and paranormal activity at a Utah property then owned by the head of the private-sector organisation. The activities it lists go well beyond conventional aerospace engineering, including reports of shadow figures, creatures, remote viewing, human-consciousness anomalies and planned use of psychics to study alleged inter-dimensional phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
 This is where James Lacatski becomes central. In the public narrative, he is not merely an outside commentator on AAWSAP; he is presented as a key insider and programme figure associated with the work. AARO’s account does not name every person in the relevant passages, but it does say a DIA employee set up and managed the contract and that UFO research proceeded with the support of the DIA programme manager. That aligns with Lacatski’s public image as someone whose claims derive from direct programme involvement, rather than from second-hand internet lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LndTfQGXUU" title="Skinwalker Ranch - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer">Skinwalker Ranch - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 4.3M &middot; Uploaded: October 2022 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LndTfQGXUU">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +346,6 @@ Popular Mechanics reported a similar tension after examining BAASS-related mater
 
 That mixed picture is revealing. Some parts of the contractor ecosystem appear to have been deeply involved in UFO work; some technical contributors may have simply produced advanced aerospace studies without being read into the broader UFO context. This supports the idea of a layered programme: official aerospace deliverables on one level, anomaly investigation and UFO casework on another.
 
-
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP Scope illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AARO’s critique turns the mismatch into a credibility issue
 
@@ -360,7 +356,6 @@ For Lacatski’s credibility, this cuts both ways. On the supportive side, AARO 
 On the sceptical side, AARO portrays the UFO and paranormal work as a deviation from, or at least an expansion beyond, the formal contract. It also says the programme was terminated after its deliverables because of DIA and DoD concerns, while a related later effort, KONA BLUE, was not allowed to develop into a functioning programme. AARO’s KONA BLUE release says DIA terminated AAWSAP/AATIP because of a cited lack of merit and lack of utility in Bigelow-produced products for DIA’s mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
 This does not prove Lacatski was dishonest. It does mean that a reader should separate “Lacatski was attached to a real programme that examined UFO material” from “the programme officially validated Lacatski’s strongest conclusions”. The first claim is well supported. The second remains publicly unproven.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UckV2rmgcbA" title="A Secret Advanced Aviation Threat Identification Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer">A Secret Advanced Aviation Threat Identification Program</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 254.4K &middot; Uploaded: December 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UckV2rmgcbA">Open on YouTube</a></p></div></div></div>
 
@@ -373,7 +368,6 @@ That episode matters because it shows that insiders or supporters were not treat
 KONA BLUE repeats the same pattern after AAWSAP’s cancellation. AARO says several people involved with AAWSAP/AATIP tried to move a new version of the effort to the Department of Homeland Security, where it would investigate sensitive materials and technologies, including advanced aerospace vehicles. DHS initially established KONA BLUE as a prospective Special Access Programme based on claims that relevant information and material existed, but it was disapproved and terminated six months later because of concerns about justification and sufficiency of information. No material or data was transferred to DHS under KONA BLUE. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">History and Origin of KONA BLUE</span><span class="citation-popover-snippet">History and Origin of KONA BLUE</span></span></span>
 
 For a credibility assessment, this is one of the most important distinctions on the page. There were serious attempts to formalise and protect a UFO-related continuation of the work. But the available official record says those attempts did not produce a functioning recovered-material programme, and later reviewers found no transferred material.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP Scope illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the mismatch still matters for modern UAP debate
@@ -394,91 +388,47 @@ His weakest point is evidential: the public record does not provide open, indepe
 
 A fair assessment therefore lands between dismissal and belief. AAWSAP was not merely a mundane aircraft-study contract if judged by what insiders and AARO say was actually pursued. It also was not, on the public evidence available, a confirmed government validation of extraordinary UFO claims. It was a real, oddly framed, poorly transparent defence-intelligence effort in which official aerospace language and UFO-anomaly ambitions overlapped uneasily. That uneasy overlap is precisely why Lacatski remains such a significant and difficult figure in modern UAP credibility debates.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8xXGe6NaU4M" title="Researching the Paranormal with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer">Researching the Paranormal with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 42.0K &middot; Uploaded: January 2022 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8xXGe6NaU4M">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Was AAWSAP Really A UFO Programme?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Was AAWSAP Really A UFO Programme?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Places government UAP investigations into broader context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Provides another insider perspective on official UAP programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
-        <p class="fr-book-desc">Provides important background to themes later associated with AAWSAP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Directly presents the authors&#x27; account of AAWSAP and its scope.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -515,15 +465,15 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO"><img src="{{ '/assets/images/marketplace-covers/fc0f59ffafe53c3f0099.jpg' | relative_url }}" alt="Listing image for U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">U/ROCK BAND SPACE SHIP IRON OR SEW ON QUALITY EMBROIDERED PATCH UK SELLER/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +481,15 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +497,15 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +513,15 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +529,7 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="aawsap-scope-was-aawsap-really-a-ufo-programme-james-lacatski-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-really-a-ufo-programme-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="was-aawsap-really-a-ufo-programme-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -795,146 +745,146 @@ A fair assessment therefore lands between dismissal and belief. AAWSAP was not m
 1. <a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: SOW Aerospace  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf](https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 5. <a id="endnote-5"></a>
    Source: axios.com  
    Title: Inside the Pentagon's multi-million dollar program to explore UFOs  
-   Link: [https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795](https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795)  
+   Link: <a href="https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2017/12/16/inside-the-pentagons-multi-million-dollar-program-to-explore-ufos-1513445795</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/</a>  
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: DI Brief 2009  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/DI_Brief_2009.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: [https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf](https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: documents.theblackvault.com  
    Title: intellipedia ufos Sept2018  
-   Link: [https://documents.theblackvault.com/documents/intellipedia/intellipedia-ufos-Sept2018.pdf](https://documents.theblackvault.com/documents/intellipedia/intellipedia-ufos-Sept2018.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/intellipedia/intellipedia-ufos-Sept2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/intellipedia/intellipedia-ufos-Sept2018.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Archives of the Impossible conference | Flash Talk: Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=VD0ZVbtbnfI](https://www.youtube.com/watch?v=VD0ZVbtbnfI)  
+   Link: <a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch - The Full Story | Documentary...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=4LndTfQGXUU](https://www.youtube.com/watch?v=4LndTfQGXUU)  
+   Link: <a href="https://www.youtube.com/watch?v=4LndTfQGXUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LndTfQGXUU</a>  
 
 17. <a id="endnote-17"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 18. <a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Inside the Pentagon's Secret UFO Program  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 19. <a id="endnote-19"></a>
    Source: x.com  
-   Link: [https://x.com/grok/status/1920313655478136977](https://x.com/grok/status/1920313655478136977)  
+   Link: <a href="https://x.com/grok/status/1920313655478136977" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1920313655478136977</a>  
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: government report non man made ufos  
-   Link: [https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/](https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/)  
+   Link: <a href="https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/</a>  
 
 21. <a id="endnote-21"></a>
    Source: tothestars.media  
-   Link: [https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOooTbT5D09x2aIWHS67MBRwtNTRTkwElYl4xqkFTVqFxFlEM5nPk](https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOooTbT5D09x2aIWHS67MBRwtNTRTkwElYl4xqkFTVqFxFlEM5nPk)  
+   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOooTbT5D09x2aIWHS67MBRwtNTRTkwElYl4xqkFTVqFxFlEM5nPk" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOooTbT5D09x2aIWHS67MBRwtNTRTkwElYl4xqkFTVqFxFlEM5nPk</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
 
 23. <a id="endnote-23"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view](https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view)  
+   Link: <a href="https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/3e296242a761cf77a54ca4e4981c97c7/view</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: A Secret Advanced Aviation Threat Identification Program  
-   Link: [https://www.youtube.com/watch?v=UckV2rmgcbA](https://www.youtube.com/watch?v=UckV2rmgcbA)  
+   Link: <a href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UckV2rmgcbA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid and Aliens Over The Years | Mystery Wire...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Researching the Paranormal with Colm Kelleher  
-   Link: [https://www.youtube.com/watch?v=8xXGe6NaU4M](https://www.youtube.com/watch?v=8xXGe6NaU4M)  
+   Link: <a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A. Kelleher...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/](https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-former-navy-pilot-says-claims-that-the-government-is-withholding-information-a/3632150787008480/](https://www.facebook.com/NewsNationNow/posts/a-former-navy-pilot-says-claims-that-the-government-is-withholding-information-a/3632150787008480/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-former-navy-pilot-says-claims-that-the-government-is-withholding-information-a/3632150787008480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-former-navy-pilot-says-claims-that-the-government-is-withholding-information-a/3632150787008480/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/](https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/</a>

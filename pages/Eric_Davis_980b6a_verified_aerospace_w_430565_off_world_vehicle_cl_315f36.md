@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /verified-work/
 nav_short_title: Off world claim
 title: Why the off world vehicle claim remains unresolved
-title_full: Why the off world vehicle claim remains unresolved | Verified Work
+title_full: Why the off world vehicle claim remains unresolved
 display_title_short: Off world claim
 display_title: Off world claim
 heading_title: Why the off world vehicle claim remains unresolved
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Can Actually Be Verified? | Davis
+parent_title: What Can Actually Be Verified?
 parent_permalink: /verified-work/
 parent_nav_short_title: Verified Work
 parent_heading_title: What Can Actually Be Verified?
@@ -253,7 +253,7 @@ next_link:
   permalink: /propulsion-work/
   short_title: Propulsion work
   heading_title: Does speculative propulsion make UFO claims stronger?
-date: '2026-06-09 03:05:26 '
+date: '2026-06-11 21:07:34 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_ve
 
 ## Introduction
 
-The most famous claim associated with physicist and aerospace consultant [Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) is not one of his published propulsion papers. It is the allegation that he briefed government officials about recovered “off-world vehicles not made on this earth”. The phrase became one of the most widely repeated lines in modern UFO reporting after it appeared in major media coverage during 2020.
-
+The most famous claim associated with physicist and aerospace consultant Eric Davis is not one of his published propulsion papers. It is the allegation that he briefed government officials about recovered “off-world vehicles not made on this earth”. The phrase became one of the most widely repeated lines in modern UFO reporting after it appeared in major media coverage during 2020.
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1-dark.svg" | relative_url }}" alt="Off world claim illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The difficulty is that the claim sits in an unusual evidential position. It was reported by reputable journalists and attributed to a real individual with a documented defence-related research background. Yet the underlying evidence has never been made public. No vehicle, material sample, laboratory report, chain-of-custody documentation, programme record, or official confirmation has been released that would allow independent verification. As a result, the claim remains unresolved rather than proven or disproven. The central question is not whether Davis exists or worked on advanced aerospace topics; that part is well documented. The question is whether the extraordinary retrieval claims attributed to him are supported by evidence that outsiders can examine.
@@ -275,7 +274,6 @@ The controversy largely stems from reporting published in July 2020 during a per
 The wording immediately attracted attention because it appeared to move beyond reports of unexplained sightings. Instead of discussing unusual radar tracks or pilot encounters, the claim suggested physical possession of recovered craft or materials.
 
 Several important details were left unclear even in the original reporting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +295,6 @@ However, credibility of access is not the same thing as evidence of a conclusion
 
 The public record still lacks several forms of evidence that would normally be expected for a claim of recovered non-human technology:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/czNwSROec3Y" title="Eric Davis - Hyperspace for Space Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer">Eric Davis - Hyperspace for Space Travel</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion &middot; Views: 4.3K &middot; Uploaded: September 2012 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=czNwSROec3Y">Open on YouTube</a></p></div></div></div>
 
 ### No publicly released materials analysis
@@ -317,7 +314,6 @@ Public reporting around the alleged off-world materials does not provide that ch
 Neither the Pentagon nor another US government agency has publicly verified the existence of recovered extraterrestrial vehicles.
 
 Official acknowledgement that UAP reports exist is not the same as confirmation that recovered alien craft exist. That distinction has often been blurred in public discussion. The government has gradually acknowledged unidentified incidents, but it has not publicly authenticated Davis's off-world vehicle conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">pentagon ufo program materials vehicles</span><span class="citation-popover-snippet">Former Intel Officer Claims U.S. Has UFO Debris · Underwater UFO is a Threat, Says Ex-Navy Officer...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-2-dark.svg" | relative_url }}" alt="Off world claim illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics interpret the claim
@@ -340,9 +336,7 @@ That does not automatically disprove Davis's claims. AARO critics argue that inv
 
 The same reporting also described investigations into alleged exotic materials that ultimately appeared to have conventional explanations rather than extraterrestrial origins. While not every material claim connected to UFO discussions involved Davis directly, the broader pattern showed how dramatic claims about anomalous debris often became less extraordinary after closer examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateJune 22, 2025 — In 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims o...</span><span class="citation-popover-meta">Published: June 22, 2025</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0qOE3ge0jfM" title="Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer">Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal</a></p><p class="youtube-embed-meta">Channel: The Hannibal TVVerticalFormatChannel &middot; Views: 109 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0qOE3ge0jfM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-dark.svg" | relative_url }}" alt="Off world claim illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the claim differs from Davis's documented aerospace record
 
 One reason the off-world vehicle story remains controversial is that it sits on a different evidential foundation from Davis's established professional work.
@@ -352,10 +346,6 @@ His aerospace and propulsion activities can be traced through publications, inst
 The off-world vehicle allegation operates differently.
 
 The public is effectively asked to rely on four linked propositions:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -370,8 +360,8 @@ The first proposition has some support through Davis's documented involvement in
 
 That creates a sharp divide between two aspects of his reputation. His aerospace credentials are supported by a visible documentary record. The off-world vehicle claim depends primarily on reported briefings, personal assertions, classified contexts, and evidence that remains inaccessible to independent investigators.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0qOE3ge0jfM" title="Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer">Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal</a></p><p class="youtube-embed-meta">Channel: The Hannibal TVVerticalFormatChannel &middot; Views: 109 &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0qOE3ge0jfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0qOE3ge0jfM">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-dark.svg" | relative_url }}" alt="Off world claim illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the claim remains unresolved
 
 More than five years after the 2020 reporting, the core evidential situation has changed surprisingly little.
@@ -499,15 +489,15 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saturn V Rocket Model Kit â€“ Apollo NASA Space Rocket â€“ Detailed Display Model"><img src="{{ '/assets/images/marketplace-covers/3ddd0595e99c9cd4703b.jpg' | relative_url }}" alt="Listing image for Saturn V Rocket Model Kit â€“ Apollo NASA Space Rocket â€“ Detailed Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="https://i.ebayimg.com/images/g/yn0AAOSw~r1htoYO/s-l225.jpg" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Saturn V Rocket Model Kit â€“ Apollo NASA Space Rocket â€“ Detailed Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +505,15 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model ARTEMIS space Launch Rocket"><img src="{{ '/assets/images/marketplace-covers/ae54f25b805a8ddad23a.jpg' | relative_url }}" alt="Listing image for Model ARTEMIS space Launch Rocket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="https://i.ebayimg.com/images/g/Wo8AAOSwjsNmv2Mp/s-l225.jpg" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Model ARTEMIS space Launch Rocket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +521,15 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan II Rocket Model Kit â€“ Gemini NASA Space Rocket â€“ 1/40 scale Display Model"><img src="{{ '/assets/images/marketplace-covers/6e7da68a396dd6c92c7a.jpg' | relative_url }}" alt="Listing image for Titan II Rocket Model Kit â€“ Gemini NASA Space Rocket â€“ 1/40 scale Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer">Titan II Rocket Model Kit â€“ Gemini NASA Space Rocket â€“ 1/40 scale Display Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +537,15 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROTON UR500 Scale Model Rocket"><img src="{{ '/assets/images/marketplace-covers/ec8bb633ccd635c093d8.jpg' | relative_url }}" alt="Listing image for PROTON UR500 Scale Model Rocket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;"><img src="https://i.ebayimg.com/images/g/Y0gAAOSw0LlnzfYK/s-l225.jpg" alt="Listing image for UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer">PROTON UR500 Scale Model Rocket</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Force It Album Cover Art PICTURE / PRINT 12&quot; x 9&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rocket model">Search <span data-ebay-domain-label>eBay.co.uk</span>: rocket model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,7 +553,7 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="off-world-claim-179a09-why-the-off-world-vehicle-claim-remains-unresolved-eric-davis-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="why-the-off-world-vehicle-claim-remains-unresolved-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -779,127 +769,127 @@ For that reason, the off-world vehicle briefing remains a credibility test rathe
 1. <a id="endnote-1"></a>
    Source: gizmodo.com  
    Title: new york times casually drops another story about how a 1844491014  
-   Link: [https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014](https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014)  
+   Link: <a href="https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/new-york-times-casually-drops-another-story-about-how-a-1844491014</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators:... off-world vehicles not made on this earth.” Mr. Davis said he also...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/debunked-pentagon-has-evidence-of-off-world-vehicles-not-made-on-this-earth.11334/](https://www.metabunk.org/threads/debunked-pentagon-has-evidence-of-off-world-vehicles-not-made-on-this-earth.11334/)  
+   Link: <a href="https://www.metabunk.org/threads/debunked-pentagon-has-evidence-of-off-world-vehicles-not-made-on-this-earth.11334/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/debunked-pentagon-has-evidence-of-off-world-vehicles-not-made-on-this-earth.11334/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, who now works for Aerospace Corporation, a defense contractor, said he gave a classified briefing to a Defense Department agency a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: UFO/UAP Disclosure Update with Eric W. Davis  
-   Link: [https://www.youtube.com/watch?v=KtE4kJ79yjc](https://www.youtube.com/watch?v=KtE4kJ79yjc)  
+   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis - Hyperspace for Space Travel...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Eric Davis  
-   Link: [https://www.youtube.com/watch?v=czNwSROec3Y](https://www.youtube.com/watch?v=czNwSROec3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=czNwSROec3Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicist Dr. Eric Davis UFO Interview Reviewed by Hannibal...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: foxnews.com  
    Title: pentagon ufo unit spotlight vehicles earth  
-   Link: [https://www.foxnews.com/science/pentagon-ufo-unit-spotlight-vehicles-earth](https://www.foxnews.com/science/pentagon-ufo-unit-spotlight-vehicles-earth)  
+   Link: <a href="https://www.foxnews.com/science/pentagon-ufo-unit-spotlight-vehicles-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/pentagon-ufo-unit-spotlight-vehicles-earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>With Pentagon UFO unit in the spotlight, report mentions &#x27;...24 Jul 2020 — Davis, who now works for defense contractor Aerospace Corpora...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth](https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth)  
+   Link: <a href="https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/with-pentagon-ufo-unit-in-the-spotlight-report-mentions-off-world-vehicles-not-made-on-this-earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 13 Tampa BayWith Pentagon UFO unit in the spotlight, report mentions &#x27;...27 Jul 2020 — With Pentagon UFO unit in the spotlight, repo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo program materials vehicles  
-   Link: [https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/](https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a33413777/pentagon-ufo-program-materials-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Intel Officer Claims U.S. Has UFO Debris · Underwater UFO is a Threat, Says Ex-Navy Officer...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Again. Perhaps.... 2020, New York Times article titled “No Longer in Shadows, Pentagon&#x27;s U.F.O.... UFOs have not got the attention they...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?  
-   Link: [https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41](https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41)  
+   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Asked an Elite Defense Lab to InvestigateJune 22, 2025 — In 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims o...</p></details>
    Published: June 22, 2025  
 
 10. <a id="endnote-10"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/tv/eric](https://www.rottentomatoes.com/tv/eric)  
+   Link: <a href="https://www.rottentomatoes.com/tv/eric" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/eric</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 May 2024 — Puppeteer Vincent clings to his missing son&#x27;s drawings of a blue monster puppet named Eric, convinced that if he can get Eri...</p></details>
    Published: May 2024  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Eric](https://en.wikipedia.org/wiki/Eric)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eric" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EricEric is one of the most commonly used Germanic names in the United States, along with Robert, William, Edward and others.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: meet-eric.com  
-   Link: [https://www.meet-eric.com/](https://www.meet-eric.com/)  
+   Link: <a href="https://www.meet-eric.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.meet-eric.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC | Creative Career AppThe UK&#x27;s #1 career app for young people looking to upskill &amp; get experience in the creative industries. Thousan...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/](https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/)  
+   Link: <a href="https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/hx4jab/pentagon_has_offworld_vehicles_not_made_on_this/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Has &#x27;Off-World Vehicles Not Made on This EarthHowever I would like to point out that Eric Davis was and still is contracted by t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nymag.com  
    Title: ufo report pentagon has off world vehicles not from earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report: Pentagon Has &#x27;Off-World Vehicles&#x27; Not From...24 Jul 2020 — The latest UFO report from the &#x27;Times&#x27; says a defense contractor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: index.hr  
-   Link: [https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx](https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx)  
+   Link: <a href="https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.index.hr/world/clanak/pentagons-astrophysicist-we-found-remains-of-an-alien-aircraft/2201845.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he discovery of the remains of &quot;off-world vehicles not made on this earth&quot;.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: therooster.com  
    Title: Off-World Updates: What do UFO materials look like?  
-   Link: [https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/](https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/)  
+   Link: <a href="https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/" target="_blank" rel="noopener noreferrer nofollow">https://therooster.com/articles/off-world-updates-what-do-ufo-materials-not-of-this-earth-look-like-declassified-documents-and-photos-give-us-some-idea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Aug 2020 — Eric Davis made comments that our government had recently obtained “off-world vehicles, not of this Earth.” That was a stra...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nypost.com  
    Title: pentagon ufo unit to publicly release some findings  
-   Link: [https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/](https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/)  
+   Link: <a href="https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2020/07/23/pentagon-ufo-unit-to-publicly-release-some-findings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2020 — Davis also said he gave a classified briefing to a Defense Department agency this March during which he elaborated on “off...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gvwire.com  
    Title: GV Wire'Not Made of This Earth': Pentagon's U.F.O  
-   Link: [https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/](https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/)  
+   Link: <a href="https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/" target="_blank" rel="noopener noreferrer nofollow">https://gvwire.com/2020/07/23/not-made-of-this-earth-pentagons-u-f-o-unit-directed-to-make-some-findings-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit Directed...23 Jul 2020 — And Eric W. Davis, an astrophysicist who worked as a subcontractor and then a consultant for the Pentagon...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramOn July 23, 2020, The New York Times reported that while former Senator Harry...</p></details>
    Published: July 23, 2020  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Amin.Y.Salih/posts/%D9%84%D8%A7-%D9%83%D8%AF%D8%A7-%D9%83%D8%AA%D9%8A%D9%8A%D9%8A%D9%8A%D8%B1-%D9%8A%D8%A7-2020the-pentagon-has-reportedly-found-off-world-vehicles-not-m/1572347756259594/](https://www.facebook.com/Amin.Y.Salih/posts/%D9%84%D8%A7-%D9%83%D8%AF%D8%A7-%D9%83%D8%AA%D9%8A%D9%8A%D9%8A%D9%8A%D8%B1-%D9%8A%D8%A7-2020the-pentagon-has-reportedly-found-off-world-vehicles-not-m/1572347756259594/)  
+   Link: <a href="https://www.facebook.com/Amin.Y.Salih/posts/%D9%84%D8%A7-%D9%83%D8%AF%D8%A7-%D9%83%D8%AA%D9%8A%D9%8A%D9%8A%D9%8A%D8%B1-%D9%8A%D8%A7-2020the-pentagon-has-reportedly-found-off-world-vehicles-not-m/1572347756259594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Amin.Y.Salih/posts/%D9%84%D8%A7-%D9%83%D8%AF%D8%A7-%D9%83%D8%AA%D9%8A%D9%8A%D9%8A%D9%8A%D8%B1-%D9%8A%D8%A7-2020the-pentagon-has-reportedly-found-off-world-vehicles-not-m/1572347756259594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e on This Earth&#x27; | National Review.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: what happened to the off world vehicles not made  
-   Link: [https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/](https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v759zn/what_happened_to_the_off_world_vehicles_not_made/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>i mean wtf? this was reported so long ago and still i cant find a damn thing besides the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: [https://www.youtube.com/watch?v=xnxasfyHtfo](https://www.youtube.com/watch?v=xnxasfyHtfo)  
+   Link: <a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnxasfyHtfo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post...</p></details>

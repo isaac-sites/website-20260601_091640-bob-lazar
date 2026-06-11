@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-eric-davis/
 nav_short_title: Source Type
 title: Was Davis A Witness Or A Messenger?
-title_full: Was Davis A Witness Or A Messenger? | Davis
+title_full: Was Davis A Witness Or A Messenger?
 display_title_short: Source Type
 display_title: Source Type
 heading_title: Was Davis A Witness Or A Messenger?
@@ -289,7 +289,7 @@ next_link:
   permalink: /verified-work/
   short_title: Verified Work
   heading_title: What Can Actually Be Verified?
-date: '2026-06-09 03:03:17 '
+date: '2026-06-11 21:06:58 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview-soc
 
 ## Introduction
 
-[Eric Davis]({{ 'how-credible-is-eric-davis/' | relative_url }}) is best understood less as a first-hand UFO witness and more as a technically informed messenger, investigator and claimant within a classified-access culture. His strongest documented access is to advanced aerospace and defence-adjacent research circles, including Defense Intelligence Agency work on speculative propulsion concepts. His weakest evidential point is that the most dramatic UAP claims associated with him — crash retrievals, “off-world vehicles”, hidden reverse-engineering programmes and the Wilson-Davis memo — mostly depend on reported conversations, briefings, leaked notes, unnamed sources, or claims said to be classified. That distinction matters because Davis’s professional proximity is real, but proximity does not automatically establish that he personally saw non-human craft, handled alien material, or worked inside a proven recovery programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">ufo report pentagon has off world vehicles not from earth</span><span class="citation-popover-snippet">ufo report pentagon has off world vehicles not from earth</span></span></span>
-
+Eric Davis is best understood less as a first-hand UFO witness and more as a technically informed messenger, investigator and claimant within a classified-access culture. His strongest documented access is to advanced aerospace and defence-adjacent research circles, including Defense Intelligence Agency work on speculative propulsion concepts. His weakest evidential point is that the most dramatic UAP claims associated with him — crash retrievals, “off-world vehicles”, hidden reverse-engineering programmes and the Wilson-Davis memo — mostly depend on reported conversations, briefings, leaked notes, unnamed sources, or claims said to be classified. That distinction matters because Davis’s professional proximity is real, but proximity does not automatically establish that he personally saw non-human craft, handled alien material, or worked inside a proven recovery programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">ufo report pentagon has off world vehicles not from earth</span><span class="citation-popover-snippet">ufo report pentagon has off world vehicles not from earth</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview.webp" | relative_url }}" alt="Overview image for Source Type" loading="eager" decoding="sync" fetchpriority="high">
 The credibility question is therefore not simply “Is Eric Davis qualified?” He appears to be much more technically and institutionally connected than most public UFO personalities. The sharper question is: when Davis speaks about UAP retrievals or hidden programmes, is he reporting something he personally observed, something he was officially briefed into, something he inferred from programme access, or something he was told by others? The answer varies by claim, and that variation is the core of any fair assessment.
@@ -312,7 +311,6 @@ This kind of access is significant, but it has a narrower meaning than many UAP 
 
 That distinction is important because Davis’s public UAP reputation often blends two different forms of authority. One is verifiable: he was a physicist and consultant in circles that produced advanced-technology studies. The other is much harder to verify: he is reported to have knowledge of crash-retrieval or reverse-engineering claims. Readers should not treat the first as automatic proof of the second. A person can be a real defence contractor, a real physicist and a sincere source while still relying on second-hand or incomplete information for the most extraordinary claims.
 
-
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-1-dark.svg" | relative_url }}" alt="Source Type illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “off-world vehicles” claim sits between briefing and evidence
 
@@ -324,12 +322,11 @@ This is where “classified-by-assertion” becomes a credibility trap. A claim 
 
 Sceptics have focused on precisely this gap. The *Skeptical Inquirer* response to the 2020 reporting argued that the “off-world vehicles” claim was hard to square with the absence of public evidence and with Harry Reid’s more cautious language about reports that materials might exist. The sceptical objection is not that Davis had no relevant access; it is that the public claim is too strong for the evidence visible outside classified channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFOs Come Out of the Shadows. Again. Perhaps</span><span class="citation-popover-snippet">Skeptical Inquirer UFOs Come Out of the Shadows. Again. Perhaps</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pY1XHQBqIY8" title="FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer">FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure &middot; Views: 163.0K &middot; Uploaded: July 2020 &middot; Length: 5 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pY1XHQBqIY8">Open on YouTube</a></p></div></div></div>
 
 ## The Wilson-Davis memo is a messenger problem in document form
 
-The Wilson-Davis memo is the clearest example of why first-hand and second-hand categories matter. The document, hosted by DocumentCloud, presents itself as notes of an October 2002 meeting between Eric Davis and Admiral Thomas Wilson. On its face, it is not a photograph of a craft, a chain-of-custody record, a programme contract, or a lab report. It is an alleged record of a conversation in which one person recounts what he was told, who he contacted, and how he was allegedly denied access to a hidden programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Eric Davis meeting with Adm. Wilson | Document Cloud</span><span class="citation-popover-snippet">Document Cloud Eric Davis meeting with Adm. Wilson | Document Cloud</span></span></span>
+The Wilson-Davis memo is the clearest example of why first-hand and second-hand categories matter. The document, hosted by DocumentCloud, presents itself as notes of an October 2002 meeting between Eric Davis and Admiral Thomas Wilson. On its face, it is not a photograph of a craft, a chain-of-custody record, a programme contract, or a lab report. It is an alleged record of a conversation in which one person recounts what he was told, who he contacted, and how he was allegedly denied access to a hidden programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Eric Davis meeting with Adm. Wilson &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Eric Davis meeting with Adm. Wilson &#124; Document Cloud</span></span></span>
 
 Even if one assumes the memo is authentically Davis’s notes, the evidential structure remains layered. Davis would be first-hand only to the alleged meeting and to the act of taking notes. Wilson, if the conversation occurred as described, would be the claimed first-hand source for his own 1997 inquiries. The underlying reverse-engineering programme would still be another step removed, because the memo’s narrative describes Wilson being blocked from access rather than working inside the alleged programme. In other words, the memo is not a first-hand account of recovered non-human technology; it is an alleged first-hand account of a second-hand access dispute.
 
@@ -338,7 +335,6 @@ The document itself contains this layered quality. Its early pages describe Davi
 The memo’s defenders argue that its detail, names, bureaucratic texture and later resonance with UAP whistleblower themes make it difficult to dismiss. But its critics point to the same details as a vulnerability: the more precise the claims, the more they require corroboration. Wilson has reportedly denied the central meeting and described the memo as fiction; The Black Vault quotes him saying he would not know Davis and did not sit with him in a car in Las Vegas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The “Admiral Wilson Leak” – “Core Secrets” Document</span><span class="citation-popover-snippet">The Black Vault The “Admiral Wilson Leak” – “Core Secrets” Document</span></span></span>
 
 The fairest reading is that the memo is important as a disputed source document in UAP culture, not as settled proof. It may preserve a real conversation, a distorted conversation, a mistaken reconstruction, or something less reliable. Its value for assessing Davis is that it shows how his role often appears: not as a person publicly producing physical evidence, but as a collector, interviewer and interpreter of claims moving through elite but informal channels.
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-2-dark.svg" | relative_url }}" alt="Source Type illustration 2" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## “Classified” can explain missing evidence, but it cannot replace evidence
@@ -351,7 +347,6 @@ AARO’s 2024 historical report directly addresses this problem. It says it foun
 
 That does not automatically settle every Davis-related claim, because AARO’s report anonymises some people and is itself contested by disclosure advocates. But it is directly relevant to the first-hand-versus-second-hand question. It offers an official counter-model: modern crash-retrieval claims may have circulated among a small network of people with genuine government or contractor connections, but without direct access to the alleged programmes they were describing. AARO also says KONA BLUE, a proposed Department of Homeland Security special access programme associated with protecting alleged non-human biologics and exploitation, was never approved, formally established, funded, or supplied with materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F5P04uI2hu0" title="The Ultimate Breakdown of the Admiral Wilson Leaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F5P04uI2hu0" target="_blank" rel="noopener noreferrer">The Ultimate Breakdown of the Admiral Wilson Leaks</a></p><p class="youtube-embed-meta">Channel: Project Unity &middot; Views: 38.7K &middot; Uploaded: May 2020 &middot; Length: 3 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F5P04uI2hu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F5P04uI2hu0">Open on YouTube</a></p></div></div></div>
 
 ## How hearsay changes the credibility calculation
@@ -362,13 +357,12 @@ A practical credibility ladder for Davis-related claims looks like this:
 
 * **Documented technical work:** strongest. His authorship or involvement in released advanced aerospace papers can be checked against public documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 * **Reported classified briefings:** meaningful but incomplete. They show that Davis’s claims reached serious audiences, but the public cannot inspect the evidence base behind them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">ufo report pentagon has off world vehicles not from earth</span><span class="citation-popover-snippet">ufo report pentagon has off world vehicles not from earth</span></span></span>
-* **Leaked interview notes:** potentially important but disputed. The Wilson-Davis memo may reflect real insider conversations, but its chain of custody, accuracy and central denial problems prevent it from being treated as established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Eric Davis meeting with Adm. Wilson | Document Cloud</span><span class="citation-popover-snippet">Document Cloud Eric Davis meeting with Adm. Wilson | Document Cloud</span></span></span>
+* **Leaked interview notes:** potentially important but disputed. The Wilson-Davis memo may reflect real insider conversations, but its chain of custody, accuracy and central denial problems prevent it from being treated as established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Eric Davis meeting with Adm. Wilson &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Eric Davis meeting with Adm. Wilson &#124; Document Cloud</span></span></span>
 * **Claims about recovered craft or alien technology:** weakest in public evidential terms unless backed by verifiable material, named records, official confirmation, or reproducible analysis. AARO’s public position is that it found no empirical evidence for such reverse-engineering claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-2 "Endnote 2")
 
 The key shift is that each step down the ladder adds distance from direct observation. A direct witness might be wrong about what they saw, but at least the claim begins with an observation. A messenger may be faithfully reporting what sources told him, but the reader must also assess the sources, their access, their motives, their memories, and whether separate witnesses are truly independent. If several people repeat the same story because they heard it from each other, the number of voices increases without increasing the number of original observations.
 
 NASA’s 2023 UAP study made a related point in scientific language: eyewitness reports can be compelling, but on their own they are not reproducible and usually lack the information needed for definitive conclusions. The report called for calibrated sensors, metadata, structured reporting and better data curation. That standard does not dismiss witnesses; it explains why witness and messenger claims need corroborating data before they can support extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-3-dark.svg" | relative_url }}" alt="Source Type illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Davis’s role is still consequential, but not in the way supporters sometimes imply
@@ -387,9 +381,7 @@ That is why later official reviews are so important. AARO says it located and in
 
 The current fair assessment is therefore restrained. Davis has credible first-hand access to parts of the defence-linked advanced aerospace world. He has been publicly associated with serious UAP claims that reached government audiences. But for the most consequential allegations, the public record still places him mainly in the role of messenger, interviewer or briefer rather than confirmed first-hand witness to recovered non-human technology. That makes him worth taking seriously, but not enough to turn second-hand reporting into settled fact.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IJOlQ9SZlNU" title="The UFO in China, Xiaoshan district of Hangzhoufo, July 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IJOlQ9SZlNU" target="_blank" rel="noopener noreferrer">The UFO in China, Xiaoshan district of Hangzhoufo, July 2010</a></p><p class="youtube-embed-meta">Channel: CanBDifrent &middot; Views: 10.7K &middot; Uploaded: January 2020 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IJOlQ9SZlNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IJOlQ9SZlNU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -508,15 +500,15 @@ The current fair assessment is therefore restrained. Davis has credible first-ha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +516,15 @@ The current fair assessment is therefore restrained. Davis has credible first-ha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +532,31 @@ The current fair assessment is therefore restrained. Davis has credible first-ha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +564,7 @@ The current fair assessment is therefore restrained. Davis has credible first-ha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="was-davis-a-witness-or-a-messenger-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-davis-a-witness-or-a-messenger-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-davis-a-witness-or-a-messenger-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,148 +779,148 @@ The current fair assessment is therefore restrained. Davis has credible first-ha
 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 3. <a id="endnote-3"></a>
    Source: documentcloud.org  
    Title: Document Cloud Eric Davis meeting with Adm. Wilson | Document Cloud  
-   Link: [https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/](https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/)  
+   Link: <a href="https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson/</a>  
 
 4. <a id="endnote-4"></a>
    Source: s3.documentcloud.org  
    Title: Eric Davis meeting with Adm Wilson  
-   Link: [https://s3.documentcloud.org/documents/6185702/Eric-Davis-meeting-with-Adm-Wilson.pdf](https://s3.documentcloud.org/documents/6185702/Eric-Davis-meeting-with-Adm-Wilson.pdf)  
+   Link: <a href="https://s3.documentcloud.org/documents/6185702/Eric-Davis-meeting-with-Adm-Wilson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.documentcloud.org/documents/6185702/Eric-Davis-meeting-with-Adm-Wilson.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: earthtech.org  
    Title: Earth Tech Publications  
-   Link: [https://earthtech.org/pubs/](https://earthtech.org/pubs/)  
+   Link: <a href="https://earthtech.org/pubs/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/20074164-wilson-davis-document/](https://www.documentcloud.org/documents/20074164-wilson-davis-document/)  
+   Link: <a href="https://www.documentcloud.org/documents/20074164-wilson-davis-document/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20074164-wilson-davis-document/</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthtech.org  
-   Link: [https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf](https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf)  
+   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nymag.com  
    Title: ufo report pentagon has off world vehicles not from earth  
-   Link: [https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html](https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html)  
+   Link: <a href="https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2020/07/ufo-report-pentagon-has-off-world-vehicles-not-from-earth.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFOs Come Out of the Shadows. Again. Perhaps  
-   Link: [https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/](https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/ufos-come-out-of-the-shadows-again-perhaps/</a>  
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: The Black Vault The “Admiral Wilson Leak” – “Core Secrets” Document  
-   Link: [https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/](https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-admiral-wilson-leak-an-analysis/</a>  
 
 15. <a id="endnote-15"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 13 DIRD [Warp Drive](&#123;&#123; 'warp-drive-bc4c41/' | relative_url &#125;&#125;) Dark energy and the Manipulation of Extra Dimensions  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: documents2.theblackvault.com  
    Title: DIRD 19 DIRD Antigravity for Aerospace Applications  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
 18. <a id="endnote-18"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: locationsunknown.org  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 21. <a id="endnote-21"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: [https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html](https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pY1XHQBqIY8](https://www.youtube.com/watch?v=pY1XHQBqIY8)  
+   Link: <a href="https://www.youtube.com/watch?v=pY1XHQBqIY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pY1XHQBqIY8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Admiral Wilson Documents aka Wilson/Davis or EWD Notes - Introduction...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: [https://www.youtube.com/watch?v=IJOlQ9SZlNU](https://www.youtube.com/watch?v=IJOlQ9SZlNU)  
+   Link: <a href="https://www.youtube.com/watch?v=IJOlQ9SZlNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IJOlQ9SZlNU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FIVE HOUR DEEP DIVE into the Wilson UFO Leak | Richard Dolan Show Special Edition...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Admiral Wilson Documents aka Wilson/Davis or EWD Notes  
-   Link: [https://www.youtube.com/watch?v=uS5G3OnRjPg](https://www.youtube.com/watch?v=uS5G3OnRjPg)  
+   Link: <a href="https://www.youtube.com/watch?v=uS5G3OnRjPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uS5G3OnRjPg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Breakdown of the Admiral Wilson Leaks...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Ultimate Breakdown of the Admiral Wilson Leaks  
-   Link: [https://www.youtube.com/watch?v=F5P04uI2hu0](https://www.youtube.com/watch?v=F5P04uI2hu0)  
+   Link: <a href="https://www.youtube.com/watch?v=F5P04uI2hu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F5P04uI2hu0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Unity Interview with Oke Shannon - Wilson/Davis Memo...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/](https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/)  
+   Link: <a href="https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/](https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/)  
+   Link: <a href="https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/](https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/)  
+   Link: <a href="https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSBTNews/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1455405613298073/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/](https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/)  
+   Link: <a href="https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/goodmoviesnews.nt/posts/1439478724044844/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /grusch-clash/
 nav_short_title: Biologics claim
 title: What Evidence Supports the Biologics Claim?
-title_full: What Evidence Supports the Biologics Claim? | Grusch Clash
+title_full: What Evidence Supports the Biologics Claim?
 display_title_short: Biologics claim
 display_title: Biologics claim
 heading_title: What Evidence Supports the Biologics Claim?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Grusch Claims Versus Kirkpatrick's Denial | Kirkpatrick
+parent_title: Grusch Claims Versus Kirkpatrick's Denial
 parent_permalink: /grusch-clash/
 parent_nav_short_title: Grusch Clash
 parent_heading_title: Grusch Claims Versus Kirkpatrick's Denial
@@ -247,7 +247,7 @@ next_link:
   permalink: /hearsay-test/
   short_title: Hearsay test
   heading_title: When Is Second Hand UAP Testimony Enough?
-date: '2026-06-09 02:58:00 '
+date: '2026-06-11 21:04:24 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-1.webp
@@ -258,9 +258,8 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologi
 
 David Grusch’s claim that the US government recovered “non-human biologics” became one of the most quoted moments in the modern UFO debate because it transformed a discussion about unidentified objects into a direct suggestion that biological remains had been recovered from alleged craft. The statement was dramatic, easy to understand, and politically explosive. Yet the public evidence behind it remains unusually thin.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-1-dark.svg" | relative_url }}" alt="Biologics claim illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central problem is not that the claim has been disproven. Rather, it is that the public record still consists largely of testimony about what other people allegedly told Grusch. No biological samples, laboratory reports, photographs with verified chain of custody, declassified government records, or independently inspectable forensic evidence have been released publicly. At the same time, [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s AARO and later Pentagon reviews have stated that they found no verifiable evidence of extraterrestrial technology, craft, or biological remains. The dispute therefore revolves less around competing physical evidence than around competing claims about access, secrecy and proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
+The central problem is not that the claim has been disproven. Rather, it is that the public record still consists largely of testimony about what other people allegedly told Grusch. No biological samples, laboratory reports, photographs with verified chain of custody, declassified government records, or independently inspectable forensic evidence have been released publicly. At the same time, Sean Kirkpatrick’s AARO and later Pentagon reviews have stated that they found no verifiable evidence of extraterrestrial technology, craft, or biological remains. The dispute therefore revolves less around competing physical evidence than around competing claims about access, secrecy and proof. [U.S. Department of War+2U.S. Department of War]
 
 ## What Grusch Actually Said at the Hearing
 
@@ -269,7 +268,6 @@ The biologics claim emerged during the July 2023 House Oversight Committee heari
 That distinction matters.
 
 Grusch's testimony on this point was not:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +295,6 @@ As a result, the phrase generated two competing interpretations:
 
 This ambiguity became one reason the statement spread widely while remaining difficult to evaluate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rv0Ezj3gc48" title="UFO hearing: Congressman alleges years-long &#x27;cover-up&#x27; by Pentagon, military | LiveNOW from FOX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rv0Ezj3gc48" target="_blank" rel="noopener noreferrer">UFO hearing: Congressman alleges years-long &#x27;cover-up&#x27; by Pentagon, military | LiveNOW from FOX</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 266.4K &middot; Uploaded: July 2023 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rv0Ezj3gc48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rv0Ezj3gc48">Open on YouTube</a></p></div></div></div>
 
 ## The Public Proof Gap
@@ -305,7 +302,6 @@ This ambiguity became one reason the statement spread widely while remaining dif
 The key credibility issue is not whether Grusch testified under oath. He did. The issue is what evidence the public can examine independently.
 
 For a biological recovery claim to move beyond testimony, investigators would normally expect at least some combination of:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -326,18 +322,16 @@ This creates an unusual evidential situation. The claim is famous because of who
 
 That does not automatically make the claim false. Classified programmes, if they existed, would by definition limit public access. However, it does mean that outside observers cannot currently verify the allegation through normal scientific or journalistic methods.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-2-dark.svg" | relative_url }}" alt="Biologics claim illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AARO Changed the Burden of Proof
 
 Sean Kirkpatrick's AARO approached the issue from the opposite direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sean M. Kirkpatrick</span><span class="citation-popover-snippet">Sean M. KirkpatrickSean Michael Kirkpatrick (born 1967/1968) is an American laser and materials physicist who served as the first dire...</span></span></span>
 
-Rather than asking whether hidden crash-retrieval programmes might exist, AARO asked whether verifiable evidence could be found for claims that such programmes existed. In public statements and its historical review, AARO said it found no evidence that the US government or private industry possessed extraterrestrial technology and no evidence that official investigations had confirmed extraterrestrial craft. The office also repeatedly stated that it had found no verifiable evidence of extraterrestrial activity or beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span>
+Rather than asking whether hidden crash-retrieval programmes might exist, AARO asked whether verifiable evidence could be found for claims that such programmes existed. In public statements and its historical review, AARO said it found no evidence that the US government or private industry possessed extraterrestrial technology and no evidence that official investigations had confirmed extraterrestrial craft. The office also repeatedly stated that it had found no verifiable evidence of extraterrestrial activity or beings. [U.S. Department of War+3U.S. Department of War+3U.S. Department of War]
 
 This changed the burden of proof in an important way.
 
 Before AARO's review, supporters of disclosure could argue that the government simply had not seriously investigated the allegations. After AARO's review, the debate shifted toward whether:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -348,18 +342,16 @@ Before AARO's review, supporters of disclosure could argue that the government s
 
 </div>
 
-Kirkpatrick's position was essentially that claims of recovered craft and biologics require demonstrable evidence, not merely testimony. Grusch's position was that significant information existed within classified channels and had not been properly disclosed to Congress or investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span>
+Kirkpatrick's position was essentially that claims of recovered craft and biologics require demonstrable evidence, not merely testimony. Grusch's position was that significant information existed within classified channels and had not been properly disclosed to Congress or investigators. [U.S. Department of War+2U.S. Department of War]
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lNiPCV6cAP4" title="Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer">Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 185.4K &middot; Uploaded: July 2023 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lNiPCV6cAP4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-dark.svg" | relative_url }}" alt="Biologics claim illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Access Problem Behind the Dispute
 
 One reason the argument remains unresolved is that both sides point to information that the public cannot fully inspect.
 
 Grusch has repeatedly suggested that he provided details through protected channels and that some information could only be discussed in classified settings. Members of Congress sympathetic to his claims have similarly argued that important evidence may exist behind security barriers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sean M. Kirkpatrick</span><span class="citation-popover-snippet">Sean M. KirkpatrickSean Michael Kirkpatrick (born 1967/1968) is an American laser and materials physicist who served as the first dire...</span></span></span>
 
-AARO, meanwhile, has stated that it reviewed historical records, interviewed officials and examined allegations but found no verifiable evidence supporting extraterrestrial-retrieval claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">aaro director dr sean kirkpatrick holds an off camera media roundtable</span><span class="citation-popover-snippet">Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</span></span></span>
+AARO, meanwhile, has stated that it reviewed historical records, interviewed officials and examined allegations but found no verifiable evidence supporting extraterrestrial-retrieval claims. [U.S. Department of War+2U.S. Department of War]
 
 This leaves the public facing two competing limitations:
 
@@ -370,14 +362,13 @@ Neither position produces publicly inspectable biological material.
 
 As a result, the biologics allegation remains largely a question of source credibility rather than forensic evidence.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lNiPCV6cAP4" title="Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer">Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 185.4K &middot; Uploaded: July 2023 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lNiPCV6cAP4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-dark.svg" | relative_url }}" alt="Biologics claim illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58_biologics_proof_gap_5c5c4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Would Change the Assessment?
 
 The biologics claim occupies an unusual middle ground between complete speculation and demonstrated fact.
 
 Several developments would significantly strengthen the claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,9 +385,6 @@ Conversely, the claim would weaken substantially if investigations obtained acce
 
 At present, neither outcome has occurred publicly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y0Sjv30bCio" title="Key moments at House UFO transparency hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer">Key moments at House UFO transparency hearing</a></p><p class="youtube-embed-meta">Channel: CBS News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y0Sjv30bCio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y0Sjv30bCio">Open on YouTube</a></p></div></div></div>
-
 ## What the Claim Says About the Kirkpatrick Dispute
 
 The biologics allegation highlights the core disagreement surrounding Sean Kirkpatrick's tenure and AARO's credibility. The dispute is not really about whether the phrase “non-human biologics” was uttered; that is a matter of public record. The dispute is whether testimony about such material should be treated as persuasive evidence when the material itself has never been publicly produced.
@@ -406,86 +394,44 @@ For supporters of Grusch, the claim demonstrates why stronger congressional over
 That tension remains unresolved. The biologics claim is one of the most famous statements in the modern UAP debate, but its evidential status has not advanced beyond testimony into publicly verifiable proof. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to What Evidence Supports the Biologics Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for What Evidence Supports the Biologics Claim?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
-        
-        <p class="fr-book-desc">Addresses extraordinary claims and the evidence needed to support them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Discusses claims about recovered materials, secrecy, and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Strong fit for discussions about evidence gaps and extraordinary biological claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating official and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -522,15 +468,15 @@ That tension remains unresolved. The biologics claim is one of the most famous s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor"><img src="https://i.ebayimg.com/images/g/cKkAAeSwto1qCd7G/s-l225.jpg" alt="Listing image for Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN Disclosure Wall Art, SLEEPING DOG UFO Poster, Cryptid Sci-fi Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +484,15 @@ That tension remains unresolved. The biologics claim is one of the most famous s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/7e41c81d7e4333fac25a.jpg' | relative_url }}" alt="Listing image for Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO DISCLOSURE Wall Art, Sci-fi Physics UAP Decor, Alien Engineer Poster"><img src="https://i.ebayimg.com/images/g/YyAAAOSwKB9nR4Zg/s-l225.jpg" alt="Listing image for Vintage UFO DISCLOSURE Wall Art, Sci-fi Physics UAP Decor, Alien Engineer Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Area 51 T-Shirt Aliens Space Craft ET Paul UFO Extra-terrestrial Birthday Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO DISCLOSURE Wall Art, Sci-fi Physics UAP Decor, Alien Engineer Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +500,15 @@ That tension remains unresolved. The biologics claim is one of the most famous s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN DISCLOSURE Wall Art, Sci-fi Political Poster, UFO Cryptid Decor"><img src="https://i.ebayimg.com/images/g/y3YAAeSwLqJqE0xB/s-l225.jpg" alt="Listing image for Vintage ALIEN DISCLOSURE Wall Art, Sci-fi Political Poster, UFO Cryptid Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN DISCLOSURE Wall Art, Sci-fi Political Poster, UFO Cryptid Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +516,15 @@ That tension remains unresolved. The biologics claim is one of the most famous s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor"><img src="https://i.ebayimg.com/images/g/oSAAAeSw96NqJan~/s-l225.jpg" alt="Listing image for Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO TIC TAC Disclosure Wall Art, Sci-fi Nautical Poster, UAP Navy Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +532,7 @@ That tension remains unresolved. The biologics claim is one of the most famous s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="biologics-claim-what-evidence-supports-the-biologics-claim-sean-kirkpatrick-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-supports-the-biologics-claim-ufo-disclosure-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure poster" data-ebay-reference="what-evidence-supports-the-biologics-claim-ufo-disclosure-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -802,160 +748,160 @@ That tension remains unresolved. The biologics claim is one of the most famous s
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/](https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — KIRKPATRICK: Yes. Q: So, David Grusch, the whis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, [Unresolved UAP](&amp;#123;&amp;#123; &#x27;unresolved-uap-d5436d/&#x27; | relative_url &amp;#125;&amp;#125;) Report, Europe 2...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Sean M. Kirkpatrick  
-   Link: [https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick](https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean M. KirkpatrickSean Michael Kirkpatrick (born 1967/1968) is an American laser and materials physicist who served as the first dire...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>whistleblower-claim-alien-ufo-communication-progr am/. (PUBLIC DOMAIN) - 13 January 1997 — Col. Phil Corso tells Jacques Vallee he may ha...</p></details>
    Published: January 1997  
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Former intelligence official says information came from multiple col...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: sean kirkpatrick pentagon ufo conspiracy theory myths  
-   Link: [https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)  
+   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ex-UFO chief says conspiracy theorists in...27 Jan 2024 — Sean Kirkpatrick, the first director of the all-domain anomaly resolu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true)  
+   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates?filterKeyEvents=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — Grusch told lawmakers that “non-human” biologics had been recovered...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: He quit heading the Pentagon's UFO office  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 — Naturally, Kirkpatrick tried to talk to him. But although Grusch had dropped most of these bombshells mo...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/](https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15accx1/us_congress_ufo_hearings_whistleblower_david/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Congress UFO hearings: whistleblower David Grusch...US Congress UFO hearings: whistleblower David Grusch says &#x27;non-human biologics&#x27; f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html](https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html)  
+   Link: <a href="https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO objects, a spokeswoman said. Executive Director of Americans for Safe Aerospace Ryan Graves, whistleblower and former representative...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reuters.com  
    Title: pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence to suggest that aliens have visited Earth... UAP represented extraterrestrial technology,&quot; the report&#x27;s executive summary said...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...Jul 28, 2023 — A former military intelligence officer-turned-whistleblower told H...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;...Former military intelligence officer-turned-whistleblower David Grusch told House law...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/live/9wHyoEOyT6Q](https://www.youtube.com/live/9wHyoEOyT6Q)  
+   Link: <a href="https://www.youtube.com/live/9wHyoEOyT6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/live/9wHyoEOyT6Q</a>  
 
 26. <a id="endnote-26"></a>
    Source: defensescoop.com  
    Title: Defense Scoop UAP hearing sparks clash between Pentagon officials,  
-   Link: [https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/](https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/)  
+   Link: <a href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>week&#x27;s House hearing on UFO [transparency](&amp;#123;&amp;#123; &#x27;transparency/&#x27; | relative_url &amp;#125;&amp;#125;). By Brandi Vincent. July 31, 2023. WASHINGTON... Grusch — who said he recently made an official...</p></details>
    Published: July 31, 2023  
 
 27. <a id="endnote-27"></a>
    Source: livenowfox.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: [https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity](https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)  
+   Link: <a href="https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiable eviden...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: [https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/](https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/)  
+   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>

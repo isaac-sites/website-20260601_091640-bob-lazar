@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-david-grusch/
 nav_short_title: Influence
 title: How Grusch Shifted UAP Debate
-title_full: How Grusch Shifted UAP Debate | Grusch
+title_full: How Grusch Shifted UAP Debate
 display_title_short: Influence
 display_title: Influence
 heading_title: How Grusch Shifted UAP Debate
@@ -289,7 +289,7 @@ next_link:
   permalink: /oversight/
   short_title: Oversight
   heading_title: What Did the Whistleblower Process Prove?
-date: '2026-06-09 02:52:30 '
+date: '2026-06-11 21:01:20 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94-overview.webp
@@ -298,27 +298,25 @@ image: /assets/images/David_Grusch_f99f18_media_influence_77bc94-overview-social
 
 ## Introduction
 
-[David Grusch]({{ 'how-credible-is-david-grusch/' | relative_url }})’s biggest confirmed effect was not proving that the US government holds non-human craft. It was turning an insider-style allegation into a mainstream transparency problem: if a former intelligence official could tell Congress that UAP material and records were being withheld from oversight, then lawmakers, journalists and agencies had to decide how to test the claim without simply accepting it. His story helped push UAP from fringe entertainment into hearings, records legislation, whistleblower language, agency guidance and a sharper debate about what “disclosure” should mean. The evidence, however, cuts both ways: the political and media impact is real, while the [public proof]({{ 'public-proof/' | relative_url }}) for his most extraordinary claims remains unresolved and strongly disputed by Pentagon-led reviews. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+David Grusch’s biggest confirmed effect was not proving that the US government holds non-human craft. It was turning an insider-style allegation into a mainstream transparency problem: if a former intelligence official could tell Congress that UAP material and records were being withheld from [oversight]({{ 'oversight/' | relative_url }}), then lawmakers, journalists and agencies had to decide how to test the claim without simply accepting it. His story helped push UAP from fringe entertainment into hearings, records legislation, whistleblower language, agency guidance and a sharper debate about what “disclosure” should mean. The evidence, however, cuts both ways: the political and media impact is real, while the [public proof]({{ 'public-proof/' | relative_url }}) for his most extraordinary claims remains unresolved and strongly disputed by Pentagon-led reviews. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-overview.webp" | relative_url }}" alt="Overview image for Influence" loading="eager" decoding="sync" fetchpriority="high">
 ## From insider allegation to media story
 
-Grusch’s public emergence in June 2023 followed a distinctive media path. The first major article appeared in *The Debrief*, written by Leslie Kean and Ralph Blumenthal, and framed him as a former intelligence official who had provided classified information to Congress and the Intelligence Community Inspector General about alleged covert programmes involving recovered craft of non-human origin. That framing mattered: it presented the story less as a lone UFO claim and more as an [oversight]({{ 'oversight/' | relative_url }}) allegation, centred on secrecy, [retaliation]({{ 'retaliation/' | relative_url }}) and congressional access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
+Grusch’s public emergence in June 2023 followed a distinctive media path. The first major article appeared in *The Debrief*, written by Leslie Kean and Ralph Blumenthal, and framed him as a former intelligence official who had provided classified information to Congress and the Intelligence Community Inspector General about alleged covert programmes involving recovered craft of non-human origin. That framing mattered: it presented the story less as a lone UFO claim and more as an oversight allegation, centred on secrecy, [retaliation]({{ 'retaliation/' | relative_url }}) and congressional access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
 
 The story then moved quickly into a wider media cycle. The Guardian reported the allegations the next day, noting that Grusch claimed the US had possession of “intact and partially intact” craft and that the allegations had come through an interview with the Debrief journalists. The combination of intelligence credentials, whistleblower language and a dramatic claim gave the story a news hook that ordinary UAP sightings rarely receive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US urged to reveal UFO evidence after claim that it has</span><span class="citation-popover-snippet">The Guardian US urged to reveal UFO evidence after claim that it has</span></span></span>
 
-Yet the route through the press also exposed a credibility problem. *Vanity Fair* reported that *The New York Times*, *The Washington Post* and *Politico* had not published the original story, with the *Post* still working to verify facts and other outlets facing concerns about timing, evidence and what congressional sources actually understood. That does not disprove Grusch’s allegations, but it explains why the story split the media: some outlets treated the institutional trail as newsworthy, while others saw the lack of public [physical evidence]({{ 'proof-gap-7e7572/' | relative_url }}), documents or named first-hand custodians as too large a gap for a bombshell presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet the route through the press also exposed a credibility problem. *Vanity Fair* reported that *The New York Times*, *The Washington Post* and *Politico* had not published the original story, with the *Post* still working to verify facts and other outlets facing concerns about timing, evidence and what congressional sources actually understood. That does not disprove Grusch’s allegations, but it explains why the story split the media: some outlets treated the institutional trail as newsworthy, while others saw the lack of public physical evidence, documents or named first-hand custodians as too large a gap for a bombshell presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 NewsNation’s extended interview with Grusch amplified the story further, especially for a television audience already interested in UAP disclosure. The risk was that television incentives rewarded the most sensational elements — recovered craft, [biologics]({{ 'biologics/' | relative_url }}), retaliation and hidden programmes — while the evidential status of those claims remained more limited: Grusch was largely reporting what he said he had been told by other officials, not presenting public artefacts or documents that viewers could inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nWJwGz0FQcQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube News Nation: David Grusch Interview</span><span class="citation-popover-snippet">You Tube News Nation: David Grusch Interview</span></span></span>
 
 This is the central media-amplification tension in the Grusch case. His official [background]({{ 'background/' | relative_url }}) made the allegations harder to ignore, but repeated coverage did not turn second-hand claims into verified facts. Media attention increased public and political pressure; it did not supply the missing chain of custody.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-1-dark.svg" | relative_url }}" alt="Influence illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the July 2023 hearing changed the public frame
 
-The House Oversight hearing on 26 July 2023 gave Grusch’s claims a formal public stage. The committee titled the session around national security, public safety and government transparency, which is important because it shifted the question from “are aliens real?” to “what does Congress know, what can it access, and are UAP reports being handled properly?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The House Oversight [hearing]({{ 'hearing/' | relative_url }}) on 26 July 2023 gave Grusch’s claims a formal public stage. The committee titled the session around national security, public safety and government transparency, which is important because it shifted the question from “are aliens real?” to “what does Congress know, what can it access, and are UAP reports being handled properly?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[House Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In his written opening statement, Grusch described himself as a former intelligence officer of 14 years, including US Air Force service and later National Geospatial-Intelligence Agency work, and said he had reported concerns through official channels. That helped the story travel because he was not presented merely as a witness to a strange object, but as someone claiming knowledge of how classified UAP information moved — or failed to move — inside government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Opening Statement</span><span class="citation-popover-snippet">Oversight Committee Opening Statement</span></span></span>
 
@@ -327,7 +325,6 @@ The hearing also produced the phrase that dominated headlines: Grusch said, unde
 For transparency politics, the hearing’s effect was broader than the biologics line. Former Navy pilots Ryan Graves and David Fravor testified alongside Grusch, keeping the session partly grounded in pilot safety, reporting stigma and unresolved encounters. That mix helped disclosure advocates argue that even sceptics of crash-retrieval claims should still support better UAP reporting systems, safer military reporting channels and clearer congressional oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The hearing therefore strengthened Grusch’s influence more than it strengthened his proof. It made him a recognised figure in a congressional transparency campaign, but it did not publicly verify the alleged programme, the alleged materials or the alleged biological evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xnG4Mfak-Oc" title="UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer">UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 3.2M &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xnG4Mfak-Oc">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +340,6 @@ NARA then issued practical guidance. Federal agencies were told to identify UAP 
 
 Whistleblower protections also became part of the public debate. Grusch said he had faced retaliation, while legal and advocacy commentary around the hearing focused on whether defence and intelligence personnel could report UAP-related concerns without professional punishment. The practical effect was to make “safe reporting” a central part of UAP transparency politics, alongside declassification and public record release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowersblog.org">[Whistleblower Network News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowersblog.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-2-dark.svg" | relative_url }}" alt="Influence illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The transparency gain was procedural, not evidential
 
@@ -357,7 +353,6 @@ On the negative side for Grusch’s strongest claims, AARO’s 2024 historical r
 
 Supporters can respond that absence of public confirmation is not the same as proof of absence, especially where classified programmes, contractor compartments and whistleblower restrictions are alleged. Sceptics can respond that a claim of recovered non-human craft requires more than credentialled testimony and cannot rest indefinitely on inaccessible witnesses, classified briefings and claims of hidden documents. Both positions are stronger when they keep the categories separate: transparency reform may be justified even if the crash-retrieval claim remains unproven.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lNiPCV6cAP4" title="Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer">Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 185.4K &middot; Uploaded: July 2023 &middot; Length: 2 hours 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lNiPCV6cAP4">Open on YouTube</a></p></div></div></div>
 
 ## Media attention created both pressure and distortion
@@ -370,7 +365,6 @@ The incentives of different media formats also mattered. Long-form interviews an
 
 That mixed media environment shaped the transparency debate itself. Believers saw resistance from major outlets and agencies as further evidence of secrecy. Sceptics saw the same pattern as a sign that journalistic and institutional caution was working as it should. Neutral readers were left with a harder but more accurate conclusion: the story was important enough to investigate, but not proven enough to accept as fact.
 
-
 <img src="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-3-dark.svg" | relative_url }}" alt="Influence illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_media_influence_77bc94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changed after Grusch
 
@@ -378,10 +372,9 @@ Before Grusch, the modern UAP debate already had momentum from Navy pilot encoun
 
 After Grusch, the public debate became more explicitly institutional. Readers and lawmakers were no longer only asking whether pilots had seen unusual things. They were asking whether Congress had been denied access, whether inspector-general channels were adequate, whether contractors could hold relevant material outside normal oversight, and whether old UAP records should be reviewed under a disclosure presumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most concrete outcome was not a revelation of alien technology, but a paper trail: congressional hearings, proposed disclosure legislation, final NDAA records provisions, NARA implementation guidance and continuing AARO reports. Those developments are real transparency effects, even if they have not validated Grusch’s most extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[3House Documents 3National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Archives](#endnote-9 "Endnote 9")
+The most concrete outcome was not a revelation of alien technology, but a paper trail: congressional hearings, proposed disclosure legislation, final NDAA records provisions, NARA implementation guidance and continuing [AARO reports]({{ 'aaro-report/' | relative_url }}). Those developments are real transparency effects, even if they have not validated Grusch’s most extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.house.gov">[3House Documents 3National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Archives](#endnote-9 "Endnote 9")
 
 By 2026, the US government’s UAP transparency infrastructure was still producing releases and public-facing material, including a dedicated Department of War UAP page and statements about rolling file releases. That later activity should not be retroactively treated as proof of Grusch’s claims, but it shows that the UAP transparency agenda he helped energise continued to have institutional life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-3 "Endnote 3")
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suj8BB4nG0Y" title="What the Heck Is Going on With These U.F.O. Stories?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suj8BB4nG0Y" target="_blank" rel="noopener noreferrer">What the Heck Is Going on With These U.F.O. Stories?</a></p><p class="youtube-embed-meta">Channel: The Ezra Klein Show &middot; Views: 16.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suj8BB4nG0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suj8BB4nG0Y">Open on YouTube</a></p></div></div></div>
 
@@ -405,16 +398,16 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
         </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+        <p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">Directly addresses the shift of UFO claims into mainstream journalism and politics.</p>
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -422,16 +415,16 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">Written by one of the journalists central to mainstreaming serious UFO reporting.</p>
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -439,16 +432,16 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
         </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+        <p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">Examines how modern UFO stories gain influence and legitimacy.</p>
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -456,16 +449,16 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
         </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+        <p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">Helps readers think about how extraordinary claims move through public discourse.</p>
+        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -473,7 +466,7 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -510,15 +503,15 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +519,15 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +535,15 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +551,15 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +567,7 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="influence-how-grusch-shifted-uap-debate-david-grusch-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grusch-shifted-uap-debate-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-grusch-shifted-uap-debate-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -789,297 +782,297 @@ The fairest assessment is therefore split. As a media and transparency event, Gr
 
 1. <a id="endnote-1"></a>
    Source: docs.house.gov  
-   Link: [https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282)  
+   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
 
 2. <a id="endnote-2"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube News Nation: David Grusch Interview  
-   Link: [https://www.youtube.com/watch?v=nWJwGz0FQcQ](https://www.youtube.com/watch?v=nWJwGz0FQcQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nWJwGz0FQcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nWJwGz0FQcQ</a>  
 
 5. <a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Opening Statement  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: time.com  
-   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pbs.org  
    Title: watch live house oversight committee probes ufos and wider implications  
-   Link: [https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications](https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications)  
+   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-house-oversight-committee-probes-ufos-and-wider-implications</a>  
 
 8. <a id="endnote-8"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-04-2025](https://www.archives.gov/records-mgmt/memos/ac-04-2025)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-04-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-04-2025</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Ralph Blumenthal  
-   Link: [https://en.wikipedia.org/wiki/Ralph_Blumenthal](https://en.wikipedia.org/wiki/Ralph_Blumenthal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ralph_Blumenthal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ralph_Blumenthal</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 19. <a id="endnote-19"></a>
    Source: gillibrand.senate.gov  
    Title: gillibrand statement on release of uap files  
-   Link: [https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/](https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/)  
+   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: National Defense Authorization Act for Fiscal Year 2024  
-   Link: [https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024](https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2024</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: rfk files uap records april 2025  
-   Link: [https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025](https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025)  
+   Link: <a href="https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025</a>  
    Published: april 2025  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/records-mgmt/memos/ac-26-2024](https://www.archives.gov/records-mgmt/memos/ac-26-2024)  
+   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-26-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-26-2024</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 24. <a id="endnote-24"></a>
    Source: music.youtube.com  
    Title: RBAISw CZ2v0  
-   Link: [https://music.youtube.com/podcast/RBAISwCZ2v0](https://music.youtube.com/podcast/RBAISwCZ2v0)  
+   Link: <a href="https://music.youtube.com/podcast/RBAISwCZ2v0" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/RBAISwCZ2v0</a>  
 
 25. <a id="endnote-25"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 26. <a id="endnote-26"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds](https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds)  
+   Link: <a href="https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/pentagon-begins-releasing-new-files-on-ufos-and-says-people-can-make-up-their-own-minds</a>  
 
 27. <a id="endnote-27"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
+   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
 
 28. <a id="endnote-28"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lNiPCV6cAP4](https://www.youtube.com/watch?v=lNiPCV6cAP4)  
+   Link: <a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lNiPCV6cAP4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFO whistleblower says U.S. recovered nonhuman "biologics" from crash sites  
-   Link: [https://www.youtube.com/watch?v=xnG4Mfak-Oc](https://www.youtube.com/watch?v=xnG4Mfak-Oc)  
+   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Heck Is Going on With These U.F.O. Stories?...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: What the Heck Is Going on With These U.F.O. Stories?  
-   Link: [https://www.youtube.com/watch?v=suj8BB4nG0Y](https://www.youtube.com/watch?v=suj8BB4nG0Y)  
+   Link: <a href="https://www.youtube.com/watch?v=suj8BB4nG0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suj8BB4nG0Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Whistleblower testifies on claims that US has concealed programs related to UFOs...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OV-SQkEGIDw](https://www.youtube.com/watch?v=OV-SQkEGIDw)  
+   Link: <a href="https://www.youtube.com/watch?v=OV-SQkEGIDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV-SQkEGIDw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower makes claim on the existence of &#x27;non-human&#x27; biologics...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO whistleblower makes claim on the existence of 'non-human' biologics  
-   Link: [https://www.youtube.com/watch?v=7ZDZGLaWEak](https://www.youtube.com/watch?v=7ZDZGLaWEak)  
+   Link: <a href="https://www.youtube.com/watch?v=7ZDZGLaWEak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ZDZGLaWEak</a>  
 
 36. <a id="endnote-36"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non  
-   Link: [https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)  
+   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
 
 37. <a id="endnote-37"></a>
    Source: theguardian.com  
    Title: The Guardian US urged to reveal UFO evidence after claim that it has  
-   Link: [https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)  
+   Link: <a href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft</a>  
 
 38. <a id="endnote-38"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS](https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopl7dJLTKa7cSWCvz_VuGjKxuS74WVSFA13b-19qhpMG5T8VhmS</a>  
 
 39. <a id="endnote-39"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/06/ufo-report-media](https://www.vanityfair.com/news/2023/06/ufo-report-media)  
+   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
 40. <a id="endnote-40"></a>
    Source: washingtonpost.com  
    Title: newsnation ufo david grusch intercept coulthart  
-   Link: [https://www.washingtonpost.com/media/2023/08/18/newsnation-ufo-david-grusch-intercept-coulthart/](https://www.washingtonpost.com/media/2023/08/18/newsnation-ufo-david-grusch-intercept-coulthart/)  
+   Link: <a href="https://www.washingtonpost.com/media/2023/08/18/newsnation-ufo-david-grusch-intercept-coulthart/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/media/2023/08/18/newsnation-ufo-david-grusch-intercept-coulthart/</a>  
 
 41. <a id="endnote-41"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: [https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/](https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
 
 42. <a id="endnote-42"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/news/2023/07/ufo-hearing-congress](https://www.vanityfair.com/news/2023/07/ufo-hearing-congress)  
+   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
 
 43. <a id="endnote-43"></a>
    Source: theguardian.com  
    Title: ufo hearing update congress whistleblower  
-   Link: [https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower](https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower)  
+   Link: <a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
 
 44. <a id="endnote-44"></a>
    Source: theguardian.com  
    Title: ufo records release congress  
-   Link: [https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress](https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress</a>  
 
 45. <a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress](https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress)  
+   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
 
 46. <a id="endnote-46"></a>
    Source: whistleblowersblog.org  
-   Link: [https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/](https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/)  
+   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
 
 47. <a id="endnote-47"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video](https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video)  
+   Link: <a href="https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2023/jul/26/ufo-whistleblower-says-he-faced-brutal-retaliation-after-going-public-with-coverup-claim-video</a>  
 
 48. <a id="endnote-48"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 49. <a id="endnote-49"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2023/10/ufo-whistleblowers-go-to-washington/](https://skepticalinquirer.org/2023/10/ufo-whistleblowers-go-to-washington/)  
+   Link: <a href="https://skepticalinquirer.org/2023/10/ufo-whistleblowers-go-to-washington/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/10/ufo-whistleblowers-go-to-washington/</a>  
 
 50. <a id="endnote-50"></a>
    Source: en.wikisource.org  
    Title: UAP Reporting  
-   Link: [https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting](https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting)  
+   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
 
 51. <a id="endnote-51"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
 
 52. <a id="endnote-52"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
 
 53. <a id="endnote-53"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: [https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/](https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/)  
+   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
 54. <a id="endnote-54"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: [https://www.rev.com/transcripts/house-uap-whistleblower-hearing](https://www.rev.com/transcripts/house-uap-whistleblower-hearing)  
+   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
 
 ### Additional References
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/](https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/</a>  
 
 56. <a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/](https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-has-a-uap-program-called-immacul/556188973454791/](https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-has-a-uap-program-called-immacul/556188973454791/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-has-a-uap-program-called-immacul/556188973454791/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-leaked-whistleblower-report-says-the-pentagon-has-a-uap-program-called-immacul/556188973454791/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/](https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-whistleblower-claims-the-government-has-a-secret-ufo-retrieval-program-house-o/3632967816926777/</a>  
 
 60. <a id="endnote-60"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a](https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a)  
+   Link: <a href="https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheHill/posts/as-lawmakers-continue-to-pursue-transparency-regarding-alleged-secret-ufo-progra/1341909847797433/](https://www.facebook.com/TheHill/posts/as-lawmakers-continue-to-pursue-transparency-regarding-alleged-secret-ufo-progra/1341909847797433/)  
+   Link: <a href="https://www.facebook.com/TheHill/posts/as-lawmakers-continue-to-pursue-transparency-regarding-alleged-secret-ufo-progra/1341909847797433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHill/posts/as-lawmakers-continue-to-pursue-transparency-regarding-alleged-secret-ufo-progra/1341909847797433/</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/](https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/)  
+   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/</a>  
 
 63. <a id="endnote-63"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/](https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g4dxdc/your_opinion_do_you_believe_that_we_will_start/</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/](https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/)  
+   Link: <a href="https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/during-a-house-hearing-about-ufos-video-provided-by-a-whistleblower-appeared-to-/1212026290951520/</a>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /aatip-confusion-b857ff/
 nav_short_title: AARO review
 title: Why AARO narrows Kelleher's strongest claim
-title_full: Why AARO narrows Kelleher's strongest claim | AATIP Confusion
+title_full: Why AARO narrows Kelleher's strongest claim
 display_title_short: AARO review
 display_title: AARO review
 heading_title: Why AARO narrows Kelleher's strongest claim
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why The AAWSAP AATIP Confusion Matters | Kelleher
+parent_title: Why The AAWSAP AATIP Confusion Matters
 parent_permalink: /aatip-confusion-b857ff/
 parent_nav_short_title: AATIP Confusion
 parent_heading_title: Why The AAWSAP AATIP Confusion Matters
@@ -247,7 +247,7 @@ next_link:
   permalink: /aatip-label-fcd968/
   short_title: AATIP label
   heading_title: Did the AATIP name overstate his access?
-date: '2026-06-09 03:09:51 '
+date: '2026-06-11 21:08:17 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_revi
 
 ## Introduction
 
-A key test of [Colm Kelleher]({{ 'how-credible-is-colm-kelleher/' | relative_url }})’s credibility is whether later official reviews confirmed the broad picture he and other former AAWSAP figures presented. The All-domain Anomaly Resolution Office (AARO), created by the US Department of Defense to investigate unidentified anomalous phenomena (UAP), did not dismiss AAWSAP as fictional or exaggerated. In fact, AARO explicitly confirmed that AAWSAP was a real Defence Intelligence Agency (DIA) programme funded through a government contract. What AARO challenged was something narrower but highly important: the claim that AAWSAP’s wider paranormal investigations, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }})-related work and consciousness research carried the same official authorisation and evidential status as the underlying government contract. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
-
+A key test of Colm Kelleher’s credibility is whether later official reviews confirmed the broad picture he and other former AAWSAP figures presented. The All-domain Anomaly Resolution Office (AARO), created by the US Department of Defense to investigate unidentified anomalous phenomena (UAP), did not dismiss AAWSAP as fictional or exaggerated. In fact, AARO explicitly confirmed that AAWSAP was a real Defence Intelligence Agency (DIA) programme funded through a government contract. What AARO challenged was something narrower but highly important: the claim that AAWSAP’s wider paranormal investigations, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }})-related work and consciousness research carried the same official authorisation and evidential status as the underlying government contract. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-1-dark.svg" | relative_url }}" alt="AARO review illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Kelleher, this creates a mixed credibility outcome. The review strengthens his claim to have occupied a genuine insider position within a real government-funded effort. At the same time, it weakens attempts to use that position as proof that the US government officially validated the broader paranormal conclusions often associated with AAWSAP-era narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
@@ -266,20 +265,17 @@ For Kelleher, this creates a mixed credibility outcome. The review strengthens h
 
 AARO's historical review did not dispute the existence of AAWSAP, the DIA-managed programme funded through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS). The report treated AAWSAP as part of the documented history of US government UAP-related activity and discussed it alongside other official programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-That point matters because it directly supports one of Kelleher's strongest factual claims: he was not merely commenting from the outside. [Public records]({{ 'documents/' | relative_url }}), university archive material and AAWSAP documentation place him inside the BAASS structure that executed the DIA contract. AARO's report does not overturn that basic history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+That point matters because it directly supports one of Kelleher's strongest factual claims: he was not merely commenting from the outside. Public records, university archive material and AAWSAP documentation place him inside the BAASS structure that executed the DIA contract. AARO's report does not overturn that basic history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 The review also acknowledged that AAWSAP became associated with investigations of UAP reports and unusual incidents. In that sense, AARO did not argue that later references to UFO-related work emerged from nowhere. The programme clearly existed, it produced research, and it became part of the modern UAP story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 This is the portion of Kelleher's public narrative that remains comparatively strong. Critics who portray AAWSAP as entirely invented or as a myth created after 2017 run into the problem that official records show the programme was real and funded. AARO itself accepts that baseline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VSOzBMjww9o" title="Why Congress Is Seriously Investigating UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer">Why Congress Is Seriously Investigating UFOs</a></p><p class="youtube-embed-meta">Channel: Astrum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VSOzBMjww9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VSOzBMjww9o">Open on YouTube</a></p></div></div></div>
-
 ## What AARO disputed about UAP and paranormal work
 
 The sharper issue is not whether AAWSAP existed, but what the government actually authorised it to do.
 
-AARO's report states that AAWSAP personnel and contractors investigated a range of subjects extending beyond conventional aerospace threat analysis. The review specifically references work connected to a Utah property associated with reports of paranormal activity, including alleged "shadow figures", unusual creatures, remote viewing and human consciousness anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO's report states that AAWSAP personnel and contractors investigated a range of subjects extending beyond conventional aerospace threat analysis. The review specifically references work connected to a Utah property associated with reports of paranormal activity, including alleged "shadow figures", unusual creatures, remote viewing and human consciousness anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 However, AARO drew an important distinction. According to the report, the DIA did not specifically seek or authorise those paranormal lines of inquiry, even though a DIA programme manager oversaw the contract and the contractor pursued them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — The text examines historical context and public perceptions surrounding the UFO/...</span></span></span>
 
@@ -287,19 +283,15 @@ That finding cuts directly across a common public impression created by some AAW
 
 This distinction matters because Kelleher has been one of the most visible public defenders of the idea that AAWSAP generated significant evidence relating not only to UAP but also to wider anomalous phenomena. AARO does not say such investigations never occurred. Instead, it questions whether they should be understood as officially endorsed government conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcaucus.com">[UAP Caucus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcaucus.com</span><span class="citation-popover-title">aaro briefing april 2024</span><span class="citation-popover-snippet">AARO reviewed the files generated by the Advanced Aerospace Weapon System Applications Program (AAWSAP), which, according to Dr. Colm Kel...</span><span class="citation-popover-meta">Published: april 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
-
 ## The Skinwalker Ranch problem
 
 One reason AARO's review affects Kelleher's credibility assessment is that his public profile became closely tied to [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch and associated paranormal claims.
 
 Kelleher co-authored books and public accounts arguing that AAWSAP investigators encountered a range of unusual reports connected to the ranch and to broader anomalous experiences. Supporters see this as evidence that the programme followed leads wherever they went. Critics argue that it demonstrates a tendency to blur intelligence analysis, folklore, witness testimony and paranormal speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Government Covert UFO Program</span><span class="citation-popover-snippet">Journal of Scientific ExplorationInside the US Government Covert UFO ProgramNow, the AAWSAP program and its early foundational discoverie...</span></span></span>
 
-AARO's historical review effectively sides with neither extreme. It acknowledges that the investigations occurred. At the same time, it presents them as examples of activity that expanded beyond what the DIA formally requested. The report therefore reduces the force of any argument that Skinwalker-related findings carried automatic government validation simply because AAWSAP personnel examined them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Person 5 and Interviewees</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/3610 May 2024 — Persons 1 and 3 and Interviewees 1, 3, and 12 were involve...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO's historical review effectively sides with neither extreme. It acknowledges that the investigations occurred. At the same time, it presents them as examples of activity that expanded beyond what the DIA formally requested. The report therefore reduces the force of any argument that Skinwalker-related findings carried automatic government validation simply because AAWSAP personnel examined them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Person 5 and Interviewees</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/3610 May 2024 — Persons 1 and 3 and Interviewees 1, 3, and 12 were involve...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For readers assessing Kelleher's reliability, this is one of the most important distinctions in the entire AAWSAP [debate]({{ 'debate-020cbc/' | relative_url }}). Investigating a claim is not the same thing as proving it. AARO accepts the first proposition while remaining sceptical of the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-2-dark.svg" | relative_url }}" alt="AARO review illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the review changes Kelleher's evidential weight
@@ -316,7 +308,6 @@ His credibility remains relatively strong when discussing:
 
 His credibility becomes weaker when claims depend on a further step, such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Assuming that investigated claims were validated.
@@ -326,10 +317,9 @@ His credibility becomes weaker when claims depend on a further step, such as:
 
 </div>
 
-AARO's report repeatedly returns to the distinction between activity and evidence. The office concluded that it had not found empirical support for many of the extraordinary narratives circulating around hidden UAP programmes, recovered craft or paranormal interpretations. In several cases it noted that individuals making such claims did not provide empirical evidence sufficient to substantiate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE was not reported to Congress at that time</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The SAP was never approved or stood up, and no data or mate...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO's report repeatedly returns to the distinction between activity and evidence. The office concluded that it had not found empirical support for many of the extraordinary narratives circulating around hidden UAP programmes, recovered craft or paranormal interpretations. In several cases it noted that individuals making such claims did not provide empirical evidence sufficient to substantiate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE was not reported to Congress at that time</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The SAP was never approved or stood up, and no data or mate...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 That does not prove those claims are false. It does mean that Kelleher's proximity to AAWSAP cannot be treated as independent verification of them.
-
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-3-dark.svg" | relative_url }}" alt="AARO review illustration 3" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_aawsap_aatip_confusi_ba992f_aaro_review_kelleher_5b0a52-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters more than the AAWSAP-AATIP name dispute
@@ -339,10 +329,6 @@ The public debate often focuses on whether AAWSAP and AATIP were the same progra
 Even if one accepts that AAWSAP was real and that Kelleher occupied a significant role within the contractor structure, the evidential burden remains on the specific claims emerging from that environment. The existence of a government programme establishes institutional access. It does not automatically establish the truth of every conclusion drawn by programme participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 This is where AARO most clearly narrows Kelleher's strongest claim. The review validates the reality of the programme that gave him insider status, but it does not validate the broader paranormal framework that became attached to that status. As a result, Kelleher emerges from the historical record as a genuine participant in a documented government-linked effort, yet not as a figure whose extraordinary interpretations gain automatic credibility from that participation alone. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — The text examines historical context and public perceptions surrounding the UFO/...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -461,15 +447,15 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material"><img src="https://i.ebayimg.com/images/g/ZIMAAeSwB7ZpoTrt/s-l225.jpg" alt="Listing image for 6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer">6 PCS Sew on Patches for Clothing Embroidered Craft Fabric Material</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +463,15 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +479,31 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP"><img src="https://i.ebayimg.com/images/g/gg8AAOSwHxZfWQXU/s-l225.jpg" alt="Listing image for Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage YMCA Underwater Activities Program Patch SCUBA Snorkeling Swimming UAP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,7 +511,7 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-aaro-narrows-kelleher-s-strongest-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -725,70 +727,70 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — The text examines historical context and public perceptions surrounding the UFO/...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/235 May 2024 — AAWSAP/AATIP also investigated an alleged hotspot of UAP an...</p></details>
    Published: May 2024  
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Person 5 and Interviewees  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/3610 May 2024 — Persons 1 and 3 and Interviewees 1, 3, and 12 were involve...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/36</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/3610 May 2024 — Persons 1 and 3 and Interviewees 1, 3, and 12 were involve...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: KONA BLUE was not reported to Congress at that time  
-   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The SAP was never approved or stood up, and no data or mate...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The SAP was never approved or stood up, and no data or mate...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportThese reports will be used to inform AARO&#x27;s congressionally directed Historical Record Report. What should I NOT report? P...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — Meanwhile, AARO continues to review the U.S. historical record relating to UAP and will release a second volume of its cong...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... AAWSAP, AATIP, U...</p></details>
    Published: March 2024  
 
 10. <a id="endnote-10"></a>
    Source: journalofscientificexploration.org  
    Title: Government Covert UFO Program  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationInside the US Government Covert UFO ProgramNow, the AAWSAP program and its early foundational discoverie...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: uapcaucus.com  
    Title: aaro briefing april 2024  
-   Link: [https://www.uapcaucus.com/aaro-briefing-april-2024](https://www.uapcaucus.com/aaro-briefing-april-2024)  
+   Link: <a href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/aaro-briefing-april-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO reviewed the files generated by the Advanced Aerospace Weapon System Applications Program (AAWSAP), which, according to Dr. Colm Kel...</p></details>
    Published: april 2024  
 
@@ -796,54 +798,54 @@ This is where AARO most clearly narrows Kelleher's strongest claim. The review v
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/](https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Report Codifies the New Skeptical Narrative: r/UFOsAARO: AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal ac...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion](https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion)  
+   Link: <a href="https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381923973_On_the_AAWSAP-AATIP_Confusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the AAWSAP-AATIP ConfusionThis 74-page paper has evolved into an examination of the distinction between AAWSAP and AATIP (the names fo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61581735685073/posts/%EF%B8%8F-a-former-pentagon-ufo-program-director-just-dropped-a-bombshell-that-could-unr/122132391201057856/](https://www.facebook.com/61581735685073/posts/%EF%B8%8F-a-former-pentagon-ufo-program-director-just-dropped-a-bombshell-that-could-unr/122132391201057856/)  
+   Link: <a href="https://www.facebook.com/61581735685073/posts/%EF%B8%8F-a-former-pentagon-ufo-program-director-just-dropped-a-bombshell-that-could-unr/122132391201057856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61581735685073/posts/%EF%B8%8F-a-former-pentagon-ufo-program-director-just-dropped-a-bombshell-that-could-unr/122132391201057856/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski, who managed the Advanced Aerospace Weapon System Applications Program, stated flatly that individuals have committed perj...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s Historical Report,” The Debrief, March 14, 2024,[https://thedebrief.o...&quot;](https://thedebrief.o...&quot;)...</p></details>
    Published: March 14, 2024  
 
 17. <a id="endnote-17"></a>
    Source: crimeworld.com  
-   Link: [https://www.crimeworld.com/sundayworld/irish-scientist-with-top-secret-us-government-clearance-explains-why-we-are-not-alone/a/103668414.html](https://www.crimeworld.com/sundayworld/irish-scientist-with-top-secret-us-government-clearance-explains-why-we-are-not-alone/a/103668414.html)  
+   Link: <a href="https://www.crimeworld.com/sundayworld/irish-scientist-with-top-secret-us-government-clearance-explains-why-we-are-not-alone/a/103668414.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeworld.com/sundayworld/irish-scientist-with-top-secret-us-government-clearance-explains-why-we-are-not-alone/a/103668414.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crime WorldIrish scientist Dr Colm Kelleher with top secret clearance...4 Dec 2023 — An Irish man, Dr Colm Kelleher (67), ran that secre...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purporte...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: whats actually in the aawsap files the 20082010  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/](https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: 315aw.afrc.af.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/](https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous Phenomena14 Nov 2024 — Meanwhile, AARO continues to review the U.S. historical record relating to UAP an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP), also referred to as the Advanced Aerospace Threat...Read more...</p></details>

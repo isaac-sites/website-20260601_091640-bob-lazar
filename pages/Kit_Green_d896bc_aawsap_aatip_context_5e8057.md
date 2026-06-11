@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-kit-greens-uap-story/
 nav_short_title: AAWSAP
 title: Where Did Green Fit Into AAWSAP?
-title_full: Where Did Green Fit Into AAWSAP? | Green
+title_full: Where Did Green Fit Into AAWSAP?
 display_title_short: AAWSAP
 display_title: AAWSAP
 heading_title: Where Did Green Fit Into AAWSAP?
@@ -283,7 +283,7 @@ next_link:
   permalink: /career-record/
   short_title: Career Record
   heading_title: What Can Be Verified About Kit Green?
-date: '2026-06-09 03:00:14 '
+date: '2026-06-11 21:05:34 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview.webp
@@ -292,8 +292,7 @@ image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview-soci
 
 ## Introduction
 
-[Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s connection to AAWSAP and AATIP is best understood as a narrow but important piece of a much wider governance problem. He was not publicly shown to be running the programme, and he later described himself as a consultant rather than part of Bigelow Aerospace Advanced Space Studies or AAWSAP. But his biological-effects work sits exactly where the programme became controversial: a government-funded aerospace-threat contract that produced some conventional-looking technical studies, while also absorbing UFO cases, alleged injury reports, Skinwalker Ranch material, remote viewing, and claims about exotic or paranormal phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[UFO Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-title">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span><span class="citation-popover-snippet">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span></span></span>
-
+Kit Green’s connection to AAWSAP and AATIP is best understood as a narrow but important piece of a much wider governance problem. He was not publicly shown to be running the programme, and he later described himself as a consultant rather than part of Bigelow Aerospace Advanced Space Studies or AAWSAP. But his biological-effects work sits exactly where the programme became controversial: a government-funded aerospace-threat contract that produced some conventional-looking technical studies, while also absorbing UFO cases, alleged injury reports, Skinwalker Ranch material, remote viewing, and claims about exotic or paranormal phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[UFO Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-title">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span><span class="citation-popover-snippet">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview.webp" | relative_url }}" alt="Overview image for AAWSAP" loading="eager" decoding="sync" fetchpriority="high">
 That matters for Green’s credibility because AAWSAP and AATIP can be read in two very different ways. [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) see them as evidence that serious national-security institutions were willing to examine anomalous aerospace cases, including possible human effects. Critics see the same record as evidence of weak oversight, speculative programme drift, contractor capture, and thin evidential standards. The public record supports parts of both readings: the DIA contract was real, the technical deliverables were real, Green’s paper was real, but the later official review found no empirical evidence that the programme established extraterrestrial technology, recovered craft, or a hidden reverse-engineering effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
@@ -310,7 +309,6 @@ The shift from AAWSAP to AATIP is one of the main sources of confusion. AARO’s
 
 For readers judging Green, this means the label “AATIP-linked” needs careful handling. It may refer to the DIA-funded AAWSAP contract, the later informal AATIP-branded UAP network, the post-2017 media narrative, or a mixture of all three. Green’s most concrete link is not a command role in AATIP, but his DIA-released biological-effects paper within the AAWSAP/AATIP research ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Green fitted into AAWSAP
 
@@ -318,12 +316,11 @@ Green’s best-documented AAWSAP-related contribution is the DIA-released paper 
 
 The paper is striking because it gives a medical and forensic frame to close-encounter claims. It discusses alleged injury patterns, electromagnetic radiation field effects, heating and burn injuries, neurological effects, auditory effects and possible links between clinical diagnoses and environmental conditions during anomalous events. It also argues that studying injuries could help infer physical characteristics of advanced aerospace systems of unknown provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-That does not mean the paper proves UFO-caused injury. Its language is stronger than the public evidence can bear. It states that historical cases show humans injured by “anomalous vehicles”, especially airborne ones, and that enough incidents and medical data supported a hypothesis that some advanced systems were already deployed and opaque to full US understanding. But the paper’s evidential base included a mixture of peer-reviewed medical literature, declassified material, [unpublished cases]({{ 'hidden-cases/' | relative_url }}) and UFO-associated reports, so the chain of custody is uneven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+That does not mean the paper proves UFO-caused injury. Its language is stronger than the public evidence can bear. It states that historical cases show humans injured by “anomalous vehicles”, especially airborne ones, and that enough incidents and medical data supported a hypothesis that some advanced systems were already deployed and opaque to full US understanding. But the paper’s evidential base included a mixture of peer-reviewed medical literature, declassified material, unpublished cases and UFO-associated reports, so the chain of custody is uneven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 Green later gave a more cautious account in an interview reported by The UFO Trail. He said he was not part of BAASS or AAWSAP but was a consultant, and he resisted treating the cited UFO stories as necessarily valid. He also said the work was “hypothesis generation, not hypothesis testing”, and that he did not regard the material as a large, bundled scientific data set. That later caveat matters: it narrows the strongest reasonable claim from “Green proved UAP injuries” to “Green explored whether some reported injuries could be clinically characterised and used to generate testable hypotheses.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[UFO Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-title">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span><span class="citation-popover-snippet">UFO Trail The UFO Trail: The UFO Injury Study That Wasn&#x27;t</span></span></span>
 
 This is the main credibility tension. Green’s professional background makes him more capable than most UFO commentators of assessing neurological or forensic-medical material. But the AAWSAP setting did not, by itself, turn case reports into validated epidemiology, controlled exposure science, or proof of non-human technology. His contribution is serious enough to merit attention, but not strong enough to carry the extraordinary conclusions sometimes attached to it in UAP media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UckV2rmgcbA" title="A Secret Advanced Aviation Threat Identification Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer">A Secret Advanced Aviation Threat Identification Program</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 254.4K &middot; Uploaded: December 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UckV2rmgcbA">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +336,6 @@ Popular Mechanics reached a different emphasis from leaked or obtained BAASS mat
 
 These two accounts are not entirely incompatible. They describe the same governance problem from different angles. Formally, AAWSAP was sold and managed as advanced aerospace threat research. Operationally, a large part of the contractor culture appears to have treated UAP, human effects and Skinwalker-style anomalies as relevant to that mission. The question is whether that was visionary interdisciplinary threat assessment or a poorly controlled blending of national security, UFO belief and paranormal speculation. The public record does not resolve that question in favour of believers; it shows that the blending happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official reviews later criticised
 
@@ -352,7 +348,6 @@ The Special Access Program issue also matters. In June 2009, Senator Reid asked 
 AARO also linked AAWSAP/AATIP to the later KONA BLUE proposal, a proposed Department of Homeland Security effort that would have restarted UAP investigations, paranormal research and possible reverse-engineering of any recovered off-world spacecraft advocates hoped to acquire. According to AARO, KONA BLUE gained some initial traction as a prospective Special Access Program but was rejected by DHS leadership for lacking merit; no extraterrestrial craft or bodies were collected, and no material was transferred to DHS. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-1 "Endnote 1")
 
 This is where AAWSAP most sharply affects Green’s credibility. His paper sits inside a programme later criticised not merely for being speculative, but for weak review, disputed authorisation, paranormal expansion and unsuccessful attempts to secure more protected programme status. That does not discredit every technical contributor automatically. It does mean that the programme’s existence cannot be used as a shortcut for proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F8owqkrtHe8" title="$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer">$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story</a></p><p class="youtube-embed-meta">Channel: Wisdom Land &middot; Views: 36.3K &middot; Uploaded: December 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F8owqkrtHe8">Open on YouTube</a></p></div></div></div>
 
@@ -368,7 +363,6 @@ Green’s later comments help more than they hurt, because they show some awaren
 
 The practical conclusion is therefore balanced. AAWSAP and AATIP strengthen the claim that Green operated near serious institutional channels where UAP-adjacent questions were funded, documented and discussed. They weaken any claim that his work should be treated as independently validated proof of exotic craft, alien technology or a hidden recovery programme. The context makes Green relevant; it does not make the strongest UFO conclusions reliable.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The credibility lesson from AAWSAP
 
@@ -378,9 +372,7 @@ For Kit Green, the lesson is especially important because his UAP reputation oft
 
 The most defensible assessment is that Green’s AAWSAP role belongs in the category of credible participation in a disputed programme, not confirmed disclosure. His biological-effects paper is a meaningful historical document in UAP studies, but its value is mainly as a window into how one government-funded network tried to medicalise anomalous encounter claims. It is not, on the current public record, a settled demonstration that UAP injured people through non-human propulsion, or that AAWSAP uncovered technology beyond ordinary human origin.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VD0ZVbtbnfI" title="Archives of the Impossible conference | Flash Talk: Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer">Archives of the Impossible conference | Flash Talk: Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Rice Humanities and Arts &middot; Views: 13.4K &middot; Uploaded: June 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VD0ZVbtbnfI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -499,15 +491,15 @@ The most defensible assessment is that Green’s AAWSAP role belongs in the cate
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +507,15 @@ The most defensible assessment is that Green’s AAWSAP role belongs in the cate
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +523,31 @@ The most defensible assessment is that Green’s AAWSAP role belongs in the cate
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +555,7 @@ The most defensible assessment is that Green’s AAWSAP role belongs in the cate
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="where-did-green-fit-into-aawsap-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-green-fit-into-aawsap-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-did-green-fit-into-aawsap-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,159 +771,159 @@ The most defensible assessment is that Green’s AAWSAP role belongs in the cate
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 5. <a id="endnote-5"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
 
 6. <a id="endnote-6"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2018  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2018.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: ufo pentagon history channel  
-   Link: [https://www.space.com/ufo-pentagon-history-channel.html](https://www.space.com/ufo-pentagon-history-channel.html)  
+   Link: <a href="https://www.space.com/ufo-pentagon-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-pentagon-history-channel.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: ufotrail.blogspot.com  
    Title: UFO Trail The UFO Trail: The UFO Injury Study That Wasn't  
-   Link: [https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html](https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html)  
+   Link: <a href="https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html" target="_blank" rel="noopener noreferrer nofollow">https://ufotrail.blogspot.com/2022/04/the-ufo-injury-study-that-wasnt.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 13. <a id="endnote-13"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Are UFOs Real?  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
 15. <a id="endnote-15"></a>
    Source: theblackvault.com  
    Title: the advanced aviation threat identification program aatip dird report research  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/</a>  
 
 16. <a id="endnote-16"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)On  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
 18. <a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: government report non man made ufos  
-   Link: [https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/](https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/)  
+   Link: <a href="https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a40992477/government-report-non-man-made-ufos/</a>  
 
 19. <a id="endnote-19"></a>
    Source: popularmechanics.com  
    Title: pain relief  
-   Link: [https://www.popularmechanics.com/science/health/a64954563/pain-relief/](https://www.popularmechanics.com/science/health/a64954563/pain-relief/)  
+   Link: <a href="https://www.popularmechanics.com/science/health/a64954563/pain-relief/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/health/a64954563/pain-relief/</a>  
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: army ufo mysterious technology  
-   Link: [https://www.popularmechanics.com/military/research/a29504031/army-ufo-mysterious-technology/](https://www.popularmechanics.com/military/research/a29504031/army-ufo-mysterious-technology/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a29504031/army-ufo-mysterious-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a29504031/army-ufo-mysterious-technology/</a>  
 
 21. <a id="endnote-21"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
 
 22. <a id="endnote-22"></a>
    Source: defensescoop.com  
    Title: uap ufo disclosure advocates transparency drone incursions  
-   Link: [https://defensescoop.com/2025/03/31/uap-ufo-disclosure-advocates-transparency-drone-incursions/](https://defensescoop.com/2025/03/31/uap-ufo-disclosure-advocates-transparency-drone-incursions/)  
+   Link: <a href="https://defensescoop.com/2025/03/31/uap-ufo-disclosure-advocates-transparency-drone-incursions/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/03/31/uap-ufo-disclosure-advocates-transparency-drone-incursions/</a>  
 
 23. <a id="endnote-23"></a>
    Source: bjsm.bmj.com  
-   Link: [https://bjsm.bmj.com/content/50/5/273](https://bjsm.bmj.com/content/50/5/273)  
+   Link: <a href="https://bjsm.bmj.com/content/50/5/273" target="_blank" rel="noopener noreferrer nofollow">https://bjsm.bmj.com/content/50/5/273</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v1](https://arxiv.org/html/2502.06794v1)  
+   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Archives of the Impossible conference | Flash Talk: Colm A. Kelleher  
-   Link: [https://www.youtube.com/watch?v=VD0ZVbtbnfI](https://www.youtube.com/watch?v=VD0ZVbtbnfI)  
+   Link: <a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Secret Advanced Aviation Threat Identification Program...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Secret government UFO program reveals paranormal events  
-   Link: [https://www.youtube.com/watch?v=36_LRMHZouw](https://www.youtube.com/watch?v=36_LRMHZouw)  
+   Link: <a href="https://www.youtube.com/watch?v=36_LRMHZouw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36_LRMHZouw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sam.gov  
-   Link: [https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view](https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view)  
+   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: A Secret Advanced Aviation Threat Identification Program  
-   Link: [https://www.youtube.com/watch?v=UckV2rmgcbA](https://www.youtube.com/watch?v=UckV2rmgcbA)  
+   Link: <a href="https://www.youtube.com/watch?v=UckV2rmgcbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UckV2rmgcbA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret government UFO program reveals paranormal events...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NEWSMelbourne/posts/theres-a-lot-of-negative-health-effects-that-have-now-been-revealed-by-the-secre/10160491814924301/](https://www.facebook.com/7NEWSMelbourne/posts/theres-a-lot-of-negative-health-effects-that-have-now-been-revealed-by-the-secre/10160491814924301/)  
+   Link: <a href="https://www.facebook.com/7NEWSMelbourne/posts/theres-a-lot-of-negative-health-effects-that-have-now-been-revealed-by-the-secre/10160491814924301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSMelbourne/posts/theres-a-lot-of-negative-health-effects-that-have-now-been-revealed-by-the-secre/10160491814924301/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/](https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Fox8NewsCleveland/posts/162-files-have-dropped-on-a-new-government-page-on-unidentified-aerial-phenomena/1562134075498760/](https://www.facebook.com/Fox8NewsCleveland/posts/162-files-have-dropped-on-a-new-government-page-on-unidentified-aerial-phenomena/1562134075498760/)  
+   Link: <a href="https://www.facebook.com/Fox8NewsCleveland/posts/162-files-have-dropped-on-a-new-government-page-on-unidentified-aerial-phenomena/1562134075498760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox8NewsCleveland/posts/162-files-have-dropped-on-a-new-government-page-on-unidentified-aerial-phenomena/1562134075498760/</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403646803_A_Medical_Review_of_Human_Injuries_from_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/403646803_A_Medical_Review_of_Human_Injuries_from_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/403646803_A_Medical_Review_of_Human_Injuries_from_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403646803_A_Medical_Review_of_Human_Injuries_from_Unidentified_Aerial_Phenomena</a>

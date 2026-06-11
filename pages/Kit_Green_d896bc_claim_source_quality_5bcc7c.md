@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /how-credible-is-kit-greens-uap-story/
 nav_short_title: Claim Sources
 title: Which Green Stories Are First Hand?
-title_full: Which Green Stories Are First Hand? | Green
+title_full: Which Green Stories Are First Hand?
 display_title_short: Claim Sources
 display_title: Claim Sources
 heading_title: Which Green Stories Are First Hand?
@@ -289,7 +289,7 @@ next_link:
   permalink: /dia-paper/
   short_title: DIA Paper
   heading_title: What Does Green's DIA Paper Actually Prove?
-date: '2026-06-09 03:00:16 '
+date: '2026-06-11 21:05:35 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview.webp
@@ -298,8 +298,7 @@ image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview-soci
 
 ## Introduction
 
-The safest way to read [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s UAP record is to separate three layers: what he personally documented, what he is reported to have said, and what later UFO culture has attached to his name. Green’s strongest first-hand contribution is not a public claim that aliens exist, but a technical-medical line of work: assessing reported injuries and physiological effects in people who said they had close encounters with anomalous aerospace systems. His weakest credibility zone is the body-and-retrieval folklore around him, especially the disputed “alien autopsy” material, where the chain of custody is leaky, the documents are contested, and the most dramatic claims are not supported by public first-hand proof. That distinction matters because Green’s verified background gives him unusual credibility, but it does not automatically authenticate every story later attributed to him.
-
+The safest way to read Kit Green’s UAP record is to separate three layers: what he personally documented, what he is reported to have said, and what later UFO culture has attached to his name. Green’s strongest first-hand contribution is not a public claim that aliens exist, but a technical-medical line of work: assessing reported injuries and physiological effects in people who said they had close encounters with anomalous aerospace systems. His weakest credibility zone is the body-and-retrieval folklore around him, especially the disputed “alien autopsy” material, where the chain of custody is leaky, the documents are contested, and the most dramatic claims are not supported by public first-hand proof. That distinction matters because Green’s verified background gives him unusual credibility, but it does not automatically authenticate every story later attributed to him.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview.webp" | relative_url }}" alt="Overview image for Claim Sources" loading="eager" decoding="sync" fetchpriority="high">
 ## What Green can be credited with directly
@@ -315,7 +314,6 @@ Even there, the wording is narrower than many retellings suggest. The paper’s 
 Green’s own later clarification, as reported by Popular Mechanics, is also significant. He said the paper was about assessing accounts of injuries that could have resulted from claimed UAP encounters, but he also said he was not part of [AAWSAP]({{ 'aawsap/' | relative_url }}) except as a contractor for that paper. Popular Mechanics further reported that he thought the document had not been finally peer reviewed and had not expected it to become public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Are UFOs Real?</span><span class="citation-popover-snippet">Popular Mechanics Are UFOs Real?</span></span></span>
 
 The direct, documentable Green story is therefore this: a qualified physician-neuroscience figure with a CIA background wrote or supplied a medical analysis connected to anomalous aerospace exposure claims. That is substantial. It is also much less sensational than the later folklore built around his name.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-1-dark.svg" | relative_url }}" alt="Claim Sources illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The injury work is first-hand, but the cases are not all first-hand proof
@@ -340,7 +338,6 @@ Vice also reported that Green told Popular Mechanics his paper offered “zero e
 
 A credibility assessment should therefore label this material carefully:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Documented first-hand work:** Green’s technical injury paper and his professional role in medical-forensic analysis.
@@ -349,7 +346,6 @@ A credibility assessment should therefore label this material carefully:
 * **Unsupported extrapolation:** treating the injury work as proof of alien craft, bodies or a secret retrieval programme.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QpJebYW_vb4" title="Garry Nolan: Aliens | The Case They’re Already Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer">Garry Nolan: Aliens | The Case They’re Already Here</a></p><p class="youtube-embed-meta">Channel: Robinson Erhardt &middot; Views: 1.5M &middot; Uploaded: March 2025 &middot; Length: 3 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QpJebYW_vb4">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +371,6 @@ That does not prove every witness is wrong, and it does not erase unresolved UAP
 
 Green’s actual first-hand lane is narrower: medical and forensic assessment of reported effects. The retrieval-and-body lane is mostly second-hand, leaked, disputed or attributed. That is where the evidential risk rises sharply.
 
-
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-2-dark.svg" | relative_url }}" alt="Claim Sources illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why repetition makes the Green story seem stronger than it is
 
@@ -386,7 +381,6 @@ This is especially risky with figures like Green because his verified credential
 The AAWSAP/AATIP document trail shows the same dynamic. The Federation of American Scientists reported that DIA-funded research included highly speculative topics such as warp drives and invisibility cloaking, and described some of the work as beyond the boundaries of current science, engineering or military intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span> Green’s injury paper sits in that ecosystem, but it is not identical to every speculative item around it.
 
 A fair reading keeps two thoughts together. First, Green’s injury work is more concrete than many UAP rumours because there is a released technical paper and reported confirmation from Green that he supplied such a product. Second, the same programme environment produced a mixture of serious, speculative and fringe-adjacent material, so programme association alone cannot validate any particular extraordinary claim.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-3-dark.svg" | relative_url }}" alt="Claim Sources illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical source hierarchy for Kit Green stories
@@ -403,7 +397,6 @@ A sensible hierarchy looks like this:
 
 Using that hierarchy changes the Green assessment. His documented career and medical-forensic work remain credible enough to take seriously. The claim that he studied unusual injuries linked by patients to UAP is plausible and partly documented. The claim that this proves non-human technology is not supported by the public record. The claim that he publicly established alien bodies or a retrieval programme is far weaker still.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WCDVIGxn48M" title="Dr. Garry Nolan analyzes UAP whistleblower&#x27;s injury claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WCDVIGxn48M" target="_blank" rel="noopener noreferrer">Dr. Garry Nolan analyzes UAP whistleblower&#x27;s injury claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 391.0K &middot; Uploaded: January 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WCDVIGxn48M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WCDVIGxn48M">Open on YouTube</a></p></div></div></div>
 
 ## The credibility bottom line
@@ -414,9 +407,7 @@ The second-hand folklore is a different matter. Stories about alien autopsy foot
 
 For credibility, the dividing line is clear: Green’s documented work supports investigation of anomalous injury reports; it does not publicly prove alien bodies, non-human craft or a secret crash-retrieval system. His case is therefore neither easy debunking nor easy confirmation. It is a reminder that in UAP research, the most important evidence question is often not what someone believes, but how close the public record gets to what they personally documented.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uTCc2-1tbBQ" title="Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer">Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 6.6M &middot; Uploaded: February 2022 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uTCc2-1tbBQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -535,15 +526,15 @@ For credibility, the dividing line is clear: Green’s documented work supports 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BEACH Wall Art, Sci-fi Ocean Nautical Decor, Alien Sea UAP Poster"><img src="{{ '/assets/images/marketplace-covers/b458bdac1e62f3ec5fa2.jpg' | relative_url }}" alt="Listing image for Vintage UFO BEACH Wall Art, Sci-fi Ocean Nautical Decor, Alien Sea UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BEACH Wall Art, Sci-fi Ocean Nautical Decor, Alien Sea UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +542,15 @@ For credibility, the dividing line is clear: Green’s documented work supports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +558,15 @@ For credibility, the dividing line is clear: Green’s documented work supports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +574,15 @@ For credibility, the dividing line is clear: Green’s documented work supports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,7 +590,7 @@ For credibility, the dividing line is clear: Green’s documented work supports 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap wall art" data-ebay-reference="claim-sources-which-green-stories-are-first-hand-kit-green-uap-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-green-stories-are-first-hand-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="which-green-stories-are-first-hand-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -815,157 +806,157 @@ For credibility, the dividing line is clear: Green’s documented work supports 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBiographical Sketches of Committee Members  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK207949/](https://www.ncbi.nlm.nih.gov/books/NBK207949/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK207949/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK207949/</a>  
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
    Title: Stanford Professor Garry Nolan Is Analyzing Anomalous Materials From UFO Crashes  
-   Link: [https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/](https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/)  
+   Link: <a href="https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes/</a>  
 
 4. <a id="endnote-4"></a>
    Source: vice.com  
    Title: Leaked Documents Show Pentagon Was Studying UFO-Related Phenomena  
-   Link: [https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/](https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/)  
+   Link: <a href="https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/leaked-documents-show-pentagon-was-studying-ufo-related-phenomena/</a>  
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: alien autopsy footage nft auction  
-   Link: [https://www.space.com/alien-autopsy-footage-nft-auction](https://www.space.com/alien-autopsy-footage-nft-auction)  
+   Link: <a href="https://www.space.com/alien-autopsy-footage-nft-auction" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/alien-autopsy-footage-nft-auction</a>  
 
 6. <a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/world/does-pentagon-still-have-a-ufo-program-the-answer-is-a-bit-mysterious-idUSKBN1EB01L/](https://www.reuters.com/article/world/does-pentagon-still-have-a-ufo-program-the-answer-is-a-bit-mysterious-idUSKBN1EB01L/)  
+   Link: <a href="https://www.reuters.com/article/world/does-pentagon-still-have-a-ufo-program-the-answer-is-a-bit-mysterious-idUSKBN1EB01L/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/does-pentagon-still-have-a-ufo-program-the-answer-is-a-bit-mysterious-idUSKBN1EB01L/</a>  
 
 9. <a id="endnote-9"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: time.com  
    Title: alien autopsy hoax history  
-   Link: [https://time.com/4376871/alien-autopsy-hoax-history/](https://time.com/4376871/alien-autopsy-hoax-history/)  
+   Link: <a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 14. <a id="endnote-14"></a>
    Source: the-sun.com  
    Title: ufo encounter symptoms garry nolan brains  
-   Link: [https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/](https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/)  
+   Link: <a href="https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/tech/4249299/ufo-encounter-symptoms-garry-nolan-brains/</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/](https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/resources/csi/static/9796d1bd00cbbd2d07a6e87572f6b962/Studies-Extracts-67-3-Sep-2023.pdf](https://www.cia.gov/resources/csi/static/9796d1bd00cbbd2d07a6e87572f6b962/Studies-Extracts-67-3-Sep-2023.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/9796d1bd00cbbd2d07a6e87572f6b962/Studies-Extracts-67-3-Sep-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/9796d1bd00cbbd2d07a6e87572f6b962/Studies-Extracts-67-3-Sep-2023.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: today.wayne.edu  
    Title: chinese academy of sciences apppoints dr green as professor 25373  
-   Link: [https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373](https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373)  
+   Link: <a href="https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373" target="_blank" rel="noopener noreferrer nofollow">https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373</a>  
 
 18. <a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Are UFOs Real?  
-   Link: [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
 
 19. <a id="endnote-19"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: [https://fas.org/publication/aatip-list/](https://fas.org/publication/aatip-list/)  
+   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
 20. <a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo myths exposed  
-   Link: [https://www.popularmechanics.com/military/a65224436/pentagon-ufo-myths-exposed/](https://www.popularmechanics.com/military/a65224436/pentagon-ufo-myths-exposed/)  
+   Link: <a href="https://www.popularmechanics.com/military/a65224436/pentagon-ufo-myths-exposed/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a65224436/pentagon-ufo-myths-exposed/</a>  
 
 21. <a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: pentagon ufo report  
-   Link: [https://www.popularmechanics.com/military/aviation/a60165911/pentagon-ufo-report/](https://www.popularmechanics.com/military/aviation/a60165911/pentagon-ufo-report/)  
+   Link: <a href="https://www.popularmechanics.com/military/aviation/a60165911/pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/aviation/a60165911/pentagon-ufo-report/</a>  
 
 22. <a id="endnote-22"></a>
    Source: ripleys.com  
    Title: alien autopsy  
-   Link: [https://www.ripleys.com/stories/alien-autopsy](https://www.ripleys.com/stories/alien-autopsy)  
+   Link: <a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
 
 23. <a id="endnote-23"></a>
    Source: spacecentre.co.uk  
-   Link: [https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/](https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/)  
+   Link: <a href="https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/collections/categories/space-oddities/fake-roswell-alien-head/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VTrIGyYxMCw](https://www.youtube.com/watch?v=VTrIGyYxMCw)  
+   Link: <a href="https://www.youtube.com/watch?v=VTrIGyYxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyYxMCw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 US Program That Built and Crash-Retrieved Its Own UFOs...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Dr. Garry Nolan analyzes UAP whistleblower's injury claims | Reality Check  
-   Link: [https://www.youtube.com/watch?v=WCDVIGxn48M](https://www.youtube.com/watch?v=WCDVIGxn48M)  
+   Link: <a href="https://www.youtube.com/watch?v=WCDVIGxn48M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WCDVIGxn48M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Garry Nolan: Aliens | The Case They&#x27;re Already Here...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262  
-   Link: [https://www.youtube.com/watch?v=uTCc2-1tbBQ](https://www.youtube.com/watch?v=uTCc2-1tbBQ)  
+   Link: <a href="https://www.youtube.com/watch?v=uTCc2-1tbBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uTCc2-1tbBQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dr. Garry Nolan analyzes UAP whistleblower&#x27;s injury claims | Reality Check...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Garry Nolan: Aliens | The Case They're Already Here  
-   Link: [https://www.youtube.com/watch?v=QpJebYW_vb4](https://www.youtube.com/watch?v=QpJebYW_vb4)  
+   Link: <a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpJebYW_vb4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Alien Autopsy: Fact or Fiction? (1995) - Official Trailer | VMI Worldwide...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/](https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/they-saw-green-orbs-new-ufo-files-released-by-the-war-department-spark-massive-a/1472201661602404/</a>  
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/6122167/Weapons_of_Mass_Destruction_Volume_I_Chemical_and_Biological_Weapons_and_Volume_II_Nuclear_Weapons](https://www.academia.edu/6122167/Weapons_of_Mass_Destruction_Volume_I_Chemical_and_Biological_Weapons_and_Volume_II_Nuclear_Weapons)  
+   Link: <a href="https://www.academia.edu/6122167/Weapons_of_Mass_Destruction_Volume_I_Chemical_and_Biological_Weapons_and_Volume_II_Nuclear_Weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6122167/Weapons_of_Mass_Destruction_Volume_I_Chemical_and_Biological_Weapons_and_Volume_II_Nuclear_Weapons</a>  
 
 30. <a id="endnote-30"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/index/article/download_article/id/953.html](https://www.sciepublish.com/index/article/download_article/id/953.html)  
+   Link: <a href="https://www.sciepublish.com/index/article/download_article/id/953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/index/article/download_article/id/953.html</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/](https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/)  
+   Link: <a href="https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEWSMAX/posts/a-former-air-force-intelligence-officer-who-had-agreed-to-testify-before-congres/1494145272758070/](https://www.facebook.com/NEWSMAX/posts/a-former-air-force-intelligence-officer-who-had-agreed-to-testify-before-congres/1494145272758070/)  
+   Link: <a href="https://www.facebook.com/NEWSMAX/posts/a-former-air-force-intelligence-officer-who-had-agreed-to-testify-before-congres/1494145272758070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/a-former-air-force-intelligence-officer-who-had-agreed-to-testify-before-congres/1494145272758070/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KSEE24/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159414934734927/](https://www.facebook.com/KSEE24/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159414934734927/)  
+   Link: <a href="https://www.facebook.com/KSEE24/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159414934734927/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KSEE24/posts/a-newly-released-pentagon-report-says-some-witnesses-who-reported-ufo-sightings-/10159414934734927/</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-skinwalker/
 description: Focused pages that expand on Skinwalker.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: James_Lacatski_1e11f1_skinwalker_credibili_b0dde2
-parent_title: Skinwalker | How Credible Is James Lacatski?
+parent_title: Skinwalker
 parent_nav_short_title: Skinwalker
 parent_permalink: /skinwalker/
 ---

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /supporters-58c2df/
 nav_short_title: Sensor literacy
 title: Why Taylor's technical background matters to believers
-title_full: Why Taylor's technical background matters to believers | Supporters
+title_full: Why Taylor's technical background matters to believers
 display_title_short: Sensor literacy
 display_title: Sensor literacy
 heading_title: Why Taylor's technical background matters to believers
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Do Supporters Trust Taylor's UAP Work? | Taylor
+parent_title: Why Do Supporters Trust Taylor's UAP Work?
 parent_permalink: /supporters-58c2df/
 parent_nav_short_title: Supporters
 parent_heading_title: Why Do Supporters Trust Taylor's UAP Work?
@@ -247,7 +247,7 @@ prev_link:
   permalink: /sceptical-first/
   short_title: Sceptical first
   heading_title: Does Taylor really start as a sceptic?
-date: '2026-06-09 03:10:59 '
+date: '2026-06-11 21:08:40 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1.webp
@@ -257,7 +257,6 @@ image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literac
 ## Introduction
 
 [Supporters]({{ 'supporters-58c2df/' | relative_url }}) of <entity>["people","Travis Taylor","UAP investigator and aerospace engineer"](#endnote-1 "Endnote 1")</entity> often argue that his credibility in UAP investigations comes less from any single claim and more from the kind of technical questions he asks. In their view, many UFO debates collapse into arguments over eyewitness testimony, while Taylor approaches reports through sensors, instrumentation and measurement. That matters because some of the most discussed modern UAP cases involve radar tracks, infrared imagery, targeting systems and other military detection tools rather than simple visual sightings.
-
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1-dark.svg" | relative_url }}" alt="Sensor literacy illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Believers therefore treat Taylor's background in aerospace engineering, optical science and defence technology as a credibility signal. The argument is not that his qualifications automatically prove extraordinary conclusions. It is that he is better positioned than most media commentators to recognise the difference between a genuine sensor anomaly, an instrument error, a misinterpretation of data and a potentially unresolved event. Critics accept that expertise can be relevant while arguing that expertise alone cannot validate disputed UAP [claims]({{ 'claims/' | relative_url }}). The debate is largely about how much weight technical literacy should carry when evidence depends on complex instruments.
@@ -276,19 +275,15 @@ To believers, this distinguishes Taylor from celebrity UFO advocates, podcasters
 
 This argument became stronger for supporters after Taylor publicly confirmed that he had worked with the UAP [Task Force]({{ 'task-force/' | relative_url }}). His supporters regard that role as evidence that government investigators valued his technical skill set rather than merely his television profile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[Space Symposium 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">Space Symposium 2026Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
-
 ## Why UAP cases often turn into sensor questions
 
 A key reason supporters emphasise Taylor's sensor literacy is that many modern UAP incidents are not straightforward visual encounters.
 
-The 2021 Office of the Director of National Intelligence preliminary UAP assessment noted that many reported incidents were detected across multiple sensor systems, including radar, infrared sensors, electro-optical systems and direct observation. The report also warned that some apparent anomalies could result from sensor limitations, data quality problems or interpretation issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — • (U) Most of the UAP reported probably do represent physical objects given that...</span></span></span>
+The 2021 Office of the Director of National Intelligence preliminary UAP assessment noted that many reported incidents were detected across multiple sensor systems, including radar, infrared sensors, electro-optical systems and direct observation. The report also warned that some apparent anomalies could result from sensor limitations, data quality problems or interpretation issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — • (U) Most of the UAP reported probably do represent physical objects given that...</span></span></span>
 
 That creates a problem for investigators. A radar return by itself may not reveal an object's true identity. Infrared imagery can create misleading impressions of speed, temperature or distance. Camera footage can be affected by zoom settings, tracking behaviour and perspective effects. Multiple sensors may appear to confirm one another while actually recording different phenomena.
 
 Supporters argue that Taylor's background is relevant precisely because these are technical rather than philosophical questions. In their view, understanding whether a military sensor is showing a genuine anomaly requires knowledge of:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -303,7 +298,6 @@ Supporters argue that Taylor's background is relevant precisely because these ar
 
 Those are areas closer to engineering and physics than to traditional UFO culture.
 
-
 <img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-2-dark.svg" | relative_url }}" alt="Sensor literacy illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The importance believers place on instrument-first thinking
 
@@ -311,7 +305,7 @@ Many supporters point to Taylor's public scepticism as part of the credibility a
 
 That position matters because believers often present Taylor not as someone who begins with an extraterrestrial explanation but as someone who begins with instrument validation. In their preferred framing, he asks whether the data are real before asking what caused them.
 
-This approach mirrors a broader trend in official UAP discussions. Modern government assessments have increasingly focused on data collection, sensor fusion and reporting quality rather than dramatic public claims about alien visitors. The emphasis is on determining what sensors recorded, what confidence level investigators can assign to those recordings and whether ordinary explanations can be excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</span></span></span>
+This approach mirrors a broader trend in official UAP discussions. Modern government assessments have increasingly focused on data collection, sensor fusion and reporting quality rather than dramatic public claims about alien visitors. The emphasis is on determining what sensors recorded, what confidence level investigators can assign to those recordings and whether ordinary explanations can be excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</span></span></span>
 
 For supporters, Taylor appears aligned with that methodology. They see his technical background as evidence that he understands the evidential hierarchy: raw sensor data generally carry more weight than stories alone.
 
@@ -320,7 +314,6 @@ For supporters, Taylor appears aligned with that methodology. They see his techn
 Even [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) of UAP claims often acknowledge that technical expertise can provide genuine advantages.
 
 A sensor-literate investigator may be better equipped to:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -335,13 +328,11 @@ A sensor-literate investigator may be better equipped to:
 
 These are practical investigative benefits rather than proof of any particular interpretation.
 
-The wider scientific discussion around UAP research increasingly reflects this idea. Research groups attempting structured UAP studies have focused on deploying multiple sensors simultaneously and carefully documenting uncertainties, precisely because single-sensor observations are vulnerable to misinterpretation. Recent academic work on instrumented UAP field investigations has stressed the importance of calibration, cross-checking and eliminating ordinary explanations before treating an observation as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivInitial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The wider scientific discussion around UAP research increasingly reflects this idea. Research groups attempting structured UAP studies have focused on deploying multiple sensors simultaneously and carefully documenting uncertainties, precisely because single-sensor observations are vulnerable to misinterpretation. Recent academic work on instrumented UAP field investigations has stressed the importance of calibration, cross-checking and eliminating ordinary explanations before treating an observation as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 Supporters often place Taylor within that same general framework, whether or not they agree with every conclusion he reaches.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F9Vmsk6CcmI" title="More Weird UFO Files Just Released: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer">More Weird UFO Files Just Released: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F9Vmsk6CcmI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-dark.svg" | relative_url }}" alt="Sensor literacy illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where expertise stops being proof
 
 The strongest sceptical response is that technical competence and evidential validity are different things.
@@ -354,8 +345,6 @@ The history of UAP investigations contains many examples where initially puzzlin
 
 For that reason, Taylor's technical background is best understood as evidence about his capacity to analyse data, not evidence that any specific UAP case has an extraordinary explanation.
 
-
-<img src="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-dark.svg" | relative_url }}" alt="Sensor literacy illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the issue remains central to his reputation
 
 Among supporters, Taylor's reputation rests heavily on the belief that he brings engineering discipline into a field often criticised for speculation. His educational background in optical science, aerospace systems and defence technology provides a plausible reason for taking his technical assessments seriously, especially when discussions involve military sensors rather than eyewitness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[2Space Symposium 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">dr travis taylor</span><span class="citation-popover-snippet">Space Symposium 2026Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office...</span></span></span>
@@ -363,10 +352,6 @@ Among supporters, Taylor's reputation rests heavily on the belief that he brings
 At the same time, the credibility value of that background has limits. It can support the argument that Taylor understands how sophisticated detection systems work. It cannot, by itself, settle disputes over what those systems recorded.
 
 That tension explains why his sensor literacy remains one of the strongest arguments offered by supporters and one of the most carefully qualified arguments offered by sceptics. For believers, it suggests he is asking the right technical questions. For critics, it is relevant expertise but not a substitute for independently verifiable evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -485,15 +470,15 @@ That tension explains why his sensor literacy remains one of the strongest argum
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +486,15 @@ That tension explains why his sensor literacy remains one of the strongest argum
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +502,15 @@ That tension explains why his sensor literacy remains one of the strongest argum
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +518,15 @@ That tension explains why his sensor literacy remains one of the strongest argum
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +534,7 @@ That tension explains why his sensor literacy remains one of the strongest argum
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books -dvd" data-ebay-reference="sensor-literacy-why-taylor-s-technical-background-matters-to-believers-travis-taylor-uap-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-taylor-s-technical-background-matters-to-believers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-taylor-s-technical-background-matters-to-believers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,110 +750,110 @@ That tension explains why his sensor literacy remains one of the strongest argum
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: [https://en.wikipedia.org/wiki/Travis_S._Taylor](https://en.wikipedia.org/wiki/Travis_S._Taylor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
 2. <a id="endnote-2"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIPreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</p></details>
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — Most of the UAP reported probably do represent physical objects...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 202125 Jun 2021 — • (U) Most of the UAP reported probably do represent physical objects given that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a prelimin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office... Taylor had a leading role on the Unidentified Aerial Phenomena Task Force and was informally r...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2312.00558](https://arxiv.org/abs/2312.00558)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInitial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
    Published: December 1, 2023  
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: [Travis Taylor](&#123;&#123; 'how-credible-is-travis-taylor-on-uaps/' | relative_url &#125;&#125;)  
-   Link: [https://www.history.com/shows/the-secret-of-[skinwalker](https://www.history.com/shows/the-secret-of-[skinwalker)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-[skinwalker" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-[skinwalker</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: spacesymposium.org  
    Title: dr travis taylor  
-   Link: [https://www.spacesymposium.org/speaker/dr-travis-taylor/](https://www.spacesymposium.org/speaker/dr-travis-taylor/)  
+   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Symposium 2026Dr. Travis TaylorFrom 2019 to 2022, Dr. Taylor served as Chief Scientist for the UAP Task Force supporting the Office...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe report says: Most of the UAP reported probably do represent physical objects give...</p></details>
    Published: June 2021  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Travis-Taylor-6](https://www.researchgate.net/profile/Travis-Taylor-6)  
+   Link: <a href="https://www.researchgate.net/profile/Travis-Taylor-6" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Travis-Taylor-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis TAYLOR | Engineer | Doctor of PhilosophySkills and Expertise: Quantum Entanglement, Spacecraft Turbulence, Rocket Propulsion, Spac...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/](https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/)  
+   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis S. Taylor – The Scientist Behind the Science...Dr. Travis S. Taylor – The Scientist Behind the Science With PhDs in Optical S...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: waru.edu  
-   Link: [https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21](https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21)  
+   Link: <a href="https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Preliminary Assessment Unidentified Aerial...Unclassified, 9-page report to Congress prepared by the Office of the Director of Nati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/](https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceTravis is the real deal. One of the many reasons Travis is an important member of this team is...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/howiecarrshow/posts/taylors-takes-trumps-ufo-release-is-a-thrilling-disappointment/1538080897686143/](https://www.facebook.com/howiecarrshow/posts/taylors-takes-trumps-ufo-release-is-a-thrilling-disappointment/1538080897686143/)  
+   Link: <a href="https://www.facebook.com/howiecarrshow/posts/taylors-takes-trumps-ufo-release-is-a-thrilling-disappointment/1538080897686143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/howiecarrshow/posts/taylors-takes-trumps-ufo-release-is-a-thrilling-disappointment/1538080897686143/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump&#x27;s UFO release is a thrilling disappointmentDr. Travis Taylor is credible enough to comment on the &quot;Tic Tac&quot; simply because he was t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dkiapcss.edu  
-   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — In an unclassified report,[iii] the ODNI admitted...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aiaa.org  
    Title: UAPIOC Opinion Paper UAP Occupational Safety Reporting For Publication kb  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:... 2021 Preliminary Assessment on Unidentified Anomalous Phenomena (UAP)1 initiated an increase in public interes...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+   Link: <a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIIdzXiMDqI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Force mad...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/911734917145827/posts/1530374071948572/](https://www.facebook.com/groups/911734917145827/posts/1530374071948572/)  
+   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1530374071948572/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1530374071948572/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 21, 2022, that he had been secretly working as the chief scientist for the Pentagon&#x27;s...Read more...</p></details>
    Published: June 21, 2022  
 
 19. <a id="endnote-19"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt31497136/](https://www.imdb.com/title/tt31497136/)  
+   Link: <a href="https://www.imdb.com/title/tt31497136/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31497136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de; 2024; 1h 11m. YOUR RATING. Rate. Disclosed: UFO Files (2023).Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...Travis is well known for being a science fiction writer. Says we can have telepo...</p></details>

@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /dia-paper/
 nav_short_title: DIA Release
 title: What DIA Release Actually Proves
-title_full: What DIA Release Actually Proves | DIA Paper
+title_full: What DIA Release Actually Proves
 display_title_short: DIA Release
 display_title: DIA Release
 heading_title: What DIA Release Actually Proves
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Does Green's DIA Paper Actually Prove? | Green
+parent_title: What Does Green's DIA Paper Actually Prove?
 parent_permalink: /dia-paper/
 parent_nav_short_title: DIA Paper
 parent_heading_title: What Does Green's DIA Paper Actually Prove?
@@ -247,7 +247,7 @@ next_link:
   permalink: /paper-claims/
   short_title: Paper Claims
   heading_title: Did the Paper Prove UAP Injuries?
-date: '2026-06-09 03:00:35 '
+date: '2026-06-11 21:05:52 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_e
 
 ## Introduction
 
-The release of [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }})’s injury paper through official Defense Intelligence Agency (DIA) channels is one of the strongest pieces of documentary evidence that Green was involved in a real government-linked effort examining alleged human effects associated with anomalous aerospace encounters. It is also one of the most misunderstood documents in the wider UFO and UAP debate.
-
+The release of Kit Green’s injury paper through official Defense Intelligence Agency (DIA) channels is one of the strongest pieces of documentary evidence that Green was involved in a real government-linked effort examining alleged human effects associated with anomalous aerospace encounters. It is also one of the most misunderstood documents in the wider UFO and UAP debate.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-1-dark.svg" | relative_url }}" alt="DIA Release illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key point is simple: a DIA-hosted document proves provenance, not truth. The paper’s appearance in the DIA Freedom of Information Act (FOIA) reading room shows that the document existed within a genuine defence research framework and was released through an official government process. It does not show that the DIA concluded UFOs caused the reported injuries, that the cases were scientifically validated, or that the agency formally endorsed the paper’s conclusions. That distinction matters when assessing both Kit Green’s credibility and the evidential value of the document itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
@@ -296,7 +295,6 @@ The paper therefore sits in an awkward middle category:
 
 That distinction is often lost in media coverage that presents the document as a Pentagon confirmation of UFO injuries.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q42441-1l8k" title="The Next Steps in UFO Research with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer">The Next Steps in UFO Research with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 29.0K &middot; Uploaded: February 2022 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q42441-1l8k">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between Hosting a Paper and Validating Its Claims
@@ -308,7 +306,6 @@ The paper examines reports of burns, neurological symptoms, sensory disturbances
 That is not the same thing as proving that a reported encounter actually involved an anomalous craft.
 
 Several evidential gaps remain visible:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -323,7 +320,6 @@ Several evidential gaps remain visible:
 Even where injuries may be genuine, demonstrating injury is easier than demonstrating cause.
 
 A person can suffer burns, headaches, neurological symptoms or eye irritation. The more difficult question is whether those effects came from a UAP, a conventional source, environmental exposure, misidentification, psychological stress, incomplete reporting or some other mechanism. The DIA release does not resolve that question.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-2-dark.svg" | relative_url }}" alt="DIA Release illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Kit Green's Credibility
@@ -340,12 +336,11 @@ In fact, much of the paper's analytical framework points toward known physical m
 
 As a result, the DIRD supports Green's credibility in one narrow sense — involvement and access — while leaving the larger truth of the underlying UAP claims unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VD0ZVbtbnfI" title="Archives of the Impossible conference | Flash Talk: Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer">Archives of the Impossible conference | Flash Talk: Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Rice Humanities and Arts &middot; Views: 13.4K &middot; Uploaded: June 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VD0ZVbtbnfI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Document Became So Contested
 
-The injury paper gained unusual visibility after wider releases of AAWSAP-related material and media reports highlighting references to burns, neurological effects and unusual medical outcomes. Headlines often focused on the most dramatic elements, including references to alleged radiation injuries and reproductive effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">Space1500 pages of UFO-related reports declassified by US...13 Apr 2022 — One standout document from the collection is a report titled A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">UFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled Anomalous A...</span></span></span>
+The injury paper gained unusual visibility after wider releases of AAWSAP-related material and media reports highlighting references to burns, neurological effects and unusual medical outcomes. Headlines often focused on the most dramatic elements, including references to alleged radiation injuries and reproductive effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">1500 pages of UFO-related reports declassified by US...13 Apr 2022 — One standout document from the collection is a report titled A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">UFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled Anomalous A...</span></span></span>
 
 This produced two competing interpretations.
 
@@ -357,7 +352,6 @@ This produced two competing interpretations.
 
 Critics argued that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Studying a claim is not equivalent to validating it.
@@ -368,7 +362,6 @@ Critics argued that:
 </div>
 
 Both sides can point to genuine aspects of the record. The mistake comes when either side overstates what the DIA release proves.
-
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-3-dark.svg" | relative_url }}" alt="DIA Release illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Limit on Claims About Green's Paper
@@ -387,9 +380,7 @@ It does not prove:
 
 For readers assessing Kit Green's credibility, this makes the DIRD an important but limited piece of evidence. It is stronger than hearsay because it is a real, traceable government record. Yet it remains weaker than many advocates suggest because official release demonstrates authenticity of the document, not authenticity of every claim contained within it. The distinction between disclosure and endorsement is precisely where the evidential value of Green's injury paper begins and ends.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sUkzQFtd1cw" title="Anomalous Acute and Subacute Field Effects on Human Biological Tissues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer">Anomalous Acute and Subacute Field Effects on Human Biological Tissues</a></p><p class="youtube-embed-meta">Channel: Gilad James Mystery School &middot; Views: 148 &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sUkzQFtd1cw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -508,15 +499,15 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +515,15 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +531,15 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +547,15 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +563,7 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="dia-release-what-dia-release-actually-proves-kit-green-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-dia-release-actually-proves-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-dia-release-actually-proves-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,139 +779,139 @@ For readers assessing Kit Green's credibility, this makes the DIRD an important 
 1. <a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This study addresses the clinical medical...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dia.mil  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyFOIA Electronic Reading RoomThis page is designed to allow access to records which have been previously releas...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf](https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf)  
+   Link: <a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological Tissues. Prepared by: (b\(3):10 USC 424. Defense Intelligence Agency. Author: (b)(...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA-00159-201826 DIRD: Anomalous Acute and Subacute Field Effects on Human Biological. Tissues. 27 DIRD: Laser Lightcraft Nanosatellites...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.space.com/ufo-report-human-biological-injuries](https://www.space.com/ufo-report-human-biological-injuries)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space1500 pages of UFO-related reports declassified by US...13 Apr 2022 — One standout document from the collection is a report titled A...</p></details>
+   Link: <a href="https://www.space.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-report-human-biological-injuries</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1500 pages of UFO-related reports declassified by US...13 Apr 2022 — One standout document from the collection is a report titled A...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: [https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf](https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf)  
+   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf17 Feb 2026 — Any and all Defense Intelligence Agency (DIA) records pertaining to the All-domain. Awareness Resolution Office. This re...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: “The Pentagon documents state that people who observed  
-   Link: [https://www.facebook.com/groups/lifeboatfoundation/posts/10160922843038455/](https://www.facebook.com/groups/lifeboatfoundation/posts/10160922843038455/)  
+   Link: <a href="https://www.facebook.com/groups/lifeboatfoundation/posts/10160922843038455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lifeboatfoundation/posts/10160922843038455/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological Tissues - investigates injuries to &quot;human observers by anomalous advanced aerospace systems&quot;. And the report - prepared for th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf](https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald The...18 Jun 2025 — This is a final response to your May 16, 2020 Freedom of Information Act (FOIA) request, a copy of w...</p></details>
    Published: May 16, 2020  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Anomalous Acute and Subacute Field Effects on Human Biological Tissues  
-   Link: [https://www.youtube.com/watch?v=sUkzQFtd1cw](https://www.youtube.com/watch?v=sUkzQFtd1cw)  
+   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A. Kelleher...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: locationsunknown.org  
    Title: Locations Unknown Defense Intelligence Reference Documents (DRIDs)An  
-   Link: [https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents](https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents)  
+   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute &amp; Subacute Field Effects on Human Biological Tissues (PDF - 38 Pages)Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Reference Documents&quot;. www.dia...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
    Title: ufo report human biological injuries  
-   Link: [https://www.livescience.com/ufo-report-human-biological-injuries](https://www.livescience.com/ufo-report-human-biological-injuries)  
+   Link: <a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled Anomalous A...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Kit Green, one of... No, it&#x27;s an actual AAWSAP/AATIP document released by the Defens...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc](https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc)  
+   Link: <a href="https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Admits to the Possible Reality of ExtraterrestrialsAnomalous acute and subacute field effects on human biological tissues. Retri...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: visiontimes.com  
-   Link: [https://www.visiontimes.com/2022/04/06/foia-request-reveals-pentagon-reports-of-radiation-burns-and-unaccounted-for-pregnancies-after-contact-with-ufos.html](https://www.visiontimes.com/2022/04/06/foia-request-reveals-pentagon-reports-of-radiation-burns-and-unaccounted-for-pregnancies-after-contact-with-ufos.html)  
+   Link: <a href="https://www.visiontimes.com/2022/04/06/foia-request-reveals-pentagon-reports-of-radiation-burns-and-unaccounted-for-pregnancies-after-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2022/04/06/foia-request-reveals-pentagon-reports-of-radiation-burns-and-unaccounted-for-pregnancies-after-contact-with-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Request Reveals Pentagon Reports of &#x27;Radiation Burns&#x27;...Part of the dump was a report entitled, “Anomalous Acute and Subacute Field...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mdsafetech.org  
-   Link: [https://mdsafetech.org/science/military-studies-and-compendiums/](https://mdsafetech.org/science/military-studies-and-compendiums/)  
+   Link: <a href="https://mdsafetech.org/science/military-studies-and-compendiums/" target="_blank" rel="noopener noreferrer nofollow">https://mdsafetech.org/science/military-studies-and-compendiums/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Physicians for Safe TechnologyMilitary and Government Reports[https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Nucl...&quot;](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Nucl...&quot;)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/](https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/)  
+   Link: <a href="https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of VirginiaThe U.S. Department of Defense recently released a cache of once-classified papers on unidentified anomalous phenom...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/](https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/)  
+   Link: <a href="https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/biological-and-physiological-claims-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological and Physiological Claims and EvidenceDefense Intelligence Agency (DIA): Anomalous Acute and Subacute Field Effects on Human Bi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues](https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues)  
+   Link: <a href="https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/911352232/DIRD-26-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues</a>  
 
 23. <a id="endnote-23"></a>
    Source: alienhub.com  
-   Link: [https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/](https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/)  
+   Link: <a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...Apr 7, 2022 — Newly released document from Pentagon DIA on research conducted int...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dhs.gov  
    Title: 25 0430 priv dhs privacy foia log fy2024 redacted  
-   Link: [https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf](https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-04/25_0430_priv_dhs-privacy-foia-log-fy2024-redacted.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(b) (6) (b) (6)3 Oct 2023 — (1) The A-file of the subject of record. (2) Records of apprehension, advance parole, detention, deportation...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Note: Hathaway was one of the scientists tasked with writing a Defense Intel...</p></details>

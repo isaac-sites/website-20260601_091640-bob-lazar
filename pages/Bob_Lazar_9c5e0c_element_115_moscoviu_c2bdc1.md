@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /did-bob-lazars-story-hold-up/
 nav_short_title: Element 115
 title: Did Element 115 Vindicate Lazar?
-title_full: Did Element 115 Vindicate Lazar? | Lazar
+title_full: Did Element 115 Vindicate Lazar?
 display_title_short: Element 115
 display_title: Element 115
 heading_title: Did Element 115 Vindicate Lazar?
@@ -289,7 +289,7 @@ next_link:
   permalink: /erased-records/
   short_title: Erased Records
   heading_title: Could Lazar's Records Have Been Erased?
-date: '2026-06-09 02:51:45 '
+date: '2026-06-11 21:00:40 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview.webp
@@ -298,18 +298,16 @@ image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview-soci
 
 ## Introduction
 
-[Bob Lazar]({{ 'did-bob-lazars-story-hold-up/' | relative_url }})’s Element 115 claim is often treated as one of the strongest points in his favour: in 1989 he described an exotic “115” fuel before element 115 was publicly synthesised and later named moscovium. The catch is that the real scientific question is not whether an element with 115 protons could exist. Nuclear physicists already expected undiscovered superheavy elements to be reachable in principle. The hard part of Lazar’s claim is much narrower: he said the craft used a stable isotope of Element 115 in a compact reactor and gravity-[propulsion]({{ 'propulsion/' | relative_url }}) system. Publicly known moscovium is synthetic, extremely radioactive, produced atom by atom, and decays in fractions of a second. IUPAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pls.llnl.gov">[Physical and Life Sciences Directorate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pls.llnl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Bob Lazar’s Element 115 claim is often treated as one of the strongest points in his favour: in 1989 he described an exotic “115” fuel before element 115 was publicly synthesised and later named moscovium. The catch is that the real scientific question is not whether an element with 115 protons could exist. Nuclear physicists already expected undiscovered superheavy elements to be reachable in principle. The hard part of Lazar’s claim is much narrower: he said the craft used a stable isotope of Element 115 in a compact reactor and gravity-[propulsion]({{ 'propulsion/' | relative_url }}) system. Publicly known moscovium is synthetic, extremely radioactive, produced atom by atom, and decays in fractions of a second. IUPAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pls.llnl.gov">[Physical and Life Sciences Directorate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pls.llnl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview.webp" | relative_url }}" alt="Overview image for Element 115" loading="eager" decoding="sync" fetchpriority="high">
 That does not prove Lazar was lying, because absence of a public stable isotope is not the same as proof that no such isotope can ever exist. But it does mean that the later discovery of moscovium does not, by itself, vindicate his story. It confirms only the least surprising part of the claim — that element 115 is a real entry on the periodic table — while leaving the decisive part unsupported.
 
 ## What Lazar said the fuel did
 
-Lazar’s Element 115 claim was never just a prediction that chemists would one day fill a blank in the periodic table. In his account, Element 115 was central to the operation of a recovered non-human craft allegedly held at S-4 near Area 51. He described it as the fuel for a reactor, said it was connected to the production of antimatter, and tied it to “[gravity amplifiers]({{ 'gravity-drive/' | relative_url }})” that supposedly allowed the craft to manoeuvre by manipulating gravity rather than by conventional thrust. A transcript of the 1991 “Lazar Tape” describes the “power source” as a reactor using Element 115 as fuel, and presents the material as part of the craft’s propulsion mechanism rather than as a mere scientific curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">lazar tape government bible 1991</span></span></span>
+Lazar’s Element 115 claim was never just a prediction that chemists would one day fill a blank in the periodic table. In his account, Element 115 was central to the operation of a recovered non-human craft allegedly held at S-4 near Area 51. He described it as the fuel for a reactor, said it was connected to the production of antimatter, and tied it to “gravity amplifiers” that supposedly allowed the craft to manoeuvre by manipulating gravity rather than by conventional thrust. A transcript of the 1991 “Lazar Tape” describes the “power source” as a reactor using Element 115 as fuel, and presents the material as part of the craft’s propulsion mechanism rather than as a mere scientific curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sozai.app">[Soz AI Note Taker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sozai.app</span><span class="citation-popover-title">lazar tape government bible 1991</span><span class="citation-popover-snippet">lazar tape government bible 1991</span></span></span>
 
 The credibility issue is therefore mechanical, not semantic. Lazar’s claim depends on several linked propositions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +319,6 @@ The credibility issue is therefore mechanical, not semantic. Lazar’s claim dep
 </div>
 
 These are far stronger claims than “element 115 was later discovered”. They imply a material with properties not seen in publicly known nuclear data: long-lived, handleable, energetically useful, and coupled to a novel gravity-control mechanism. That is why sceptics argue the later naming of moscovium is often over-sold in popular UFO discussion. The relevant comparison is not between “unknown element” and “known element”; it is between Lazar’s alleged stable working fuel and the real isotopes made in accelerator experiments.
-
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-1-dark.svg" | relative_url }}" alt="Element 115 illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What scientists later made
@@ -336,7 +333,6 @@ The publicly known isotopes are also short-lived. Live Science reported in 2016 
 
 That range matters. A half-life of milliseconds or fractions of a second is not a small engineering inconvenience; it is a completely different kind of substance from the fuel Lazar described. A material that decays almost immediately cannot sit on a shelf as a power source for a hidden aerospace programme.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-7jA4OLNZvA" title="Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer">Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 706.6K &middot; Uploaded: January 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-7jA4OLNZvA">Open on YouTube</a></p></div></div></div>
 
 ## Why stability is the real issue
@@ -349,14 +345,12 @@ There is a real scientific idea nearby: the “island of stability”. Nuclear t
 
 For Lazar’s claim to be strengthened by isotope science, several things would need to happen. Scientists would need to identify a specific isotope of moscovium with a long enough half-life for storage and handling; show that it can be produced in more than atom-by-atom quantities; demonstrate energy release in a controlled reactor-like process; and establish the claimed gravity-related effects. None of that is present in the public moscovium record. Public nuclear data supports the existence of short-lived moscovium isotopes, not the existence of Lazar’s [stable fuel]({{ 'stable-fuel/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-2-dark.svg" | relative_url }}" alt="Element 115 illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “prediction” argument is weaker than it first sounds
 
 The most charitable interpretation is that Lazar attached his UFO account to a technically plausible future entry in the periodic table before that element had been officially produced. That is rhetorically striking, and it helps explain why Element 115 remains one of the most memorable parts of his story.
 
 But as evidence, the prediction has limits:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +363,6 @@ But as evidence, the prediction has limits:
 
 This is why the moscovium discovery is better described as a partial superficial overlap than a confirmation. It confirms that the periodic-table slot exists. It does not confirm Lazar’s employment, S-4, the craft, the reactor, the propulsion system, the alleged quantity of material, or the stability of the isotope.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oItffbIOgUQ" title="Ancient Aliens: Element 115 (Season 11, Episode 13) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oItffbIOgUQ" target="_blank" rel="noopener noreferrer">Ancient Aliens: Element 115 (Season 11, Episode 13) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 2.7M &middot; Uploaded: September 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oItffbIOgUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oItffbIOgUQ">Open on YouTube</a></p></div></div></div>
 
 ## How moscovium affects Lazar’s credibility
@@ -380,13 +373,11 @@ The fair assessment is that moscovium gives Lazar a talking point, not a proof. 
 
 This distinction also matters because modern official [UAP reviews]({{ 'uap-reviews/' | relative_url }}) have not publicly supplied the missing support. NASA’s UAP independent study reported that, in peer-reviewed scientific literature, there is no conclusive evidence for an extraterrestrial origin of UAP. AARO’s 2024 historical review similarly said it had found no verifiable evidence that the US government or private industry had access to extraterrestrial technology. Those findings do not directly disprove every detail of Lazar’s story, but they leave his Element 115 mechanism without institutional corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoecOE2RKdk" title="Alien Fuel at Area 51: Bob Lazar’s Shocking Claims | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer">Alien Fuel at Area 51: Bob Lazar’s Shocking Claims | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 10.0K &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoecOE2RKdk">Open on YouTube</a></p></div></div></div>
 
 ## What would actually change the assessment
 
 The Element 115 debate would change materially if independently verifiable evidence appeared. The most important evidence would not be another interview, documentary or broad claim about Area 51. It would be physical and technical:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -400,90 +391,47 @@ The Element 115 debate would change materially if independently verifiable evide
 
 Without that, the strongest scientifically grounded conclusion remains cautious: moscovium is real, but publicly known moscovium does not behave like Lazar’s Element 115. The later synthesis of element 115 is an interesting coincidence of terminology and timing, not a validation of the alleged S-4 propulsion system.
 
-
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-3-dark.svg" | relative_url }}" alt="Element 115 illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Did Element 115 Vindicate Lazar?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Did Element 115 Vindicate Lazar?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dreamland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h-esDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dreamland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreamland">Dreamland</a>
-        </h4>
-        <p class="fr-book-author">By Bob Lazar</p>
-        
-        <p class="fr-book-desc">Contains the original narrative connecting Element 115 to alien propulsion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dreamland+by+Bob+Lazar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Supplies historical context for claims surrounding S-4 and advanced technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Disappearing Spoon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14410532-M.jpg" alt="Cover for The Disappearing Spoon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Helps readers understand elements, atomic discoveries, and periodic-table context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The elements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14830146-M.jpg" alt="Cover for The elements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The elements">The elements</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides background on known elements and how new elements are classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+elements&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dreamland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dreamland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Disappearing+Spoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Disappearing Spoon</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -520,15 +468,15 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +484,15 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="{{ '/assets/images/marketplace-covers/cfb582b2b2b6021467bd.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +500,15 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +516,15 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +532,7 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar poster -book -books" data-ebay-reference="element-115-did-element-115-vindicate-lazar-bob-lazar-bob-lazar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-element-115-vindicate-lazar-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-element-115-vindicate-lazar-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -800,152 +748,152 @@ Without that, the strongest scientifically grounded conclusion remains cautious:
 1. <a id="endnote-1"></a>
    Source: iupac.org  
    Title: Announces the Names of the Elements 113, 115  
-   Link: [https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/)  
+   Link: <a href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/</a>  
 
 2. <a id="endnote-2"></a>
    Source: iupac.org  
    Title: is naming the four new elements nihonium moscovium tennessine and oganesson  
-   Link: [https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/](https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/)  
+   Link: <a href="https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: iupac.org  
    Title: discovery and assignment of elements with atomic numbers 113 115 117 and 118  
-   Link: [https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/](https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/)  
+   Link: <a href="https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: pls.llnl.gov  
-   Link: [https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115](https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115)  
+   Link: <a href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow">https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115</a>  
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
    Title: 41424 facts about ununpentium  
-   Link: [https://www.livescience.com/41424-facts-about-ununpentium.html](https://www.livescience.com/41424-facts-about-ununpentium.html)  
+   Link: <a href="https://www.livescience.com/41424-facts-about-ununpentium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/41424-facts-about-ununpentium.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: sozai.app  
    Title: lazar tape government bible 1991  
-   Link: [https://sozai.app/transcript/lazar-tape-government-bible-1991/](https://sozai.app/transcript/lazar-tape-government-bible-1991/)  
+   Link: <a href="https://sozai.app/transcript/lazar-tape-government-bible-1991/" target="_blank" rel="noopener noreferrer nofollow">https://sozai.app/transcript/lazar-tape-government-bible-1991/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moscovium](https://en.wikipedia.org/wiki/Moscovium)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Island of stability  
-   Link: [https://en.wikipedia.org/wiki/Island_of_stability](https://en.wikipedia.org/wiki/Island_of_stability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Island_of_stability</a>  
 
 16. <a id="endnote-16"></a>
    Source: chemlin.org  
-   Link: [https://www.chemlin.org/isotope/moscovium-290](https://www.chemlin.org/isotope/moscovium-290)  
+   Link: <a href="https://www.chemlin.org/isotope/moscovium-290" target="_blank" rel="noopener noreferrer nofollow">https://www.chemlin.org/isotope/moscovium-290</a>  
 
 17. <a id="endnote-17"></a>
    Source: chemlin.org  
    Title: Moscovium Isotopes  
-   Link: [https://www.chemlin.org/chemical-elements/moscovium-isotopes.php](https://www.chemlin.org/chemical-elements/moscovium-isotopes.php)  
+   Link: <a href="https://www.chemlin.org/chemical-elements/moscovium-isotopes.php" target="_blank" rel="noopener noreferrer nofollow">https://www.chemlin.org/chemical-elements/moscovium-isotopes.php</a>  
 
 18. <a id="endnote-18"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
-   Link: [https://pubchem.ncbi.nlm.nih.gov/element/Moscovium](https://pubchem.ncbi.nlm.nih.gov/element/Moscovium)  
+   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
 
 19. <a id="endnote-19"></a>
    Source: iupac.cnr.it  
-   Link: [https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118](https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118)  
+   Link: <a href="https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118" target="_blank" rel="noopener noreferrer nofollow">https://www.iupac.cnr.it/8-news/news-en/6-iupac-announces-the-proposed-names-of-the-four-new-elements-with-atomic-numbers-113-115-117-and-118</a>  
 
 20. <a id="endnote-20"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm](https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: element 115  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/element-115.htm](https://science.howstuffworks.com/space/aliens-ufos/element-115.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: periodictableofelements.fandom.com  
-   Link: [https://periodictableofelements.fandom.com/wiki/Moscovium](https://periodictableofelements.fandom.com/wiki/Moscovium)  
+   Link: <a href="https://periodictableofelements.fandom.com/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://periodictableofelements.fandom.com/wiki/Moscovium</a>  
 
 23. <a id="endnote-23"></a>
    Source: villanovachemistry.wordpress.com  
-   Link: [https://villanovachemistry.wordpress.com/moscovium/](https://villanovachemistry.wordpress.com/moscovium/)  
+   Link: <a href="https://villanovachemistry.wordpress.com/moscovium/" target="_blank" rel="noopener noreferrer nofollow">https://villanovachemistry.wordpress.com/moscovium/</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uLPh1v5F_OM](https://www.youtube.com/watch?v=uLPh1v5F_OM)  
+   Link: <a href="https://www.youtube.com/watch?v=uLPh1v5F_OM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uLPh1v5F_OM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Alien Pictures, Why Aliens Visit, & Element 115  
-   Link: [https://www.youtube.com/watch?v=-7jA4OLNZvA](https://www.youtube.com/watch?v=-7jA4OLNZvA)  
+   Link: <a href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-7jA4OLNZvA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Fuel at Area 51: Bob Lazar&#x27;s Shocking Claims | WION Podcast...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Alien Fuel at Area 51: Bob Lazar's Shocking Claims | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=NoecOE2RKdk](https://www.youtube.com/watch?v=NoecOE2RKdk)  
+   Link: <a href="https://www.youtube.com/watch?v=NoecOE2RKdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoecOE2RKdk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELEMENT 115: DARK ENERGY? - ALIENS&#x27; PROPULSION SYSTEM REVEALED...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: ELEMENT 115: DARK ENERGY?  
-   Link: [https://www.youtube.com/watch?v=GVWf7MgEOSw](https://www.youtube.com/watch?v=GVWf7MgEOSw)  
+   Link: <a href="https://www.youtube.com/watch?v=GVWf7MgEOSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GVWf7MgEOSw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Element 115 (Season 11, Episode 13) | History...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/331644513_Analysis_of_Claims_Regarding_EM_Propulsion_System](https://www.researchgate.net/publication/331644513_Analysis_of_Claims_Regarding_EM_Propulsion_System)  
+   Link: <a href="https://www.researchgate.net/publication/331644513_Analysis_of_Claims_Regarding_EM_Propulsion_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331644513_Analysis_of_Claims_Regarding_EM_Propulsion_System</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report](https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report)  
+   Link: <a href="https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291418578_Discovery_of_the_elements_with_atomic_numbers_Z_113_115_and_117_IUPAC_Technical_Report</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/physorg/posts/an-international-team-led-by-scientists-of-gsifair-in-darmstadt-johannes-gutenbe/997160819105973/](https://www.facebook.com/physorg/posts/an-international-team-led-by-scientists-of-gsifair-in-darmstadt-johannes-gutenbe/997160819105973/)  
+   Link: <a href="https://www.facebook.com/physorg/posts/an-international-team-led-by-scientists-of-gsifair-in-darmstadt-johannes-gutenbe/997160819105973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/physorg/posts/an-international-team-led-by-scientists-of-gsifair-in-darmstadt-johannes-gutenbe/997160819105973/</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/](https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/</a>  
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/](https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sdilva/can_an_actual_engineer_weigh_in_on_bob_lazars/</a>  
 
 33. <a id="endnote-33"></a>
    Source: envisioning.com  
-   Link: [https://www.envisioning.com/research/xenotech/element-115-power-system](https://www.envisioning.com/research/xenotech/element-115-power-system)  
+   Link: <a href="https://www.envisioning.com/research/xenotech/element-115-power-system" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/element-115-power-system</a>

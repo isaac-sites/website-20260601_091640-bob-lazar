@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /official-role/
 nav_short_title: Access limits
 title: Where does Lacatski's verified access stop?
-title_full: Where does Lacatski's verified access stop? | Official Role
+title_full: Where does Lacatski's verified access stop?
 display_title_short: Access limits
 display_title: Access limits
 heading_title: Where does Lacatski's verified access stop?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Was Lacatski's Real Government Role? | Lacatski
+parent_title: What Was Lacatski's Real Government Role?
 parent_permalink: /official-role/
 parent_nav_short_title: Official Role
 parent_heading_title: What Was Lacatski's Real Government Role?
@@ -247,7 +247,7 @@ next_link:
   permalink: /baass-reports/
   short_title: BAASS reports
   heading_title: How much did the BAASS contract really show?
-date: '2026-06-09 02:57:28 '
+date: '2026-06-11 21:04:02 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-1.webp
@@ -256,8 +256,7 @@ image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified
 
 ## Introduction
 
-[James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s documented role in the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications Program (AAWSAP) is one of the strongest verifiable elements of his public profile. Public records show that he helped lead a real government-funded programme and had access to classified environments and contractors working under that programme. However, that verified access does not automatically validate his later statements that the United States possesses a craft of [unknown origin]({{ 'unknown-origin/' | relative_url }}) or has gained access to its interior. The key credibility question is not whether Lacatski held an official position; it is whether his position provides publicly verifiable evidence for the extraordinary claims that followed.
-
+James Lacatski’s documented role in the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications Program (AAWSAP) is one of the strongest verifiable elements of his public profile. Public records show that he helped lead a real government-funded programme and had access to classified environments and contractors working under that programme. However, that verified access does not automatically validate his later statements that the United States possesses a craft of [unknown origin]({{ 'unknown-origin/' | relative_url }}) or has gained access to its interior. The key credibility question is not whether Lacatski held an official position; it is whether his position provides publicly verifiable evidence for the extraordinary claims that followed.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-1-dark.svg" | relative_url }}" alt="Access limits illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is often lost in UAP debates. A person can have genuine government access, high-level security clearances and direct involvement in classified programmes while still making claims that remain unproven to the public. Lacatski's case illustrates the difference between demonstrated access and demonstrated evidence.
@@ -272,16 +271,13 @@ What those records do not establish is the existence of recovered non-human craf
 
 The distinction matters because evidence does not automatically transfer from a person's credentials to every claim they later make. A government official may know genuine classified information, but observers cannot simply assume that all subsequent statements are therefore true. The evidential burden remains attached to the claim itself.
 
-Lacatski's strongest public claim is that the US government possesses a craft of unknown origin and has accessed its interior. He has repeated versions of this claim in interviews and publications associated with the AAWSAP book series. Yet no supporting documents, photographs, technical reports, physical samples or official acknowledgements have been released publicly to substantiate that specific assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWho is JAMES LACATSKI, the government official who...Dr. Jim Lacatski claims the U.S. is in possession of a recovered UFO craft an...</span></span></span>
+Lacatski's strongest public claim is that the US government possesses a craft of unknown origin and has accessed its interior. He has repeated versions of this claim in interviews and publications associated with the AAWSAP book series. Yet no supporting documents, photographs, technical reports, physical samples or official acknowledgements have been released publicly to substantiate that specific assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Who is JAMES LACATSKI, the government official who...Dr. Jim Lacatski claims the U.S. is in possession of a recovered UFO craft an...</span></span></span>
 
-
-<img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-dark.svg" | relative_url }}" alt="Access limits illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The access-versus-proof distinction
 
 A common reasoning error in UAP discussions is to treat insider status as proof.
 
 In practice, there are three separate questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -299,7 +295,6 @@ The third question remains the central issue. Independent verification requires 
 
 This is why supporters and sceptics often talk past one another. Supporters point to his credentials and programme access. Sceptics focus on the absence of publicly available evidence. Both observations can be true simultaneously.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VD0ZVbtbnfI" title="Archives of the Impossible conference | Flash Talk: Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer">Archives of the Impossible conference | Flash Talk: Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Rice Humanities and Arts &middot; Views: 13.4K &middot; Uploaded: June 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VD0ZVbtbnfI">Open on YouTube</a></p></div></div></div>
 
 ## Why classified access creates uncertainty rather than proof
@@ -307,7 +302,6 @@ This is why supporters and sceptics often talk past one another. Supporters poin
 An additional complication is that classified environments are difficult for outsiders to evaluate.
 
 When an official says information remains classified, the public cannot easily determine whether:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +322,6 @@ In Lacatski's case, much of the argument for recovered craft relies on an implie
 * therefore his recovered-[craft claim]({{ 'craft-claim/' | relative_url }}) is probably true.
 
 The first step is documented. The second is plausible. The third remains an inference rather than a demonstrated conclusion.
-
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-2-dark.svg" | relative_url }}" alt="Access limits illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AARO's limits on AAWSAP claims
@@ -354,7 +347,6 @@ For credibility assessment, it is useful to separate verified facts from unresol
 
 **Claims made by Lacatski and collaborators**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The United States possesses a craft of unknown origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yogaesoteric.net">[yogaesoteric.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yogaesoteric.net</span><span class="citation-popover-snippet">1,579 0. In a recent interview, Dr. James...Read more...</span></span></span>
@@ -379,9 +371,7 @@ For credibility assessment, it is useful to separate verified facts from unresol
 
 These unresolved questions are precisely why verified access cannot be treated as proof.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LIGywfeBmUc" title="71. Connecting Alzheimer&#x27;s, Cows, and Mutilations - with COLM A. KELLEHER (Part 1-2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LIGywfeBmUc" target="_blank" rel="noopener noreferrer">71. Connecting Alzheimer&#x27;s, Cows, and Mutilations - with COLM A. KELLEHER (Part 1-2)</a></p><p class="youtube-embed-meta">Channel: Eric Norcross</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LIGywfeBmUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LIGywfeBmUc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-dark.svg" | relative_url }}" alt="Access limits illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_verified_access_limi_09c80a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Lacatski's credibility
 
 Lacatski's documented government role distinguishes him from many figures in UFO culture whose claims rest primarily on anecdote or self-described insider status. His AAWSAP involvement is a genuine credential and a legitimate reason to take his statements seriously enough to examine.
@@ -390,91 +380,45 @@ At the same time, credibility and proof are not the same thing. His verified acc
 
 For readers assessing James Lacatski, the most defensible position is therefore a narrow one: his government access is well supported, but the strongest recovered-[craft claims]({{ 'craft-claim/' | relative_url }}) remain unverified in public evidence. Until independent corroboration emerges, those claims remain assertions from a documented insider rather than established facts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gxreSxkvETI" title="Barack Obama Asked if Aliens Were in Government Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer">Barack Obama Asked if Aliens Were in Government Lab</a></p><p class="youtube-embed-meta">Channel: Inside Edition</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gxreSxkvETI">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Where does Lacatski&#x27;s verified access stop?. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for Where does Lacatski&#x27;s verified access stop?, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Helps distinguish testimony from proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
-        
-        <p class="fr-book-desc">Provides another insider-access narrative for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
-        
-        <p class="fr-book-desc">Directly tied to the claims being evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
-        <p class="fr-book-desc">Establishes the documented programme background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the U.S. Government Covert UFO Program</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -511,15 +455,15 @@ For readers assessing James Lacatski, the most defensible position is therefore 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand â€“ George Adamski â€“ Alien Saucer Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +471,15 @@ For readers assessing James Lacatski, the most defensible position is therefore 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +487,15 @@ For readers assessing James Lacatski, the most defensible position is therefore 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +503,15 @@ For readers assessing James Lacatski, the most defensible position is therefore 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +519,7 @@ For readers assessing James Lacatski, the most defensible position is therefore 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="access-limits-where-does-lacatski-s-verified-access-stop-james-lacatski-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-lacatski-s-verified-access-stop-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-does-lacatski-s-verified-access-stop-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -790,94 +734,94 @@ For readers assessing James Lacatski, the most defensible position is therefore 
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/](https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWho is JAMES LACATSKI, the government official who...Dr. Jim Lacatski claims the U.S. is in possession of a recovered UFO craft an...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17d48oh/who_is_james_lacatski_the_government_official_who/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who is JAMES LACATSKI, the government official who...Dr. Jim Lacatski claims the U.S. is in possession of a recovered UFO craft an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: yogaesoteric.net  
-   Link: [https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/](https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/)  
+   Link: <a href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1,579 0. In a recent interview, Dr. James...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and private...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/](https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Dive Into Dr. Jim Lacatski&#x27;s AAWSAP UAP DisclosuresRemember, he did not only file this inertia negating device, he also filed a fusi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/](https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1) · r/UFOs - He Ran The Pentagon&#x27;s...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/](https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski, a former intelligence officer in charge of AAWSAP/.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/](https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/)  
+   Link: <a href="https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2024/03/08/no-ufo-aliens-pentagon-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostPentagon report finds no evidence of alien visits, hidden...8 Mar 2024 — The AARO investigators found no evidence to...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880](https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — The two instigators of AAWSAP came to believe that paranormal event...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/8NewsNOW/posts/dr-james-lacatski-proposed-designed-and-managed-the-largest-us-government-funded/1316337927194434/](https://www.facebook.com/8NewsNOW/posts/dr-james-lacatski-proposed-designed-and-managed-the-largest-us-government-funded/1316337927194434/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookDr. James Lacatski proposed, designed, and managed the...” He says they documented non-human technology, including a recovered c...</p></details>
+   Link: <a href="https://www.facebook.com/8NewsNOW/posts/dr-james-lacatski-proposed-designed-and-managed-the-largest-us-government-funded/1316337927194434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/dr-james-lacatski-proposed-designed-and-managed-the-largest-us-government-funded/1316337927194434/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski proposed, designed, and managed the...” He says they documented non-human technology, including a recovered c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: podme.com  
-   Link: [https://podme.com/se/avsnitt/1590197/](https://podme.com/se/avsnitt/1590197/)  
+   Link: <a href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/se/avsnitt/1590197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP) was o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEWSMAX/posts/ufo-expert-jeremy-corbell-unpacks-whats-been-revealed-about-uaps-and-alien-techn/1530291189143478/](https://www.facebook.com/NEWSMAX/posts/ufo-expert-jeremy-corbell-unpacks-whats-been-revealed-about-uaps-and-alien-techn/1530291189143478/)  
+   Link: <a href="https://www.facebook.com/NEWSMAX/posts/ufo-expert-jeremy-corbell-unpacks-whats-been-revealed-about-uaps-and-alien-techn/1530291189143478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/ufo-expert-jeremy-corbell-unpacks-whats-been-revealed-about-uaps-and-alien-techn/1530291189143478/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Jeremy Corbell unpacks what&#x27;s been revealed...￼ Speculative or unproven: ❌ Claims of alien bodies, recovered spacecraft, or s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program](https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program)  
+   Link: <a href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanna know kW what we learned with the largest publicly acknowledged funded Federal UFO Program? Its here.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scrippsnews.com  
    Title: pentagon finds no evidence of extraterrestrial activity or coverups  
-   Link: [https://www.scrippsnews.com/science-and-tech/space/pentagon-finds-no-evidence-of-extraterrestrial-activity-or-coverups](https://www.scrippsnews.com/science-and-tech/space/pentagon-finds-no-evidence-of-extraterrestrial-activity-or-coverups)  
+   Link: <a href="https://www.scrippsnews.com/science-and-tech/space/pentagon-finds-no-evidence-of-extraterrestrial-activity-or-coverups" target="_blank" rel="noopener noreferrer nofollow">https://www.scrippsnews.com/science-and-tech/space/pentagon-finds-no-evidence-of-extraterrestrial-activity-or-coverups</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds no evidence of extraterrestrial activity or...8 Mar 2024 — A comprehensive report sorted through claims, sightings, and c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: abebooks.com  
-   Link: [https://www.abebooks.com/9798989114610/Government-Covert-UFO-Program-Initial/plp](https://www.abebooks.com/9798989114610/Government-Covert-UFO-Program-Initial/plp)  
+   Link: <a href="https://www.abebooks.com/9798989114610/Government-Covert-UFO-Program-Initial/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9798989114610/Government-Covert-UFO-Program-Initial/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Initial Revelations” digs deeply into the behind-the-scenes activity of the biggest and most far-reaching United States Government cover...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229](https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Covert UFO Program goes beyond the rise and fall of AAWSAP and the general.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/](https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/)  
+   Link: <a href="https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His longtime collaborator Eric Davis previously alleged that the recovered non-human...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM](https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM)  
+   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program/dp/B0CKP3YQRM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ulously researched exploration of covert UFO programs within the US government.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR](https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR)  
+   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>est and most far-reaching United States Government covert UFO program in...Read more...</p></details>

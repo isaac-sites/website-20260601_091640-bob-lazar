@@ -25,7 +25,7 @@ sidebar_expanded_urls:
 - /transparency/
 nav_short_title: Disclosure model
 title: The transparency process critics wanted instead
-title_full: The transparency process critics wanted instead | Transparency
+title_full: The transparency process critics wanted instead
 display_title_short: Disclosure model
 display_title: Disclosure model
 heading_title: The transparency process critics wanted instead
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can The Public Trust A Classified Review? | Kirkpatrick
+parent_title: Can The Public Trust A Classified Review?
 parent_permalink: /transparency/
 parent_nav_short_title: Transparency
 parent_heading_title: Can The Public Trust A Classified Review?
@@ -253,7 +253,7 @@ next_link:
   permalink: /independence/
   short_title: Independence
   heading_title: Could AARO investigate its own system?
-date: '2026-06-09 02:58:10 '
+date: '2026-06-11 21:04:31 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1.webp
@@ -262,20 +262,18 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclo
 
 ## Introduction
 
-One of the most important [transparency]({{ 'transparency/' | relative_url }}) disputes surrounding [Sean Kirkpatrick]({{ 'did-sean-kirkpatrick-debunk-ufo/' | relative_url }})’s tenure at the All-domain Anomaly Resolution Office (AARO) was not about whether AARO reached the correct conclusions. It was about what process should be trusted when investigating long-running allegations of hidden UAP programmes.
-
+One of the most important [transparency]({{ 'transparency/' | relative_url }}) disputes surrounding Sean Kirkpatrick’s tenure at the All-domain Anomaly Resolution Office (AARO) was not about whether AARO reached the correct conclusions. It was about what process should be trusted when investigating long-running allegations of hidden UAP programmes.
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1-dark.svg" | relative_url }}" alt="Disclosure model illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Critics argued that AARO’s historical review was fundamentally an internal government investigation that concluded there was no evidence of recovered non-human technology, extraterrestrial craft, or secret reverse-engineering programmes. [Supporters]({{ 'supporters-0a40e4/' | relative_url }}) viewed that conclusion as the most authoritative assessment yet because AARO had access to classified records and special-access oversight channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TND/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1509887314509188/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Department of War on Friday released “never-before ...The U.S</span><span class="citation-popover-snippet">Department of Defense (DoD)&#x27;s All-domain Anomaly Resolution Office released a report on March 8 detailing its review of nearly 80 years ....</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 The Schumer–Rounds UAP Disclosure Act offered a different model. Rather than asking the public to accept an internal review, it proposed a records-collection system, an independent review board, and a legal presumption of eventual disclosure through the National Archives. For many critics of AARO, that framework addressed a different question: not whether investigators found evidence, but whether the underlying records could be independently examined and preserved for future scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Y2bgOuNeok" title="Leader Schumer &amp; Senators Rounds, Heinrich, Young Release Bipartisan Roadmap for AI Policy in Senate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Y2bgOuNeok" target="_blank" rel="noopener noreferrer">Leader Schumer &amp; Senators Rounds, Heinrich, Young Release Bipartisan Roadmap for AI Policy in Senate</a></p><p class="youtube-embed-meta">Channel: Senator Chuck Schumer &middot; Views: 753 &middot; Uploaded: May 2024 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Y2bgOuNeok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Y2bgOuNeok">Open on YouTube</a></p></div></div></div>
 
 ## How the proposed records collection differed from AARO
 
-AARO’s historical review was designed as an investigative assessment. The office examined government records, interviewed witnesses, reviewed classified and unclassified material, and produced a public report concluding that it had found no verifiable evidence supporting claims of extraterrestrial technology or concealed government possession of such technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TND/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1509887314509188/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Department of War on Friday released “never-before ...The U.S</span><span class="citation-popover-snippet">Department of Defense (DoD)&#x27;s All-domain Anomaly Resolution Office released a report on March 8 detailing its review of nearly 80 years ....</span></span></span>(https://www.facebook.com/TND/posts/the-department-of-war-on-friday-released-never-before-seen-files-on-unidentified/1509887314509188/) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
+AARO’s historical review was designed as an investigative assessment. The office examined government records, interviewed witnesses, reviewed classified and unclassified material, and produced a public report concluding that it had found no verifiable evidence supporting claims of extraterrestrial technology or concealed government possession of such technology. [U.S. Department of War+2The Guardian]
 
 The Schumer–Rounds proposal approached the issue differently. Instead of focusing primarily on a government office reaching a conclusion, it sought to create a legally mandated UAP Records Collection under the National Archives. Federal agencies would have been required to identify and transfer relevant records into a central archive, with disclosure becoming the default expectation unless specific exemptions justified continued secrecy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</span></span></span>
 
@@ -287,7 +285,6 @@ This distinction mattered to critics because the two systems answered different 
 Even after the final 2024 legislation was narrowed from the original Senate proposal, Congress still required creation of a UAP records collection and directed agencies to identify and organise relevant records for transmission to the National Archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For transparency advocates, that archival requirement represented a structural safeguard that did not depend on trust in any single office, director, or administration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pat1Wluomqw" title="Senator Schumer pushes to declassify UFO documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pat1Wluomqw" target="_blank" rel="noopener noreferrer">Senator Schumer pushes to declassify UFO documents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 41.1K &middot; Uploaded: July 2023 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pat1Wluomqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pat1Wluomqw">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,6 @@ Critics of Kirkpatrick frequently argued that AARO’s institutional location in
 
 The disagreement was therefore less about evidence than about governance.
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-2-dark.svg" | relative_url }}" alt="Disclosure model illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What disclosure could and could not prove
 
@@ -321,7 +317,6 @@ If extensive archives were released and contained no evidence supporting major a
 
 The key point is that the disclosure model was designed to create a process whose results could be independently inspected. Whether those results ultimately supported believers, sceptics, or neither side remained an open question.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z8a0P617nqw" title="&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer">&#x27;Major Win For Government Transparency&#x27;: Chuck Schumer And Mike Rounds Announce UAP Disclosure Act</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 37.6K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z8a0P617nqw">Open on YouTube</a></p></div></div></div>
 
 ## What the dispute means for assessments of Sean Kirkpatrick
@@ -334,90 +329,47 @@ As a result, critics could simultaneously accept that Kirkpatrick conducted a ge
 
 The lasting significance of the Schumer–Rounds proposal is that it reframed the controversy. Instead of asking only whether AARO found evidence of hidden programmes, it asked whether long-classified UAP records should be gathered, preserved, independently reviewed, and released whenever national-security justifications for secrecy no longer applied. That was the transparency process many of AARO’s critics believed was missing from an internal review alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">uaps and have a legal mandate to release those records to the public...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: young.senate.gov">[3Senate Democratic Leadership 3Senator Young(#endnote-4]</a><span class="citation-popover" role="note"><span class="citation-popover-source">young.senate.gov</span><span class="citation-popover-snippet">Senator YoungModeled After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNatio...</span></span></span> "Snippet: Senator YoungModeled After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNatio...")
 
-
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure model illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
+  <div class="fr-section-shell fr-section-shell-fallback">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to The transparency process critics wanted instead. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">No matched book cards were available for The transparency process critics wanted instead, so this fallback keeps a direct Amazon reading path visible.</p>
     </div>
-    <div class="fr-books-grid">
+    <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects to disclosure arguments built around testimony and government records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Topical books</p>
+      <h4 class="fr-search-title">UFO research books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        
-        <p class="fr-book-desc">Examines how classified records eventually become public and contested.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UFO sightings books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Offers historical context for debates over official investigations versus public access to records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Represents a structured evidence-oriented approach that disclosure advocates often reference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
+    <article class="fr-search-card">
+      <p class="fr-search-kicker">Related search</p>
+      <h4 class="fr-search-title">UAP books</h4>
+      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+        Search Amazon
+      </a>
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,15 +406,15 @@ The lasting significance of the Schumer–Rounds proposal is that it reframed th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Government : Alfred Kubin : 1901 : Archival Art Print"><img src="https://i.ebayimg.com/images/g/yF0AAOSw1wtnGV1x/s-l225.jpg" alt="Listing image for Government : Alfred Kubin : 1901 : Archival Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Government : Alfred Kubin : 1901 : Archival Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +422,15 @@ The lasting significance of the Schumer–Rounds proposal is that it reframed th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hawker Hunter; The Graceful Fighter: Specially Selected Photographic Prints"><img src="https://i.ebayimg.com/images/g/7L4AAeSwwjdpY4uc/s-l225.jpg" alt="Listing image for Hawker Hunter; The Graceful Fighter: Specially Selected Photographic Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Hawker Hunter; The Graceful Fighter: Specially Selected Photographic Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +438,31 @@ The lasting significance of the Schumer–Rounds proposal is that it reframed th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Propaganda: Photographs from Soviet Archives - Holborn, Mark"><img src="https://i.ebayimg.com/images/g/ncMAAOSwHnxgjoDz/s-l225.jpg" alt="Listing image for Propaganda: Photographs from Soviet Archives - Holborn, Mark" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">Propaganda: Photographs from Soviet Archives - Holborn, Mark</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1822 American Government Chart – State &amp; Federal Powers, U.S. Civics History"><img src="https://i.ebayimg.com/images/g/H-UAAeSwJGdomXxI/s-l225.jpg" alt="Listing image for 1822 American Government Chart – State &amp; Federal Powers, U.S. Civics History" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">1822 American Government Chart – State &amp; Federal Powers, U.S. Civics History</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for government archive print">Search <span data-ebay-domain-label>eBay.co.uk</span>: government archive print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,7 +470,7 @@ The lasting significance of the Schumer–Rounds proposal is that it reframed th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="the-transparency-process-critics-wanted-instead-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=government+archive+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-transparency-process-critics-wanted-instead-government-archive-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="government archive print" data-ebay-reference="the-transparency-process-critics-wanted-instead-government-archive-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -718,152 +686,152 @@ The lasting significance of the Schumer–Rounds proposal is that it reframed th
 1. <a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — SECTION I: Introduction. This report represents Volum...</p></details>
    Published: March 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: democrats.senate.gov  
-   Link: [https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa](https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa)  
+   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...Jul 14, 2023 — The legislation introduced as an am...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadershipuap_amendment.pdf  
-   Link: [https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf)  
+   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic Leadershipuap_amendment.pdfMay 9, 2023 — 5. This title may be cited as the &#x27;&#x27;Unidentified Anoma-. 6 lous Phenomena Disc...</p></details>
    Published: May 9, 2023  
 
 4. <a id="endnote-4"></a>
    Source: young.senate.gov  
-   Link: [https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/](https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/)  
+   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator YoungModeled After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNatio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: [https://www.archives.gov/records-mgmt/uap-guidance](https://www.archives.gov/records-mgmt/uap-guidance)  
+   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The 2024 National Defense Authorization Act (Publ...</p></details>
    Published: May 2024  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z8a0P617nqw](https://www.youtube.com/watch?v=Z8a0P617nqw)  
+   Link: <a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8a0P617nqw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uaps and have a legal mandate to release those records to the public...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessThough AARO has found no evidence of extraterrestrial beings or technology to date, the office consi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Apr 24, 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/faqs](https://www.archives.gov/research/topics/uaps/faqs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Records CollectionThe National Archives and Records Administration (NARA) has records in its custody rel...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Senator Schumer pushes to declassify UFO documents  
-   Link: [https://www.youtube.com/watch?v=Pat1Wluomqw](https://www.youtube.com/watch?v=Pat1Wluomqw)  
+   Link: <a href="https://www.youtube.com/watch?v=Pat1Wluomqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pat1Wluomqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: [https://www.youtube.com/watch?v=VyK46wdMJkQ](https://www.youtube.com/watch?v=VyK46wdMJkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic [Senate Hearing](&amp;#123;&amp;#123; &#x27;senate-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on #UAP &amp; #AARO, Dr. Sean Kirkpatrick Testifies #EmergingThreats #Disclosure...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZoSZA7Meneg](https://www.youtube.com/watch?v=ZoSZA7Meneg)  
+   Link: <a href="https://www.youtube.com/watch?v=ZoSZA7Meneg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZoSZA7Meneg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lNiPCV6cAP4](https://www.youtube.com/watch?v=lNiPCV6cAP4)  
+   Link: <a href="https://www.youtube.com/watch?v=lNiPCV6cAP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lNiPCV6cAP4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leader Schumer &amp; Senators Rounds, Heinrich, Young Release Bipartisan Roadmap for AI Policy in Senate...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3Y2bgOuNeok](https://www.youtube.com/watch?v=3Y2bgOuNeok)  
+   Link: <a href="https://www.youtube.com/watch?v=3Y2bgOuNeok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Y2bgOuNeok</a>  
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens](https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens)  
+   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardianwhat if we've been lied to about UFOs?  
-   Link: [https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress](https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Alien life14 Jan 2024 —... disclosure for decades. Chuck Schumer. The original text of the UAP Disclosure Act was similar in that it p...</p></details>
+   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien life14 Jan 2024 —... disclosure for decades. Chuck Schumer. The original text of the UAP Disclosure Act was similar in that it p...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: intelligence.gov  
-   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   Link: <a href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence (ODNI) and the Depar...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nyujlpp.org  
-   Link: [https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf](https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf)  
+   Link: <a href="https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyujlpp.org/wp-content/uploads/2025/03/JLPP-27-2-Yang.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UAP DISCLOSURE ACTby A Yang — Press Release, Senate Democrats, Schumer, Rounds Introduce New Legislation to Declassify Government Rec...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: c-span.org  
-   Link: [https://www.c-span.org/clip/us-senate/user-clip-schumer-and-uap-disclosure-aaro/5098384](https://www.c-span.org/clip/us-senate/user-clip-schumer-and-uap-disclosure-aaro/5098384)  
+   Link: <a href="https://www.c-span.org/clip/us-senate/user-clip-schumer-and-uap-disclosure-aaro/5098384" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/us-senate/user-clip-schumer-and-uap-disclosure-aaro/5098384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>User Clip: Schumer and UAP disclosure (AARO) | VideoBIPARTISAN AMENDMENT TO INCLUDE INCREASED TRANSPARENCY ON UNIDENTIFIED ANOMALOUS PHEN...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: insidegovernmentcontracts.com  
-   Link: [https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)  
+   Link: <a href="https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of the Unidentified Anomalous Phenomena...Jan 9, 2024 — On December 22, 2023, President Biden signed into law the 2024 Nati...</p></details>
    Published: December 22, 2023  
 
 24. <a id="endnote-24"></a>
    Source: briantreese.medium.com  
-   Link: [https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449](https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449)  
+   Link: <a href="https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449" target="_blank" rel="noopener noreferrer nofollow">https://briantreese.medium.com/why-the-unidentified-anomalous-phenomena-uap-disclosure-act-of-2023-falls-far-short-of-its-16df8b5e4449</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Unidentified Anomalous Phenomena (UAP...The UAP Disclosure Act of 2023 was established with the clear intent to centralize and prese...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/the-senate-just-passed-its-massive-defense-bill-heres-what-that-means-for-uap-disclosure/](https://thedebrief.org/the-senate-just-passed-its-massive-defense-bill-heres-what-that-means-for-uap-disclosure/)  
+   Link: <a href="https://thedebrief.org/the-senate-just-passed-its-massive-defense-bill-heres-what-that-means-for-uap-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-senate-just-passed-its-massive-defense-bill-heres-what-that-means-for-uap-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Senate Just Passed Its Massive Defense Bill14 Dec 2023 — In this week&#x27;s newsletter, we look at the Senate&#x27;s recent passage of the NDA...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: defensescoop.com  
    Title: government records associated with reports of unidentified anomalous  
-   Link: [https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/](https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoopSenators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
+   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senators aim to set a mandatory timeline and process for...Jul 25, 2023 — The UAP Disclosure Act of 2023 to accelerate the d...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: governments civilian groups increase push for research and reporting  
-   Link: [https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/](https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/)  
+   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/governments-civilian-groups-increase-push-for-research-and-reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgGovernments, civilian groups increase push for research and...1 Dec 2024 — The Unidentified Anomalous Phenomena Integration and...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/828178678983076/posts/1402115054922766/](https://www.facebook.com/groups/828178678983076/posts/1402115054922766/)  
+   Link: <a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</p></details>
